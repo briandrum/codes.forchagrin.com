@@ -1,0 +1,107 @@
+---
+layout: page
+part_no: 1
+title_no: 3
+chapter_no: 111
+title: "Chapter 111: Council"
+---
+
+- [111.01   Regular meetings](#11101-regular-meetings)
+- [111.02   Special meetings](#11102-special-meetings)
+- [111.03   Agenda for Council meetings](#11103-agenda-for-council-meetings)
+
+## Cross references
+
+- Mayor’s attendance at meetings - see CHTR. Art. III, Sec. 5(b)
+- Composition and term - see CHTR. Art. IV, Sec. 1
+- Qualifications - see CHTR. Art. IV, Sec. 2
+- Organizational meeting- see CHTR. Art. IV, Sec. 3
+- President and President pro tem - see CHTR. Art. IV, Sec. 4
+- Removal and vacancy - see CHTR. Art. IV, Secs. 5, 6
+- Meetings, quorum and journal - see CHTR. Art. IV, Secs. 7
+- Powers and duties - see CHTR. Art. IV, Sec. 8
+- Employees - see CHTR. Art. IV, Sec. 10
+- Limitation on rate of taxation - see CHTR. Art. VIII, Sec. 2
+- Nominations and elections - see CHTR. Art. IX
+- Recall - see CHTR. Art. X, Sec. 2, 3
+- Fixation of salary, compensation and bonds - see CHTR. Art. XII, Sec. 5
+- Conflict of interest - see CHTR. Art. XII, Sec. 6
+
+## 111.01   Regular meetings
+
+Regular meetings of Council shall be held in the Village Hall at such time as
+established by Council, on the second and fourth Mondays of each and every
+calendar month, except that Council may cancel one of the monthly meetings, in
+its discretion. In the event there is no business to be considered by Council at
+the next regular meeting, the President of Council, upon notice to all other
+members of Council, the Mayor, Clerk of Council, Law Director and the Chief
+Administrative Officer, may cancel such meeting. Cancellation by the Council
+President shall be made no later than 4:00 p.m. on the Friday prior to the
+regularly scheduled Council meeting if cancellation was not declared at the last
+regular Council meeting.  
+(Ord. 2016-20. Passed 5-23-16.)
+
+## 111.02   Special meetings
+
+Special meetings of Council may be called by the Mayor, the President of Council
+or by any three members of Council by having the Clerk of Council serve written
+notice of the call of such meeting upon each member of Council, and upon the
+Mayor, in person or by delivering a copy thereof to the usual place of residence
+of such persons not less than twenty-four hours prior to the holding of such
+meeting. Such notice shall specify the time and place for the holding of such
+meeting.
+
+## 111.03   Agenda for council meetings
+
+The agenda for regular Council meetings of Council shall be set by the presiding
+officer conducting the meeting. The agenda shall be created by the Clerk of
+Council, at the direction of the President of Council, and Mayor, and
+distributed to the Mayor, Council, Chief Administrative Officer, and Law
+Director, along with any new legislation on the Friday preceding the regular
+meeting of Council. Upon the direction of the President of Council or the Mayor,
+an agenda for any special meeting of Council shall be set and delivered to all
+officials required to receive agendas for regular meetings of Council, and as
+soon as possible before any emergency meeting of Council. Members of the public
+wishing to speak to agenda items must advise the Clerk of Council of their
+intent to do so by noon on the day of the Council Meeting, and members of the
+public shall also be permitted to speak to any matter not to exceed five (5)
+minutes. Reports of the Mayor, Finance Director, Law Director, Chief
+Administrative Officer, Village Engineer, Police Chief and Fire Chief shall be
+presented at regular meetings of Council unless excused by the presiding
+officer.  
+(Ord. 2016-76. Passed 1-23-17.)
+
+---
+
+## Agenda - Chagrin Falls Council
+
+Date/Regular, Special or Adjourned Meeting/Time
+
+<p class="Markdown-list--1-A"></p>
+
+1. Moment of Silence/Pledge of Allegiance.
+2. Roll Call (Action Concerning Absentees).
+3. Reading and Disposal of Minutes.
+4. Mayor’s Report.
+5. Finance Director’s Report.
+6. Members of Public Speak to Agenda Items. (Not to Exceed Two (2) Minutes Per
+Person.)
+7. Law Directors’ Report
+   1. Legislative Docket  
+   Disposition of Legislation, Including Any Public Hearings on Legislation.
+   2. Administrative Docket  
+   Actions to Be Taken Upon Recommendations From the Board of Zoning Appeals.
+8. Council Committee Reports.
+9. Chief Administrative Officer’s Report.
+10. Engineer’s Report.
+11. Police Chief’s Report.
+12. Fire Chief’s Report.
+13. Members of Public Speak to Any Matter (Not to Exceed Five (5) Minutes).
+14. Miscellaneous.
+15. Adjournment.
+
+Time ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+---
+  
+(Ord. 2008-01.  Passed 3-24-08.)

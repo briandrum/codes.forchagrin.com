@@ -1,0 +1,24 @@
+# _config.yml
+
+# Build settings
+remote_theme: briandrum/optima
+
+plugins:
+ - jekyll-feed
+ - jekyll-remote-theme
+ - jekyll-seo-tag
+
+# Title & description: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+title: Codified Ordinances of Chagrin Falls, Ohio
+author:
+  name: Brian Drum
+  email: brian@drumforchagrin.com
+  twitter: drumforchagrin
+description: > # this means to ignore newlines until "show_excerpts:"
+  Codified Ordinances of Chagrin Falls, Ohio
+
+header_pages:
+  - index.md
+
+show_excerpts: false
+excerpt_separator: <!--more-->
