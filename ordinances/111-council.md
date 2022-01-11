@@ -29,17 +29,18 @@ title: "Chapter 111: Council"
 
 ## 111.01   Regular meetings
 
-Regular meetings of Council shall be held in the Village Hall at such time as
-established by Council, on the second and fourth Mondays of each and every
-calendar month, except that Council may cancel one of the monthly meetings, in
-its discretion. In the event there is no business to be considered by Council at
-the next regular meeting, the President of Council, upon notice to all other
-members of Council, the Mayor, Clerk of Council, Law Director and the Chief
-Administrative Officer, may cancel such meeting. Cancellation by the Council
-President shall be made no later than 4:00 p.m. on the Friday prior to the
-regularly scheduled Council meeting if cancellation was not declared at the last
-regular Council meeting.  
-(Ord. 2016-20. Passed 5-23-16.)
+Regular meetings of Council shall be either held in the Village Hall, or held
+virtually, when determined by Council or the Council President to hold a virtual
+meeting, at such time as established by Council, on the second and fourth
+Mondays of each and every calendar month, except that Council may cancel one of
+the monthly meetings, at its discretion. In the event there is no business to be
+considered by Council at the next regular meeting, the President of Council,
+upon notice to all other members of Council, the Mayor, Clerk of Council, Law
+Director and the Chief Administrative Officer, may cancel such meeting.
+Cancellation by the Council President shall be made no later than 4:00 p.m. on
+the Friday prior to the regularly scheduled Council meeting if cancellation was
+not declared at the last regular Council meeting.  
+(Ord. 2022-01. Passed 2-28-22.)
 
 ## 111.02   Special meetings
 
