@@ -29,8 +29,6 @@ Municipality’s flatlands, hillsides necessitate different provisions for their
 development and their protection. The Hillside Protection Regulations are
 established to achieve, among others, the following objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To permit development on hillside areas while conserving and promoting
 the public health, safety, convenience and general welfare by minimizing
 disruption to slope stability, water run-off and soil erosion problems incurred
@@ -56,8 +54,6 @@ habitats in the Municipality.
 
 ## 1152.02   Definitions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Average percent slope."
           Average percent slope "S" is computed by the formula:
       S = 0.00229 I L
@@ -70,8 +66,6 @@ habitats in the Municipality.
 topographic surveys using a contour interval no greater than ten feet and a
 horizontal map scale of 1": 200′ or larger. The area of the zoning lot shall
 be used in this calculation.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Cut" means a portion of land surface or areas from which the earth
 has been removed or will be removed by excavation; the depth below the original
@@ -127,8 +121,6 @@ to determine whether the proposed action is governed by provisions of this
 chapter and whether a hillside protection permit is required for a parcel or
 part of a parcel.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The average percent slope shall be calculated, and this information
 shall be supplied by the applicant at the time of filing of the application
 with the Municipality.
@@ -149,8 +141,6 @@ phase permit will be issued.
 ## 1152.04   Required hillside control measures, standards and plans
 
      The owner/developer shall comply with the following provisions:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Pre-Construction Record. A photographic record shall be filed with
 the Administrator prior to any building, grading or clearing activity on the
@@ -311,8 +301,6 @@ chapter. 
      The following hold harmless provisions pertain to any construction or any
 earth moving activities permitted by the administration of this chapter:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Limited Obligation. Compliance with the procedures of this chapter
 and the issuance of any related permits shall not be construed to impose any
 legal obligation upon the Municipality or its elected or appointed officials.
@@ -327,8 +315,6 @@ property in question or to adjoining property.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1152.06   Administration and enforcement
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Administration and Enforcement. As prescribed in Chapter 1109 of the Planning and Zoning Code.
 2. _(b)_ Additional Site Inspections. Additional site inspections shall be

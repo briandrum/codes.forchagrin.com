@@ -42,8 +42,6 @@ certain violations - see Ohio R.C. 4507.16, 4507.34
 
 ## 303.01   Compliance with lawful order of police officer; fleeing
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall fail to comply with any lawful order or direction of
 any police officer invested with authority to direct, control or regulate 
 traffic.
@@ -82,8 +80,6 @@ license, permit, or privilege required by this subsection.
 
 ## 303.02   Traffic direction in emergencies; obedience to school guard
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Police officers shall direct or regulate traffic in accordance with
 the provisions of this Traffic Code, provided that, in the event of fire or
 other emergency or to expedite traffic or safeguard pedestrians, they are
@@ -117,8 +113,6 @@ proof of ownership.
 (ORC 4549.05)
 
 ## 303.04   Road workers, motor vehicles and equipment  excepted
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The provisions of this Traffic Code do not apply to persons, teams,
 motor vehicles, and other equipment while actually engaged in work upon the
@@ -154,8 +148,6 @@ maintenance vehicle, equipment, or materials to and from a work location.
 (ORC 4511.04)
 
 ### 303.041   Emergency, public safety and coroner’s vehicles exempt
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Ohio R.C. 4511.12, 4511.13, 4511.131, 4511.132, 4511.14, 4511.202,
 4511.21, 4511.211, 4511.22, 4511.23, 4511.25, 4511.26, 4511.27, 4511.28,
@@ -195,8 +187,6 @@ inapplicable.
 
 ## 303.06   Freeway use prohibited by pedestrians, bicycles and animals
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, unless otherwise directed by a police officer, shall:
     1. _(1)_ As a pedestrian, occupy any space within the limits of the right-
 of-way of a freeway, except:  in a rest area; on a facility that is separated
@@ -235,8 +225,6 @@ specific exceptions as are set forth with reference to authorized emergency and
 public safety vehicles.
 
 ## 303.08   Impounding of vehicles; redemption
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Police officers are authorized to provide for the removal of a vehicle
 under the following circumstances:
@@ -308,8 +296,6 @@ offense within one year after the first offense, the person is guilty of a
 misdemeanor of the third degree.
 
 ### 303.081   Impounding vehicles on private residential or agricultural property
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. The Chief of Police upon complaint of any person adversely
@@ -437,8 +423,6 @@ misdemeanor.
 (ORC 4513.60)
 
 ### 303.082   Private tow-away zones
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The owner of a private property may establish a private tow-away zone,
 but may do so only if all of the following conditions are satisfied:
@@ -672,8 +656,6 @@ vehicle for proper identification.
 
 ## 303.10   Providing false information to police officer
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall knowingly present, display or orally communicate a
 false name, social security number or date of birth to a law enforcement
 officer who is in the process of issuing to the person a traffic ticket or
@@ -684,8 +666,6 @@ degree.
 (ORC 4513.361)
 
 ## 303.99   General code penalty
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ General Misdemeanor Classifications. Whoever violates any provision
 of this Traffic Code for which violation no penalty is otherwise provided, is
@@ -706,8 +686,6 @@ Minor             No imprisonment     150.00
 (ORC 2929.24; 2929.28)
 
 ### 303.991   Committing an offense while distracted penalty
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section and each section of the Traffic Code where
 specified, all of the following apply:

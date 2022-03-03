@@ -34,8 +34,6 @@ prohibited.
 For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ “Alcohol”. Ethyl alcohol, whether rectified or diluted with water or
 not, whatever its origin may be, and includes synthetic ethyl alcohol. The term
 does not include denatured alcohol and wood alcohol.
@@ -127,8 +125,6 @@ Ohio R.C. 4301.01(B)(3), the term does not include cider.
 
 ## 529.02   Sales to and use by underage persons; securing public accommodations
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Except as otherwise provided in this chapter or Ohio R.C. Chapter 4301, no person shall sell beer or intoxicating liquor to an underage person,
 or shall buy beer or intoxicating liquor for an underage person, or shall
 furnish it to, an underage person, unless given by a physician in the regular
@@ -207,8 +203,6 @@ less than five hundred dollars ($500.00).
 
 ### 529.021   Purchase, consumption or possession by minor; misrepresentation
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Except as otherwise provided in this chapter or Ohio R.C. Chapter 4301, no person under the age of twenty-one years shall purchase beer or
 intoxicating liquor.  
 (ORC 4301.63)
@@ -277,8 +271,6 @@ shall perform.
 
 ## 529.03   Sales to intoxicated persons
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No permit holder and no agent or employee of a permit holder shall
 sell or furnish beer or intoxicating liquor to an intoxicated person.  
 (ORC 4301.22)
@@ -287,8 +279,6 @@ degree.
 (ORC 4301.99)
 
 ## 529.04   Liquor consumption in motor vehicle
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall consume any beer or intoxicating liquor in a motor
 vehicle. This section does not apply to persons described in Section 529.07(d).  
@@ -314,8 +304,6 @@ years.
 
 ## 529.05   Permit required
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person personally or by the person’s clerk, agent or employee shall
 manufacture, manufacture for sale, offer, keep or possess for sale, furnish or
 sell, or solicit the purchase or sale of any beer or intoxicating liquor in
@@ -328,8 +316,6 @@ Liquor Control and in force at the time.
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.
 
 ## 529.06   Low-alcohol beverages:  sale to and purchase by underage persons prohibited
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section, "underage person" means a person under
 eighteen years of age.
@@ -379,8 +365,6 @@ public work shall be completed.
 (ORC 4301.99)
 
 ## 529.07   Open container prohibited
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section:
     1. _(1)_ “Chauffeured limousine” means a vehicle registered under Ohio R.C.
@@ -596,8 +580,6 @@ subsequently opened or tampered with after sealing.
 (ORC 4301.99(A))
 
 ## 529.08   Hours of sale or consumption
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ This rule shall apply to the retail sale of beer, wine, mixed
 beverages, or spirituous liquor.

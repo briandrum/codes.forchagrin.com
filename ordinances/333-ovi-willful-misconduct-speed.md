@@ -32,8 +32,6 @@ vehicle.
 
 ## 333.01   Driving or physical control while under the influence; evidence
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_
     1. Operation Generally. No person shall operate any vehicle within
 this Municipality, if, at the time of the operation, any of the following
@@ -831,8 +829,6 @@ equivalent to division (A)  or (B) of Ohio R.C. 4511.19.
 
 ## 333.02   Reckless operation; willful misconduct
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall operate a vehicle on any street or highway without due
 regard for the safety of persons or property.
 2. _(b)_ No person shall operate a vehicle on any public or private property
@@ -868,8 +864,6 @@ privilege from the range specified in division (A)(5) of Ohio R.C. 4510.02.
 (ORC 4510.15)
 
 ## 333.03   Maximum speed limits; assured clear distance ahead
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall operate a motor vehicle at a speed greater or less
 than is reasonable or proper, having due regard to the traffic, surface and
@@ -1089,8 +1083,6 @@ the offender is subject to the additional fine established under Section 303.991
 
 ### 333.031   Approaching a stationary public safety, emergency or road service vehicle
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The driver of a motor vehicle, upon approaching a stationary public
 safety vehicle, emergency vehicle, road service vehicle, waste collection
 vehicle, vehicle used by the Public Utilities Commission to conduct motor
@@ -1150,8 +1142,6 @@ liability offense.
 
 ## 333.04   Stopping vehicle; slow speed; posted minimum speeds
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall stop or operate a vehicle at such an unreasonably slow
 speed as to impede or block the normal and reasonable movement of traffic,
 except when stopping or reduced speed is necessary for safe operation or to
@@ -1181,8 +1171,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.22)
 
 ## 333.05   Speed limitations over bridges
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall operate a vehicle over any bridge or other elevated
 structure constituting a part of a street at a speed which is greater then the
@@ -1223,8 +1211,6 @@ using the street or highway.
 
 ## 333.07   Street racing prohibited
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ As used in this section, “street racing” means the operation of two or
 more vehicles from a point side by side at accelerating speeds in a competitive
 attempt to out-distance each other or the operation of one or more vehicles
@@ -1250,8 +1236,6 @@ permit, or privilege imposed under this subsection.
 
 ## 333.08   Operation in violation of immobilization order
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall operate a motor vehicle or permit the operation of a
 motor vehicle upon any public or private property used by the public for
 vehicular travel or parking knowing or having reasonable cause to believe that
@@ -1265,8 +1249,6 @@ degree.
 (ORC 4503.236)
 
 ## 333.09   Electronic wireless communications device regulations
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Definitions. As used in this section:
     1. _(1)_ “Electronic wireless communications device” means a portable

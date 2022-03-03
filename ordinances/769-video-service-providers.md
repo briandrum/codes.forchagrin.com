@@ -10,8 +10,6 @@ title: "Chapter 769: Video Service Providers"
 
 ## 769.01   Fee
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ In accordance with the requirements of Ohio R.C. 1332.32, and subject
 to its taking effect, all video service providers providing video service in
 the Village pursuant to a video service authorization obtained from the

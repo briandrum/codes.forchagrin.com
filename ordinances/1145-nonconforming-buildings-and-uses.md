@@ -19,8 +19,6 @@ title: "Chapter 1145: Nonconforming Buildings and Uses"
 
 ## 1145.01   Intent
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Within the districts established by this Planning and Zoning Code and
 amendments thereto or amendments that may later be adopted, buildings, lots and
 uses of buildings and land prevail which were lawful before this Code was
@@ -47,8 +45,6 @@ building or other structure, use intended or other regulations of the district
 in which it is located, is a lawful nonconforming building. or other structure.
 Such building or other structure may continue to be occupied or used so long as
 it remains otherwise lawful, subject to the following provisions:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Maintenance and Repair. A nonconforming building or other structure
 may continue to be used, maintained and repaired, provided however no
@@ -92,8 +88,6 @@ Code became effective, but which does not conform to the use regulations,
 including the sign regulations, of the district in which it is located, is a
 nonconforming use of a building and may be continued so long as it remains
 otherwise lawful, subject to the following provisions:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Change of Use. The nonconforming use of a building may only be changed
 to a conforming use. Thereafter, it shall not be changed back to the former
@@ -151,8 +145,6 @@ or dimension regulations of the district in which it is located is a
 nonconforming use of land, and such use may be continued so long as it remains
 otherwise lawful, subject to the following provisions:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Expansion of Use. The nonconforming use of a lot, or part thereof,
 shall not be expanded or extended onto other parts of the lot.
 2. _(b)_ Discontinuance of Use. If the nonconforming use of a lot, or part
@@ -182,8 +174,6 @@ width and area requirements by not more than ten percent (10%).
 
 ## 1145.05   Nonconforming use due to reclassification
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The foregoing provisions of this chapter shall also apply to the
 buildings, structures, and or other uses hereafter becoming nonconforming as a
 result of reclassification of districts or of other amendments made to this
@@ -196,8 +186,6 @@ and uses.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1145.06   Change from nonconforming use
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A nonconforming building or use shall cease to be considered as such
 whenever it complies with the requirements of the district in which it is

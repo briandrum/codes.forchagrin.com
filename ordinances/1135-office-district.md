@@ -25,8 +25,6 @@ title: "Chapter 1135: Office District"
 development appropriately designed and located to achieve, among others, the
 following objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To provide opportunities for local employment;
 2. _(b)_ To stimulate the local economy and to generate local tax revenues; and
 3. _(c)_ To limit retail sales and retail services so as to prevent a decline
@@ -44,8 +42,6 @@ lot provided that such grouping shall comply with the requirements of this
 District. Buildings and land shall be used by right for only the main and
 accessory uses set forth below.  
 (Ord. 2019-39. Passed 8-13-19.)
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Main Uses.
     1. _(1)_ Office Buildings.
@@ -98,8 +94,6 @@ and further provided that such use occupies no more than twenty-five percent
 In an Office District, land and structures shall be developed and maintained
 in accordance with the following height regulations.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Buildings:  40 feet maximum.
 2. _(b)_ Accessory Structures: 15 feet maximum for accessory structures.
 3. _(c)_ Exceptions to Height Limitations: Rooftop mechanical equipment as
@@ -118,8 +112,6 @@ provided that such uses conform to applicable regulations of this Planning and
 Zoning Code. Other accessory buildings structures and uses are permitted in
 setbacks only in accordance with the setback regulations of subsection (b)
 hereof.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Yards. The minimum setback from a lot line to a main building shall be
 as set forth below:

@@ -36,8 +36,6 @@ zoning certificates, building permits and occupancy permits, as further
 regulated in the Building Code. Specifically, the purposes and relationships of
 these Municipal authorizations are as set forth below:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Subdivision Approvals. Subdivision approvals are required in order to
 certify that proposed lots comply with the Planning and Zoning Code and other
 applicable Municipal ordinances and requirements prior to consideration of an
@@ -62,8 +60,6 @@ grading and excavation in preparation for such activity shall be commenced
 prior to the granting of the required authorization. Questions regarding
 applicability should be directed to the Administrator prior to commencement of
 activity.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Subdivision Approval Required. Subdivision of land to create one or
 more additional recorded lots or to alter lot lines.
@@ -91,8 +87,6 @@ uses in full compliance with the Planning and Zoning Code, Building Code and
 other applicable municipal ordinances and requirements. Furthermore, permits
 and certificates shall be issued in accordance with the following conditions:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Actions by Municipality. No zoning certificate, building permit or
 occupancy permit shall be issued prior to granting of required variances by the
 Board of Zoning Appeals (see Chapter 1111 ), determinations of similar use, as applicable, by the Planning and
@@ -114,8 +108,6 @@ following regulations. Each application shall be signed by the applicant and
 submitted along with two paper copies and an electronic copy, unless otherwise
 required by the Administrator. Each application for a Zoning Certificate shall
 contain the elements listed below.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Narrative Information.
     1. _(1)_ Name, mailing address electronic mail address and telephone number
@@ -165,8 +157,6 @@ permits in Part Thirteen - Building Code.
      The following procedures are established to govern the review and approval
 process regarding applications for subdivision approvals, zoning certificates,
 building permits and occupancy permits.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Acceptance by Administrator.  The Administrator shall promptly review
 each application submitted to determine whether all required information has
@@ -379,8 +369,6 @@ Council or any board or commission of the Municipality.
 altered by changing circumstances, the following regulations are established
 governing the expiration of certificates and permits.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Zoning Certificates. Zoning Certificates are issued as a prerequisite
 to issuance of a building permit or occupancy permit, as required. If neither
 the building permit nor occupancy permit, as required, has been issued within
@@ -400,8 +388,6 @@ filing and inspection costs.
 
      The following regulations are established to ensure adequate and equitable
 enforcement of the provisions of this Planning and Zoning Code.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Inspections.
     1. _(1)_ Subsequent to the issuance of a building permit, the Administrator
@@ -475,8 +461,6 @@ for consultant services and the advertising, court reporting and transcribing
 costs and conducting of hearings. No application shall be officially accepted
 and dated until all required fees and deposits have been paid.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Fees. Council may establish fees for applications for subdivisions,
 zoning certificates, building permits, occupancy permits, variances,
 interpretations of the Code, and requests for rezoning.
@@ -493,8 +477,6 @@ be returned to the applicant.
   
 
 ## 1109.09   Public hearing notifications and hearings
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Notifications. Where required by the Ohio Revised Code or the
 Planning and Zoning Code, public hearings shall be scheduled, and notice

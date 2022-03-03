@@ -30,8 +30,6 @@ No person shall conduct or operate any public dance or public dance hall
 within the Municipality except in conformity with the provisions of this
 chapter. As used in this chapter:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Public dance" means any dance or entertainment at which dancing is
 permitted which is open to the general public or at which a charge is made for
 admission or  attendance.

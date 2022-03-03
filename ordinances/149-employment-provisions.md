@@ -58,8 +58,6 @@ shall be dependent upon formal recommendation of the Director and discretion of
 the Mayor. Any employee whose job performance is satisfactory may be advanced
 within the series of steps in his or her assigned pay range as follows:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ From Step A through advancement of Step E, employees in all ranges may
 be advanced to the next higher step after one year of satisfactory service at
 each step. The decision to award or withhold a step increase shall be based on
@@ -79,8 +77,6 @@ accordance with this section.
 (Ord. 1986-65. Passed 12-22-86.)
 
 ## 149.02   Clothing allowance for police and fire employees
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Every regular members of the Police Department and every part-time
 member of the Police Department who works on a regularly scheduled basis shall
@@ -131,8 +127,6 @@ Mayor, to each new police hire.
 
 ## 149.03   Police overtime and call-in pay
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Ever regular full-time or part-time member of the Police Department,
 except the Chief of Police, shall be entitled to receive additional
 compensation for all time in excess of one hundred sixty (160) hours in any
@@ -177,8 +171,6 @@ personnel.
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.06   Overtime
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Full-Time Employees. 
     1. _(1)_ Finance Department and Public Service Department. Every regular
@@ -274,8 +266,6 @@ After 25                     1,200
 
 ## 149.08   Jury duty and military pay
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Jury Duty. All Village employees called to jury duty are entitled to
 a leave of absence from their respective duties for such time as they are on
 jury duty but not exceeding fifteen days in any calendar year. Required jury
@@ -302,8 +292,6 @@ allowances of whatever nature, including longevity pay, shall be considered. 
 (Ord. 1996-40. Passed 7-8-96.)
 
 ## 149.09   Committee meetings
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Village employees who attend meetings during other than normal working
 hours for the purpose of taking minutes shall be paid at a rate of thirty
@@ -339,8 +327,6 @@ employee’s regular scheduled hours at straight time.
 
 ## 149.11   Vacations
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All full-time employees of the Municipality shall be entitled to two
 weeks vacation after one full year of service, three weeks vacation after five
 consecutive years of service, four weeks vacation after ten consecutive years
@@ -361,8 +347,6 @@ the Municipality is given.
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.12   Sick leave
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Every permanent full-time employee of the Municipality shall be
 entitled to receive a credit of one and one-fourth days per month for sickness,
@@ -404,8 +388,6 @@ in this State.
 (Ord. 1996-87. Passed 12-9-96.)
 
 ## 149.13   Travel and other expense allowances
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Mayor is hereby authorized to establish and enforce a policy for
 the reimbursement of travel and other expenses to employees which are incurred
@@ -487,8 +469,6 @@ and procedures, in accordance with Ohio law, to perform the “employer pick-up�
 of employee contributions to the Ohio Public Employee Retirement System
 (“OPERS”) and the Police and the Ohio Police and Fire Pension (“OP&F”):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ For the categories of Village employees listed in subsection (b)
 hereof, the contributions required to be made by each such employee to the
 OPERS or OP&F, whichever is applicable, as an employee contribution under Ohio
@@ -569,8 +549,6 @@ psychologist selected and paid by the Village.
 (Ord. 1996-40. Passed 7-8-96.)
 
 ## 149.23   Payment of part-time police officers at construction projects; regulation of part-time employment of police officers
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Director of Finance is authorized to make payments at the same
 regular hourly rate of full-time police officers to part-time police officers

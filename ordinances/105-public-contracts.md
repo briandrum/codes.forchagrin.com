@@ -20,8 +20,6 @@ Except for property in the possession of the Police Department, which is
 subject to other provisions of law, all personal property owned by the Village
 and not needed for municipal purposes shall be disposed of as follows:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Council shall, by motion passed by majority vote, declare all or any
 portion of such property to be surplus and not needed for Village purposes.
 2. _(b)_ Such property may be sold, donated, recycled or otherwise disposed-
@@ -30,8 +28,6 @@ majority vote, shall determine.
 (Ord. 2013-29. Passed 5-13-13.)
 
 ## 105.02   Professional design services; public works
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Definitions.
     1. _(1)_ "Professional Design Firm" means any person, firm or corporation
@@ -64,8 +60,6 @@ and abilities in the manner it deems most suitable. (Ord. 2013-29. Passed 5-
 13-13.)
 
 ## 105.03   Contract procedures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Proper Authorization. No contract, or an amendment or a change order
 to a contract, shall be enforceable against the Village unless it has been duly

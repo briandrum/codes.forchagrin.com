@@ -36,8 +36,6 @@ Small cell design guidelines - see S.U. & P.S. Ch. 
 
 ## 941.01   Overview and purpose; definitions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The purpose of this Chapter is to:
     1. _(1)_ Provide standards for the construction, installation, modification,
 operation, and removal of Facilities and Wireless Support Structures in the
@@ -176,8 +174,6 @@ Chapter 941 shall have the meaning set forth, if any, in Substitute House Bill
 
 ## 941.02   Consent required
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any person or entity seeking to Collocate a Small Cell Facility in the
 Right-of-Way, or to construct, maintain, modify, operate, or replace a Wireless
 Support Structure in the Right-of-Way, shall first file a written Application
@@ -201,8 +197,6 @@ title.
 
 Applicants shall classify their Application as one of the following types:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Type 1: Eligible Facilities Requests.
 2. _(b)_ Type 2:  Application for Collocation of Small Cell Equipment on a
 Wireless Support Structure that does not constitute an Eligible Facilities
@@ -218,8 +212,6 @@ the Application is or is not for a Small Wireless Facility.
 (Ord.  2019-10. Passed 1-14-19.)
 
 ## 941.04   Consolidated consent applications
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Pursuant to O.R.C. Section 4939.0312, an Applicant may file one
 consolidated application for up to thirty (30) individual small cell Facilities
@@ -245,8 +237,6 @@ in a consolidated application pursuant to Section 941.04(a) shall not apply to a
 
 ## 941.05   Application fee
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The fee for each application is Two Hundred Fifty Dollars ($250.00).
 The Village shall adjust the fee by ten percent (10%) every five years, rounded
 to the nearest Five Dollars ($5.00), beginning in the year 2023.
@@ -258,8 +248,6 @@ consolidated Application.
 (Ord.  2019-10. Passed 1-14-19.)
 
 ## 941.06   Attachment fee
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ In addition to the Application Fee, an annual fee shall be paid to the
 Village for each Small Cell Facility attached to a municipally-owned Wireless
@@ -275,8 +263,6 @@ collocation is complete.
 ## 941.07   Required application materials
 
 The Applicant must submit the following documentation with each Application.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Completed Application form including the identity, legal status and
 federal tax identification number of the Applicant, as well as all affiliates
@@ -336,8 +322,6 @@ will be the end-user of the Facilities.
 (Ord.  2019-10. Passed 1-14-19.)
 
 ## 941.08   Application review
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Applications shall be evaluated in the timeframes as follows:
     1. _(1)_ Type 1 Applications    60 days
@@ -408,8 +392,6 @@ welfare requirements.
 
 ## 941.09   Permitting process, duration, and termination
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Upon approval of its Application, an Applicant shall receive a Small
 Cell Use Permit indicating that the Village has granted the Applicant consent
 to occupy the Right-of-Way.
@@ -453,8 +435,6 @@ Facilities Operator upon termination of the permit.
 (Ord.  2019-10. Passed 1-14-19.)
 
 ## 941.10   Annual registration
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ All Facilities Operators with consent to occupy or use the Right-of-
 Way shall register with the Village each calendar year between January 1 and
@@ -502,8 +482,6 @@ Operator has notice of the need for such change.
 
 ## 941.11   Nonconforming facilities
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Facilities in the Right-of-Way that are legally in existence on the
 date of the adoption of this Chapter but that do not comply with the
 requirements of this Chapter may remain in the Right-of-Way but shall be
@@ -516,8 +494,6 @@ Chapter, the Design Guidelines established in Chapter 943, and state and federal
 (Ord.  2019-10. Passed 1-14-19.)
 
 ## 941.12   Abandoned and damaged facilities
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A Facilities Operator shall provide written notice to the Village of
 its intent to discontinue use of any Facilities. The notice shall include the
@@ -535,8 +511,6 @@ Facilities Operator.
 (Ord.  2019-10. Passed 1-14-19.)
 
 ## 941.13   Insurance requirements
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As a condition of the Village’s consent to occupy the Right-of-Way, a
 Facilities Operator must secure and maintain the following liability insurance
@@ -600,8 +574,6 @@ Right-of-Way.
 
 ## 941.15   Financial surety
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Each Facilities Operator must procure and provide to the Village a
 bond, escrow, deposit, letter of credit, or other financial surety to ensure
 compliance with this Chapter and Chapter 4939 of the Ohio Revised Code. The
@@ -627,8 +599,6 @@ or Planning Commission.
 
 ## 941.17   Removal or relocation of facilities
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Consistent with O.R.C. Section 4939.08, the Village may require a
 Facilities Operator to remove or relocate Facilities to accomplish construction
 and maintenance activities. The Facilities Operator shall remove or relocate
@@ -644,8 +614,6 @@ improperly.
 (Ord.  2019-10. Passed 1-14-19.)
 
 ## 941.18   Notice of work
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A Facilities Operator shall notify the Chief Administrative Officer of
 all nonemergency work within ten (10) calendar days prior to performing any
@@ -671,8 +639,6 @@ the Village’s interests and the purposes and intent of this Chapter.
 (Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.99   Penalties; equitable remedies
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Any Applicant or Operator or other person or entity acting as the
 agent of an Applicant or Operator who is found guilty of violating, disobeying,

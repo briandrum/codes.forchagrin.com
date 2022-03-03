@@ -35,8 +35,6 @@ permit.
 
 ## 339.01   Oversize or overweight vehicle operation on state routes; state permit
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall operate or move a vehicle or combination of vehicles
 of a size or weight of vehicle or load exceeding the maximum specified in Ohio
 R.C. 5577.01 to 5577.09, inclusive, or otherwise not in conformity with Ohio
@@ -67,8 +65,6 @@ penalty is provided is guilty of a minor misdemeanor.
 
 ## 339.02   Use of local streets; local permit and conditions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The Mayor, or his authorized representative, with respect to streets
 and highways under jurisdiction of the Municipality may, in his discretion,
 upon application in writing and good cause being shown therefor, issue a
@@ -92,8 +88,6 @@ person shall violate any of the terms or conditions of such permit.
 (ORC 4513.33, 4513.34; Ord.  1957-420. Passed 12-28-57.)
 
 ## 339.03   Maximum width, height and length
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No vehicle shall be operated upon the public highways, streets,
 bridges and culverts within the Municipality, whose dimensions exceed those
@@ -218,8 +212,6 @@ followed, shall immediately adopt and pursue such route.
 
 ## 339.05   Wheel protectors
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall drive or operate, or cause to be driven or operated,
 any commercial car, trailer or semitrailer, used for the transportation of
 goods or property, the gross weight of which, with load, exceeds three tons,
@@ -242,8 +234,6 @@ of the rearmost axle.
 
 ## 339.06   Vehicles transporting explosives
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any person operating any vehicle transporting explosives upon a street
 or highway shall at all times comply with the following requirements:
     1. _(1)_ Such vehicle shall be marked or placarded on each side and on the
@@ -260,8 +250,6 @@ points on such vehicle.
 (ORC 4513.99)
 
 ## 339.07   Towing requirements
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ When one vehicle is towing another vehicle, the drawbar or other
 connection shall be of sufficient strength to pull all weight towed thereby,
@@ -310,8 +298,6 @@ be a motor vehicle.
 
 ## 339.08   Loads dropping or leaking; removal required; tracking mud
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No vehicle shall be driven or moved on any street, highway or other
 public place unless such vehicle is so constructed, loaded or covered as to
 prevent any of its load from dropping, sifting, leaking or otherwise escaping
@@ -341,8 +327,6 @@ other public place to immediately remove the same or cause it to be removed.
 
 ## 339.09   Shifting load; loose loads
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ In addition to any other lawful requirements of load distribution, no
 person shall operate any vehicle upon a street or highway unless such vehicle
 is so laden as to prevent its contents from shifting or otherwise unbalancing
@@ -362,8 +346,6 @@ misdemeanor of the third degree.
 
 ## 339.10   Vehicles with spikes, lugs and chains
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall drive over the improved streets of this Municipality a
 traction engine or tractor with tires or wheels equipped with ice picks, spuds,
 spikes, chains or other projections of any kind extending beyond the cleats, or
@@ -378,8 +360,6 @@ by any form of engine, motor or mechanical power.
 (ORC 5589.99)
 
 ## 339.11   Use of studded tires and chains
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ For purposes of this section, "studded tire" means any tire designed
 for use on a vehicle, and equipped with metal studs or studs of wear-resisting
@@ -403,8 +383,6 @@ immediate vicinity thereof.
 (ORC 5589.99)
 
 ## 339.12   Equipment and lighting requirements generally
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Busses, trucks, commercial tractors, trailers, semitrailers and pole
 trailers, respectively, when operated upon any street or highway, shall be
@@ -431,8 +409,6 @@ motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 
 ## 339.13   Equipment required at night
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall operate any motor truck, bus or commercial tractor
 upon any highway at any time from a half hour after sunset to a half hour
@@ -467,8 +443,6 @@ motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 
 ## 339.14   Display of warning devices on disabled vehicles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whenever any motor truck, bus, commercial tractor, trailer, semi-
 trailer or pole trailer is disabled upon the traveled portion of any highway or
@@ -529,8 +503,6 @@ misdemeanor of the third degree.
 
 ## 339.15   Use of farm trucks
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall use a farm truck on any public street or highway for
 commercial purposes or for any purpose other than exclusively in farm use.  
 (Ord. 1957-420. Passed 12-28-57.)
@@ -544,8 +516,6 @@ motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 
 ## 339.16   Restricted through truck traffic
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ All vehicular trucks, excepting those specifically excluded from this
 section as set forth in subsection (d) hereof, not intending to discharge cargo

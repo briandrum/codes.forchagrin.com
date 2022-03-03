@@ -30,8 +30,6 @@ title: "Chapter 1350: Satellite Signal Receiving Stations"
 In addition to the provisions of the intent stated in Section 1105.03, it is the intent of these regulations to ensure the following health,
 safety and aesthetic objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To limit interference with natural sunlight and the circulation of
 air and to preserve space for trees and other plants;
 2. _(b)_ To minimize the potential of dish antennas to block views, impair
@@ -62,8 +60,6 @@ receiving signals related to communications for satellite transmissions.
 ## 1350.03   Permit not required
 
 A permit is not required for the following types of dish antennas:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Satellite dish antennas that are one meter (39 inches) or less in
 diameter may be located in any residential zoning district subject to the
@@ -116,8 +112,6 @@ Any owner who desires to construct or erect a satellite dish-type earth
 station may apply to the Administrator for the permit as required by this
 Chapter.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Narrative Information.
     1. _(1)_ The applicant shall submit the permit application upon forms
 provided by the Administrator.
@@ -162,8 +156,6 @@ review the application for compliance with Chapter 1146.
 
 ## 1350.06   Location of satellite dish earth station
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To the maximum extent feasible, no earth station shall be erected in
 any front or side yard or within ten feet of any lot line.
 2. _(b)_ An earth station may be secured to a side wall, rear wal1 or roof of
@@ -178,8 +170,6 @@ of the premises is operating pursuant to a franchise granted by the Village.
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.07   Earth station support structures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Only metal support, galvanized construction or equal thereto shall be
 allowed.
@@ -219,8 +209,6 @@ structure shall not exceed thirteen feet from natural grade level.
 
 ## 1350.10   Screening; lettering; color
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The dish shall be screened so as to permanently shield most of the
 structure from view from adjoining properties and public rights of way,
 pursuant to the guideline of Section 1142.06 (b) of the Zoning Code.
@@ -238,8 +226,6 @@ support structures and appurtenances and removed from the property.
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.12   Limitations
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Only one dish antenna of any type shall be permitted for each
 dwelling unit.

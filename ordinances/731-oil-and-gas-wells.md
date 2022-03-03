@@ -26,8 +26,6 @@ Oil and gas wells - see Ohio R.C. Ch. 1509
 
 The objectives of this chapter are:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To provide regulations which assure the safety of all residents and
 visitors to the Village; and 
 2. _(b)_ To assure that all areas of the Village are protected from the
@@ -36,8 +34,6 @@ used in the drilling of and production from such wells. 
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.02   Application requirements; review and permit procedures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Requisites for Permit. No person, firm, association or corporation,
 known as the applicant, shall commence to drill, operate or change the
@@ -138,8 +134,6 @@ submitted, or as amended by the applicant.
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.03   Development standards
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Minimum Tract. No permit shall be issued on a tract of less than
 twenty acres. If a larger tract is required by the Rules and Regulations of the
@@ -257,8 +251,6 @@ a radius of 100 feet around any oil tank or tanks, or producing wells. 
 
 ## 731.04   Operational standards
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ On-Site.
     1. _(1)_ Noise levels.
         1. _(A)_ Drilling operations shall be controlled, by double exhausts, or
@@ -322,8 +314,6 @@ leakproof.
 
 ## 731.05   Future development adjacent to well and storage sites
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No buildings for human occupancy shall be constructed on a well site
 except in compliance with the distances from the well and storage equipment
 specified in Section 731.03(b).
@@ -341,8 +331,6 @@ and landscape features. 
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.06   Administration
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Permits for On-Site Connections. Any use or activity on the well
 site of a gas or oil well which proposes to connect gas or oil lines directly
@@ -430,8 +418,6 @@ reference as part of this chapter. 
 
 The following words and phrases shall have the meaning set forth herein
 unless the context clearly indicates otherwise:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_  "Division of Oil and Gas" means the State of Ohio Department of
 Natural Resources Division of Oil and Gas. 

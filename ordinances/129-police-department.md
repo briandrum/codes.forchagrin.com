@@ -46,8 +46,6 @@ A Police Department is hereby established for the Municipality.
 
 ## 129.02   Composition of department
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The Police Department shall consist of a Chief of Police and such
 other positions as authorized by ordinance of Council, including:
     1. _(1)_ Full-time Regular Patrol Officers. Full-time Regular Patrol
@@ -95,8 +93,6 @@ appointment of the Mayor, except as otherwise indicated herein.
 
 ## 129.03   Probationary and original appointments; appointment  requirements for full-time regular patrol officers
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All Full-Time Regular Patrol Officers shall be appointed for a
 probationary period of six months full-time continuous service, and no such
 appointment shall be deemed permanent until any such patrol officer has
@@ -138,8 +134,6 @@ Police Department.
 (Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.04   Application, examination and evaluation of candidates
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ For every open position in the Police Department, the Chief of Police
 shall create an Application for Appointment, and shall make such Application
@@ -194,8 +188,6 @@ public safety, traffic control or public welfare. Such written agreements
 shall be approved by the Mayor and Director of Law and shall contain, among
 others, the following provisions:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Such patrol officers shall be specifically assigned to duty by and
 under control of the Police Chief, and shall at all times be considered as
 being on official police duty.
@@ -225,8 +217,6 @@ without jeopardizing the safety and welfare of Chagrin Falls residents and
 property. (Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.08   Parking enforcement unit
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Composition. The Parking Enforcement Unit within the Police
 Department is hereby established. The Parking Enforcement Unit shall be

@@ -46,8 +46,6 @@ Members of the Commission shall serve without compensation.
 
 The Cemetery Commission shall have the power to:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Study, investigate, plan, advise, report and recommend to Council, the
 Mayor and the Chief Administrative Officer any action, program, plan,
 improvements, regulations or legislation which the Commission finds or

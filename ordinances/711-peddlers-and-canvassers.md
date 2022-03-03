@@ -39,8 +39,6 @@ Village’s residents. 
 
 As used in this chapter:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Canvasser" means traveling from residence to residence within the
 Village without having a previous appointment to visit the residence or
 residences visited, for the purpose of disseminating any lawful message, either
@@ -58,8 +56,6 @@ Canvasser.
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.03   License required, exceptions
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No Peddler may peddle within the Village without holding a valid
 license issued by the Chief of Police. A separate license shall be obtained for
@@ -79,8 +75,6 @@ regarding whether the Village is aware that such activity is occurring. 
 
 Each applicant for a Peddler’s license shall furnish the Chief of Police
 with the following information on forms provided by the Village:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Name, age and physical description of the applicant and provide a
 valid photographic identification card;
@@ -111,8 +105,6 @@ submitted with each application provided for herein.
 The Chief of Police shall issue a license to the applicant unless it is
 determined:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The applicant has made a false, misleading or deceptive statement in
 providing the information required under Section 711.04;
 2. _(b)_ The applicant has been convicted of a felony violation, a misdemeanor
@@ -131,8 +123,6 @@ Such license shall be valid for a period not to exceed six (6) months.
 
 Every person who wishes to peddle or canvass in the Village shall be
 governed by the following rules and regulations:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall peddle or canvass except between the hours of 9:00
 a.m. and the later of sunset or 9 P.M.
@@ -160,8 +150,6 @@ been invited upon the premises by the occupant thereof. 
 
 A license issued under this chapter shall be revoked by the Chief of Police
 for any of the following causes:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ It is subsequently determined that the licensee provided false,
 misleading or deceptive information in completing the application form set

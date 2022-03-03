@@ -28,8 +28,6 @@ title: "Chapter 1142: Landscaping Regulations"
      It is the intent of these regulations to achieve, among others, the
 following purposes.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To ensure that the open areas on developed lots are attractively
 landscaped and maintained.
 2. _(b)_ To ensure that residential areas are adequately screened and buffered
@@ -56,8 +54,6 @@ retained wherever feasible.
 
 ## 1142.04   Street trees
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ General. A grass-covered strip of land at least seven feet in width
 shall be provided and maintained contiguous to each property in a location
 between the sidewalk (where one exists or is proposed), and the curb or
@@ -74,8 +70,6 @@ Administrator, in order to encourage the clustering of trees. 
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.05   Parking areas
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Perimeter Planting. A continuous landscaped strip of evergreen shrubs
 planted at intervals of not more than five feet on centers and at initial
@@ -98,8 +92,6 @@ exceeds eight spaces in length.
 certain lot lines separating uses which are not fully compatible. The location
 and nature of such perimeter screens shall be in accordance with the following
 regulations.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Location of Screen. A perimeter planted screen shall be provided along
 the following lot lines:
@@ -134,8 +126,6 @@ exchanges, communication related boxes and telephone terminal boxes located in
 any district except Industrial Districts shall be governed by the following
 landscaping and fencing regulations.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Landscaping. Utility uses shall be substantially screened from view by
 evergreen shrubbery and/or trees, as approved by the Administrator. Such
 landscaping shall not be required along a lot line bordering an Industrial
@@ -161,8 +151,6 @@ a vertical height band two and one-half to six feet above curb level.
      All landscaping required by this Chapter 1142 shall be maintained in good condition and, when necessary, shall be
 replaced with landscaping comparable to the landscaping required by the
 approved landscape plan in accordance with the following:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Any tree, shrub, or bush, due to its condition, shall be replaced, at
 a minimum, with a tree, shrub, or bush that is comparable to the type and

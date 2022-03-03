@@ -30,8 +30,6 @@ heat, light and cleaning expenses.
 The following regulations shall apply to all organizations using the
 building:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Alcoholic beverage usage is prohibited.
 2. _(b)_ Meeting rooms will be left in a neat and orderly fashion.
 3. _(c)_ One member of each organization shall be held responsible for
@@ -46,8 +44,6 @@ Building.
 
 All requests for the use of the building shall be by written application
 made to the Finance Department and shall include the following information:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Name of organization;
 2. _(b)_ Purpose of use of building;

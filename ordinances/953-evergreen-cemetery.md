@@ -38,8 +38,6 @@ Department of Finance for information concerning current costs and fees.
 
 ## 953.01   Definitions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Village" shall mean the Village of Chagrin Falls, its employees,
 Cemetery Commission Members and duly authorized representatives.
 2. _(b)_ "Owner" shall mean the owner of rights of interment or inurnment.
@@ -66,8 +64,6 @@ any memorial or monument and performing any work on the Cemetery grounds.
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 953.02   General
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Village shall take reasonable responsible precaution to protect
 owners and the property rights of owners within the Cemetery from loss or
@@ -112,8 +108,6 @@ Evergreen Hill Cemetery is provided for the residents of the Village of
 Chagrin Falls. All sales or purchases of graves and crypts must be made through
 the office of the Cemetery Clerk for purpose of record. All purchases of graves
 and crypts must be purchased from the Village at the prevailing rate.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A nontransferable Right to Bury form will be issued by the Village to
 each purchaser of a grave. For a deceased resident who has a Trust, the Trust
@@ -160,8 +154,6 @@ their devisee, or next of kin in the case of intestate succession. 
 (Ord. 2019-28. Passed 3-25-19.)
 
 ### 953.031   Purchase of columbarium niches
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The purchase of a Right to Bury for a niche is a final sale and
 nonexchangeable. It cannot, for any reason, be transferred, exchanged, or
@@ -239,8 +231,6 @@ validity as an ordinance, and a current version shall be on file in the office
 of the Chief Administrative Officer.
 BURIAL PROCEDURES:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The owner shall produce their Right to Bury form.
 2. _(b)_ There will be no burials on Sundays or Village holidays as listed in
 Codified Ordinance Section 149.10.
@@ -267,8 +257,6 @@ permitted other than caskets, vaults, and urns.
 (Ord. 2017-14. Passed 3-13-17.)
 
 ## 953.05   Grave markers
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No burial shall be made in a Village owned cemetery without provision
 being made for the permanent marking of the grave or crypt.
@@ -312,8 +300,6 @@ The following costs will be charged by the Cemetery. The Owner is
 responsible for any and all additional costs that may be charged by Contractors
 involved in the service.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_  BURIALS
  
               Weekday
@@ -345,8 +331,6 @@ marker.
 (Ord. 2019-23. Passed 2-26-19.)
 
 ## 953.08   Indigent burial policy
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_  A person requesting indigent burial funds from the Village of
 Chagrin Falls shall complete and submit the City’s Application for Indigent
@@ -386,8 +370,6 @@ municipality, the provisions of the Ohio Revised Code shall control.
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 953.09   Violation of rules and regulations
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_  No person shall violate any rule or regulation adopted and recorded
 by the Chief Administrative Officer or the Cemetery Commission, with respect to

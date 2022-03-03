@@ -57,8 +57,6 @@ consistent with his office as the Mayor or Council may request.
 
 ## 123.05   Prosecutor
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Prosecutor. There is hereby established the position of Prosecutor,
 who shall be an Assistant Director of Law, and who shall be appointed by the
 Mayor, subject to confirmation by a majority vote of all members elected to

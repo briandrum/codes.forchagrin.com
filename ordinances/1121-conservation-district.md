@@ -17,8 +17,6 @@ title: "Chapter 1121: Conservation District"
      In addition to the applicable provisions of the intent stated in Section 1105.03, the Conservation District shall be applied only to publicly owned land
 and is established for the following objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To preserve and protect the values of distinctive geologic,
 topographic, botanic, historic or scenic areas;
 2. _(b)_ To preserve and protect wildlife habitats;
@@ -32,8 +30,6 @@ recreation that are compatible with the other objectives of the District.
 
      In a Conservation District, buildings and land shall be used by right for
 only the main and accessory uses set forth below.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Main Uses.
     1. _(1)_ Forestry.
@@ -58,8 +54,6 @@ maintained in accordance with area, yard and height regulations authorized by
 the Planning and Zoning Commission. Such authorization shall be based on a site
 plan as required in Section 1109.04 and the following:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The objectives of Section 1121.01;
 2. _(b)_ The Development Standards set forth in Section 1121.04; and
 3. _(c)_ Recommendations from the Administrator, Municipal Engineer and other
@@ -70,8 +64,6 @@ Municipal officers as applicable.
 
      In the Conservation District, land and structures shall be developed and
 maintained in accordance with the following standards:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The preservation and appropriate management of all timber shall be
 encouraged.

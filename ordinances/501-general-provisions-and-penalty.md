@@ -34,8 +34,6 @@ title: "Chapter 501: General Provisions and Penalty"
 
 As used in the Codified Ordinances:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Force" means any violence, compulsion or constraint physically
 exerted by any means upon or against a person or thing.
 2. _(b)_ "Deadly force" means any force that carries a substantial risk that it
@@ -237,8 +235,6 @@ which the State Board of Education prescribes minimum standards under Ohio R.C.
 
 As used in the Codified Ordinances:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Offenses include misdemeanors of the first, second, third and fourth
 degree, minor misdemeanors and offenses not specifically classified.
 2. _(b)_ Regardless of the penalty that may be imposed, any offense
@@ -257,8 +253,6 @@ R.C. 2929.28.
 
 ## 501.03   Common law offenses abrogated
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No conduct constitutes a criminal offense against the Municipality
 unless it is defined as an offense in the Codified Ordinances or any other
 Municipal ordinance.
@@ -271,8 +265,6 @@ judgment or decree.
 (ORC 2901.03)
 
 ## 501.04   Rules of construction
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Except as otherwise provided in subsection (c) hereof, sections of the
 Codified Ordinances defining offenses or penalties shall be strictly construed
@@ -297,8 +289,6 @@ or specified, a substantially equivalent offense.
 (ORC 2901.04)
 
 ## 501.05   Criminal law jurisdiction
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A person is subject to misdemeanor prosecution and punishment in this
 Municipality if any of the following occur:
@@ -373,8 +363,6 @@ meaning as in Ohio R.C. 2913.01.
 
 ## 501.06   Limitation of criminal prosecution
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Except as otherwise provided in this section, a prosecution shall be
 barred unless it is commenced within the following periods after an offense is
 committed:
@@ -446,8 +434,6 @@ Municipal income tax ordinance.
 
 ## 501.07   Requirements for criminal liability
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Except as provided in subsection (b) hereof, a person is not guilty of
 an offense unless both of the following apply:
     1. _(1)_ The person’s liability is based on conduct that includes either a
@@ -496,8 +482,6 @@ resulting from the ingestion of alcohol, a drug, or alcohol and a drug.
 
 ## 501.08   Culpable mental states
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A person acts purposely when it is the person’s specific intention to
 cause a certain result, or when the gist of the offense is a prohibition
 against conduct of a certain nature, regardless of what the offender intends to
@@ -536,8 +520,6 @@ element.
 
 ## 501.09   Attempt
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, purposely or knowingly, and when purpose or knowledge is
 sufficient culpability for the commission of an offense, shall engage in
 conduct that, if successful, would constitute or result in the offense.
@@ -574,8 +556,6 @@ in Ohio R.C. 2925.01.
 
 ## 501.10   Complicity
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, acting with the kind of culpability required for the
 commission of an offense, shall do any of the following:
     1. _(1)_ Solicit or procure another to commit the offense;
@@ -609,8 +589,6 @@ section, or in terms of the principal offense.
 (ORC 2923.03)
 
 ## 501.11   Organizational criminal liability
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ An organization may be convicted of an offense under any of the
 following circumstances:
@@ -652,8 +630,6 @@ governmental agency for the execution of a governmental program.
 
 ## 501.12   Personal accountability for organizational conduct
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ An officer, agent or employee of an organization as defined in Section 501.11 may be prosecuted for an offense committed by such organization, if he
 acts with the kind of culpability required for the commission of the offense,
 and any of the following apply:
@@ -668,8 +644,6 @@ is subject to the same penalty as if he had acted in his own behalf.
 (ORC 2901.24)
 
 ## 501.13   Conspiracy
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, with purpose to commit or to promote or facilitate the
 commission of aggravated murder, murder, kidnapping, abduction, compelling
@@ -791,8 +765,6 @@ R.C. 2925.01.
 (ORC 2923.01)
 
 ## 501.99   Penalties for misdemeanors
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Financial Sanctions. In addition to imposing court costs pursuant to
 Ohio R.C. 2947.23, the court imposing a sentence upon an offender for a

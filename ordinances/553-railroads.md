@@ -24,8 +24,6 @@ title: "Chapter 553: Railroads"
 
 ## 553.01   Obstructing streets by railroad companies
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_
     1. No railroad company shall obstruct or permit or cause to be
 obstructed a public street, road or highway by permitting a railroad car,
@@ -62,8 +60,6 @@ degree and shall be fined one thousand dollars ($1,000).
 
 ### 553.011   Obstructing streets by abandoning the locomotive
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No railroad company shall obstruct, or permit or cause to be
 obstructed, a public street, road, or highway, by permitting any part of a
 train whose crew has abandoned the locomotive to remain across it for longer
@@ -81,8 +77,6 @@ degree and shall be fined five thousand dollars ($5,000).
 
 ## 553.02   Climbing upon railroad cars
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall climb, jump, step or stand upon or cling or attach
 himself to a locomotive, engine or car upon the track of a railroad, unless in
 compliance with law or by permission under the rules of the corporation
@@ -91,8 +85,6 @@ managing such railroad.
 (ORC 4999.02)
 
 ## 553.03   Duties of locomotive engineer
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person in charge of a locomotive shall fail to bring the locomotive
 to a full stop at least 200 feet before arriving at a crossing with another

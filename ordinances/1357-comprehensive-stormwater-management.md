@@ -35,8 +35,6 @@ title: "Chapter 1357: Comprehensive Stormwater Management"
 
 ## 1357.01   Purpose and scope 
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The purpose of this regulation is to establish technically feasible
 and economically reasonable stormwater management standards to achieve a level
 of stormwater quality and quantity control that will minimize damage to
@@ -95,8 +93,6 @@ Comprehensive Stormwater Management. 
 
 For the purpose of this regulation, the following terms shall have the
 meaning herein indicated:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Acre: A measurement of area equaling 43,560 square feet.
 2. _(b)_ As-built survey: A survey shown on a plan or drawing prepared by a
@@ -296,8 +292,6 @@ similar areas (40 CFR 232, as amended).
 
 ## 1357.03   Disclaimer of liability
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Compliance with the provisions of this regulation shall not relieve
 any person from responsibility for damage to any person otherwise imposed by
 law. The provisions of this regulation are promulgated to promote the health,
@@ -309,8 +303,6 @@ design, installation, and operation and maintenance of SCMs.
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.04   Conflicts, severability, nuisances and responsibility
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Were this regulation is in conflict with other provisions of law or
 ordinance, the most restrictive provisions, as determined by the Village
@@ -331,8 +323,6 @@ resulting therefrom.
 
 ## 1357.05   Development of comprehensive stormwater management plans
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ This regulation requires that a Comprehensive Stormwater Management
 Plan be developed and implemented for all soil disturbing activities disturbing
 one (1) or more acres of total land, or less than one (1) acre if part of a
@@ -351,8 +341,6 @@ Management Plan. 
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.06   Application procedures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Pre-Application Meeting:  The applicant shall attend a Pre-Application
 Meeting with the Village Engineer to discuss the proposed project, review the
@@ -407,8 +395,6 @@ not limited to, those listed below. Applicants are required to show proof of
 compliance with these regulations before the Village of Chagrin Falls will
 issue a building or zoning permit.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Ohio Environmental Protection Agency (Ohio EPA) National Pollutant
 Discharge Elimination System (NPDES) Permits authorizing stormwater discharges
 associated with construction activity or the most current version thereof:
@@ -452,8 +438,6 @@ Ohio Dam Safety Law is not applicable. 
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.08   Comprehensive stormwater management plan
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Comprehensive Stormwater Management Plan Required:  The applicant
 shall develop a Comprehensive Stormwater Management Plan describing how the
@@ -674,8 +658,6 @@ number. 
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.09   Performance standards
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ General:  The stormwater system, including SCMs for storage, treatment
 and control, and conveyance facilities, shall be designed to prevent structure
@@ -1253,8 +1235,6 @@ Engineer.
 
 ## 1357.10   Alternative actions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ When the Village of Chagrin Falls determines that site constraints
 compromise the intent of this regulation, off-site alternatives may be used
 that result in an improvement of water quality and a reduction of stormwater
@@ -1286,8 +1266,6 @@ Access to SCMs as required by the Village Engineer for inspections and
 maintenance shall be secured by easements. The following conditions shall
 apply to all easements:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Easements shall be included in the Inspection and Maintenance
 Agreement submitted with the Comprehensive Stormwater Management Plan. 
 2. _(b)_ Easements shall be approved by the Village of Chagrin Falls prior to
@@ -1314,8 +1292,6 @@ removed by the Village of Chagrin Falls at the property owners’ expense.
 To receive final inspection and acceptance of any project, or portion
 thereof, the following must be completed by the applicant and provided to the
 Village Engineer:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Final stabilization must be achieved and all permanent SCMs must be
 installed and made functional, as determined by the Village Engineer and per
@@ -1363,8 +1339,6 @@ for providing these services.
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.15   Bond
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ If a Comprehensive Stormwater Management Plan is required by this
 regulation, soil-disturbing activities shall not be permitted until a cash bond
@@ -1431,8 +1405,6 @@ Administrative Officer. 
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.99   Penalty
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Any person, firm, entity or corporation; including but not limited to,
 the owner of the property, his agents and assigns, occupant, property manager,

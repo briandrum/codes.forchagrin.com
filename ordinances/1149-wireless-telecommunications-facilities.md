@@ -24,8 +24,6 @@ Use of public ways for small cell facilities - see S.& P.S. Ch.
 In addition to the applicable provisions of the intent stated in Section 1105.03, it is the intent of these regulations to provide for the placement of
 wireless telecommunication facilities to achieve the following objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To minimize adverse health, safety, welfare, and visual impacts
 through the buffering, siting and design of such facilities.
 2. _(b)_ To encourage the sharing of sites among users to minimize the number
@@ -36,8 +34,6 @@ by amateur radio operators.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1149.02   Definitions
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Collocation" means the use of a wireless telecommunications facility
 by more than one wireless telecommunications provider.
@@ -73,8 +69,6 @@ including monopoles, guyed and lattice construction steel structures.
      In addition to the requirements of Chapter 1109, the following procedures are established to govern the processing of
 applications for placement and operation of wireless telecommunication
 facilities as regulated in this chapter.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ When a wireless telecommunications facility is proposed, the applicant
 shall submit:
@@ -163,8 +157,6 @@ the Planning and Zoning Commission.
 The following requirements apply to all wireless telecommunications
 facilities regardless of the zoning district in which they are to be located.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Wireless telecommunications facilities that include towers must be
 located in a non- residential district unless the applicant presents
 substantial evidence as to why it is not technically feasible or why a location
@@ -208,8 +200,6 @@ the maximum extent possible.
 
      Wireless telecommunications facilities are subject to the following
 conditions:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Minimum Lot Size.  The area needed to accommodate the tower (and guy
 wires, if used), the equipment shelter, security fencing, buffer planting, and
@@ -255,8 +245,6 @@ the lien with the Cuyahoga County Recorder.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1149.07   Supplemental regulations
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The location of the tower and equipment shelter shall comply with all
 natural  resource protection standards including Chapter 1144, Environmental Performance  Regulations, and, Chapter 1152, Hillside Protection.

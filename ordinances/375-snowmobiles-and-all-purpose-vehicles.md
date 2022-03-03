@@ -26,8 +26,6 @@ certain violations - see Ohio R. C. 4519.47
 For purposes of this chapter, the following terms shall have the meanings
 respectively ascribed to them in this section:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Operate" means to ride in or on and to control the operation of a
 snowmobile and all purpose vehicle in any manner.
 2. _(b)_ "Snowmobile" means any self-propelled vehicle designed for travel
@@ -48,8 +46,6 @@ the public, as a matter of right, for purposes of vehicular traffic.
 (Ord. 1972-860. Passed 3-21-72.)
 
 ## 375.02   Operation
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall operate a snowmobile and any all purpose vehicle:
     1. _(1)_  Upon any property owned or leased by the Municipality. 

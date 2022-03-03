@@ -109,8 +109,6 @@ such rules and regulations for its own procedure as it may promulgate.
 
 ## 137.07   Purposes of board
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The purposes of the Architectural Board of Review are to preserve and
 protect the public health, safety and welfare by maintaining the high character
 of community development and protecting the real estate within the Municipality
@@ -130,8 +128,6 @@ established by ordinance of Council.
 CHTR. Art. VII, Sec.  9; Ord.  2002-13. Passed 2-11-02.)
 
 ## 137.08   Review of plans; time limit
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Architectural Board of Review shall receive and promptly review
 and pass upon all drawings, plans and complaints filed in connection with

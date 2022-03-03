@@ -25,8 +25,6 @@ title: "Chapter 721: Garage Sales"
 
 For the purposes of this chapter, certain words are defined as follows:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Person" means individuals, associations of individuals, partnerships
 or corporations who or which conduct sales for a commission or other
 remuneration.
@@ -56,8 +54,6 @@ Licenses shall be issued by the Chief Administrative Officer or a person
 acting and authorized to act on his behalf upon the applicants complying with
 the following provisions, giving:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ His name and permanent address;
 2. _(b)_ The name and address of all persons who will be associated or engaged
 in such  public sale.
@@ -65,8 +61,6 @@ in such  public sale.
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.04   License effective period
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Licenses shall be valid only for the period of the sale indicated
 thereon, not to exceed three consecutive days.
@@ -95,8 +89,6 @@ any day or after 9:00 p.m. of any day.
 A license issued pursuant to this chapter may be revoked by the Chief
 Administrative Officer, after notice and hearing, for any of the following
 reasons:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Fraud, misrepresentation or any false statement made to the Police
 Department in furnishing the information required by Section 721.03.

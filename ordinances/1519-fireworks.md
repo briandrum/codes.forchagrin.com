@@ -28,8 +28,6 @@ Standards - see Ohio R.C. 3781.11(D)
 
 As used in this chapter:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Beer" and "intoxicating liquor" have the same meanings as in Ohio
 R.C. 4301.01.
 2. _(b)_ "Booby trap" means a small tube that has a string protruding from both
@@ -86,8 +84,6 @@ ignition and that contains no more than one hundred grams of this mixture.
 (ORC 3743.01)
 
 ## 1519.02   Public exhibition permit required; fee; bond; records
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A licensed exhibitor of fireworks who wishes to conduct a public
 fireworks exhibition within the Municipality shall apply for approval to
@@ -181,8 +177,6 @@ compliance with this chapter and Ohio R.C. Chapter 3743.
 
 ## 1519.03   Unlawful conduct by exhibitor
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No licensed exhibitor of fireworks shall fail to comply with the
 applicable requirements of the rules adopted by the Fire Marshal pursuant to
 Ohio R.C. 3743.53(B) and (E) or to comply with Divisions (C) and (D) of that
@@ -206,8 +200,6 @@ is registered with the Fire Marshal under Ohio R.C. 3743.56.
 (ORC 3743.64)
 
 ## 1519.04   Possession, sale or discharge prohibited; exceptions
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall possess fireworks in this Municipality or shall
 possess for sale or sell fireworks in this Municipality, except a licensed
@@ -239,8 +231,6 @@ shipping permit holder, shall possess 1.3 G fireworks.
 ## 1519.05   Application
 
 This chapter does not prohibit or apply to the following:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The manufacture, sale, possession, transportation, storage or use in
 emergency situations, of pyrotechnic signaling devices and distress signals for

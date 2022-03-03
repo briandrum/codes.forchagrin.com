@@ -34,8 +34,6 @@ The plot plan shall show the exact placement of all buildings, existing or
 to be erected, with distances from lot lines and setbacks, according to the
 following scale:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ When the lot shown is less than 100 feet in its narrowest dimensions
 and 200 feet in length, the scale may be one-sixteenth or one-twentieth of an
 inch per foot;
@@ -44,8 +42,6 @@ one thirty- second or one-fortieth of an inch per foot.
 (Ord. 1940-276. Passed 9-9-40)
 
 ## 1305.03   Building plans
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No building plans except those for minor alterations shall be approved
 unless such plans have been prepared by an architect.

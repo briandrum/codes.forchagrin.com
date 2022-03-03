@@ -20,8 +20,6 @@ title: "Chapter 311: Street Obstructions and Special Uses"
 
 ## 311.01   Placing injurious material or obstruction in street
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall place or knowingly drop upon any part of a street,
 highway or alley any tacks, bottles, wire, glass, nails or other articles which
 may damage or injure any person, vehicle or animal traveling along or upon such
@@ -57,8 +55,6 @@ misdemeanor of the first degree.
 (ORC 4511.74)
 
 ## 311.02   Parades and assemblages
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, group of persons or organization shall conduct or
 participate in any parade, assemblage or procession other than a funeral
@@ -98,8 +94,6 @@ misdemeanor of the third degree.
 
 ## 311.03   Blocking off streets
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The Chief of Police may blockade any street, alley or sidewalk. No
 person shall use  any of the public roads, streets, highways or alleys of the
 Municipality, including the  sidewalks thereon, for the purpose of coasting,
@@ -131,8 +125,6 @@ motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 
 ## 311.04   Zones of quiet
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Mayor is authorized, where it is necessary to preserve health, to
 establish zones of  quiet. Whenever authorized signs are erected indicating a

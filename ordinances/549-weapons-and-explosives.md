@@ -37,8 +37,6 @@ firearm.
 
 As used in this chapter:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Deadly weapon" means any instrument, device or thing capable of
 inflicting death, and designed or specially adapted for use as a weapon, or
 possessed, carried or used as a weapon.
@@ -198,8 +196,6 @@ alien’s permanent resident card and may also be commonly referred to as the
 (ORC 2923.11)
 
 ## 549.02   Carrying concealed weapons
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly carry or have, concealed on the person’s
 person or concealed ready at hand, any of the following:
@@ -367,8 +363,6 @@ as a weapon.
 
 ## 549.03   Using weapons while intoxicated
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, while under the influence of alcohol or any drug of abuse,
 shall carry or use any firearm or dangerous ordnance.
 2. _(b)_ Whoever violates this section is guilty of using weapons while
@@ -376,8 +370,6 @@ intoxicated, a misdemeanor of the first degree.
 (ORC 2923.15)
 
 ## 549.04   Improperly handling firearms in a motor vehicle
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly transport or have a firearm in a motor
 vehicle, unless the person may lawfully possess that firearm under applicable
@@ -573,8 +565,6 @@ chapter or Ohio R.C. Chapter 2923.
 
 ## 549.05   Failure to secure dangerous ordnance
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, in acquiring, possessing, carrying or using any dangerous
 ordnance shall negligently fail to take proper precautions:
     1. _(1)_ To secure the dangerous ordnance against theft, or against its
@@ -585,8 +575,6 @@ ordnance, a misdemeanor of the second degree.
 (ORC 2923.19)
 
 ## 549.06   Unlawful transactions in weapons
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall do any of the following:
     1. _(1)_ When transferring any dangerous ordnance to another, negligently
@@ -606,8 +594,6 @@ fourth degree.
 (ORC 2923.20)
 
 ## 549.07   Underage purchase of firearm
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person under eighteen years of age shall purchase or attempt to
 purchase a firearm.
@@ -632,8 +618,6 @@ guilty of underage purchase of a handgun, a misdemeanor of the second degree.
 
 ## 549.08   Discharging firearms
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall discharge any air gun, rifle, shotgun, revolver,
 pistol or other firearm within the corporate limits of the Municipality. 
 2. _(b)_ This section does not apply when firearms are used in self defense, in
@@ -642,8 +626,6 @@ the discharge of official duty or when otherwise lawfully authorized.
 degree.
 
 ## 549.09   Throwing or shooting missiles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall throw, shoot or propel an arrow, missile, pellet,
 stone, metal or other similar substance capable of causing physical harm to
@@ -661,8 +643,6 @@ passed October 14, 2019.)
 
 ## 549.11   Blasting permit
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall blast with dynamite, gunpowder or any other explosive
 compound within the limits of the Municipality unless there has first been
 obtained a written permit therefor from the Chief Administrative Officer
@@ -672,8 +652,6 @@ pursuant to rules and regulations established by him.
 degree.
 
 ## 549.12   Possessing replica firearm in school
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly possess an object in a school safety zone if
 both of the following apply:
@@ -731,8 +709,6 @@ firearm.
 (ORC 2923.122)
 
 ## 549.13   Defacing identification marks of a firearm; possessing a defaced firearm
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall do either of the following:
     1. _(1)_ Change, alter, remove, or obliterate the name of the manufacturer,

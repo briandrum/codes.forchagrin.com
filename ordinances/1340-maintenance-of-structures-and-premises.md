@@ -42,8 +42,6 @@ structures.
 
 ## 1340.01   Purpose and scope
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Within the scope of this chapter, the purpose is to protect the public
 health, safety and general welfare, by establishing minimum standards governing
 the maintenance of structures and premises; to fix responsibilities for owners,
@@ -65,8 +63,6 @@ mandatory. When not defined in this chapter, words shall have the meanings
 ascribed to them in the Village of Chagrin Falls Zoning Code, Building Code, or
 model code adopted by the Village. If not otherwise defined, words have their
 ordinarily accepted meanings.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ “Approved” means authorized by the Building Inspector, Officer of the
 Fire Prevention Bureau, the Chief Administrative Officer or the Board of Zoning
@@ -224,8 +220,6 @@ chapter or other provisions of the Building Code.
 
 ## 1340.08   Notice of violation
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Whenever the Building Inspector finds any structure or premises, or
 any part thereof, to be in violation of the provisions of this chapter, he
 shall give or cause to be given or mailed to the owner, occupant, or operator
@@ -287,8 +281,6 @@ reasonable time to comply.
 
 ## 1340.09   General maintenance requirements
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All premises, structures and all parts thereof, both exterior and
 interior, shall be maintained in good repair and shall be free from nuisance. 
 All equipment and facilities appurtenant to a structure and premises shall be
@@ -298,8 +290,6 @@ executed and installed in a workmanlike manner.
 (Ord.  2016-61. Passed 10-24-16.)
 
 ## 1340.10   Maintenance of foundations
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ All foundations of every structure shall be maintained in good repair.
 2. _(b)_ All foundations of every structure shall be maintained in such
@@ -321,8 +311,6 @@ available, or as otherwise approved by the Building Inspector.
 (Ord.  2016-61. Passed 10-24-16.)
 
 ## 1340.12   Maintenance of exteriors of structures and secondary or appurtenant structures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ All exterior walls of every structure shall be maintained weathertight
 and shall be maintained so as to resist decay or deterioration from any cause.
@@ -353,8 +341,6 @@ replaced or sealed in a workmanlike manner.
 
 ## 1340.13   Maintenance of interior walls and floors
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All interior walls and floors of every structure shall be maintained
 in good repair free of deterioration.
 2. _(b)_ The floors of all bathrooms and water closet compartments shall have a
@@ -380,8 +366,6 @@ influence to the buildings adjacent to such premises.
 
 ## 1340.16   Secondary or appurtenant structures
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All secondary or appurtenant structures shall either be maintained in
 good repair and free from public safety and fire hazards or shall be removed
 from the premises.
@@ -396,8 +380,6 @@ building code.
 (Ord.  2016-61. Passed 10-24-16.)
 
 ## 1340.17   Rubbish and garbage disposal
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Every occupant of a structure shall dispose of rubbish by placing it
 in approved receptacles or in other approved rubbish disposal facilities.
@@ -414,8 +396,6 @@ In the Limited Industrial District (Chapter 1139), Central Shopping District (Ch
 exist by reason of nonconforming rights, all structures shall be maintained in
 accordance with the following regulations regarding plant and commercial
 building closings which will result in vacant structures.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Purpose. It is the purpose of this section to establish a
 registration and notice procedure for buildings and structures which are
@@ -508,8 +488,6 @@ building to penalties as provided in this chapter.
 
 ## 1340.19   Appeals
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any person aggrieved by any order, requirement, determination or any
 other action by the Village in relation to enforcement or interpretation of
 Chapter 1340, may appeal to the Board of Zoning Appeals within ten days of such
@@ -525,8 +503,6 @@ powers of the Village of Chagrin Falls.
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.20   Declaration of nuisance
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ For the purposes of this Building Code, any building or structure that
 is injurious to or a menace to the public health, safety or welfare; or is
@@ -546,8 +522,6 @@ Ohio Administrative Code, including the Ohio Building Code, or by demolition.
 
 ## 1340.21   Examination and condemnation
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The Building Inspector is authorized to examine or cause to be
 examined every building or other structure reported to be unsafe or damaged or
 injurious to or a menace to the public, and shall make a written record of the
@@ -564,8 +538,6 @@ including the Ohio Building Code, or by demolition.
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.22   Securing of structures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whenever the Building Inspector finds a vacant structure open to entry
 at doors, windows or other points accessible to the general public, the
@@ -603,8 +575,6 @@ pursuant to Chapter 1340.
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.24   Noncompliance with notice
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ In the event the owner, agent or person in control fails, neglects or
 refuses to comply with the notice to repair or rehabilitate, or to demolish and
@@ -690,8 +660,6 @@ initiating post judgment execution actions.
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.25   Utility services
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Any structure determined by the Building Inspector to be vacant and
 unsafe as defined in this chapter and for which utility service, including gas,

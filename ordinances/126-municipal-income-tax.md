@@ -333,8 +333,6 @@ organization.
 An annual tax for the purposes specified in Section 126.0101 hereof shall be imposed on and after July 1, 1981 at the rate of one
 and one-half percent per annum upon the following:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ On all salaries, qualifying wages, commissions and other compensation
 earned on and after July 1, 1981, by residents of the Municipality.
 2. _(b)_ On all salaries, qualifying wages, commissions and other compensation
@@ -420,8 +418,6 @@ In the taxation of income which is subject to the municipal income tax, the
 portion of the entire net profits of a taxpayer to be allocated as having been
 derived from within the Municipality shall be determined as follows:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Multiply the entire net profits by a business allocation percentage to
 be determined by a three-factor formula of property, payroll and sales, each of
 which shall be given equal weight as follows:
@@ -465,8 +461,6 @@ taxpayer, whether such headquarters is within or without the Municipality.
 ### 126.0702   Sales made in the municipality
 
 As used in Section 126.0701(c) sales made in the Municipality means:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ All sales of tangible personal property which is delivered within the
 Municipality  regardless of where title passes if shipped or delivered from a
@@ -523,8 +517,6 @@ income exceeds two hundred fifty dollars ($250.00) per month.
 
 ### 126.0705   Operating loss-carry forward
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The portion of a net operating loss sustained in any taxable year
 subsequent to July 1, 1968, allocable to the Municipality may be applied
 against the portion of the profit of succeeding tax years allocable to the
@@ -543,8 +535,6 @@ in which such net operating loss carry-forward shall be determined.
 ### 126.1001   Sources of income not taxed
 
 The tax provided for herein shall not be levied on the following:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Pay or allowance of active members of the Armed Forces of the United
 States or the income of religious, fraternal, charitable, scientific, literary
@@ -607,8 +597,6 @@ The return shall be filed with the Administrator on a form or forms
 furnished by or obtainable upon request from such Administrator, or on a
 generic form, setting forth:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The aggregate amounts of salaries, wages, commissions and other
 compensation earned and gross income from business, profession or other
 activity, less allowable expenses incurred in the acquisition of such gross
@@ -637,8 +625,6 @@ way.
 
 ### 126.1104   Consolidated returns
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Filing of consolidated returns may be permitted or required in
 accordance with rules and regulations prescribed by the Administrator. 
 Notwithstanding, any affiliated group which files a consolidated return for
@@ -666,8 +652,6 @@ the Municipality.
 
 ### 126.1105   Amended returns
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Where necessary, an amended return must be filed in order to report
 additional income and pay any additional tax due, or claim a refund of tax
 overpaid, subject to the  requirements, limitations, or both, contained in
@@ -688,8 +672,6 @@ overpayment.
 ## Payment of tax
 
 ### 126.1301   Payment of tax on filing of returns
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The taxpayer making a return shall, at the time of filing thereof, pay
 to the Administrator the amount of taxes shown as due thereon; provided,
@@ -789,8 +771,6 @@ withheld and less such tax credit, amounts to not more than ten dollars
 
 ### 126.1304   Filing of declaration
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The declaration required by Section 126.1303 above shall be filed on or before April 15 of each year during the
 effective period set forth in Section 126.0502 or within four months of the date the taxpayer becomes subject to tax
 for the first time.
@@ -800,8 +780,6 @@ period.
 (Ord.1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.1305   Form of declaration
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The declaration required by Section 126.1303 hereof shall be filed upon a form furnished by or obtainable from the
 Administrator. As provided in Section 126.1303 hereof,  credit shall be taken for the Village of Chagrin Falls tax to
@@ -865,8 +843,6 @@ interest at the rate of eight percent per annum.
 In addition to interest as provided in Section 126.1501, penalties based on the  unpaid tax or installments of estimated tax
 are hereby imposed as follows:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ For failure to pay taxes or estimated taxes due, other than taxes
 withheld: ten percent per year, but not less than twenty-five dollars ($25.00).
 2. _(b)_ For failure to remit taxes withheld from employees: ten percent per
@@ -900,8 +876,6 @@ or interest, or both, for good cause shown.
 ### 126.1505   Violations
 
 Any person who:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Fails, neglects or refuses to make any return or declaration required
 by this chapter; or
@@ -977,8 +951,6 @@ Amounts of less than one dollar ($1.00) shall not be collected or refunded.
 
 ### 126.1902   Tax credit
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ When the taxable income of a resident of the Municipality is subject
 to a municipal income tax in another municipality on the same income taxable
 under this chapter, such resident shall be allowed a credit of the amount of
@@ -1003,8 +975,6 @@ chapter for failure to file a return.
 
 The funds collected under the provisions of this chapter shall be disbursed
 in the following manner:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ First, such part thereof as shall be necessary to defray all expenses
 of collecting the tax and of administering and enforcing the provisions of this
@@ -1058,8 +1028,6 @@ provisions of Sections
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2305   Authority to determine amount of tax due
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Preparation of Return by Administrator. If any taxpayer fails to file
 a tax return which is required by this chapter within the time prescribed
@@ -1171,8 +1139,6 @@ interest provided for in Section 126.1501 and Section 126.1502 hereunder.
 
 ### 126.2501   Board of review established
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A Board of Review, consisting of the Mayor, or the Mayor’s designee,
 the Director of Law, or the Director of Law’s designee, and one Village
 resident who shall be appointed by the Mayor for a one-year term is hereby
@@ -1248,8 +1214,6 @@ or part thereof not been included herein.
 (Ord.1968-730. Passed 6-18-68. )
 
 ### 126.2702   Collection of tax after termination of chapter
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ This chapter shall continue effective insofar as the levy of taxes is
 concerned until repealed, and insofar as the collection of taxes levied

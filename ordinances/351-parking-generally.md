@@ -66,8 +66,6 @@ conflict with other traffic or with the provisions of this Traffic Code, or in
 compliance with the directions of a police officer or a traffic control device
 in any of the following places:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ On a sidewalk, tree lawn, center strip or curb; 
 2. _(b)_ In front of a public or private driveway; 
 3. _(c)_ Within an intersection; 
@@ -110,8 +108,6 @@ emergency; 
 (Ord. 1973-904. Passed 5-1-73.)
 
 ## 351.04   Parking near curb; handicapped locations on public and private lots and garages
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Every vehicle stopped or parked upon a roadway where there is an
 adjacent curb shall be stopped or parked with the curb side wheels of the
@@ -237,8 +233,6 @@ sovereignty.
 
 ## 351.05   Angle parking; parking within marked spaces
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ On streets where diagonal parking lines have been provided, all
 vehicles shall park parallel to and in between such diagonal parking lines,
 with the right front wheel of the vehicle against the curb.
@@ -255,16 +249,12 @@ individual designated parking space.
 No person shall stop, stand or park a vehicle upon any roadway for the
 principal purpose of:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Displaying such vehicle for sale;
 2. _(b)_ Washing, greasing or repairing such vehicle except repairs
 necessitated by an emergency;
 3. _(c)_ Advertising.
 
 ## 351.07   Unattended vehicle: duty to stop engine, remove key, set brake and turn wheels
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person driving or in charge of a motor vehicle shall permit it to
 stand unattended without first stopping the engine, locking the ignition,
@@ -298,8 +288,6 @@ when the provisions applicable to such zones are in effect. In no case shall
 the stop for loading and unloading of materials exceed thirty minutes.
 
 ## 351.10   Bus stops and taxicab stands
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_  No person shall stop, stand or park a vehicle other than a bus in a
 bus stop, or other than a taxicab in a taxicab stand when any such stop or
@@ -371,8 +359,6 @@ emergency calls.
 (Ord.  1998-88. Passed 9-28-98.)
 
 ### 351.141   Parking prohibitions on private property; private tow-away zones
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ If an owner of private property posts on the property, in a
 conspicuous manner, a prohibition against parking on the property, or
@@ -456,8 +442,6 @@ emergency.
 
 ## 351.17   Waiver
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Whoever violates any provisions of this chapter, except Section 351.03(q) or
  351.04(f), may execute and file with the Clerk or Deputy Clerk of the Bedford
 Municipal Court who is on duty at the Village Police Department an instrument
@@ -530,8 +514,6 @@ incurred by the Municipality resulting from the dishonor of the bank check.
 (Ord. 2017-56. Passed 9-11-17.)
 
 ## 351.18   Issuance of parking permits for village leased  parking spaces
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Police Department is hereby authorized to issue permits to
 employees and operators of businesses located in the Village to permit parking

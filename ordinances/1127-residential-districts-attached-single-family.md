@@ -39,8 +39,6 @@ utilize limited remaining vacant land in the community.
          In an ASF District, buildings and land shall be used by right only for
 the main and accessory uses set forth below:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Uses.
     1. _(1)_ Detached single-family dwellings as permitted in R1-50 Districts
 and as regulated in Chapter 1125.
@@ -66,8 +64,6 @@ in Section 1125.04 (e) and (f) of this Planning and Zoning Code.
 
      In an ASF District, attached single family dwellings shall be developed
 and maintained in accordance with the following area regulations:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Development area: 3 acres minimum.
 2. _(b)_ Density: 8 dwelling units per acre maximum.
@@ -97,8 +93,6 @@ addition to the dwelling unit area.
 shall be developed and maintained in accordance with the following height
 regulations.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Buildings: 35 feet, maximum.
 2. _(b)_ Accessory structures: Six feet maximum for accessory structures which
 are not buildings; twelve feet maximum for tennis court fences as regulated in
@@ -115,8 +109,6 @@ shall be developed and maintained in accordance with the following regulations.
 Landscape features, gardens, fences, walls and signs shall be permitted in
 setback areas, provided that such uses conform to applicable regulations of
 this Planning and Zoning Code.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Main Buildings. The minimum setback from a lot line to a main building
 shall be as set forth below.
@@ -163,8 +155,6 @@ In an ASF District, attached single-family dwellings and other structures
 shall be developed and maintained in accordance with the following regulations
 regarding the required distances between buildings and other uses.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Definitions and Measurement Standards. The following definitions and
 measurement standards shall apply to terms used in this section.
     1. _(1)_ Main wall. Any exterior wall(s) of a residential building
@@ -202,8 +192,6 @@ x = length of overlap divided by 5   
      In an ASF District, attached single-family dwellings and other structures
 shall be developed and maintained in accordance with the following design
 regulations and standards.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Building Design. In order to enhance privacy and to reduce the
 apparent mass of the buildings, the alignment of attached single-family
@@ -279,8 +267,6 @@ residential development shall be located underground.
 ## 1127.08   Off-street parking regulations
 
 In addition to the applicable regulations of Chapter 1141, the following parking regulations shall apply in an ASF District.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Common Parking Areas.  In addition to the parking required in Chapter 1141, a minimum of one-half (0.5) off-street parking space per attached single
 family dwelling unit shall be provided in unenclosed common parking areas

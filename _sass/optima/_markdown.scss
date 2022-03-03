@@ -19,25 +19,13 @@
   margin-top: 1em;
 }
 
-// .Markdown h2::after {
-//   content: ".";
-// }
-
 .Markdown h3 {
   margin-top: 1em;
 }
 
-// .Markdown h3::after {
-//   content: ".";
-// }
-
 .Markdown h4 {
   margin-top: 1em;
 }
-
-// .Markdown h4::after {
-//   content: ".";
-// }
 
 .Markdown p {
   line-height: 1.5;
@@ -67,42 +55,6 @@
 .Markdown li > ol {
   margin-top: 0;
 }
-
-// .Markdown-list--a-1-A {
-//   display: none;
-// }
-
-// .Markdown-list--a-1-A + ol {
-//   list-style-type: lower-alpha;
-// }
-
-// .Markdown-list--a-1-A + ol > li > ol {
-//   list-style-type: decimal;
-// }
-
-// .Markdown-list--a-1-A + ol > li > ol > li > ol {
-//   list-style-type: upper-alpha;
-// }
-
-// .Markdown-list--a-1-A + ol > li > ol > li > ol > li > ol {
-//   list-style-type: lower-roman;
-// }
-
-// .Markdown-list--a-1-A + ol > li > ol > li > ol > li > ol > li > ol {
-//   list-style-type: lower-alpha;
-// }
-
-// .Markdown-list--1-A {
-//   display: none;
-// }
-
-// .Markdown-list--1-A + ol {
-//   list-style-type: decimal;
-// }
-
-// .Markdown-list--1-A + ol > li > ol {
-//   list-style-type: upper-alpha;
-// }
 
 .Markdown ul {
   line-height: 1.5;

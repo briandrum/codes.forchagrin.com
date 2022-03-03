@@ -45,8 +45,6 @@ meeting.
 
 ## 114.03   Personal notification
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any person, organization or group of persons is entitled to mail notice
 of the calendar of monthly meetings. To obtain this notice, such persons are
 required to fill out a form provided by the Clerk of Council for such purpose
@@ -61,8 +59,6 @@ such notices of the calendar of monthly meetings.
 (Ord.1975-992. Passed 12-2-75; Ord.1990-79. Passed 10-8-90.)
 
 ## 114.04   Minutes of meetings
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ **Minutes.** Minutes of all regular and special meetings of Council,
 Council Committees, Commissions and Boards shall promptly be recorded in writing

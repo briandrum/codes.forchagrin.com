@@ -22,8 +22,6 @@ title: "Chapter 763: Customer Service Standards for Cable Television Systems"
 
 ## 763.01   Policy
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The cable operator should be permitted the option and autonomy to
 first resolve citizen complaints without delay and interference from the
 franchising authority.
@@ -40,8 +38,6 @@ standards.
 (Ord.  2007-23. Passed 3-26-07.)
 
 ## 763.02   Definitions
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Normal Business Hours. Means those hours during which most similar
 businesses in the community are open to serve customers. In all cases, normal
@@ -61,8 +57,6 @@ more cable channels.
 (Ord. 2001-18. Passed 3-12-01.)
 
 ## 763.03   Customer service
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Courtesy. All employees of the cable operator shall be courteous,
 knowledgeable and helpful and shall provide effective and satisfactory service

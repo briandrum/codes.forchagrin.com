@@ -21,8 +21,6 @@ title: "Chapter 723: Meat and Meat Products"
 No person shall sell, offer for sale or have in his possession any meat or
 meat food products derived from cattle, sheep, swine, goats or horses unless:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ In the case of meat, it bears on each prime part the inspection stamp
 of the City of Cleveland, Ohio, or the Federal Bureau of Meat Inspection, or
 the inspection stamp of some governmental agency having inspection acceptable

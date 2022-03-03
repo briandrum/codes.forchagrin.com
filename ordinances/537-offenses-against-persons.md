@@ -40,8 +40,6 @@ alternate nicotine products; transaction scans.
 
 ## 537.01   Negligent homicide
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall negligently cause the death of another or the unlawful
 termination of another’s pregnancy by means of a deadly weapon or dangerous
 ordnance as defined in Section 549.01.
@@ -50,8 +48,6 @@ misdemeanor of the first degree.
 (ORC 2903.05)
 
 ## 537.02   Vehicular homicide and manslaughter
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, while operating or participating in the operation of a
 motor vehicle, motorcycle, snowmobile, locomotive, watercraft, or aircraft,
@@ -153,8 +149,6 @@ suspension required for a violation of Ohio R.C.  2903.06 or division (A) or
 
 ### 537.021   Vehicular assault in a construction zone
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, while operating or participating in the operation of a
 motor vehicle, motorcycle, snowmobile, locomotive, watercraft, or aircraft,
 shall cause serious physical harm to another person or another’s unborn as the
@@ -203,8 +197,6 @@ law of another state or the United States.
 (ORC 2903.08)
 
 ## 537.03   Assault
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly cause or attempt to cause physical harm to
 another or to another’s unborn.
@@ -415,8 +407,6 @@ R.C. 3727.01.
 
 ## 537.04   Negligent assault
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall negligently, by means of a deadly weapon or dangerous
 ordnance as defined in Section 549.01 cause physical harm to another or to another’s unborn.
 2. _(b)_ Whoever violates this section is guilty of negligent assault, a
@@ -424,8 +414,6 @@ misdemeanor of the third degree.
 (ORC 2903.14)
 
 ## 537.05   Aggravated menacing
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly cause another to believe that the offender
 will cause serious physical harm to the person or property of the other person,
@@ -453,8 +441,6 @@ governmental employer.
 (ORC 2903.21)
 
 ### 537.051   Menacing by stalking
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. No person by engaging in a pattern of conduct shall knowingly
@@ -635,8 +621,6 @@ advertises the availability of material of that nature.
 
 ## 537.06   Menacing
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall knowingly cause another to believe that the offender
 will cause physical harm to the person or property of the other person, the
 other person’s unborn, or a member of the other person’s immediate family. In
@@ -663,8 +647,6 @@ governmental employer.
 (ORC 2903.22)
 
 ## 537.07   Endangering children
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, who is the parent, guardian, custodian, person having
 custody or control, or person in loco parentis of a child under eighteen years
@@ -749,8 +731,6 @@ of Section 333.01(a) of the Traffic Code.
 
 ## 537.08   Unlawful restraint
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, without privilege to do so, shall knowingly restrain
 another of the other person’s liberty.
 2. _(b)_ No person, without privilege to do so and with a sexual motivation,
@@ -762,8 +742,6 @@ in Ohio R.C. 2971.01.
 (ORC 2905.03)
 
 ## 537.09   Coercion
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, with purpose to coerce another into taking or refraining
 from action concerning which the other person has a legal freedom of choice,
@@ -810,8 +788,6 @@ the second degree.
 (ORC 2905.12)
 
 ## 537.10   Telecommunication harassment
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly make or cause to be made a
 telecommunication, or knowingly permit telecommunication to be made from a
@@ -991,8 +967,6 @@ as amended.
 
 ## 537.11   Threatening or harassing telephone calls
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall, while communicating with any other person over the
 telephone, threaten to do bodily harm or use or address to such other person
 any words or language of a lewd, lascivious or indecent character, nature or
@@ -1009,8 +983,6 @@ degree.
 (ORC 4931.99)
 
 ## 537.12   Misuse of 9-1-1 system
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ “9-1-1 system” means a system through which individuals can request
 emergency service using the telephone number 9-1-1.  
@@ -1055,8 +1027,6 @@ appropriate State law.
 
 ## 537.13   Adulterating of or furnishing adulterated food or confection
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall do either of the following, knowingly or having
 reasonable cause to believe that any person may suffer physical harm or be
 seriously inconvenienced or annoyed thereby:
@@ -1070,8 +1040,6 @@ degree.
 (ORC 3716.99(C))
 
 ## 537.14   Domestic violence
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly cause or attempt to cause physical harm to a
 family or household member.
@@ -1144,8 +1112,6 @@ complaint for violation of this section.
 
 ## 537.15   Temporary protection order
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall recklessly violate the terms of any of the following:
     1. _(1)_ A protection order issued or consent agreement approved pursuant to
 Ohio R.C. 2919.26 or 3113.31;
@@ -1215,8 +1181,6 @@ include an order for support or for custody of a child.
 (ORC 2919.27)
 
 ## 537.16   Illegal distribution of cigarettes, other tobacco products, or alternate nicotine products; transaction scans
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Illegal Distribution of Cigarettes, Other Tobacco Products, or
 Alternative Nicotine Products.
@@ -1583,8 +1547,6 @@ of the First Amendment. See State v. Romage, 138 Ohio St. 3d. 390 (2014).)
 
 ## 537.18   Contributing to unruliness or delinquency of a child
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ As used in this section:
     1. _(1)_ “Delinquent child” has the same meaning as in Ohio R.C. 2152.02.
     2. _(2)_ “Unruly child” has the same meaning as in Ohio R.C. 2151.022.
@@ -1609,8 +1571,6 @@ day of violation of this section is a separate offense.
 (ORC 2919.24)
 
 ## 537.19   Hazing
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section, "hazing" means doing any act or coercing
 another, including the victim, to do any act, of initiation into any student or

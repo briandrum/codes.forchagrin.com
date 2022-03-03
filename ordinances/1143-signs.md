@@ -28,8 +28,6 @@ Conservation District - see P. & Z.
 illumination, movement, materials, condition and location thereof, are
 established in order to achieve, among others, the following purposes:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To protect and maintain property values; 
 2. _(b)_ To provide for reasonable and appropriate means of communication;
 3. _(c)_ To protect and enhance the unique historic and aesthetic character of
@@ -46,8 +44,6 @@ of communication and reducing the harms caused by such displays.
 
 ## 1143.02   Conformance required
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Signs shall be designed, erected, altered, reconstructed, moved or
 maintained, in whole or in part, in accordance with the type, design, size,
 location, illumination and other provisions set forth in this chapter.
@@ -60,8 +56,6 @@ governed by the provisions of these regulations.
 ## 1143.03   Definitions and references
 
        As used in this chapter, unless the context otherwise indicates:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Awning" means a projection from a building wall intended primarily
 for shelter or ornamentation and which can be retracted, folded or collapsed
@@ -146,8 +140,6 @@ established in Chapter 1119.
      In general, any sign that is not expressly authorized by this Chapter is
 prohibited. Additionally, the following specific signs are prohibited:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any sign attached to natural vegetation.
 2. _(b)_ Any sign that, by reason of its location, illumination, movement,
 shape or color, may interfere with, obstruct the view of, or be confused with,
@@ -178,8 +170,6 @@ Section 1143.06(d).
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.05   Permits
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Permit Required.  A sign permit is required to erect, repair, alter,
 relocate or maintain any sign except those exempted in subsection (f) herein
@@ -236,8 +226,6 @@ square feet in total area. 
 ## 1143.06   Number and type of signs permitted: nonresidential  districts
 
 In nonresidential districts, permanent signs shall be permitted as follows:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ General.  Unless otherwise allowed by this section, a maximum of two
 permanent signs shall be permitted for each building.
@@ -314,8 +302,6 @@ sign, two square feet or less, at such entrance.
      In all residential districts, permanent signs shall be permitted as
 follows:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ General.
     1. _(1)_ Dwelling units that are permitted in the Cluster and RMU Overlay
 Districts shall be deemed to be in a residential district regardless of the
@@ -356,8 +342,6 @@ should be designed in a manner compatible with the character and style of
 immediate and neighboring buildings and signs.
      More specifically, signs shall be designed in accordance with the
 following standards:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Signs in Series. Signs to be seen in series shall be designed with
 continuity and compatibility in terms of style, materials, color, size and
@@ -405,8 +389,6 @@ Code.
      Temporary signs shall be permitted only in accordance with the following
 regulations:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ General.
     1. _(1)_ Temporary signs shall not be illuminated.
     2. _(2)_ Temporary signs that show evidence of deterioration, dirt, damage,
@@ -438,8 +420,6 @@ be posted on a parcel.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.10   General provisions
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Construction. Permanent signs shall be constructed of permanent
 materials, maintained in good condition at all times, kept free of cracked or

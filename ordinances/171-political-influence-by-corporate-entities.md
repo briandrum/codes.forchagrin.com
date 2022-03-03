@@ -39,8 +39,6 @@ that the citizens of the Village of Chargin Falls in November 2014 voted in
 support of a Citizens’ Initiative calling for an amendment to the U.S.
 Constitution declaring:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Only human beings, not corporations, are legal persons with
 Constitutional rights, and
 2. _(b)_ Money is not equivalent to speech, and therefore regulating political

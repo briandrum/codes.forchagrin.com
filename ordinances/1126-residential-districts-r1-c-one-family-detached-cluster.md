@@ -29,8 +29,6 @@ APPENDIX B
      In addition to the applicable provisions stated in Section 1105.03, it is the intent of these regulations to achieve the following
 objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Efficient use of facilities and improvements required in connection
 with residential development;
 2. _(b)_ Provision of open space and preservation of important environmental
@@ -45,8 +43,6 @@ residential areas.
 In the R1-C District, buildings and land shall be used by right for only the
 main and accessory uses set forth below.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Uses. One-family detached dwellings.
 2. _(b)_ Accessory Uses.
     1. _(1)_ Garages, driveways and walkways as regulated in Section 1125.04 (a) and (b) of this Planning and Zoning Code.
@@ -60,8 +56,6 @@ in Section 1125.04 (e) and (f) of this Planning and Zoning Code.
 
 ## 1126.03   Development area
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The application of this chapter is limited to the land area or areas
 so designated on the official Zoning Map.
 2. _(b)_ The minimum development area shall be twenty contiguous acres and the
@@ -70,8 +64,6 @@ subject of a joint application.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.04   Determination of density
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The legally permitted density shall be determined by a "yield plan"
 based on the R1-100 District requirements and for the purpose of density
@@ -92,8 +84,6 @@ Where strict application of these standards would serve no significant purpose,
 the Planning and Zoning Commission shall have the authority to waive, modify or
 apply additional standards so long as the convenience and general welfare of
 neighboring uses is maintained.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Lot and yard sizes shall be shown on the development plan and shall
 comply with the requirements of this chapter.
@@ -125,8 +115,6 @@ feet.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.07   Open space required
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A minimum of fifty percent (50%) of the gross acreage in a Cluster
 Development shall be retained as permanent open space with such areas indicated
@@ -161,8 +149,6 @@ to any other use.
 
 ## 1126.08   Ownership and maintenance of open space
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The applicant shall submit copies of the proposed documents which
 provide for the permanent preservation of open space at the time of application
 for development. No application shall be approved until such documents are
@@ -180,8 +166,6 @@ approval for development will be granted.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.09   Access and circulation
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Every lot shall have a minimum of fifty feet of contiguous frontage on
 a public or private street.
@@ -203,8 +187,6 @@ adequately separated from vehicular circulation.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.10   Supplemental regulations
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Rebuilding, overhauling or dismantling of an automotive vehicle or the
 storage of motor or body parts in an open yard is prohibited.

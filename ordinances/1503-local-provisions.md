@@ -33,8 +33,6 @@ title: "Chapter 1503: Local Provisions"
 
 ## 1503.01   Outdoor fires
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall knowingly, intentionally or negligently start, set,
 kindle or maintain, or cause or order to start, set, kindle or maintain, or
 assist in any way in the starting, setting, kindling or maintaining, or furnish
@@ -64,8 +62,6 @@ first been approved by the Fire Chief.
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1503.02   Fire lanes
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Fire Chief is hereby authorized to establish fire lanes on either
 public or private property within the Municipality upon finding that the
@@ -133,8 +129,6 @@ material or obstruction of any kind within seven feet of any fire hydrant.
 
 ## 1503.05   No smoking - engine turned off while gasoline being dispensed
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ There shall be no smoking nor open flames in areas used for fueling,
 serving fuel systems for internal combustion engines, receiving or dispensing
 of flammable or combustible liquids due to the fire hazards involved.
@@ -160,8 +154,6 @@ the State Superintendent of Insurance.
 (Ord. 1983-52. Passed 1-9-84.)
 
 ## 1503.07   Ul 217 approved smoke alarms; installation required
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Owners of each new and existing One-, Two- and Three-family Dwelling,
 as defined by the Residential Code of the Village of Chagrin Falls for One-,
@@ -207,8 +199,6 @@ violation shall be deemed to be a separate offense.
 (Ord. 2011-06. Passed 1-24-11; Ord.  2019-64. Passed 11-11-19.)
 
 ## 1503.071   Central Station Monitored Fire Alarm System Requirement.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_  Definitions. For purposes of this Section 1503.071, the following terms shall have the following meanings:
 

@@ -109,8 +109,6 @@ declared an "alley" by Council.
 
 ### 301.031   Beacon; hybrid beacon
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ “Beacon” means a highway traffic signal with one or more signal
 sections that operate in a flashing mode.  
 (ORC 4511.01(KKK))
@@ -121,8 +119,6 @@ signal indications.
 (ORC 4511.01(LLL))
 
 ## 301.04   Bicycle; motorized bicycle; moped; electric bicycle
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Bicycle" means every device, other than a device that is designed
 solely for use as a play vehicle by a child, that is propelled solely by human
@@ -201,8 +197,6 @@ such street or highway.
 ## 301.09   Crosswalk
 
    "Crosswalk" means:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ That part of a roadway at intersections ordinarily included within the
 real or projected prolongation of property lines and curb lines or, in the
@@ -294,8 +288,6 @@ pavement markers, warning light, or steady burning electric lamp.
 ## 301.17   Intersection
 
    "Intersection" means:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The area embraced within the prolongation or connection of the lateral
 curb lines, or, if none, the lateral boundary lines of the roadways of two
@@ -414,8 +406,6 @@ traffic, or to make arrests for violations of traffic regulations.
 
    “Predicate motor vehicle or traffic offense” means any of the following:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A violation of Ohio R.C. 4511.03, 4511.051, 4511.12, 4511.132,
 4511.16, 4511.20, 4511.201, 4511.21, 4511.211, 4511.213, 4511.22, 4511.23,
 4511.25, 4511.26, 4511.27, 4511.28, 4511.29, 4511.30, 4511.31, 4511.32,
@@ -439,8 +429,6 @@ this section.
 
 ## 301.26   Private road or driveway
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Private road or driveway" means every way or place in private
 ownership used for vehicular travel by the owner and those having express or
 implied permission from the owner but not by other persons.  
@@ -458,8 +446,6 @@ aisle within a parking area, or a private grade crossing.
 ## 301.27   Public safety vehicle
 
    "Public safety vehicle" means any of the following:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Ambulances, including private ambulance companies under contract to a
 municipal corporation, township or county and private ambulances and transport
@@ -517,8 +503,6 @@ residences or residences and buildings in use for business.
 ## 301.32   Right of way
 
    "Right of way" means either of the following, as the context requires:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The right of a vehicle or pedestrian to proceed uninterruptedly in a
 lawful manner in the direction in which it or the individual is moving in
@@ -615,8 +599,6 @@ route number and so marked.
 
 ## 301.40   Stopping or standing
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Stop or stopping" when prohibited means any halting of a vehicle,
 even momentarily, whether occupied or not, except when necessary to avoid
 conflict with other traffic or in compliance with the directions of a police
@@ -632,8 +614,6 @@ stop signs are erected.
 (ORC 4511.01(BBB))
 
 ## 301.42   Street or highway; arterial street
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Street" or "highway" are synonymous and mean the entire width between
 the boundary lines of every way open to the use of the public as a thoroughfare

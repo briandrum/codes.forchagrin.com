@@ -43,8 +43,6 @@ disposition.
 
 ## 505.01   Animals not under control
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No owner, keeper or person in charge of a dog, cattle, sheep, pigs,
 hogs, geese, ducks, turkeys, chickens, or other fowl animals shall permit such
 animal to run at large or shall fail to control such animal anywhere within the
@@ -76,8 +74,6 @@ a domestic animal is attacked or bitten.
 
 ## 505.03   Annual registration of dogs; tags required
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Except for guide dogs registered under Ohio R.C. 955.011 and dogs kept
 by an institution or organization for teaching and research purposes under Ohio
 R.C. 955.16, no person shall own, keep or harbor a dog more than three months
@@ -92,8 +88,6 @@ offense.
 
 ## 505.04   Abandoning animals
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No owner or keeper of a dog, cat or other domestic animal shall
 abandon such animal.  
 (ORC 959.01)
@@ -103,8 +97,6 @@ each subsequent offense.
 (ORC 959.99 (E)(3))
 
 ## 505.05   Killing or injuring animals; tormenting of police dogs
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall maliciously, or willfully, and without the consent of
 the owner, kill or injure a farm animal, dog, cat, or other domestic animal
@@ -126,8 +118,6 @@ degree.
 
 ## 505.06   Poisoning animals
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall maliciously, or willfully and without the consent of
 the owner, administer poison, except a licensed veterinarian acting in such
 capacity, to a farm animal, dog, cat, poultry or other domestic animal that is
@@ -140,8 +130,6 @@ section does not apply to trespassing animals as set forth in Ohio R.C. 959.04.
 degree. (ORC 959.99(C))
 
 ## 505.07   Cruelty to animals generally
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall:
     1. _(1)_ Torture an animal, deprive one of necessary sustenance,
@@ -183,8 +171,6 @@ owner of the animal.
 (ORC 959.99)
 
 ### 505.071   Cruelty to companion animals
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section:
     1. _(1)_ “Companion animal” means any animal that is kept inside a
@@ -303,8 +289,6 @@ order the offender to pay the costs of the evaluation or counseling.
 
 ## 505.08   Nuisance conditions prohibited
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall keep or harbor any animal in the Municipality so as
 to create offensive odors, excessive noise or unsanitary conditions which are a
 menace to the health, comfort or safety of the public, or otherwise permit the
@@ -333,8 +317,6 @@ degree.
 
 ## 505.09   Barking or howling dogs
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall keep or harbor any dog within the Municipality which,
 by frequent and habitual barking, howling or yelping, creates unreasonably loud
 and disturbing noises of such a character, intensity and duration as to disturb
@@ -346,8 +328,6 @@ such dog.
 degree.
 
 ## 505.10   Animal bites; reports and quarantine
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whenever any person is bitten by a dog or other animal, report of
 such bite shall  be made to the Health Commissioner within  twenty-four  hours.
@@ -369,8 +349,6 @@ degree.
 
 ## 505.11   Hunting prohibited
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The hunting of animals or fowl within the Municipality is prohibited.
 No person shall hunt, kill or attempt to kill any animal or fowl by the use of
 firearms or any other means.
@@ -378,8 +356,6 @@ firearms or any other means.
 degree.
 
 ## 505.12   Coloring rabbits or baby poultry; sale or display of poultry
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall dye or otherwise color any rabbit or baby poultry,
 including, but not limited to, chicks and ducklings. No person shall sell,
@@ -396,8 +372,6 @@ degree.
 
 ## 505.13   Horses prohibited
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall, after the effective date of this section, bring into
 the Municipality any horse, pony, mule, jackass or other animal of the horse
 kind for the purpose of keeping or maintaining such animal for longer than
@@ -407,8 +381,6 @@ twenty-four hours.
 degree.
 
 ## 505.14   Registration of horses and ponies
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Application Information; Fee. Every person who owns, keeps or harbors
 in the Municipality a horse or pony shall, before January 20 of each year, file
@@ -440,8 +412,6 @@ of a misdemeanor of the third degree.
 Passed 6-13-05.)
 
 ## 505.15   Certain animals prohibited
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall harbor, maintain or control a wild, dangerous or
 undomesticated animal within the Village.
@@ -476,8 +446,6 @@ misdemeanor of the third degree.
 
 ## 505.16   Rabies vaccination of dogs and cats required
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any person owning, keeping or harboring any dog or cat over the age of
 16 weeks shall be required to have such animal currently immunized against
 rabies by a licensed veterinarian.
@@ -492,8 +460,6 @@ misdemeanor.
 
 As used in this chapter, and unless otherwise defined in the Codified
 Ordinances of the Village, certain terms are defined as follows:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Dangerous dog" means a dog which, has chased or approached in either
 a menacing fashion or an apparent attitude of attack or has attempted to bite
@@ -554,8 +520,6 @@ and who was not using the dog as a means of carrying out such activity.
 (Ord.  2020-36. Passed 10-12-20.)
 
 ## 505.18   Dangerous and vicious dogs
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person owning, harboring or having the care or control of a
 dangerous or vicious dog shall suffer or permit such animal to go unconfined on
@@ -707,8 +671,6 @@ by such animal or that such animal was running at large.
 
 ## 505.19   Impoundment of dogs involved in biting/attacking incidents
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The Chief of Police may, but is not required to take up and impound
 any dog which is alleged to have bitten or attacked a human being or other
 domestic animal in violation of this chapter, pending the completion of
@@ -751,8 +713,6 @@ available at law.
 (Ord.  2020-36. Passed 10-12-20.)
 
 ## 505.20   Dangerous and vicious dog impounding procedure; redemption or disposition
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ In addition to other procedures and penalties applicable to violations
 of this chapter, the Chief of Police may take up and impound any animal found
@@ -802,8 +762,6 @@ such animal be destroyed or permanently banished from the Village.
 
 ## 505.22   Designation of dog as "dangerous” and "vicious"
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A dog may be determined to be "dangerous" or "vicious", as defined in
 Section 505.17 and subject to the requirements of Section 505.18 in one of the two (2) following ways:
     1. _(1)_ A court of competent jurisdiction may declare the dog to be vicious
@@ -818,8 +776,6 @@ and appealable to the Bedford Municipal Court.
 (Ord.  2020-36. Passed 10-12-20.)
 
 ## 505.23   Dangerous and vicious dog appeal
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Any owner of a dog adversely affected by the order of the Chief of
 Police or any other member of the Police Department or any agent of the Chief

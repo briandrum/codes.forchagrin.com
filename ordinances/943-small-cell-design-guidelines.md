@@ -30,8 +30,6 @@ structures - see S.& P.S. Ch. 
 
 ## 943.01   Overview and purpose, definitions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The purpose of these Design Guidelines is to:
     1. _(1)_ Protect the health, safety, and welfare of the citizens of the
 Village;
@@ -146,8 +144,6 @@ trolleybuses.
 
 ## 943.02   General standards
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Facilities shall not be installed unless the Facilities are compliant
 with these Design Guidelines, Chapter 941 of the Codified Ordinances and any Application requirements, and all
 applicable local, state, and federal laws.
@@ -204,8 +200,6 @@ notice of the graffiti.
 
 ## 943.03   Specifications for collocation
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Small Cell Equipment shall not interfere with the primary purpose of a
 Wireless Support Structure.
 2. _(b)_ Small Cell Equipment to be attached to a Wireless Support Structure
@@ -215,8 +209,6 @@ be installed no less than sixteen (16) feet above ground level.
 (Ord.  2019-09. Passed 1-14-19.)
 
 ## 943.04   Antennas
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Antennas and Accessory Equipment must be capable of fitting within an
 enclosure not larger than six (6) cubic feet in volume.
@@ -245,8 +237,6 @@ otherwise promote the purposes in these Design Guidelines.
 
 ## 943.05   Wireless support structure-mounted equipment
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All Wireless Support Structure-mounted Small Cell Equipment other than
 the antenna(s) and electric meter must be concealed within an equipment
 cabinet.
@@ -260,8 +250,6 @@ otherwise colored to match the Wireless Support Structure.
 (Ord.  2019-09. Passed 1-14-19.)
 
 ## 943.06   Ground-mounted small cell equipment
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Village shall not approve the proposed location of ground-mounted
 Small Cell Equipment unless the Applicant (1) proposes the ground-mounted
@@ -284,8 +272,6 @@ sidewalk in any way.
 
 ## 943.07   Cables
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All cables, conduit and wiring shall be located inside conduit and
 inside the Wireless Support Structure or an equipment cabinet.
 2. _(b)_ Excess cables and wiring shall not be spooled, coiled or otherwise
@@ -294,8 +280,6 @@ enclosure. Cables shall not be externally visible.
 (Ord.  2019-09. Passed 1-14-19.)
 
 ## 943.08   Electrical meters
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Facilities Operators shall use flat-rate electric service when
 available in order to eliminate the need for a meter.
@@ -307,16 +291,12 @@ Wireless Support Structure.
 
 ## 943.09   Utility lines
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Service lines shall be underground to avoid additional overhead lines.
 The underground cables and wires must transition directly into the Wireless
 Support Structure base without any external junction box.  
 (Ord.  2019-09. Passed 1-14-19.)
 
 ## 943.10   Specifications for replacement of wireless support structures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A Facilities Operator shall be required to replace an existing
 Wireless Support Structure in the following circumstances:
@@ -367,8 +347,6 @@ inches will be native soil in landscaped areas.
 (Ord.  2019-09. Passed 1-14-19.)
 
 ## 943.11   Specifications for new wireless support structures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ New Wireless Support Structures shall be designed and constructed to
 accommodate at least two sets of Small Cell Equipment on the same Wireless
@@ -424,8 +402,6 @@ this Chapter or Chapter 941 of the Codified Ordinances. A waiver submitted pursu
 
 ## 943.13   Underground area regulations
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Subject to subsection (b), a Facilities Operator shall locate its
 Facilities underground in an Underground Area.
 2. _(b)_ A Facilities Operator may replace an existing Wireless Support
@@ -457,8 +433,6 @@ the Village’s interests and the purposes and intent of this Chapter.
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.99   Penalties; equitable remedies
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Any person or entity found guilty of violating, disobeying, omitting,
 neglecting or refusing to comply with any of the provisions of this Chapter

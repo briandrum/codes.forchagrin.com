@@ -21,8 +21,6 @@ Hillside protection - see P. & Z. Ch.
      In addition to the applicable provisions stated in Section 1105.03, it is the intent of these    regulations to achieve the following
 objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Limit impact of land uses on rivers in order to preserve and conserve
 the quality, purity, clarity and free-flowing condition of streams;
 2. _(b)_ Maintain natural water temperatures, preserve aquatic and terrestrial
@@ -51,8 +49,6 @@ the stream. 
 Use or activities shall not significantly affect the natural quality of the
 area and are limited to the following:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Passive recreational uses such as hiking, fishing, etc.
 2. _(b)_ Only damaged or diseased trees or those that the Administrator has
 determined to be in imminent danger of being uprooted or falling in or along
@@ -61,8 +57,6 @@ bank shall be left in place to retard bank erosion.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1151.04   Supplemental regulations
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The buffer area setback described above shall be overlays to the
 existing underlying districts as shown on the official Zoning Map of the

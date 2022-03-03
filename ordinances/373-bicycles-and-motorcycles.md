@@ -57,8 +57,6 @@ both are referred to separately in the same paragraph.
 
 ## 373.03   Traffic code application to bicycles
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The provisions of this Traffic Code that are applicable to bicycles
 and electric bicycles apply whenever a bicycle or electric bicycle is operated
 upon any street or upon any path set aside for the exclusive use of bicycles. 
@@ -90,8 +88,6 @@ electric bicycles except those which by their nature are not applicable.
 
 ## 373.04   Obedience to traffic control devices
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any person operating a bicycle shall obey the instructions of
 official traffic control signals, signs and other control devices applicable to
 vehicles unless otherwise directed by a police officer.
@@ -116,8 +112,6 @@ of the streets, sidewalks or any other private or public property.
 (Ord. 1980-44. Passed 9-22-80.)
 
 ## 373.05   Riding upon seats; handle bars; helmets and glasses
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ For purposes of this section "snowmobile" has the same meaning as
 given that term in Ohio R.C 4519.01.
@@ -223,8 +217,6 @@ has been sold, knowing it to have been stolen.
 
 ## 373.10   Parking
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall park a bicycle upon a sidewalk in such a manner as to
 interfere with pedestrian traffic or damage the property of another.
 2. _(b)_ No person shall park a bicycle upon a street in such a manner as to
@@ -234,8 +226,6 @@ district, except in bicycle racks placed therein.
 (Ord. 1975-967. Passed 3-18-75.)
 
 ## 373.11   Lights and reflector on bicycle; brakes
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Every bicycle or electric bicycle when in use at the times specified
 in Section 337.02, shall be equipped with the following:
@@ -272,8 +262,6 @@ misdemeanor of the third degree.
 
 ## 373.12   Signal device on bicycle
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A bicycle or electric bicycle may be equipped with a device capable of
 giving an audible signal, except that a bicycle or electric bicycle shall not
 be equipped with nor shall any person use upon a bicycle or electric bicycle
@@ -289,8 +277,6 @@ misdemeanor of the third degree.
 (ORC 4511.56)
 
 ## 373.13   Impounding of bicycles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whenever any person operates a bicycle in violation of any section of
 this Traffic Code, the bicycle may be seized by any member of the Police
@@ -317,8 +303,6 @@ of each case.
 
 ## 373.14   Attaching bicycle or sled to vehicle
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person riding upon any motorcycle, bicycle, electric bicycle,
 coaster, roller skates, sled, skateboard or toy vehicle shall attach the same
 or self to any vehicle upon a roadway.  
@@ -341,8 +325,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 373.15   Riding bicycles or motorcycles abreast
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Persons riding bicycles, electric bicycles, or motorcycles upon a
 roadway shall ride not more than two abreast in a single lane, except on paths
 or parts of roadways set aside for the exclusive use of bicycles, electric
@@ -361,8 +343,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.55)
 
 ## 373.16   Motorized bicycle operation, equipment and license
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall operate a motorized bicycle upon any street or highway
 or any public or private property used by the public for purposes of vehicular
@@ -393,8 +373,6 @@ adopted by the Ohio Director of Public Safety.
 
 ## 373.17   Paths exclusively for bicycles
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall operate a motor vehicle, snowmobile, or all-purpose
 vehicle upon any path set aside for the exclusive use of bicycles, when an
 appropriate sign giving notice of such use is posted on the path.  
@@ -416,8 +394,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.713)
 
 ## 373.18   Electric bicycles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. The operation of a class 1 electric bicycle and a class 2

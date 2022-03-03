@@ -47,8 +47,6 @@ title: "Chapter 1107: Definitions"
      The following terms shall have, throughout this Planning and Zoning Code,
 the meaning given herein:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The word "shall" is to be interpreted as mandatory and not directory;
 the word "may" is permissive; the word "should" indicates that a certain
 standard is recommended and may be required if deemed appropriate and feasible
@@ -75,8 +73,6 @@ Board of Review means the Architectural Board of Review of Chagrin Falls; and
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.03   Areas
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Area of buildings" means the area at the ground level of the main
 building and all accessory buildings, measured from the outside surface of the
@@ -109,8 +105,6 @@ ownership.
 
 ## 1107.04   Automotive: garages, service stations
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Automotive service station" means a building and land, including
 pumps, tanks and equipment, for retail sale of gasoline, lubricants, batteries,
 tires and other automobile accessories, and limited to performing minor
@@ -126,8 +120,6 @@ trucks used by the business or institution served by the garage, or
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.05   Bank; credit union; savings association
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Bank" means a retail service establishment, that is a corporation or
 similar entities and is operated under authority granted by the regulating
@@ -150,8 +142,6 @@ state or a federal savings association.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.06   Buildings and structures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Structure" means that which is constructed, and by its design or use
 is intended to be located permanently on the ground or permanently attached to
@@ -198,8 +188,6 @@ through.
 
 ## 1107.061   Cultural and social institutions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Club, Lodge or Fraternal and Service Organization" means an
 establishment owned or operated by a group of people formally organized for a
 common interest, usually cultural, religious or entertainment, with regular
@@ -238,8 +226,6 @@ for dramatic, musical or live performances.
 
 ## 1107.07   Dwellings and other living accommodations
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Dwelling unit" means a space within a dwelling, comprising living,
 dining, cooking, sleeping room or rooms, storage closets, as well as space and
 equipment for bathing and toilet facilities, all used by only one family.
@@ -277,8 +263,6 @@ marriage or adoption.
 
 ## 1107.09   Grades
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Established street grade" means the elevation established by the
 Municipality, at the roadway centerline or curb in front of the lot.
 2. _(b)_ "Natural grade" means the elevation of the undisturbed natural surface
@@ -288,8 +272,6 @@ ground adjoining the building after final grading and normal settlement.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.10   Height
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Height of building" means the vertical distance measured from the
 average finished grade across the front of the building to the highest point of
@@ -313,8 +295,6 @@ unloaded.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.13   Lot
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Lot of record" means land designated as a separate parcel on a plat,
 map or deed in the records of Cuyahoga County, Ohio.
@@ -357,8 +337,6 @@ along a street right-of-way line or street line.
 
 ## 1107.14   Office
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Office, general or professional" means an establishment providing
 executive, management, administrative or professional services, but not
 including medical offices, investment offices or retail services.
@@ -398,8 +376,6 @@ Part Eleven - Planning and Zoning Code.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.161   Recreational vehicles and trailers
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Recreational vehicle" means a vehicle or portable structure designed
 and constructed to be used for travel, recreational or vacation uses, including
@@ -456,8 +432,6 @@ Section 1109.04 of this Planning and Zoning Code.
 
 ## 1107.20   Street; alley; driveway
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Street" or "road" means an existing public way shown upon a plat
 heretofore approved by official action and duly filed and recorded and
 affording the principal means of access to abutting property.
@@ -474,8 +448,6 @@ shall also be considered to be a driveway.
 (Ord.  2019-39. Passed 8-13-19.)
 
 ## 1107.21   Use
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Use" means any purpose for which buildings, structures or land may be
 arranged, designed, intended, maintained or occupied; or any occupation,
@@ -496,8 +468,6 @@ variance. 
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.23   Yards and setbacks
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Yard" means that portion of the open area on a zoning lot extending
 between a main building and the nearest lot line, open and unobstructed from

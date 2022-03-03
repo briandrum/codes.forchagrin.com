@@ -33,8 +33,6 @@ signal.
 
 ## 313.01   Obedience to traffic control devices
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No pedestrian or driver of a vehicle shall disobey the instructions of
 any traffic control device placed in accordance with the provisions of this
 Traffic Code, unless at the time otherwise directed by a police officer.
@@ -59,8 +57,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.12)
 
 ## 313.02   Through streets; stop and yield right-of-way signs
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ All State routes are hereby designated as through streets or highways,
 provided that stop signs, yield signs or traffic control signals shall be
@@ -113,8 +109,6 @@ and shall erect like signs at one or more entrances to such intersection.
 
 Highway traffic signal indications for vehicles, and pedestrians shall have
 the following meanings:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Steady Green Signal Indication:
     1. _(1)_
@@ -288,8 +282,6 @@ governed by Ohio R.C. 4511.61 and 4511.62.
 
 ## 313.04   Lane-use control signal indications
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The meanings of lane-use control signal indications are as follows:
     1. _(1)_ A steady downward green arrow: A road user is permitted to drive in
 the lane over which the arrow signal indication is located.
@@ -318,8 +310,6 @@ misdemeanor of the third degree.
 (ORC 4511.99)
 
 ## 313.05   Special pedestrian control signals
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whenever special pedestrian control signals exhibiting the words
 “walk” or “don’t walk”, or the symbol of a walking person or an upraised palm
@@ -361,8 +351,6 @@ misdemeanor of the third degree.
 
 ## 313.07   Unauthorized signs and signals, hiding from view, advertising
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall place, maintain or display upon or in view of any
 street any unauthorized sign, signal, marking or device which purports to be,
 is an imitation of or resembles a traffic control device or railroad sign or
@@ -389,8 +377,6 @@ misdemeanor of the third degree.
 (ORC 4511.16)
 
 ## 313.08   Alteration, injury, removal of traffic control devices
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person without lawful authority, shall do any of the following:
     1. _(1)_ Knowingly move, deface, damage, destroy or otherwise improperly
@@ -425,8 +411,6 @@ of the third degree.
 
 ## 313.09   Driver’s duties upon approaching ambiguous or non-working traffic signal
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The driver of a vehicle who approaches an intersection where traffic
 is controlled by traffic control signals shall do all of the following if the
 signal facing the driver exhibits no colored lights or colored lighted arrows,
@@ -456,8 +440,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.132)
 
 ## 313.10   Unlawful purchase, possession or sale
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section, "traffic control device" means any sign,
 traffic control signal or other device conforming to and placed or erected in
@@ -491,8 +473,6 @@ degree.
 (ORC 4511.18)
 
 ## 313.11   Portable signal preemption devices prohibited
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. No person shall possess a portable signal preemption device.

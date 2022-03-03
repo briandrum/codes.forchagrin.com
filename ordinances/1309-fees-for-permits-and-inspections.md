@@ -37,8 +37,6 @@ repairs.
 
 ## 1309.01   Collection of fees
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ When, in the opinion of the Building Inspector, proper plans and
 specifications have been submitted and other provisions of this Building Code
 have been complied with, and when plans and specifications are in compliance
@@ -280,8 +278,6 @@ in the dedicated streets of the Municipality.
 
 ## 1309.19   Certificate of occupancy fee
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A fifty dollar ($50.00) fee shall be paid for any initial certificate
 of occupancy issued to business or commercial structures, which shall be the
 responsibility of the business or enterprise owner or operator.
@@ -292,8 +288,6 @@ shall be paid.
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.20   Subdivision application fee
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A two hundred fifty dollar ($250.00) fee shall be paid upon
 application for a minor subdivision.

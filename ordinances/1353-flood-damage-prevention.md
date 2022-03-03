@@ -19,7 +19,6 @@ title: "Chapter 1353: Flood Damage Prevention"
 
 ## Cross references
 
-
 Reduction of assessed valuation for establishing reservoirs - see Ohio R.C.
 1521.09
 
@@ -32,8 +31,6 @@ VIII, §2(i); ORC 129.70 et seq.
 Basis of zoning districts - see Ohio R.C. 713.10
 
 ## 1353.01   Statutory authorization; findings of fact; purpose and objectives
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Statutory Authorization. Article XVIII, Section 3 of the Ohio
 Constitution grants municipalities, the legal authority to adopt land use and
@@ -95,8 +92,6 @@ other areas.
 Unless specifically defined below, words or phrases used in this chapter
 shall be interpreted so as to give them the meaning they have in common usage
 and to give this chapter its most reasonable application.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Accessory structure" means a structure on the same lot with, and of a
 nature customarily incidental and subordinate to, the principal structure.
@@ -341,8 +336,6 @@ be fully compliant with this chapter.
 
 ## 1353.03   General provisions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Lands to Which This Chapter Applies. This chapter shall apply to all
 special flood hazard areas within the jurisdiction of the Village as identified
 by the Section 1353.03(b) including any additional special flood hazard areas annexed by the
@@ -398,8 +391,6 @@ than the part so declared to be unconstitutional or invalid.
 (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.04   Administration
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Establishment of Development Permit. A development permit shall be
 obtained from the Chief Administrative Officer before construction or
@@ -594,8 +585,6 @@ Section 1353.04(d)(4), a Letter of Map Revision.
 
 ## 1353.05   Variance procedure
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Appeal Board.
     1. _(1)_ The Board of Zoning Appeals as established by the Village shall
 hear and decide appeals and requests for variances from the requirements of
@@ -687,8 +676,6 @@ applicant.
 (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.06   Provisions for flood hazard reduction
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ General Standards. In all special flood hazard areas, the following
 standards are required:
@@ -812,8 +799,6 @@ information as specified in Section 1353.04 (d)(3). The floodway is an extremely
 of floodwaters which carry debris, potential projectiles and erosion potential.
 The following provisions apply within all delineated floodway areas:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Prohibit encroachments, new construction, substantial improvements
 and other development unless a hydrologic and hydraulic analysis performed in
 accordance with standard engineering practices demonstrates that encroachments
@@ -830,8 +815,6 @@ must meet the requirements of the National Flood Insurance Program.
 (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.08   Establishment of buffer area
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Purpose. The buffer area is hereby established to limit impact of
 land uses on rivers in order to preserve and conserve the quality, purity,

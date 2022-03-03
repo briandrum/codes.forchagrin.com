@@ -32,8 +32,6 @@ seq.
 
 ## 903.01   Sidewalks required
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Every improved lot in the Village shall, in conjunction with an
 application for a building permit for a new main building, have a sidewalk
 across the entire frontage of the lot and, on corner lots or through lots, each
@@ -85,8 +83,6 @@ of the Municipality shall conform to the following requirements. For the
 purpose of this chapter, all paved  areas between the curb line and the
 property line in dedicated streets shall be considered as sidewalk or driveway
 aprons.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Alignment. The property edge of sidewalks shall be laid a minimum of
 six inches off the property line abutting and fronting upon the street.
@@ -258,8 +254,6 @@ condition at least as good as at the time of the commencement of the work.
 (Ord. 1974-948. Passed 11-19-74; Ord. 2005-49. Passed 8-8-05.)
 
 ## 903.03   Noncompliance with requirements
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No owner or occupant of any property abutting a street shall fail to
 keep the sidewalk adjacent to such property in good repair.

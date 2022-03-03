@@ -10,8 +10,6 @@ title: "Chapter 151: Land Reutilization Program"
 
 ## 151.01   Adoption
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The Village hereby declares that there exists sufficient and
 substantial nonproductive land within its boundaries which is of such nature
 and extent as to necessitate the implementation of a Land Reutilization Program

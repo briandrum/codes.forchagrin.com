@@ -261,8 +261,6 @@ this Municipality regulating heating.
 
 ## 1307.16   Swimming pools
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Before proceeding with the installation, construction or excavation
 for a permanent swimming pool, a permit shall first be obtained from the
 Building Inspector by the owner of  the property upon which such swimming pool
@@ -312,8 +310,6 @@ plot plan of the property, prepared by a registered engineer or a registered
 surveyor, where such proposed construction or reconstruction is or shall be
 situated, which plan shall show the following:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The existing elevation of the center line of the street;
 2. _(b)_ The existing elevation of the top of the nearest street curb, if any;
 3. _(c)_ The existing elevation of the top of the nearest portion of the
@@ -358,8 +354,6 @@ applicants for building permits a fee based on the following schedule for each
 building permit application, in addition to the normal building permit fee,
 which fee shall be deposited in the General Fund of the Municipality:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Grade plan fee for single-family residential construction: two
 hundred fifty dollars ($250.00).
 2. _(b)_ Grade plan fee for multi-family construction: two hundred fifty
@@ -391,8 +385,6 @@ shall thereupon resubmit the plot plan so amended for approval.
 (Ord. 1978-1129. Passed 10-23-78.)
 
 ## 1307.23   Appeals
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Any person aggrieved by any order, requirement, determination, or any
 other action by the Village in relation to any provision of the Building Code

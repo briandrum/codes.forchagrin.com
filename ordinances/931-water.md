@@ -49,8 +49,6 @@ provisions of such emergency ban.
 
 ## 931.02   Regulations of the water department,  and water rates
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ In order to provide for an orderly growth of the Municipality’s water
 system, and to assure equitable treatment for all users of the water system,
 the Chief Administrative Officer is authorized to promulgate regulations, not

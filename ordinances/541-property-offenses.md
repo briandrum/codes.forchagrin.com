@@ -36,8 +36,6 @@ title: "Chapter 541: Property Offenses"
 
 ## 541.01   Determining property value in arson
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The following criteria shall be used in determining the value of
 property or amount of physical harm involved in a violation of Section 541.02.
     1. _(1)_ If the property is an heirloom, memento, collector’s item, antique,
@@ -64,8 +62,6 @@ section.
 
 ## 541.02   Arson
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, by means of fire or explosion, shall knowingly cause or
 create a substantial risk of physical harm to any property of another without
 the other person’s consent.
@@ -82,8 +78,6 @@ be prosecuted under appropriate State law.
 (ORC 2909.03)
 
 ## 541.03   Criminal damaging or endangering
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall cause, or create a substantial risk of physical harm
 to any property of another without the other person’s consent:
@@ -104,8 +98,6 @@ State law.
 (ORC 2909.06)
 
 ## 541.04   Criminal mischief
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall:
     1. _(1)_ Without privilege to do so, knowingly move, deface, damage,
@@ -201,8 +193,6 @@ this section is a felony to be prosecuted under appropriate state law.
 (ORC 2909.07)
 
 ## 541.05   Criminal trespass
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, without privilege to do so, shall do any of the following:
     1. _(1)_ Knowingly enter or remain on the land or premises of another;
@@ -331,8 +321,6 @@ as in Ohio R.C. 1509.01.
 
 ### 541.051   Aggravated trespass
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_
     1. No person shall enter or remain on the land or premises of
 another with purpose to commit on that land or those premises a misdemeanor,
@@ -352,8 +340,6 @@ same meaning as in Ohio R.C. 2911.21.
 
 ## 541.06   Destruction of shrubs, trees or crops
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, without privilege to do so, shall recklessly cut down,
 destroy, girdle or otherwise injure a vine, bush, shrub, sapling, tree or crop
 standing or growing on the land of another or upon public land.
@@ -365,8 +351,6 @@ degree.
 (ORC 901.99(A))
 
 ## 541.07   Desecration
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, without privilege to do so, shall purposely deface, damage,
 pollute or otherwise physically mistreat any of the following:
@@ -386,8 +370,6 @@ or containing American Indian human remains.
 
 ## 541.08   Ethnic intimidation
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall violate Ohio R.C. 2903.21, 2903.22, 2909.06, 2909.07
 or 2917.21(A)(3) to (5) or Sections
 537.05,
@@ -403,8 +385,6 @@ the commission of which is a necessary element of ethnic intimidation.
 
 ## 541.09   Loitering; obstructing free passage
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, after first being warned by a law enforcement officer, or
 where a sign or signs have been posted in accordance with this section, shall
 loiter, stand, sit or lie in or upon any public or quasi-public sidewalk,
@@ -418,8 +398,6 @@ of the third degree.
 (Ord. 1992-68. Passed 7-13-92.)
 
 ## 541.10   Vehicular vandalism
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section:
     1. _(1)_ “Highway” means any highway as defined in Section 301.42 of the Traffic Code or any lane, road, street, alley, bridge, or
@@ -443,8 +421,6 @@ law.
 (ORC 2909.09)
 
 ## 541.11   Trespass on a place of public amusement
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section, “place of public amusement” means a stadium,
 theater or other facility, whether licensed or not, at which a live

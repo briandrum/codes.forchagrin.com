@@ -43,8 +43,6 @@ title: "Chapter 1141: Off-Street Parking and Loading"
      Off-street parking and loading requirements and regulations are
 established in order to achieve, among others, the following purposes:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To prevent and relieve congestion on streets;
 2. _(b)_ To promote the safety and convenience of pedestrians by locating
 parking areas so as to lessen car movements in areas of congestion; and
@@ -60,8 +58,6 @@ be determined in conformance with the schedule in Section 1141.05 for the variou
 industrial buildings and uses, and provided in conformance with the other
 provisions of this chapter as a condition precedent to the occupancy of such
 building or use.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Central Shopping District.
     1. _(1)_ A change of one permitted use to another permitted use occupying
@@ -92,8 +88,6 @@ and walls separating such use or uses from all other uses.
 
 ## 1141.03   Continuation of parking facilities
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All off-street parking facilities, or those required as accessory to a
 use of a proposed or altered building, shall continue unobstructed in
 operation, shall not be used for automobile service or repair and shall not be
@@ -115,8 +109,6 @@ the Municipality.
 
 For the purpose of determining accessory off-street parking requirements,
 definitions and standards shall be as follows:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Accessory off-street parking space" means an open or enclosed area
 that is not located in a dedicated right of way and that is accessible from a
@@ -286,8 +278,6 @@ compliance with Section 1141.03
 
 ## 1141.07   Separate or combined use of facilities
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A building containing one use shall provide the off-street parking
 spaces as required for the specific use.
 2. _(b)_ A building, or group of buildings, containing two or more uses,
@@ -313,8 +303,6 @@ may require additional pedestrian and motor vehicle safety features within such
 parking and loading areas. Safety features which the Planning Commission may
 require to be installed include, but are not limited to:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Raised pedestrian walkways.
 2. _(b)_ Crosswalks.
 3. _(c)_ Stop signs.
@@ -326,8 +314,6 @@ require to be installed include, but are not limited to:
 
      The following standards shall apply to all off-street parking spaces,
 except those required for one- and two-family dwellings:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Off-street parking spaces shall have access to a public street or
 alley in such a manner that any vehicle leaving or entering the parking area
@@ -381,8 +367,6 @@ residential district.
 
 ## 1141.12   Size of loading space
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A required off-street loading space shall be at least twelve feet
 wide by at least twenty-five feet in length for buildings less than 15,000
 square feet of gross floor area, and each required loading space for a building
@@ -415,8 +399,6 @@ Industrial
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.14   Improvements to parking and loading areas
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ All parking areas and loading areas and access driveways shall be
 fully improved with an asphalt, concrete or other hard surface materials

@@ -25,8 +25,6 @@ title: "Chapter 917: Sanitary Sewer Charges"
 
 For the purpose of this chapter the following definitions shall apply:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Sewerage system" or "system" means the sanitary sewerage system of
 the Municipality as now existing or as hereafter extended and improved, and
 shall include sewers, pumping stations, sewage or waste water treatment works
@@ -75,8 +73,6 @@ For the purpose of establishing rates to be charged for the service of the
 municipal sanitary sewerage system utility of the Municipality and prescribing
 regulations with respect thereto, the following rates and regulations are
 hereby adopted:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The charge to be made shall be computed on the basis of the quantity
 of water consumed upon the lot, parcel of land or premises, or connection as
@@ -214,8 +210,6 @@ ordinance duly passed by Council.
 (Ord. 1968-729. Passed 6-18-68.)
 
 ## 917.06   Collection of charges; leased lots
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Collection of Unpaid Charges. Such sewer charge levied pursuant to
 this chapter is hereby made a lien upon the premises charged therewith, and if

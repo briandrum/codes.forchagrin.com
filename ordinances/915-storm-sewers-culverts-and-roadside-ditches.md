@@ -71,8 +71,6 @@ Village Engineer.
 
 ## 915.06   Determinations to be made by village engineer
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Notwithstanding any other provision of this chapter, the Village
 Engineer shall view each application separately and shall determine whether or
 not it is in the Village’s best interest to allow any filling in, covering,

@@ -41,8 +41,6 @@ title: "Chapter 525: Law Enforcement and Public Office"
 
 As used in this chapter:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Public official" means any elected or appointed officer, or employee,
 or agent of the State or any political subdivision thereof, whether in a
 temporary or permanent capacity, and includes, but is not limited to,
@@ -109,8 +107,6 @@ Ohio R.C. 3517.01.
 (ORC 2921.01)
 
 ## 525.02   Falsification
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly make a false statement, or knowingly swear
 or affirm the truth of a false statement previously made, when any of the
@@ -180,8 +176,6 @@ section.
 
 ## 525.03   Impersonation of peace officer
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ As used in this section:
     1. _(1)_ "Peace officer" means a sheriff, deputy sheriff, marshal, deputy
 marshal, member of the organized police department of a municipal corporation
@@ -236,8 +230,6 @@ violation is a felony and shall be prosecuted under appropriate State law.
 
 ## 525.04   Compounding a crime
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall knowingly demand, accept or agree to accept anything
 of value in consideration of abandoning or agreeing to abandon a pending
 criminal prosecution.
@@ -262,8 +254,6 @@ misdemeanor of the first degree.
 (ORC 2921.21)
 
 ## 525.05   Failure to report a crime, injury or knowledge of death
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. Except as provided in subsection (a)(2) hereof, no person,
@@ -404,8 +394,6 @@ registered nurse, registered nurse, and licensed practical nurse.
 
 ## 525.06   Failure to aid a law enforcement officer
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall negligently fail or refuse to aid a law enforcement
 officer, when called upon for assistance in preventing or halting the
 commission of an offense, or in apprehending or detaining an offender, when
@@ -416,8 +404,6 @@ enforcement officer, a minor misdemeanor.
 (ORC 2921.23)
 
 ## 525.07   Obstructing official business
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, without privilege to do so and with purpose to prevent,
 obstruct or delay the performance by a public official of any authorized act
@@ -433,8 +419,6 @@ law.
 (ORC 2921.31)
 
 ## 525.08   Obstructing justice
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, with purpose to hinder the discovery, apprehension,
 prosecution, conviction, or punishment of another for a misdemeanor, or to
@@ -482,8 +466,6 @@ that the act committed by the child aided would be if committed by an adult.
 
 ## 525.09   Resisting arrest
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, recklessly or by force, shall resist or interfere with a
 lawful arrest of the person or another.
 2. _(b)_ No person, recklessly or by force, shall resist or interfere with a
@@ -496,8 +478,6 @@ violation of subsection (b) hereof is a misdemeanor of the first degree.
 (ORC 2921.33)
 
 ## 525.10   Having an unlawful interest in a public contract
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No public official shall knowingly do any of the following:
     1. _(1)_ During the public official’s term of office or within one year
@@ -587,8 +567,6 @@ maintenance of any public property.
 
 ## 525.11   Soliciting or receiving improper compensation
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No public servant shall knowingly solicit or accept and no person
 shall knowingly promise or give to a public servant either of the following:
     1. _(1)_ Any compensation, other than is allowed by Ohio R.C. 102.03(G),
@@ -630,8 +608,6 @@ action committee from accepting voluntary contributions.
 
 ## 525.12   Dereliction of duty
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No law enforcement officer shall negligently do any of the following:
     1. _(1)_ Fail to serve a lawful warrant without delay;
     2. _(2)_ Fail to prevent or halt the commission of an offense or to
@@ -664,8 +640,6 @@ employee of a contractor as defined in Ohio R.C. 9.08.
 
 ## 525.13   Interfering with civil rights
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No public servant, under color of the public servant’s office,
 employment, or authority, shall knowingly deprive, or conspire or attempt to
 deprive any person of a constitutional or statutory right.
@@ -673,8 +647,6 @@ deprive any person of a constitutional or statutory right.
 rights, a misdemeanor of the first degree. (ORC 2921.45)
 
 ## 525.14   Unauthorized display of law enforcement emblems on motor vehicles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person who is not entitled to do so shall knowingly display on a
 motor vehicle the emblem of a law enforcement agency or an organization of law
@@ -685,8 +657,6 @@ officers, a minor misdemeanor.
 (ORC 2913.441)
 
 ## 525.15   Assaulting police dog or horse or an assistance dog
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly cause, or attempt to cause, physical harm to
 a police dog or horse in either of the following circumstances:
@@ -844,8 +814,6 @@ same meanings as in Ohio R.C. 955.011.
 
 ## 525.16   False allegation of peace officer misconduct
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ As used in this section, “peace officer” has the same meaning as in
 Ohio R.C. 2935.01.
 2. _(b)_ No person shall knowingly file a complaint against a peace officer
@@ -856,8 +824,6 @@ of peace officer misconduct, a misdemeanor of the first degree.
 (ORC 2921.15)
 
 ## 525.17   Refusal to disclose personal information in public place
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person who is in a public place shall refuse to disclose the
 person’s name, address, or date of birth, when requested by a law enforcement

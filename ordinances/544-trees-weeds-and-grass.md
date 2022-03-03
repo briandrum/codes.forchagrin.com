@@ -42,8 +42,6 @@ otherwise, the Municipality shall cause such trees to be trimmed or cut down
 and removed in accordance with such regulations and assess the cost thereof
 against the owner of such lot or parcel of land.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Such owner shall trim or cause to be trimmed such tree, plant or
 shrubbery so that a clear height of eight feet between the lowest branches of
 the same and the street or sidewalk is maintained.
@@ -192,8 +190,6 @@ examination and diagnosis. 
 
 ## 544.12   Trees permitted to be planted on municipal property
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The following is a list of trees, the planting of which may be
 permitted on Municipal property with an appropriate permit granted by the Chief
 Administrative Officer pursuant to Section 544.13.
@@ -240,8 +236,6 @@ measured at a point 12" above ground level.
 
 ## 544.13   Permit; bond; contractors’ license
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall hereafter plant any tree in a public place or street
 right of way without first obtaining a written permit from the Chief
 Administrative Officer. Permits also shall be obtained for pruning, trimming or
@@ -268,8 +262,6 @@ permit fee and providing proof of the required insurance or bond. 
 
 (Editor’s note: The Shade Tree Commission was established on October 1,
 1950, by Resolution 1950-632.)
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ (1)   There is hereby created a commission to be known as the “Shade
 Tree Commission” composed of six (6) members appointed by the Mayor, and one

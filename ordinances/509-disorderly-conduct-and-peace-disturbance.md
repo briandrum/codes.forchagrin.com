@@ -31,8 +31,6 @@ see Ohio R.C 4301.251
 
 ## 509.01   Riot
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall participate with four or more others in a course of
 disorderly conduct in violation of Section 509.03:
     1. _(1)_ With purpose to commit or facilitate the commission of a
@@ -51,8 +49,6 @@ first degree.
 (ORC 2917.03)
 
 ## 509.02   Failure to disperse
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Where five or more persons are participating in a course of
 disorderly conduct in violation of Section 509.03, and there are other persons in the vicinity whose presence creates the
@@ -73,8 +69,6 @@ accident, disaster, riot, or emergency of any kind.
 (ORC 2917.04)
 
 ## 509.03   Disorderly conduct; intoxication
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall recklessly cause inconvenience, annoyance or alarm to
 another by doing any of the following:
@@ -140,8 +134,6 @@ Ohio R.C. 2925.01.
 
 ## 509.04   Disturbing a lawful meeting
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, with purpose to prevent or disrupt a lawful meeting,
 procession or gathering, shall do either of the following:
     1. _(1)_ Do any act which obstructs or interferes with the due conduct of
@@ -153,8 +145,6 @@ meeting, a misdemeanor of the fourth degree.
 (ORC 2917.12)
 
 ## 509.05   Misconduct at an emergency
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly do any of the following:
     1. _(1)_ Hamper the lawful operations of any law enforcement officer,
@@ -183,8 +173,6 @@ personnel” as defined in Ohio R.C. 2909.04.
 (ORC 2917.13)
 
 ## 509.06   Inducing panic
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall cause the evacuation of any public place, or
 otherwise cause serious public inconvenience or alarm, by doing any of the
@@ -267,8 +255,6 @@ Chapter 3332.
 
 ## 509.07   Making false alarms
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall do any of the following:
     1. _(1)_ Initiate or circulate a report or warning of an alleged or
 impending fire, explosion, crime or other catastrophe, knowing that the report
@@ -301,8 +287,6 @@ meaning as in Section 509.06.
 (ORC 2917.32)
 
 ## 509.08   Unnecessary noise
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall cause, create, allow, or permit to be made within the
 Village any unreasonably loud, disturbing and unnecessary noise, or noises of
@@ -384,8 +368,6 @@ degree.
 (Editor’s note: Former Section 509.09 was repealed by Ordinance 2018-66.)
 
 ## 509.10   Minors’ curfew
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No child, unless accompanied by a parent, guardian or another adult
 approved by a parent or guardian, shall enter or remain on any street,

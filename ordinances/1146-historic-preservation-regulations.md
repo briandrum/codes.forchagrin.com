@@ -33,8 +33,6 @@ title: "Chapter 1146: Historic Preservation Regulations"
 Municipality these regulations are established to achieve, among others, the
 following objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To foster a sense of community identification; and civic pride by
 preserving structures which reflect periods and events in the history of the
 community and its region;
@@ -51,8 +49,6 @@ structures.
 
 ## 1146.02   Applicability
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No building or other structure in the Municipality shall be erected,
 altered in exterior construction or appearance, enlarged, moved or demolished
 unless such action complies with the provisions of this chapter. Applicability
@@ -68,8 +64,6 @@ building or a portion thereof.
      The following procedures are established to govern the processing of
 applications for building permits and other municipal authorizations in
 accordance with the regulations of this chapter.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Mandatory Referral.
     1. _(1)_ As directed by Section 1109.05(b)(1), all requests for building permits shall be referred to the
@@ -163,8 +157,6 @@ the final outcome of the administrative appeal.
 
 In its review of applications, the Architectural Board of Review shall:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Consider the historical and architectural nature of existing
 buildings, signs and structures within the Municipality and the compatibility
 of proposed changes or proposed new buildings, signs and structures with such
@@ -236,8 +228,6 @@ evidence, that the demolition is permissible pursuant to Section 1146.06 hereof.
 
 As used in this chapter, the following terms shall have the meaning given
 herein:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A "Historically Significant Property" means (i) any structure which is
 more than one  hundred (100) years old, or, (ii) any structure that is fifty
@@ -314,8 +304,6 @@ master’s craft.
 
 ## 1146.06   Demolition and moving
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Demolition Prohibited; Exceptions.  The demolition of a Historically
 Significant Property shall not be permitted unless one of the following
 conditions exist:
@@ -348,8 +336,6 @@ character of the structures more than 50 years old in Proximity.
 
 ## 1146.07   Maintenance requirements
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Nothing in this chapter shall be construed to prevent or delay the
 reconstruction, alteration or demolition of a structure or feature which has
 been ordered by the Administrator upon certification of an unsafe condition
@@ -370,8 +356,6 @@ Architectural Board of Review based on the foundation of the Charter and
 Codified Ordinances of the Municipality were adopted by the Municipality on
 October 10, 2005. For additional design regulations for specific uses or
 zoning districts refer to the following among others:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Building and site design regulations for attached single family
 development in the ASF District as set forth in Sections

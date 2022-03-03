@@ -40,8 +40,6 @@ title: "Chapter 911: Sewers Generally"
 Useless the context specifically indicates otherwise, the meaning of terms
 used in this chapter shall be as follows:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "BOD" (denoting biochemical oxygen demand) means the quantity of
 oxygen utilized in the biochemical oxidation of organic matter under standard
 laboratory procedure in five days at twenty degrees Centigrade, expressed in
@@ -104,8 +102,6 @@ provisions of Section 911.12.
 
 ## 911.02   Use of public sewers required
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall place, deposit or permit to be deposited in any
 unsanitary manner on public or private property within the Municipality or in
 any area under the jurisdiction of the Municipality any human or animal
@@ -131,8 +127,6 @@ toilet facilities for residences and other buildings as provided in Section 1343
 (Ord. 2015-13. Passed 4-27-15.)
 
 ## 911.03   Building sewers and connections
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No unauthorized person shall uncover, make any connections with or
 opening into, use, alter or disturb any public sewer or appurtenance thereof
@@ -206,8 +200,6 @@ photographs shall remain the property of the Municipality.
 
 ## 911.04   Storm sewer waste prohibited in sanitary sewer
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall discharge or cause to be discharged any storm water,
 surface water, ground water, roof runoff, subsurface drainage, uncontaminated
 cooling water or unpolluted industrial process waters into any sanitary sewer.
@@ -222,8 +214,6 @@ Inspector, to a storm sewer, combined sewer or natural outlet.
 
 No person shall discharge or cause to be discharged any of the following
 described waters or wastes into any public sewer:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Gasoline, benzene, naphtha, fuel oil or other flammable or explosive
 liquid, solid or gas.
@@ -259,8 +249,6 @@ relation to flows and velocities in the sewers, materials of construction of
 the sewers, nature of the sewage, treatment process, capacity of the sewage
 treatment plant, degree of treatability of wastes in the sewage treatment
 plant, and other pertinent factors. The substances prohibited are:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Any liquid or vapor having a temperature higher than 150 degrees
 Fahrenheit (sixty-five degrees Centigrade).
@@ -315,8 +303,6 @@ effect upon the sewage works, processes, equipment or receiving waters, or
 which otherwise create a hazard to life or constitute a public nuisance, the
 Superintendent may:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Reject the wastes;
 2. _(b)_ Require pretreatment to acceptable condition for discharge to public
 sewers;
@@ -339,8 +325,6 @@ and easily accessible for cleaning and inspection.
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.09   Treatment; tests; special agreements
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Maintenance of Treatment Facilities. Where preliminary treatment or
 flow-equalizing facilities are provided for any waters or wastes, they shall be
@@ -389,8 +373,6 @@ conduct.
 
 ## 911.11   Powers and authority of inspectors
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The Superintendent and other duly authorized employees of the
 Municipality bearing proper credentials and identifications shall be permitted
 to enter all properties for the purposes of inspection, observation,
@@ -434,8 +416,6 @@ given effect without such invalid part or parts.
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.99   Penalty
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whoever violates any provision of this chapter, except Section 911.10, shall be served by the Municipality with written notice stating the
 nature of the violation and providing a reasonable time limit for the

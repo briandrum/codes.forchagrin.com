@@ -31,8 +31,6 @@ Code, the most restrictive regulations shall apply. See in particular Chapters
 1331 and
 1340 of the Building Code.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Outdoor Lighting.   Outdoor lighting shall comply with Chapter 1150 of this Planning and Zoning Code.
 2. _(b)_ Noise.  No use shall emit noise in violation of Section 509.08.
 3. _(c)_ Fire, Explosive and Radioactive Hazards. Storage, handling and use of
@@ -83,8 +81,6 @@ propose activities relevant to the above standards.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1144.04   Existing uses and facilities
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_  Determination of Violation. The Administrator shall investigate any
 purported violation of these environmental performance regulations and if there

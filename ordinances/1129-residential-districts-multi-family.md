@@ -36,8 +36,6 @@ and minimize disturbance to adjoining  lower-density residential areas.
      In RMF-10 and RMF-15 Districts, buildings and land shall be used by right
 for only the main and accessory uses set forth below.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Uses.
     1. _(1)_ Attached single-family dwellings, as regulated in Chapter 1127 of this Planning and Zoning Code.
     2. _(2)_ Multi-family dwellings where more than one (1) main building may be
@@ -62,8 +60,6 @@ the development.
      In RMF-10 and RMF-15 Districts, land and structures shall be developed and
 maintained in accordance with the following area regulations.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Lot Size: 2 acres minimum.
 2. _(b)_ Density: RMF-10: 10 dwelling units per acre maximum; RMF-15: 15
 dwelling units per acre maximum.
@@ -86,8 +82,6 @@ required dwelling unit area.
 In RMF-10 and RMF-15 Districts, structures shall be developed and maintained
 in accordance with the following height regulations.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Buildings. 35 feet maximum
 2. _(b)_ Accessory Structures. Fifteen feet maximum.
 3. _(c)_ Rooftop Equipment. Rooftop mechanical equipment as permitted under
@@ -104,8 +98,6 @@ Landscape features, gardens, fences, walls and signs shall be permitted in
 setback  areas, provided that such uses conform to applicable regulations of
 this Planning and Zoning Code. Other accessory uses are permitted in setbacks
 only in accordance with the setback regulations of subsection (b) hereof.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Yards. The minimum yard setback from a lot line to a main building
 shall be as set forth below.
@@ -154,8 +146,6 @@ In RMF-10 and RMF-15 Districts, land and structures shall be developed and
 maintained in accordance with the following regulations regarding the required
 distances between buildings and other uses.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Definitions and Measurement Standards. The following definitions and
 measurement standards shall apply to terms used in this section.
     1. _(1)_ Main wall. Any exterior wall(s) of a residential building
@@ -193,8 +183,6 @@ x = length of overlap divided by 5   
 
      In RMF-10 and RMF-15 Districts, land and structures shall be developed and
 maintained in accordance with the following design regulations and standards.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Building Design. The maximum length of any multi-family residential
 building shall be 100 feet. Buildings may be attached if it is determined by
@@ -276,8 +264,6 @@ access to all dwelling units.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1129.08   Supplemental regulations
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Prohibited Activity.  The rebuilding, overhauling or dismantling of an
 automotive vehicle or the storage of motor or body parts in an open yard is

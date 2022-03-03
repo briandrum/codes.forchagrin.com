@@ -14,8 +14,6 @@ title: "Chapter 127: Motor Vehicle License Tax"
 
 ## 127.01   Levy; rate; purpose
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ There is hereby levied an annual license tax upon the operation of
 motor vehicles on the public roads or highways pursuant to Ohio R.C. 4504.172,
 of paying the costs and expenses of enforcing and administering the tax

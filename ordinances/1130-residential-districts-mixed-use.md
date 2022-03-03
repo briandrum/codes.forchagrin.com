@@ -36,8 +36,6 @@ In addition to the applicable provisions of the intent stated in Section 1105.03
 of a mix of residential uses properly designed and located to achieve, among
 others, the following objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To permit residential development that may serve as an appropriate
 transitional use between existing residential and nonresidential uses.
 2. _(b)_ To offer greater flexibility in the mix of permitted residential uses.
@@ -50,8 +48,6 @@ existing Municipal infrastructure and services.
 ## 1130.02   Standards
 
 For the purpose of this chapter, the following standards shall apply:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Ownership and Maintenance of Private Roads. Private roads proposed to
 be constructed shall be clearly delineated on the site plan together with the
@@ -72,8 +68,6 @@ Municipal Engineer and other Municipal officers as applicable.
 
        In a Residential Mixed Use (RMU) District, building and land shall be
 used by right for only the main and accessory uses set forth below:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Main Uses.
     1. _(1)_ Detached one (1F) and two (2F) family dwellings.as permitted in R1-
@@ -104,8 +98,6 @@ the development.
 In the RMU District, the minimum lot size for a residential mixed use
 development shall be three (3) acres. Land and structures shall be developed
 and maintained in accordance with the following area regulations.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Lot Width.
     1. _(1)_ No lot may be created that is so narrow or otherwise so irregularly
@@ -143,8 +135,6 @@ such dwelling unit.
 In the RMU District, structures shall be developed and maintained in
 accordance with the following regulations.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Buildings. Main buildings shall be 35 feet or less in height.
 2. _(b)_ Rooftop Equipment.  Rooftop mechanical equipment as permitted under
 Section 1130.03(b)(7) may extend a maximum of ten feet above the highest point of the
@@ -163,8 +153,6 @@ features, gardens, fences, walls and signs shall be permitted in setback 
 areas, provided that such uses conform to applicable regulations of this
 Planning and Zoning Code. Other accessory uses are permitted in setbacks only
 in accordance with the setback regulations of subsection (b)(2) hereof.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Detached One (1F) and Two (2F) Family Dwellings.
     1. _(1)_ Yards.  The minimum setback from a lot line to a dwelling shall be
@@ -252,8 +240,6 @@ development conforms with the requirements of Section 1125.06.
 developed and maintained in accordance with the following regulations regarding
 the required distances between buildings and other uses.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Definitions and Measurement Standards. The following definitions and
 measurement standards shall apply to terms used in this section.
     1. _(1)_ "Main wall" means any exterior wall(s) of a residential building
@@ -293,8 +279,6 @@ x = Length of overlap divided by 5   
 In an RMU District, attached single family (ASF) dwellings shall be
 developed and maintained in accordance with the following design regulations
 and standards.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Building Design.
     1. _(1)_ Attractive variations in facade, width, color, exterior materials
@@ -343,8 +327,6 @@ building on which it is located. (Ord.  2016-59. Passed 11-14-16.)
 ## 1130.10   Supplemental parking regulations
 
      In addition to the applicable parking regulations of Chapter 1141, the following parking regulations shall apply.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Large Vehicles.  Vehicles exceeding nineteen (19) feet in length or
 seven (7) feet in width, or eight (8) feet in height are considered large

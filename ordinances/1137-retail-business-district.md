@@ -30,8 +30,6 @@ App. A
 business development appropriately designed and located to achieve, among
 others, the following objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To serve the daily shopping needs of community residents;
 2. _(b)_ To promote vitality in the local economy by serving the specialty
 retail shopping needs of the regional population;
@@ -51,8 +49,6 @@ of this District. Buildings and land shall be used by right for only the main
 and accessory uses set forth below. Except as otherwise permitted, such uses
 shall be conducted wholly within enclosed buildings. Processing, production
 and repair activities are further regulated in Section 1137.05(d).
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Main Uses.
     1. _(1)_ Office uses. General and medical office uses as permitted in Office
@@ -125,8 +121,6 @@ a permitted use.
 In a Retail Business District, land and structures shall be developed and
 maintained in accordance with the following height regulations,
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main buildings. Forty feet maximum
 2. _(b)_ Accessory structures. Thirty-five feet maximum for garages and fifteen
 feet maximum for other structures.
@@ -145,8 +139,6 @@ Landscape features, fences, walls and signs shall be permitted in setback
 areas, provided that such uses conform to applicable regulations of this
 Planning and Zoning Code. Other accessory uses are permitted in setbacks only
 in accordance with the setback regulations of Section (b) below.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Yards. The minimum setback from lot line to a main building shall be
 as set forth below.
@@ -198,8 +190,6 @@ project no more than six feet into a required rear yard.
 
      The following uses, as permitted in Section 1137.02, shall be developed and maintained in accordance with the additional
 regulations set forth below.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Restaurants (and other establishments engaged primarily in the sale of
 food in a ready-to-consume state).

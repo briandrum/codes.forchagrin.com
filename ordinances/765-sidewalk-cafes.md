@@ -32,8 +32,6 @@ right-of-way or any easements contained therein. 
 
 ## 765.02   Definitions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Abutting property owners and occupants" means any owner or occupant
 of property which abuts the subject sidewalk cafe site excluding public right-
 of-way.
@@ -67,8 +65,6 @@ shall be required for renewals.
 Application for a permit to operate a sidewalk cafe shall be made to the
 Administrator on a form provided. The request for permit shall contain:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A completed application;
 2. _(b)_ A fully dimensioned scale site plan of the area for the proposed
 sidewalk cafe;
@@ -83,8 +79,6 @@ or Police Chief to carry out the purpose of this chapter.
 
 The Administrator shall review the application for its compliance with the
 following criteria:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The operation of a sidewalk cafe is limited to structures which are
 sited within ten feet of a public sidewalk, and which are located in the Retail
@@ -115,8 +109,6 @@ writing the reasons for denial to the applicant.
 In addition to the requirements of Sections
 1137.05(a) and
 1138.05(a), all sidewalk cafe permit holders shall be subject to the following;
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Each permit issued shall be valid for the calendar year in which it
 is issued, and the sidewalk cafe may be operated on any day that the weather
@@ -178,8 +170,6 @@ service in the licensed area.
 ## 765.08   Liability and insurance
 
 Prior to the issuance of permit, permittee shall:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Furnish a signed statement, with the application, that the permittee
 shall defend,  indemnify and hold harmless the Village, its officers and

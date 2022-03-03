@@ -32,8 +32,6 @@ title: "Chapter 101: Codified Ordinances"
 
 ## 101.01   Designation; citation; headings
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All ordinances of a permanent and general nature of the Municipality
 as revised, codified, rearranged, renumbered and consolidated into component
 codes, titles, chapters and sections shall be known and designated as the
@@ -52,8 +50,6 @@ followed by the number, such as "Section 101.01".
 
 As used in the Codified Ordinances, unless another definition is provided or
 the context otherwise requires:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "And" may be read "or", and "or" may be read "and", if the sense
 requires it.  
@@ -114,8 +110,6 @@ to signatures.
 
 ## 101.03   Rules of construction
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Common and Technical Usage. Words and phrases shall be read in
 context and construed according to the rules of grammar and common usage. 
 Words and phrases that have acquired a technical or particular meaning, whether
@@ -171,8 +165,6 @@ the subject matter or context of such law may be repugnant thereto.
 
 ## 101.04   Revivor; effect of amendment or repeal
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The repeal of a repealing ordinance does not revive the ordinance
 originally repealed nor impair the effect of any saving clause therein.  
 (ORC 1.57)
@@ -201,8 +193,6 @@ as amended.
 
 ## 101.05   Construction of section references
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A reference to any portion of the Codified Ordinances applies to all
 re-enactments or amendments thereof.  
 (ORC 1.55)
@@ -220,8 +210,6 @@ superseded by the Codified Ordinances.
 (ORC 1.23)
 
 ## 101.06   Conflicting provisions
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ If there is a conflict between figures and words in expressing a
 number, the words govern.  
@@ -248,8 +236,6 @@ simultaneous operation.
 (ORC 1.52)
 
 ## 101.07   Determination of legislative intent
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ In enacting an ordinance, it is presumed that:
     1. _(1)_ Compliance with the constitutions of the State and of the United

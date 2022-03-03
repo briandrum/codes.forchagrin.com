@@ -66,8 +66,6 @@ the status of current zoning map districts.
 district, and generally follow the center lines of streets, alleys, and lot
 lines or their extensions, provided, however:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Where a district boundary line is shown by dimension or relationship
 as being located a specific distance from and parallel to a street or property
 line, such distance shall control;

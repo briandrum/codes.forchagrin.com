@@ -72,8 +72,6 @@ pavement.
 
 ## 543.04   Materials on streets and sidewalks
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall encumber any street, sidewalk or tree lawn area or,
 being the owner, occupant or person having care of any building or lot of land
 bordering on any street or sidewalk, permit the same to be encumbered with
@@ -104,8 +102,6 @@ the sidewalk immediately cleaned and left in a passable condition.
 (Editor’s note: Former Section 543.07 was repealed by Ordinance 1982-22, passed May 24, 1982.)
 
 ## 543.08   Skateboards, roller blades and roller skates
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ It is the purpose of this section to provide for and promote the
 health, safety and welfare of the general public, including those who wish to

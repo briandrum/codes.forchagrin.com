@@ -30,8 +30,6 @@ manner while minimizing adverse impacts to adjoining residential areas.
 In a Park District, buildings and land shall be used by right for only the
 main and accessory uses set forth below.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Uses.  Public parks, playgrounds and athletic fields; and
 swimming pools
 2. _(b)_ Accessory Uses.

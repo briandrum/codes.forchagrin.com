@@ -33,8 +33,6 @@ safety and welfare of the Village, its property owners and inhabitants to
 require the registration of contractors performing construction work within the
 Village. The purposes of such registration are:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Registration ensures that Village property owners and inhabitants have
 some measure of protection that the contractor will perform the work in
 accordance with approved plans and specifications, and follows all applicable
@@ -58,8 +56,6 @@ pursuant to Section 1307.18.
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.03   Holders of Ohio qualification certificate; exception
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Except as provided in subsection (b) hereof, and upon the payment of
 the appropriate fee provided in Section 1335.10, any person having a qualification certificate to install or perform
@@ -102,8 +98,6 @@ prescribe.
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.06   Bond; liability insurance
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As a condition for the issuance of a certificate of registration to a
 general contractor or a contractor doing heating, plumbing sewer or electrical

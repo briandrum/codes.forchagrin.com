@@ -37,8 +37,6 @@ they are not in conflict with this Planning and Zoning Code or other ordinances
 of the Municipality, as may be necessary to carry into effect the powers and
 jurisdiction conferred upon it as follows:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To hear appeals of final decisions made by the Administrator, or by any
 administrative officer, board or commission of the Municipality , on matters
 relating to the Planning and Zoning Code, or when directed by other provisions
@@ -64,8 +62,6 @@ action or decision has been taken by the Administrator or other Officers,
 Boards, or Commissions with regard to an application for a building permit,
 zoning certificate, issuance of a stop order, specific referral or some similar
 action; provided that:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Administrator or designee shall send notice of such formal action or
 decision, by electronic mail, or by depositing a letter with the United States
@@ -117,8 +113,6 @@ Code.
 
 ## 1111.05   Meetings, quorum and vote
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Hearing of Appeals and Variances. The Board shall allow any interested party
 to submit admissible evidence or testimony to the Board, provided that all
 testimony shall be submitted under oath, and all interested parties shall be
@@ -147,8 +141,6 @@ decision of the Board of Zoning Appeals.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.06   Record of decision
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Board of Zoning Appeals, upon making any decision contemplated by this
 Chapter 1111, shall have its secretary immediately notify, in writing, the Clerk
@@ -187,8 +179,6 @@ the secretary of the Board of Zoning Appeals.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.07   Reasons for granting variances
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Board of Zoning Appeals, and in the case of a review of the Board of
 Zoning Appeals’ decision by Council, may, in specific cases, vary, modify or
@@ -248,8 +238,6 @@ further the purposes of this Planning and Zoning Code.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.10   Action by council
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ When required to review a decision of the Board of Zoning Appeals, pursuant
 to Section 1111.06 of the Zoning Code, each case shall be considered by Council

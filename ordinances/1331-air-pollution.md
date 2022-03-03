@@ -24,8 +24,6 @@ title: "Chapter 1331: Air Pollution"
 
 ## 1331.01   Scope; compliance required
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Scope. This chapter is designed to provide minimum standards for the
 abatement of pollution of the air resources of the Municipality.
 2. _(b)_ Violations. No person, firm or corporation shall commit any act in
@@ -46,8 +44,6 @@ the standards as set forth here reflect this fact.
 (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.03   Enforcement
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Permit to Operate. On and after October 15, 1968, all devices or
 installations which come under the jurisdiction of this chapter are subject to
@@ -75,8 +71,6 @@ or pursuant to this chapter shall be granted by law.
 (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.04   Permits, time limitations; inspections
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Permit Requirements. No person shall erect, construct, alter or
 install any combustion or any other device or parts thereof governed by the
@@ -109,8 +103,6 @@ family dwelling units.
 The following limitations are to apply for emissions from any stack or vent
 within the  Municipality:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Smoke.
 Ringleman                  Combustion Devices
 Chart No.   Incinerators   Other Than Incinerators
@@ -141,8 +133,6 @@ are to be adjusted to fifty percent excess air.
 
 ## 1331.06   Nuisances other than stack emissions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Dust. No person, firm or corporation having charge or management of
 any building, premises, industrial establishment, coal yard, brick yard,
 factory or other place of business, by himself, his agent or employee, shall
@@ -164,8 +154,6 @@ Fire Chief.
 
 ## 1331.07   Future installations
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Construction. Every combustion or other device hereafter erected,
 constructed, altered or installed shall be so erected, constructed, installed
 and equipped so that it can be operated without violating the provisions of
@@ -176,8 +164,6 @@ fuel, that it can be operated without violating the provisions of Section 1331.0
 (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.08   Determination of violation
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Qualification of Environmental Control Officer. The Environmental
 Control Officer shall be a professional engineer or other qualified

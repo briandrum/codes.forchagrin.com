@@ -48,8 +48,6 @@ the Chief Administrative Officer (C.A.O.) a permit fee of eight hundred dollars
 ($800.00) and a written application on such form as may be provided by the
 C.A.O. and shall contain the following information:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A description of the building proposed to be moved, giving street
 number, construction materials, exterior dimensions and heights, number of
 rooms and condition of exterior and interior and sufficient structural
@@ -78,8 +76,6 @@ permit should be issued.
 
 ## 1337.03   Permit to be in two parts
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The first part of the permit shall grant permission only to excavate
 and build a new foundation to receive the building or structure which is to be
 moved, if within the Municipality.
@@ -101,8 +97,6 @@ exceeding five days each.
 
 The following papers shall accompany the application for a permit under this
 chapter:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A cash bond in the minimum amount of five thousand dollars ($5,000)
 or such larger amount as the C.A.O. may require as in his judgment being
@@ -153,8 +147,6 @@ equipment to determine whether the standards for issuance of a permit are met.
 
 The C.A.O. shall issue a permit for the moving of a building if he finds,
 upon inspection, that all of the following requirements are met:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The application requirements of the Building, Plumbing, Electrical,
 Heating and Zoning Codes will be met by the building in its proposed new

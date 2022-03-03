@@ -45,8 +45,6 @@ grouped on a lot provided that such grouping shall comply with the requirements
 of this District Buildings and land shall be used by right for only the main
 and accessory uses set forth below.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Uses.
     1. _(1)_ Research laboratories. Research laboratories for basic and applied
 research, experiment and testing.
@@ -169,8 +167,6 @@ Commission.
 In a Limited Industrial District, land and structures shall be developed and
 maintained in accordance with the following area and height regulations.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Lot Size. One acre minimum, except 10,000 square feet minimum for
 automotive service stations, repair garages and auto washes.
 2. _(b)_ Lot Width. 100 feet minimum for street and building lines.
@@ -195,8 +191,6 @@ Landscape features, fences, walls and signs shall be permitted in setback
 areas, provided that such uses conform to applicable regulations of this code.
 Other accessory uses are permitted in setbacks only in accordance with the
 setback regulations of subsection (b) hereof.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Yards. The minimum setback from a lot line to a main building shall be
 as set forth below.

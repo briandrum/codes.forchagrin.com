@@ -28,8 +28,6 @@ title: "Chapter 1138: Central Shopping District"
 business development appropriately designed and located to achieve, among
 others, the following objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Preserve the Municipality’s downtown as a core for retail sales and
 personal service businesses.
 2. _(b)_ Promote pedestrian accessibility by discouraging uses that attract
@@ -57,8 +55,6 @@ grouped on a lot provided that such grouping shall comply with the requirements
 of this District. Buildings and land shall be used by right of only the main
 and accessory uses set forth below. Except as otherwise permitted, such uses
 shall be conducted within completely enclosed buildings.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Main Uses.
     1. _(1)_ Office uses. General and medical office uses as permitted in
@@ -135,8 +131,6 @@ structures within the Central Shopping District.
 
 The following uses, as permitted in Section 1138.02, shall be developed and maintained in accordance with the additional
 regulations set forth below:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Full-Service Restaurants. As used in this chapter, "full-service
 restaurant" means a place where food and beverages are sold and consumed on-

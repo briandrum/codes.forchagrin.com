@@ -51,8 +51,6 @@ modified or amended. 
 
 ## 1501.02   Establishment and duties of bureau of fire prevention
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A Bureau of Fire Prevention in the Fire Department is hereby
 established, which shall be operated under the supervision of the Chief of the
 Fire Department, under the direction and control of the Mayor. The person in
@@ -141,8 +139,6 @@ Code which in his judgment shall be desirable.
 
 ## 1501.03   Definitions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Wherever the word “Municipality” is used in the Fire Prevention Code,
 it means the Village of Chagrin Falls, Ohio.
 2. _(b)_ Wherever the term “Corporation Counsel” is used in the Fire Prevention
@@ -153,8 +149,6 @@ the Bureau of Fire Prevention.
 (Ord. 2000-76. Passed 10-9-00.)
 
 ## 1501.04   Limits for storage of flammable liquids and explosives
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The limits referred to in Section 16.22a of the Fire Prevention Code,
 in which storage of flammable liquids in outside aboveground tanks is
@@ -235,8 +229,6 @@ shall not be replaced with a new incinerator.
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1501.11   Smoke density and outdoor fires
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Smoke limits. The emission within the Municipality of smoke, the
 density of which is equal to or greater than number one of the Ringleman Chart,
@@ -325,8 +317,6 @@ the Municipal fire alarm circuits.
 
 Section 5.5 Mini Theaters. (Added):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The term "motion picture projectors" when used herein means any
 machine or device, either permanently located or portable in nature, operated
 by or with the aid of electricity, or any other illuminant, and which is
@@ -379,8 +369,6 @@ thereto.
 
 Section 8.4 Storage Containers. (Amended):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Each cylinder or pressure vessel shall be designed, constructed,
 tested, maintained and marked with the name of the gas contained so as to be
 reasonably safe to persons and property. Evidence that each cylinder or
@@ -395,8 +383,6 @@ with protective caps, and shall be installed on all cylinder valves not in
 actual use.
 
 Section 11.3 Lighting of Exit Ways. (Amended):
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Required stairways, hallways and other means of egress, including
 exterior open spaces to or through which exit ways lead, shall be kept
@@ -449,8 +435,6 @@ The installation of all standpipe systems shall be in accordance with plans
 and specifications based on the requirements of this section, and subject to
 the approval of the Fire
 Chief.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Number of Standpipes.
 The number of standpipes shall be such that all parts of every floor area can
@@ -742,8 +726,6 @@ not including fuel oil for oil burner service.
 
 Section 16.79 Welding in Service Stations Prohibited. (Added):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall perform any welding or cutting operations or use any
 heat producing torch within or upon the property of any gasoline service
 station.
@@ -755,8 +737,6 @@ Section 19.6 Indoor Storage of Motor Vehicles. (Added):
 In all buildings, other than one-family or two-family houses and garages
 accessory thereto, where space is provided for the storage of motor vehicles,
 the following fire protective measures shall be followed:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The lawful capacity of each storage space shall be the number of
 vehicles which can be stored therein without blocking any aisle or exit.
@@ -774,8 +754,6 @@ the storage space determined as hereinbefore provided.
 subbasement garage.
 
 Section 21.3 Permits and Storage. (Amended):
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A permit shall be obtained for the storage and use of any cylinders
 containing liquified petroleum gas which has a water capacity greater than
@@ -818,8 +796,6 @@ article are being complied with.
 
 Section 27.1  Definitions. (Amended):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Decorative material shall include all such materials as curtains,
 draperies, streamers, surface coverings applied over building interior finish
 for decorative, acoustical or other effect, and also cloth, cotton batting,
@@ -850,8 +826,6 @@ any member of the Police Department shall cause such place of assembly to be
 closed until the excess number of persons has been removed therefrom.
 Section 28.3  Smoking Prohibited Under Certain Conditions. (Amended):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ “Smoking” means and includes the carrying of lighted pipe, cigar,
 cigarettes or tobacco in any form.
 2. _(b)_ Where conditions are such as to make smoking a hazard in any area of
@@ -871,8 +845,6 @@ in accordance with Section 28.3 shall read "By Local Ordinance
 smoke in any place where such signs are posted.
 
 Section 28.6 Accumulations of Waste Material. (Amended):
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Roofs, courts, yards, vacant lots and open spaces shall be kept free
 and clear of deposits or accumulations of waste paper, hay, grass, straw,
@@ -899,8 +871,6 @@ otherwise, is not permitted.
 
 Section 28.7 Handling Readily Combustible Material. (Amended):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person making, using, storing or having in charge or under his
 control any shavings, excelsior, rubbish, sacks, bags, litter, hay, straw or
 combustible waste materials shall fail or neglect at the close of each day to
@@ -922,8 +892,6 @@ is not permitted.
 
 Section 28.9 Flammable Decorative Materials. (Amended):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ (Deleted)
 2. _(b)_ (1)    Decorative materials displayed in commercial buildings,
 schools, churches, apartment corridors and lobbies, or public buildings shall
@@ -943,8 +911,6 @@ All trap doors, except those which are automatic in their operation shall be
 closed at the completion of the business of each day.
 
 Section 28.17 Basements. (Added):
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Basements of individual store units shall be provided with one or both
 of the following plans of opening:
@@ -993,8 +959,6 @@ case shall living be permitted in the basement thereof.
 
 Section 28.18 Fire Extinguishers, Approval Required. (Added):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, directly or through an agent, shall sell or offer for sale
 in the Municipality any make, type or model of extinguisher, either new or
 used, unless such make, type or model of extinguisher has first been tested and
@@ -1041,8 +1005,6 @@ equally durable material on which the following shall appear:
 
 Section 28.19 Electrical Equipment Sales. (Added):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Sale Limitations.
 No person shall sell, offer or expose for sale within the Municipality any
 electrical materials, equipment, fixtures, appliances or devices which do not
@@ -1080,8 +1042,6 @@ in abating such nuisance.
 Section 28. 21 Causing Fire Through Negligence in Places of Assembly.
 (Added):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Fires.
 No person shall, in any hotel, motel, rooming house, lodging house, apartment
 house, tenement house, convalescent home, hospital, child care facility or
@@ -1108,8 +1068,6 @@ Department concerning such fire and to spread an alarm immediately to all
 occupants of the building.
 
 Section 28.22 Elevators. (Added):
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Automatic passenger elevators shall conform to the following:
     1. _(1)_ A two-position keyed switch shall be provided at the ground floor
@@ -1180,8 +1138,6 @@ Association  standard.
 
 Appendix B Abandonment or Removal of Underground Tanks. (Added):
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Methods.
     1. _(1)_ Underground tanks taken out of service shall be safeguarded or
 disposed  of by any one of the two following means:
@@ -1207,8 +1163,6 @@ and secured against tampering.
 
 ## 1501.14   Failure to correct violations
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The owner, tenant, or occupant of any building or premises who fails
 to make a timely correction of any violation of this Fire Prevention Code,
 after being given notice to do so and a reasonable time limit to make such
@@ -1222,8 +1176,6 @@ violation has been abated.
 (Ord. 2013-58. Passed 9-23-13.)
 
 ## 1501.99   Penalty
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The owner, tenant, firm, or corporation, or any officer of such
 corporation, or person whether a corporation or an officer thereof, or an

@@ -37,8 +37,6 @@ intersections.
 
 ## 371.01   Right of way in crosswalk
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ When traffic control signals are not in place, not in operation or are
 not clearly assigning the right of way, the driver of a vehicle shall yield the
 right of way, slowing down or stopping if need be to so yield or if required by
@@ -70,8 +68,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 371.02   Right of way of blind person
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ As used in this section "blind person" or "blind pedestrian" means a
 person having not more than 20/200 visual acuity in the better eye with
 correcting lenses or visual acuity greater than 20/200 but with a limitation in
@@ -97,8 +93,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.47)
 
 ## 371.03   Crossing roadway outside crosswalk; diagonal crossings at intersections
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Every pedestrian crossing a roadway at any point other than within a
 marked crosswalk or within an unmarked crosswalk at an intersection shall yield
@@ -127,8 +121,6 @@ misdemeanor of the third degree.
 
 ## 371.04   Moving upon right half of crosswalk
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Pedestrians shall move, whenever practicable, upon the right half of
 crosswalks.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -142,8 +134,6 @@ misdemeanor of the third degree.
 (ORC 4511.49)
 
 ## 371.05   Walking along highways
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Where a sidewalk is provided and its use is practicable, no pedestrian
 shall walk along and upon an adjacent roadway.
@@ -168,8 +158,6 @@ misdemeanor of the third degree.
 (ORC 4511.50)
 
 ## 371.06   Use of highway for soliciting; riding on outside of vehicles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person while on a roadway outside a safety zone shall solicit a
 ride from the driver of any vehicle.
@@ -235,8 +223,6 @@ a minor misdemeanor.
 
 ## 371.07   Right of way on sidewalk
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The driver of a vehicle shall yield the right of way to any pedestrian
 on a sidewalk.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -253,8 +239,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.441)
 
 ## 371.08   Yielding to public safety vehicle
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Upon the immediate approach of a public safety vehicle as stated in
 Section 331.21, every pedestrian shall yield the right of way to the public safety
@@ -273,8 +257,6 @@ misdemeanor of the third degree.
 
 ## 371.09   Walking on highway while under the influence
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A pedestrian who is under the influence of alcohol, any drug of abuse,
 or any combination of them, to a degree that renders the pedestrian a hazard
 shall not walk or be upon a highway. 
@@ -289,8 +271,6 @@ misdemeanor of the third degree.
 (ORC 4511.481)
 
 ## 371.10   On bridges or railroad crossings
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No pedestrian shall enter or remain upon any bridge or approach
 thereto beyond the bridge signal, gate or barrier after a bridge operation
@@ -310,8 +290,6 @@ misdemeanor of the third degree.
 
 ## 371.11   Persons operating motorized wheelchairs
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Every person operating a motorized wheelchair shall have all of the
 rights and duties applicable to a pedestrian that are contained in this Traffic
 Code, except those provisions which by their nature can have no application.  
@@ -327,8 +305,6 @@ misdemeanor of the third degree.
 (ORC 4511.99)
 
 ## 371.12   Electric personal assistive mobility devices
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. Electric personal assistive mobility devices may be operated on
@@ -404,8 +380,6 @@ misdemeanor.
 
 ## 371.13   Operation of personal delivery device on sidewalks and and crosswalks
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ As used in this section:
     1. _(1)_ “Eligible entity” means a corporation, partnership, association,
 firm, sole proprietorship, or other entity engaged in business.
@@ -475,8 +449,6 @@ which a personal delivery device operates in a manner prohibited by divisions
 (ORC 4511.513)
 
 ## 371.14   Low-speed micromobility devices
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. A low-speed micromobility device may be operated on the public

@@ -27,8 +27,6 @@ title: "Chapter 341: Commercial Drivers"
 
 As used in this chapter:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Alcohol concentration" means the concentration of alcohol in a
 person’s blood, breath or urine. When expressed as a percentage, it means
 grams of alcohol per the following:
@@ -152,8 +150,6 @@ Section 341.02 has been deleted from the Codified Ordinances. Former Ohio R.C.
 
 ## 341.03   Prerequisites to operation of a commercial motor vehicle
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Except as provided in subsections (b) and (c) of this section, the
 following shall apply:
     1. _(1)_ No person shall drive a commercial motor vehicle on a highway in
@@ -215,8 +211,6 @@ degree.
 
 ## 341.04   Prohibitions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall do any of the following:
     1. _(1)_ Drive a commercial motor vehicle while having in the person’s
 possession or otherwise under the person’s control more than one valid driver’s
@@ -234,8 +228,6 @@ degree.
 (ORC 4506.04)
 
 ## 341.05   Criminal offenses
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person who holds a commercial driver’s license, or commercial
 driver’s license temporary instruction permit or who operates a motor vehicle
@@ -278,8 +270,6 @@ degree.
 (ORC 4506.15)
 
 ## 341.06   Employment of drivers of commercial vehicles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Each employer shall require every applicant for employment as a driver
 of a commercial motor vehicle to provide the applicant’s employment history for

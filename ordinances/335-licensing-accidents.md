@@ -50,8 +50,6 @@ violations - see Ohio R.C. Ch. 4510
 
 ## 335.01   Driver’s license or commercial driver’s license required
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_
     1. No person, except those expressly exempted under Ohio R.C.
 4507.03, 4507.04, and 4507.05, shall operate any motor vehicle upon a public
@@ -132,8 +130,6 @@ operating privilege from the range specified in division (A)(7) of Ohio R.C.
 
 ## 335.02   Permitting operation without valid license; one license permitted
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall permit the operation of a motor vehicle upon any
 public or private property used by the public for purposes of vehicular travel
 or parking knowing the operator does not have a valid driver’s license issued
@@ -179,8 +175,6 @@ of the first degree.
 
 ### 335.021   Ohio driver’s license required for in state residents
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any person who becomes a resident of this State, within thirty days of
 becoming a resident, shall surrender any driver’s license, temporary
 instruction permit, or identification card issued by another state to the
@@ -211,8 +205,6 @@ resident in accordance with standards adopted by the Registrar under Ohio R.C.
 (ORC 4507.213)
 
 ## 335.03   Driving with temporary instruction permit; curfew
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No holder of a temporary instruction permit issued under Ohio R.C.
 4507.05(A) shall operate a motor vehicle upon a highway or any public or
@@ -274,8 +266,6 @@ parentis of the permit holder.
 (ORC 4507.05)
 
 ### 335.031   Driving with probationary license; curfew
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. _(1)_
@@ -414,8 +404,6 @@ vehicle registration.
 
 ### 335.032   Use of electronic wireless communication device prohibited while driving
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No holder of a temporary instruction permit who has not attained the
 age of eighteen years and no holder of a probationary driver’s license shall
 drive a motor vehicle on any street, highway, or property used by the public
@@ -463,8 +451,6 @@ designed or used to communicate via voice, image, or written word.
 
 ## 335.04   Certain acts prohibited
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall do any of the following:
     1. _(1)_ Display, or cause or permit to be displayed, or possess any
 identification card, driver’s or commercial driver’s license, temporary
@@ -495,8 +481,6 @@ degree.
 (ORC 4507.30)
 
 ## 335.05   Wrongful entrustment of a motor vehicle
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall permit a motor vehicle owned by the person or under
 the person’s control to be driven by another if any of the following apply:
@@ -623,8 +607,6 @@ person’s name.
 
 ## 335.06   Display of license
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The operator of a motor vehicle shall display the operator’s driver’s
 license, or furnish satisfactory proof that the operator has a driver’s
 license, upon demand of any peace officer or of any person damaged or injured
@@ -656,8 +638,6 @@ misdemeanor of the first degree.
 (ORC 4507.35)
 
 ## 335.07   Driving under suspension or license restriction
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Except as provided under subsection (b) hereof and Sections
  335.072 and
@@ -758,8 +738,6 @@ first three days of jail time imposed pursuant to this subsection. (ORC
 4510.037)
 
 ### 335.071   Driving under ovi suspension
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person whose driver’s or commercial driver’s license or permit or
 nonresident operating privilege has been suspended under Ohio R.C. 4511.19,
@@ -926,8 +904,6 @@ of the Ohio Revised Code.
 
 ### 335.072   Driving under financial responsibility law suspension or cancellation; driving under a nonpayment of judgment suspension
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, whose driver’s or commercial driver’s license or temporary
 instruction permit or nonresident’s operating privilege has been suspended or
 canceled pursuant to Ohio R.C. Chapter 4509, shall operate any motor vehicle
@@ -1001,8 +977,6 @@ hereof is guilty of falsification, a misdemeanor of the first degree.
 
 ### 335.073   Driving without complying with license  reinstatement requirements
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person whose driver’s license, commercial driver’s license,
 temporary instruction permit, or nonresident’s operating privilege has been
 suspended shall operate any motor vehicle upon a public road or highway or any
@@ -1046,8 +1020,6 @@ operating privilege from the range specified in division (A)(7) of Ohio R.C.
 (ORC 4510.21)
 
 ### 335.074   Driving under license forfeiture or child support suspension
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall operate any motor vehicle upon a highway or any public
 or private property used by the public for purposes of vehicular travel or
@@ -1096,8 +1068,6 @@ section.
 
 ## 335.08   Operation or sale without certificate of title
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall do any of the following:
     1. _(1)_ Operate in this Municipality a motor vehicle for which a
 certificate of title is required without having that certificate in accordance
@@ -1138,8 +1108,6 @@ dollars ($200.00) or imprisoned not more than ninety days, or both.
 
 ## 335.09   Display of license plates or validation stickers; registration
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_
     1. No person who is the owner or operator of a motor vehicle shall
 fail to display in plain view on the rear of the motor vehicle a license plate
@@ -1170,8 +1138,6 @@ degree of culpability, is not a strict liability offense.
 
 ### 335.091   Operating without dealer or manufacturer license plates
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall operate or cause to be operated upon a public road or
 highway a motor vehicle of a manufacturer or dealer unless the vehicle carries
 and displays a placard, except as provided in Ohio R.C. 4503.21, issued by the
@@ -1182,8 +1148,6 @@ operation of a manufacturer’s or dealer’s motor vehicle, a minor misdemeanor
 (ORC 4549.10)
 
 ## 335.10   Expired or unlawful license plates
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person who is the owner of a motor vehicle which is parked or
 operated upon the public streets or highways shall fail to annually file the
@@ -1221,8 +1185,6 @@ penalty is provided is guilty of a minor misdemeanor.
 
 ## 335.11   Use of illegal license plates; transfer of registration
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall operate or drive a motor vehicle upon the streets in
 this Municipality if it displays a license plate or a distinctive number or
 identification mark that meets any of the following criteria:
@@ -1256,8 +1218,6 @@ misdemeanor of the fourth degree.
 
 ### 335.111   Registration within thirty days of residency
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Within thirty days of becoming a resident of this State, any person
 who owns a motor vehicle operated or driven upon the public roads or highways
 shall register the vehicle in this State. If such a person fails to register a
@@ -1283,8 +1243,6 @@ resident in accordance with standards adopted by the Registrar under Ohio R.C.
 (ORC 4503.111)
 
 ## 335.12   Stopping after accident upon streets; collision with  unattended vehicle
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. In the case of a motor vehicle accident or collision with
@@ -1342,8 +1300,6 @@ during or after committing the offense charged under this section.
 
 ## 335.13   Stopping after accident upon property other than street
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_
     1. In the case of a motor vehicle accident or collision resulting
 in injury or damage to persons or property on any public or private property
@@ -1393,8 +1349,6 @@ during or after committing the offense charged under this section.
 (ORC 4549.021)
 
 ## 335.14   Vehicle accident resulting in damage to realty
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The driver of any vehicle involved in an accident resulting in damage
 to real property, or personal property attached to real property, legally upon

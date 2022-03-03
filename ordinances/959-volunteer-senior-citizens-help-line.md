@@ -37,8 +37,6 @@ emergency services.
 
 ## 959.03   Training and duties of volunteers and supervisors
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The Volunteer Supervisors shall:
     1. _(1)_ Develop and implement appropriate training and supervision
 standards for Volunteers;

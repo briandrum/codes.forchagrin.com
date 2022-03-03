@@ -29,8 +29,6 @@ further regulations - see Ohio R. C. 3781.01
 As used in this chapter, the following terms shall have the following
 definitions:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ “State Code” shall mean the Residential Code of Ohio, adopted by rule
 at Ohio Administrative Code 4101:8 by the Ohio Board of Building Standards, or
 current equivalent if the title or rules are renamed or renumbered.
@@ -113,8 +111,6 @@ Village Council. 
 (Ord. 2021-07. Passed 1-25-21.)
 
 ## 1321.06   Electrical service
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The electrical contractor shall install code approved galvanized
 conduit of the rigid type, rigid nonmetallic conduit or other suitable raceway,

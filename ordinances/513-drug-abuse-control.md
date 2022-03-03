@@ -43,8 +43,6 @@ terms and phrases and their derivatives used in this chapter which are not
 defined in this section shall have the meanings given to them in the Ohio
 Revised Code.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ “Administer.” Has the same meaning as in Ohio R.C. 3719.01.
 2. _(b)_ “Adulterate.” To cause a drug to be adulterated as described in Ohio
 R.C. 3715.63.
@@ -444,8 +442,6 @@ is separately administered to or taken by an individual.
 
 ## 513.02   Gift of marihuana
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall knowingly give or offer to make a gift of twenty grams
 or less of marihuana.
 2. _(b)_ Whoever violates this section is guilty of trafficking in marihuana. 
@@ -470,8 +466,6 @@ termination, the court may terminate the suspension.
 (ORC 2925.03)
 
 ## 513.03   Drug abuse; controlled substance possession or use
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly obtain, possess or use a controlled
 substance or a controlled substance analog.
@@ -652,8 +646,6 @@ appearance as a witness.
 
 ## 513.04   Possessing drug abuse instruments
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall knowingly make, obtain, possess or use any instrument,
 article or thing the customary and primary purpose of which is for the
 administration or use of a dangerous drug, other than marihuana, when the
@@ -683,8 +675,6 @@ driver’s license or permit for not more than five years.
 
 ## 513.05   Permitting drug abuse
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, who is the owner, operator or person in charge of a
 locomotive, watercraft, aircraft or other vehicle as defined in Ohio R.C
 4501.01(A), shall knowingly permit the vehicle to be used for the commission of
@@ -713,8 +703,6 @@ to Ohio R.C. Chapter 3767.
 (ORC 2925.13)
 
 ## 513.06   Illegal cultivation of marihuana
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly cultivate marihuana.
  
@@ -753,8 +741,6 @@ person’s appearance as a witness.
 
 ## 513.07   Possessing or using harmful intoxicants
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Except for lawful research, clinical, medical, dental or veterinary
 purposes, no person, with purpose to induce intoxication or similar
 physiological effects, shall obtain, possess or use a harmful intoxicant.
@@ -773,8 +759,6 @@ driver’s license or permit for not more than five years.
 (ORC 2925.31)
 
 ## 513.08   Illegally dispensing drug samples
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly furnish another a sample drug.
 2. _(b)_ Subsection (a) hereof does not apply to manufacturers, wholesalers,
@@ -802,8 +786,6 @@ driver’s license or permit for not more than five years.
 (ORC 2925.36)
 
 ## 513.09   Controlled substance or prescription labels
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section, “repackager” and “outsourcing facility” have
 the same meanings as in ORC 4729.01.  
@@ -858,8 +840,6 @@ is a felony and shall be prosecuted under appropriate State law.
 
 ## 513.10   Hypodermic possession, display and dispensing
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Possession of a hypodermic is authorized for the following:
     1. _(1)_ A manufacturer or distributor of, or dealer in, hypodermics or
 medication packaged in hypodermics, and any authorized agent or employee of
@@ -893,8 +873,6 @@ a drug abuse offense, a violation is a misdemeanor of the first degree.
 
 ## 513.11   Harmful intoxicants; possessing nitrous oxide in motor vehicle
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ As used in this section, “motor vehicle”, “street” and “highway” have
 the same meanings as in Ohio R.C. 4511.01.
 2. _(b)_ Unless authorized under Ohio R.C. Chapter 3719, 4715, 4729, 4731, 4741
@@ -915,8 +893,6 @@ permit.
 (ORC 2925.33)
 
 ## 513.12   Drug paraphernalia
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section, "drug paraphernalia" means any equipment,
 product or material of any kind that is used by the offender, intended by the
@@ -1057,8 +1033,6 @@ violation of this section, the court immediately shall comply with Ohio R.C. 
 
 ### 513.121   Marihuana drug paraphernalia
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ As used in this section, “drug paraphernalia” has the same meaning as
 in Section 513.12.
  
@@ -1096,8 +1070,6 @@ violation of this section, the court immediately shall comply with Ohio R.C.
 (ORC 2925.141)
 
 ## 513.13   Counterfeit controlled substances
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly possess any counterfeit controlled
 substance.

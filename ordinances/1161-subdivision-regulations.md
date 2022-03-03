@@ -31,8 +31,6 @@ title: "Chapter 1161: Subdivision Regulations"
 
 ## 1161.01   Title and intent
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Title. These Regulations shall be known and may be cited and referred
 to as the "Subdivision Regulations of the Municipality of Chagrin Falls".
 2. _(b)_ Intent. This chapter is enacted in accordance with Ohio R.C. Chapter 711 and for the purpose and intent of the following objectives:
@@ -56,8 +54,6 @@ subdivision of land.
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.02   Jurisdiction
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Jurisdiction. The rules and regulations governing subdivision of land
 contained in these Regulations shall apply within the corporate limits of the
@@ -243,8 +239,6 @@ or that land whose drainage is affected by the subdivision.
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.04   Proposal
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Preapplication.
     1. _(1)_ Recommended procedure:  The preliminary discussion allows the
@@ -524,8 +518,6 @@ Recorder.
 
 ## 1161.05   Design standards
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Design Standards Statement. The provisions of this chapter shall
 control the manner in which streets, lots and other elements of a subdivision
 are arranged on the land. These planning controls shall insure convenient and
@@ -668,8 +660,6 @@ the cost of the required improvements.
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.06   Required construction improvements
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Standards and Specifications. Standards and specifications for the
 construction of monuments, curbs, gutters, sidewalks, streetlights, water
@@ -967,8 +957,6 @@ these inspections shall be completed at the developer’s expense.
 
 ## 1161.07   Revisions; enforcement
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Recording of Plat. No plat or any subdivision shall be recorded by
 the County Recorder or have any validity until such plat has received final
 approval in the manner prescribed in these Regulations.
@@ -1015,8 +1003,6 @@ introduced by the subdivider.
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.09   Subdivision procedures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Preapplication sketch review with Village Administrator.  
 (Ord. 1988-25. Approved by voters 11-8-88.)
@@ -1118,8 +1104,6 @@ County.
 ## 1161.99   Penalty
 
 The following penalties shall apply to the violations of these Regulations:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whoever violates any rule or regulation adopted by Council for the
 purpose of setting standards and requiring and securing the construction of

@@ -36,8 +36,6 @@ title: "Chapter 521: Health, Safety and Sanitation"
 
 ## 521.01   Abandoned refrigerators and airtight containers
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall abandon, discard, or knowingly permit to remain on
 premises under his control, in a place accessible to children, any abandoned or
 discarded icebox, refrigerator or other airtight or semiairtight container
@@ -55,8 +53,6 @@ degree.
   
 
 ## 521.02   Venting of heaters and burners
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A brazier, salamander, space heater, room heater, furnace, water
 heater or other burner or heater using wood, coal, coke, fuel oil, kerosene,
@@ -125,8 +121,6 @@ degree.
 
 ## 521.03   Barricades and warning lights; abandoned  excavations
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall abandon or knowingly permit to remain on public or
 private property, any excavation, well, cesspool or structure which is in the
 process of construction, reconstruction, repair or alteration unless the same
@@ -144,8 +138,6 @@ with rock, gravel, earth or other suitable material.
 degree.
 
 ## 521.04   Interference with water works system; pollution
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall interfere in any manner with the operation or
 maintenance of the water works system of the Municipality, whether such system
@@ -167,8 +159,6 @@ degree.
 
 ## 521.05   Notice to fill lots, remove putrid substances
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall fail to comply with the following requirements within
 the lawful time after service or publication of the notice or resolution is
 made as required by law:
@@ -179,8 +169,6 @@ watercourses as provided  in Ohio R.C. 715.47.
 degree.
 
 ## 521.06   Disposal of solid wastes
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Solid wastes", for the purpose of this section, means such unwanted
 residual solid or semisolid material as results from industrial, commercial,
@@ -214,8 +202,6 @@ degree.
 (Editor’s note: Former Section 521.07 was repealed by Ordinance 1995-18, passed April 10, 1995.)
 
 ## 521.08   Littering and deposit of garbage, rubbish, junk, etc
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, regardless of intent, shall deposit litter or cause litter
 to be deposited on any public property, on private property not owned by the
@@ -292,8 +278,6 @@ public or private property, or in or on any waters.
 
 ## 521.09   Noxious or offensive odors
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall erect, continue, use or maintain a dwelling, building,
 structure or place for a residence or for the exercise of a trade, employment
 or business, or for the keeping or feeding of an animal which, by occasioning
@@ -304,8 +288,6 @@ health, comfort or property of individuals or of the public.
 degree.
 
 ## 521.10   Garbage or refuse outside eating establishments
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Any proprietor, manager or employee of a restaurant or eating
 establishment serving food to be eaten in parked automobiles or out of doors on
@@ -321,8 +303,6 @@ tightly fitting cover.
 degree.
 
 ## 521.11   Junk and junk vehicles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Definitions. For the purpose of this section, the following terms are
 defined as follows: 
@@ -379,8 +359,6 @@ degree.
 
 ## 521.12   Rat control
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Conditions Conducive to Harboring Rats. The following conditions are
 declared to be conducive to harboring rats and are hereby declared to be
 nuisances and prohibited:
@@ -436,8 +414,6 @@ degree.
 
 ## 521.13   Accumulations as fire hazards
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All ashes produced upon any property shall be so secured as not to
 constitute a fire hazard.
 2. _(b)_ No person shall permit any combustible waste or salvage material or
@@ -451,8 +427,6 @@ degree.
 
 ## 521.14   Storage and keeping of manure 
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall keep, store, gather or accumulate any manure at any
 place within the Municipality for any purposes, other than for use upon the
 premises where kept.
@@ -460,8 +434,6 @@ premises where kept.
 degree.
 
 ## 521.15   Swimming in chagrin river
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Swimming, including diving, is prohibited in the Chagrin River
 adjacent to Riverside Park, as well as from other Municipal property adjacent
@@ -473,8 +445,6 @@ persons of the prohibition prior to any arrest.
 degree.
 
 ## 521.16   Scavenging prohibited; exception
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall scavenge or remove recyclable refuse stored in
 curbside recycling containers for collection from any tree lawn or collection

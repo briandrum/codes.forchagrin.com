@@ -30,8 +30,6 @@ and (iv) conserve energy while maintaining safety, security and productivity.
 
 ## 1150.02   Definitions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Cut-off Angle (of a luminaire) - the angle, measured up from the
 nadir, between the vertical axis and the first line of site at which the bare
 source is not visible.
@@ -72,8 +70,6 @@ construction, safety, seasonal events, or public events.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1150.03   General requirements
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Outdoor lighting fixtures installed in all zoning districts other than
 the Parks, Conservation and all residential  districts, after the effective
@@ -185,8 +181,6 @@ this Chapter.
 
 ## 1150.04   Exemptions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Kerosene, propane, battery and natural gas lamps.
 2. _(b)_ All low voltage lighting rated at twenty-four volts or less.
 3. _(c)_ Decorative outdoor lighting fixtures with bulbs that do not exceed
@@ -211,8 +205,6 @@ Municipality.
      This Section identifies lighting applications which cause glare, decrease
 visibility, produce unattractive lighting environments or excessive light
 trespass or light pollution. These applications are prohibited.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Unshielded Light Sources. This type of lighting is prohibited except
 as described herein.

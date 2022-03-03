@@ -45,8 +45,6 @@ location.
 Pursuant to Section 353.01, the following streets between the specified termini are hereby
 designated as parking meter areas and zones:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ (Editor’s note: Former subsection (a) was repealed by Ordinance 2006-
 12, passed March 13, 2006.)
 2. _(b)_ South Main Street. West side from Washington St. south approximately
@@ -70,8 +68,6 @@ to approximately 250 feet east of Main St.
 (Ord. 1968-735. Passed 9-17-68.)
 
 ## 353.03   Regulation of parking in metered zones
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whenever a vehicle is parked in a metered parking zone where a parking
 meter has been installed, the person parking such vehicle shall either (i)
@@ -105,8 +101,6 @@ section Saturday afternoon shall not be considered a holiday.
 (Ord. 1968-735. Passed 9-17-68.)
 
 ## 353.04   Unlawful parking in metered zones
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall park or cause, allow or permit to be parked any
 vehicle owned or operated by such person in any parking space without

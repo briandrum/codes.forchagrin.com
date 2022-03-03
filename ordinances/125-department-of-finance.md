@@ -44,8 +44,6 @@ CHTR. Art. VIII, Sec.1
 
 As used in this chapter:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Public moneys" means all moneys in the Treasury of the Municipality
 or moneys coming lawfully into the possession of the Municipality’s Director of
 Finance.
@@ -73,8 +71,6 @@ inconsistent with the Municipal Charter and ordinances or resolutions.
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.02   Depositories
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Director of Finance shall determine the amount of public moneys
 which shall be available in active deposits to:
@@ -153,8 +149,6 @@ Chapter 125.
 
 As used in this chapter, "collateral securities" means securities maturing
 within five years from the date of their pledge and includes the following:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Bonds, notes or other direct obligations of the United States of
 America, or bonds, notes or other obligations guaranteed as to principal and
@@ -243,8 +237,6 @@ moneys deposited pursuant to this chapter through a single pool of collateral
 securities pledged for deposits of all public moneys held by the eligible
 depository, subject to the following conditions:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Collateral securities committed to the pool shall have a face value
 at least equal to one hundred ten percent (110%) of all public moneys on
 deposit with the depository bank including the amount covered by Federal
@@ -289,8 +281,6 @@ management practices with respect to the investment and deposit of these public
 moneys. The following investment and deposit objectives shall be applied in the
 management of public moneys:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The primary objective of the Municipality’s investment activities is
 the preservation of capital and the protection of investment principal.
 2. _(b)_ Those responsible for investing public moneys shall strive to
@@ -320,8 +310,6 @@ Municipality’s investment objectives.
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.08   Investments
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ All public moneys of the Municipality not deposited in active deposits
 or kept as a cash reserve as may be prescribed by the Director of Finance shall
@@ -446,8 +434,6 @@ rate, maturity or other terms as determined by the Director of Finance.
 
 ## 125.09   Miscellaneous provisions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The Director of Finance and his designees, the Mayor, the Director of
 Law and members of Council and their bondsmen or sureties shall be relieved
 from any liability for the loss of any public moneys deposited or invested
@@ -499,8 +485,6 @@ upon receiving an invoice from the Municipality.
 Passed 6-13- 05.)
 
 ## 125.13   Ambulance fees
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Director of Finance is hereby authorized and directed to cause the
 billing of recipients of ambulance service commencing June 13, 2005, within the
@@ -554,8 +538,6 @@ proper record keeping and auditing of such funds.
 (Ord. 2009-07. Passed 1-26-09.)
 
 ## 125.17   Unclaimed monies agency fund and transfer of unclaimed monies to the general fund
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The Director of Finance is authorized and directed to create and
 establish a restricted fund for unclaimed money, the Unclaimed Monies Agency

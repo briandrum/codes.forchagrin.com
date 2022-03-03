@@ -40,7 +40,6 @@ lights.
 
 ## Cross references
 
-
 See sectional histories for similar State law
 
 Warning devices for commercial vehicles disabled upon freeways - see Ohio
@@ -72,8 +71,6 @@ Bicycle equipment - see TRAF.
 
 ## 337.01   Driving unsafe vehicles
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall drive or move, or cause or knowingly permit to be
 driven or moved, on any street any vehicle or combination of vehicles which is
 in such unsafe condition as to endanger any person or property.
@@ -88,8 +85,6 @@ agricultural tractors except as made applicable to such articles of machinery.
 (ORC 4513.99)
 
 ## 337.02   Lighted lights; measurement of distances and heights
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Every vehicle, other than a motorized bicycle, operated upon a street
 or highway shall display lighted lights and illuminating devices as required by
@@ -125,8 +120,6 @@ prosecution of a person for a violation of that subsection.
 
 ## 337.03   Headlights on motor vehicles and motorcycles
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Every motor vehicle, other than a motorcycle, shall be equipped with
 at least two headlights with at least one near each side of the front of the
 motor vehicle.
@@ -136,8 +129,6 @@ two headlights. 
 (ORC 4513.04)
 
 ## 337.04   Tail light; illumination of rear license plate
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_  Every motor vehicle, trailer, semitrailer, pole trailer or vehicle
 which is being drawn at the end of a train of vehicles shall be equipped with
@@ -158,8 +149,6 @@ illuminating such registration plate. 
 
 ## 337.05   Rear red reflectors
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Every new motor vehicle sold after September 6, 1941, and operated on
 a street, other than vehicles of the type mentioned in Section 337.06 or a commercial tractor to which a trailer or semitrailer is attached,
 shall carry at the rear, either as a part of the tail lights or separately, two
@@ -170,8 +159,6 @@ vehicle.
 (ORC 4513.06)
 
 ## 337.06   Safety lighting on commercial vehicles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Buses, trucks, commercial tractors, trailers, semitrailers and pole
 trailers, when operated upon any street, shall be equipped with clearance
@@ -186,8 +173,6 @@ Utilities Commission are not subject to this section.
 (ORC 4513.07)
 
 ## 337.07   Obscured lights on vehicles in combination
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whenever motor and other vehicles are operated in combination during
 the time that lights are required, any light, except tail lights, which by
@@ -206,8 +191,6 @@ misdemeanor of the third degree.
 
 ## 337.08   Red light or red flag on extended loads
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Whenever the load upon any vehicle extends to the rear four feet or
 more beyond the bed or body of such vehicle, there shall be displayed at the
 extreme rear end of the load, at the times specified in Section 337.02, a red light or lantern plainly visible from a distance of at least 500
@@ -219,8 +202,6 @@ or cloth not less than sixteen inches square.
 (ORC 4513.09)
 
 ## 337.09   Lights on parked or stopped vehicles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Except in case of an emergency, whenever a vehicle is parked or
 stopped upon a roadway open to traffic or shoulder adjacent thereto, whether
@@ -236,8 +217,6 @@ Any lighted headlights upon a parked vehicle shall be depressed or dimmed.
 (ORC 4513.99)
 
 ## 337.10   Lights on slow-moving vehicles; emblem required
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ All vehicles other than bicycles, including animal-drawn vehicles and
 vehicles referred to in Section 337.01(c), not specifically required to be equipped with lights or other
@@ -355,8 +334,6 @@ or less. 
 
 ## 337.11   Spotlight and auxiliary lights
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any motor vehicle may be equipped with not more than one spotlight and
 every lighted spotlight shall be so aimed and used upon approaching another
 vehicle that no part of the high-intensity portion of the beam will be directed
@@ -370,8 +347,6 @@ when used shall conform to State regulations.
 
 ## 337.12   Cowl, fender and back-up lights
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any motor vehicle may be equipped with side cowl or fender lights or
 lights on each side thereof which shall emit a white or amber light without
 glare.
@@ -382,8 +357,6 @@ continuously lighted when the motor vehicle is in forward motion.
 (ORC 4513.13)
 
 ## 337.13   Display of lighted lights
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ At all times mentioned in Section 337.02 at least two State approved lighted lights shall be displayed conforming
 to State regulations, one near each side of the front of every motor vehicle,
@@ -397,8 +370,6 @@ not more than two lighted lights as required herein.
 
 ## 337.14   Use of headlight beams
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Whenever a motor vehicle is being operated on a roadway or shoulder
 adjacent thereto during the times specified in Section 337.02, the driver shall use a distribution of light, or composite beam,
 directed high enough and of sufficient intensity to reveal persons, vehicles
@@ -411,8 +382,6 @@ driver. 
 
 ## 337.15   Lights of less intensity on slow-moving vehicles
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Any motor vehicle may be operated under the conditions specified in
 Section 337.02 when it is equipped with two lighted lights upon the front thereof
 capable of revealing persons and substantial objects seventy-five feet ahead in
@@ -422,8 +391,6 @@ of twenty miles per hour. 
 (ORC 4513.16)
 
 ## 337.16   Number of lights; limitations on flashing, oscillating or rotating lights
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whenever a motor vehicle equipped with headlights also is equipped
 with any auxiliary lights or spotlight or any other light on the front thereof
@@ -480,8 +447,6 @@ escorting farm machinery, when used on a street or highway. 
 
 ## 337.17   Focus and aim of headlights
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall use any lights mentioned in Section 337.02 to 337.16, inclusive, upon any motor vehicle, trailer or semitrailer unless the
 lights are equipped, mounted and adjusted as to focus and aim in accordance
 with State regulations. 
@@ -493,8 +458,6 @@ of this subsection.
 (ORC 4513.19)
 
 ## 337.18   Motor vehicle and motorcycle brakes
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The following requirements govern as to brake equipment on vehicles:
     1. _(1)_ Every motor vehicle, other than a motorcycle, when operated upon a
@@ -578,8 +541,6 @@ on opposite sides of the vehicle.
 
 ## 337.19   Horn, siren and theft alarm signal
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Every motor vehicle when operated upon a street shall be equipped with
 a horn which is in good working order and capable of emitting sound audible,
 under normal conditions, from a distance of not less than 200 feet.
@@ -602,8 +563,6 @@ to other drivers or pedestrians.
 
 ## 337.20   Muffler; muffler cutout; excessive smoke, gas or noise
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Every motor vehicle and motorcycle with an internal combustion engine
 shall at all times be equipped with a muffler which is in good working order
 and in constant operation to prevent excessive or unusual noise, and no person
@@ -621,8 +580,6 @@ of an internal combustion engine under normal operation. 
 
 ## 337.21   Rear-view mirror; clear view to front, both sides and rear
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Every motor vehicle and motorcycle shall be equipped with a mirror so
 located as to reflect to the operator a view of the street to the rear of such
 vehicle or motorcycle. Operators of vehicles and motorcycles shall have a
@@ -633,8 +590,6 @@ motorcycles by mirror. 
 (ORC 4513.23)
 
 ## 337.22   Windshield and windshield wiper; sign or  poster thereon
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall drive any motor vehicle on a street or highway, other
 than a motorcycle or motorized bicycle, that is not equipped with a windshield.
@@ -677,8 +632,6 @@ controlled or operated by the operator of the vehicle.
 
 ## 337.23   Limited load extension on left side of passenger vehicle
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No passenger-type vehicle shall be operated on a street with any load
 carried on such vehicle which extends more than six inches beyond the line of
 the fenders on the vehicle’s left side.  
@@ -687,8 +640,6 @@ the fenders on the vehicle’s left side.
 (ORC 4513.99)
 
 ## 337.24   Motor vehicle stop lights
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Every motor vehicle, trailer, semitrailer, and pole trailer when
 operated upon a street or highway shall be equipped with two or more stop
@@ -714,8 +665,6 @@ manufactured with stop lights, are not subject to this section. 
 
 ## 337.25   Air cleaner required
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall operate a motor vehicle with an internal combustion
 engine unless the carburetion system of the vehicle is protected with an air
 filter, a flame arresting device, or any other accepted method of protection
@@ -732,8 +681,6 @@ offense within one year after the first offense, the person is guilty of a
 misdemeanor of the third degree.
 
 ## 337.26   Child restraint system usage
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ When any child who is in either or both of the following categories is
 being transported in a motor vehicle, other than a taxicab or public safety
@@ -829,8 +776,6 @@ subsections, the offender is guilty of a misdemeanor of the fourth degree.
 (ORC 4511.81)
 
 ## 337.27   Drivers and passengers required to wear seat belts
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section:
     1. _(1)_ "Automobile" means any commercial tractor, passenger car,
@@ -980,8 +925,6 @@ section is guilty of a misdemeanor of the third degree.
 
 ## 337.28   Use of sunscreening, nontransparent and reflectorized materials
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Requirements.
     1. _(1)_ No person shall operate, on any highway or other public or private
 property open to the public for vehicular travel or parking, lease, or rent any
@@ -1099,8 +1042,6 @@ misdemeanor.
 
 ## 337.29   Bumper heights
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Definitions.
     1. _(1)_ "Passenger car" means any motor vehicle with motive power, designed
 for carrying ten persons or less, except a multipurpose passenger vehicle or
@@ -1216,8 +1157,6 @@ original or replacement has been made.
 (ORC 4513.99)
 
 ## 337.30   Directional signals required
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. No person shall operate any motor vehicle manufactured or

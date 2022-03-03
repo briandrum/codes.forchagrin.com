@@ -45,8 +45,6 @@ title: "Chapter 545: Theft and Fraud"
 As used in this chapter, unless the context requires that a term be given a
 different meaning:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Deception" means knowingly deceiving another or causing another to be
 deceived, by any false or misleading representation, by withholding
 information, by preventing another from acquiring information, or by any other
@@ -226,8 +224,6 @@ Code.
 
 ## 545.02   Determining property value in theft offense
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ If more than one item of property or service is involved in a theft
 offense, the value of the property or services involved for the purpose of
 determining the value is the aggregate value of all property or services
@@ -347,8 +343,6 @@ the offender has previously been convicted of a theft offense, the provisions
 of Section 545.05 or
 545.18 do not apply if the property involved is any of the following:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A credit card;
 2. _(b)_ A printed form for a check or other negotiable instrument, that on its
 face identifies the drawer or maker for whose use it is designed or identifies
@@ -365,8 +359,6 @@ importer’s certificate to a motor vehicle, as prescribed by Ohio R.C. 4505.07;
 (ORC 2913.71)
 
 ## 545.04   Detention of shoplifters; rights of museums and libraries
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A merchant, or his employee or agent, who has probable cause to
 believe that items offered for sale by a mercantile establishment have been
@@ -434,8 +426,6 @@ this State.
 
 ## 545.05   Petty theft
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, with purpose to deprive the owner of property or services,
 shall knowingly obtain or exert control over either the property or services in
 any of the following ways:
@@ -501,8 +491,6 @@ accordance with Ohio R.C. Chapter 4510.
 
 ## 545.06   Unauthorized use of a vehicle; vehicle trespass
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall knowingly use or operate an aircraft, motor vehicle,
 motorcycle, motorboat or other motor-propelled vehicle without the consent of
 the owner or person authorized to give consent.
@@ -528,8 +516,6 @@ shall be prosecuted under appropriate State law.
 a misdemeanor of the fourth degree.
 
 ## 545.07   Insurance fraud
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section:
     1. _(1)_ "Data" has the same meaning as in Section 545.01 and additionally includes any other representation of information,
@@ -578,8 +564,6 @@ R.C. 2317.02(A).
 
 ## 545.08   Unauthorized use of property
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall knowingly use or operate the property of another
 without the consent of the owner or person authorized to give consent.
 2. _(b)_ The affirmative defenses contained in Section 545.06(c) are affirmative defenses to a charge under this section.
@@ -599,8 +583,6 @@ adult.
 (ORC 2913.04)
 
 ## 545.09   Passing bad checks
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section:
     1. _(1)_ “Check” includes any form of debit from a demand deposit account,
@@ -644,8 +626,6 @@ prosecuted under appropriate State law.
 
 ## 545.10   Misuse of credit cards
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall do any of the following:
     1. _(1)_ Practice deception for the purpose of procuring the issuance of a
 credit card, when a credit card is issued in actual reliance thereon;
@@ -680,8 +660,6 @@ and the offense involves a violation of subsection (b)(1) or (2) hereof.
 
 ## 545.11   Making or using slugs
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall do any of the following:
     1. _(1)_ Insert or deposit a slug in a coin machine, with purpose to
 defraud;
@@ -692,8 +670,6 @@ misdemeanor of the second degree.
 (ORC 2913.33)
 
 ## 545.12   Tampering with coin machines
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, with purpose to commit theft or to defraud, shall knowingly
 enter, force an entrance into, tamper with or insert any part of an instrument
@@ -706,8 +682,6 @@ appropriate State law.
 (ORC 2911.32)
 
 ## 545.13   Criminal simulation
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, with purpose to defraud, or knowing that the person is
 facilitating a fraud, shall do any of the following:
@@ -735,8 +709,6 @@ prosecuted under appropriate State law.
 
 ## 545.14   Tampering with records
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, knowing the person has no privilege to do so, and with
 purpose to defraud or knowing that the person is facilitating a fraud, shall do
 any of the following:
@@ -754,8 +726,6 @@ under appropriate State law.
 
 ## 545.15   Securing writings by deception
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, by deception, shall cause another to execute any writing
 that disposes of or encumbers property, or by which a pecuniary obligation is
 incurred.
@@ -770,8 +740,6 @@ active duty service member or spouse of an active duty service member.
 
 ## 545.16   Personating an officer
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, with purpose to defraud or knowing that he is facilitating
 a fraud, or with purpose to induce another to purchase property or services,
 shall personate a law enforcement officer, or an inspector, investigator or
@@ -781,8 +749,6 @@ misdemeanor of the first degree.
 (ORC 2913.44)
 
 ## 545.17   Defrauding creditors
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, with purpose to defraud one or more of the person’s
 creditors, shall do any of the following:
@@ -799,8 +765,6 @@ be prosecuted under appropriate State law.
 (ORC 2913.45)
 
 ## 545.18   Receiving stolen property
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall receive, retain or dispose of property of another,
 knowing or having reasonable cause to believe that the property has been
@@ -826,8 +790,6 @@ bulk merchandise container as defined in Ohio R.C. 4737.012.
 
 ## 545.19   Possession of criminal tools
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall possess or have under the person’s control any
 substance, device, instrument, or article, with purpose to use it criminally.
 2. _(b)_ Each of the following constitutes prima-facie evidence of criminal
@@ -848,8 +810,6 @@ for use in the commission of a felony.
 (ORC 2923.24)
 
 ## 545.20   Forgery of identification cards
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall knowingly do either of the following:
     1. _(1)_ Forge an identification card;

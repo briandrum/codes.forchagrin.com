@@ -25,7 +25,6 @@ title: "Chapter 1355: Erosion and Sediment Control"
 
 ## Cross references
 
-
 Comprehensive stormwater management - see BLDG. Ch.
 1357
 
@@ -33,8 +32,6 @@ Illicit discharge and illegal connection control - see BLDG. Ch.
 1359
 
 ## 1355.01   Purpose and scope
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The purpose of this regulation is to establish technically feasible
 and economically reasonable standards to achieve a level of erosion and
@@ -60,8 +57,6 @@ compliance with, the Ohio Agricultural Sediment Pollution Abatement Rules.
 
 For purpose of this regulation, the following terms shall have the meaning
 herein indicated:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ ABBREVIATED (ABBREVIATED SWP3): The written document that sets forth
 the plans and to be used to meet the requirements of this regulation.
@@ -303,8 +298,6 @@ individual or for the benefit of any particular parcel of property.
 
 ## 1355.04   Conflicts, severability, nuisances and responsibility
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Where this regulation is in conflict with other provisions of law or
 ordinance, the most restrictive provisions shall prevail.
 2. _(b)_ If any clause, section, or provision of this regulation is declared
@@ -323,8 +316,6 @@ resulting therefrom.
 (Ord.  2016-80. Passed 12-12-16.)
 
 ## 1355.05   Development of stormwater pollution prevention plans
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ This regulation requires that a (SWP3) be developed and implemented
 for all commercial and industrial site development and all development projects
@@ -355,8 +346,6 @@ provisions of this regulation.
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.06   Application procedures
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Soil Disturbing Activities Submitting a (SWP3): The applicant shall
 submit two (2) sets of the SWP3 and the applicable fees to the Village of
@@ -411,8 +400,6 @@ those listed below. All submittals required to show proof of compliance with
 these state and federal regulations shall be submitted with SWP3s or
 Abbreviated SWP3s.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Ohio EPA NPDES Permits authorizing stormwater discharges associated
 with construction activity or the most current version thereof: Proof of
 compliance with these requirements shall be the applicant’s Notice of Intent
@@ -454,8 +441,6 @@ owner certifying and explaining why the Ohio Dam Safety Law is not applicable. 
 (Ord.  2016-80. Passed 12-12-16.)
 
 ## 1355.08   SWP3
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ In order to control sediment pollution of water resources, the
 applicant shall submit a SWP3 in accordance with the requirements of this
@@ -661,8 +646,6 @@ Erosion and sediment controls shall be designed, installed and maintained
 effectively to minimize the discharge of pollutants during the course of earth
 disturbing activities. The controls shall include the following minimum
 components:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Non-structural Preservation Measures: The SWP3 must make use of
 measures that preserve the existing natural condition to the maximum extent
@@ -1110,8 +1093,6 @@ stormwater control measures (SCMs).
 
 ## 1355.10   Abbreviated SWP3
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ In order to control sediment pollution of water resources, the
 applicant shall submit an Abbreviated SWP3 in accordance with the requirements
 of this regulation.
@@ -1197,8 +1178,6 @@ with the Village Engineer for current fee schedule.
 
 ## 1355.12   Bond
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ If a SWP3 or SWP3 is required by this regulation, soil disturbing
 activities shall not be permitted until a cash bond has been deposited with the
 Village of Chagrin Falls Finance Department. The amount shall be One Thousand
@@ -1218,8 +1197,6 @@ Falls Engineer.
 (Ord.  2016-80. Passed 12-12-16.)
 
 ## 1355.13   Enforcement
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ If the Village of Chagrin Falls or its duly authorized representative
 determines that a violation of the rules adopted under this code exist, the
@@ -1276,8 +1253,6 @@ received approval for an SWP3 for said project(s).
 
 ## 1355.14   Violations
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall violate or cause or knowingly permit to be violated
 any of the provisions of this regulation, or fail to comply with any of such
 provisions or with any lawful requirements of any public authority made
@@ -1306,8 +1281,6 @@ on the Village.
 (Ord.  2016-80. Passed 12-12-16.)
 
 ## 1355.99   Violations and penalties
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Any person, firm, entity or corporation; including but not limited to,
 the owner of the property, his agents and assigns, occupant, property manager,

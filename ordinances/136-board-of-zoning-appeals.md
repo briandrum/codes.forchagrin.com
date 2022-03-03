@@ -27,8 +27,6 @@ CHTR. Art. VII, Sec. 10
 
 ## 136.01   Establishment; members
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ There is hereby created a Board of Zoning Appeals which shall consist
 of one member of Council selected by Council annually, who does not
 simultaneously hold an appointment to the Planning Commission, and four

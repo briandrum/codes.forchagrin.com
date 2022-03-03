@@ -47,8 +47,6 @@ Article VI, Section 2, of the Charter, the Chief Administrative Officer shall
 be the head of the Department of Public Service and shall have the following
 duties:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Manage, conduct and supervise all operations of the municipally-owned
 utilities.
 2. _(b)_ Make investigations and analyses of finances of the municipally-owned
@@ -83,8 +81,6 @@ December 14, 1987.)
 
 ## 133.05   Streets and services division and street  superintendent
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Streets and Services Division. There is hereby established a Streets
 and Services Division in the Department of Public Service, which shall be
 administered and controlled by a Street Superintendent, subject to the
@@ -100,8 +96,6 @@ referred to as the Superintendent of Streets in the Codified Ordinances.
 (Ord. 2008-65. Passed 12-8-08.)
 
 ## 133.06   Utilities division, water department, wastewater department, and superintendent of utilities
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Utilities Division. There is hereby established a Utilities Division
 in the Department of Public Service, which shall be administered and controlled

@@ -33,8 +33,6 @@ Pollutant Discharge Elimination System (NPDES) permit process as required by
 the Ohio Environmental Protection Agency (Ohio EPA). The objectives of this
 regulation are:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To prohibit illicit discharges and illegal connections to the MS4; and
 2. _(b)_ To establish legal authority to carry out inspections, monitoring
 procedures, and enforcement actions necessary to ensure compliance with this
@@ -53,8 +51,6 @@ activities detailed in Section 1359.07 (a)(1) to (a)(3) of this regulation. 
 
 The words and terms used in this regulation, unless otherwise expressly
 stated, shall have the following meaning:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Best Management Practices (BMPs):  Means schedules of activities,
 prohibitions of practices, general good housekeeping practices, pollution
@@ -139,8 +135,6 @@ individual or for the benefit of any particular parcel of property.
 
 ## 1359.05   Conflicts, severability, nuisances and responsibility
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_  Where this regulation is in conflict with other provisions of law or
 ordinance, the most restrictive provisions, as determined by the Village of
 Chagrin Falls, shall prevail.
@@ -167,8 +161,6 @@ to assist with enforcement actions.
 (Ord. 2011-40. Passed 6-27-11.)
 
 ## 1359.07   Discharge and connection prohibitions
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Prohibition of Illicit Discharges.  No person shall discharge, or
 cause to be
@@ -219,8 +211,6 @@ a connection to continue.
 
 ## 1359.08   Monitoring of illicit discharges and illegal connections
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Establishment of an Illicit Discharge and Illegal Connection
 Monitoring Program: The Village of Chagrin Falls shall establish a program to
 detect and eliminate illicit discharges and illegal connections to the MS4.
@@ -266,8 +256,6 @@ the facility owner/operator.
 (Ord. 2011-40. Passed 6-27-11.)
 
 ## 1359.09   Enforcement
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_  Notice of Violation. When the Village of Chagrin Falls finds that a
 person has violated a prohibition or failed to meet a requirement of this

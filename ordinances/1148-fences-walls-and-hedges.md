@@ -24,8 +24,6 @@ Fence permit - see BLDG.
 
        In addition to the applicable provisions of the intent stated in Section 1105.03, it is the intent of these regulations:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To regulate the location, height and overall general characteristics
 of fencing, walls, hedges, or any combination thereof within the front, side or
 rear yards of any property within the Municipality;
@@ -41,8 +39,6 @@ regulating retaining walls and minimizing their impact on contiguous property.
 ## 1148.02   Definitions and references
 
 As used in this chapter, unless the context otherwise indicates:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Fence" means a barrier open to light and air which is constructed of
 non-living materials in order to enclose, screen, or secure property, or, a
@@ -62,8 +58,6 @@ a means of designating a property boundary. A solid fence is considered a wall.
 
 Fences, walls, and hedges shall be permitted in front, side, or rear yards
 subject to the following limitations and requirements:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Construction. Fences and walls must be of uniform design and
 constructed of durable materials, maintained in good condition, and not
@@ -104,8 +98,6 @@ set forth in Section 1142.06.
 
 ## 1148.04   Permits
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Permit Required. No person shall erect any fence,  wall, or retaining
 wall without first obtaining a building permit and making payment of the fee
 required by Section 1309.14 of the Building Code.
@@ -115,8 +107,6 @@ such locations prior to issuing a permit.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1148.05   Fences, walls, and hedges permitted:  residential districts
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Front Yards. Fences, walls and hedges shall not exceed three and one-
 half feet in height above finished grade. However, fences, walls and hedges
@@ -152,8 +142,6 @@ height above finished grade.
 
 ## 1148.06   Fences, walls, nd hedges permitted: non-residential districts
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Height. Fences, walls, and hedges shall not exceed eight feet in
 height. Any fence, wall, or hedge which restricts the visibility along a
 traveled right-of-way, shall be located subject to the approval of the Planning
@@ -186,8 +174,6 @@ height above finished grade.
 (Ord. 2019-39. Passed 8-13-19; Ord.  2019-56. Passed 3-9-20.)
 
 ## 1148.07   Retaining walls
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A retaining wall may be constructed on property where topographic
 conditions warrant or where necessary to retain fill or cut slopes.

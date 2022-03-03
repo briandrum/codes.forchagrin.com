@@ -40,8 +40,6 @@ title: "Chapter 533: Obscenity and Sex Offenses"
 
 As used in this chapter:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Sexual conduct" means vaginal intercourse between a male and female;
 anal intercourse, fellatio and cunnilingus between persons regardless of sex;
 and, without privilege to do so, the insertion, however slight, of any part of
@@ -128,8 +126,6 @@ restrained.
 
 ## 533.02   Presumption of knowledge; actual notice and defense
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ An owner or manager, or agent or employee of an owner or manager, of a
 bookstore, newsstand, theater, or other commercial establishment engaged in
 selling materials or exhibiting performances, who, in the course of business
@@ -199,8 +195,6 @@ application. To this end, the provisions are severable.
 
 ## 533.03   Unlawful sexual conduct with a minor
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, who is eighteen years of age or older, shall engage in
 sexual conduct with another, who is not the spouse of the offender, when the
 offender knows the other person is thirteen years of age or older but less than
@@ -214,8 +208,6 @@ felony and shall be prosecuted under appropriate State law.
 (ORC 2907.04)
 
 ## 533.04   Sexual imposition
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall have sexual contact with another, not the spouse of
 the offender; cause another, not the spouse of the offender, to have sexual
@@ -262,8 +254,6 @@ St.  3rd 264 (2002).)
 
 ## 533.06   Voyeurism
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, for the purpose of sexually arousing or gratifying the
 person’s self, shall commit trespass or otherwise surreptitiously invade the
 privacy of another, to spy or eavesdrop upon another.
@@ -286,8 +276,6 @@ degree.
 (ORC 2907.08)
 
 ## 533.07   Public indecency
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall recklessly do any of the following, under
 circumstances in which the person’s conduct is likely to be viewed by and
@@ -369,8 +357,6 @@ to registration under Ohio R.C. 2950.04, 2950.041, 2950.05 and 2950.06.
 
 ## 533.08   Procuring; engagement in sexual activity for hire
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, knowingly and for gain, shall do either of the following:
     1. _(1)_ Entice or solicit another to patronize a prostitute or brothel;
     2. _(2)_ Procure a prostitute for another to patronize, or take or direct
@@ -411,8 +397,6 @@ of not more than one thousand five hundred dollars ($1,500).
 
 ## 533.09   Soliciting
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall knowingly solicit another to engage in sexual activity
 for hire in exchange for the person receiving anything of value from the other
 person.
@@ -432,8 +416,6 @@ under appropriate state law.
 (ORC 2907.24)
 
 ### 533.091   Loitering to engage in solicitation
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, with purpose to solicit another to engage in sexual
 activity for hire and while in or near a public place, shall do any of the
@@ -470,8 +452,6 @@ prosecuted under appropriate state law.
 
 ## 533.10   Prostitution
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall engage in sexual activity for hire.
 2. _(b)_ No person, with knowledge that the person has tested positive as a
 carrier of a virus that causes acquired immunodeficiency syndrome, shall engage
@@ -485,8 +465,6 @@ under appropriate state law.
          (ORC  2907.25)
 
 ## 533.11   Disseminating matter harmful to juveniles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, with knowledge of its character or content, shall
 recklessly do any of the following:
@@ -563,8 +541,6 @@ prosecuted under appropriate State law.
 
 ## 533.12   Deception to obtain matter harmful to juveniles
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, for the purpose of enabling a juvenile to obtain any
 material or gain admission to any performance which is harmful to juveniles
 shall do either of the following:
@@ -588,8 +564,6 @@ disposition of the case as may be appropriate under Ohio R.C. Chapter 2151.
 
 ## 533.13   Displaying matter harmful to juveniles
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person who has custody, control or supervision of a commercial
 establishment, with knowledge of the character or content of the material
 involved, shall display at the establishment any material that is harmful to
@@ -608,8 +582,6 @@ offender is in violation of this section constitutes a separate offense.
 
 ## 533.14   Unlawful advertising of massage
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, by means of a statement, solicitation, or offer in a print
 or electronic publication, sign, placard, storefront display, or other medium,
 shall advertise massage, relaxation massage, any other massage technique or
@@ -624,8 +596,6 @@ subsections (a) and (b) of this section.
 (ORC 2927.17)
 
 ## 533.15   Dissemination of private sexual images
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section:
     1. _(1)_ “Disseminate” means to post, distribute, or publish on a computer

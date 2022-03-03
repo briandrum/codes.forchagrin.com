@@ -47,8 +47,6 @@ having obtained a permit for such work from the Village.
 Prior to obtaining such permit, the person shall furnish the Village with
 the following:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ A plan and general specifications showing the proposed location,
 extent and nature of the work contemplated.
 2. _(b)_ Indemnity insurance saving the Village harmless from any damage to
@@ -95,8 +93,6 @@ Codified Ordinances.
 
 The following rules and regulations shall govern the excavation of streets
 in the Village:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Special care shall be taken to reference all Village, Federal, State,
 County or private property monuments encountered in the line of the work so

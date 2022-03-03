@@ -23,8 +23,6 @@ Environmental performance regulations - see P. & Z. Ch.
      In addition to the applicable provisions of the intent stated in Section 1105.03, it is the intent of these regulations to provide for the placement of
 solar energy systems to achieve the following objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To regulate the construction, modification, operation and abandonment
 of solar energy systems;
 2. _(b)_ To require solar energy systems to meet reasonable standards that will
@@ -37,8 +35,6 @@ effective, and efficient use of solar energy systems. 
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1153.02   Definitions
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ "Abandonment" means the discontinued use of the solar energy
 generation system in whole or part.
@@ -58,8 +54,6 @@ converting it to electrical power.
 
 ## 1153.03   Applicability
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Solar energy systems shall be designed, erected, installed, operated,
 and maintained in accordance with the provisions set forth in this Chapter. 
 2. _(b)_ A Building Permit and Electrical Permit shall be required prior to the
@@ -72,8 +66,6 @@ undertaken without first obtaining a permit.
 ## 1153.04   Application requirements
 
      In addition to the application requirements set forth in Section 1109.04, an application for a solar energy system shall include:    
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The manufacturer’s specifications.
 2. _(b)_ Complete architectural and engineering drawings, adequately scaled and
@@ -106,8 +98,6 @@ of electrical disconnection switch.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1153.05   General requirements
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Solar energy systems shall be permitted as accessory to a main use or
 building located on the same lot or parcel. Such facilities shall be designed,
@@ -170,8 +160,6 @@ compliance with all manufacturers’ specifications.
 Upon abandonment, the owner shall physically remove the solar energy system
 within sixty (60) days from the date of abandonment. "Physically remove" shall
 include, but not be limited to:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Removal of the solar energy system and related above grade structures.
 2. _(b)_ Restoration of the location of the solar energy system to its prior

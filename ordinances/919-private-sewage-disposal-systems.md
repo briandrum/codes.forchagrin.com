@@ -16,8 +16,6 @@ CROSS REFERENCE
 
 ## 919.01   Permit required; installation; standards
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Compliance Required. Where a public sanitary sewer is not available
 under the provisions of Section 911.02(d), the building sewer shall be connected to a private sewage disposal
 system complying with the provisions of this chapter.
@@ -61,8 +59,6 @@ bank-run gravel or dirt.
 
 ## 919.02   Pumping and cleaning septic tanks
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ All septic tanks located within the Municipality shall be pumped and
 cleaned at intervals of not to exceed three years. Any such tank which
 discharges settleable solids shall be cleaned immediately upon such condition
@@ -91,8 +87,6 @@ date of this section.
 (Ord. 1967-681. Passed 3-21-67.)
 
 ## 919.03   Household aerobic sewage treatment systems
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ All household aerobic sewage treatment systems located within the
 Municipality shall be inspected for proper operation at intervals not to exceed
@@ -132,8 +126,6 @@ notification by the Chief Administrative Officer of the deficiencies.
 (Editor’s note: Section 919.04 was repealed by Ordinance 2005-28, passed June 13, 2005.)
 
 ## 919.99   Penalty
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whoever violates any provision of this chapter shall be served by the
 Municipality with written notice stating the nature of the violation and

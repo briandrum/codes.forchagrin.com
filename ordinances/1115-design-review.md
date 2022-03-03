@@ -25,8 +25,6 @@ Review and approval procedures - see P. & Z.
 Municipality these regulations are established to achieve, among others, the
 following objectives:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ To preserve and protect the public health, safety and welfare by
 maintaining the high character of community development;
 2. _(b)_ To protect the real estate within the Municipality from impairment or
@@ -42,8 +40,6 @@ existing buildings, signs and structures. 
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1115.02   Applicability and limitations
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Applicability. No building or other structure in the Municipality
 shall be erected, altered in exterior construction or appearance, enlarged,
@@ -64,8 +60,6 @@ or alteration would materially and adversely affect another property.
 The following procedures are established to govern the processing of
 applications for building permits and other municipal authorizations in
 accordance with the regulations of this chapter.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Mandatory Referral.  As directed by Section 1109.05(b)(1), all requests for building permits shall first be referred to the
 Architectural Board of Review for a determination of compliance with the
@@ -95,8 +89,6 @@ grade lines and orientation of new construction, and to make recommendations to
 the applicant regarding the proposed design. In conducting its review, the
 Architectural Board of Review shall:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Consider and take cognizance of the development of adjacent,
 contiguous, and neighboring properties for the purpose of achieving safe,
 harmonious, and integrated development of related properties;
@@ -122,8 +114,6 @@ it.
 
 ## 1115.06   Maintenance requirements
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Nothing in this chapter shall be construed to prevent or delay the
 reconstruction, alteration  or demolition of a structure or feature which has
 been ordered by the Administrator upon certification of an unsafe condition
@@ -140,8 +130,6 @@ Board of Review based on the foundation of the Charter and Codified Ordinances
 of the Municipality were adopted by Council on October 10, 2005. For additional
 design regulations for specific uses or zoning districts, refer to the following
 among others:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Building and site design regulations for attached single family
 development in the ASF District as set forth in Sections

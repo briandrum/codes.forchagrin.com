@@ -67,8 +67,6 @@ sidewalk.
 
 ## 331.01   Driving upon right side of roadway; exceptions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Upon all roadways of sufficient width, a vehicle shall be driven upon
 the right half of the roadway, except as follows:
     1. _(1)_ When overtaking and passing another vehicle proceeding in the same
@@ -123,8 +121,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.02   Passing to right when proceeding in opposite directions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Operators of vehicles proceeding in opposite directions shall pass
 each other to the right, and upon roadways having width for not more than one
 line of traffic in each direction, each operator shall give to the other one-
@@ -144,8 +140,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.26)
 
 ## 331.03   Overtaking, passing to left; driver’s duties
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The following rules govern the overtaking and passing of vehicles
 proceeding in the same direction:
@@ -180,8 +174,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.04   Overtaking and passing upon right
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The driver of a vehicle may overtake and pass upon the right of
 another vehicle only under the following conditions:
     1. _(1)_ When the vehicle overtaken is making or about to make a left turn;
@@ -205,8 +197,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.28)
 
 ## 331.05   Overtaking, passing to left of center
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No vehicle shall be driven to the left of the center of the roadway in
 overtaking and passing traffic proceeding in the same direction, unless such
@@ -232,8 +222,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.29)
 
 ## 331.06   Additional restrictions on driving upon left side of roadway
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No vehicle shall be driven upon the left side of the roadway under the
 following conditions:
@@ -262,8 +250,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.30)
 
 ## 331.07   Hazardous or no passing zones
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Hazardous zones, commonly called "no passing zones," shall consist of
 an auxiliary yellow line marked on the roadway pavement and placed parallel to
@@ -307,8 +293,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.08   Driving in marked lanes or continuous lines of traffic
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Whenever any roadway has been divided into two or more clearly marked
 lanes for traffic or wherever traffic is lawfully moving in two or more
 substantially continuous lines in the same direction, the following rules
@@ -350,8 +334,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.09   Following too closely
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The operator of a motor vehicle shall not follow another vehicle more
 closely than is reasonable and prudent, having due regard for the speed of such
 vehicle and the traffic upon and the condition of the highway.  
@@ -379,8 +361,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.34)
 
 ## 331.10   Turning at intersections
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The driver of a vehicle intending to turn at an intersection shall be
 governed by the following rules:
@@ -423,8 +403,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.11   Turning into private driveway, alley or building
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The driver of a vehicle intending to turn into a private road or
 driveway, alley or building from a public street or highway shall be governed
 by the following rules:
@@ -447,8 +425,6 @@ offense within one year after the first offense, the person is guilty of a
 misdemeanor of the third degree.
 
 ## 331.12   "U" TURNS RESTRICTED
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Except as provided in Section 313.03 and subsection (b) hereof, no vehicle shall be turned so as to proceed
 in the opposite direction upon any curve, or upon the approach to or near the
@@ -487,8 +463,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.13   Starting and backing vehicles
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall start a vehicle which is stopped, standing or parked
 until such movement can be made with reasonable safety.  
 Before backing, operators of vehicles shall give ample warning, and while
@@ -511,8 +485,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.38)
 
 ## 331.14   Signals before changing course, turning or stopping
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall turn a vehicle or move right or left upon a highway
 unless and until such person has exercised due care to ascertain that the
@@ -560,8 +532,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.15   Hand and arm signals
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Except as provided in subsection (b) hereof, all signals required by
 this Traffic Code, when given by hand and arm shall be given from the left side
 of the vehicle in the following manner, and such signals shall indicate as
@@ -587,8 +557,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.40)
 
 ## 331.16   Right of way at intersections
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ When two vehicles approach or enter an intersection from different
 streets or highways at approximately the same time, the driver of the vehicle
@@ -616,8 +584,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.17   Right of way when turning left
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The operator of a vehicle intending to turn to the left within an
 intersection or into an alley, private road or driveway shall yield the right
 of way to any vehicle approaching from the opposite direction, whenever the
@@ -637,8 +603,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.42)
 
 ## 331.18   Operation of vehicle at yield signs
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The driver of a vehicle approaching a yield sign shall slow down to a
 speed reasonable for the existing conditions and, if required for safety to
@@ -668,8 +632,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.19   Operation of vehicle at stop signs
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Except when directed to proceed by a law enforcement officer, every
 driver of a vehicle approaching a stop sign shall stop at a clearly marked stop
 line, but if none before entering the crosswalk on the near side of the
@@ -694,8 +656,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.20   Emergency or public safety vehicles at stop signals or signs
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The driver of any emergency vehicle or public safety vehicle, when
 responding to an emergency call, upon approaching a red or stop signal or any
 stop sign shall slow down as necessary for safety to traffic, but may proceed
@@ -715,8 +675,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.03)
 
 ## 331.21   Right of way of public safety or coroner’s vehicle
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Upon the approach of a public safety vehicle or coroner’s vehicle,
 equipped with at least one flashing, rotating or oscillating light visible
@@ -746,8 +704,6 @@ first offense, the person is guilty of a misdemeanor of the second degree.
 (ORC 4511.45)
 
 ### 331.211   Report of vehicle failing to yield right of way to public safety vehicle
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ When the failure of a motor vehicle operator to yield the right-of-way
 to a public safety vehicle as required by Section 331.21(a) impedes the ability of the public safety vehicle to respond to an
@@ -793,8 +749,6 @@ of the Public Utilities Commission.
 
 ## 331.22   Driving onto roadway from place other than roadway: duty to yield
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Subject to compliance with any traffic control device, the operator of
 a vehicle about to enter or cross a highway from an alley or from any place
 other than another roadway shall yield the right of way to all traffic
@@ -813,8 +767,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.44)
 
 ## 331.23   Driving onto roadway from place other than roadway: stopping at sidewalk
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Subject to compliance with any traffic control device, the driver of a
 vehicle emerging from an alley, building, private road or driveway within a
@@ -837,8 +789,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.431)
 
 ## 331.24   Right of way of funeral procession
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section "funeral procession" means two or more
 vehicles accompanying the cremated remains or the body of a deceased person in
@@ -873,8 +823,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.25   Driver’s view and control to be unobstructed by load or persons
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall drive a vehicle when it is so loaded, or when there
 are in the front seat such number of persons, as to obstruct the view of the
 driver to the front or sides of the vehicle or to interfere with the driver’s
@@ -894,8 +842,6 @@ misdemeanor of the third degree.
 
 ## 331.26   Driving upon street posted as closed for repair
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall drive upon, along or across a street or highway, or
 any part of a street or highway that has been closed in the process of its
 construction, reconstruction or repair, and posted with appropriate signs by
@@ -914,8 +860,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.71)
 
 ## 331.27   Following and parking near emergency or safety vehicles
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The driver of any vehicle, other than an emergency vehicle or public
 safety vehicle on official business, shall not follow any emergency vehicle or
@@ -938,8 +882,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.28   Driving over fire hose
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No vehicle shall, without the consent of the Fire Chief or fire
 official in command, be driven over any unprotected fire hose that is laid down
 on any street or private driveway to be used at any fire or alarm of fire. 
@@ -958,8 +900,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.29   Driving through safety zone
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No vehicle shall at any time be driven through or within a safety
 zone.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -976,8 +916,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.60)
 
 ## 331.30   One-way streets and rotary traffic islands
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Upon a roadway designated and posted with signs for one-way traffic a
 vehicle shall be driven only in the direction designated. A vehicle passing
@@ -997,8 +935,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.32)
 
 ## 331.31   Driving upon divided roadways
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whenever any street has been divided into two roadways by an
 intervening space, or by a physical barrier, or clearly indicated dividing
@@ -1024,8 +960,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.32   Entering and exiting controlled-access highway
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall drive a vehicle onto or from any controlled-access
 highway except at such entrances and exits as are established by public
 authority.
@@ -1036,8 +970,6 @@ offense within one year after the first offense, the person is guilty of a
 misdemeanor of the third degree.
 
 ## 331.33   Obstructing intersection, crosswalk or grade crossing
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No driver shall enter an intersection or marked crosswalk or drive
 onto any railroad grade crossing unless there is sufficient space on the other
@@ -1060,8 +992,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.34   Failure to control; weaving; full time and attention
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall operate a vehicle without exercising reasonable and
 ordinary control over such vehicle.
 2. _(b)_ No person shall operate a vehicle in a weaving or zigzag course unless
@@ -1077,8 +1007,6 @@ misdemeanor of the third degree.
 
 ## 331.35   Occupying a moving trailer or manufactured or mobile home
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall occupy any travel trailer or manufactured or mobile
 home while it is being used as a conveyance upon a street or highway.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -1093,8 +1021,6 @@ misdemeanor of the third degree.
 
 ## 331.36   Squealing tires, "peeling," cracking exhaust noises
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall unnecessarily race the motor of any vehicle and no
 person shall operate any motor vehicle, except in an emergency, in such a
 manner that the vehicle is so rapidly accelerated or started from a stopped
@@ -1108,8 +1034,6 @@ offense within one year after the first offense, the person is guilty of a
 misdemeanor of the third degree.
 
 ## 331.37   Driving upon sidewalks, street lawns or curbs
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. No person shall drive any vehicle, other than a bicycle or an
@@ -1141,8 +1065,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 (ORC 4511.711)
 
 ## 331.38   Stopping for school bus; discharging children
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ The driver of a vehicle upon meeting or overtaking from either
 direction any school bus stopped for the purpose of receiving or discharging
@@ -1219,8 +1141,6 @@ Motor Vehicles, together with notice of the court’s action.
 
 ## 331.39   Driving across grade crossing
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_
     1. Whenever any person driving a vehicle approaches a railroad
 grade  crossing, the person shall stop within fifty feet, but not less than
@@ -1251,8 +1171,6 @@ degree.
 (ORC 4511.62)
 
 ## 331.40   Stopping at grade crossing
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. Except as provided in subsection (a)(2) hereof, the operator of
@@ -1331,8 +1249,6 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 ## 331.41   Slow moving vehicles and equipment at grade crossings
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall operate or move any crawler-type tractor, steam
 shovel, derrick, roller or any equipment or structure having a normal operating
 speed of six or less miles per hour, or a vertical body or load clearance of
@@ -1365,8 +1281,6 @@ guilty of a misdemeanor of the third degree.
 
 ## 331.42   Driving for advertising purposes
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ The driving of vehicles to and fro upon the public roads and highways
 within the Municipality for the purpose of advertising is hereby declared to be
 a nuisance and is prohibited.  
@@ -1381,8 +1295,6 @@ motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 
 ## 331.43   Shortcutting; evasion of traffic control signals or device
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall operate a motor vehicle across public or private
 property marked with signs indicating a desire to prohibit through traffic for
@@ -1411,8 +1323,6 @@ misdemeanor of the third degree.
 
 ## 331.44   Littering from motor vehicle
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No operator or occupant of a motor vehicle shall, regardless of
 intent, throw, drop, discard or deposit litter from any motor vehicle in
 operation upon any street, road or highway, except into a litter receptacle in
@@ -1428,8 +1338,6 @@ furniture, glass or anything else of an unsightly or unsanitary nature. 
 (ORC 4511.82)
 
 ## 331.45   Wearing earplugs or earphones prohibited
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section:
     1. _(1)_ “Earphones” means any device that covers all or a portion of both ears
@@ -1469,8 +1377,6 @@ misdemeanor of the third degree.
 (ORC 4511.84)
 
 ## 331.46   Vehicular operation on street closed due to rise in water level
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person shall operate a vehicle on or onto a public street or
 highway that is temporarily covered by a rise in water level, including

@@ -38,8 +38,6 @@ for the comfort and convenience of such persons.
      In a Retirement Living District, buildings and land shall be used by right
 for only the main and accessory uses set forth below.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Uses.
     1. _(1)_ Attached single-family (ASF) dwellings
     2. _(2)_ Retirement Living Center (RLC) building, consisting of residential
@@ -70,8 +68,6 @@ In a Retirement Living District, more than one (1) main building may be
 grouped on a lot provided that such grouping shall comply with the requirements
 of this District. Land and structures shall be developed and maintained in
 accordance with the following area regulations.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Areas.
     1. _(1)_ Development Area: 15 acres minimum.
@@ -105,8 +101,6 @@ to the dwelling unit area.
 In a Retirement Living District, structures shall be developed and maintained in
 accordance with the following height regulations.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Buildings. 35 feet or less,
 maximum
 2. _(b)_ Accessory Structures. 12 feet maximum
@@ -129,8 +123,6 @@ Landscape features, gardens, fences, walls and signs shall be permitted in
 setback areas, provided that such uses conform to applicable regulations of this
 Planning and Zoning Code. Other accessory uses are permitted in setbacks only in
 accordance with the setback regulations of subsection (b) hereof.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Yards. The minimum setback from a lot
 line to a main building shall be as set forth below.
@@ -181,8 +173,6 @@ In a Retirement Living District, land and structures shall be developed and
 maintained in accordance with the following regulations regarding the required
 distances between buildings and other uses.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Definitions and Measurement Standards. The following definitions and
 measurement standards shall apply to terms used in this section.
     1. _(1)_ Main wall. Any exterior wall(s) of a residential building
@@ -229,8 +219,6 @@ Living Center building.
      In a Retirement Living District, land and structures shall be developed
 and maintained in accordance with the following design regulations and
 standards.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Building Design. Retirement Living Center. The maximum length of any
 main or accessory building wall shall be 100 feet. However, building length may
@@ -318,8 +306,6 @@ style of the building on which it is located.
 
      In addition to the applicable regulations of Chapter 1141, the following parking regulations shall apply to attached single-family
 developments in a Retirement Living District.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Common Parking Areas. In attached single-family developments, a
 minimum of one-half (0.5) off-street parking space per dwelling unit shall be

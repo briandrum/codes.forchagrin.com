@@ -50,8 +50,6 @@ Members of the Parking Commission shall serve without compensation.
 
 The Parking Commission shall have the power to:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Study, investigate, plan, advise, report and recommend to the Mayor
 and Council and the Chief Administrative Officer of the Village any action,
 program, plan, improvement or legislation which the Commission finds or

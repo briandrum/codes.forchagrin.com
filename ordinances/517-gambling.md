@@ -35,8 +35,6 @@ title: "Chapter 517: Gambling"
 
 As used in this chapter:
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ "Bookmaking" means the business of receiving or paying off bets.
 2. _(b)_ "Bet" means the hazarding of anything of value upon the result of an
 event, undertaking or contingency, but does not include a bona fide business
@@ -554,8 +552,6 @@ Chapter 3770, and casino gaming as authorized by Ohio R.C. Chapter 3772.
 
 ## 517.02   Gambling
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall do any of the following:
     1. _(1)_ Engage in bookmaking, or knowingly engage in conduct that
 facilitates bookmaking;
@@ -648,8 +644,6 @@ law.
 
 ## 517.03   Operating a gambling house
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, being the owner or lessee, or having custody, control or
 supervision of premises, shall:
     1. _(1)_ Use or occupy such premises for gambling in violation of Section 517.02;
@@ -663,8 +657,6 @@ shall be prosecuted under appropriate State law.
 nuisance subject to abatement pursuant to Ohio R.C. Chapter 3767. (ORC 2915.03)
 
 ## 517.04   Public gaming
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No person, while at a hotel, restaurant, tavern, store, arena, hall,
 or other place of public accommodation, business, amusement, or resort shall
@@ -686,8 +678,6 @@ section constitute a nuisance subject to abatement under Ohio R.C. Chapter 3767.
 
 ## 517.05   Cheating
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person, with purpose to defraud or knowing that the person is
 facilitating a fraud, shall engage in conduct designed to corrupt the outcome
 of any of the following:
@@ -705,8 +695,6 @@ cheating is a felony and shall be prosecuted under appropriate State law.
 (ORC 2915.05)
 
 ## 517.06   Methods of conducting a bingo game; prohibitions
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No charitable organization that conducts bingo shall fail to do any of
 the following:
@@ -892,8 +880,6 @@ appropriate State law.
 
 ## 517.07   Instant bingo conduct
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No charitable organization that conducts instant bingo shall do any of
 the following:
     1. _(1)_ Fail to comply with the requirements of divisions (A)(1), (2), and
@@ -976,8 +962,6 @@ State law.
 
 ## 517.08   Raffles
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_
     1. Subject to subsection (a)(2) of this section, a charitable
 organization, a public school, a chartered nonpublic school, a community
@@ -1005,8 +989,6 @@ appropriate State law.
 (ORC 2915.092)
 
 ## 517.09   Charitable instant bingo organizations
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section, "retail income from all commercial activity"
 means the income that a person receives from the provision of goods, services,
@@ -1077,8 +1059,6 @@ million five hundred thousand dollars.
 
 ## 517.10   Location of instant bingo
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No owner or lessor of a location shall assist a charitable instant
 bingo organization in the conduct of  instant bingo other than at a bingo
 session at that location unless the owner or lessor has entered into a written
@@ -1110,8 +1090,6 @@ request of the Attorney General.
 (ORC 2915.094)
 
 ## 517.11   Bingo or game of chance records
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ No charitable organization that conducts bingo or a game of chance
 pursuant to Section 517.02(d), shall fail to maintain the following records for at least three
@@ -1217,8 +1195,6 @@ misdemeanor of the first degree.
 
 ## 517.12   Bingo operator prohibitions
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall be a bingo game operator unless he is eighteen years
 of age or older.
 2. _(b)_ No person who has been convicted of a felony or a gambling offense in
@@ -1230,8 +1206,6 @@ the first degree.
 (ORC 2915.11)
 
 ## 517.13   Bingo exceptions
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Ohio R.C. 2915.07 to 2915.11 or Section 517.06 et seq. of this chapter do not apply to bingo games that are conducted
 for the purpose of amusement only. A bingo game is conducted for the purpose
@@ -1295,8 +1269,6 @@ Attorney General when commencing the action.
 (ORC 2915.12)
 
 ## 517.14   Instant bingo conduct by a veteran’s or fraternal  organization
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A veteran’s organization, a fraternal  organization, or a sporting
 organization authorized to conduct a bingo session pursuant to Ohio R.C. 
@@ -1364,8 +1336,6 @@ a felony and shall be prosecuted under appropriate State law.
 (ORC 2915.13)
 
 ## 517.15   Skill-based amusement machines
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_
     1. No person shall give to another person any item described in

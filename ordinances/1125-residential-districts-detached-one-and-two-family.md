@@ -37,8 +37,6 @@ minimize environmental disturbances to residents.
      In Detached One and Two-Family Residential Districts, buildings and land
 shall be used by right for only the main and accessory uses set forth below.
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Main Uses.
     1. _(1)_ In R1-100, R1-60 and R1-50 Districts: one-family detached
 dwellings.
@@ -135,8 +133,6 @@ as permitted herein. However, landscape features and private gardens in
 conformance with applicable height and visibility regulations may be located in
 any setback. Accessory structures shall comply with the yard regulations of
 this Section.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Accessory Buildings Including Detached Garages. Accessory buildings,
 including detached garages, shall be in accordance with the following
@@ -240,8 +236,6 @@ Section 1144.02(b).
 
 ## 1125.05   Home occupations; renting of rooms
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Home Occupations. Home occupations, including professional offices
 are permitted only if in conformance with the following standards:
     1. _(1)_ Employment. The occupation is conducted only by members of the
@@ -282,8 +276,6 @@ shall be limited to two persons.
 A zoning certificate for development under regulations of this chapter shall
 not be issued unless a plan which demonstrates compliance with the following
 landscaping requirements has been approved by the Administrator.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ General. All portions of a lot not used for permitted structures,
 parking areas, driveways or walkways shall be properly planted with grass or
@@ -334,8 +326,6 @@ height band two and one-half to six feet above curb level.
 
      In addition to the applicable parking regulations of Chapter 1141, the following parking regulations shall apply in all R1 and R2F
 Districts.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Exceptions. Vehicles temporarily on the premises of a dwelling for
 the purposes of deliveries, repairs, construction, landscaping, maintenance,
@@ -443,8 +433,6 @@ Section. Screening shall be maintained in good condition at all times.
 
      The keeping of chickens may be permitted solely in the R1-100 District
 subject to the following:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ A maximum of four (4) female chickens may be kept on the property. 
 Roosters are not permitted.

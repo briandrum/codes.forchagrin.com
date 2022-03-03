@@ -26,8 +26,6 @@ to precede all section numbers of this Code.
 
 ## 1105.02   Findings of fact
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ This Planning and Zoning Code is adopted to promote and protect the
 public health, safety, convenience, comfort, prosperity and/or general welfare
 by Regulating the use of buildings, other structures and land for
@@ -47,8 +45,6 @@ interpretation, amendment and enforcement thereof.
 
 It is intended that the provisions of this Planning and Zoning Code shall be
 applied to achieve the following objectives:
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ To protect the character and values of the parks, institutional,
 residential, business, industrial and public uses and to assure their orderly
@@ -71,8 +67,6 @@ historically significant buildings and structures.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.04   Application; jurisdiction
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Buildings and land shall be used; and the use of buildings and land
 shall be changed or extended; and buildings shall be designed and erected; and
@@ -114,8 +108,6 @@ In interpreting and applying the provisions of this Planning and Zoning
 Code, they shall be held to be minimum requirements adopted for the promotion
 of the public health, safety, convenience, comfort, prosperity and general
 welfare.
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Except as specifically herein provided, the provisions of this
 Planning and Zoning Code shall not annul existing deed or plat restrictions,

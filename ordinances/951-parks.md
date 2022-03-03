@@ -24,8 +24,6 @@ title: "Chapter 951: Parks"
 
 ## 951.01   Prohibited hours in public property
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_  For the purposes of this Section, Public Property shall mean the
 Village Hall, the Village cemeteries, the Village utility plant facilities, the
 Village public parks, and any other property owned by the  Village of Chagrin
@@ -109,8 +107,6 @@ responsible for its presence. and properly disposed of elsewhere.
 
 ## 951.04   Protection of wildlife and natural features
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ No person shall molest, hunt, harm, trap, kill, chase, tease, shoot or
 throw missiles at any animal, reptile or bird; nor remove or have in his
 possession the young of any wild animal, or the eggs, nest or young of any
@@ -127,8 +123,6 @@ alcoholic beverages or beer in a park at any time.
 (Ord. 1988-36. Passed 4-25-88.)
 
 ## 951.06   Newspaper distribution in riverside park
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ As used in this section:
     1. _(1)_ “Newspaper dispenser” means any single container, rack, shelf, or
@@ -149,8 +143,6 @@ each dispensing station.
 (Ord. 2006-25. Passed 5-22-06.)
 
 ## 951.99   Penalty
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Whoever violates any provision of Sections
 951.02 to 951.05, shall be guilty of a misdemeanor of the third degree.

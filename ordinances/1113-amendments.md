@@ -47,8 +47,6 @@ Council.
 
 ## 1113.04   Action by council
 
-<p class="Markdown-list--a-1-A"></p>
-
 1. _(a)_ Upon receiving the recommendation of the Planning and Zoning
 Commission on a proposed amendment, or in the event no action is taken by the
 Commission on the proposed amendment within 45 days after (i) the referral by
@@ -70,8 +68,6 @@ Planning and Zoning Code showing all amendments to the text and Map.
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1113.06   Determination of similar uses
-
-<p class="Markdown-list--a-1-A"></p>
 
 1. _(a)_ Upon application for a permit for a building or use not specifically
 listed in any of the permitted building or use classifications in any of the
