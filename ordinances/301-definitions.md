@@ -71,19 +71,13 @@ title: "Chapter 301: Definitions"
 
 ## Cross references
 
-         See sectional histories for similar State law
-         Funeral procession defined - see TRAF.
-331.24
-         Street racing defined - see TRAF.
-333.07
-         Studded tire defined - see TRAF.
-339.11
-         Blind person defined - see TRAF.
-371.02
-         Snowmobile and all purpose vehicle defined - see TRAF.
-375.01
-         School zones defined - see TRAF.
-333.03(b)
+* See sectional histories for similar State law
+* Funeral procession defined - see TRAF. 331.24
+* Street racing defined - see TRAF. 333.07
+* Studded tire defined - see TRAF. 339.11
+* Blind person defined - see TRAF. 371.02
+* Snowmobile and all purpose vehicle defined - see TRAF. 375.01
+* School zones defined - see TRAF. 333.03(b)
 
 ## 301.01   Meaning of words and phrases
 

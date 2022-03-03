@@ -19,15 +19,11 @@ title: "Chapter 1161: Subdivision Regulations"
 
 ## Cross references
 
-         State law provisions - see Ohio R.C. Ch. 711
-         Fees and deposits - see P. & Z.
-1109.08
-         Appeals - see P. & Z. Ch.
-1111
-         Landscaping regulations - see P. & Z. Ch.
-1142
-         Hillside Protection Regulations - see P. & Z. Ch.
-1165
+* State law provisions - see Ohio R.C. Ch. 711
+* Fees and deposits - see P. & Z. 1109.08
+* Appeals - see P. & Z. Ch. 1111
+* Landscaping regulations - see P. & Z. Ch. 1142
+* Hillside Protection Regulations - see P. & Z. Ch. 1165
 
 ## 1161.01   Title and intent
 

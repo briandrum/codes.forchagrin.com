@@ -144,10 +144,9 @@ Surface parking area  *                 10                  5
 Private Roads         *                 10                  5
 Recreation Facilities *                 30                  10
 Walkways              0                 5                   5
-__________________________      
-* Not permitted in front yards, except that private roads are permitted only as
+__________________________
+\* Not permitted in front yards, except that private roads are permitted only as
 necessary in providing access to a public right of way.
-         
 3. _(c)_ Projection of Building Features into Setbacks. 
     1. _(1)_ Certain architectural features may project from a main building
 into any setback a maximum distance of three feet. However, no such feature

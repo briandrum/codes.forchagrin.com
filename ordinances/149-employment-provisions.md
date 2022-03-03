@@ -174,24 +174,25 @@ personnel.
 
 1. _(a)_ Full-Time Employees. 
     1. _(1)_ Finance Department and Public Service Department. Every regular
-full- time employee in the Finance Department and every regular full-time
-employee in the Public Service Department shall be entitled to receive
-additional compensation at the rate of time-and-one-half for hours worked
-either:
+    full- time employee in the Finance Department and every regular full-time
+    employee in the Public Service Department shall be entitled to receive
+    additional compensation at the rate of time-and-one-half for hours worked
+    either:
         1. _(A)_ In excess if eight hours in any single work day; or
         2. _(B)_ In excess of forty hours in any given work week; or
         3. _(C)_ On the employee’s Saturday; or
         4. _(D)_ In excess of eight hours in any continuous twenty-four hours
-beginning at the starting time of the employee’s shift.
-            An employee who works on the employee’s regularly scheduled day off
-shall receive time- and-one-half for hours worked, and the minimum payment
-under this provision shall be not less than four hours of pay at the employee’s
-straight time rate. A Service Department employee who works on the employee’s
-holiday as authorized by the department head shall receive double time.
+        beginning at the starting time of the employee’s shift.
+    An employee who works on the employee’s regularly scheduled day off shall
+    receive time- and-one-half for hours worked, and the minimum payment under
+    this provision shall be not less than four hours of pay at the employee’s
+    straight time rate. A Service Department employee who works on the
+    employee’s holiday as authorized by the department head shall receive double
+    time.
     2. _(2)_ Police Radio Dispatchers. Every police radio dispatcher shall be
-entitled to receive additional compensation for all time worked in excess of
-forty hours in any one week period at the rate of one and a half times their
-regular hourly rate.  
+    entitled to receive additional compensation for all time worked in excess of
+    forty hours in any one week period at the rate of one and a half times their
+    regular hourly rate.  
 (Ord. 2011-22. Passed 4-25-11.)
 2. _(b)_ Part-Time Employees. Part-time laborers working a full-time schedule
 (summer workers, for example) in the Service Department, when required to work
@@ -200,7 +201,7 @@ one-half for such overtime:
     1. _(1)_ In excess of eight hours in any single work day; or
     2. _(2)_ In excess of forty hours in any given work week;
     3. _(3)_ In excess of eight hours in any continuous twenty-four hours
-beginning at the starting time of the employee’s shift.  
+    beginning at the starting time of the employee’s shift.  
 (Ord. 1996-40. Passed 7-8-96.)
 3. _(c)_ Exceptions. The application of this provision excludes the Chief
 Administrative Officer, Administrative Assistant, Finance Director,
@@ -208,33 +209,33 @@ Superintendent of Utilities and Superintendent of Streets.
 (Ord. 1986-65. Passed 12-22-86; Ord. 1995-25. Passed 3-13-95.)
 4. _(d)_ Work Day/Hours Worked for Overtime Calculation.
     1. _(1)_ Work Day. A work day consists of the twenty-four consecutive hours
-beginning at the same time each calendar day. Changes in an employee’s
-starting time or work shift may be made at any time to meet the needs of the
-Village. Generally, however, when such changes are made for a short period of
-time (generally less than two days) with the expectation that the employee will
-return to his original starting time of his work shift, his regular starting
-time of his work shift should not be changed.
+    beginning at the same time each calendar day. Changes in an employee’s
+    starting time or work shift may be made at any time to meet the needs of the
+    Village. Generally, however, when such changes are made for a short period
+    of time (generally less than two days) with the expectation that the
+    employee will return to his original starting time of his work shift, his
+    regular starting time of his work shift should not be changed.
     2. _(2)_ Hours Worked for Overtime Calculation. For purposes of calculating
-all employee overtime in this Section 149.06, paid holiday time, paid vacation time, and paid sick leave shall be
-counted as hours worked. Other paid and unpaid time-off shall not be counted
-as hours worked.  
+    all employee overtime in this Section 149.06, paid holiday time, paid
+    vacation time, and paid sick leave shall be counted as hours worked. Other
+    paid and unpaid time-off shall not be counted as hours worked.  
 (Ord. 2011-22. Passed 4-25-11.)
 5. _(e)_ Call-In Pay. Regular full-time Public Service and Finance Department
 employees who are called in outside of their regular schedule of hours shall be
 paid at the applicable premium rate, but not less than the equivalent of four
 hours pay at their straight time rate. This does not apply when an employee
-continues to work after his normal work shift schedule ends or is told to
-report prior to his regular scheduled starting time. This premium payment
-shall be limited to one occurrence in an employee’s work day. This subsection
-shall also apply to temporary full-time laborers when authorized and approved
-by the department head.
-6. _(f)_ Compensation. All overtime which is not paid with regular
-compensation under provisions of the salary ordinance shall not be accumulated
-and no employee shall be entitled to compensation in any form for such overtime
-upon termination of his employment with the Municipality. In no department is
+continues to work after his normal work shift schedule ends or is told to report
+prior to his regular scheduled starting time. This premium payment shall be
+limited to one occurrence in an employee’s work day. This subsection shall also
+apply to temporary full-time laborers when authorized and approved by the
+department head.
+6. _(f)_ Compensation. All overtime which is not paid with regular compensation
+under provisions of the salary ordinance shall not be accumulated and no
+employee shall be entitled to compensation in any form for such overtime upon
+termination of his employment with the Municipality. In no department is
 overtime to be duplicated or pyramided. No credit will be allowed or premium
-payment made for overtime labor unless it is rendered pursuant to prior order
-or approval by the department head or other supervisory employee customarily
+payment made for overtime labor unless it is rendered pursuant to prior order or
+approval by the department head or other supervisory employee customarily
 authorized to grant such approval.  
 (Ord. 1986-65. Passed 12-22-86; Ord. 1995-25. Passed 3-13-95.)
 

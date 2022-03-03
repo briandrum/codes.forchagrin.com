@@ -633,7 +633,7 @@ applicable, expected at the site; and,
 flood conditions, including maintenance and repair of public utilities and
 facilities such as sewer, gas, electrical and water systems, and streets and
 bridges.
-    7. _(7)_ Upon consideration of the factors of subsection (a) (6) hereof and
+    7. _(7)_ Upon consideration of the factors of subsection (a)(6) hereof and
 the purposes of this chapter, the Board may attach such conditions to the 
 granting of variances as it deems necessary to further the purposes of this
 chapter.

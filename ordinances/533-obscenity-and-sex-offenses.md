@@ -26,15 +26,11 @@ title: "Chapter 533: Obscenity and Sex Offenses"
 
 ## Cross references
 
-         See sectional histories for similar State law
-         Complicity - see GEN. OFF.
-501.10
-         Offensive conduct - see GEN. OFF.
-509.03
-         Telephone harassment - see GEN. OFF.
-537.10
-         Criminal trespass - see GEN. OFF.
-541.05
+* See sectional histories for similar State law
+* Complicity - see GEN. OFF. 501.10
+* Offensive conduct - see GEN. OFF. 509.03
+* Telephone harassment - see GEN. OFF. 537.10
+* Criminal trespass - see GEN. OFF. 541.05
 
 ## 533.01   Definitions
 

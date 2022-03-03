@@ -20,16 +20,11 @@ Ordinance 1955-350.
 
 ## Cross references
 
-         Open meetings - see ADM. Ch.
-114
-         Fees for review - see BLDG.
-1309.11
-         Plans and drawings - see BLDG. Ch.
-1305
-         Establishment - see
-CHTR. Art. VII, Sec. 9
-         Removal of members - see
-CHTR. Art. VII, Sec 10
+* Open meetings - see ADM. Ch. 114
+* Fees for review - see BLDG. 1309.11
+* Plans and drawings - see BLDG. Ch. 1305
+* Establishment - see CHTR. Art. VII, Sec. 9
+* Removal of members - see CHTR. Art. VII, Sec 10
 
 ## 137.01   Board appointments, terms and vacancies
 

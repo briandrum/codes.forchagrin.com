@@ -24,21 +24,15 @@ title: "Chapter 303: Enforcement, Impounding and Penalty"
 
 ## Cross references
 
-         See sectional histories for similar State law
-         Disposition of unclaimed vehicles - see Ohio R.C. 737.32, 4513.62 et
-seq.
-         Citations for minor misdemeanors - see Ohio R.C. 2935.26 et seq.
-         Power of trial court of record to suspend or revoke license for
-certain violations - see Ohio R.C. 4507.16, 4507.34
-         State point system suspension - see Ohio R.C. 4507.40
-         Uniform application of Ohio Traffic Law - see Ohio R.C. 4511.06
-         Marking motor vehicles used by traffic officers - see Ohio R.C.
-4549.13
-         Distinctive uniform required for traffic officers - see Ohio R.C.
-4549.15
-         Exceptions for emergency or public safety vehicles - see TRAF.
-331.20,
-333.06
+* See sectional histories for similar State law
+* Disposition of unclaimed vehicles - see Ohio R.C. 737.32, 4513.62 et seq.
+* Citations for minor misdemeanors - see Ohio R.C. 2935.26 et seq.
+* Power of trial court of record to suspend or revoke license for certain violations - see Ohio R.C. 4507.16, 4507.34
+* State point system suspension - see Ohio R.C. 4507.40
+* Uniform application of Ohio Traffic Law - see Ohio R.C. 4511.06
+* Marking motor vehicles used by traffic officers - see Ohio R.C. 4549.13
+* Distinctive uniform required for traffic officers - see Ohio R.C. 4549.15
+* Exceptions for emergency or public safety vehicles - see TRAF. 331.20, 333.06
 
 ## 303.01   Compliance with lawful order of police officer; fleeing
 

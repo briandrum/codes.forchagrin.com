@@ -117,62 +117,64 @@ recommended averages or maximum at ground level will be in non-conformance with
 this Chapter. Parking lot lighting shall not exceed more than a maximum mean
 average of 50 lux at ground level.
     7. _(7)_ All outdoor light pole fixtures shall not be taller than the
-buildings it serves or 30 feet, whichever is shorter.
- 
+    buildings it serves or 30 feet, whichever is shorter.
 2. _(b)_ Outdoor lighting fixtures installed in the Conservation, Parks, and all
-residential districts after the effective date of this Chapter shall comply
-with the following:
+residential districts after the effective date of this Chapter shall comply with
+the following:
     1. _(1)_ All HID lighting (including mercury vapor) will have full cut-off
-fixtures or be shielded to prevent the trespass of glare from direct light onto
-adjacent properties.
+    fixtures or be shielded to prevent the trespass of glare from direct light
+    onto adjacent properties.
     2. _(2)_ All exterior lighting shall be designed and installed to avoid
-glare and light trespass on adjoining properties and public rights of way.
-          (3)       The total light output of all exterior lighting shall not
-exceed 75,000 lumens. Total lumens shall be calculated by adding the
-manufacturer initial lumen rating for each lamp type to obtain a total lumen
-value. 
-               (4)     Wall or Facade Mounted Lighting.  Wall mounted fixtures
-and/or facade mounted luminaires shall be used solely for illuminating
-entrances and walkways and shall not be used or designed for building
-architectural illumination.
+    glare and light trespass on adjoining properties and public rights of way.
+    3. _(3)_ The total light output of all exterior lighting shall not exceed
+    75,000 lumens. Total lumens shall be calculated by adding the manufacturer
+    initial lumen rating for each lamp type to obtain a total lumen value.
+    4. _(4)_ Wall or Facade Mounted Lighting.  Wall mounted fixtures and/or
+    facade mounted luminaires shall be used solely for illuminating entrances
+    and walkways and shall not be used or designed for building architectural
+    illumination.
     5. _(5)_ Driveway Lighting.  Driveway and parking area lighting shall be
-limited to low- mounted luminaires only. Low-mounted lighting is defined as
-lighting where the optical center of the luminaire is no more than 2 feet above
-driveway grade.
-        1. _(A)_   If lanterns or unshielded luminaires utilizing clear, diffusing
-or prismatic lenses are installed, the incandescent lamp wattage is limited to
-25 watts per enclosure or the equivalent light output for other light sources.
-        2. _(B)_   If fully-shielded luminaires are installed, the incandescent
-lamp wattage is limited to 40 watts per enclosure or the equivalent light
-output for other light sources.
-        3. _(C)_   The maximum incandescent wattage allowed per linear foot of
-driveway for  lighting is 0.75 watts or the equivalent light output for other
-light sources.
-    6. _(6)_ Area Lighting.  Floodlights and spotlights may be permitted for
-the purpose of illuminating tennis courts or other permitted outdoor uses or
-activities in compliance with the following:
-         A       Luminaires shall be mounted at 30 feet or less measured from
-the optical center of the luminaire to grade directly beneath the luminaire.
-        2. _(B)_   Lamp wattage is limited to 90 watts of incandescent or halogen
-incandescent reflector ("PAR") type lamps or equivalent per socket and no more
-than three sockets per mounting location.
-        3. _(C)_   The lighting shall be designed and operated to provide the
-minimum and no more than 1.5 times the minimum maintained illumination values
-recommended for the application by the Illuminating Engineering Society of
-North America as expressed in the IESNA Lighting Handbook (current edition) or
-current Recommended Practice for the application.
-        4. _(D)_   Such lighting shall not be operated between midnight and 9:00
-a.m.
+    limited to low- mounted luminaires only. Low-mounted lighting is defined as
+    lighting where the optical center of the luminaire is no more than 2 feet
+    above driveway grade.
+        1. _(A)_ If lanterns or unshielded luminaires utilizing clear, diffusing
+        or prismatic lenses are installed, the incandescent lamp wattage is
+        limited to 25 watts per enclosure or the equivalent light output for
+        other light sources.
+        2. _(B)_ If fully-shielded luminaires are installed, the incandescent
+        lamp wattage is limited to 40 watts per enclosure or the equivalent
+        light output for other light sources.
+        3. _(C)_ The maximum incandescent wattage allowed per linear foot of
+        driveway for lighting is 0.75 watts or the equivalent light output for
+        other light sources.
+    6. _(6)_ Area Lighting. Floodlights and spotlights may be permitted for the
+    purpose of illuminating tennis courts or other permitted outdoor uses or
+    activities in compliance with the following:
+        1. _(A)_ Luminaires shall be mounted at 30 feet or less measured from
+        the optical center of the luminaire to grade directly beneath the
+        luminaire.
+        2. _(B)_ Lamp wattage is limited to 90 watts of incandescent or halogen
+        incandescent reflector ("PAR") type lamps or equivalent per socket and
+        no more than three sockets per mounting location.
+        3. _(C)_ The lighting shall be designed and operated to provide the
+        minimum and no more than 1.5 times the minimum maintained illumination
+        values recommended for the application by the Illuminating Engineering
+        Society of North America as expressed in the IESNA Lighting Handbook
+        (current edition) or current Recommended Practice for the application.
+        4. _(D)_ Such lighting shall not be operated between midnight and 9:00
+        a.m.
     7. _(7)_ Landscape Lighting. Landscape lighting is defined as lighting
-installed and arranged to primarily illuminate "softscape" such as bushes,
-trees, vines, shrubs and flowers or "hardscape" such as terraces, fences,
-bridges, walls (non-building), sculpture, water features, ornaments, and formed
-earth shapes. Landscape lighting may be automatically or manually switched
-provided that the operating period extends only from dusk to midnight.
+    installed and arranged to primarily illuminate "softscape" such as bushes,
+    trees, vines, shrubs and flowers or "hardscape" such as terraces, fences,
+    bridges, walls (non-building), sculpture, water features, ornaments, and
+    formed earth shapes. Landscape lighting may be automatically or manually
+    switched provided that the operating period extends only from dusk to
+    midnight.
     8. _(8)_ Street Address, Identification Signs. Street address,
-identification signs, and entrance features may be illuminated internally or
-externally, provided that lamp wattage is limited to 30 watts of incandescent
-or the equivalent light output using other types of light sources.
+    identification signs, and entrance features may be illuminated internally or
+    externally, provided that lamp wattage is limited to 30 watts of
+    incandescent or the equivalent light output using other types of light
+    sources.
 3. _(c)_ The Architectural Board of Review may authorize specific exemptions
 when the Board determines that there will be no adverse impact resulting from
 the lighting and that such lighting is consistent with the spirit and intent of

@@ -25,11 +25,11 @@ title: "Chapter 517: Gambling"
 
 ## Cross references
 
-         See sectional histories for similar State law
-         Lotteries prohibited; exception - see Ohio Const., Art. XV, Sec. 6
-         Contributing to delinquency of minors - see Ohio R.C. 2151.41
-         Search warrants - see Ohio R.C. 2933.21(E)
-         Licensing charitable bingo games - see Ohio R.C. 2915.08
+* See sectional histories for similar State law
+* Lotteries prohibited; exception - see Ohio Const., Art. XV, Sec. 6
+* Contributing to delinquency of minors - see Ohio R.C. 2151.41
+* Search warrants - see Ohio R.C. 2933.21(E)
+* Licensing charitable bingo games - see Ohio R.C. 2915.08
 
 ## 517.01   Definitions
 

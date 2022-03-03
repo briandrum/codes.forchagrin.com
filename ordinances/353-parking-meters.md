@@ -19,13 +19,10 @@ parking zones.
 
 ## Cross references
 
-         Off-street parking facilities - see Ohio R. C. 717.05
-         Registered owner prima-facie liable for unlawful parking - see TRAF.
-351.03
-         False coin or slug - see GEN. OFF
-545.11
-         Tampering with coin machines - see GEN. OFF
-545.12
+* Off-street parking facilities - see Ohio R. C. 717.05
+* Registered owner prima-facie liable for unlawful parking - see TRAF. 351.03
+* False coin or slug - see GEN. OFF 545.11
+* Tampering with coin machines - see GEN. OFF 545.12
 
 ## 353.01   Authority to designate parking meter areas and establish metered parking zones
 

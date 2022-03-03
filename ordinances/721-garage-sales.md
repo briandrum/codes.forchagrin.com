@@ -18,8 +18,7 @@ title: "Chapter 721: Garage Sales"
 
 ## Cross references
 
-            Fraud - see GEN. OFF.
-545.05
+* Fraud - see GEN. OFF. 545.05
 
 ## 721.01   Definitions
 

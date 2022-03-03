@@ -869,7 +869,7 @@ employer or that the employee’s presence at the location directly or indirectl
 benefits the employer;
                  (c)     Any other location, if the Tax Administrator
 determines that the employer directed the employee to perform the services at
-the other location in lieu of a location described in division (F) (3)(a) or
+the other location in lieu of a location described in division (F)(3)(a) or
 (b) of this section solely in order to avoid or reduce the employer’s municipal
 income tax liability. If the Tax Administrator makes such a determination, the
 employer may dispute the determination by establishing, by a preponderance of

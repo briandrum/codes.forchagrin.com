@@ -20,15 +20,11 @@ title: "Chapter 1337: Moving of Buildings"
 
 ## Cross references
 
-         House movers - see Ohio R.C. 715.27
-         Obstructing streets - see TRAF.
-311.01
-         Blocking off streets - see TRAF.
-311.03
-         Care of streets - see GEN. OFF.
-543.01
-         Fee for moving of buildings - see BLDG.
-1309.06
+* House movers - see Ohio R.C. 715.27
+* Obstructing streets - see TRAF. 311.01
+* Blocking off streets - see TRAF. 311.03
+* Care of streets - see GEN. OFF. 543.01
+* Fee for moving of buildings - see BLDG. 1309.06
 
 ## 1337.01   Permit required
 

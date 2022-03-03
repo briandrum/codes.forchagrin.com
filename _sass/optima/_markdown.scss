@@ -44,6 +44,7 @@
   position: relative;
 }
 
+.Markdown ol > li > p > em:first-child,
 .Markdown ol > li > em:first-child {
   font-style: normal;
   left: 0;

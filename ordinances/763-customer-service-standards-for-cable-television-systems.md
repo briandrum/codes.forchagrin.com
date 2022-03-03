@@ -15,10 +15,8 @@ title: "Chapter 763: Customer Service Standards for Cable Television Systems"
 
 ## Cross references
 
-         Tampering - see GEN. OFF.
-541.04
-         Basic service rates and regulations - see BUS. REG. Ch.
-761
+* Tampering - see GEN. OFF. 541.04
+* Basic service rates and regulations - see BUS. REG. Ch. 761
 
 ## 763.01   Policy
 

@@ -102,7 +102,7 @@ providing for two-way movement of traffic, no vehicle shall be driven to the
 left of the center line of the roadway, except when authorized by official
 traffic control devices designating certain lanes to the left of the center of
 the roadway for use by traffic not otherwise permitted to use the lanes, or
-except as permitted under subsection (a) (2) hereof.  
+except as permitted under subsection (a)(2) hereof.  
 This subsection shall not be construed as prohibiting the crossing of the
 center line in making a left turn into or from an alley, private road or
 driveway.

@@ -160,22 +160,22 @@ safety of persons or property.
 and shall be punished as provided in subsection (c)(2), (c)(3), or (c)(4) of
 this section.
     2. _(2)_ Except as otherwise provided in this subsection, criminal mischief
-committed in violation of subsection (a)(1), (a)(2), (a)(3), (a)(4), or (a)(5)
-of this section is a misdemeanor of the third degree. Except as otherwise
-provided in this division, if the violation of subsection (a)(1), (a)(2), (a)
-(3), (a)(4), or (a)(5) of this section creates a risk of physical harm to any
-person, criminal mischief committed in violation of subsection (a)(1), (a)(2),
-(a)(3), (a)(4), or (a)(5) of this section is a
-         misdemeanor of the first degree. If the property involved in the
-violation of subsection (a)(1), (a)(2), (a)(3), (a)(4), or (a)(5) of this
-section is an aircraft, an aircraft engine, propeller, appliance, spare part,
-fuel, lubricant, hydraulic fluid, any other equipment, implement, or material
-used or intended to be used in the operation of an aircraft, or any cargo
-carried or intended to be carried in an aircraft and if the violation creates
-any risk of physical harm to any person, or if the aircraft in question is an
-occupied aircraft, criminal mischief committed in violation of subsection (a)
-(1), (a)(2), (a)(3), (a)(4), or (a)(5) of this section is a felony to be
-prosecuted under appropriate state law.
+    committed in violation of subsection (a)(1), (a)(2), (a)(3), (a)(4), or
+    (a)(5) of this section is a misdemeanor of the third degree. Except as
+    otherwise provided in this division, if the violation of subsection (a)(1),
+    (a)(2), (a)(3), (a)(4), or (a)(5) of this section creates a risk of
+    physical harm to any person, criminal mischief committed in violation of
+    subsection (a)(1), (a)(2), (a)(3), (a)(4), or (a)(5) of this section is a
+    misdemeanor of the first degree. If the property involved in the violation
+    of subsection (a)(1), (a)(2), (a)(3), (a)(4), or (a)(5) of this section is
+    an aircraft, an aircraft engine, propeller, appliance, spare part, fuel,
+    lubricant, hydraulic fluid, any other equipment, implement, or material used
+    or intended to be used in the operation of an aircraft, or any cargo carried
+    or intended to be carried in an aircraft and if the violation creates any
+    risk of physical harm to any person, or if the aircraft in question is an
+    occupied aircraft, criminal mischief committed in violation of subsection
+    (a)(1), (a)(2), (a)(3), (a)(4), or (a)(5) of this section is a felony to be
+    prosecuted under appropriate state law.
     3. _(3)_ Except as otherwise provided in this subsection, criminal mischief
 committed in violation of subsection (a)(6) of this section is a misdemeanor of
 the first degree. If the value of the computer, computer system, computer

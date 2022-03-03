@@ -8,9 +8,6 @@ plugins:
 # Build settings
 remote_theme: briandrum/optima
 
-header_pages:
-  - committees-boards-and-commissions.md
-
 # Title & description: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: Codified Ordinances of Chagrin Falls, Ohio
 author:
@@ -22,6 +19,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 header_pages:
   - index.md
+  - committees-boards-and-commissions.md
 
 show_excerpts: false
 excerpt_separator: <!--more-->

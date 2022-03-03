@@ -22,8 +22,7 @@ title: "Chapter 1350: Satellite Signal Receiving Stations"
 
 ## Cross references
 
-         Perimeter screens - see P. & Z.
-1142.06
+* Perimeter screens - see P. & Z. 1142.06
 
 ## 1350.01   Intent
 

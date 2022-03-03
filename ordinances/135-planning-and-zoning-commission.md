@@ -13,13 +13,9 @@ Editor’s note: The Planning and Zoning Commission was established May 1,
 
 ## Cross references
 
-         Planning and Zoning Commission established - see
-CHTR. Art. VII, Sec. 1,
-4
-         Zoning amendments - see P. & Z. Ch.
-1113
-         Open meetings - see ADM. Ch.
-114
+* Planning and Zoning Commission established - see CHTR. Art. VII, Sec. 1, 4
+* Zoning amendments - see P. & Z. Ch. 1113
+* Open meetings - see ADM. Ch. 114
 
 ## 135.01   Commission to act as board of zoning appeals
 

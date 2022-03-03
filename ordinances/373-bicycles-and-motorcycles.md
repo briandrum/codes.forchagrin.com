@@ -238,11 +238,11 @@ electric bicycle is moving may be used to meet this requirement.
 distances from one hundred feet to six hundred feet to the rear when directly
 in front of lawful lower beams of head lamps on a motor vehicle.
     3. _(3)_ A lamp emitting either flashing or steady red light visible from a
-distance of five hundred feet to the rear shall be used in addition to the red
-reflector;
-         If the red lamp performs as a reflector in that it is visible as
-specified in subsection (a)(2) of this section, the red lamp may serve as the
-reflector and a separate reflector is not required.
+    distance of five hundred feet to the rear shall be used in addition to the
+    red reflector;
+    If the red lamp performs as a reflector in that it is visible as specified
+    in subsection (a)(2) of this section, the red lamp may serve as the
+    reflector and a separate reflector is not required.
 2. _(b)_ Additional lamps and reflectors may be used in addition to those
 required under subsection (a) of this section, except that red lamps and red
 reflectors shall not be used on the front of the bicycle or electric bicycle

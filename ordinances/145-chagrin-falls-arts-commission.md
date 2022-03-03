@@ -18,10 +18,8 @@ Ordinance 2006-53, passed August 28, 2006.
 
 ## Cross references
 
-         Authority to establish - see CHTR.
- Art. VII, Sec. 1
-         Open meetings - see ADM. Ch.
- 114
+* Authority to establish - see CHTR. Art. VII, Sec. 1
+* Open meetings - see ADM. Ch. 114
 
 ## 145.01   Creation and composition
 

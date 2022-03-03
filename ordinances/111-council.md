@@ -6,26 +6,26 @@ chapter_no: 111
 title: "Chapter 111: Council"
 ---
 
-- [111.01   Regular meetings](#11101-regular-meetings)
-- [111.02   Special meetings](#11102-special-meetings)
-- [111.03   Agenda for Council meetings](#11103-agenda-for-council-meetings)
+* [111.01   Regular meetings](#11101-regular-meetings)
+* [111.02   Special meetings](#11102-special-meetings)
+* [111.03   Agenda for Council meetings](#11103-agenda-for-council-meetings)
 
 ## Cross references
 
-- Mayor’s attendance at meetings - see CHTR. Art. III, Sec. 5(b)
-- Composition and term - see CHTR. Art. IV, Sec. 1
-- Qualifications - see CHTR. Art. IV, Sec. 2
-- Organizational meeting- see CHTR. Art. IV, Sec. 3
-- President and President pro tem - see CHTR. Art. IV, Sec. 4
-- Removal and vacancy - see CHTR. Art. IV, Secs. 5, 6
-- Meetings, quorum and journal - see CHTR. Art. IV, Secs. 7
-- Powers and duties - see CHTR. Art. IV, Sec. 8
-- Employees - see CHTR. Art. IV, Sec. 10
-- Limitation on rate of taxation - see CHTR. Art. VIII, Sec. 2
-- Nominations and elections - see CHTR. Art. IX
-- Recall - see CHTR. Art. X, Sec. 2, 3
-- Fixation of salary, compensation and bonds - see CHTR. Art. XII, Sec. 5
-- Conflict of interest - see CHTR. Art. XII, Sec. 6
+* Mayor’s attendance at meetings - see CHTR. Art. III, Sec. 5(b)
+* Composition and term - see CHTR. Art. IV, Sec. 1
+* Qualifications - see CHTR. Art. IV, Sec. 2
+* Organizational meeting- see CHTR. Art. IV, Sec. 3
+* President and President pro tem - see CHTR. Art. IV, Sec. 4
+* Removal and vacancy - see CHTR. Art. IV, Secs. 5, 6
+* Meetings, quorum and journal - see CHTR. Art. IV, Secs. 7
+* Powers and duties - see CHTR. Art. IV, Sec. 8
+* Employees - see CHTR. Art. IV, Sec. 10
+* Limitation on rate of taxation - see CHTR. Art. VIII, Sec. 2
+* Nominations and elections - see CHTR. Art. IX
+* Recall - see CHTR. Art. X, Sec. 2, 3
+* Fixation of salary, compensation and bonds - see CHTR. Art. XII, Sec. 5
+* Conflict of interest - see CHTR. Art. XII, Sec. 6
 
 ## 111.01   Regular meetings
 

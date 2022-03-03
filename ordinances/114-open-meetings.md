@@ -6,14 +6,14 @@ chapter_no: 114
 title: "Chapter 114: Open Meetings"
 ---
 
-- [114.01   Public meetings](#114.01-public-meetings)
-- [114.02   Public notification](#114.02-public-notification)
-- [114.03   Personal notification](#114.03-personal-notification)
-- [114.04   Minutes of meetings](#114.04-minutes-of-meetings)
+- [114.01   Public meetings](#11401-public-meetings)
+- [114.02   Public notification](#11402-public-notification)
+- [114.03   Personal notification](#11403-personal-notification)
+- [114.04   Minutes of meetings](#11404-minutes-of-meetings)
 
 ## Cross references
 
-- Open meetings - see Ohio R.C. 121.22
+* Open meetings - see Ohio R.C. 121.22
 
 ## 114.01   Public meetings
 

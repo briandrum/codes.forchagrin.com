@@ -13,10 +13,8 @@ title: "Chapter 1119: Districts Established; Zoning Map"
 
 ## Cross references
 
-              Record of Map - see P. & Z.
-1113.05
-              Zoning Map changes - see P. & Z.
-App. B
+* Record of Map - see P. & Z. 1113.05
+* Zoning Map changes - see P. & Z. App. B
 
 ## 1119.01   Districts
 

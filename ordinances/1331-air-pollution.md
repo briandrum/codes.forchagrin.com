@@ -18,9 +18,8 @@ title: "Chapter 1331: Air Pollution"
 
 ## Cross references
 
-         Power to prevent dense smoke - see Ohio R. C. 715.44
-         Noxious or offensive odors - see GEN. OFF.
-521.09
+* Power to prevent dense smoke - see Ohio R. C. 715.44
+* Noxious or offensive odors - see GEN. OFF. 521.09
 
 ## 1331.01   Scope; compliance required
 

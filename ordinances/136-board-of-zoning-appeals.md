@@ -16,14 +16,10 @@ Editor’s note: The Board of Zoning Appeals was established by Ordinance
 
 ## Cross references
 
-         Council to establish - see
-CHTR. Art. VII, Sec. 5
-         Open meetings - see ADM. Ch.
-114
-         Appeals and variances - see P. & Z. Ch.
-1111
-         Removal of members - see
-CHTR. Art. VII, Sec. 10
+* Council to establish - see CHTR. Art. VII, Sec. 5
+* Open meetings - see ADM. Ch. 114
+* Appeals and variances - see P. & Z. Ch. 1111
+* Removal of members - see CHTR. Art. VII, Sec. 10
 
 ## 136.01   Establishment; members
 

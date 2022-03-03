@@ -14,13 +14,11 @@ title: "Chapter 553: Railroads"
 
 ## Cross references
 
-         See sectional histories for similar State law
-         Lighting railroads - see Ohio R.C. 723.33 et seq.
-         Power to regulate train speed - see Ohio R.C. 723.48
-         Vehicular homicide - see GEN. OFF.
-537.02
-         Criminal mischief - see GEN. OFF.
-541.04
+* See sectional histories for similar State law
+* Lighting railroads - see Ohio R.C. 723.33 et seq.
+* Power to regulate train speed - see Ohio R.C. 723.48
+* Vehicular homicide - see GEN. OFF. 537.02
+* Criminal mischief - see GEN. OFF. 541.04
 
 ## 553.01   Obstructing streets by railroad companies
 

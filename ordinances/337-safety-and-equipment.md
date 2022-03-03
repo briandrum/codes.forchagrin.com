@@ -14,7 +14,7 @@ title: "Chapter 337: Safety and Equipment"
 337.06   Safety lighting on commercial vehicles.
 337.07   Obscured lights on vehicles in combination.
 337.08   Red light or red flag on extended loads.
-337.09   Lights on parked or stopped  vehicles.
+337.09   Lights on parked or stopped vehicles.
 337.10   Lights on slow-moving vehicles; emblem required.
 337.11   Spotlight and auxiliary lights.
 337.12   Cowl, fender and back-up lights.
@@ -415,7 +415,7 @@ children as provided in Ohio R.C. 4513.182, highway maintenance vehicles,
 funeral hearses, funeral escort vehicles and similar equipment operated by the
 Department or local authorities, which shall be equipped with and display, when
 used on a street or highway for the special purpose necessitating such lights,
-a flashing,  oscillating or rotating amber light, but shall not display a
+a flashing, oscillating or rotating amber light, but shall not display a
 flashing, oscillating or rotating light of any other color, nor to vehicles or
 machinery permitted by Section 337.10 to have a flashing red light.
     2. _(2)_ When used on a street or highway, farm machinery and vehicles
@@ -589,7 +589,7 @@ motorcycles by mirror. 
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.23)
 
-## 337.22   Windshield and windshield wiper; sign or  poster thereon
+## 337.22   Windshield and windshield wiper; sign or poster thereon
 
 1. _(a)_ No person shall drive any motor vehicle on a street or highway, other
 than a motorcycle or motorized bicycle, that is not equipped with a windshield.
@@ -798,7 +798,7 @@ the same meanings as provided in Ohio R.C. 4501.01.
 terms set forth in subsection (a)(4) hereof, have the same meanings as provided
 in Chapter 301.
     6. _(6)_ “Tort action” means a civil action for damages for injury, death,
-or loss to person or property.  “Tort action” includes a product liability
+or loss to person or property. “Tort action” includes a product liability
 claim, as defined in Ohio R.C. 2307.71 and an asbestos claim, as defined in
 Ohio R.C. 2307.91, but does not include a civil action for damages for breach
 of contract or another agreement between persons.
@@ -880,7 +880,7 @@ person to wear all of the available elements of a properly adjusted occupant
 restraining device in violation of subsection (b)(1) or (3) or the failure of a
 person to ensure that each minor who is a passenger of an automobile being
 operated by that person is wearing all of the available elements of a properly
-adjusted occupant restraining device, in violation of subsection (b)(2)  of
+adjusted occupant restraining device, in violation of subsection (b)(2) of
 this section, shall not be considered or used by the trier of fact in a tort
 action as evidence of negligence or contributory negligence. But the trier of
 fact may determine based on evidence admitted consistent with the Ohio rules of
@@ -940,7 +940,7 @@ manufacture of the motor vehicle until such standard is subsequently repealed
 or reduced. In “Federal Motor Vehicle Safety Standard Number 205" (FMVSS 205)
 “manufacturer” means any person engaged in the manufacturing or assembling of
 motor vehicles or motor vehicle equipment, including any person importing motor
-vehicles or motor vehicle equipment for resale.  “Federal Motor Vehicle Safety
+vehicles or motor vehicle equipment for resale. “Federal Motor Vehicle Safety
 Standard Number 205" (FMVSS), Code of Federal Regulations, Title 49, Part 571,
 can be obtained online at web site http://www.gpo.gov.
         2. _(B)_ Any sunscreening material or other product or material applied to
@@ -1030,12 +1030,12 @@ capacity to reflect or reduce the transmission of light.
 carry nine or fewer passengers and is operated for hire on an hourly basis
 pursuant to a prearranged contract for the transportation of passengers on
 public roads and highways along a route under the control of the person hiring
-the vehicle and not over a defined and regular route.  “Prearranged contract”
+the vehicle and not over a defined and regular route. “Prearranged contract”
 means an arrangement, made in advance of boarding, to provide transportation
 from a specific location in a chauffeured limousine at a fixed rate per hour or
-trip.  “Chauffeured limousine” does not include any vehicle that is used
-exclusively in the business of funeral directing.
-         (OAC 4501-41-02)
+trip. “Chauffeured limousine” does not include any vehicle that is used
+exclusively in the business of funeral directing.  
+(OAC 4501-41-02)
 4. _(d)_ Penalty. Whoever violates this section is guilty of a minor
 misdemeanor.  
 (ORC 4513.241)
@@ -1108,8 +1108,8 @@ passenger car, multipurpose passenger vehicle or truck when operated off a
 street or highway in races and similar events.
     7. _(7)_ A specially designed or modified passenger car, multipurpose
 passenger vehicle or truck which does not conform to this section shall not be
-operated on a street or highway.
-         (OAC 4501-43-03)
+operated on a street or highway.  
+(OAC 4501-43-03)
 3. _(c)_ Specifications.
     1. _(1)_ The horizontal bumper shall be at least 4.5 inches in vertical
 height, centered on the vehicle’s centerline, and extend no less than the width

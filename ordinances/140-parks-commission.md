@@ -18,8 +18,7 @@ passed April 13, 1987.
 
 ## Cross references
 
-            Parks - See S.U. & P.S. Ch.
-951
+* Parks - See S.U. & P.S. Ch. 951
 
 ## 140.01   Creation
 

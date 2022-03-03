@@ -31,9 +31,8 @@ repairs.
 
 ## Cross references
 
-         Permits required - see BLDG. Ch.
-1307
-         Plumbing, electrical and heating fees - see BLDG. 1335.09
+* Permits required - see BLDG. Ch. 1307
+* Plumbing, electrical and heating fees - see BLDG. 1335.09
 
 ## 1309.01   Collection of fees
 

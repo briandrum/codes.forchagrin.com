@@ -10,7 +10,7 @@ title: "Chapter 127: Motor Vehicle License Tax"
 
 ## Cross references
 
-         Authority to levy - see Ohio R.C. 4504.172
+* Authority to levy - see Ohio R.C. 4504.172
 
 ## 127.01   Levy; rate; purpose
 

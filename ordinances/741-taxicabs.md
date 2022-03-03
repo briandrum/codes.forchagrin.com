@@ -14,11 +14,10 @@ title: "Chapter 741: Taxicabs"
 
 ## Cross references
 
-         Licensing operators - see Ohio R.C. 715.22(A), (B)
-         Taxicab stands - see Ohio R.C. 715.25(A)
-         Establishing rates - see Ohio R.C. 715.25(C)
-         Traffic regulations - see
-Traffic Code - Part Three
+* Licensing operators - see Ohio R.C. 715.22(A), (B)
+* Taxicab stands - see Ohio R.C. 715.25(A)
+* Establishing rates - see Ohio R.C. 715.25(C)
+* Traffic regulations - see Traffic Code - Part Three
 
 ## 741.01   Franchise required
 
