@@ -58,12 +58,10 @@ sidewalk.
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Obedience to traffic control devices - see TRAF.
-313.01
-      Operation of bicycles and motorcycles - see TRAF.
-373.01 et seq.
-      School bus operation - see OAC Ch. 4501-3
+* See sectional histories for similar State law
+* Obedience to traffic control devices - see TRAF. 313.01
+* Operation of bicycles and motorcycles - see TRAF. 373.01 et seq.
+* School bus operation - see OAC Ch. 4501-3
 
 ## 331.01   Driving upon right side of roadway; exceptions
 
@@ -83,7 +81,7 @@ one-way traffic;
     5. _(5)_ When otherwise directed by a police officer or traffic control
 device.
 2. _(b)_
-    1. Upon all roadways any vehicle proceeding at less than the
+    1. _(1)_ Upon all roadways any vehicle proceeding at less than the
 prevailing and lawful speed of traffic at the time and place and under the
 conditions then existing shall be driven in the right-hand lane then available
 for traffic, and far enough to the right to allow passing by faster vehicles if
@@ -712,7 +710,7 @@ license plate number and a general description of the vehicle and the operator
 of the vehicle to the law enforcement agency exercising jurisdiction over the
 area where the alleged violation occurred.
 2. _(b)_
-    1. Upon receipt of a report under subsection (a) of this section,
+    1. _(1)_ Upon receipt of a report under subsection (a) of this section,
 the law enforcement agency may conduct an investigation to attempt to determine
 or confirm the identity of the operator of the vehicle at the time of the
 alleged violation.
@@ -727,7 +725,7 @@ violation. However, in the case of a leased or rented vehicle, the law
 enforcement agency shall issue the written warning to the person who leased or
 rented the vehicle at the time of the alleged violation.
 3. _(c)_
-    1. Whoever violates Section 331.21(a) based on a report filed under subsection (a) of this section is
+    1. _(1)_ Whoever violates Section 331.21(a) based on a report filed under subsection (a) of this section is
 guilty of a minor misdemeanor and shall be fined one hundred fifty dollars
 ($150.00).
     2. _(2)_ If a person who is issued a citation for a violation of Section 331.21(a) based on a report filed under subsection (a) of this section does not
@@ -1036,7 +1034,7 @@ misdemeanor of the third degree.
 ## 331.37   Driving upon sidewalks, street lawns or curbs
 
 1. _(a)_
-    1. No person shall drive any vehicle, other than a bicycle or an
+    1. _(1)_ No person shall drive any vehicle, other than a bicycle or an
 electric bicycle if the motor is not engaged, upon a sidewalk or sidewalk area
 except upon a permanent or duly authorized temporary driveway.
     2. _(2)_ This prohibition does not apply to a law enforcement officer, or
@@ -1122,7 +1120,7 @@ irrespective of whether or not the bus has fifteen or more children aboard at
 any time.  “School bus” does not include a van owned and operated by a head
 start agency, irrespective of its color, lights, or markings. 
 7. _(g)_
-    1. Whoever violates subsection (a) of this section may be fined an
+    1. _(1)_ Whoever violates subsection (a) of this section may be fined an
 amount not to exceed five hundred dollars ($500.00). A person who is issued a
 citation for a violation of subsection (a) of this section is not permitted to
 enter a written plea of guilty and waive the person’s right to contest the
@@ -1142,7 +1140,7 @@ Motor Vehicles, together with notice of the court’s action.
 ## 331.39   Driving across grade crossing
 
 1. _(a)_
-    1. Whenever any person driving a vehicle approaches a railroad
+    1. _(1)_ Whenever any person driving a vehicle approaches a railroad
 grade  crossing, the person shall stop within fifty feet, but not less than
 fifteen feet from the nearest rail of the railroad, if any of the following
 circumstances exist at the crossing:
@@ -1173,7 +1171,7 @@ degree.
 ## 331.40   Stopping at grade crossing
 
 1. _(a)_
-    1. Except as provided in subsection (a)(2) hereof, the operator of
+    1. _(1)_ Except as provided in subsection (a)(2) hereof, the operator of
 any bus, any school vehicle, or any vehicle transporting material required to
 be placarded under 49 CFR Parts 100-185, before crossing at grade any track of
 a railroad, shall stop the vehicle, and, while so stopped, shall listen through
@@ -1230,7 +1228,7 @@ similar to any of those sections, whoever violates subsection (a) hereof is
 guilty of a misdemeanor of the fourth degree.  
 (ORC 4511.63)
 2. _(b)_
-    1. When authorized stop signs are erected at railroad grade
+    1. _(1)_ When authorized stop signs are erected at railroad grade
 crossings, the operator of any vehicle shall stop within fifty but not less
 than fifteen feet from the nearest rail of the railroad tracks and shall
 exercise due care before proceeding across such grade crossing. 
@@ -1389,7 +1387,7 @@ hereof is not permitted to enter a written plea of guilty and waive the
 person’s right to contest the citation in court, but instead must appear in
 person in the proper court to answer the charge.
 3. _(c)_
-    1. Whoever violates subsection (a) hereof is guilty of a minor
+    1. _(1)_ Whoever violates subsection (a) hereof is guilty of a minor
 misdemeanor.
     2. _(2)_ In addition to the financial sanctions authorized or required under
 Section 501.99 and to any costs otherwise authorized or required under any

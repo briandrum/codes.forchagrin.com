@@ -66,7 +66,7 @@ section.
 create a substantial risk of physical harm to any property of another without
 the other person’s consent.
 2. _(b)_
-    1. No person, by means of fire or explosion, shall knowingly cause
+    1. _(1)_ No person, by means of fire or explosion, shall knowingly cause
 or create a substantial risk of physical harm to any structure of another that
 is not an occupied structure;
     2. _(2)_ It is an affirmative defense to a charge under subsection (b)(1) of
@@ -156,7 +156,7 @@ sign, signal, or gate, or any first aid or survival equipment, or any other
 device, apparatus, or equipment intended for protecting or preserving the
 safety of persons or property.
 3. _(c)_
-    1. Whoever violates this section is guilty of criminal mischief,
+    1. _(1)_ Whoever violates this section is guilty of criminal mischief,
 and shall be punished as provided in subsection (c)(2), (c)(3), or (c)(4) of
 this section.
     2. _(2)_ Except as otherwise provided in this subsection, criminal mischief
@@ -217,7 +217,7 @@ premises involved was owned, controlled or in custody of a public agency.
 authorized to enter or remain on the land or premises involved when such
 authorization was secured by deception.
 4. _(d)_
-    1. Whoever violates this section is guilty of criminal trespass.
+    1. _(1)_ Whoever violates this section is guilty of criminal trespass.
 Criminal trespass in violation of subsection  (a)(1), (a)(2), (a)(3), or (a)(4)
 of this section is a misdemeanor of the fourth degree. Criminal trespass in
 violation of subsection (a)(5) of this section is a misdemeanor of the first
@@ -322,7 +322,7 @@ as in Ohio R.C. 1509.01.
 ### 541.051   Aggravated trespass
 
 1. _(a)_
-    1. No person shall enter or remain on the land or premises of
+    1. _(1)_ No person shall enter or remain on the land or premises of
 another with purpose to commit on that land or those premises a misdemeanor,
 the elements of which involve causing physical harm to another person or
 causing another person to believe that the offender will cause physical harm to
@@ -448,7 +448,7 @@ force beyond reasonable force by an owner or lessee of a place of public
 amusement, an agent of either the owner or lessee, or a performer or
 participant at a place of public amusement.
 4. _(d)_
-    1. Notice has been given that the general public is restricted from
+    1. _(1)_ Notice has been given that the general public is restricted from
 access to a portion of a place of public amusement if a printed written notice
 of the restricted access has been conspicuously posted or exhibited at the
 entrance to that portion of the place of public amusement. If a printed
@@ -470,7 +470,7 @@ of this section, is not required to prove that the defendant received actual
 notice that the general public is restricted from access to a portion of a
 place of public amusement.
 5. _(e)_
-    1. Whoever violates subsection (b) of this section is guilty of
+    1. _(1)_ Whoever violates subsection (b) of this section is guilty of
 criminal trespass on a place of public amusement, a misdemeanor of the first
 degree.
     2. _(2)_ In addition to any jail term, fine or other sentence, penalty, or

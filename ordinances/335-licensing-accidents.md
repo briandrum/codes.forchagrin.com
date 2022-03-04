@@ -35,23 +35,20 @@ vehicle.
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Deposit of driver’s license as bond - see Ohio R.C. 2937.221
-      Motor vehicle licensing law - see Ohio R.C. Ch. 4503
-      Driver’s license law - see Ohio R.C. Ch. 4507
-      Power of trial court of record to suspend or revoke license for certain
-violations - see Ohio R.C. Ch. 4510
-      State point system suspension - see Ohio R.C. 4510.03.6
-      State accident reports - see Ohio R.C. 4509.01(J), 4509.06, 4509.74,
-5502.11
-      Motorized bicycle operator’s license - see Ohio R.C. 4511.521
-      Glass removal from street after accident  - see TRAF.
-311.01
+* See sectional histories for similar State law
+* Deposit of driver’s license as bond - see Ohio R.C. 2937.221
+* Motor vehicle licensing law - see Ohio R.C. Ch. 4503
+* Driver’s license law - see Ohio R.C. Ch. 4507
+* Power of trial court of record to suspend or revoke license for certain violations - see Ohio R.C. Ch. 4510
+* State point system suspension - see Ohio R.C. 4510.03.6
+* State accident reports - see Ohio R.C. 4509.01(J), 4509.06, 4509.74, 5502.11
+* Motorized bicycle operator’s license - see Ohio R.C. 4511.521
+* Glass removal from street after accident  - see TRAF. 311.01
 
 ## 335.01   Driver’s license or commercial driver’s license required
 
 1. _(a)_
-    1. No person, except those expressly exempted under Ohio R.C.
+    1. _(1)_ No person, except those expressly exempted under Ohio R.C.
 4507.03, 4507.04, and 4507.05, shall operate any motor vehicle upon a public
 road or highway or any public or private property used by the public for
 purposes of vehicular travel or parking in this Municipality unless the person
@@ -137,7 +134,7 @@ to the operator by the Registrar of Motor Vehicles or a Deputy Registrar under
 Ohio R.C. Chapter 4507 or a valid commercial driver’s license issued under Ohio
 R.C. Chapter 4506.
 2. _(b)_
-    1. No person shall receive a driver’s license, or a motorcycle
+    1. _(1)_ No person shall receive a driver’s license, or a motorcycle
 operator’s endorsement of a driver’s or commercial driver’s license, temporary
 instruction permit, or identification card unless and until the person
 surrenders to the Registrar or a deputy registrar all valid licenses, temporary
@@ -153,7 +150,7 @@ identification card that is not returned to the issuing authority.
 instruction permit, or identification card at any time.  
 (ORC 4507.02(A))
 3. _(c)_
-    1. Except as otherwise provided in this subsection, whoever
+    1. _(1)_ Except as otherwise provided in this subsection, whoever
 violates subsection (a) hereof is guilty of an unclassified misdemeanor. When
 the offense is an unclassified misdemeanor, the offender shall be sentenced
 pursuant to Ohio R.C. 2929.21 to 2929.28, except that the offender shall not be
@@ -186,7 +183,7 @@ permit within thirty days of becoming a resident, the person shall not operate
 any motor vehicle in this municipality under a license or permit issued by
 another state.
 2. _(b)_
-    1. Whoever violates subsection (a) of this section is guilty of a
+    1. _(1)_ Whoever violates subsection (a) of this section is guilty of a
 minor misdemeanor.
     2. _(2)_ The offense established under subsection (b)(1) of this section is
 a strict liability offense and strict liability is a culpable mental state for
@@ -331,7 +328,7 @@ required the holder of the probationary driver’s license to operate a motor
 vehicle in violation of subsection (a)(1)A. or B. of this section; or the
 holder was an emancipated minor.
 3. _(c)_
-    1. If a person is issued a probationary driver’s license prior to
+    1. _(1)_ If a person is issued a probationary driver’s license prior to
 attaining the age of seventeen years and the person pleads guilty to, is
 convicted of, or is adjudicated in juvenile court of having committed a moving
 violation during the six-month period commencing on the date on which the
@@ -421,7 +418,7 @@ lane of travel;
     3. _(3)_ A person using a navigation device in a voice-operated or hands-
 free manner who does not manipulate the device while driving.
 3. _(c)_
-    1. Except as provided in subsection (c)(2) of this section, whoever
+    1. _(1)_ Except as provided in subsection (c)(2) of this section, whoever
 violates subsection (a) of this section shall be fined one hundred fifty
 dollars ($150.00). In addition, the court shall impose a class seven
 suspension of the offender’s driver’s license or permit for a definite period
@@ -618,7 +615,7 @@ under Ohio R.C. Chapter 4507 when the person does not have the person’s licens
 on or about the person’s person shall be prima- facie evidence of the person’s
 not having obtained a driver’s license.
 2. _(b)_
-    1. Except as provided in subsection (b)(2) hereof, whoever violates
+    1. _(1)_ Except as provided in subsection (b)(2) hereof, whoever violates
 this section is guilty of an unclassified misdemeanor. When the offense is an
 unclassified misdemeanor, the offender shall be sentenced pursuant to Ohio R.C.
 2929.21 to 2929.28, except that the offender shall not be sentenced to a jail
@@ -668,7 +665,7 @@ the time of the alleged violation of subsection (b) of this section. The
 person charged with a violation of subsection (a) or (b) of this section may
 offer evidence to rebut this prima-facie evidence.
 4. _(d)_
-    1. Whoever violates subsection (a) or (b) hereof, is guilty of a
+    1. _(1)_ Whoever violates subsection (a) or (b) hereof, is guilty of a
 misdemeanor of the first degree. The court may impose upon the offender a
 class seven suspension of the offender’s driver’s license, commercial driver’s
 license, temporary instruction permit, probationary license, or nonresident
@@ -837,7 +834,7 @@ after committing the offense that is a misdemeanor of the first degree under
 this section for which the offender is sentenced.  
 (ORC 4510.14)
 7. _(g)_
-    1. If a person is convicted of or pleads guilty to a violation of a
+    1. _(1)_ If a person is convicted of or pleads guilty to a violation of a
 municipal ordinance that is substantially equivalent to Ohio R.C. 4510.14, the
 court, in addition to and independent of any sentence that it imposes upon the
 offender for the offense, if the vehicle the offender was operating at the time
@@ -1109,7 +1106,7 @@ dollars ($200.00) or imprisoned not more than ninety days, or both.
 ## 335.09   Display of license plates or validation stickers; registration
 
 1. _(a)_
-    1. No person who is the owner or operator of a motor vehicle shall
+    1. _(1)_ No person who is the owner or operator of a motor vehicle shall
 fail to display in plain view on the rear of the motor vehicle a license plate
 that displays the distinctive number and registration mark assigned to the
 motor vehicle by the Ohio Director of Public Safety, including any county
@@ -1127,7 +1124,7 @@ in the rear window or on an external rear surface of the motor vehicle.
 registration by any material that obstructs its visibility.  
 (ORC 4503.21(A))
 2. _(b)_
-    1. Whoever violates subsection (a) of this section is guilty of a
+    1. _(1)_ Whoever violates subsection (a) of this section is guilty of a
 minor misdemeanor.
     2. _(2)_ The offenses established under subsection (a) of this section are
 strict liability offenses and Ohio R.C. 2901.20 does not apply. The
@@ -1174,7 +1171,7 @@ issued for such vehicle, or upon which are displayed any license plates that
 were issued on an application for registration that contains any false
 statement by the applicant.
 6. _(f)_
-    1. Whoever violates subsection (a) hereof is guilty of a minor
+    1. _(1)_ Whoever violates subsection (a) hereof is guilty of a minor
 misdemeanor.
     2. _(2)_ Whoever violates subsection (b) hereof is guilty of a minor
 misdemeanor on a first offense and a misdemeanor of the fourth degree on each
@@ -1224,7 +1221,7 @@ shall register the vehicle in this State. If such a person fails to register a
 vehicle owned by the person, the person shall not operate any motor vehicle in
 this Municipality under a license issued by another state.
 2. _(b)_
-    1. Whoever violates subsection (a) of this section is guilty of a
+    1. _(1)_ Whoever violates subsection (a) of this section is guilty of a
 minor misdemeanor.
     2. _(2)_ The offense established under subsection (b)(1) of this section is
 a strict liability offense and strict liability is a culpable mental state for
@@ -1245,7 +1242,7 @@ resident in accordance with standards adopted by the Registrar under Ohio R.C.
 ## 335.12   Stopping after accident upon streets; collision with  unattended vehicle
 
 1. _(a)_
-    1. In the case of a motor vehicle accident or collision with
+    1. _(1)_ In the case of a motor vehicle accident or collision with
 persons or property on a public road or highway, the operator of the motor
 vehicle, having knowledge of the accident or collision, immediately shall stop
 the operator’s motor vehicle at the scene of the accident or collision. The
@@ -1271,7 +1268,7 @@ motor vehicle, the operator who collides with the motor vehicle shall securely
 attach the information required to be given in this section, in writing, to a
 conspicuous place in or on the unoccupied or unattended motor vehicle.
 2. _(b)_
-    1. Whoever violates subsection (a) of this section is guilty of
+    1. _(1)_ Whoever violates subsection (a) of this section is guilty of
 failure to stop after an accident. Except as otherwise provided in subsection
 (b)(2) or (3) of this section, failure to stop after an accident is a
 misdemeanor of the first degree.
@@ -1301,7 +1298,7 @@ during or after committing the offense charged under this section.
 ## 335.13   Stopping after accident upon property other than street
 
 1. _(a)_
-    1. In the case of a motor vehicle accident or collision resulting
+    1. _(1)_ In the case of a motor vehicle accident or collision resulting
 in injury or damage to persons or property on any public or private property
 other than a public road or highway, the operator of the motor vehicle, having
 knowledge of the accident or collision, shall stop at the scene of the accident
@@ -1321,7 +1318,7 @@ attach the information required under subsection (a)(1) of this section, in
 writing, to a conspicuous place in or on the unoccupied or unattended motor
 vehicle.
 2. _(b)_
-    1. Whoever violates subsection (a) of this section is guilty of
+    1. _(1)_ Whoever violates subsection (a) of this section is guilty of
 failure to stop after a nonpublic road accident. Except as otherwise provided
 in subsection (b)(2) or (3) of this section, failure to stop after a nonpublic
 road accident is a misdemeanor of the first degree.

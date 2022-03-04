@@ -161,7 +161,7 @@ accommodations by any person, except a person who obtained the drug of abuse
 pursuant to a prescription issued by a practitioner and has the drug of abuse
 in the original container in which it was dispensed to the person.
 4. _(d)_
-    1. No person is required to permit the engagement of accommodations
+    1. _(1)_ No person is required to permit the engagement of accommodations
 at any hotel, inn, cabin or campground by an underage person or for an underage
 person, if the person engaging the accommodations knows or has reason to know
 that the underage person is intoxicated, or that the underage person possesses
@@ -220,7 +220,7 @@ any place where beer or intoxicating liquor is sold under a permit issued by
 the Division of Liquor Control or sold by the Division of Liquor Control.  
 (ORC 4301.634)
 4. _(d)_
-    1. Whoever violates any provision of this section for which no
+    1. _(1)_ Whoever violates any provision of this section for which no
 other penalty is provided is guilty of a misdemeanor of the first degree.
     2. _(2)_ Whoever violates subsection (a) hereof, shall be fined not less
 than twenty-five dollars ($25.00) nor more than one hundred dollars ($100.00). 
@@ -386,7 +386,7 @@ or on a stationary motor vehicle on any street, highway or other public or
 private property open to the public for purposes of vehicular travel or
 parking.
 3. _(c)_
-    1. A person may have in the person’s possession an opened container
+    1. _(1)_ A person may have in the person’s possession an opened container
 of any of the following:
         1. _(A)_ Beer or intoxicating liquor that has been lawfully purchased for
 consumption on the premises where bought from the holder of an A-1-A, A-2, A-2
@@ -526,7 +526,7 @@ if the motor vehicle does not have a trunk, behind the last upright seat or in
 an area not normally occupied by the driver or passengers and not easily
 accessible by the driver. 
 6. _(f)_
-    1. Except if an ordinance or resolution is enacted or adopted under
+    1. _(1)_ Except if an ordinance or resolution is enacted or adopted under
 subsection (f)(2) of this section, this section does not apply to a person who,
 pursuant to a prearranged contract, is a passenger riding on a commercial
 quadricycle when all of the following apply:
@@ -568,7 +568,7 @@ square feet;
 December.  
 (ORC 4301.62)
 8. _(h)_
-    1. As used in this section, “alcoholic beverage” has the same
+    1. _(1)_ As used in this section, “alcoholic beverage” has the same
 meaning as in Ohio R.C. 4303.185.
     2. _(2)_ An alcoholic beverage in a closed container being transported
 under Ohio R.C. 4303.185 to its final destination is not an opened container

@@ -162,7 +162,7 @@ misdemeanor of the third degree.
 1. _(a)_ No person while on a roadway outside a safety zone shall solicit a
 ride from the driver of any vehicle.
 2. _(b)_
-    1. Except as provided in subsection (b)(2) hereof, no person shall
+    1. _(1)_ Except as provided in subsection (b)(2) hereof, no person shall
 stand on a highway for the purpose of soliciting employment, business or
 contributions from the occupant of any vehicle.
     2. _(2)_ Council, by ordinance, may authorize the issuance of a permit to a
@@ -207,7 +207,7 @@ except for those workers performing specialized highway or street maintenance
 or construction under authority of a public agency to ride in the cargo storage
 area or on a tailgate of the driver’s vehicle while the tailgate is unlatched. 
 7. _(g)_
-    1. Except as otherwise provided in this subsection, whoever
+    1. _(1)_ Except as otherwise provided in this subsection, whoever
 violates any provision of subsections (a) to (d) of this section is guilty of a
 minor misdemeanor. If, within one year of the offense, the offender previously
 has been convicted of or pleaded guilty to one predicate motor vehicle or
@@ -307,7 +307,7 @@ misdemeanor of the third degree.
 ## 371.12   Electric personal assistive mobility devices
 
 1. _(a)_
-    1. Electric personal assistive mobility devices may be operated on
+    1. _(1)_ Electric personal assistive mobility devices may be operated on
 the public streets, highways, sidewalks, and paths and portions of roadways set
 aside for the exclusive use of bicycles in accordance with this section.
     2. _(2)_ Except as otherwise provided in this section, those sections of
@@ -437,7 +437,7 @@ applicable to a pedestrian under the same circumstances, except that a personal
 delivery device shall yield the right-of-way to human pedestrians on sidewalks
 and crosswalks.
 5. _(e)_
-    1. No person shall operate a personal delivery device unless the
+    1. _(1)_ No person shall operate a personal delivery device unless the
 person is authorized to do so under this section and complies with the
 requirements of this section.
     2. _(2)_ An eligible entity is responsible for both of the following:
@@ -451,7 +451,7 @@ which a personal delivery device operates in a manner prohibited by divisions
 ## 371.14   Low-speed micromobility devices
 
 1. _(a)_
-    1. A low-speed micromobility device may be operated on the public
+    1. _(1)_ A low-speed micromobility device may be operated on the public
 streets, highways, sidewalks, and shared-use paths, and may be operated on any
 portions of roadways set aside for the exclusive use of bicycles in accordance
 with this section.
@@ -473,7 +473,7 @@ from a distance of not less than 500 feet;
 distances from 100 feet to 600 feet when directly in front of lawful lower
 beams of head lamps on a motor vehicle.
 3. _(c)_
-    1. No person who is under sixteen years of age shall rent a low-
+    1. _(1)_ No person who is under sixteen years of age shall rent a low-
 speed micromobility device.
     2. _(2)_ No person shall knowingly rent a low-speed micromobility device to
 a person who is under sixteen years of age.
@@ -482,7 +482,7 @@ behalf of a person who is under sixteen years of age.
 4. _(d)_ No person shall operate a low-speed micromobility device at a speed
 greater than twenty miles per hour.
 5. _(e)_
-    1. Whoever violates this section is guilty of a minor misdemeanor.
+    1. _(1)_ Whoever violates this section is guilty of a minor misdemeanor.
     2. _(2)_ Unless a mens rea is otherwise specified in this section, an
 offense established under this section is a strict liability offense and Ohio
 R.C. 2901.20 does not apply. The designation of that offense as a strict

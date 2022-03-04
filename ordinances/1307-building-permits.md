@@ -408,7 +408,7 @@ filing fee for any appeal to the Board of Zoning Appeals regarding the Building
 Code of Chagrin Falls shall be the same fee for any similar appeal to the Board
 of Zoning Appeals regarding the Planning and Zoning Code of Chagrin Falls.
 3. _(c)_
-    1. Whenever any appeal is made to the Board of Zoning Appeals from
+    1. _(1)_ Whenever any appeal is made to the Board of Zoning Appeals from
 any provision, regulation, order, requirement, determination or any other
 action by the Village in relation to the Building Code, the standard of review
 for any appeal regarding an area  regulation shall be the same as provided for

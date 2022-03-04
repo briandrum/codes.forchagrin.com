@@ -259,7 +259,7 @@ operating or traveling within the limits of the highway. Its use on slow-
 moving vehicles being transported upon other types of vehicles or on any other
 type of vehicle or stationary object on the highway is prohibited.
 4. _(d)_
-    1. No person shall sell, lease, rent or operate any boat trailer,
+    1. _(1)_ No person shall sell, lease, rent or operate any boat trailer,
 farm machinery or other machinery defined as a slow-moving vehicle in
 subsection (b) hereof, except those units designed to be completely mounted on
 a primary power unit, which is manufactured or assembled on or after April 1,
@@ -404,7 +404,7 @@ be so directed that no part of the beam will strike the level of the roadway on
 which the vehicle stands at a distance of more than seventy-five feet from the
 vehicle.
 3. _(c)_
-    1. Flashing lights are prohibited on motor vehicles, except as a
+    1. _(1)_ Flashing lights are prohibited on motor vehicles, except as a
 means for indicating a right or a left turn, or in the presence of a vehicular
 traffic hazard requiring unusual care in approaching, or overtaking or
 passing. This prohibition does not apply to emergency vehicles, road service
@@ -594,7 +594,7 @@ motorcycles by mirror. 
 1. _(a)_ No person shall drive any motor vehicle on a street or highway, other
 than a motorcycle or motorized bicycle, that is not equipped with a windshield.
 2. _(b)_
-    1. No person shall drive any motor vehicle, other than a bus, with
+    1. _(1)_ No person shall drive any motor vehicle, other than a bus, with
 any sign, poster or other nontransparent material upon the front windshield,
 sidewings, side or rear windows of such vehicle other than a certificate or
 other paper required to be displayed by law, except that there may be in the
@@ -820,7 +820,7 @@ restraining device;
 equipped occupant restraining devices in the taxicab are maintained in usable
 form.
 3. _(c)_
-    1. Subsection (b)(3) hereof does not apply to a person who is
+    1. _(1)_ Subsection (b)(3) hereof does not apply to a person who is
 required by Section 337.26 to be secured in a child restraint device or booster seat.
     2. _(2)_ Subsection (b)(1) hereof does not apply to a person who is an
 employee of the United States Postal Service or of a newspaper home delivery
@@ -875,7 +875,7 @@ of that nature has been or is being committed.
 forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
 4513.263.
 6. _(f)_
-    1. Subject to subsection (f)(2) of this section, the failure of a
+    1. _(1)_ Subject to subsection (f)(2) of this section, the failure of a
 person to wear all of the available elements of a properly adjusted occupant
 restraining device in violation of subsection (b)(1) or (3) or the failure of a
 person to ensure that each minor who is a passenger of an automobile being
@@ -912,7 +912,7 @@ the injury or death sustained by the occupant was enhanced or aggravated by
 some design defect in the passenger car or that the passenger car was not
 crashworthy.
 7. _(g)_
-    1. Whoever violates subsection (b)(1) of this section shall be
+    1. _(1)_ Whoever violates subsection (b)(1) of this section shall be
 fined thirty dollars ($30.00).
     2. _(2)_ Whoever violates subsection (b)(3) of this section shall be fined
 twenty dollars ($20.00).
@@ -1159,7 +1159,7 @@ original or replacement has been made.
 ## 337.30   Directional signals required
 
 1. _(a)_
-    1. No person shall operate any motor vehicle manufactured or
+    1. _(1)_ No person shall operate any motor vehicle manufactured or
 assembled on or after January 1, 1954, unless the vehicle is equipped with
 electrical or mechanical directional signals.
     2. _(2)_ No person shall operate any motorcycle or motor-driven cycle

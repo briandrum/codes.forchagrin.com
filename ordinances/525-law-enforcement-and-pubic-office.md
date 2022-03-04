@@ -156,7 +156,7 @@ offender within the period of the statute of limitations for falsification, it
 is not necessary for the prosecution to prove which statement was false, but
 only that one or the other was false.
 4. _(d)_
-    1. Whoever violates any provision of subsection (a)(1) to (8) or
+    1. _(1)_ Whoever violates any provision of subsection (a)(1) to (8) or
 (10) to (13) hereof is guilty of falsification, a misdemeanor of the first
 degree.
     2. _(2)_ Whoever violates subsection (a)(9) hereof is guilty of
@@ -256,7 +256,7 @@ misdemeanor of the first degree.
 ## 525.05   Failure to report a crime, injury or knowledge of death
 
 1. _(a)_
-    1. Except as provided in subsection (a)(2) hereof, no person,
+    1. _(1)_ Except as provided in subsection (a)(2) hereof, no person,
 knowing that a felony has been or is being committed, shall knowingly fail to
 report such information to law enforcement authorities.
     2. _(2)_ No person, knowing that a violation of division (B) of Ohio R.C.
@@ -284,7 +284,7 @@ enforcement officer who has reasonable cause to assert the authority to
 investigate the circumstances surrounding the death, any facts within the
 person’s knowledge that may have a bearing on the investigation of the death.
 5. _(e)_
-    1. As used in this subsection, “burn injury” means any of the
+    1. _(1)_ As used in this subsection, “burn injury” means any of the
 following:
         1. _(A)_ Second or third degree burns;
         2. _(B)_ Any burns to the upper respiratory tract or laryngeal edema due
@@ -325,7 +325,7 @@ nurse-patient relationship is not a ground for excluding evidence regarding a
 person’s burn injury or the cause of the burn injury in any judicial proceeding
 resulting from a report submitted under subsection (e) of this section.
 6. _(f)_
-    1. Any doctor of medicine or osteopathic medicine, hospital intern
+    1. _(1)_ Any doctor of medicine or osteopathic medicine, hospital intern
 or resident, nurse, psychologist, social worker, independent social worker,
 social work assistant, licensed professional clinical counselor, licensed
 professional counselor, independent marriage and family therapist or marriage
@@ -384,7 +384,7 @@ this section is a misdemeanor of the second degree.
 10. _(j)_ Whoever violates subsection (c) or (d) of this section is guilty of
 failure to report knowledge of a death, a misdemeanor of the fourth degree.
 11. _(k)_
-    1. Whoever negligently violates subsection (e) of this section is
+    1. _(1)_ Whoever negligently violates subsection (e) of this section is
 guilty of a minor misdemeanor.
     2. _(2)_ Whoever knowingly violates subsection (e) of this section is guilty
 of a misdemeanor of the second degree.
@@ -452,7 +452,7 @@ ultimately is apprehended for, is charged with, is convicted of, pleads guilty
 to, or is adjudicated a delinquent child for committing the crime or act the
 person or child aided committed.
 3. _(c)_
-    1. Whoever violates this section is guilty of obstructing justice.
+    1. _(1)_ Whoever violates this section is guilty of obstructing justice.
     2. _(2)_ If the crime committed by the person aided is a misdemeanor or if
 the act committed by the child aided would be a misdemeanor if committed by an
 adult, obstructing justice is a misdemeanor of the same degree as the
@@ -727,7 +727,7 @@ otherwise endanger an assistance dog that at the time of the conduct is
 assisting or serving a blind, deaf or hearing impaired, or mobility impaired
 person or that the person knows is an assistance dog.
 5. _(e)_
-    1. Whoever violates subsection (a) hereof is guilty of assaulting a
+    1. _(1)_ Whoever violates subsection (a) hereof is guilty of assaulting a
 police dog or horse. If the violation results in physical harm to the police
 dog or horse, assaulting a police dog or horse is a misdemeanor of the first
 degree. If the violation does not result in death, serious physical harm, or

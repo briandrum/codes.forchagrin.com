@@ -51,7 +51,7 @@ roadway within the Municipality which is not a State route, except as provided
 in Section 339.02.  
 (ORC 4513.34)
 2. _(b)_
-    1. No person shall violate the terms of a permit issued under this
+    1. _(1)_ No person shall violate the terms of a permit issued under this
 section that relate to gross load limits.
     2. _(2)_ No person shall violate the terms of a permit issued under this
 section that relate to axle load by more than 2000 pounds per axle or group of
@@ -367,7 +367,7 @@ material that project beyond the tread of the traction surface of the tire. 
 "Motor vehicle," "street or highway," "public safety vehicle" and "school bus"
 have the same meanings as given those terms in Chapter 301.
 2. _(b)_
-    1. Except as provided in subsection (b)(2) hereof, no person shall
+    1. _(1)_ Except as provided in subsection (b)(2) hereof, no person shall
 operate any motor vehicle, other than a public safety vehicle or bus, that is
 equipped with studded tires on any street or highway, except during the period
 extending from November 1 of each year through April 15 of the succeeding year.

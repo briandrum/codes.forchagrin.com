@@ -232,7 +232,7 @@ lawful order of any law enforcement officer given while the person is stopped,
 including, but not limited to, a specific order to the person to keep the
 person’s hands in plain sight.
 3. _(c)_
-    1. This section does not apply to any of the following:
+    1. _(1)_ This section does not apply to any of the following:
         1. _(A)_ An officer, agent or employee or this or any other state or the
 United States, or to a law enforcement officer, who is authorized to carry
 concealed weapons or dangerous ordnance, or is authorized to carry handguns and
@@ -274,7 +274,7 @@ lawful purpose and while in the actor’s own home.
 required to obtain a concealed handgun license as a condition for the dismissal
 of the charge.
 6. _(f)_
-    1. Whoever violates this section is guilty of carrying concealed
+    1. _(1)_ Whoever violates this section is guilty of carrying concealed
 weapons. Except as otherwise provided in this subsection or subsection (f)(2)
 of this section, carrying concealed weapons in violation of subsection (a) of
 this section is a misdemeanor of the first degree. Except as otherwise
@@ -416,7 +416,7 @@ law enforcement officer given while the motor vehicle is stopped, including,
 but not limited to, a specific order to the person to keep the person’s hands
 in plain sight.
 3. _(c)_
-    1. This section does not apply to any of the following:
+    1. _(1)_ This section does not apply to any of the following:
         1. _(A)_ An officer, agent or employee of this or any other state or the
 United States, or a law enforcement officer, when authorized to carry or have
 loaded or accessible firearms in motor vehicles and acting within the scope of
@@ -448,7 +448,7 @@ during the open hunting season for a wild quadruped or game bird.
 R.C. 1531.01 or a motor vehicle that is parked on a road that is owned or
 administered by the Division of Wildlife.
 4. _(d)_
-    1. The affirmative defenses authorized in Section 549.02(d)(1) and (2) are affirmative defenses to a charge under subsection (a)
+    1. _(1)_ The affirmative defenses authorized in Section 549.02(d)(1) and (2) are affirmative defenses to a charge under subsection (a)
 that involves a firearm other than a handgun.
     2. _(2)_ It is an affirmative defense to a charge under subsection (a) of
 improperly handling firearms in a motor vehicle that the actor transported or
@@ -460,7 +460,7 @@ vehicle in a manner prohibited by subsection (a) while the motor vehicle was
 being operated on a street, highway, or other public or private property used
 by the public for vehicular traffic.
 5. _(e)_
-    1. No person who is charged with a violation of subsection (a)
+    1. _(1)_ No person who is charged with a violation of subsection (a)
 shall be required to obtain a concealed handgun license as a condition for the
 dismissal of the charge.
     2. _(2)_ If a person is convicted of, was convicted of, pleads guilty to, or
@@ -680,7 +680,7 @@ of Ohio R.C. 2923.122, illegal possession of an object indistinguishable from a
 firearm in a school safety zone is a felony and shall be prosecuted under
 appropriate State law.
 4. _(d)_
-    1. In addition to any other penalty imposed upon a person who is
+    1. _(1)_ In addition to any other penalty imposed upon a person who is
 convicted of or pleads guilty to a violation of this section and subject to
 subsection (d)(2) of this section, if the offender has not attained nineteen
 years of age, regardless of whether the offender is attending or is enrolled in
@@ -719,7 +719,7 @@ that the name of the manufacturer, model, manufacturer’s serial number, or
 other mark of identification on the firearm has been changed, altered, removed,
 or obliterated.
 2. _(b)_
-    1. Whoever violates subsection (a)(1) of this section is guilty of
+    1. _(1)_ Whoever violates subsection (a)(1) of this section is guilty of
 defacing identification marks of a firearm. Except as otherwise provided in
 this subsection, defacing identification marks of a firearm is a misdemeanor of
 the first degree. If the offender previously has been convicted of or pleaded

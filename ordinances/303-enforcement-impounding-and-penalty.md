@@ -125,7 +125,7 @@ violations of Sections
 333.04,
 337.01 and Ohio R.C. 4511.66 and 5577.01 to 5577.09.
 3. _(c)_
-    1. This section does not exempt a driver of as highway maintenance
+    1. _(1)_ This section does not exempt a driver of as highway maintenance
 vehicle from civil liability arising from a violation of Sections
 331.01 to 331.04,
 331.06 to 331.08,
@@ -292,7 +292,7 @@ misdemeanor of the third degree.
 ### 303.081   Impounding vehicles on private residential or agricultural property
 
 1. _(a)_
-    1. The Chief of Police upon complaint of any person adversely
+    1. _(1)_ The Chief of Police upon complaint of any person adversely
 affected may order into storage any motor vehicle, other than an abandoned junk
 motor vehicle as defined in Ohio R.C. 4513.63, that has been left on private
 residential or private agricultural property for at least four hours without
@@ -347,7 +347,7 @@ agricultural property without the permission of the person having the right to
 possession of the property, or is not at the garage or place of storage without
 the permission of the owner, whichever is applicable.
 3. _(c)_
-    1. The Chief of Police shall maintain a record of motor vehicles
+    1. _(1)_ The Chief of Police shall maintain a record of motor vehicles
 that the Chief orders into storage pursuant to subsection (a)(1) of this
 section. The record shall include an entry for each such motor vehicle that
 identifies the motor vehicle’s license number, make, model and color, the
@@ -365,7 +365,7 @@ enforcement agency with which the complaint was registered to any person who
 identifies self as the owner or operator of the motor vehicle and requests
 information pertaining to its location.
 4. _(d)_
-    1. The owner or lienholder of a motor vehicle that is ordered into
+    1. _(1)_ The owner or lienholder of a motor vehicle that is ordered into
 storage pursuant to subsection (a)(1) of this section may reclaim it upon both
 of the following:
         1. _(A)_ Payment of all applicable fees established by the Public
@@ -403,7 +403,7 @@ include any items that are attached to the motor vehicle.
 subsection (a)(1) of this section remains unclaimed by the owner for thirty
 days, the procedures established by Ohio R.C. 4513.61 and 4513.62 apply.
 5. _(e)_
-    1. No person shall remove, or cause the removal of, any motor
+    1. _(1)_ No person shall remove, or cause the removal of, any motor
 vehicle from any private residential or private agricultural property other
 than in accordance with subsection (a)(1) of this section or Ohio R.C. 4513.61
 to 4513.65.
@@ -458,7 +458,7 @@ route of one or more modes of public transportation, if any public
 transportation is available in the municipal corporation or township in which
 the private tow-away zone is located.
 2. _(b)_
-    1. If a vehicle is parked on private property that is established
+    1. _(1)_ If a vehicle is parked on private property that is established
 as a private tow- away zone in accordance with subsection (a) of this section,
 without the consent of the owner of the private property or in violation of any
 posted parking condition or regulation, the owner of the private property may
@@ -499,7 +499,7 @@ that the vehicle is not parked on the private property established as a private
 tow-away zone without the consent of the owner of the private property or in
 violation of any posted parking condition or regulation.
 4. _(d)_
-    1. Prior to towing a vehicle under subsection (b) of this section,
+    1. _(1)_ Prior to towing a vehicle under subsection (b) of this section,
 a towing service shall make all reasonable efforts to take as many photographs
 as necessary to evidence that the vehicle is clearly parked on private property
 in violation of a private tow-away zone established under subsection (a) of
@@ -517,7 +517,7 @@ the towing service is unable to deliver the motor vehicle within two hours due
 to an uncontrollable force, natural disaster, or other event that is not within
 the power of the towing service.
 5. _(e)_
-    1. If an owner of a private property that is established as a
+    1. _(1)_ If an owner of a private property that is established as a
 private tow-away zone in accordance with subsection (a) of this section causes
 the removal of a vehicle from that property by a towing service under
 subsection (b) of this section, the towing service, within two hours of
@@ -538,7 +538,7 @@ to a particular vehicle to a person who, either in person or pursuant to a
 telephone call, identifies self as the owner, operator or lienholder of the
 vehicle, and requests information pertaining to the vehicle.
 6. _(f)_
-    1. When a vehicle is removed from private property in accordance
+    1. _(1)_ When a vehicle is removed from private property in accordance
 with this section, within three days of the removal, the towing service or
 storage facility from which the vehicle may be recovered shall cause a search
 to be made of the records of the Bureau of Motor Vehicles to ascertain the
@@ -574,7 +574,7 @@ storage facility is not eligible to obtain title under Ohio R.C. 4505.101, the
 towing service or storage facility need only comply with the initial notice
 required under subsection (f)(1)A. of this section.
 7. _(g)_
-    1. The owner or lienholder of a vehicle that is removed under
+    1. _(1)_ The owner or lienholder of a vehicle that is removed under
 subsection (b) of this section may reclaim it upon both of the following:
         1. _(A)_ Presentation of proof of ownership, which may be evidenced by a
 certificate of title to the vehicle, a certificate of registration for the

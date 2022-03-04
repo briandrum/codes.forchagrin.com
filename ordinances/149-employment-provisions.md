@@ -41,14 +41,12 @@ regulation of part- time employment of police officers.
 
 ## Cross references
 
-      Conflict of interest - see
-CHTR. Art. XII, Sec. 6
-      Deductions for municipal income tax - see Ohio R.C. 9.42
-      Public employees retirement system - see Ohio R.C. Ch. 145
-      Expenses for attendance at conference or convention - see Ohio R.C.
-733.79
-      Strikes by public employees - see Ohio R.C. Ch. 4117
-      Workmen’s compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. Ch.
+* Conflict of interest - see CHTR. Art. XII, Sec. 6
+* Deductions for municipal income tax - see Ohio R.C. 9.42
+* Public employees retirement system - see Ohio R.C. Ch. 145
+* Expenses for attendance at conference or convention - see Ohio R.C. 733.79
+* Strikes by public employees - see Ohio R.C. Ch. 4117
+* Workmen’s compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. Ch.
 4123
 
 ## 149.01   Within-range pay adjustments

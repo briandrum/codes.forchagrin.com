@@ -18,26 +18,17 @@ full-time  regular patrol officers.
 
 ## Cross references
 
-      Police Department - see CHTR. Art. VII,
-Sec. 1
-      Appointment and removal of police officers - see CHTR. Art. VII,
-Sec. 2
-      Assistance of State Criminal Bureau - see Ohio R.C. 109.51 et seq.
-      Police protection contracts - see Ohio R.C. 505.441, 737.04
-      Recovered property and disposition - see Ohio R.C. 737.29 et seq.
-      Resisting an officer - see GEN. OFF.
-525.09
-      Chief blocking off streets - see TRAF.
-311.03
-      Assisting Police Department - see GEN. OFF.
-525.06
-      Impersonating an officer - see GEN. OFF.
- 525.03,
-545.16
-      False reports to - see GEN. OFF.
-525.02
-      Impounding dogs - see GEN. OFF.
-505.02
+* Police Department - see CHTR. Art. VII, Sec. 1
+* Appointment and removal of police officers - see CHTR. Art. VII, Sec. 2
+* Assistance of State Criminal Bureau - see Ohio R.C. 109.51 et seq.
+* Police protection contracts - see Ohio R.C. 505.441, 737.04
+* Recovered property and disposition - see Ohio R.C. 737.29 et seq.
+* Resisting an officer - see GEN. OFF. 525.09
+* Chief blocking off streets - see TRAF. 311.03
+* Assisting Police Department - see GEN. OFF. 525.06
+* Impersonating an officer - see GEN. OFF.  525.03, 545.16
+* False reports to - see GEN. OFF. 525.02
+* Impounding dogs - see GEN. OFF. 505.02
 
 ## 129.01   Department established
 

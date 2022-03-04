@@ -59,7 +59,7 @@ person shall knowingly fail to obey such order.
 2. _(b)_ Nothing in this section requires persons to disperse who are peaceably
 assembled for a lawful purpose.
 3. _(c)_
-    1. Whoever violates this section is guilty of failure to disperse.
+    1. _(1)_ Whoever violates this section is guilty of failure to disperse.
     2. _(2)_ Except as otherwise provided in subsection (c)(3) hereof, failure
 to disperse is a minor misdemeanor.
     3. _(3)_ Failure to disperse is a misdemeanor of the fourth degree if the
@@ -104,7 +104,7 @@ the influence of alcohol or any drug of abuse, is not a violation of subsection
 probable cause to believe that person is voluntarily intoxicated for purposes
 of subsection (b) hereof.
 5. _(e)_
-    1. Whoever violates this section is guilty of disorderly conduct.
+    1. _(1)_ Whoever violates this section is guilty of disorderly conduct.
     2. _(2)_ Except as otherwise provided in subsections (e)(3) and (e)(4),
 disorderly conduct is a minor misdemeanor.
     3. _(3)_ Disorderly conduct is a misdemeanor of the fourth degree if any of

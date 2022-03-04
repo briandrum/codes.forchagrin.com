@@ -28,17 +28,12 @@ the General Fund.
 
 ## Cross references
 
-      Director’s appointment and term - see
-CHTR. Art. V, Sec. 1
-      Director’s qualifications - see
-CHTR. Art. V, Sec. 2
-      Director’s duties - see
-CHTR. Art. V, Sec. 3
-      Department establishment - see
-CHTR. Art. VII, Sec. 1
-      State law application on financial matters - see
-CHTR. Art. VIII, Sec.1
-      Uniform depository act - see Ohio R.C. Ch. 135
+* Director’s appointment and term - see CHTR. Art. V, Sec. 1
+* Director’s qualifications - see CHTR. Art. V, Sec. 2
+* Director’s duties - see CHTR. Art. V, Sec. 3
+* Department establishment - see CHTR. Art. VII, Sec. 1
+* State law application on financial matters - see CHTR. Art. VIII, Sec.1
+* Uniform depository act - see Ohio R.C. Ch. 135
 
 ## 125.01   Definitions
 
@@ -324,7 +319,7 @@ Municipality for investment purposes.
 2. _(b)_ The Director of Finance or his designee may invest in any of the
 following  classifications of obligations which are hereby determined to be
 eligible for investment:
-       (1)    Bonds, notes of other obligations of or guaranteed by the United
+    1. _(1)_ Bonds, notes of other obligations of or guaranteed by the United
 States or those for which the faith of the United States, is pledged for the
 payment  of principal and interest thereon.
     2. _(2)_ Bonds, notes, debentures or other obligations or securities issued
@@ -348,7 +343,7 @@ or are redeemable within five years from the date of purchase;
 provide, and if so, shall be shown on its face, that the amount of such deposit
 is payable upon written notice a specified period before the date of the
 repayment maturity;
-       (8)    Insured deposit accounts in eligible depositories paying interest
+    8. _(8)_ Insured deposit accounts in eligible depositories paying interest
 at a rate  greater than the interest rate paid on the Municipality’s active
 deposits,  provided that such investments shall be approved in writing by the
 Director of Finance and Director of Law and that such approval by the Director

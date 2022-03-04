@@ -303,7 +303,7 @@ commercial motor vehicle in violation of the restrictions on the driver’s
 commercial driver’s license or commercial driver’s license temporary
 instruction permit.
 5. _(e)_
-    1. Whoever violates subsection (a), (b) or (d) of this section is
+    1. _(1)_ Whoever violates subsection (a), (b) or (d) of this section is
 guilty of a misdemeanor of the first degree.
     2. _(2)_ Whoever violates subsection (c) of this section may be assessed a
 fine not to exceed ten thousand dollars.  

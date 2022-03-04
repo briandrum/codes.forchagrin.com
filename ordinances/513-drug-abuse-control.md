@@ -470,7 +470,7 @@ termination, the court may terminate the suspension.
 1. _(a)_ No person shall knowingly obtain, possess or use a controlled
 substance or a controlled substance analog.
 2. _(b)_
-    1. This section does not apply to the following:
+    1. _(1)_ This section does not apply to the following:
         1. _(A)_ Manufacturers, licensed health professionals authorized to
 prescribe drugs, pharmacists, owners of pharmacies and other persons whose
 conduct was in accordance with Ohio R.C. Chapters 3719, 4715, 4729, 4730, 4731
@@ -976,7 +976,7 @@ product or material in the community;
     12. _(12)_ Expert testimony concerning the use of the equipment, product or
 material.
 3. _(c)_
-    1. Subject to subsection (d)(2) of this section, no person shall
+    1. _(1)_ Subject to subsection (d)(2) of this section, no person shall
 knowingly use, or possess with purpose to use, drug paraphernalia.
     2. _(2)_ No person shall knowingly sell, or possess or manufacture with
 purpose to sell, drug paraphernalia, if the person knows or reasonably should
@@ -989,7 +989,7 @@ advertisement is to promote the illegal sale in the State of the equipment,
 product or material that the offender intended or designed for use as drug
 paraphernalia.
 4. _(d)_
-    1. This section does not apply to manufacturers, licensed health
+    1. _(1)_ This section does not apply to manufacturers, licensed health
 professionals authorized to prescribe drugs, pharmacists, owners of pharmacies
 and other persons whose conduct is in accordance with Ohio R.C. Chapters 3719,
 4715, 4729, 4730, 4731, and 4741. This section shall not be construed to
@@ -1007,7 +1007,7 @@ seized, after a conviction for that violation shall be forfeited, and upon
 forfeiture shall be disposed of pursuant to Ohio R.C. 2981.12.
  
 6. _(f)_
-    1. Whoever violates subsection (c)(1) hereof is guilty of illegal
+    1. _(1)_ Whoever violates subsection (c)(1) hereof is guilty of illegal
 use or possession of drug paraphernalia, a misdemeanor of the fourth degree.
     2. _(2)_ Except as provided in subsection (f)(3) hereof, whoever violates
 subsection (c)(2) hereof is guilty of dealing in drug paraphernalia, a

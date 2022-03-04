@@ -17,12 +17,9 @@ Superintendent of Utilities.
 
 ## Cross references
 
-      Chief Administrative Officer - see
-CHTR. Art. VI
-      Department of Public Service - see
-CHTR. Art. VII, Sec. 1
-      Overtime compensation - see ADM.
-149.02
+* Chief Administrative Officer - see CHTR. Art. VI
+* Department of Public Service - see CHTR. Art. VII, Sec. 1
+* Overtime compensation - see ADM. 149.02
 
 ## 133.01   Establishment; head
 

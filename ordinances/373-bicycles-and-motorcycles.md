@@ -139,7 +139,7 @@ equipped. No motorcycle shall be operated on a highway when the handlebars
 rise higher than the shoulders of the operator when the operator is seated in
 the operator’s seat or saddle.
 8. _(h)_
-    1. Except as provided in subsection (h)(2) of this section, no
+    1. _(1)_ Except as provided in subsection (h)(2) of this section, no
 person shall operate or be a passenger on a snowmobile or motorcycle without
 using safety glasses or other protective eye device. Except as provided in
 subsection (i)(3) of this section, no person who is under the age of eighteen
@@ -157,7 +157,7 @@ trial of any civil action. 
 operating an autocycle or cab-enclosed motorcycle when the occupant compartment
 top is in place enclosing the occupants.
 9. _(i)_
-    1. No person shall operate a motorcycle with a valid temporary
+    1. _(1)_ No person shall operate a motorcycle with a valid temporary
 permit and temporary instruction permit identification card issued by the Ohio
 Registrar of Motor Vehicles pursuant to Ohio R.C. 4507.05 unless the person, at
 the time of such operation, is wearing on the person’s head a protective helmet
@@ -396,7 +396,7 @@ offender is subject to the additional fine established under Section 303.991 of 
 ## 373.18   Electric bicycles
 
 1. _(a)_
-    1. The operation of a class 1 electric bicycle and a class 2
+    1. _(1)_ The operation of a class 1 electric bicycle and a class 2
 electric bicycle is permitted on a path set aside for the exclusive use of
 bicycles or on a shared-use path, unless the Municipality by resolution,
 ordinance, or rule prohibits the use of a class 1 electric bicycle or class 2
@@ -418,7 +418,7 @@ law enforcement officer, or other person sworn to enforce the criminal and
 traffic laws of the state, using an electric bicycle while in the performance
 of the officer’s duties.
 2. _(b)_
-    1. No person under sixteen years of age shall operate a class 3
+    1. _(1)_ No person under sixteen years of age shall operate a class 3
 electric bicycle; however, a person under sixteen years of age may ride as a
 passenger on a class 3 electric bicycle that is designed to accommodate
 passengers.
@@ -427,7 +427,7 @@ bicycle unless the person is wearing a protective helmet that meets the
 standards established by the Consumer Product Safety Commission or the American
 Society for Testing and Materials.
 3. _(c)_
-    1. Except as otherwise provided in this subsection, whoever
+    1. _(1)_ Except as otherwise provided in this subsection, whoever
 operates an electric bicycle in a manner that is prohibited under subsection
 (a) of this section and whoever violates subsection (b) of this section is
 guilty of a minor misdemeanor. If, within one year of the offense, the

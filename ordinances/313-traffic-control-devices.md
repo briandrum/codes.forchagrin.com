@@ -21,15 +21,11 @@ signal.
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Designation of through streets or stop intersections - see Ohio R.C.
-4511.07(F), 4511.65
-      Uniform system of traffic control devices - see Ohio R.C. 4511.09,
-4511.11(D)
-      Placing and maintaining local traffic control devices - see Ohio R.C.
-4511.10, 4511.11
-      Traffic control devices defined - TRAF.
-301.46
+* See sectional histories for similar State law
+* Designation of through streets or stop intersections - see Ohio R.C. 4511.07(F), 4511.65
+* Uniform system of traffic control devices - see Ohio R.C. 4511.09, 4511.11(D)
+* Placing and maintaining local traffic control devices - see Ohio R.C. 4511.10, 4511.11
+* Traffic control devices defined - TRAF. 301.46
 
 ## 313.01   Obedience to traffic control devices
 
@@ -390,7 +386,7 @@ intended to protect it;
     3. _(3)_ Knowingly move, damage, destroy or otherwise improperly tamper with
 a manhole cover.
 2. _(b)_
-    1. Except as otherwise provided in this subsection, whoever
+    1. _(1)_ Except as otherwise provided in this subsection, whoever
 violates subsection (a)(1) or (3) of this section is guilty of a misdemeanor of
 the third degree. If a violation of subsection (a)(1) or (3) of this section
 creates a risk of physical harm to any person, the offender is guilty of a
@@ -475,7 +471,7 @@ degree.
 ## 313.11   Portable signal preemption devices prohibited
 
 1. _(a)_
-    1. No person shall possess a portable signal preemption device.
+    1. _(1)_ No person shall possess a portable signal preemption device.
     2. _(2)_ No person shall use a portable signal preemption device to affect
 the operation of a traffic control signal.
 2. _(b)_ Subsection (a)(1) of this section does not apply to any of the

@@ -163,7 +163,8 @@ an offense only if the person proves, in the manner specified in Ohio R.C.
 know, as a result of a severe mental disease or defect, the wrongfulness of the
 person’s acts.
 15. _(o)_
-    1. A.   Subject to subsection (o)(2) hereof, as used in any section
+    1. _(1)_
+        1. _(A)_ Subject to subsection (o)(2) hereof, as used in any section
 contained in Part Five - General Offenses Code that sets forth a criminal
 offense, “person” includes all of the following:
             1. _(1)_ An individual, corporation, business trust, estate, trust,
@@ -374,7 +375,7 @@ fraud or breach of a fiduciary duty, within one year after discovery of the
 offense either by an aggrieved person, or by his legal representative who is
 not himself a party to the offense.
 3. _(c)_
-    1. If the period of limitation provided in this section has
+    1. _(1)_ If the period of limitation provided in this section has
 expired, prosecution shall be commenced for the following offenses during the
 following specified periods of time:
         1. _(A)_ For an offense involving misconduct in office by a public servant
@@ -451,7 +452,7 @@ offense defined in that subsection does not by itself plainly indicate a
 purpose to impose strict criminal liability for an offense defined in other
 subsections of the section that do not specify a degree of culpability.
 3. _(c)_
-    1. When language defining an element of an offense that is related
+    1. _(1)_ When language defining an element of an offense that is related
 to knowledge or intent or to which mens rea could fairly be applied neither
 specifies culpability nor plainly indicates a purpose to impose strict
 liability, the element of the offense is established only if a person acts
@@ -688,7 +689,7 @@ specific offense or of complicity in the commission of or attempt to commit the
 specific offense, the person shall not be convicted of conspiracy involving the
 same offense.
 8. _(h)_
-    1. No person shall be convicted of conspiracy upon the testimony of
+    1. _(1)_ No person shall be convicted of conspiracy upon the testimony of
 a person with whom the defendant conspired, unsupported by other evidence.
     2. _(2)_ If a person with whom the defendant allegedly has conspired
 testifies against the defendant in a case in which the defendant is charged
@@ -727,7 +728,7 @@ conspiracy;
     2. _(2)_ Subsections (b) to (i) hereof are incorporated by reference in the
 conspiracy offense defined by the other section or sections of this Code.
 12. _(l)_
-    1. In addition to the penalties that otherwise are imposed for
+    1. _(1)_ In addition to the penalties that otherwise are imposed for
 conspiracy, a person who is found guilty of conspiracy to engage in a pattern
 of corrupt activity is subject to divisions (B)(2) and (3) of Ohio R.C.
 2923.32, division (A) of Ohio R.C. 2981.04 and division (D) of Ohio R.C.

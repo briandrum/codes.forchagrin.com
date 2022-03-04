@@ -20,20 +20,17 @@ vehicle.
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Drug of abuse defined - see Ohio R.C. 3719.011(A)
-      Alcohol defined - see Ohio R.C. 4301.01(B)(1)
-      Alteration of prima-facie speed limits - see Ohio R.C. 4511.21, 4511.22
-(B), 4511.23
-      Failure to control vehicle - see TRAF.
-331.34
-      Walking on highway while under the influence - see TRAF.
-371.09
+* See sectional histories for similar State law
+* Drug of abuse defined - see Ohio R.C. 3719.011(A)
+* Alcohol defined - see Ohio R.C. 4301.01(B)(1)
+* Alteration of prima-facie speed limits - see Ohio R.C. 4511.21, 4511.22 (B), 4511.23
+* Failure to control vehicle - see TRAF. 331.34
+* Walking on highway while under the influence - see TRAF. 371.09
 
 ## 333.01   Driving or physical control while under the influence; evidence
 
 1. _(a)_
-    1. Operation Generally. No person shall operate any vehicle within
+    1. _(1)_ Operation Generally. No person shall operate any vehicle within
 this Municipality, if, at the time of the operation, any of the following
 apply:
         1. _(A)_ The person is under the influence of alcohol, a drug of abuse, or
@@ -1043,7 +1040,7 @@ urbanized areas.
 vehicles moving in opposite directions and that is separated by a median of
 more than four feet, excluding turn lanes.
 10. _(j)_
-    1. A violation of any provision of this section is one of the
+    1. _(1)_ A violation of any provision of this section is one of the
 following:
         1. _(A)_ Except as otherwise provided in subsections (j)(1)B., (1)C., (2)
 and (3) of this section, a minor misdemeanor;
@@ -1117,7 +1114,7 @@ subsection (a)(1) or (2) of this section when so required by subsection (a) of
 this section.
  
 4. _(d)_
-    1. Except as otherwise provided in this subsection, whoever
+    1. _(1)_ Except as otherwise provided in this subsection, whoever
 violates this section is guilty of a minor misdemeanor. If, within one year of
 the offense, the offender previously has been convicted of or pleaded guilty to
 one predicate motor vehicle or traffic offense, whoever violates this section

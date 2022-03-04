@@ -237,7 +237,7 @@ materials of a type and in an amount that reasonably may be expected to be
 generated during a routine day by a person and deposited in a litter receptacle
 by a casual passerby.
 3. _(c)_
-    1. As used in subsection (b)(1) hereof, "public property" includes
+    1. _(1)_ As used in subsection (b)(1) hereof, "public property" includes
 any private property open to the public for the conduct of business, the
 provision of a service, or upon the payment of a fee but does not include any
 private property to which the public otherwise does not have a right of access.

@@ -111,10 +111,9 @@ OTHER PROVISIONS
 
 ## Cross references
 
-      Limitation on rate of taxation - see
-CHTR. Art. VIII, §2
-      Payroll deductions - see Ohio R.C. 9.42
-      Municipal income taxes - see Ohio R.C. Ch. 718
+* Limitation on rate of taxation - see CHTR. Art. VIII, §2
+* Payroll deductions - see Ohio R.C. 9.42
+* Municipal income taxes - see Ohio R.C. Ch. 718
 
 ## Purpose
 
@@ -339,7 +338,7 @@ earned on and after July 1, 1981, by residents of the Municipality.
 earned on and after July 1, 1981, by nonresidents of the Municipality for work
 done or services performed or rendered within the Municipality.
 3. _(c)_
-    1. On the portion attributable to the Municipality on the net
+    1. _(1)_ On the portion attributable to the Municipality on the net
 profits earned on and after July 1, 1981, of all resident unincorporated
 business entities or  professions or other activities, derived from sales made,
 work done, services  performed or rendered and business or other activities
@@ -349,7 +348,7 @@ on and after  July 1, 1981, of a resident partner or owner of a resident
 unincorporated  business entity not attributable to the Municipality and not
 levied against such unincorporated business entity by the Municipality.
 4. _(d)_
-    1. On the portion attributable to the Municipality of the net
+    1. _(1)_ On the portion attributable to the Municipality of the net
 profits earned on or after July 1, 1981, of all nonresident unincorporated
 business entities, professions or other activities, derived from sales made,
 work done, services performed or rendered, and business and other activities

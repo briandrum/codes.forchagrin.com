@@ -143,10 +143,7 @@ theater or other place for the showing of motion pictures to the general
 public, and having no managerial responsibility or financial interest in the
 operator’s or projectionist’s place of employment, other than wages.
 4. _(d)_
-    1. Sections
-533.11,
-533.12(a) and
-533.13 do not apply to a person solely because the person provided access or
+    1. _(1)_ Sections 533.11, 533.12(a) and 533.13 do not apply to a person solely because the person provided access or
 connection to or from an electronic method of remotely transferring information
 not under that person’s control, including having provided capabilities that
 are incidental to providing access or connection to or from the electronic
@@ -262,7 +259,7 @@ photograph, or otherwise record another person under or through the clothing
 being worn by that other person for the purpose of viewing the body of, or the
 undergarments worn by, that other person.
 4. _(d)_
-    1. Whoever violates this section is guilty of voyeurism.
+    1. _(1)_ Whoever violates this section is guilty of voyeurism.
     2. _(2)_ A violation of subsection (a) hereof is a misdemeanor of the third
 degree.
     3. _(3)_ A violation of subsection (b) hereof is a misdemeanor of the second
@@ -292,7 +289,7 @@ sexual conduct or masturbation;
     4. _(4)_ Expose the person’s private parts with the purpose of personal
 sexual arousal or gratification or to lure the minor into sexual activity.
 3. _(c)_
-    1. Whoever violates this section is guilty of public indecency and
+    1. _(1)_ Whoever violates this section is guilty of public indecency and
 shall be punished as provided in subsections (c)(2), (3), (4) and (5) of this
 section.
     2. _(2)_ Except as otherwise provided in subsection (c)(2) of this section,
@@ -335,7 +332,7 @@ of the first degree unless the offender previously has been convicted of or
 pleaded guilty to any violation of this section in which case the violation is
 a felony and shall be prosecuted under appropriate state law.
 4. _(d)_
-    1. If either of the following applies, the court may determine at
+    1. _(1)_ If either of the following applies, the court may determine at
 the time of sentencing whether to classify the offender as a tier I sex
 offender/child-victim offender for a violation of subsection (b)(4) of this
 section:
@@ -439,12 +436,12 @@ described in subsection (c)(1)A.  of this definition.
 definition that is open to the public.
     2. _(2)_ “Vehicle”. Has the same meaning as in Ohio R.C. 4501.01.
 4. _(d)_
-    1. Whoever violates subsection (a) of this section is guilty of
+    1. _(1)_ Whoever violates subsection (a) of this section is guilty of
 loitering to engage in solicitation, a misdemeanor of the third degree.
     2. _(2)_ Whoever violates subsection (b) of this section is guilty of
 loitering to engage in solicitation after a positive HIV test, a felony to be
-prosecuted under appropriate state law.
-         (ORC 2907.24, 2907.241)
+prosecuted under appropriate state law.  
+(ORC 2907.24, 2907.241)
 
 ## 533.10   Prostitution
 
@@ -453,12 +450,12 @@ prosecuted under appropriate state law.
 carrier of a virus that causes acquired immunodeficiency syndrome, shall engage
 in sexual activity for hire.
 3. _(c)_
-    1. Whoever violates subsection (a) of this section is guilty of
+    1. _(1)_ Whoever violates subsection (a) of this section is guilty of
 prostitution, a misdemeanor of the third degree.
     2. _(2)_ Whoever violates subsection (b) of this section is guilty of
 engaging in prostitution after a positive HIV test, a felony to be prosecuted
-under appropriate state law.
-         (ORC  2907.25)
+under appropriate state law.  
+(ORC  2907.25)
 
 ## 533.11   Disseminating matter harmful to juveniles
 
@@ -493,7 +490,7 @@ juvenile was eighteen years of age or over or married, and the person to whom
 that document was exhibited did not otherwise have reasonable cause to believe
 that the juvenile was under the age of eighteen and unmarried.
 3. _(c)_
-    1. It is an affirmative defense to a charge under this section,
+    1. _(1)_ It is an affirmative defense to a charge under this section,
 involving material or a performance that is obscene or harmful to juveniles,
 that the material or performance was furnished or presented for a bona fide
 medical, scientific, educational, governmental, judicial or other proper
@@ -502,7 +499,7 @@ librarian, clergyman, prosecutor, judge or other proper person.
     2. _(2)_ Except as provided in subsection (b)(3) hereof, mistake of age is
 not a defense to a charge under this section.
 4. _(d)_
-    1. A person directly sells, delivers, furnishes, disseminates,
+    1. _(1)_ A person directly sells, delivers, furnishes, disseminates,
 provides, exhibits, rents, or presents or directly offers or agrees to sell,
 deliver, furnish, disseminate, provide, exhibit, rent, or present material or a
 performance to a juvenile, a group of juveniles, a law enforcement officer
@@ -667,7 +664,7 @@ solely as a result of an image or other information provided by another person:
 of the General Offenses Code, or the Revised Code may be prosecuted under this
 section, the other section, or both sections.
 6. _(f)_
-    1. A.   Except as otherwise provided in subsection (f)(1)B., C., or
+    1. _(1)_ A.   Except as otherwise provided in subsection (f)(1)B., C., or
 D. of this section, whoever violates this section is guilty of nonconsensual
 dissemination of private sexual images, a misdemeanor of the third degree.
         2. _(B)_ If the offender previously has been convicted of or pleaded

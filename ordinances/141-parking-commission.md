@@ -15,12 +15,9 @@ title: "Chapter 141: Parking Commission"
 
 ## Cross references
 
-      Authority to establish - see
-CHTR. Art. VII, Sec. 1
-      Open meetings - see ADM. Ch.
-114
-      Parking generally - see TRAF. Ch.
-351
+* Authority to establish - see CHTR. Art. VII, Sec. 1
+* Open meetings - see ADM. Ch. 114
+* Parking generally - see TRAF. Ch. 351
 
 ## 141.01   Creation
 

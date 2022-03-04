@@ -14,10 +14,7 @@ and any future legislation.
 
 ## Cross references
 
-      Power to provide for public health - see Ohio R.C. 715.37
-      Health and sanitation regulations - see GEN. OFF. Ch.
-517
-      Inspection of meat and meat products - see BUS. REG.
-723.01
-      Private sewage disposal system - see S. & P. S. Ch.
-919
+* Power to provide for public health - see Ohio R.C. 715.37
+* Health and sanitation regulations - see GEN. OFF. Ch. 517
+* Inspection of meat and meat products - see BUS. REG. 723.01
+* Private sewage disposal system - see S. & P. S. Ch. 919

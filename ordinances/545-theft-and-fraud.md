@@ -229,12 +229,8 @@ offense, the value of the property or services involved for the purpose of
 determining the value is the aggregate value of all property or services
 involved in the offense.
 2. _(b)_
-    1. When a series of offenses under Section 545.05, or a series of violations of, attempts to commit a violation of,
-conspiracies to violate, or complicity in violations of Section 545.05,
-545.06, or
-545.08,
-545.10(b)(1) or (2), or Section 545.15 or
-545.20 involving a victim who is an elderly person or disabled adult, is
+    1. _(1)_ When a series of offenses under Section 545.05, or a series of violations of, attempts to commit a violation of,
+conspiracies to violate, or complicity in violations of Section 545.05, 545.06, or 545.08, 545.10(b)(1) or (2), or Section 545.15 or 545.20 involving a victim who is an elderly person or disabled adult, is
 committed by the offender in the offender’s same employment, capacity, or
 relationship to another, all of those offenses shall be tried as a single
 offense. When a series of offenses under Section 545.05, or a series of violations of, attempts to commit a violation of,

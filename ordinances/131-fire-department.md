@@ -10,8 +10,8 @@ Editor’s note: House Bill 642, enacted by the 1965 session of the 106th Ohio
 General Assembly, established Ohio Revised Code Chapter 742 which created a
 Statewide disability and pension fund for policemen and firemen and abolished
 all municipal police and fire relief and pension funds as of January 1, 1967.
-131.01   Department established; composition.
 
+131.01   Department established; composition.
 131.02   Code of by-laws, rules and regulations.
 131.03   Duties of firemen.
 131.04   Monthly fire drill.
@@ -19,30 +19,19 @@ all municipal police and fire relief and pension funds as of January 1, 1967.
 
 ## Cross references
 
-      Department establishment - see
-CHTR. Art. VII, Sec. 1
-      Appointment and removal of officers - see
-CHTR. Art. VII, Sec. 2
-      Volunteer Firemen’s Dependents Fund - see Ohio R.C. Ch. 146
-      Fire protection contracts - see Ohio R.C. 307.05, 505.44, 717.02
-      Traffic direction at fires - see TRAF.
-303.02
-      Following and parking near emergency or safety vehicle - see TRAF.
-331.27
-      Driving over fire hose - see TRAF.
-331.28
-      Assisting firemen - see GEN. OFF.
-509.05
-      Resisting or abusing fireman - see GEN. OFF.
-525.07
-      False fire alarm, reports - see GEN. OFF.
-509.06 et seq.
-      Ashes, combustible waste accumulations - see GEN. OFF.
-521.13
-      Fire limits - see BLDG. Ch.
-1333
-      National Fire Prevention Code adopted - see FIRE PREV. Ch.
-1501
+* Department establishment - see CHTR. Art. VII, Sec. 1
+* Appointment and removal of officers - see CHTR. Art. VII, Sec. 2
+* Volunteer Firemen’s Dependents Fund - see Ohio R.C. Ch. 146
+* *Fire protection contracts - see Ohio R.C. 307.05, 505.44, 717.02
+* Traffic direction at fires - see TRAF. 303.02
+* Following and parking near emergency or safety vehicle - see TRAF. 331.27
+* Driving over fire hose - see TRAF. 331.28
+* Assisting firemen - see GEN. OFF. 509.05
+* Resisting or abusing fireman - see GEN. OFF. 525.07
+* False fire alarm, reports - see GEN. OFF. 509.06 et seq.
+* Ashes, combustible waste accumulations - see GEN. OFF. 521.13
+* Fire limits - see BLDG. Ch. 1333
+* National Fire Prevention Code adopted - see FIRE PREV. Ch. 1501
 
 ## 131.01   Department established; composition
 
@@ -50,8 +39,7 @@ There is hereby created and established for the Municipality a Fire
 Department for the protection and safety of the Village of Chagrin Falls.
 
 Such Department shall consist of a part-time Fire Chief, to be appointed as
-provided by
-Article VII of the Charter, and such number of members as authorized by
+provided by Article VII of the Charter, and such number of members as authorized by
 ordinance, to be appointed by Council, all of whom shall be volunteer members
 whose services shall be subject to call for attendance at fires and for
 maintenance and care of equipment whenever needed.  

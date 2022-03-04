@@ -23,7 +23,7 @@ title: "Chapter 553: Railroads"
 ## 553.01   Obstructing streets by railroad companies
 
 1. _(a)_
-    1. No railroad company shall obstruct or permit or cause to be
+    1. _(1)_ No railroad company shall obstruct or permit or cause to be
 obstructed a public street, road or highway by permitting a railroad car,
 locomotive or other obstruction to remain upon or across it for longer than
 five minutes to the hindrance or inconvenience of travelers or a person passing

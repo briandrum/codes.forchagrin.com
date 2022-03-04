@@ -18,10 +18,8 @@ Editor’s note: The Whitesburg Park Commission was established by Ordinance
 
 ## Cross references
 
-      Open meetings - see ADM. Ch.
-114
-      Whitesburg Park Fishing Pond - see GEN. OFF. Ch.
-507
+* Open meetings - see ADM. Ch. 114
+* Whitesburg Park Fishing Pond - see GEN. OFF. Ch. 507
 
 ## 143.01   Creation
 

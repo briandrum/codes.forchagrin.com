@@ -116,7 +116,7 @@ is impossible to approach so close to the curb; in such case the stop shall be
 as close to the curb as possible and only for the time necessary to discharge
 and receive passengers or to load or unload merchandise.
 2. _(b)_
-    1. This subsection does not apply to streets or parts thereof where
+    1. _(1)_ This subsection does not apply to streets or parts thereof where
 angle parking is lawfully permitted. However, no angle parking shall be
 permitted on a state route unless an unoccupied roadway width of not less than
 twenty-five feet is available for free-moving traffic.
@@ -463,7 +463,7 @@ which event the violator shall pay the cost, if any, to remove the registration
 block when the fine is deposited, may be fined such amounts by the Court.  
 (Ord. 2017-75. Passed 11-13-17.)
 2. _(b)_
-    1. Whoever violates Section 351.03(q) may execute a waiver and deposit fifty dollars ($50.00) with the
+    1. _(1)_ Whoever violates Section 351.03(q) may execute a waiver and deposit fifty dollars ($50.00) with the
 Clerk or Deputy Clerk of the Bedford Municipal Court, who is on duty at the
 Village Police Department, an instrument waiving the formal issuance of an
 affidavit and warrant, together with the reading of such affidavit and the

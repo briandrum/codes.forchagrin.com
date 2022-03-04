@@ -14,10 +14,8 @@ title: "Chapter 123: Department of Law"
 
 ## Cross references
 
-      Director established; duties - see
-CHTR. Art. VII, Sec. 1,
-3
-      Legal counsel - see Ohio R.C. 733.48
+* Director established; duties - see CHTR. Art. VII, Sec. 1, 3
+* Legal counsel - see Ohio R.C. 733.48
 
 ## 123.01   Department established
 

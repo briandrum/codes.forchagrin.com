@@ -69,7 +69,7 @@ ordinance for the violation, is substantially equivalent to any provision of
 any section contained in Title XLV of the Ohio Revised Code that is a minor
 misdemeanor.
 2. _(b)_
-    1. Whoever violates subsection (a)(1) of this section is guilty of
+    1. _(1)_ Whoever violates subsection (a)(1) of this section is guilty of
 vehicular homicide. Except as otherwise provided in this subsection, vehicular
 homicide is a misdemeanor of the first degree. Vehicular homicide is a felony
 and shall be prosecuted under appropriate State law if, at the time of the
@@ -203,7 +203,7 @@ another or to another’s unborn.
 2. _(b)_ No person shall recklessly cause serious physical harm to another or
 to another’s unborn.
 3. _(c)_
-    1. Whoever violates this section is guilty of assault, a
+    1. _(1)_ Whoever violates this section is guilty of assault, a
 misdemeanor of the first degree, and the court shall sentence the offender as
 provided in subsection (c) hereof. If the assault was committed under the
 circumstances provided in subsection (c)(2), (3), (4), (5), (6), (7), (8) or
@@ -443,7 +443,7 @@ governmental employer.
 ### 537.051   Menacing by stalking
 
 1. _(a)_
-    1. No person by engaging in a pattern of conduct shall knowingly
+    1. _(1)_ No person by engaging in a pattern of conduct shall knowingly
 cause another person to believe that the offender will cause physical harm to
 the other person or a family or household member of the other person or cause
 mental distress to the other person or a family or household member of the
@@ -595,7 +595,7 @@ psychological treatment, or other mental health services in order to show that
 the person was caused mental distress as described in subsection (d)(2)B. of
 this section.
 6. _(f)_
-    1. This section does not apply to a person solely because the
+    1. _(1)_ This section does not apply to a person solely because the
 person provided access or connection to or from an electronic method of
 remotely transferring information not under that person’s control, including
 having provided capabilities that are incidental to providing access or
@@ -660,7 +660,7 @@ prayer alone, in accordance with the tenets of a recognized religious body.
 2. _(b)_ No person shall abuse a child under eighteen years of age or a
 mentally or physically handicapped child under twenty-one years of age.
 3. _(c)_
-    1. No person shall operate a vehicle in violation of Section 333.01(a) of the Traffic Code when one or more children under eighteen years of
+    1. _(1)_ No person shall operate a vehicle in violation of Section 333.01(a) of the Traffic Code when one or more children under eighteen years of
 age are in the vehicle. Notwithstanding any other provision of law, a person
 may be convicted at the same trial or proceeding of a violation of subsection
 (c) hereof and a violation of Section 333.01(a) of the Traffic Code that constitutes the basis of the charge of the
@@ -702,7 +702,7 @@ hereof, or pursuant to any other provision of law, the court also may impose
 upon the offender any of the sanctions provided under Ohio R.C. 2919.22(E)(5)
 (d).
 5. _(e)_
-    1. If a person violates subsection (c) hereof and if, at the time
+    1. _(1)_ If a person violates subsection (c) hereof and if, at the time
 of the violation, there were two or more children under eighteen years of age
 in the motor vehicle involved in the violation, the offender may be convicted
 of a violation of subsection (c) hereof for each of the children, but the court
@@ -836,7 +836,7 @@ other means to harass or participate in the harassment of a person;
 without a lawful purpose at an hour or hours known to be inconvenient to the
 recipient and in an offensive or repetitive manner.
 2. _(b)_
-    1. No person shall make or cause to be made a telecommunication, or
+    1. _(1)_ No person shall make or cause to be made a telecommunication, or
 permit a telecommunication to be made from a telecommunications device under
 the person’s control, with purpose to abuse, threaten, or harass another
 person.
@@ -844,7 +844,7 @@ person.
 image on an internet web site or web page for the purpose of abusing,
 threatening, or harassing another person.
 3. _(c)_
-    1. Whoever violates this section is guilty of telecommunication
+    1. _(1)_ Whoever violates this section is guilty of telecommunication
 harassment.
     2. _(2)_ A violation of subsections (a)(1), (2), (3), (5), (6), (7), (8),
 (9), (10),(11) or (b) hereof is a misdemeanor of the first degree on a first
@@ -876,7 +876,7 @@ provision of information, facilities, or assistance in accordance with the
 terms of a court order that is issued in relation to the investigation or
 prosecution of an alleged violation of this section.
 5. _(e)_
-    1. This section does not apply to a person solely because the
+    1. _(1)_ This section does not apply to a person solely because the
 person provided access or connection to or from an electronic method of
 remotely transferring information not under that person’s control, including
 having provided capabilities that are incidental to providing access or
@@ -1017,7 +1017,7 @@ the purpose of access to a data base is subject to the jurisdiction of the
 steering committee.  
 (ORC 128.32)
 5. _(e)_
-    1. Whoever violates subsection (b) hereof is guilty of a
+    1. _(1)_ Whoever violates subsection (b) hereof is guilty of a
 misdemeanor of the fourth degree.
     2. _(2)_ Whoever violates subsection (c) or (d) hereof is guilty of a
 misdemeanor of the fourth degree on a first offense. For each subsequent
@@ -1049,7 +1049,7 @@ household member.
 household member to believe that the offender will cause imminent physical harm
 to the family or household member.
 4. _(d)_
-    1. Whoever violates this section is guilty of domestic violence.
+    1. _(1)_ Whoever violates this section is guilty of domestic violence.
     2. _(2)_ Except as otherwise provided in subsection (d)(3) to (5)  of this
 section, a violation of subsection (c) of this section is a misdemeanor of the
 fourth degree, and a violation of subsection (a) or (b) of this section is a
@@ -1119,8 +1119,7 @@ Ohio R.C. 2919.26 or 3113.31;
 or 2903.214;
     3. _(3)_ A protection order issued by a court of another state.
 2. _(b)_
-    1. Whoever violates this section is guilty of violating a
-protection order.
+    1. _(1)_ Whoever violates this section is guilty of violating a protection order.
     2. _(2)_ Except as otherwise provided in subsection (b)(3) of this section,
 violating a protection order is a misdemeanor of the first degree.
     3. _(3)_ Violating a protection order is a felony and shall be prosecuted

@@ -257,7 +257,7 @@ society agents under Ohio R.C. 1717.061 or to provide additional training for
 humane society agents.  
 (ORC 959.131)
 7. _(g)_
-    1. Whoever violates subsection (b) hereof is guilty of a
+    1. _(1)_ Whoever violates subsection (b) hereof is guilty of a
 misdemeanor of the first degree on a first offense. On each subsequent offense
 such person is guilty of a felony and shall be prosecuted under appropriate
 State law.

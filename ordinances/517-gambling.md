@@ -827,7 +827,7 @@ during each bingo session.
 have known, to be under eighteen years of age to play bingo described in
 Section 517.01(o)(1).
 4. _(d)_
-    1. Except as otherwise provided in subsection (d)(3) hereof, no
+    1. _(1)_ Except as otherwise provided in subsection (d)(3) hereof, no
 charitable organization shall provide to a bingo game operator, and no bingo
 game operator shall receive or accept, any commission, wage, salary, reward,
 tip, donation, gratuity, or  other form of compensation, directly or
@@ -963,7 +963,7 @@ State law.
 ## 517.08   Raffles
 
 1. _(a)_
-    1. Subject to subsection (a)(2) of this section, a charitable
+    1. _(1)_ Subject to subsection (a)(2) of this section, a charitable
 organization, a public school, a chartered nonpublic school, a community
 school, or a veteran’s organization, fraternal organization, or sporting
 organization that is exempt from federal income taxation under subsection 501
@@ -999,7 +999,7 @@ subsection 501(a) and described in subsection 501(c)(3) of the Internal Revenue
 Code, at not more than one location at which it conducts its charitable
 programs, may include donations from its members and guests as retail income.
 2. _(b)_
-    1. If a charitable instant bingo organization conducts instant
+    1. _(1)_ If a charitable instant bingo organization conducts instant
 bingo other than at a bingo session, the charitable  instant bingo organization
 shall enter into a written contract  with the owner or lessor of the location
 at which the instant  bingo is conducted to allow the owner or lessor to assist
@@ -1075,7 +1075,7 @@ any provision of Ohio R.C. Chapter 2915.
 as prescribed in subsection (a) of this section shall violate the terms of the
 contract.
 5. _(e)_
-    1. Whoever violates subsection (c) or (d) of this section is
+    1. _(1)_ Whoever violates subsection (c) or (d) of this section is
 guilty of illegal instant bingo conduct. Except as otherwise  provided in this
 subsection, illegal instant bingo conduct is a  misdemeanor of the first
 degree. If the offender previously has been convicted of a violation of
@@ -1313,7 +1313,7 @@ State, that is exempt from federal income taxation under subsection 501(a) and
 described in subsection 501(c)(3) of the Internal Revenue Code, and that is in
 good standing in this State.
 3. _(c)_
-    1. If a veteran’s organization, fraternal  organization or a
+    1. _(1)_ If a veteran’s organization, fraternal  organization or a
 sporting organization authorized to conduct instant bingo pursuant to
 subsection (a) of this section has been issued a liquor permit under Ohio R.C.
 Chapter 4303, that permit may be subject to suspension, revocation, or
@@ -1338,7 +1338,7 @@ a felony and shall be prosecuted under appropriate State law.
 ## 517.15   Skill-based amusement machines
 
 1. _(a)_
-    1. No person shall give to another person any item described in
+    1. _(1)_ No person shall give to another person any item described in
 Section 517.01(vv)(1), (2), (3), or (4) in exchange for a noncash prize, toy, or
 novelty received as a reward for playing or operating a skill-based amusement
 machine or for a free or reduced-prize game won on a skill- based amusement
