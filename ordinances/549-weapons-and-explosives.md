@@ -18,8 +18,7 @@ title: "Chapter 549: Weapons and Explosives"
 549.10   Reporting sale of firearms. (Repealed)
 549.11   Blasting permit.
 549.12   Possessing replica firearmin school.
-549.13   Defacing identification marks of a firearm; possessing a  defaced
-firearm.
+549.13   Defacing identification marks of a firearm; possessing a  defaced firearm.
 549.99   Penalty.
 
 ## Cross references

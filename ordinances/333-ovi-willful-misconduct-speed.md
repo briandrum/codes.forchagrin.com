@@ -9,8 +9,7 @@ title: "Chapter 333: OVI; Willful Misconduct; Speed"
 333.01   Driving or physical control while under the influence.
 333.02   Reckless operation; willful misconduct.
 333.03   Maximum speed limits; assured clear distance ahead.
-333.031   Approaching a stationary public safety, emergency or road service
-vehicle.
+333.031   Approaching a stationary public safety, emergency or road service vehicle.
 333.04   Stopping vehicle; slow speed; posted minimum speeds.
 333.05   Speed limitations over bridges.
 333.06   Speed exceptions for emergency or safety vehicles.

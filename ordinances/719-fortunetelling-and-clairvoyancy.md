@@ -8,7 +8,9 @@ title: "Chapter 719: Fortunetelling and Clairvoyancy"
 
 719.01   License required.
 719.99   Penalty.
-CROSS REFERENCE
+
+## Cross references
+
       Power to regulate - see Ohio R.C. 2911.16
 
 ## 719.01   License required

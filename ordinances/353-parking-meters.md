@@ -6,8 +6,7 @@ chapter_no: 353
 title: "Chapter 353: Parking Meters"
 ---
 
-353.01   Authority to designate parking meter areas and establish  metered
-parking zones.
+353.01   Authority to designate parking meter areas and establish  metered parking zones.
 353.02   Designation of areas and zones.
 353.03   Regulation of parking in metered zones.
 353.04   Unlawful parking in metered zones.

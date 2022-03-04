@@ -27,11 +27,9 @@ title: "Chapter 331: Operation Generally"
 331.19   Operation of vehicle at stop signs.
 331.20   Emergency or public safety vehicles at stop signals or signs.
 331.21   Right of way of public safety or coroner’s vehicle.
-331.211   Report of vehicle failing to yield right of way to public safety
-vehicle.
+331.211   Report of vehicle failing to yield right of way to public safety vehicle.
 331.22   Driving onto roadwayfrom place other than roadway:  duty to yield.
-331.23   Driving onto roadway from place other than roadway: stopping at
-sidewalk.
+331.23   Driving onto roadway from place other than roadway: stopping at sidewalk.
 331.24   Right of way of funeralprocession.
 331.25   Driver’s view and controlto be unobstructed by loador persons.
 331.26   Driving upon street postedas closed for repair.

@@ -26,8 +26,7 @@ title: "Chapter 505: Animals and Fowl"
 505.17   Dangerous and vicious dog definitions.
 505.18   Dangerous and vicious dogs.
 505.19   Impoundment of dogs involved in biting/attacking incidents.
-505.20   Dangerous and vicious dog impounding procedure; redemption or
-disposition.
+505.20   Dangerous and vicious dog impounding procedure; redemption or disposition.
 505.21   Court order to remove or destroy animal.
 505.22   Designation of dog as  “dangerous” and “vicious”.
 505.23   Dangerous and vicious dog appeal.

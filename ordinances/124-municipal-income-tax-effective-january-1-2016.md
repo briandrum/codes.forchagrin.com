@@ -15,8 +15,7 @@ title: "Chapter 124: Municipal Income Tax Effective January 1, 2016"
 124.07   Estimated taxes.
 124.08   Rounding of amounts.
 124.09   Requests for refunds.
-124.10   Second municipality imposing tax after time period allowed  for
-refund.
+124.10   Second municipality imposing tax after time period allowed  for refund.
 124.11   Amended returns.
 124.12   Limitations.
 124.13   Audits.
@@ -33,8 +32,7 @@ refund.
 124.24   Savings clause.
 124.25   Collection of tax after termination of ordinance.
 124.26   Adoption of RITA Rules and Regulations.
-124.27      Filing net profit taxes; election to  be subject to provisions of
-chapter.
+124.27   Filing net profit taxes; election to  be subject to provisions of chapter.
 124.28      Definitions.
 124.29      Applicability; taxable situs; apportionment.
 124.30      Information provided to Tax Administrators; confidentiality.

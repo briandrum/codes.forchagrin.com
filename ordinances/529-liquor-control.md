@@ -12,8 +12,7 @@ title: "Chapter 529: Liquor Control"
 529.03   Sales to intoxicated persons.
 529.04   Liquor consumption in motor vehicle.
 529.05   Permit required.
-529.06   Low-alcohol beverages: saleto and purchase by underagepersons
-prohibited.
+529.06   Low-alcohol beverages: saleto and purchase by underagepersons prohibited.
 529.07   Open container prohibited.
 529.08   Hours of sale orconsumption.
 529.99   Penalty.

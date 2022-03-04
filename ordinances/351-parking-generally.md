@@ -9,12 +9,10 @@ title: "Chapter 351: Parking Generally"
 351.01   Police may remove unattended vehicle which obstructs traffic.
 351.02   Registered owner prima-facie liable for unlawful  parking.
 351.03   Prohibited standing or parking places.
-351.04   Parking near curb; handicapped  locations on public and private lots
-and garages.    
+351.04   Parking near curb; handicapped  locations on public and private lots and garages.
 351.05   Angle parking; parking within marked spaces.
 351.06   Selling, washing or repairing vehicle upon roadway.
-351.07   Unattended vehicle: duty to stop engine, remove key, set brake and
-turn wheels.
+351.07   Unattended vehicle: duty to stop engine, remove key, set brake and turn wheels.
 351.08   Opening vehicle door on traffic side.
 351.09   Truck loading zones.
 351.10   Bus stops and taxicab stands.

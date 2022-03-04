@@ -23,7 +23,9 @@ title: "Chapter 1301: Definitions"
 1301.15   Signboard.
 1301.16   Skeleton construction.
 1301.17   Street line.
-CROSS REFERENCE
+
+## Cross references
+
       Ohio State Building Code - see Ohio R. C. 3781.01 et seq; BLDG. Ch.
 1323
 

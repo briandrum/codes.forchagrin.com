@@ -23,8 +23,7 @@ title: "Chapter 537: Offenses Against Persons"
 537.13   Adulterating of orfurnishing adulteratedfood or confection.
 537.14   Domestic violence.
 537.15   Temporary protection order.
-537.16   Illegal distribution ofcigarettes, other tobacco products, or
-alternate nicotine products; transaction scans.
+537.16   Illegal distribution ofcigarettes, other tobacco products, or alternate nicotine products; transaction scans.
 537.17   Reserved.
 537.18   Contributing to unruliness or delinquency of a child.
 537.19   Hazing.

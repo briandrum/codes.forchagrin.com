@@ -6,8 +6,7 @@ chapter_no: 523
 title: "Chapter 523: Labor Relations"
 ---
 
-523.01   Preventing ingress, egress or access to any person by force or
-intimidation.
+523.01   Preventing ingress, egress or access to any person by force or intimidation.
 523.02   Picketing.
 523.03   Secondary boycott or strike.
 523.99   Penalty.

@@ -22,8 +22,7 @@ title: "Chapter 125: Department of Finance"
 125.14   Fire/burglar alarm monitoring fees.
 125.15   Funds to be retained by Village.
 125.16      Petty cash and change drawer funds.
-125.17      Unclaimed Monies Agency Fund and transfer of unclaimed monies to
-the General Fund.
+125.17   Unclaimed Monies Agency Fund and transfer of unclaimed monies to the General Fund.
 125.18      Transfer of unclaimed deposits to  the General Fund.
 
 ## Cross references

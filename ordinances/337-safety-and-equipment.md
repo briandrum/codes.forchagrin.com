@@ -21,8 +21,7 @@ title: "Chapter 337: Safety and Equipment"
 337.13   Display of lighted lights.
 337.14   Use of headlight beams.
 337.15   Lights of less intensity on slow-moving vehicles.
-337.16   Number of lights; limitations on flashing, oscillating or rotating
-lights.
+337.16   Number of lights; limitations on flashing, oscillating or rotating lights.
 337.17   Focus and aim ofheadlights.
 337.18   Motor vehicle and motorcycle brakes.
 337.19   Horn, siren and theft alarmsignal.

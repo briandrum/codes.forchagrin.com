@@ -8,8 +8,7 @@ title: "Chapter 371: Pedestrians"
 
 371.01   Right of way in crosswalk.
 371.02   Right of way of blind person.
-371.03   Crossing roadway outside crosswalk; diagonal crossings at
-intersections.
+371.03   Crossing roadway outside crosswalk; diagonal crossings at intersections.
 371.04   Moving upon right half of crosswalk.
 371.05   Walking along highways.
 371.06   Use of highway for soliciting; riding on outside of vehicles.

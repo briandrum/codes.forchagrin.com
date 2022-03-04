@@ -8,8 +8,7 @@ title: "Chapter 129: Police Department"
 
 129.01   Department established.
 129.02   Composition of department.
-129.03   Probationary and original appointments; appointment requirements for
-full-time  regular patrol officers.
+129.03   Probationary and original appointments; appointment requirements for full-time  regular patrol officers.
 129.04   Application, examination  and evaluation of candidates.
 129.05   Oath.
 129.06   Special police duty for private entity.

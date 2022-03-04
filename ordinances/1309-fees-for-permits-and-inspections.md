@@ -15,8 +15,7 @@ title: "Chapter 1309: Fees for Permits and Inspections"
 1309.07   New apartments or multiple dwellings.
 1309.08   Additions or alterations to apartments or multiple dwellings.
 1309.09   Industrial or commercial buildings.
-1309.10   Additions to industrial or commercial buildings, alterations and
-repairs.
+1309.10   Additions to industrial or commercial buildings, alterations and repairs.
 1309.11   Architectural review fees.
 1309.12   Sign fees.
 1309.13   Swimming pools.

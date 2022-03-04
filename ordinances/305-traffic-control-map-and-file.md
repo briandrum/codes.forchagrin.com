@@ -11,7 +11,9 @@ title: "Chapter 305: Traffic Control Map and File"
 305.03   Amendments.
 305.99   Penalty.
 Appendix A - Traffic Map Amendments.
-CROSS REFERENCE
+
+## Cross references
+
       Authority to designate traffic control areas - see Ohio R. C. 4511.07
 
 ## 305.01   Traffic control map

@@ -17,8 +17,7 @@ title: "Chapter 1340: Maintenance of Structures and Premises"
 1340.09   General maintenance requirements.
 1340.10   Maintenance of foundations.
 1340.11   Maintenance of roofs, gutters and downspouts.
-1340.12   Maintenance of exteriors of structures and secondary or  appurtenant
-structures.
+1340.12   Maintenance of exteriors of structures and secondary or  appurtenant structures.
 1340.13   Maintenance of interior walls and floors.
 1340.14   Infestation by pests.
 1340.15   Exterior property areas.

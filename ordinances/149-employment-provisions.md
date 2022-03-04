@@ -33,8 +33,7 @@ to contact the Director of Finance for copies of relevant legislation.)
 149.20   Employee contributions to OPERS AND OP&F.
 149.21   PFDPF pickup. (Repealed)
 149.22   Pre-employment physical.
-149.23   Payment of part-time police officers at construction projects;
-regulation of part- time employment of police officers.
+149.23   Payment of part-time police officers at construction projects; regulation of part- time employment of police officers.
 149.24   Purchase of grave sites.
 149.25      Prohibited political activity.
 149.26      Deferred compensation plans.

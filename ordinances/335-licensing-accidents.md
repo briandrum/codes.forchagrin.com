@@ -11,15 +11,13 @@ title: "Chapter 335: Licensing; Accidents"
 335.021   Ohio driver’s license required for in state residents.
 335.03   Driving with temporary instruction permit; curfew.
 335.031   Driving with probationary license; curfew.
-335.032   Use of electronic wireless communication device prohibited while
-driving.
+335.032   Use of electronic wireless communication device prohibited while driving.
 335.04   Certain acts prohibited.
 335.05   Wrongful entrustment of a motor vehicle.
 335.06   Display of license.
 335.07   Driving under suspension or license restriction.
 335.071   Driving under OVI suspension.
-335.072   Driving under financial responsibility law suspension or
-cancellation; driving under a nonpayment of judgment suspension.
+335.072   Driving under financial responsibility law suspension or cancellation; driving under a nonpayment of judgment suspension.
 335.073   Driving without complying with license reinstatement requirements.
 335.074   Driving under license forfeiture or child support suspension.
 335.08   Operation or sale without certificate of title.
@@ -28,8 +26,7 @@ cancellation; driving under a nonpayment of judgment suspension.
 335.10   Expired or unlawful license plates.
 335.11   Use of illegal license plates; transfer of registration.
 335.111   Registration within thirty days of residency.
-335.12   Stopping after accident upon streets; collision with unattended
-vehicle.
+335.12   Stopping after accident upon streets; collision with unattended vehicle.
 335.13   Stopping after accident upon property other than street.
 335.14   Vehicle accident resulting in damage to realty.
 

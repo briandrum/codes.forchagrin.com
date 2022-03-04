@@ -9,9 +9,10 @@ title: "Chapter 1339: Structures Near Lot Lines"
 1339.01   Structure within three feet of line.
 1339.02   Projection near lot line.
 1339.99   Penalty.
-CROSS REFERENCE
-      Fire prevention - see
-Part Fifteen - Fire Prevention Code
+
+## Cross references
+
+      Fire prevention - see Part Fifteen - Fire Prevention Code
 
 ## 1339.01   Structure within three feet of line
 

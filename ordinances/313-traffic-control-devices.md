@@ -14,8 +14,7 @@ title: "Chapter 313: Traffic Control Devices"
 313.06   Flashing traffic signals. (Repealed)
 313.07   Unauthorized signs andsignals, hiding from view,advertising.
 313.08   Alteration, injury, removal  of traffic control devices.
-313.09   Driver’s duties uponapproaching ambiguous ornon-working traffic
-signal.
+313.09   Driver’s duties uponapproaching ambiguous ornon-working traffic signal.
 313.10   Unlawful purchase,possession or sale.
 313.11   Portable signal preemption devices prohibited.
 

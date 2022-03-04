@@ -7,8 +7,7 @@ title: "Chapter 731: Oil and Gas Wells"
 ---
 
 731.01   Objectives.
-731.02   Application requirements; review and permit
-   procedures.
+731.02   Application requirements; review and permit procedures.
 731.03   Development standards.
 731.04   Operational standards.
 731.05   Future development adjacent to well and storage sites.

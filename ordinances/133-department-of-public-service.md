@@ -11,8 +11,7 @@ title: "Chapter 133: Department of Public Service"
 133.03   Duties of Chief Administrative Officer.
 133.04   Expense Account. (Repealed)
 133.05   Streets and Services Division and Street Superintendent.
-133.06   Utilities Division, Water Department, Wastewater Department, and
-Superintendent of Utilities.
+133.06   Utilities Division, Water Department, Wastewater Department, and Superintendent of Utilities.
    
 
 ## Cross references

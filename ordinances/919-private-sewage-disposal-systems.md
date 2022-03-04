@@ -11,7 +11,9 @@ title: "Chapter 919: Private Sewage Disposal Systems"
 919.03   Household aerobic sewage treatment systems.
 919.04   Privy vault cleaners; permit required; report. (Repealed)
 919.99   Penalty.
-CROSS REFERENCE
+
+## Cross references
+
       Power to license sewer tappers and vault cleaners - see Ohio R. C. 715.27
 
 ## 919.01   Permit required; installation; standards
