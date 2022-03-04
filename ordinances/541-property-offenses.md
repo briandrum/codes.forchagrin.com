@@ -6,19 +6,19 @@ chapter_no: 541
 title: "Chapter 541: Property Offenses"
 ---
 
-541.01   Determining property value in arson.
+* [541.01   Determining property value in arson](#54101-Determining property value in arson)
 541.02   Arson.   
-541.03   Criminal damaging or endangering.
-541.04   Criminal mischief.
-541.05   Criminal trespass.
-541.051   Aggravated trespass.
-541.06   Destruction of shrubs, trees or crops.
-541.07   Desecration.
-541.08   Ethnic intimidation.
-541.09   Loitering; obstructing freepassage.
-541.10   Vehicular vandalism.
-541.11   Trespass on a place of public amusement.
-541.99   Penalty.
+* [541.03   Criminal damaging or endangering](#54103-Criminal damaging or endangering)
+* [541.04   Criminal mischief](#54104-Criminal mischief)
+* [541.05   Criminal trespass](#54105-Criminal trespass)
+* [541.051   Aggravated trespass](#541051-Aggravated trespass)
+* [541.06   Destruction of shrubs, trees or crops](#54106-Destruction of shrubs, trees or crops)
+* [541.07   Desecration](#54107-Desecration)
+* [541.08   Ethnic intimidation](#54108-Ethnic intimidation)
+* [541.09   Loitering; obstructing freepassage](#54109-Loitering; obstructing freepassage)
+* [541.10   Vehicular vandalism](#54110-Vehicular vandalism)
+* [541.11   Trespass on a place of public amusement](#54111-Trespass on a place of public amusement)
+* [541.99   Penalty](#54199-Penalty)
 
 ## Cross references
 

@@ -6,53 +6,53 @@ chapter_no: 331
 title: "Chapter 331: Operation Generally"
 ---
 
-331.01   Driving upon right side of roadway; exceptions.
-331.02   Passing to right when proceeding in opposite directions.
-331.03   Overtaking, passing to left; driver’s duties.
-331.04   Overtaking and passing upon right.
-331.05   Overtaking, passing to left of center.
-331.06   Additional restrictions on driving upon left side of roadway. 
-331.07   Hazardous or no passing zones.
-331.08   Driving in marked lanes or continuous lines of traffic.
-331.09   Following too closely.
-331.10   Turning at intersections.
-331.11   Turning into private driveway, alley or building.
-331.12   "U" turns restricted.
-331.13   Starting and backing vehicles.
-331.14   Signals before changing course, turning or stopping.
-331.15   Hand and arm signals.
-331.16   Right of way at intersections.
-331.17   Right of way when turning left.
-331.18   Operation of vehicle at yield signs.
-331.19   Operation of vehicle at stop signs.
-331.20   Emergency or public safety vehicles at stop signals or signs.
-331.21   Right of way of public safety or coroner’s vehicle.
-331.211   Report of vehicle failing to yield right of way to public safety vehicle.
-331.22   Driving onto roadwayfrom place other than roadway:  duty to yield.
-331.23   Driving onto roadway from place other than roadway: stopping at sidewalk.
-331.24   Right of way of funeralprocession.
-331.25   Driver’s view and controlto be unobstructed by loador persons.
-331.26   Driving upon street postedas closed for repair.
-331.27   Following and parking nearemergency or safetyvehicles.
-331.28   Driving over fire hose.
-331.29   Driving through safety zone.
-331.30   One-way streets and rotarytraffic islands.
-331.31   Driving upon divided roadways.
-331.32   Entering and exitingcontrolled-accesshighway.
-331.33   Obstructing intersection, crosswalk or gradecrossing.
-331.34   Failure to control; weaving; full time and attention.
-331.35   Occupying a moving trailer ormanufactured or mobile home.
-331.36   Squealing tires, "peeling", cracking exhaust noises.
-331.37   Driving upon sidewalks,street lawns or curbs.
-331.38   Stopping for school bus; discharging children.
-331.39   Driving across grade crossing.
-331.40   Stopping at grade crossing.
-331.41   Slow moving vehicles and equipment at grade crossings.
-331.42   Driving for advertising purposes.
-331.43   Shortcutting; evasion oftraffic control signals or device.
-331.44   Littering from motorvehicle.
-331.45   Wearing earplugs or earphones prohibited.
-331.46   Vehicular operation on  street closed due to rise in water level.
+* [331.01   Driving upon right side of roadway; exceptions](#33101-Driving upon right side of roadway; exceptions)
+* [331.02   Passing to right when proceeding in opposite directions](#33102-Passing to right when proceeding in opposite directions)
+* [331.03   Overtaking, passing to left; driver’s duties](#33103-Overtaking, passing to left; driver’s duties)
+* [331.04   Overtaking and passing upon right](#33104-Overtaking and passing upon right)
+* [331.05   Overtaking, passing to left of center](#33105-Overtaking, passing to left of center)
+* [331.06   Additional restrictions on driving upon left side of roadway](#33106-Additional restrictions on driving upon left side of roadway)
+* [331.07   Hazardous or no passing zones](#33107-Hazardous or no passing zones)
+* [331.08   Driving in marked lanes or continuous lines of traffic](#33108-Driving in marked lanes or continuous lines of traffic)
+* [331.09   Following too closely](#33109-Following too closely)
+* [331.10   Turning at intersections](#33110-Turning at intersections)
+* [331.11   Turning into private driveway, alley or building](#33111-Turning into private driveway, alley or building)
+* [331.12   "U" turns restricted](#33112-"U" turns restricted)
+* [331.13   Starting and backing vehicles](#33113-Starting and backing vehicles)
+* [331.14   Signals before changing course, turning or stopping](#33114-Signals before changing course, turning or stopping)
+* [331.15   Hand and arm signals](#33115-Hand and arm signals)
+* [331.16   Right of way at intersections](#33116-Right of way at intersections)
+* [331.17   Right of way when turning left](#33117-Right of way when turning left)
+* [331.18   Operation of vehicle at yield signs](#33118-Operation of vehicle at yield signs)
+* [331.19   Operation of vehicle at stop signs](#33119-Operation of vehicle at stop signs)
+* [331.20   Emergency or public safety vehicles at stop signals or signs](#33120-Emergency or public safety vehicles at stop signals or signs)
+* [331.21   Right of way of public safety or coroner’s vehicle](#33121-Right of way of public safety or coroner’s vehicle)
+* [331.211   Report of vehicle failing to yield right of way to public safety vehicle](#331211-Report of vehicle failing to yield right of way to public safety vehicle)
+* [331.22   Driving onto roadwayfrom place other than roadway:  duty to yield](#33122-Driving onto roadwayfrom place other than roadway:  duty to yield)
+* [331.23   Driving onto roadway from place other than roadway: stopping at sidewalk](#33123-Driving onto roadway from place other than roadway: stopping at sidewalk)
+* [331.24   Right of way of funeralprocession](#33124-Right of way of funeralprocession)
+* [331.25   Driver’s view and controlto be unobstructed by loador persons](#33125-Driver’s view and controlto be unobstructed by loador persons)
+* [331.26   Driving upon street postedas closed for repair](#33126-Driving upon street postedas closed for repair)
+* [331.27   Following and parking nearemergency or safetyvehicles](#33127-Following and parking nearemergency or safetyvehicles)
+* [331.28   Driving over fire hose](#33128-Driving over fire hose)
+* [331.29   Driving through safety zone](#33129-Driving through safety zone)
+* [331.30   One-way streets and rotarytraffic islands](#33130-One-way streets and rotarytraffic islands)
+* [331.31   Driving upon divided roadways](#33131-Driving upon divided roadways)
+* [331.32   Entering and exitingcontrolled-accesshighway](#33132-Entering and exitingcontrolled-accesshighway)
+* [331.33   Obstructing intersection, crosswalk or gradecrossing](#33133-Obstructing intersection, crosswalk or gradecrossing)
+* [331.34   Failure to control; weaving; full time and attention](#33134-Failure to control; weaving; full time and attention)
+* [331.35   Occupying a moving trailer ormanufactured or mobile home](#33135-Occupying a moving trailer ormanufactured or mobile home)
+* [331.36   Squealing tires, "peeling", cracking exhaust noises](#33136-Squealing tires, "peeling", cracking exhaust noises)
+* [331.37   Driving upon sidewalks,street lawns or curbs](#33137-Driving upon sidewalks,street lawns or curbs)
+* [331.38   Stopping for school bus; discharging children](#33138-Stopping for school bus; discharging children)
+* [331.39   Driving across grade crossing](#33139-Driving across grade crossing)
+* [331.40   Stopping at grade crossing](#33140-Stopping at grade crossing)
+* [331.41   Slow moving vehicles and equipment at grade crossings](#33141-Slow moving vehicles and equipment at grade crossings)
+* [331.42   Driving for advertising purposes](#33142-Driving for advertising purposes)
+* [331.43   Shortcutting; evasion oftraffic control signals or device](#33143-Shortcutting; evasion oftraffic control signals or device)
+* [331.44   Littering from motorvehicle](#33144-Littering from motorvehicle)
+* [331.45   Wearing earplugs or earphones prohibited](#33145-Wearing earplugs or earphones prohibited)
+* [331.46   Vehicular operation on  street closed due to rise in water level](#33146-Vehicular operation on  street closed due to rise in water level)
 
 ## Cross references
 

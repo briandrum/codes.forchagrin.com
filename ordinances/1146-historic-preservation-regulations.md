@@ -6,14 +6,14 @@ chapter_no: 1146
 title: "Chapter 1146: Historic Preservation Regulations"
 ---
 
-1146.01   Intent.
-1146.02   Applicability.
-1146.03   Administrative procedures.
-1146.04   Standards of review.
-1146.05   Definitions.
-1146.06   Demolition and moving.
-1146.07   Maintenance requirements.
-1146.08   Supplemental regulations.
+* [1146.01   Intent](#114601-Intent)
+* [1146.02   Applicability](#114602-Applicability)
+* [1146.03   Administrative procedures](#114603-Administrative procedures)
+* [1146.04   Standards of review](#114604-Standards of review)
+* [1146.05   Definitions](#114605-Definitions)
+* [1146.06   Demolition and moving](#114606-Demolition and moving)
+* [1146.07   Maintenance requirements](#114607-Maintenance requirements)
+* [1146.08   Supplemental regulations](#114608-Supplemental regulations)
 
 ## Cross references
 

@@ -6,28 +6,28 @@ chapter_no: 537
 title: "Chapter 537: Offenses Against Persons"
 ---
 
-537.01   Negligent homicide.
-537.02   Vehicular homicide and manslaughter.
-537.021   Vehicular assault in a construction zone.
-537.03   Assault.
-537.04   Negligent assault.
-537.05   Aggravated menacing.
-537.051   Menacing by stalking.
-537.06   Menacing.
-537.07   Endangering children.
-537.08   Unlawful restraint.
-537.09   Coercion.
-537.10   Telecommunication harassment.
-537.11   Threatening or harassing telephone calls.
-537.12   Misuse of 9-1-1system.
-537.13   Adulterating of orfurnishing adulteratedfood or confection.
-537.14   Domestic violence.
-537.15   Temporary protection order.
-537.16   Illegal distribution ofcigarettes, other tobacco products, or alternate nicotine products; transaction scans.
-537.17   Reserved.
-537.18   Contributing to unruliness or delinquency of a child.
-537.19   Hazing.
-537.99   Penalty.
+* [537.01   Negligent homicide](#53701-Negligent homicide)
+* [537.02   Vehicular homicide and manslaughter](#53702-Vehicular homicide and manslaughter)
+* [537.021   Vehicular assault in a construction zone](#537021-Vehicular assault in a construction zone)
+* [537.03   Assault](#53703-Assault)
+* [537.04   Negligent assault](#53704-Negligent assault)
+* [537.05   Aggravated menacing](#53705-Aggravated menacing)
+* [537.051   Menacing by stalking](#537051-Menacing by stalking)
+* [537.06   Menacing](#53706-Menacing)
+* [537.07   Endangering children](#53707-Endangering children)
+* [537.08   Unlawful restraint](#53708-Unlawful restraint)
+* [537.09   Coercion](#53709-Coercion)
+* [537.10   Telecommunication harassment](#53710-Telecommunication harassment)
+* [537.11   Threatening or harassing telephone calls](#53711-Threatening or harassing telephone calls)
+* [537.12   Misuse of 9-1-1system](#53712-Misuse of 9-1-1system)
+* [537.13   Adulterating of orfurnishing adulteratedfood or confection](#53713-Adulterating of orfurnishing adulteratedfood or confection)
+* [537.14   Domestic violence](#53714-Domestic violence)
+* [537.15   Temporary protection order](#53715-Temporary protection order)
+* [537.16   Illegal distribution ofcigarettes, other tobacco products, or alternate nicotine products; transaction scans](#53716-Illegal distribution ofcigarettes, other tobacco products, or alternate nicotine products; transaction scans)
+* [537.17   Reserved](#53717-Reserved)
+* [537.18   Contributing to unruliness or delinquency of a child](#53718-Contributing to unruliness or delinquency of a child)
+* [537.19   Hazing](#53719-Hazing)
+* [537.99   Penalty](#53799-Penalty)
 
 ## Cross references
 

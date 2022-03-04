@@ -6,15 +6,15 @@ chapter_no: 1142
 title: "Chapter 1142: Landscaping Regulations"
 ---
 
-1142.01   Intent.
-1142.02   Applicability.
-1142.03   General landscaping.
-1142.04   Street trees.
-1142.05   Parking areas.
-1142.06   Perimeter screens.
-1142.07   Utility uses.
-1142.08   Visibility at intersections.
-1142.09   Maintenance of landscaping  and replacement of landscaping.
+* [1142.01   Intent](#114201-Intent)
+* [1142.02   Applicability](#114202-Applicability)
+* [1142.03   General landscaping](#114203-General landscaping)
+* [1142.04   Street trees](#114204-Street trees)
+* [1142.05   Parking areas](#114205-Parking areas)
+* [1142.06   Perimeter screens](#114206-Perimeter screens)
+* [1142.07   Utility uses](#114207-Utility uses)
+* [1142.08   Visibility at intersections](#114208-Visibility at intersections)
+* [1142.09   Maintenance of landscaping  and replacement of landscaping](#114209-Maintenance of landscaping  and replacement of landscaping)
 
 ## Cross references
 

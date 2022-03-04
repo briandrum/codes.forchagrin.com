@@ -6,15 +6,15 @@ chapter_no: 721
 title: "Chapter 721: Garage Sales"
 ---
 
-721.01   Definitions.
-721.02   License required.
-721.03   Application and issuance.
-721.04   License effective period.
-721.05   Display of license upon demand.
-721.06   Sale hours.
-721.07   License revocation.
-721.08   Exceptions.
-721.99   Penalty.
+* [721.01   Definitions](#72101-Definitions)
+* [721.02   License required](#72102-License required)
+* [721.03   Application and issuance](#72103-Application and issuance)
+* [721.04   License effective period](#72104-License effective period)
+* [721.05   Display of license upon demand](#72105-Display of license upon demand)
+* [721.06   Sale hours](#72106-Sale hours)
+* [721.07   License revocation](#72107-License revocation)
+* [721.08   Exceptions](#72108-Exceptions)
+* [721.99   Penalty](#72199-Penalty)
 
 ## Cross references
 

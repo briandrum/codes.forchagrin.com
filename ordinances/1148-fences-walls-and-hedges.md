@@ -6,13 +6,13 @@ chapter_no: 1148
 title: "Chapter 1148: Fences, Walls, and Hedges"
 ---
 
-1148.01   Intent.
-1148.02   Definitions and references.
-1148.03   General provisions.
-1148.04   Permits.
-1148.05   Fences, walls, and hedges permitted: residential districts.
-1148.06   Fences, walls, and hedges permitted: non-residential districts.
-1148.07   Retaining walls.
+* [1148.01   Intent](#114801-Intent)
+* [1148.02   Definitions and references](#114802-Definitions and references)
+* [1148.03   General provisions](#114803-General provisions)
+* [1148.04   Permits](#114804-Permits)
+* [1148.05   Fences, walls, and hedges permitted: residential districts](#114805-Fences, walls, and hedges permitted: residential districts)
+* [1148.06   Fences, walls, and hedges permitted: non-residential districts](#114806-Fences, walls, and hedges permitted: non-residential districts)
+* [1148.07   Retaining walls](#114807-Retaining walls)
 
 ## Cross references
 

@@ -6,15 +6,15 @@ chapter_no: 1127
 title: "Chapter 1127: Residential Districts: Attached Single-Family"
 ---
 
-1127.01   Intent.
-1127.02   Permitted uses.
-1127.03   Area regulations.
-1127.04   Height regulations.
-1127.05   Yard and setback regulations.
-1127.06   Distances between buildings and uses.
-1127.07   Design regulations and standards.
-1127.08   Off-street parking regulations.
-1127.09   Supplemental regulations.
+* [1127.01   Intent](#112701-Intent)
+* [1127.02   Permitted uses](#112702-Permitted uses)
+* [1127.03   Area regulations](#112703-Area regulations)
+* [1127.04   Height regulations](#112704-Height regulations)
+* [1127.05   Yard and setback regulations](#112705-Yard and setback regulations)
+* [1127.06   Distances between buildings and uses](#112706-Distances between buildings and uses)
+* [1127.07   Design regulations and standards](#112707-Design regulations and standards)
+* [1127.08   Off-street parking regulations](#112708-Off-street parking regulations)
+* [1127.09   Supplemental regulations](#112709-Supplemental regulations)
 
 ## Cross references
 

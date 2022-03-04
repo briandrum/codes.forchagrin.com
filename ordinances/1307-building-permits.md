@@ -6,30 +6,30 @@ chapter_no: 1307
 title: "Chapter 1307: Building Permits"
 ---
 
-1307.01   Building permits required; application; plans and drawings.
-1307.02   Issuance of permit; certification of compliance with Zoning Code.
-1307.03   Bonds.
-1307.04   Permit to erect part of building.
-1307.05   Permits for superstructure.
-1307.06   Permits for minor interior repairs and alterations.
-1307.07   Water permit required.
-1307.08   Revocation of permit for delay.
-1307.09   Restoration upon permit revocation.
-1307.10   Revocation for noncompliance.
-1307.11   Deposit to cover repairs.
-1307.12   Approval of water or sewer connections; underground water pipes.
-1307.13   Driveway permits.
-1307.14   Curb cutting permit.
-1307.15   Heating installations.
-1307.16   Swimming pools.
-1307.17   Partition fence or wall.
-1307.18   Minor building permits.
-1307.19   Preliminary plot plan required.
-1307.20   Final plot plan.
-1307.21   Building Inspector’s fees.
-1307.22   Amendment of plan to include method of drainage.
-1307.23   Appeals.
-1307.99   Penalty.
+* [1307.01   Building permits required; application; plans and drawings](#130701-Building permits required; application; plans and drawings)
+* [1307.02   Issuance of permit; certification of compliance with Zoning Code](#130702-Issuance of permit; certification of compliance with Zoning Code)
+* [1307.03   Bonds](#130703-Bonds)
+* [1307.04   Permit to erect part of building](#130704-Permit to erect part of building)
+* [1307.05   Permits for superstructure](#130705-Permits for superstructure)
+* [1307.06   Permits for minor interior repairs and alterations](#130706-Permits for minor interior repairs and alterations)
+* [1307.07   Water permit required](#130707-Water permit required)
+* [1307.08   Revocation of permit for delay](#130708-Revocation of permit for delay)
+* [1307.09   Restoration upon permit revocation](#130709-Restoration upon permit revocation)
+* [1307.10   Revocation for noncompliance](#130710-Revocation for noncompliance)
+* [1307.11   Deposit to cover repairs](#130711-Deposit to cover repairs)
+* [1307.12   Approval of water or sewer connections; underground water pipes](#130712-Approval of water or sewer connections; underground water pipes)
+* [1307.13   Driveway permits](#130713-Driveway permits)
+* [1307.14   Curb cutting permit](#130714-Curb cutting permit)
+* [1307.15   Heating installations](#130715-Heating installations)
+* [1307.16   Swimming pools](#130716-Swimming pools)
+* [1307.17   Partition fence or wall](#130717-Partition fence or wall)
+* [1307.18   Minor building permits](#130718-Minor building permits)
+* [1307.19   Preliminary plot plan required](#130719-Preliminary plot plan required)
+* [1307.20   Final plot plan](#130720-Final plot plan)
+* [1307.21   Building Inspector’s fees](#130721-Building Inspector’s fees)
+* [1307.22   Amendment of plan to include method of drainage](#130722-Amendment of plan to include method of drainage)
+* [1307.23   Appeals](#130723-Appeals)
+* [1307.99   Penalty](#130799-Penalty)
 
 ## Cross references
 

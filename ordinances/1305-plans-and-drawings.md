@@ -6,13 +6,13 @@ chapter_no: 1305
 title: "Chapter 1305: Plans and Drawings"
 ---
 
-1305.01   Consideration of application.
-1305.02   Plot plan.
-1305.03   Building plans.
-1305.04   Specifications.
-1305.05   Imperfect plans and specifications.
-1305.06   Alteration or erasure of plans.
-1305.99   Penalty.
+* [1305.01   Consideration of application](#130501-Consideration of application)
+* [1305.02   Plot plan](#130502-Plot plan)
+* [1305.03   Building plans](#130503-Building plans)
+* [1305.04   Specifications](#130504-Specifications)
+* [1305.05   Imperfect plans and specifications](#130505-Imperfect plans and specifications)
+* [1305.06   Alteration or erasure of plans](#130506-Alteration or erasure of plans)
+* [1305.99   Penalty](#130599-Penalty)
 
 ## Cross references
 

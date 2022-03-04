@@ -6,20 +6,20 @@ chapter_no: 549
 title: "Chapter 549: Weapons and Explosives"
 ---
 
-549.01   Definitions.
-549.02   Carrying concealed weapons.
-549.03   Using weapons while intoxicated.
-549.04   Improperly handling firearms in a motor vehicle.
-549.05   Failure to secure dangerous ordnance.
+* [549.01   Definitions](#54901-Definitions)
+* [549.02   Carrying concealed weapons](#54902-Carrying concealed weapons)
+* [549.03   Using weapons while intoxicated](#54903-Using weapons while intoxicated)
+* [549.04   Improperly handling firearms in a motor vehicle](#54904-Improperly handling firearms in a motor vehicle)
+* [549.05   Failure to secure dangerous ordnance](#54905-Failure to secure dangerous ordnance)
 549.06   Unlawful transactions in weapons.   
-549.07   Underage purchase of firearm.
-549.08   Discharging firearms.
-549.09   Throwing or shooting missiles.
-549.10   Reporting sale of firearms. (Repealed)
-549.11   Blasting permit.
-549.12   Possessing replica firearmin school.
-549.13   Defacing identification marks of a firearm; possessing a  defaced firearm.
-549.99   Penalty.
+* [549.07   Underage purchase of firearm](#54907-Underage purchase of firearm)
+* [549.08   Discharging firearms](#54908-Discharging firearms)
+* [549.09   Throwing or shooting missiles](#54909-Throwing or shooting missiles)
+* [549.10   Reporting sale of firearms](#54910-Reporting sale of firearms) (Repealed)
+* [549.11   Blasting permit](#54911-Blasting permit)
+* [549.12   Possessing replica firearmin school](#54912-Possessing replica firearmin school)
+* [549.13   Defacing identification marks of a firearm; possessing a  defaced firearm](#54913-Defacing identification marks of a firearm; possessing a  defaced firearm)
+* [549.99   Penalty](#54999-Penalty)
 
 ## Cross references
 

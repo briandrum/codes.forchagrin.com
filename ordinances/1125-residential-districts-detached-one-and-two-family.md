@@ -6,15 +6,15 @@ chapter_no: 1125
 title: "Chapter 1125: Residential Districts: Detached One and Two-Family"
 ---
 
-1125.01   Intent.
-1125.02   Permitted uses.
-1125.03   Area, yard and height regulations: main buildings.
-1125.04   Area, yard and height regulation; accessory buildings and structures.
-1125.05   Home occupations; renting of rooms.
-1125.06   Landscaping requirements.
-1125.07   Visibility at intersections.
-1125.08   Supplemental parking regulations.
-1125.09   Keeping chickens.
+* [1125.01   Intent](#112501-Intent)
+* [1125.02   Permitted uses](#112502-Permitted uses)
+* [1125.03   Area, yard and height regulations: main buildings](#112503-Area, yard and height regulations: main buildings)
+* [1125.04   Area, yard and height regulation; accessory buildings and structures](#112504-Area, yard and height regulation; accessory buildings and structures)
+* [1125.05   Home occupations; renting of rooms](#112505-Home occupations; renting of rooms)
+* [1125.06   Landscaping requirements](#112506-Landscaping requirements)
+* [1125.07   Visibility at intersections](#112507-Visibility at intersections)
+* [1125.08   Supplemental parking regulations](#112508-Supplemental parking regulations)
+* [1125.09   Keeping chickens](#112509-Keeping chickens)
 
 ## Cross references
 

@@ -6,12 +6,12 @@ chapter_no: 1150
 title: "Chapter 1150: Outdoor Lighting"
 ---
 
-1150.01   Purpose and intent.
-1150.02   Definitions.
-1150.03   General requirements.
-1150.04   Exemptions.
-1150.05   Prohibited lighting.
-1150.06   Nonconformance.
+* [1150.01   Purpose and intent](#115001-Purpose and intent)
+* [1150.02   Definitions](#115002-Definitions)
+* [1150.03   General requirements](#115003-General requirements)
+* [1150.04   Exemptions](#115004-Exemptions)
+* [1150.05   Prohibited lighting](#115005-Prohibited lighting)
+* [1150.06   Nonconformance](#115006-Nonconformance)
 
 ## Cross references
 

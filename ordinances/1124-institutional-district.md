@@ -6,14 +6,14 @@ chapter_no: 1124
 title: "Chapter 1124: Institutional District"
 ---
 
-1124.01   Intent.
-1124.02   Permitted uses.
-1124.03   Area and height regulations.
-1124.04   Yard and setback regulations.
-1124.05   Grouping of main buildings.
-1124.06   Lighting.
-1124.07   Screening.
-1124.08   Supplemental regulations.
+* [1124.01   Intent](#112401-Intent)
+* [1124.02   Permitted uses](#112402-Permitted uses)
+* [1124.03   Area and height regulations](#112403-Area and height regulations)
+* [1124.04   Yard and setback regulations](#112404-Yard and setback regulations)
+* [1124.05   Grouping of main buildings](#112405-Grouping of main buildings)
+* [1124.06   Lighting](#112406-Lighting)
+* [1124.07   Screening](#112407-Screening)
+* [1124.08   Supplemental regulations](#112408-Supplemental regulations)
 
 ## Cross references
 

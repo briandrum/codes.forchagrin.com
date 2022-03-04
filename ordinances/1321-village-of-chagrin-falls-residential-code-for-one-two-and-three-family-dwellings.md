@@ -6,13 +6,13 @@ chapter_no: 1321
 title: "Chapter 1321: Village of Chagrin Falls Residential Code for One-, Two- and Three-Family Dwellings"
 ---
 
-1321.01   Definitions.
-1321.02   Intent.
-1321.03   Adoption of the Village Code.
-1321.04   Interpretation.
-1321.05   Enforcement personnel.
-1321.06   Electrical service.
-1321.99   Penalty.
+* [1321.01   Definitions](#132101-Definitions)
+* [1321.02   Intent](#132102-Intent)
+* [1321.03   Adoption of the Village Code](#132103-Adoption of the Village Code)
+* [1321.04   Interpretation](#132104-Interpretation)
+* [1321.05   Enforcement personnel](#132105-Enforcement personnel)
+* [1321.06   Electrical service](#132106-Electrical service)
+* [1321.99   Penalty](#132199-Penalty)
 
 ## Cross references
 

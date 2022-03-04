@@ -6,9 +6,9 @@ chapter_no: 723
 title: "Chapter 723: Meat and Meat Products"
 ---
 
-723.01   Inspection required.
-723.02   Exemptions.
-723.99   Penalty.
+* [723.01   Inspection required](#72301-Inspection required)
+* [723.02   Exemptions](#72302-Exemptions)
+* [723.99   Penalty](#72399-Penalty)
 
 ## Cross references
 

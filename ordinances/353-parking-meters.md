@@ -6,15 +6,15 @@ chapter_no: 353
 title: "Chapter 353: Parking Meters"
 ---
 
-353.01   Authority to designate parking meter areas and establish  metered parking zones.
-353.02   Designation of areas and zones.
-353.03   Regulation of parking in metered zones.
-353.04   Unlawful parking in metered zones.
-353.05   Prima-facie evidence of unlawful parking.
-353.06   Collection of coins from meters.
-353.07   Application of fund.
-353.08   Waiver.
-353.99   Penalty.
+* [353.01   Authority to designate parking meter areas and establish  metered parking zones](#35301-Authority to designate parking meter areas and establish  metered parking zones)
+* [353.02   Designation of areas and zones](#35302-Designation of areas and zones)
+* [353.03   Regulation of parking in metered zones](#35303-Regulation of parking in metered zones)
+* [353.04   Unlawful parking in metered zones](#35304-Unlawful parking in metered zones)
+* [353.05   Prima-facie evidence of unlawful parking](#35305-Prima-facie evidence of unlawful parking)
+* [353.06   Collection of coins from meters](#35306-Collection of coins from meters)
+* [353.07   Application of fund](#35307-Application of fund)
+* [353.08   Waiver](#35308-Waiver)
+* [353.99   Penalty](#35399-Penalty)
 
 ## Cross references
 

@@ -6,12 +6,12 @@ chapter_no: 1145
 title: "Chapter 1145: Nonconforming Buildings and Uses"
 ---
 
-1145.01   Intent.
-1145.02   Nonconforming buildings and structures.
-1145.03   Nonconforming use of buildings; nonconforming accessory uses.
-1145.04   Nonconforming use of land.
-1145.05   Nonconforming use due to reclassification.
-1145.06   Change from nonconforming use.
+* [1145.01   Intent](#114501-Intent)
+* [1145.02   Nonconforming buildings and structures](#114502-Nonconforming buildings and structures)
+* [1145.03   Nonconforming use of buildings; nonconforming accessory uses](#114503-Nonconforming use of buildings; nonconforming accessory uses)
+* [1145.04   Nonconforming use of land](#114504-Nonconforming use of land)
+* [1145.05   Nonconforming use due to reclassification](#114505-Nonconforming use due to reclassification)
+* [1145.06   Change from nonconforming use](#114506-Change from nonconforming use)
 
 ## Cross references
 

@@ -6,13 +6,13 @@ chapter_no: 1105
 title: "Chapter 1105: Scope and Application"
 ---
 
-1105.01   Title.
-1105.02   Findings of fact.
-1105.03   Objectives.
-1105.04   Application; jurisdiction.
-1105.05   Compliance with this Planning and Zoning Code.
-1105.06   Relation to other regulations.
-1105.07   Separability.
+* [1105.01   Title](#110501-Title)
+* [1105.02   Findings of fact](#110502-Findings of fact)
+* [1105.03   Objectives](#110503-Objectives)
+* [1105.04   Application; jurisdiction](#110504-Application; jurisdiction)
+* [1105.05   Compliance with this Planning and Zoning Code](#110505-Compliance with this Planning and Zoning Code)
+* [1105.06   Relation to other regulations](#110506-Relation to other regulations)
+* [1105.07   Separability](#110507-Separability)
 
 ## 1105.01   Title
 

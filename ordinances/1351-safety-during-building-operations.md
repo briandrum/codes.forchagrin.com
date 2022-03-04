@@ -6,10 +6,10 @@ chapter_no: 1351
 title: "Chapter 1351: Safety During Building Operations"
 ---
 
-1351.01   Provisions for safety of employees.
-1351.02   Obstructing fire hydrants; tampering; use of water.
-1351.03   Temporary driveway and protective  planking.
-1351.99   Penalty.
+* [1351.01   Provisions for safety of employees](#135101-Provisions for safety of employees)
+* [1351.02   Obstructing fire hydrants; tampering; use of water](#135102-Obstructing fire hydrants; tampering; use of water)
+* [1351.03   Temporary driveway and protective  planking](#135103-Temporary driveway and protective  planking)
+* [1351.99   Penalty](#135199-Penalty)
 
 ## Cross references
 

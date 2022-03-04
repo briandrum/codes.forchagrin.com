@@ -6,14 +6,14 @@ chapter_no: 129
 title: "Chapter 129: Police Department"
 ---
 
-129.01   Department established.
-129.02   Composition of department.
-129.03   Probationary and original appointments; appointment requirements for full-time  regular patrol officers.
-129.04   Application, examination  and evaluation of candidates.
-129.05   Oath.
-129.06   Special police duty for private entity.
-129.07   Emergency aid outside Village.
-129.08   Parking Enforcement Unit.
+* [129.01   Department established](#12901-Department established)
+* [129.02   Composition of department](#12902-Composition of department)
+* [129.03   Probationary and original appointments; appointment requirements for full-time  regular patrol officers](#12903-Probationary and original appointments; appointment requirements for full-time  regular patrol officers)
+* [129.04   Application, examination  and evaluation of candidates](#12904-Application, examination  and evaluation of candidates)
+* [129.05   Oath](#12905-Oath)
+* [129.06   Special police duty for private entity](#12906-Special police duty for private entity)
+* [129.07   Emergency aid outside Village](#12907-Emergency aid outside Village)
+* [129.08   Parking Enforcement Unit](#12908-Parking Enforcement Unit)
 
 ## Cross references
 

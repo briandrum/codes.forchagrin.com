@@ -6,8 +6,8 @@ chapter_no: 719
 title: "Chapter 719: Fortunetelling and Clairvoyancy"
 ---
 
-719.01   License required.
-719.99   Penalty.
+* [719.01   License required](#71901-License required)
+* [719.99   Penalty](#71999-Penalty)
 
 ## Cross references
 

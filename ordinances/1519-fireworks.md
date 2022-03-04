@@ -6,12 +6,12 @@ chapter_no: 1519
 title: "Chapter 1519: Fireworks"
 ---
 
-1519.01   Definitions.
-1519.02   Public exhibition permit required; fee; bond; records.
-1519.03   Unlawful conduct by exhibitor.
-1519.04   Possession, sale ordischarge prohibited; exceptions.
-1519.05   Application.
-1519.99   Penalty.
+* [1519.01   Definitions](#151901-Definitions)
+* [1519.02   Public exhibition permit required; fee; bond; records](#151902-Public exhibition permit required; fee; bond; records)
+* [1519.03   Unlawful conduct by exhibitor](#151903-Unlawful conduct by exhibitor)
+* [1519.04   Possession, sale ordischarge prohibited; exceptions](#151904-Possession, sale ordischarge prohibited; exceptions)
+* [1519.05   Application](#151905-Application)
+* [1519.99   Penalty](#151999-Penalty)
 
 ## Cross references
 

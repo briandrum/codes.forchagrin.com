@@ -6,25 +6,25 @@ chapter_no: 373
 title: "Chapter 373: Bicycles and Motorcycles"
 ---
 
-373.01   Parent’s responsibility.
-373.02   Motorized bicycle.
-373.03   Traffic Code application to bicycles.
-373.04   Obedience to traffic control devices.
-373.05   Riding upon seats; handle bars; helmets and glasses.
-373.06   Prudent speed.
-373.07   Emerging from alley or driveway.
-373.08   Trick riding.
-373.09   Stolen bicycles.
-373.10   Parking.
-373.11   Lights and reflector on bicycle; brakes.
-373.12   Signal device on bicycle.
-373.13   Impounding of bicycles.
-373.14   Attaching bicycle or sled to vehicle.
-373.15   Riding bicycles or motorcycles abreast.
-373.16   Motorized bicycle operation, equipment and license.
-373.17   Paths exclusively for bicycles.
-373.18   Electric bicycles.
-373.99   Penalty.
+* [373.01   Parent’s responsibility](#37301-Parent’s responsibility)
+* [373.02   Motorized bicycle](#37302-Motorized bicycle)
+* [373.03   Traffic Code application to bicycles](#37303-Traffic Code application to bicycles)
+* [373.04   Obedience to traffic control devices](#37304-Obedience to traffic control devices)
+* [373.05   Riding upon seats; handle bars; helmets and glasses](#37305-Riding upon seats; handle bars; helmets and glasses)
+* [373.06   Prudent speed](#37306-Prudent speed)
+* [373.07   Emerging from alley or driveway](#37307-Emerging from alley or driveway)
+* [373.08   Trick riding](#37308-Trick riding)
+* [373.09   Stolen bicycles](#37309-Stolen bicycles)
+* [373.10   Parking](#37310-Parking)
+* [373.11   Lights and reflector on bicycle; brakes](#37311-Lights and reflector on bicycle; brakes)
+* [373.12   Signal device on bicycle](#37312-Signal device on bicycle)
+* [373.13   Impounding of bicycles](#37313-Impounding of bicycles)
+* [373.14   Attaching bicycle or sled to vehicle](#37314-Attaching bicycle or sled to vehicle)
+* [373.15   Riding bicycles or motorcycles abreast](#37315-Riding bicycles or motorcycles abreast)
+* [373.16   Motorized bicycle operation, equipment and license](#37316-Motorized bicycle operation, equipment and license)
+* [373.17   Paths exclusively for bicycles](#37317-Paths exclusively for bicycles)
+* [373.18   Electric bicycles](#37318-Electric bicycles)
+* [373.99   Penalty](#37399-Penalty)
 
 ## Cross references
 

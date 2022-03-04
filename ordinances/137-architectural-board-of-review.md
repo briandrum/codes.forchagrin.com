@@ -9,14 +9,14 @@ title: "Chapter 137: Architectural Board of Review"
 Editor’s note: The Architectural Board of Review was established by
 Ordinance 1955-350.
 
-137.01   Board appointments, terms and vacancies.
-137.02   Membership.
-137.03   Compensation for meeting attendance.
-137.04   Member not to review own work; conflict of interest.
-137.05   Chairman and secretary of Board.
-137.06   Quorum, duties and rules.
-137.07   Purposes of Board.
-137.08   Review of plans; time limit.
+* [137.01   Board appointments, terms and vacancies](#13701-Board appointments, terms and vacancies)
+* [137.02   Membership](#13702-Membership)
+* [137.03   Compensation for meeting attendance](#13703-Compensation for meeting attendance)
+* [137.04   Member not to review own work; conflict of interest](#13704-Member not to review own work; conflict of interest)
+* [137.05   Chairman and secretary of Board](#13705-Chairman and secretary of Board)
+* [137.06   Quorum, duties and rules](#13706-Quorum, duties and rules)
+* [137.07   Purposes of Board](#13707-Purposes of Board)
+* [137.08   Review of plans; time limit](#13708-Review of plans; time limit)
 
 ## Cross references
 

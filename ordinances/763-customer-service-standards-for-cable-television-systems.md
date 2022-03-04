@@ -6,12 +6,12 @@ chapter_no: 763
 title: "Chapter 763: Customer Service Standards for Cable Television Systems"
 ---
 
-763.01   Policy.
-763.02   Definitions.
-763.03   Customer service.
-763.04   Customer dissatisfaction with any service.
-763.05   Safety.
-763.99   Penalty.
+* [763.01   Policy](#76301-Policy)
+* [763.02   Definitions](#76302-Definitions)
+* [763.03   Customer service](#76303-Customer service)
+* [763.04   Customer dissatisfaction with any service](#76304-Customer dissatisfaction with any service)
+* [763.05   Safety](#76305-Safety)
+* [763.99   Penalty](#76399-Penalty)
 
 ## Cross references
 

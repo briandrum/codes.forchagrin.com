@@ -6,12 +6,12 @@ chapter_no: 1113
 title: "Chapter 1113: Amendments"
 ---
 
-1113.01   Intent.
-1113.02   Initiation of amendment.
-1113.03   Action by Commission.
-1113.04   Action by Council.
-1113.05   Current record of text and map.
-1113.06   Determination of similar uses.
+* [1113.01   Intent](#111301-Intent)
+* [1113.02   Initiation of amendment](#111302-Initiation of amendment)
+* [1113.03   Action by Commission](#111303-Action by Commission)
+* [1113.04   Action by Council](#111304-Action by Council)
+* [1113.05   Current record of text and map](#111305-Current record of text and map)
+* [1113.06   Determination of similar uses](#111306-Determination of similar uses)
 
 ## Cross references
 

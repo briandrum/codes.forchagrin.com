@@ -6,17 +6,17 @@ chapter_no: 313
 title: "Chapter 313: Traffic Control Devices"
 ---
 
-313.01   Obedience to traffic control devices.
-313.02   Through streets; stop and yield right-of-way signs.
-313.03   Traffic signal indications.
-313.04   Lane-use control signal indications.
-313.05   Special pedestrian control signals.
-313.06   Flashing traffic signals. (Repealed)
-313.07   Unauthorized signs andsignals, hiding from view,advertising.
-313.08   Alteration, injury, removal  of traffic control devices.
-313.09   Driver’s duties uponapproaching ambiguous ornon-working traffic signal.
-313.10   Unlawful purchase,possession or sale.
-313.11   Portable signal preemption devices prohibited.
+* [313.01   Obedience to traffic control devices](#31301-Obedience to traffic control devices)
+* [313.02   Through streets; stop and yield right-of-way signs](#31302-Through streets; stop and yield right-of-way signs)
+* [313.03   Traffic signal indications](#31303-Traffic signal indications)
+* [313.04   Lane-use control signal indications](#31304-Lane-use control signal indications)
+* [313.05   Special pedestrian control signals](#31305-Special pedestrian control signals)
+* [313.06   Flashing traffic signals](#31306-Flashing traffic signals) (Repealed)
+* [313.07   Unauthorized signs andsignals, hiding from view,advertising](#31307-Unauthorized signs andsignals, hiding from view,advertising)
+* [313.08   Alteration, injury, removal  of traffic control devices](#31308-Alteration, injury, removal  of traffic control devices)
+* [313.09   Driver’s duties uponapproaching ambiguous ornon-working traffic signal](#31309-Driver’s duties uponapproaching ambiguous ornon-working traffic signal)
+* [313.10   Unlawful purchase,possession or sale](#31310-Unlawful purchase,possession or sale)
+* [313.11   Portable signal preemption devices prohibited](#31311-Portable signal preemption devices prohibited)
 
 ## Cross references
 

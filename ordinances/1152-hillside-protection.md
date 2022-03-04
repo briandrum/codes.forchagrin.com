@@ -6,12 +6,12 @@ chapter_no: 1152
 title: "Chapter 1152: Hillside Protection"
 ---
 
-1152.01   Intent.
-1152.02   Definitions.
-1152.03   Procedures.
-1152.04   Required hillside control measures, standards and plans.
-1152.05   Hold harmless provisions.
-1152.06   Administration and enforcement.
+* [1152.01   Intent](#115201-Intent)
+* [1152.02   Definitions](#115202-Definitions)
+* [1152.03   Procedures](#115203-Procedures)
+* [1152.04   Required hillside control measures, standards and plans](#115204-Required hillside control measures, standards and plans)
+* [1152.05   Hold harmless provisions](#115205-Hold harmless provisions)
+* [1152.06   Administration and enforcement](#115206-Administration and enforcement)
 
 ## Cross references
 

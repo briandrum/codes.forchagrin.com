@@ -6,17 +6,17 @@ chapter_no: 1337
 title: "Chapter 1337: Moving of Buildings"
 ---
 
-1337.01   Permit required.
-1337.02   Application.
-1337.03   Permit to be in two parts.
-1337.04   Expiration and renewal.
-1337.05   Cash bond; insurance.
-1337.06   Inspection of building and equipment.
-1337.07   Standards for issuance of permit.
-1337.08   Approval of the Architectural Review Board.
-1337.09   Designation of streets for moving.
-1337.10   Authority of Law Director.
-1337.99   Penalty.
+* [1337.01   Permit required](#133701-Permit required)
+* [1337.02   Application](#133702-Application)
+* [1337.03   Permit to be in two parts](#133703-Permit to be in two parts)
+* [1337.04   Expiration and renewal](#133704-Expiration and renewal)
+* [1337.05   Cash bond; insurance](#133705-Cash bond; insurance)
+* [1337.06   Inspection of building and equipment](#133706-Inspection of building and equipment)
+* [1337.07   Standards for issuance of permit](#133707-Standards for issuance of permit)
+* [1337.08   Approval of the Architectural Review Board](#133708-Approval of the Architectural Review Board)
+* [1337.09   Designation of streets for moving](#133709-Designation of streets for moving)
+* [1337.10   Authority of Law Director](#133710-Authority of Law Director)
+* [1337.99   Penalty](#133799-Penalty)
 
 ## Cross references
 

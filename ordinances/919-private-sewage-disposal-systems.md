@@ -6,11 +6,11 @@ chapter_no: 919
 title: "Chapter 919: Private Sewage Disposal Systems"
 ---
 
-919.01   Permit required; installation; standards.
-919.02   Pumping and cleaning septic tanks.
-919.03   Household aerobic sewage treatment systems.
-919.04   Privy vault cleaners; permit required; report. (Repealed)
-919.99   Penalty.
+* [919.01   Permit required; installation; standards](#91901-Permit required; installation; standards)
+* [919.02   Pumping and cleaning septic tanks](#91902-Pumping and cleaning septic tanks)
+* [919.03   Household aerobic sewage treatment systems](#91903-Household aerobic sewage treatment systems)
+* [919.04   Privy vault cleaners; permit required; report](#91904-Privy vault cleaners; permit required; report) (Repealed)
+* [919.99   Penalty](#91999-Penalty)
 
 ## Cross references
 

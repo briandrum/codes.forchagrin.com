@@ -6,23 +6,23 @@ chapter_no: 533
 title: "Chapter 533: Obscenity and Sex Offenses"
 ---
 
-533.01   Definitions.
-533.02   Presumption of knowledge; actual notice and defense.
-533.03   Unlawful sexual conduct with a minor.
-533.04   Sexual imposition.
-533.05   Importuning.
-533.06   Voyeurism.
-533.07   Public indecency.
-533.08   Procuring; engagement in sexual activity for hire.
-533.09   Soliciting.
-533.091   Loitering to engage in solicitation.
-533.10   Prostitution.
-533.11   Disseminating matter harmful to juveniles.
-533.12   Deception to obtain matter harmful to juveniles.
-533.13   Displaying matter harmful to juveniles.
-533.14   Unlawful advertising of massage.
-533.15   Dissemination of private sexual images.
-533.99   Penalty.
+* [533.01   Definitions](#53301-Definitions)
+* [533.02   Presumption of knowledge; actual notice and defense](#53302-Presumption of knowledge; actual notice and defense)
+* [533.03   Unlawful sexual conduct with a minor](#53303-Unlawful sexual conduct with a minor)
+* [533.04   Sexual imposition](#53304-Sexual imposition)
+* [533.05   Importuning](#53305-Importuning)
+* [533.06   Voyeurism](#53306-Voyeurism)
+* [533.07   Public indecency](#53307-Public indecency)
+* [533.08   Procuring; engagement in sexual activity for hire](#53308-Procuring; engagement in sexual activity for hire)
+* [533.09   Soliciting](#53309-Soliciting)
+* [533.091   Loitering to engage in solicitation](#533091-Loitering to engage in solicitation)
+* [533.10   Prostitution](#53310-Prostitution)
+* [533.11   Disseminating matter harmful to juveniles](#53311-Disseminating matter harmful to juveniles)
+* [533.12   Deception to obtain matter harmful to juveniles](#53312-Deception to obtain matter harmful to juveniles)
+* [533.13   Displaying matter harmful to juveniles](#53313-Displaying matter harmful to juveniles)
+* [533.14   Unlawful advertising of massage](#53314-Unlawful advertising of massage)
+* [533.15   Dissemination of private sexual images](#53315-Dissemination of private sexual images)
+* [533.99   Penalty](#53399-Penalty)
 
 ## Cross references
 

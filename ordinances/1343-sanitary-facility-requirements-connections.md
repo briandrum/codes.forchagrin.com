@@ -6,8 +6,8 @@ chapter_no: 1343
 title: "Chapter 1343: Sanitary Facility Requirements; Connections"
 ---
 
-1343.01   Properly connected toilets required.
-1343.02   Connection to sanitary sewer required.
+* [1343.01   Properly connected toilets required](#134301-Properly connected toilets required)
+* [1343.02   Connection to sanitary sewer required](#134302-Connection to sanitary sewer required)
 
 ## Cross references
 

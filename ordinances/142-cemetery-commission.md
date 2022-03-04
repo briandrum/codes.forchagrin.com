@@ -6,11 +6,11 @@ chapter_no: 142
 title: "Chapter 142: Cemetery Commission"
 ---
 
-142.01   Creation.
-142.02   Term.
-142.03   Compensation.
-142.04   Authority.
-142.05   Organization.
+* [142.01   Creation](#14201-Creation)
+* [142.02   Term](#14202-Term)
+* [142.03   Compensation](#14203-Compensation)
+* [142.04   Authority](#14204-Authority)
+* [142.05   Organization](#14205-Organization)
 
 ## Cross references
 

@@ -9,12 +9,12 @@ title: "Chapter 145: Chagrin Falls Arts Commission"
 Editor’s note: The Chagrin Falls Arts Commission was established by
 Ordinance 2006-53, passed August 28, 2006.
 
-145.01   Creation and composition.
-145.02   Term.
-145.03   Compensation.
-145.04   Authority.
-145.05   Organization.
-145.06   Referral.
+* [145.01   Creation and composition](#14501-Creation and composition)
+* [145.02   Term](#14502-Term)
+* [145.03   Compensation](#14503-Compensation)
+* [145.04   Authority](#14504-Authority)
+* [145.05   Organization](#14505-Organization)
+* [145.06   Referral](#14506-Referral)
 
 ## Cross references
 

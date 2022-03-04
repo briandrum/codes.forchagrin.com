@@ -11,11 +11,11 @@ General Assembly, established Ohio Revised Code Chapter 742 which created a
 Statewide disability and pension fund for policemen and firemen and abolished
 all municipal police and fire relief and pension funds as of January 1, 1967.
 
-131.01   Department established; composition.
-131.02   Code of by-laws, rules and regulations.
-131.03   Duties of firemen.
-131.04   Monthly fire drill.
-131.05   Employee rights of volunteer firemen.
+* [131.01   Department established; composition](#13101-Department established; composition)
+* [131.02   Code of by-laws, rules and regulations](#13102-Code of by-laws, rules and regulations)
+* [131.03   Duties of firemen](#13103-Duties of firemen)
+* [131.04   Monthly fire drill](#13104-Monthly fire drill)
+* [131.05   Employee rights of volunteer firemen](#13105-Employee rights of volunteer firemen)
 
 ## Cross references
 

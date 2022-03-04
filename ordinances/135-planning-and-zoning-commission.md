@@ -9,7 +9,7 @@ title: "Chapter 135: Planning and Zoning Commission"
 Editor’s note: The Planning and Zoning Commission was established May 1,
 1935.
 
-135.01   Commission to act as Board of Zoning Appeals.
+* [135.01   Commission to act as Board of Zoning Appeals](#13501-Commission to act as Board of Zoning Appeals)
 
 ## Cross references
 

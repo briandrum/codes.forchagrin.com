@@ -6,16 +6,16 @@ chapter_no: 1126
 title: "Chapter 1126: Residential Districts: R1-C One-Family Detached Cluster"
 ---
 
-1126.01   Intent.
-1126.02   Permitted uses.
-1126.03   Development area.
-1126.04   Determination of density.
-1126.05   Development plan required; design criteria.
-1126.06   Maximum dwelling unit area.
-1126.07   Open space required.
-1126.08   Ownership and maintenance of open space.
-1126.09   Access and circulation.
-1126.10   Supplemental regulations.
+* [1126.01   Intent](#112601-Intent)
+* [1126.02   Permitted uses](#112602-Permitted uses)
+* [1126.03   Development area](#112603-Development area)
+* [1126.04   Determination of density](#112604-Determination of density)
+* [1126.05   Development plan required; design criteria](#112605-Development plan required; design criteria)
+* [1126.06   Maximum dwelling unit area](#112606-Maximum dwelling unit area)
+* [1126.07   Open space required](#112607-Open space required)
+* [1126.08   Ownership and maintenance of open space](#112608-Ownership and maintenance of open space)
+* [1126.09   Access and circulation](#112609-Access and circulation)
+* [1126.10   Supplemental regulations](#112610-Supplemental regulations)
 
 ## Cross references
 

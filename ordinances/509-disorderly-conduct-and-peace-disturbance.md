@@ -6,17 +6,17 @@ chapter_no: 509
 title: "Chapter 509: Disorderly Conduct and Peace Disturbance"
 ---
 
-509.01   Riot.
-509.02   Failure to disperse.
-509.03   Disorderly conduct; intoxication.
-509.04   Disturbing a lawful meeting.
-509.05   Misconduct at an emergency.
-509.06   Inducing panic.
-509.07   Making false alarms.
-509.08   Unnecessary noise.
-509.09   Vagrants. (Repealed)
-509.10   Minors’ curfew.
-509.99   Penalty.
+* [509.01   Riot](#50901-Riot)
+* [509.02   Failure to disperse](#50902-Failure to disperse)
+* [509.03   Disorderly conduct; intoxication](#50903-Disorderly conduct; intoxication)
+* [509.04   Disturbing a lawful meeting](#50904-Disturbing a lawful meeting)
+* [509.05   Misconduct at an emergency](#50905-Misconduct at an emergency)
+* [509.06   Inducing panic](#50906-Inducing panic)
+* [509.07   Making false alarms](#50907-Making false alarms)
+* [509.08   Unnecessary noise](#50908-Unnecessary noise)
+* [509.09   Vagrants](#50909-Vagrants) (Repealed)
+* [509.10   Minors’ curfew](#50910-Minors’ curfew)
+* [509.99   Penalty](#50999-Penalty)
 
 ## Cross references
 

@@ -6,16 +6,16 @@ chapter_no: 1359
 title: "Chapter 1359: Illicit Discharge and Illegal Connection Control"
 ---
 
-1359.01   Purpose and scope.
-1359.02   Applicability.
-1359.03   Definitions.
-1359.04   Disclaimer of liability.
-1359.05   Conflicts, severability, nuisances and responsibility.
-1359.06   Responsibility for administration.
-1359.07   Discharge and connection prohibitions.
-1359.08   Monitoring of illicit discharges and illegal connections.
-1359.09   Enforcement.
-1359.10   Remedies not exclusive.
+* [1359.01   Purpose and scope](#135901-Purpose and scope)
+* [1359.02   Applicability](#135902-Applicability)
+* [1359.03   Definitions](#135903-Definitions)
+* [1359.04   Disclaimer of liability](#135904-Disclaimer of liability)
+* [1359.05   Conflicts, severability, nuisances and responsibility](#135905-Conflicts, severability, nuisances and responsibility)
+* [1359.06   Responsibility for administration](#135906-Responsibility for administration)
+* [1359.07   Discharge and connection prohibitions](#135907-Discharge and connection prohibitions)
+* [1359.08   Monitoring of illicit discharges and illegal connections](#135908-Monitoring of illicit discharges and illegal connections)
+* [1359.09   Enforcement](#135909-Enforcement)
+* [1359.10   Remedies not exclusive](#135910-Remedies not exclusive)
 
 ## Cross references
 

@@ -6,15 +6,15 @@ chapter_no: 1109
 title: "Chapter 1109: Administration and Enforcement"
 ---
 
-1109.01   Intent.
-1109.02   Applicability.
-1109.03   Conditions for issuance of certificates and permits.
-1109.04   Application requirements.
-1109.05   Review and approval procedures.
-1109.06   Expiration and renewal of certificates and permits.
-1109.07   Enforcement and penalty.
-1109.08   Fees and deposits.
-1109.09   Public hearing notifications and hearings.
+* [1109.01   Intent](#110901-Intent)
+* [1109.02   Applicability](#110902-Applicability)
+* [1109.03   Conditions for issuance of certificates and permits](#110903-Conditions for issuance of certificates and permits)
+* [1109.04   Application requirements](#110904-Application requirements)
+* [1109.05   Review and approval procedures](#110905-Review and approval procedures)
+* [1109.06   Expiration and renewal of certificates and permits](#110906-Expiration and renewal of certificates and permits)
+* [1109.07   Enforcement and penalty](#110907-Enforcement and penalty)
+* [1109.08   Fees and deposits](#110908-Fees and deposits)
+* [1109.09   Public hearing notifications and hearings](#110909-Public hearing notifications and hearings)
 Table A
 
 ## Cross references

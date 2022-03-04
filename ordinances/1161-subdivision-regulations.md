@@ -6,16 +6,16 @@ chapter_no: 1161
 title: "Chapter 1161: Subdivision Regulations"
 ---
 
-1161.01   Title and intent.
-1161.02   Jurisdiction.
-1161.03   Definitions.
-1161.04   Proposal.
-1161.05   Design standards.
-1161.06   Required construction improvements.
-1161.07   Revisions; enforcement.
-1161.08   Enactment.
-1161.09   Subdivision procedures.
-1161.99   Penalty.
+* [1161.01   Title and intent](#116101-Title and intent)
+* [1161.02   Jurisdiction](#116102-Jurisdiction)
+* [1161.03   Definitions](#116103-Definitions)
+* [1161.04   Proposal](#116104-Proposal)
+* [1161.05   Design standards](#116105-Design standards)
+* [1161.06   Required construction improvements](#116106-Required construction improvements)
+* [1161.07   Revisions; enforcement](#116107-Revisions; enforcement)
+* [1161.08   Enactment](#116108-Enactment)
+* [1161.09   Subdivision procedures](#116109-Subdivision procedures)
+* [1161.99   Penalty](#116199-Penalty)
 
 ## Cross references
 

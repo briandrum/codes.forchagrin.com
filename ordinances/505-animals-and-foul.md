@@ -6,31 +6,31 @@ chapter_no: 505
 title: "Chapter 505: Animals and Fowl"
 ---
 
-505.01   Animals not under control.
-505.02   Impounding of dogs; disposal. (Repealed)
-505.03   Annual registration of dogs; tags required.
-505.04   Abandoning animals.
-505.05   Killing or injuring animals; tormenting of police dogs.
-505.06   Poisoning animals.
-505.07   Cruelty to animals generally.
-505.071   Cruelty to companion animals.
-505.08   Nuisance conditions prohibited.
-505.09   Barking or howling dogs.
-505.10   Animal bites; reports and quarantine.
-505.11   Hunting prohibited.
-505.12   Coloring rabbits or baby poultry; sale or display of poultry.
-505.13   Horses prohibited.
-505.14   Registration of horses and ponies.
-505.15   Certain animals prohibited.
-505.16   Rabies vaccination of dogs and cats required.
-505.17   Dangerous and vicious dog definitions.
-505.18   Dangerous and vicious dogs.
-505.19   Impoundment of dogs involved in biting/attacking incidents.
-505.20   Dangerous and vicious dog impounding procedure; redemption or disposition.
-505.21   Court order to remove or destroy animal.
+* [505.01   Animals not under control](#50501-Animals not under control)
+* [505.02   Impounding of dogs; disposal](#50502-Impounding of dogs; disposal) (Repealed)
+* [505.03   Annual registration of dogs; tags required](#50503-Annual registration of dogs; tags required)
+* [505.04   Abandoning animals](#50504-Abandoning animals)
+* [505.05   Killing or injuring animals; tormenting of police dogs](#50505-Killing or injuring animals; tormenting of police dogs)
+* [505.06   Poisoning animals](#50506-Poisoning animals)
+* [505.07   Cruelty to animals generally](#50507-Cruelty to animals generally)
+* [505.071   Cruelty to companion animals](#505071-Cruelty to companion animals)
+* [505.08   Nuisance conditions prohibited](#50508-Nuisance conditions prohibited)
+* [505.09   Barking or howling dogs](#50509-Barking or howling dogs)
+* [505.10   Animal bites; reports and quarantine](#50510-Animal bites; reports and quarantine)
+* [505.11   Hunting prohibited](#50511-Hunting prohibited)
+* [505.12   Coloring rabbits or baby poultry; sale or display of poultry](#50512-Coloring rabbits or baby poultry; sale or display of poultry)
+* [505.13   Horses prohibited](#50513-Horses prohibited)
+* [505.14   Registration of horses and ponies](#50514-Registration of horses and ponies)
+* [505.15   Certain animals prohibited](#50515-Certain animals prohibited)
+* [505.16   Rabies vaccination of dogs and cats required](#50516-Rabies vaccination of dogs and cats required)
+* [505.17   Dangerous and vicious dog definitions](#50517-Dangerous and vicious dog definitions)
+* [505.18   Dangerous and vicious dogs](#50518-Dangerous and vicious dogs)
+* [505.19   Impoundment of dogs involved in biting/attacking incidents](#50519-Impoundment of dogs involved in biting/attacking incidents)
+* [505.20   Dangerous and vicious dog impounding procedure; redemption or disposition](#50520-Dangerous and vicious dog impounding procedure; redemption or disposition)
+* [505.21   Court order to remove or destroy animal](#50521-Court order to remove or destroy animal)
 505.22   Designation of dog as  “dangerous” and “vicious”.
-505.23   Dangerous and vicious dog appeal.
-505.99   Penalty.
+* [505.23   Dangerous and vicious dog appeal](#50523-Dangerous and vicious dog appeal)
+* [505.99   Penalty](#50599-Penalty)
 
 ## Cross references
 

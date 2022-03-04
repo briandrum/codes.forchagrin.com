@@ -9,10 +9,10 @@ title: "Chapter 136: Board of Zoning Appeals"
 Editor’s note: The Board of Zoning Appeals was established by Ordinance
 1979-1172.
 
-136.01   Establishment; members.
-136.02   Officers; rules.
-136.03   Meetings; voting.
-136.04   Duties.
+* [136.01   Establishment; members](#13601-Establishment; members)
+* [136.02   Officers; rules](#13602-Officers; rules)
+* [136.03   Meetings; voting](#13603-Meetings; voting)
+* [136.04   Duties](#13604-Duties)
 
 ## Cross references
 

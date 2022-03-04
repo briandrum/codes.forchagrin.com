@@ -6,17 +6,17 @@ chapter_no: 543
 title: "Chapter 543: Streets and Sidewalks"
 ---
 
-543.01   Cleaning and repairing sidewalks; remedy of Municipality for noncompliance.
-543.02   Removal of ice and snow from sidewalks.
-543.03   Unloading on streets, sidewalks.
-543.04   Materials on streets and sidewalks.
-543.05   Protecting sidewalks.
-543.06   Sale of goods and merchandise upon sidewalks or tree lawns. (Repealed)
-543.07   Purchaser of goods on sidewalks or tree lawn. (Repealed)
-543.08   Skateboards, roller blades and roller skates.
-543.09   Use of streets for recreational purposes. (Repealed)
-543.10   Manhole covers; obstructions in sewers.
-543.99   Penalty.
+* [543.01   Cleaning and repairing sidewalks; remedy of Municipality for noncompliance](#54301-Cleaning and repairing sidewalks; remedy of Municipality for noncompliance)
+* [543.02   Removal of ice and snow from sidewalks](#54302-Removal of ice and snow from sidewalks)
+* [543.03   Unloading on streets, sidewalks](#54303-Unloading on streets, sidewalks)
+* [543.04   Materials on streets and sidewalks](#54304-Materials on streets and sidewalks)
+* [543.05   Protecting sidewalks](#54305-Protecting sidewalks)
+* [543.06   Sale of goods and merchandise upon sidewalks or tree lawns](#54306-Sale of goods and merchandise upon sidewalks or tree lawns) (Repealed)
+* [543.07   Purchaser of goods on sidewalks or tree lawn](#54307-Purchaser of goods on sidewalks or tree lawn) (Repealed)
+* [543.08   Skateboards, roller blades and roller skates](#54308-Skateboards, roller blades and roller skates)
+* [543.09   Use of streets for recreational purposes](#54309-Use of streets for recreational purposes) (Repealed)
+* [543.10   Manhole covers; obstructions in sewers](#54310-Manhole covers; obstructions in sewers)
+* [543.99   Penalty](#54399-Penalty)
 
 ## Cross references
 

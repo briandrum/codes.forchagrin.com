@@ -6,14 +6,14 @@ chapter_no: 959
 title: "Chapter 959: Volunteer Senior Citizens Help Line"
 ---
 
-959.01   Creation and staffing.
-959.02   Purpose.
-959.03   Training and duties of  volunteers and supervisors.
-959.04   Records.
-959.05   Contact with seniors.
-959.06   Background checks.
-959.07   Confidentiality.
-959.08   Compensation.
+* [959.01   Creation and staffing](#95901-Creation and staffing)
+* [959.02   Purpose](#95902-Purpose)
+* [959.03   Training and duties of  volunteers and supervisors](#95903-Training and duties of  volunteers and supervisors)
+* [959.04   Records](#95904-Records)
+* [959.05   Contact with seniors](#95905-Contact with seniors)
+* [959.06   Background checks](#95906-Background checks)
+* [959.07   Confidentiality](#95907-Confidentiality)
+* [959.08   Compensation](#95908-Compensation)
 
 ## 959.01   Creation and staffing
 

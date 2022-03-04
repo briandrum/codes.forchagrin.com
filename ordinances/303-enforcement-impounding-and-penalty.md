@@ -6,21 +6,21 @@ chapter_no: 303
 title: "Chapter 303: Enforcement, Impounding and Penalty"
 ---
 
-303.01   Compliance with lawful order of police officer; fleeing.
-303.02   Traffic direction in emergencies; obedience to school guard.
-303.03   Officer may remove ignition key.
-303.04   Road workers, motor vehicles and equipment excepted.
-303.041   Emergency, public safety and coroner’s vehicles exempt.
-303.05   Application to persons riding, driving animals upon roadway.
-303.06   Freeway use prohibited by pedestrians, bicycles and animals.
-303.07   Application to drivers ofgovernment vehicles.
-303.08   Impounding of vehicles;redemption.
-303.081   Impounding vehicles on private residential or agricultural property.
-303.082   Private tow-away zones.
-303.09   Authority of arresting officer using radar.
-303.10   Providing false information to police officer.
-303.99   General Traffic Code penalties.
-303.991   Committing an offense while distracted penalty.
+* [303.01   Compliance with lawful order of police officer; fleeing](#30301-Compliance with lawful order of police officer; fleeing)
+* [303.02   Traffic direction in emergencies; obedience to school guard](#30302-Traffic direction in emergencies; obedience to school guard)
+* [303.03   Officer may remove ignition key](#30303-Officer may remove ignition key)
+* [303.04   Road workers, motor vehicles and equipment excepted](#30304-Road workers, motor vehicles and equipment excepted)
+* [303.041   Emergency, public safety and coroner’s vehicles exempt](#303041-Emergency, public safety and coroner’s vehicles exempt)
+* [303.05   Application to persons riding, driving animals upon roadway](#30305-Application to persons riding, driving animals upon roadway)
+* [303.06   Freeway use prohibited by pedestrians, bicycles and animals](#30306-Freeway use prohibited by pedestrians, bicycles and animals)
+* [303.07   Application to drivers ofgovernment vehicles](#30307-Application to drivers ofgovernment vehicles)
+* [303.08   Impounding of vehicles;redemption](#30308-Impounding of vehicles;redemption)
+* [303.081   Impounding vehicles on private residential or agricultural property](#303081-Impounding vehicles on private residential or agricultural property)
+* [303.082   Private tow-away zones](#303082-Private tow-away zones)
+* [303.09   Authority of arresting officer using radar](#30309-Authority of arresting officer using radar)
+* [303.10   Providing false information to police officer](#30310-Providing false information to police officer)
+* [303.99   General Traffic Code penalties](#30399-General Traffic Code penalties)
+* [303.991   Committing an offense while distracted penalty](#303991-Committing an offense while distracted penalty)
 
 ## Cross references
 

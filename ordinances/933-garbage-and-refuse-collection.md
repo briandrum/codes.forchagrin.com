@@ -6,13 +6,13 @@ chapter_no: 933
 title: "Chapter 933: Garbage and Refuse Collection"
 ---
 
-933.01   Receptacles for refuse.
-933.02   Preparation of refuse. 
-933.03   Location of refuse receptacles.
-933.04   Regulations.
-933.05   Rules.
-933.06   Hours of garbage and refuse collection.
-933.99   Penalty.
+* [933.01   Receptacles for refuse](#93301-Receptacles for refuse)
+* [933.02   Preparation of refuse](#93302-Preparation of refuse)
+* [933.03   Location of refuse receptacles](#93303-Location of refuse receptacles)
+* [933.04   Regulations](#93304-Regulations)
+* [933.05   Rules](#93305-Rules)
+* [933.06   Hours of garbage and refuse collection](#93306-Hours of garbage and refuse collection)
+* [933.99   Penalty](#93399-Penalty)
 
 ## Cross references
 

@@ -10,33 +10,33 @@ title: "Chapter 149: Employment Provisions"
 officials and employees is not codified herein. Interested parties are advised
 to contact the Director of Finance for copies of relevant legislation.)
 
-149.01   Within-range pay adjustments.
-149.02   Clothing allowance for police and fire employees.
-149.03   Police overtime and call-in pay.
-149.04   Scheduled overtime.
-149.05   Police professional liabilityinsurance.
-149.06   Overtime.
-149.061   Compensatory time.
-149.07   Longevity.
-149.08   Jury duty and military pay.
-149.09   Committee meetings.
-149.10   Holidays.
-149.11   Vacations.
-149.12   Sick leave.
-149.13   Travel and other expense allowances.
-149.14   Hospitalization.
-149.15   Payroll Savings Plan.
-149.16   Retirement provisions.
-149.17   Service with prior political subdivision.
-149.18   Funeral leave.
-149.19   Probation.
-149.20   Employee contributions to OPERS AND OP&F.
-149.21   PFDPF pickup. (Repealed)
-149.22   Pre-employment physical.
-149.23   Payment of part-time police officers at construction projects; regulation of part- time employment of police officers.
-149.24   Purchase of grave sites.
-149.25      Prohibited political activity.
-149.26      Deferred compensation plans.
+* [149.01   Within-range pay adjustments](#14901-Within-range pay adjustments)
+* [149.02   Clothing allowance for police and fire employees](#14902-Clothing allowance for police and fire employees)
+* [149.03   Police overtime and call-in pay](#14903-Police overtime and call-in pay)
+* [149.04   Scheduled overtime](#14904-Scheduled overtime)
+* [149.05   Police professional liabilityinsurance](#14905-Police professional liabilityinsurance)
+* [149.06   Overtime](#14906-Overtime)
+* [149.061   Compensatory time](#149061-Compensatory time)
+* [149.07   Longevity](#14907-Longevity)
+* [149.08   Jury duty and military pay](#14908-Jury duty and military pay)
+* [149.09   Committee meetings](#14909-Committee meetings)
+* [149.10   Holidays](#14910-Holidays)
+* [149.11   Vacations](#14911-Vacations)
+* [149.12   Sick leave](#14912-Sick leave)
+* [149.13   Travel and other expense allowances](#14913-Travel and other expense allowances)
+* [149.14   Hospitalization](#14914-Hospitalization)
+* [149.15   Payroll Savings Plan](#14915-Payroll Savings Plan)
+* [149.16   Retirement provisions](#14916-Retirement provisions)
+* [149.17   Service with prior political subdivision](#14917-Service with prior political subdivision)
+* [149.18   Funeral leave](#14918-Funeral leave)
+* [149.19   Probation](#14919-Probation)
+* [149.20   Employee contributions to OPERS AND OP&F](#14920-Employee contributions to OPERS AND OP&F)
+* [149.21   PFDPF pickup](#14921-PFDPF pickup) (Repealed)
+* [149.22   Pre-employment physical](#14922-Pre-employment physical)
+* [149.23   Payment of part-time police officers at construction projects; regulation of part- time employment of police officers](#14923-Payment of part-time police officers at construction projects; regulation of part- time employment of police officers)
+* [149.24   Purchase of grave sites](#14924-Purchase of grave sites)
+* [149.25   Prohibited political activity](#14925-Prohibited political activity)
+* [149.26   Deferred compensation plans](#14926-Deferred compensation plans)
 
 ## Cross references
 

@@ -6,16 +6,16 @@ chapter_no: 1353
 title: "Chapter 1353: Flood Damage Prevention"
 ---
 
-1353.01   Statutory authorization; findings of fact; purpose and objectives.
-1353.02   Definitions.
-1353.03   General provisions.
-1353.04   Administration.
-1353.05   Variance procedure.
-1353.06   Provisions for flood hazard reduction.
-1353.07   Floodways.
-1353.08   Establishment of buffer area.
-1353.09   FEMA letters for map revisions and amendments.
-1353.99   Violations and penalties.
+* [1353.01   Statutory authorization; findings of fact; purpose and objectives](#135301-Statutory authorization; findings of fact; purpose and objectives)
+* [1353.02   Definitions](#135302-Definitions)
+* [1353.03   General provisions](#135303-General provisions)
+* [1353.04   Administration](#135304-Administration)
+* [1353.05   Variance procedure](#135305-Variance procedure)
+* [1353.06   Provisions for flood hazard reduction](#135306-Provisions for flood hazard reduction)
+* [1353.07   Floodways](#135307-Floodways)
+* [1353.08   Establishment of buffer area](#135308-Establishment of buffer area)
+* [1353.09   FEMA letters for map revisions and amendments](#135309-FEMA letters for map revisions and amendments)
+* [1353.99   Violations and penalties](#135399-Violations and penalties)
 
 ## Cross references
 

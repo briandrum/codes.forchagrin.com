@@ -6,23 +6,23 @@ chapter_no: 521
 title: "Chapter 521: Health, Safety and Sanitation"
 ---
 
-521.01   Abandoned refrigerators and airtight containers.
-521.02   Venting of heaters and burners.
-521.03   Barricades and warning lights; abandoned excavations.
-521.04   Interference with waterworks system; pollution.
-521.05   Notice to fill lots, remove putrid substances.
-521.06   Disposal of solid wastes.
-521.07   Fences. (Repealed)
-521.08   Littering and deposit of garbage,rubbish, junk, etc.
-521.09   Noxious or offensive odors.
-521.10   Garbage or refuse outside eatingestablishments.
-521.11   Junk and junk vehicles.
-521.12   Rat control.
-521.13   Accumulations as fire hazards.
-521.14   Storage and keeping of manure.
-521.15   Swimming in Chagrin River.
-521.16   Scavenging prohibited; exception.
-521.99   Penalty.
+* [521.01   Abandoned refrigerators and airtight containers](#52101-Abandoned refrigerators and airtight containers)
+* [521.02   Venting of heaters and burners](#52102-Venting of heaters and burners)
+* [521.03   Barricades and warning lights; abandoned excavations](#52103-Barricades and warning lights; abandoned excavations)
+* [521.04   Interference with waterworks system; pollution](#52104-Interference with waterworks system; pollution)
+* [521.05   Notice to fill lots, remove putrid substances](#52105-Notice to fill lots, remove putrid substances)
+* [521.06   Disposal of solid wastes](#52106-Disposal of solid wastes)
+* [521.07   Fences](#52107-Fences) (Repealed)
+* [521.08   Littering and deposit of garbage,rubbish, junk, etc](#52108-Littering and deposit of garbage,rubbish, junk, etc)
+* [521.09   Noxious or offensive odors](#52109-Noxious or offensive odors)
+* [521.10   Garbage or refuse outside eatingestablishments](#52110-Garbage or refuse outside eatingestablishments)
+* [521.11   Junk and junk vehicles](#52111-Junk and junk vehicles)
+* [521.12   Rat control](#52112-Rat control)
+* [521.13   Accumulations as fire hazards](#52113-Accumulations as fire hazards)
+* [521.14   Storage and keeping of manure](#52114-Storage and keeping of manure)
+* [521.15   Swimming in Chagrin River](#52115-Swimming in Chagrin River)
+* [521.16   Scavenging prohibited; exception](#52116-Scavenging prohibited; exception)
+* [521.99   Penalty](#52199-Penalty)
 
 ## Cross references
 

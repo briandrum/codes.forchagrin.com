@@ -6,13 +6,13 @@ chapter_no: 751
 title: "Chapter 751: Topsoil Removal"
 ---
 
-751.01   Removal in residence areas; restoration.
-751.02   Issuance of permit.
-751.03   Application for permit; fee.
-751.04   Bond required.
-751.05   Natural drainage altered; regrading; reseeding.
-751.06   Hours for work; leaking loads.
-751.99   Penalty.
+* [751.01   Removal in residence areas; restoration](#75101-Removal in residence areas; restoration)
+* [751.02   Issuance of permit](#75102-Issuance of permit)
+* [751.03   Application for permit; fee](#75103-Application for permit; fee)
+* [751.04   Bond required](#75104-Bond required)
+* [751.05   Natural drainage altered; regrading; reseeding](#75105-Natural drainage altered; regrading; reseeding)
+* [751.06   Hours for work; leaking loads](#75106-Hours for work; leaking loads)
+* [751.99   Penalty](#75199-Penalty)
 
 ## Cross references
 

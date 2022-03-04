@@ -6,20 +6,20 @@ chapter_no: 1503
 title: "Chapter 1503: Local Provisions"
 ---
 
-1503.01   Outdoor fires.
-1503.02   Fire lanes.
-1503.03   Fire inspections: compliance required.
-1503.04   Fire hydrants.
-1503.05   No Smoking - engine turned off while gasoline being dispensed.
-1503.06   Fire-damaged structures; removal or repair securing fund.
-1503.07   UL 217 approved smoke alarms; installation required.
-1503.071   Central station monitored fire alarm system requirement.
-1503.08   Fire alarm systems.
-1503.09   Water-based fire protection systems.
-1503.10   Standpipes and Fire  Department connections.
-1503.11   Key boxes.
-1503.12   Inspection required prior to occupancy.
-1503.99   Penalty.
+* [1503.01   Outdoor fires](#150301-Outdoor fires)
+* [1503.02   Fire lanes](#150302-Fire lanes)
+* [1503.03   Fire inspections: compliance required](#150303-Fire inspections: compliance required)
+* [1503.04   Fire hydrants](#150304-Fire hydrants)
+* [1503.05   No Smoking - engine turned off while gasoline being dispensed](#150305-No Smoking - engine turned off while gasoline being dispensed)
+* [1503.06   Fire-damaged structures; removal or repair securing fund](#150306-Fire-damaged structures; removal or repair securing fund)
+* [1503.07   UL 217 approved smoke alarms; installation required](#150307-UL 217 approved smoke alarms; installation required)
+* [1503.071   Central station monitored fire alarm system requirement](#1503071-Central station monitored fire alarm system requirement)
+* [1503.08   Fire alarm systems](#150308-Fire alarm systems)
+* [1503.09   Water-based fire protection systems](#150309-Water-based fire protection systems)
+* [1503.10   Standpipes and Fire  Department connections](#150310-Standpipes and Fire  Department connections)
+* [1503.11   Key boxes](#150311-Key boxes)
+* [1503.12   Inspection required prior to occupancy](#150312-Inspection required prior to occupancy)
+* [1503.99   Penalty](#150399-Penalty)
 
 ## Cross references
 
