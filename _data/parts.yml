@@ -95,6 +95,10 @@
       name: "Supplemental Zoning Standards"
       number: 5
       number_word: "Five"
+    - 
+      name: "Subdivision Control"
+      number: 7
+      number_word: "Seven"
 - 
   name: "Building Code"
   number: 13

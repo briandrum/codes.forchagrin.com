@@ -80,119 +80,119 @@ six percent (6%) or greater.
 
 ## 1161.03   Definitions
 
-   (1)   Interpretations of Terms or Words. For the purpose of these
+1. _(1)_ Interpretations of Terms or Words. For the purpose of these
 Regulations, certain words or terms used herein shall be interpreted as
 follows:
-      A.   "Persons" includes a firm, association, organization, partnership,
+    1. _(A)_ "Persons" includes a firm, association, organization, partnership,
 trust, company or corporation as well as an individual.
-      B.   The present tense includes the future tense, the singular number
+    2. _(B)_ The present tense includes the future tense, the singular number
 includes the plural and the plural number includes the singular.
-      C.   "Shall" is a mandatory requirement, "may" is a permissive
+    3. _(C)_ "Shall" is a mandatory requirement, "may" is a permissive
 requirement and "should" is a preferred requirement.
-   (2)   "Abutting property" means physically touching or bordering on; sharing
+2. _(2)_ "Abutting property" means physically touching or bordering on; sharing
 a common property line.
-   (3)   "Alley" means a minor street used primarily for vehicular service
+3. _(3)_ "Alley" means a minor street used primarily for vehicular service
 access to the back or side of properties abutting on another street.
-   (4)   "Applicant" means the owner of land proposed to be subdivided or his
+4. _(4)_ "Applicant" means the owner of land proposed to be subdivided or his
 representative. Used synonymously with subdivider, developer and owner.
-   (5)   "Arterial street" means a highway primarily for through traffic
+5. _(5)_ "Arterial street" means a highway primarily for through traffic
 carrying heavy loads and large traffic volumes usually on a continuous route.
-   (6)   "Block" means a tract of land bounded by streets or by a combination
+6. _(6)_ "Block" means a tract of land bounded by streets or by a combination
 of streets and public parks, cemeteries, railroad rights of way, shorelines of
 waterways or boundary lines of municipalities.
-   (7)   "Building line" means a line established by the township zoning
+7. _(7)_ "Building line" means a line established by the township zoning
 resolution, generally parallel with and measured from the street right of way
 edge, defining the limits of a yard in which no building may be located.
-   (8)   "Collector street" means a thoroughfare, whether within a residential,
+8. _(8)_ "Collector street" means a thoroughfare, whether within a residential,
 commercial or other type of development, which primarily carries traffic from
 local streets to arterial streets, including the principal entrance and
 circulation routes within residential subdivisions.
-   (9)   "County Recorder" means the Cuyahoga County Recorder.
-   (10)   "County Sanitary Engineer" means the Cuyahoga County Sanitary
+11. _(11)_ "County Recorder" means the Cuyahoga County Recorder.
+10. _(10)_ "County Sanitary Engineer" means the Cuyahoga County Sanitary
 Engineer.
-   (11)   "Cul-de-sac" means a local street of relatively short length with one
+11. _(11)_ "Cul-de-sac" means a local street of relatively short length with one
 end open to traffic and the other end terminating in a vehicular turnaround.
-   (12)   "Culvert" means a transverse enclosed drain that channels under a
+12. _(12)_ "Culvert" means a transverse enclosed drain that channels under a
 bridge, street or driveway or other man-made obstruction.
-   (13)   "Dead-end street" means a street temporarily having only one outlet
+13. _(13)_ "Dead-end street" means a street temporarily having only one outlet
 for vehicular traffic and intended to be extended or continued in the future.
-   (14)   "Density" means a unit of measurement; the number of dwelling units
+14. _(14)_ "Density" means a unit of measurement; the number of dwelling units
 per acre of land.
-   (15)   "Developer". See "Applicant".
-   (16)   "Double frontage lot". See "Through lot".
-   (17)   "Easement" means authorization by a property owner for the use by
+15. _(15)_ "Developer". See "Applicant".
+16. _(16)_ "Double frontage lot". See "Through lot".
+17. _(17)_ "Easement" means authorization by a property owner for the use by
 another, and for a specified purpose, of any designated part of his property.
-   (18)   "Engineer" means a person registered to practice professional
+18. _(18)_ "Engineer" means a person registered to practice professional
 engineering by the State Board of Registration as specified in Ohio R.C.
 4733.14.
-   (19)   "Final plat" means the drawing on which the applicant’s plan of
+19. _(19)_ "Final plat" means the drawing on which the applicant’s plan of
 subdivision is presented to the Planning and Zoning Commission for approval.
-   (20)   "Halfstreet" means a street where one side is improved and developed
+20. _(20)_ "Halfstreet" means a street where one side is improved and developed
 while leaving the other side vacant, unimproved and undeveloped due to space
 limitations or topography in the subdivision.
-   (21)   "Improvements" means any drainage ditch, sewer, water line, roadway,
+21. _(21)_ "Improvements" means any drainage ditch, sewer, water line, roadway,
 parkway, sidewalk, pedestrianway, tree lawn, off-street parking area or other
 facility for which the local government may ultimately assume the
 responsibility for maintenance and operation.
-   (22)   "Improvement plans" means the maps or drawings showing the specific
+22. _(22)_ "Improvement plans" means the maps or drawings showing the specific
 location and design of improvements to be installed in the subdivision in
 accordance with the requirements specified in these Regulations.
-   (23)   "Local street" means a street primarily for providing access to
+23. _(23)_ "Local street" means a street primarily for providing access to
 residential, commercial or other abutting property.
-   (24)   "Location map." See "Vicinity map".
-   (25)   "Lot split." See "Minor subdivision".
-   (26)   "Marginal access street" means a local or collector street, parallel
+24. _(24)_ "Location map." See "Vicinity map".
+25. _(25)_ "Lot split." See "Minor subdivision".
+26. _(26)_ "Marginal access street" means a local or collector street, parallel
 and adjacent to an arterial or collector street, providing access to abutting
 properties from arterial or collector streets.
-   (27)   "Minor subdivision" (also known as a "lot split") means a parcel of
+27. _(27)_ "Minor subdivision" (also known as a "lot split") means a parcel of
 land along an existing public street, not involving the opening, widening or
 extension of any street or road and involving no more than five lots after the
 original tract has been completely subdivided.
-   (28)   "Monuments" means permanent concrete, stone or iron markers used to
+28. _(28)_ "Monuments" means permanent concrete, stone or iron markers used to
 establish definitely all lines of the plat of a subdivision, including all lot
 corners, boundary lines, corners and points of change in street alignment.
-   (29)   "Open space" means an area open to the sky which may be on the same
+29. _(29)_ "Open space" means an area open to the sky which may be on the same
 lot with a building. The area may include, along with the natural
 environmental features, swimming pools, tennis courts and any other
 recreational facilities that the Planning and Zoning Commission deems
 permissive. Streets, structures for habitation and the like shall not be
 included.
-   (30)   "Pad" means a building site prepared by artificial means, including
+30. _(30)_ "Pad" means a building site prepared by artificial means, including
 but not limited to, grading, excavating or filling, or any combination thereof.
-   (31)   "Parking space, off-street" means an area adequate for parking an
+31. _(31)_ "Parking space, off-street" means an area adequate for parking an
 automobile with room for opening doors on both sides, together with properly
 related access to a public street or alley and maneuvering room, but shall be
 located totally outside of any street or alley right of way.
-   (32)   "Performance bond" or "surety bond" means an agreement by the
+32. _(32)_ "Performance bond" or "surety bond" means an agreement by the
 subdivider with the County for the amount of the estimated construction cost
 guaranteeing the completion of physical improvements required by these
 Regulations.
-   (33)   "Plat" means the map, drawing or chart on which the developer’s plan
+33. _(33)_ "Plat" means the map, drawing or chart on which the developer’s plan
 of subdivision (preliminary) is presented to the Planning and Zoning Commission
 for approval and, after such approval, to the County Recorder (final) for
 recording.
-   (34)   "Public way" means an alley, avenue, boulevard, bridge, channel,
+34. _(34)_ "Public way" means an alley, avenue, boulevard, bridge, channel,
 ditch, easement, expressway, freeway, highway, land, parkway, right of way,
 road, sidewalk, street, subway, tunnel, viaduct, walk or other ways in which
 the general public or a public entity have a right, or which are dedicated,
 whether improved or not.
-   (35)   "Right of way" means a strip of land taken or dedicated for use as a
+35. _(35)_ "Right of way" means a strip of land taken or dedicated for use as a
 public way. In addition to the roadway, it normally incorporates the curbs,
 lawn strips, sidewalks, lighting and  drainage  facilities, and may include
 special features (required by the topography or treatment) such as grade
 separation, landscaped areas, viaducts and bridges.
-   (36)   "Setback line" means a line established by the Subdivision
+36. _(36)_ "Setback line" means a line established by the Subdivision
 Regulations and/or Zoning Ordinance (Resolution), generally parallel with and
 measured from he lot line, defining the limits of a yard in which no building,
 other than accessory building or structure may be located above ground, except
 as may be provided in such codes. (See "Yards.")
-   (37)   "Sewers, central or group" means an approved sewage disposal system
+37. _(37)_ "Sewers, central or group" means an approved sewage disposal system
 which provides a collection network and disposal system and central sewage
 treatment facility for a single development, community or region.
-   (38)   "Sidewalk" means that portion of the road right of way outside the
+38. _(38)_ "Sidewalk" means that portion of the road right of way outside the
 roadway, which is improved for the use of pedestrian traffic. (See "Walkway".)
-   (39)   "Subdivider". See "Applicant."
-   (40)   "Subdivision 1" means the division of any parcel of land shown as a
+39. _(39)_ "Subdivider". See "Applicant."
+40. _(40)_ "Subdivision 1" means the division of any parcel of land shown as a
 unit or as contiguous units on the last preceding tax roll, into two or more
 parcels, sites or lots any one of which is less than five acres for the
 purpose, whether immediate or future, of transfer of ownership, provided,
@@ -200,7 +200,7 @@ however, that the division or partitioning of land into parcels of more than
 five acres not involving any new streets or easements of access, and the sale
 or exchange of parcels between adjoining lot owners, where such sale or
 exchange does not create additional building sites, shall be exempted; or
-   (41)   "Subdivision 2" means the improvement of one or more parcels of land
+41. _(41)_ "Subdivision 2" means the improvement of one or more parcels of land
 from residential, commercial or industrial structures or groups of structures
 involving the division or allocation of land for the opening, widening or
 extension of any street or streets except private streets serving industrial
@@ -208,29 +208,29 @@ structures, the division or allocation of land as open spaces for common use by
 owners, occupants or lease holders, or as easements for the extension and
 maintenance of public sewer, water, storm drainage or other public facilities. 
 See "Minor subdivision".
-   (42)   "Sublots" means the parcels of land which result from the subdivision
+42. _(42)_ "Sublots" means the parcels of land which result from the subdivision
 process on a plat intended for future private use. Sublots on recorded plats
 are assigned permanent parcel numbers by the County Recorder.
-   (43)   "Surveyor" means any person registered to practice surveying in the
+43. _(43)_ "Surveyor" means any person registered to practice surveying in the
 State.
-   (44)   "Thoroughfare, street or road" means the full width between property
+44. _(44)_ "Thoroughfare, street or road" means the full width between property
 lines bounding every public way of whatever nature, with a part thereof to be
 used for vehicular traffic.
-   (45)   "Through lot" means a lot other than a corner lot with frontage on
+45. _(45)_ "Through lot" means a lot other than a corner lot with frontage on
 more than one street. Through lots abutting two streets may be referred to as
 double front lots.
-   (46)   "Tract" means the entire land area proposed for subdivision by the
+46. _(46)_ "Tract" means the entire land area proposed for subdivision by the
 applicant.
-   (47)   "Uniform Design Standards" means a set of standards for sewerage
+47. _(47)_ "Uniform Design Standards" means a set of standards for sewerage
 improvements adopted by the Village Engineer and Administrator, among others.
-   (48)   "Vicinity map" means a drawing located on the plat which sets forth
+48. _(48)_ "Vicinity map" means a drawing located on the plat which sets forth
 by dimensions or other means the relationship of the proposed subdivision or
 use to other nearby developments or landmarks and community facilities and
 services within Cuyahoga County in order to better locate and orient the area
 in question.
-   (49)   "Walkway" means a dedicated public way, five feet or more in width,
+49. _(49)_ "Walkway" means a dedicated public way, five feet or more in width,
 for pedestrian use only, whether along the side of a road or not.
-   (50)   "Watershed" means the drainage basin in which the subdivision drains
+50. _(50)_ "Watershed" means the drainage basin in which the subdivision drains
 or that land whose drainage is affected by the subdivision.  
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
@@ -565,7 +565,8 @@ of the layout of the subdivision with the development of adjacent tracts. 
 Dead-end streets or cul-de-sacs shall be approved only when necessitated by
 topography or other physical conditions or where they are appropriate for the
 type of development contemplated.
-         Parallel streets may be required along an existing or proposed major
+
+Parallel streets may be required along an existing or proposed major
 arterial thoroughfare to provide access to lots along such major arterial
 thoroughfares.
     3. _(3)_ Street right-of-way widths and grades.
@@ -585,7 +586,8 @@ cul-de-sacs shall not be longer than 750 feet and shall be provided at the
 closed end with a turnaround having an outside pavement radius of at least 37.5
 feet and a street right-of-way line radius of at least 62.5 feet with a paving
 diameter of ninety feet.
-         If a cul-de-sac is of a temporary nature and a future extension into
+
+If a cul-de-sac is of a temporary nature and a future extension into
 adjacent land is anticipated, then such turning circle beyond the normal street
 width shall be in the nature of an easement. Such easements shall be
 automatically vacated to abutting property owners when the dead-end street is
@@ -1046,7 +1048,7 @@ revisions and resubmit the plans to the Administrator.
 requirements of the Subdivision Regulations and submit reworked plans to the
 Administrator.
 3. _(c)_ Before Initial Construction Work and Before Final Plat:
-      Applicant shall provide:
+Applicant shall provide:
     1. _(1)_ A guarantee of installation of improvements to equal ten percent
 (10%) of the total cost of the street improvements and/or
     2. _(2)_ A financial guarantee with a surety or certified check for the

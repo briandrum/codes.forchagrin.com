@@ -426,10 +426,10 @@ notice, or project approval, if an Individual Permit is required for the
 development project. If an Individual Permit is not required, the site owner
 shall submit proof of compliance with the U.S. Army Corps of Engineer’s
 Nationwide Permit Program. This shall include one of the following:
-      A.   A letter from the site owner certifying that a qualified
+    1. _(A)_ A letter from the site owner certifying that a qualified
 professional has evaluated the site and determined that Section 404 of the
 Clean Water Act is not applicable, and provide documentation.
-      B.   A site plan showing that any proposed fill of waters of the United
+    2. _(B)_ A site plan showing that any proposed fill of waters of the United
 States conforms to the general and special conditions specified in the
 applicable Nationwide Permit. Wetlands, and other waters of the United States,
 shall be delineated by protocols accepted by the U.S. Army Corps of Engineers
