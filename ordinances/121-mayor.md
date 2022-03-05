@@ -6,8 +6,8 @@ chapter_no: 121
 title: "Chapter 121: Mayor"
 ---
 
-* [121.01   Expense account](#12101-Expense account) (Repealed)
-* [121.02   Mayor’s authority to purchase](#12102-Mayor’s authority to purchase)
+* [121.01   Expense account](#12101-expense-account) (Repealed)
+* [121.02   Mayor’s authority to purchase](#12102-mayor’s authority to purchase)
 
 ## Cross references
 

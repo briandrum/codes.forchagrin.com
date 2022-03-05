@@ -6,13 +6,13 @@ chapter_no: 951
 title: "Chapter 951: Parks"
 ---
 
-* [951.01   Prohibited hours in public property](#95101-Prohibited hours in public property)
-* [951.02   Protection of park property, public buildings and structures](#95102-Protection of park property, public buildings and structures)
-* [951.03   Refuse and trash](#95103-Refuse and trash)
-* [951.04   Protection of wildlife and natural features](#95104-Protection of wildlife and natural features)
-* [951.05   Intoxicating beverages](#95105-Intoxicating beverages)
-* [951.06   Newspaper distribution in Riverside Park](#95106-Newspaper distribution in Riverside Park)
-* [951.99   Penalty](#95199-Penalty)
+* [951.01   Prohibited hours in public property](#95101-prohibited-hours-in-public-property)
+* [951.02   Protection of park property, public buildings and structures](#95102-protection-of-park-property-public-buildings-and-structures)
+* [951.03   Refuse and trash](#95103-refuse-and-trash)
+* [951.04   Protection of wildlife and natural features](#95104-protection-of-wildlife-and-natural-features)
+* [951.05   Intoxicating beverages](#95105-intoxicating-beverages)
+* [951.06   Newspaper distribution in Riverside Park](#95106-newspaper-distribution-in-riverside-park)
+* [951.99   Penalty](#95199-penalty)
 
 ## Cross references
 

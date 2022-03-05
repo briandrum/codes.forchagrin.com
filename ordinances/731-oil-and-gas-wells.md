@@ -6,16 +6,16 @@ chapter_no: 731
 title: "Chapter 731: Oil and Gas Wells"
 ---
 
-* [731.01   Objectives](#73101-Objectives)
-* [731.02   Application requirements; review and permit procedures](#73102-Application requirements; review and permit procedures)
-* [731.03   Development standards](#73103-Development standards)
-* [731.04   Operational standards](#73104-Operational standards)
-* [731.05   Future development adjacent to well and storage sites](#73105-Future development adjacent to well and storage sites)
-* [731.06   Administration](#73106-Administration)
-* [731.07   State regulations incorporated by reference](#73107-State regulations incorporated by reference)
-* [731.08   Definitions](#73108-Definitions)
-* [731.09   Variance from development standards](#73109-Variance from development standards)
-* [731.99   Penalty](#73199-Penalty)
+* [731.01   Objectives](#73101-objectives)
+* [731.02   Application requirements; review and permit procedures](#73102-application-requirements-review-and-permit-procedures)
+* [731.03   Development standards](#73103-development-standards)
+* [731.04   Operational standards](#73104-operational-standards)
+* [731.05   Future development adjacent to well and storage sites](#73105-future-development-adjacent-to-well-and-storage-sites)
+* [731.06   Administration](#73106-administration)
+* [731.07   State regulations incorporated by reference](#73107-state-regulations-incorporated-by-reference)
+* [731.08   Definitions](#73108-definitions)
+* [731.09   Variance from development standards](#73109-variance-from-development-standards)
+* [731.99   Penalty](#73199-penalty)
 
 ## Cross references
 

@@ -6,22 +6,22 @@ chapter_no: 1355
 title: "Chapter 1355: Erosion and Sediment Control"
 ---
 
-* [1355.01   Purpose and scope](#135501-Purpose and scope)
-* [1355.02   Definitions](#135502-Definitions)
-* [1355.03   Disclaimer of liability](#135503-Disclaimer of liability)
-* [1355.04   Conflicts, severability, nuisances and responsibility](#135504-Conflicts, severability, nuisances and responsibility)
-* [1355.05   Development of stormwater pollution prevention plans](#135505-Development of stormwater pollution prevention plans)
-* [1355.06   Application procedures](#135506-Application procedures)
-* [1355.07   Compliance with State and federal regulations](#135507-Compliance with State and federal regulations)
-* [1355.08   SWP3](#135508-SWP3)
-* [1355.09   Performance standards](#135509-Performance standards)
-* [1355.10   Abbreviated SWP3](#135510-Abbreviated SWP3)
-* [1355.11   Fees](#135511-Fees)
-* [1355.12   Bond](#135512-Bond)
-* [1355.13   Enforcement](#135513-Enforcement)
-* [1355.14   Violations](#135514-Violations)
-* [1355.15   Appeals](#135515-Appeals)
-* [1355.99   Violations and penalties](#135599-Violations and penalties)
+* [1355.01   Purpose and scope](#135501-purpose-and-scope)
+* [1355.02   Definitions](#135502-definitions)
+* [1355.03   Disclaimer of liability](#135503-disclaimer-of-liability)
+* [1355.04   Conflicts, severability, nuisances and responsibility](#135504-conflicts-severability-nuisances-and-responsibility)
+* [1355.05   Development of stormwater pollution prevention plans](#135505-development-of-stormwater-pollution-prevention-plans)
+* [1355.06   Application procedures](#135506-application-procedures)
+* [1355.07   Compliance with State and federal regulations](#135507-compliance-with-state-and-federal-regulations)
+* [1355.08   SWP3](#135508-swp3)
+* [1355.09   Performance standards](#135509-performance-standards)
+* [1355.10   Abbreviated SWP3](#135510-abbreviated-swp3)
+* [1355.11   Fees](#135511-fees)
+* [1355.12   Bond](#135512-bond)
+* [1355.13   Enforcement](#135513-enforcement)
+* [1355.14   Violations](#135514-violations)
+* [1355.15   Appeals](#135515-appeals)
+* [1355.99   Violations and penalties](#135599-violations-and-penalties)
 
 ## Cross references
 

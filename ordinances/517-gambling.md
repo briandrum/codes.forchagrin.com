@@ -6,22 +6,22 @@ chapter_no: 517
 title: "Chapter 517: Gambling"
 ---
 
-* [517.01   Definitions](#51701-Definitions)
-* [517.02   Gambling](#51702-Gambling)
-* [517.03   Operating a gambling house](#51703-Operating a gambling house)
-* [517.04   Public gaming](#51704-Public gaming)
-* [517.05   Cheating](#51705-Cheating)
-* [517.06   Methods of conducting a bingo game; prohibitions](#51706-Methods of conducting a bingo game; prohibitions)
-* [517.07   Instant bingo conduct](#51707-Instant bingo conduct)
-* [517.08   Raffles](#51708-Raffles)
-* [517.09   Charitable instant bingo organizations](#51709-Charitable instant bingo organizations)
-* [517.10   Location of instant bingo](#51710-Location of instant bingo)
-* [517.11   Bingo or game of chance records](#51711-Bingo or game of chance records)
-* [517.12   Bingo operator prohibitions](#51712-Bingo operator prohibitions)
-* [517.13   Bingo exceptions](#51713-Bingo exceptions)
-* [517.14   Instant bingo conduct by a veteran’s or fraternal organization](#51714-Instant bingo conduct by a veteran’s or fraternal organization)
-* [517.15   Skill-based amusement machines](#51715-Skill-based amusement machines)
-* [517.99   Penalty](#51799-Penalty)
+* [517.01   Definitions](#51701-definitions)
+* [517.02   Gambling](#51702-gambling)
+* [517.03   Operating a gambling house](#51703-operating-a-gambling-house)
+* [517.04   Public gaming](#51704-public-gaming)
+* [517.05   Cheating](#51705-cheating)
+* [517.06   Methods of conducting a bingo game; prohibitions](#51706-methods-of-conducting-a-bingo-game-prohibitions)
+* [517.07   Instant bingo conduct](#51707-instant-bingo-conduct)
+* [517.08   Raffles](#51708-raffles)
+* [517.09   Charitable instant bingo organizations](#51709-charitable-instant-bingo-organizations)
+* [517.10   Location of instant bingo](#51710-location-of-instant-bingo)
+* [517.11   Bingo or game of chance records](#51711-bingo-or-game-of-chance-records)
+* [517.12   Bingo operator prohibitions](#51712-bingo-operator-prohibitions)
+* [517.13   Bingo exceptions](#51713-bingo-exceptions)
+* [517.14   Instant bingo conduct by a veteran’s or fraternal organization](#51714-instant-bingo-conduct-by-a-veterans-or-fraternal-organization)
+* [517.15   Skill-based amusement machines](#51715-skill-based-amusement-machines)
+* [517.99   Penalty](#51799-penalty)
 
 ## Cross references
 

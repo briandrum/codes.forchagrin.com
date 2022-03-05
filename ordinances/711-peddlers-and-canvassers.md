@@ -6,16 +6,16 @@ chapter_no: 711
 title: "Chapter 711: Peddlers and Canvassers"
 ---
 
-* [711.01   Purpose](#71101-Purpose)
-* [711.02   Definitions](#71102-Definitions)
-* [711.03   License required, exceptions](#71103-License required, exceptions)
-* [711.04   Application for license](#71104-Application for license)
-* [711.05   Issuance of license; duration](#71105-Issuance of license; duration)
-* [711.06   Restrictions](#71106-Restrictions)
-* [711.07   Revocation of license](#71107-Revocation of license)
-* [711.08   Appeal procedure](#71108-Appeal procedure)
-* [711.09   Falsification; misrepresentation](#71109-Falsification; misrepresentation)
-* [711.99   Penalty](#71199-Penalty)
+* [711.01   Purpose](#71101-purpose)
+* [711.02   Definitions](#71102-definitions)
+* [711.03   License required, exceptions](#71103-license-required-exceptions)
+* [711.04   Application for license](#71104-application-for-license)
+* [711.05   Issuance of license; duration](#71105-issuance-of-license-duration)
+* [711.06   Restrictions](#71106-restrictions)
+* [711.07   Revocation of license](#71107-revocation-of-license)
+* [711.08   Appeal procedure](#71108-appeal-procedure)
+* [711.09   Falsification; misrepresentation](#71109-falsification-misrepresentation)
+* [711.99   Penalty](#71199-penalty)
 
 ## Cross references
 

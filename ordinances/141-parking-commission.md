@@ -6,12 +6,12 @@ chapter_no: 141
 title: "Chapter 141: Parking Commission"
 ---
 
-* [141.01   Creation](#14101-Creation)
-* [141.02   Term](#14102-Term)
-* [141.03   Compensation](#14103-Compensation)
-* [141.04   Authority](#14104-Authority)
-* [141.05   Organization](#14105-Organization)
-* [141.06   Referral](#14106-Referral)
+* [141.01   Creation](#14101-creation)
+* [141.02   Term](#14102-term)
+* [141.03   Compensation](#14103-compensation)
+* [141.04   Authority](#14104-authority)
+* [141.05   Organization](#14105-organization)
+* [141.06   Referral](#14106-referral)
 
 ## Cross references
 

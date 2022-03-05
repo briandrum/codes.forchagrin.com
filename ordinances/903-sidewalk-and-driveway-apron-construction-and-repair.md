@@ -6,11 +6,11 @@ chapter_no: 903
 title: "Chapter 903: Sidewalk and Driveway Apron Construction and Repair"
 ---
 
-* [903.01   Sidewalks required](#90301-Sidewalks required)
-* [903.02   Construction specifications](#90302-Construction specifications)
-* [903.03   Noncompliance with requirements](#90303-Noncompliance with requirements)
-* [903.04   Permit required](#90304-Permit required)
-* [903.99   Penalty](#90399-Penalty)
+* [903.01   Sidewalks required](#90301-sidewalks-required)
+* [903.02   Construction specifications](#90302-construction-specifications)
+* [903.03   Noncompliance with requirements](#90303-noncompliance-with-requirements)
+* [903.04   Permit required](#90304-permit-required)
+* [903.99   Penalty](#90399-penalty)
 
 ## Cross references
 

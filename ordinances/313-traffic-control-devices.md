@@ -6,17 +6,17 @@ chapter_no: 313
 title: "Chapter 313: Traffic Control Devices"
 ---
 
-* [313.01   Obedience to traffic control devices](#31301-Obedience to traffic control devices)
-* [313.02   Through streets; stop and yield right-of-way signs](#31302-Through streets; stop and yield right-of-way signs)
-* [313.03   Traffic signal indications](#31303-Traffic signal indications)
-* [313.04   Lane-use control signal indications](#31304-Lane-use control signal indications)
-* [313.05   Special pedestrian control signals](#31305-Special pedestrian control signals)
-* [313.06   Flashing traffic signals](#31306-Flashing traffic signals) (Repealed)
-* [313.07   Unauthorized signs andsignals, hiding from view,advertising](#31307-Unauthorized signs andsignals, hiding from view,advertising)
-* [313.08   Alteration, injury, removal  of traffic control devices](#31308-Alteration, injury, removal  of traffic control devices)
-* [313.09   Driver’s duties uponapproaching ambiguous ornon-working traffic signal](#31309-Driver’s duties uponapproaching ambiguous ornon-working traffic signal)
-* [313.10   Unlawful purchase,possession or sale](#31310-Unlawful purchase,possession or sale)
-* [313.11   Portable signal preemption devices prohibited](#31311-Portable signal preemption devices prohibited)
+* [313.01   Obedience to traffic control devices](#31301-obedience-to-traffic-control-devices)
+* [313.02   Through streets; stop and yield right-of-way signs](#31302-through-streets-stop-and-yield-right-of-way-signs)
+* [313.03   Traffic signal indications](#31303-traffic-signal-indications)
+* [313.04   Lane-use control signal indications](#31304-lane-use-control-signal-indications)
+* [313.05   Special pedestrian control signals](#31305-special-pedestrian-control-signals)
+* [313.06   Flashing traffic signals](#31306-flashing-traffic-signals) (Repealed)
+* [313.07   Unauthorized signs andsignals, hiding from view,advertising](#31307-unauthorized-signs-andsignals-hiding-from-view-advertising)
+* [313.08   Alteration, injury, removal  of traffic control devices](#31308-alteration-injury-removal-of-traffic-control-devices)
+* [313.09   Driver’s duties uponapproaching ambiguous or non-working traffic signal](#31309-drivers-duties-uponapproaching-ambiguous-or-non-working-traffic-signal)
+* [313.10   Unlawful purchase,possession or sale](#31310-unlawful-purchase-possession-or-sale)
+* [313.11   Portable signal preemption devices prohibited](#31311-portable-signal-preemption-devices-prohibited)
 
 ## Cross references
 
@@ -340,7 +340,7 @@ motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.  
 (ORC 4511.99)
 
-## 313.06   Flashing traffic signals (repealed)
+## 313.06   Flashing traffic signals (Repealed)
 
    (Former Ohio R.C. 4511.15 from which Section 313.06 was derived was repealed by House Bill 349, effective April 20, 2012.)
 

@@ -6,21 +6,21 @@ chapter_no: 943
 title: "Chapter 943: Small Cell Design Guidelines"
 ---
 
-* [943.01   Overview and purpose, definitions](#94301-Overview and purpose, definitions)
-* [943.02   General standards](#94302-General standards)
-* [943.03   Specifications for collocation](#94303-Specifications for collocation)
-* [943.04   Antennas](#94304-Antennas)
-* [943.05   Wireless support structure-mounted equipment](#94305-Wireless support structure-mounted equipment)
-* [943.06   Ground-mounted small cell equipment](#94306-Ground-mounted small cell equipment)
-* [943.07   Cables](#94307-Cables)
-* [943.08   Electrical meters](#94308-Electrical meters)
-* [943.09   Utility lines](#94309-Utility lines)
-* [943.10   Specifications for replacement of wireless support structures](#94310-Specifications for replacement of wireless support structures)
-* [943.11   Specifications for new wireless support structures](#94311-Specifications for new wireless support structures)
-* [943.12   Historic District regulations](#94312-Historic District regulations)
-* [943.13   Underground area regulations](#94313-Underground area regulations)
-* [943.14   Discretionary waiver](#94314-Discretionary waiver)
-* [943.99   Penalties; equitable remedies](#94399-Penalties; equitable remedies)
+* [943.01   Overview and purpose, definitions](#94301-overview-and-purpose-definitions)
+* [943.02   General standards](#94302-general-standards)
+* [943.03   Specifications for collocation](#94303-specifications-for-collocation)
+* [943.04   Antennas](#94304-antennas)
+* [943.05   Wireless support structure-mounted equipment](#94305-wireless-support-structure-mounted-equipment)
+* [943.06   Ground-mounted small cell equipment](#94306-ground-mounted-small-cell-equipment)
+* [943.07   Cables](#94307-cables)
+* [943.08   Electrical meters](#94308-electrical-meters)
+* [943.09   Utility lines](#94309-utility-lines)
+* [943.10   Specifications for replacement of wireless support structures](#94310-specifications-for-replacement-of-wireless-support-structures)
+* [943.11   Specifications for new wireless support structures](#94311-specifications-for-new-wireless-support-structures)
+* [943.12   Historic District regulations](#94312-historic-district-regulations)
+* [943.13   Underground area regulations](#94313-underground-area-regulations)
+* [943.14   Discretionary waiver](#94314-discretionary-waiver)
+* [943.99   Penalties; equitable remedies](#94399-penalties-equitable-remedies)
 
 ## Cross references
 

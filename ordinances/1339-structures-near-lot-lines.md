@@ -6,9 +6,9 @@ chapter_no: 1339
 title: "Chapter 1339: Structures Near Lot Lines"
 ---
 
-* [1339.01   Structure within three feet of line](#133901-Structure within three feet of line)
-* [1339.02   Projection near lot line](#133902-Projection near lot line)
-* [1339.99   Penalty](#133999-Penalty)
+* [1339.01   Structure within three feet of line](#133901-structure-within-three-feet-of-line)
+* [1339.02   Projection near lot line](#133902-projection-near-lot-line)
+* [1339.99   Penalty](#133999-penalty)
 
 ## Cross references
 

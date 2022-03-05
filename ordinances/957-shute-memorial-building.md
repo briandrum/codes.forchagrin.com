@@ -6,10 +6,10 @@ chapter_no: 957
 title: "Chapter 957: Shute Memorial Building"
 ---
 
-* [957.01   Administration](#95701-Administration)
-* [957.02   Fee](#95702-Fee)
-* [957.03   Regulations](#95703-Regulations)
-* [957.04   Application information](#95704-Application information)
+* [957.01   Administration](#95701-administration)
+* [957.02   Fee](#95702-fee)
+* [957.03   Regulations](#95703-regulations)
+* [957.04   Application information](#95704-application-information)
 
 ## 957.01   Administration
 

@@ -6,14 +6,14 @@ chapter_no: 733
 title: "Chapter 733: Public Dances and Dance Halls"
 ---
 
-* [733.01   Compliance required; definitions](#73301-Compliance required; definitions)
-* [733.02   Public dances; permit required; fee](#73302-Public dances; permit required; fee)
-* [733.03   Public dance halls; license required; fee](#73303-Public dance halls; license required; fee)
-* [733.04   Denial of permit or license; appeal](#73304-Denial of permit or license; appeal)
-* [733.05   Disorderly conduct; permit and license revocation](#73305-Disorderly conduct; permit and license revocation)
-* [733.06   Police attendance at dances; costs](#73306-Police attendance at dances; costs)
-* [733.07   Exemptions](#73307-Exemptions)
-* [733.99   Penalty](#73399-Penalty)
+* [733.01   Compliance required; definitions](#73301-compliance-required-definitions)
+* [733.02   Public dances; permit required; fee](#73302-public-dances-permit-required-fee)
+* [733.03   Public dance halls; license required; fee](#73303-public-dance-halls-license-required-fee)
+* [733.04   Denial of permit or license; appeal](#73304-denial-of-permit-or-license-appeal)
+* [733.05   Disorderly conduct; permit and license revocation](#73305-disorderly-conduct-permit-and-license-revocation)
+* [733.06   Police attendance at dances; costs](#73306-police-attendance-at-dances-costs)
+* [733.07   Exemptions](#73307-exemptions)
+* [733.99   Penalty](#73399-penalty)
 
 ## Cross references
 

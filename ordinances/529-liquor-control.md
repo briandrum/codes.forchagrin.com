@@ -6,16 +6,16 @@ chapter_no: 529
 title: "Chapter 529: Liquor Control"
 ---
 
-* [529.01   Definitions](#52901-Definitions)
-* [529.02   Sales to and use by underage persons; securing public accommodations](#52902-Sales to and use by underage persons; securing public accommodations)
-* [529.021   Purchase by minor; misrepresentation](#529021-Purchase by minor; misrepresentation)
-* [529.03   Sales to intoxicated persons](#52903-Sales to intoxicated persons)
-* [529.04   Liquor consumption in motor vehicle](#52904-Liquor consumption in motor vehicle)
-* [529.05   Permit required](#52905-Permit required)
-* [529.06   Low-alcohol beverages: saleto and purchase by underagepersons prohibited](#52906-Low-alcohol beverages: saleto and purchase by underagepersons prohibited)
-* [529.07   Open container prohibited](#52907-Open container prohibited)
-* [529.08   Hours of sale orconsumption](#52908-Hours of sale orconsumption)
-* [529.99   Penalty](#52999-Penalty)
+* [529.01   Definitions](#52901-definitions)
+* [529.02   Sales to and use by underage persons; securing public accommodations](#52902-sales-to-and-use-by-underage-persons-securing-public-accommodations)
+* [529.021   Purchase by minor; misrepresentation](#529021-purchase-by-minor-misrepresentation)
+* [529.03   Sales to intoxicated persons](#52903-sales-to-intoxicated-persons)
+* [529.04   Liquor consumption in motor vehicle](#52904-liquor-consumption-in-motor-vehicle)
+* [529.05   Permit required](#52905-permit-required)
+* [529.06   Low-alcohol beverages: sale to and purchase by underage persons prohibited](#52906-low-alcohol-beverages-sale-to-and-purchase-by-underage-persons-prohibited)
+* [529.07   Open container prohibited](#52907-open-container-prohibited)
+* [529.08   Hours of sale orconsumption](#52908-hours-of-sale-orconsumption)
+* [529.99   Penalty](#52999-penalty)
 
 ## Cross references
 

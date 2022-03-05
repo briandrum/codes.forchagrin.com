@@ -6,10 +6,10 @@ chapter_no: 1151
 title: "Chapter 1151: Riparian Buffer Regulations"
 ---
 
-* [1151.01   Intent](#115101-Intent)
-* [1151.02   Establishment of buffer area setback and boundary](#115102-Establishment of buffer area setback and boundary)
-* [1151.03   Permitted uses](#115103-Permitted uses)
-* [1151.04   Supplemental regulations](#115104-Supplemental regulations)
+* [1151.01   Intent](#115101-intent)
+* [1151.02   Establishment of buffer area setback and boundary](#115102-establishment-of-buffer-area-setback-and-boundary)
+* [1151.03   Permitted uses](#115103-permitted-uses)
+* [1151.04   Supplemental regulations](#115104-supplemental-regulations)
 
 ## Cross references
 

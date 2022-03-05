@@ -6,12 +6,12 @@ chapter_no: 1153
 title: "Chapter 1153: Solar Energy Systems"
 ---
 
-* [1153.01   Intent](#115301-Intent)
-* [1153.02   Definitions](#115302-Definitions)
-* [1153.03   Applicability](#115303-Applicability)
-* [1153.04   Application requirements](#115304-Application requirements)
-* [1153.05   General requirements](#115305-General requirements)
-* [1153.06   Abandonment](#115306-Abandonment)
+* [1153.01   Intent](#115301-intent)
+* [1153.02   Definitions](#115302-definitions)
+* [1153.03   Applicability](#115303-applicability)
+* [1153.04   Application requirements](#115304-application-requirements)
+* [1153.05   General requirements](#115305-general-requirements)
+* [1153.06   Abandonment](#115306-abandonment)
 
 ## Cross references
 

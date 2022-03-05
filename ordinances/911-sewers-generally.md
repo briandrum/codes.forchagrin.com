@@ -6,20 +6,20 @@ chapter_no: 911
 title: "Chapter 911: Sewers Generally"
 ---
 
-* [911.01   Definitions](#91101-Definitions)
-* [911.02   Use of public sewers required](#91102-Use of public sewers required)
-* [911.03   Building sewers and connections](#91103-Building sewers and connections)
-* [911.04   Storm sewer waste prohibited in sanitary sewer](#91104-Storm sewer waste prohibited in sanitary sewer)
-* [911.05   Prohibited wastes](#91105-Prohibited wastes)
-* [911.06   Restricted wastes](#91106-Restricted wastes)
-* [911.07   Authority of Superintendent](#91107-Authority of Superintendent)
-* [911.08   Interceptors](#91108-Interceptors)
-* [911.09   Treatment; tests; special agreements](#91109-Treatment; tests; special agreements)
-* [911.10   Protection from damage](#91110-Protection from damage)
-* [911.11   Powers and authority of inspectors](#91111-Powers and authority of inspectors)
-* [911.12   Appeals](#91112-Appeals)
-* [911.13   Separability](#91113-Separability)
-* [911.99   Penalty](#91199-Penalty)
+* [911.01   Definitions](#91101-definitions)
+* [911.02   Use of public sewers required](#91102-use-of-public-sewers-required)
+* [911.03   Building sewers and connections](#91103-building-sewers-and-connections)
+* [911.04   Storm sewer waste prohibited in sanitary sewer](#91104-storm-sewer-waste-prohibited-in-sanitary-sewer)
+* [911.05   Prohibited wastes](#91105-prohibited-wastes)
+* [911.06   Restricted wastes](#91106-restricted-wastes)
+* [911.07   Authority of Superintendent](#91107-authority-of-superintendent)
+* [911.08   Interceptors](#91108-interceptors)
+* [911.09   Treatment; tests; special agreements](#91109-treatment-tests-special-agreements)
+* [911.10   Protection from damage](#91110-protection-from-damage)
+* [911.11   Powers and authority of inspectors](#91111-powers-and-authority-of-inspectors)
+* [911.12   Appeals](#91112-appeals)
+* [911.13   Separability](#91113-separability)
+* [911.99   Penalty](#91199-penalty)
 
 ## Cross references
 

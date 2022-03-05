@@ -6,20 +6,20 @@ chapter_no: 371
 title: "Chapter 371: Pedestrians"
 ---
 
-* [371.01   Right of way in crosswalk](#37101-Right of way in crosswalk)
-* [371.02   Right of way of blind person](#37102-Right of way of blind person)
-* [371.03   Crossing roadway outside crosswalk; diagonal crossings at intersections](#37103-Crossing roadway outside crosswalk; diagonal crossings at intersections)
-* [371.04   Moving upon right half of crosswalk](#37104-Moving upon right half of crosswalk)
-* [371.05   Walking along highways](#37105-Walking along highways)
-* [371.06   Use of highway for soliciting; riding on outside of vehicles](#37106-Use of highway for soliciting; riding on outside of vehicles)
-* [371.07   Right of way on sidewalk](#37107-Right of way on sidewalk)
-* [371.08   Yielding to public safety vehicle](#37108-Yielding to public safety vehicle)
-* [371.09   Walking on highway while under the influence](#37109-Walking on highway while under the influence)
-* [371.10   On bridges or railroad crossings](#37110-On bridges or railroad crossings)
-* [371.11   Persons operating motorized wheelchairs](#37111-Persons operating motorized wheelchairs)
-* [371.12   Electric personal assistive mobility devices](#37112-Electric personal assistive mobility devices)
-* [371.13   Operation of personal delivery device on sidewalks and  crosswalks](#37113-Operation of personal delivery device on sidewalks and  crosswalks)
-* [371.14   Low-speed micromobility devices](#37114-Low-speed micromobility devices)
+* [371.01   Right of way in crosswalk](#37101-right-of-way-in-crosswalk)
+* [371.02   Right of way of blind person](#37102-right-of-way-of-blind-person)
+* [371.03   Crossing roadway outside crosswalk; diagonal crossings at intersections](#37103-crossing-roadway-outside-crosswalk-diagonal-crossings-at-intersections)
+* [371.04   Moving upon right half of crosswalk](#37104-moving-upon-right-half-of-crosswalk)
+* [371.05   Walking along highways](#37105-walking-along-highways)
+* [371.06   Use of highway for soliciting; riding on outside of vehicles](#37106-use-of-highway-for-soliciting-riding-on-outside-of-vehicles)
+* [371.07   Right of way on sidewalk](#37107-right-of-way-on-sidewalk)
+* [371.08   Yielding to public safety vehicle](#37108-yielding-to-public-safety-vehicle)
+* [371.09   Walking on highway while under the influence](#37109-walking-on-highway-while-under-the-influence)
+* [371.10   On bridges or railroad crossings](#37110-on-bridges-or-railroad-crossings)
+* [371.11   Persons operating motorized wheelchairs](#37111-persons-operating-motorized-wheelchairs)
+* [371.12   Electric personal assistive mobility devices](#37112-electric-personal-assistive-mobility-devices)
+* [371.13   Operation of personal delivery device on sidewalks and  crosswalks](#37113-operation-of-personal-delivery-device-on-sidewalks-and-crosswalks)
+* [371.14   Low-speed micromobility devices](#37114-low-speed-micromobility-devices)
 
 ## Cross references
 

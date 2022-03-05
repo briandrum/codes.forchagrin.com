@@ -6,7 +6,7 @@ chapter_no: 769
 title: "Chapter 769: Video Service Providers"
 ---
 
-* [769.01   Fee](#76901-Fee)
+* [769.01   Fee](#76901-fee)
 
 ## 769.01   Fee
 

@@ -6,13 +6,13 @@ chapter_no: 1115
 title: "Chapter 1115: Design Review"
 ---
 
-* [1115.01   Intent](#111501-Intent)
-* [1115.02   Applicability and limitations](#111502-Applicability and limitations)
-* [1115.03   Administrative procedures](#111503-Administrative procedures)
-* [1115.04   Standards of review](#111504-Standards of review)
-* [1115.05   Demolition and moving](#111505-Demolition and moving)
-* [1115.06   Maintenance requirements](#111506-Maintenance requirements)
-* [1115.07   Supplemental regulations](#111507-Supplemental regulations)
+* [1115.01   Intent](#111501-intent)
+* [1115.02   Applicability and limitations](#111502-applicability-and-limitations)
+* [1115.03   Administrative procedures](#111503-administrative-procedures)
+* [1115.04   Standards of review](#111504-standards-of-review)
+* [1115.05   Demolition and moving](#111505-demolition-and-moving)
+* [1115.06   Maintenance requirements](#111506-maintenance-requirements)
+* [1115.07   Supplemental regulations](#111507-supplemental-regulations)
 
 ## Cross references
 

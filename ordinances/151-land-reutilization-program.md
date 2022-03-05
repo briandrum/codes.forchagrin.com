@@ -6,7 +6,7 @@ chapter_no: 151
 title: "Chapter 151: Land Reutilization Program"
 ---
 
-* [151.01   Adoption](#15101-Adoption)
+* [151.01   Adoption](#15101-adoption)
 
 ## 151.01   Adoption
 

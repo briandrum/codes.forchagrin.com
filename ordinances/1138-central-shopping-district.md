@@ -6,12 +6,12 @@ chapter_no: 1138
 title: "Chapter 1138: Central Shopping District"
 ---
 
-* [1138.01   Intent](#113801-Intent)
-* [1138.02   Permitted uses](#113802-Permitted uses)
-* [1138.03   Area and height regulations](#113803-Area and height regulations)
-* [1138.04   Yard and setback regulations](#113804-Yard and setback regulations)
-* [1138.05   Detailed regulations by type of establishment](#113805-Detailed regulations by type of establishment)
-* [1138.06   Supplemental regulations](#113806-Supplemental regulations)
+* [1138.01   Intent](#113801-intent)
+* [1138.02   Permitted uses](#113802-permitted-uses)
+* [1138.03   Area and height regulations](#113803-area-and-height-regulations)
+* [1138.04   Yard and setback regulations](#113804-yard-and-setback-regulations)
+* [1138.05   Detailed regulations by type of establishment](#113805-detailed-regulations-by-type-of-establishment)
+* [1138.06   Supplemental regulations](#113806-supplemental-regulations)
 
 ## Cross references
 

@@ -6,16 +6,16 @@ chapter_no: 1143
 title: "Chapter 1143: Signs"
 ---
 
-* [1143.01   Intent](#114301-Intent)
-* [1143.02   Conformance required](#114302-Conformance required)
-* [1143.03   Definitions and references](#114303-Definitions and references)
-* [1143.04   Signs prohibited](#114304-Signs prohibited)
-* [1143.05   Permits](#114305-Permits)
-* [1143.06   Number and type of signs permitted: nonresidential districts](#114306-Number and type of signs permitted: nonresidential districts)
-* [1143.07   Number and types of signs permitted: residential districts](#114307-Number and types of signs permitted: residential districts)
-* [1143.08   Design standards](#114308-Design standards)
-* [1143.09   Temporary signs](#114309-Temporary signs)
-* [1143.10   General provisions](#114310-General provisions)
+* [1143.01   Intent](#114301-intent)
+* [1143.02   Conformance required](#114302-conformance-required)
+* [1143.03   Definitions and references](#114303-definitions-and-references)
+* [1143.04   Signs prohibited](#114304-signs-prohibited)
+* [1143.05   Permits](#114305-permits)
+* [1143.06   Number and type of signs permitted: nonresidential districts](#114306-number-and-type-of-signs-permitted-nonresidential-districts)
+* [1143.07   Number and types of signs permitted: residential districts](#114307-number-and-types-of-signs-permitted-residential-districts)
+* [1143.08   Design standards](#114308-design-standards)
+* [1143.09   Temporary signs](#114309-temporary-signs)
+* [1143.10   General provisions](#114310-general-provisions)
 
 ## Cross references
 

@@ -6,17 +6,17 @@ chapter_no: 1303
 title: "Chapter 1303: Inspections; Enforcement and Penalty"
 ---
 
-* [1303.01   Administration of Building Code; permits](#130301-Administration of Building Code; permits)
-* [1303.02   Building Inspector and Assistant](#130302-Building Inspector and Assistant)
-* [1303.03   Compensation and bond](#130303-Compensation and bond)
-* [1303.04   Duties of Inspector](#130304-Duties of Inspector)
-* [1303.05   Right of entry](#130305-Right of entry)
-* [1303.06   Records of Inspector](#130306-Records of Inspector)
-* [1303.07   Inspection of timber in existing buildings](#130307-Inspection of timber in existing buildings)
-* [1303.08   Inspection of dangerous equipment and structures](#130308-Inspection of dangerous equipment and structures)
-* [1303.09   Civil action](#130309-Civil action)
-* [1303.10   Remedies cumulative](#130310-Remedies cumulative)
-* [1303.99   Penalty](#130399-Penalty)
+* [1303.01   Administration of Building Code; permits](#130301-administration-of-building-code-permits)
+* [1303.02   Building Inspector and Assistant](#130302-building-inspector-and-assistant)
+* [1303.03   Compensation and bond](#130303-compensation-and-bond)
+* [1303.04   Duties of Inspector](#130304-duties-of-inspector)
+* [1303.05   Right of entry](#130305-right-of-entry)
+* [1303.06   Records of Inspector](#130306-records-of-inspector)
+* [1303.07   Inspection of timber in existing buildings](#130307-inspection-of-timber-in-existing-buildings)
+* [1303.08   Inspection of dangerous equipment and structures](#130308-inspection-of-dangerous-equipment-and-structures)
+* [1303.09   Civil action](#130309-civil-action)
+* [1303.10   Remedies cumulative](#130310-remedies-cumulative)
+* [1303.99   Penalty](#130399-penalty)
 
 ## Cross references
 

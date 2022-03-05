@@ -9,12 +9,12 @@ title: "Chapter 140: Parks Commission"
 Editor’s note: The Parks Commission was established by Ordinance 1987-17,
 passed April 13, 1987.
 
-* [140.01   Creation](#14001-Creation)
-* [140.02   Term](#14002-Term)
-* [140.03   Compensation](#14003-Compensation)
-* [140.04   Authority](#14004-Authority)
-* [140.05   Organization](#14005-Organization)
-* [140.06   Referral](#14006-Referral)
+* [140.01   Creation](#14001-creation)
+* [140.02   Term](#14002-term)
+* [140.03   Compensation](#14003-compensation)
+* [140.04   Authority](#14004-authority)
+* [140.05   Organization](#14005-organization)
+* [140.06   Referral](#14006-referral)
 
 ## Cross references
 

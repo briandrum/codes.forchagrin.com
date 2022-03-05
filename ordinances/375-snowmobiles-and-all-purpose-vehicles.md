@@ -6,9 +6,9 @@ chapter_no: 375
 title: "Chapter 375: Snowmobiles and All Purpose Vehicles"
 ---
 
-* [375.01   Definitions](#37501-Definitions)
-* [375.02   Operation](#37502-Operation)
-* [375.03   Emergencies](#37503-Emergencies)
+* [375.01   Definitions](#37501-definitions)
+* [375.02   Operation](#37502-operation)
+* [375.03   Emergencies](#37503-emergencies)
 
 ## Cross references
 

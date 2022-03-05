@@ -6,8 +6,8 @@ chapter_no: 939
 title: "Chapter 939: Underground Utilities"
 ---
 
-* [939.01   Purpose](#93901-Purpose)
-* [939.02   Downtown District](#93902-Downtown District)
+* [939.01   Purpose](#93901-purpose)
+* [939.02   Downtown District](#93902-downtown-district)
 
 ## 939.01   Purpose
 

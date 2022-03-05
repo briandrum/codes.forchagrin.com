@@ -6,16 +6,16 @@ chapter_no: 1335
 title: "Chapter 1335: Registration of Contractors"
 ---
 
-* [1335.01   Purposes](#133501-Purposes)
-* [1335.02   Registration required](#133502-Registration required)
-* [1335.03   Holders of Ohio qualification certificate; exception](#133503-Holders of Ohio qualification certificate; exception)
-* [1335.04   Registration denial; appeal](#133504-Registration denial; appeal)
-* [1335.05   Form of registration](#133505-Form of registration)
-* [1335.06   Bond; liability insurance](#133506-Bond; liability insurance)
-* [1335.07   Revocation of certificate of registration](#133507-Revocation of certificate of registration)
-* [1335.08   Homeowner’s exception](#133508-Homeowner’s exception)
-* [1335.09   Public works exception](#133509-Public works exception)
-* [1335.10   Fees](#133510-Fees)
+* [1335.01   Purposes](#133501-purposes)
+* [1335.02   Registration required](#133502-registration-required)
+* [1335.03   Holders of Ohio qualification certificate; exception](#133503-holders-of-ohio-qualification-certificate-exception)
+* [1335.04   Registration denial; appeal](#133504-registration-denial-appeal)
+* [1335.05   Form of registration](#133505-form-of-registration)
+* [1335.06   Bond; liability insurance](#133506-bond-liability-insurance)
+* [1335.07   Revocation of certificate of registration](#133507-revocation-of-certificate-of-registration)
+* [1335.08   Homeowner’s exception](#133508-homeowners-exception)
+* [1335.09   Public works exception](#133509-public-works-exception)
+* [1335.10   Fees](#133510-fees)
 
 ## Cross references
 

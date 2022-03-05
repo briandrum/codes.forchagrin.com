@@ -11,17 +11,17 @@ interments within the Municipal Cemetery are set by the Board of Cemetery
 Trustees pursuant to Ohio R. C. 759.13 and 759.23. Please consult the
 Department of Finance for information concerning current costs and fees.
 
-* [953.01   Definitions](#95301-Definitions)
-* [953.02   General](#95302-General)
-* [953.03   Purchase of graves and mausoleums](#95303-Purchase of graves and mausoleums)
-* [953.031   Purchase of Columbarium niches](#953031-Purchase of Columbarium niches)
-* [953.04   Cemetery rules and regulations](#95304-Cemetery rules and regulations)
-* [953.05   Grave markers](#95305-Grave markers)
-* [953.06   Authority having jurisdiction](#95306-Authority having jurisdiction)
-* [953.07   Cemetery service charges](#95307-Cemetery service charges)
-* [953.08   Indigent burial policy](#95308-Indigent burial policy)
-* [953.09   Violation of rules and regulations](#95309-Violation of rules and regulations)
-* [953.99   Penalty](#95399-Penalty)
+* [953.01   Definitions](#95301-definitions)
+* [953.02   General](#95302-general)
+* [953.03   Purchase of graves and mausoleums](#95303-purchase-of-graves-and-mausoleums)
+* [953.031   Purchase of Columbarium niches](#953031-purchase-of-columbarium-niches)
+* [953.04   Cemetery rules and regulations](#95304-cemetery-rules-and-regulations)
+* [953.05   Grave markers](#95305-grave-markers)
+* [953.06   Authority having jurisdiction](#95306-authority-having-jurisdiction)
+* [953.07   Cemetery service charges](#95307-cemetery-service-charges)
+* [953.08   Indigent burial policy](#95308-indigent-burial-policy)
+* [953.09   Violation of rules and regulations](#95309-violation-of-rules-and-regulations)
+* [953.99   Penalty](#95399-penalty)
 
 ## Cross references
 

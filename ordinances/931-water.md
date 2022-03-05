@@ -6,14 +6,14 @@ chapter_no: 931
 title: "Chapter 931: Water"
 ---
 
-* [931.01   Mayor’s authority to limit water use](#93101-Mayor’s authority to limit water use)
-* [931.02   Water rates](#93102-Water rates)
-* [931.03   Water connection charges](#93103-Water connection charges)
-* [931.04   Billing periods, surcharge for late payment](#93104-Billing periods, surcharge for late payment)
-* [931.05   Meter rental charges](#93105-Meter rental charges)
-* [931.06   Miscellaneous charges](#93106-Miscellaneous charges)
-* [931.07   Extensions outside Municipality prohibited](#93107-Extensions outside Municipality prohibited) (Repealed)
-* [931.99   Penalty](#93199-Penalty)
+* [931.01   Mayor’s authority to limit water use](#93101-mayors-authority-to-limit-water-use)
+* [931.02   Water rates](#93102-water-rates)
+* [931.03   Water connection charges](#93103-water-connection-charges)
+* [931.04   Billing periods, surcharge for late payment](#93104-billing-periods-surcharge-for-late-payment)
+* [931.05   Meter rental charges](#93105-meter-rental-charges)
+* [931.06   Miscellaneous charges](#93106-miscellaneous-charges)
+* [931.07   Extensions outside Municipality prohibited](#93107-extensions-outside-municipality-prohibited) (Repealed)
+* [931.99   Penalty](#93199-penalty)
 
 ## Cross references
 

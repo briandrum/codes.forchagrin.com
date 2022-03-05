@@ -6,20 +6,20 @@ chapter_no: 501
 title: "Chapter 501: General Provisions and Penalty"
 ---
 
-* [501.01   Definitions](#50101-Definitions)
-* [501.02   Classification of offenses](#50102-Classification of offenses)
-* [501.03   Common law offenses abrogated](#50103-Common law offenses abrogated)
-* [501.04   Rules of construction](#50104-Rules of construction)
-* [501.05   Criminal law jurisdiction](#50105-Criminal law jurisdiction)
-* [501.06   Limitation of criminal prosecution](#50106-Limitation of criminal prosecution)
-* [501.07   Requirements for criminal liability](#50107-Requirements for criminal liability)
-* [501.08   Culpable mental states](#50108-Culpable mental states)
-* [501.09   Attempt](#50109-Attempt)
-* [501.10   Complicity](#50110-Complicity)
-* [501.11   Organizational criminalliability](#50111-Organizational criminalliability)
-* [501.12   Personal accountability fororganizational conduct](#50112-Personal accountability fororganizational conduct)
-* [501.13   Conspiracy](#50113-Conspiracy)
-* [501.99   Penalties for misdemeanors](#50199-Penalties for misdemeanors)
+* [501.01   Definitions](#50101-definitions)
+* [501.02   Classification of offenses](#50102-classification-of-offenses)
+* [501.03   Common law offenses abrogated](#50103-common-law-offenses-abrogated)
+* [501.04   Rules of construction](#50104-rules-of-construction)
+* [501.05   Criminal law jurisdiction](#50105-criminal-law-jurisdiction)
+* [501.06   Limitation of criminal prosecution](#50106-limitation-of-criminal-prosecution)
+* [501.07   Requirements for criminal liability](#50107-requirements-for-criminal-liability)
+* [501.08   Culpable mental states](#50108-culpable-mental-states)
+* [501.09   Attempt](#50109-attempt)
+* [501.10   Complicity](#50110-complicity)
+* [501.11   Organizational criminalliability](#50111-organizational-criminalliability)
+* [501.12   Personal accountability fororganizational conduct](#50112-personal-accountability-fororganizational-conduct)
+* [501.13   Conspiracy](#50113-conspiracy)
+* [501.99   Penalties for misdemeanors](#50199-penalties-for-misdemeanors)
 
 ## Cross references
 

@@ -6,10 +6,10 @@ chapter_no: 305
 title: "Chapter 305: Traffic Control Map and File"
 ---
 
-* [305.01   Traffic Control Map](#30501-Traffic Control Map)
-* [305.02   Traffic Control File](#30502-Traffic Control File)
-* [305.03   Amendments](#30503-Amendments)
-* [305.99   Penalty](#30599-Penalty)
+* [305.01   Traffic Control Map](#30501-traffic-control-map)
+* [305.02   Traffic Control File](#30502-traffic-control-file)
+* [305.03   Amendments](#30503-amendments)
+* [305.99   Penalty](#30599-penalty)
 Appendix A - Traffic Map Amendments.
 
 ## Cross references

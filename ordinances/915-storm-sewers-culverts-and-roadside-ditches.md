@@ -6,14 +6,14 @@ chapter_no: 915
 title: "Chapter 915: Storm Sewers, Culverts and Roadside Ditches"
 ---
 
-* [915.01   Necessity to construct before street improvements](#91501-Necessity to construct before street improvements)
-* [915.02   Dimensions, materials and construction](#91502-Dimensions, materials and construction)
-* [915.03   Curb connections](#91503-Curb connections)
-* [915.04   Payment for construction](#91504-Payment for construction)
-* [915.05   Permit required](#91505-Permit required)
-* [915.06   Determinations to be made by Village Engineer](#91506-Determinations to be made by Village Engineer)
-* [915.07   Permit fee](#91507-Permit fee)
-* [915.99   Penalty](#91599-Penalty)
+* [915.01   Necessity to construct before street improvements](#91501-necessity-to-construct-before-street-improvements)
+* [915.02   Dimensions, materials and construction](#91502-dimensions-materials-and-construction)
+* [915.03   Curb connections](#91503-curb-connections)
+* [915.04   Payment for construction](#91504-payment-for-construction)
+* [915.05   Permit required](#91505-permit-required)
+* [915.06   Determinations to be made by Village Engineer](#91506-determinations-to-be-made-by-village-engineer)
+* [915.07   Permit fee](#91507-permit-fee)
+* [915.99   Penalty](#91599-penalty)
 
 ## Cross references
 

@@ -6,14 +6,14 @@ chapter_no: 1129
 title: "Chapter 1129: Residential Districts: Multi-Family"
 ---
 
-* [1129.01   Intent](#112901-Intent)
-* [1129.02   Permitted uses](#112902-Permitted uses)
-* [1129.03   Area regulations](#112903-Area regulations)
-* [1129.04   Height regulations](#112904-Height regulations)
-* [1129.05   Yard and setback regulations](#112905-Yard and setback regulations)
-* [1129.06   Distances between buildings and uses](#112906-Distances between buildings and uses)
-* [1129.07   Design regulations and standards](#112907-Design regulations and standards)
-* [1129.08   Supplemental regulations](#112908-Supplemental regulations)
+* [1129.01   Intent](#112901-intent)
+* [1129.02   Permitted uses](#112902-permitted-uses)
+* [1129.03   Area regulations](#112903-area-regulations)
+* [1129.04   Height regulations](#112904-height-regulations)
+* [1129.05   Yard and setback regulations](#112905-yard-and-setback-regulations)
+* [1129.06   Distances between buildings and uses](#112906-distances-between-buildings-and-uses)
+* [1129.07   Design regulations and standards](#112907-design-regulations-and-standards)
+* [1129.08   Supplemental regulations](#112908-supplemental-regulations)
 
 ## Cross references
 

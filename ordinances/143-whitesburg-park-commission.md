@@ -9,12 +9,12 @@ title: "Chapter 143: Whitesburg Park Commission"
 Editor’s note: The Whitesburg Park Commission was established by Ordinance
 1996-51, passed August 12, 1996.
 
-* [143.01   Creation](#14301-Creation)
-* [143.02   Term](#14302-Term)
-* [143.03   Compensation](#14303-Compensation)
-* [143.04   Authority](#14304-Authority)
-* [143.05   Organization](#14305-Organization)
-* [143.06   Referral](#14306-Referral)
+* [143.01   Creation](#14301-creation)
+* [143.02   Term](#14302-term)
+* [143.03   Compensation](#14303-compensation)
+* [143.04   Authority](#14304-authority)
+* [143.05   Organization](#14305-organization)
+* [143.06   Referral](#14306-referral)
 
 ## Cross references
 

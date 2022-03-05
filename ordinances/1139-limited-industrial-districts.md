@@ -6,11 +6,11 @@ chapter_no: 1139
 title: "Chapter 1139: Limited Industrial Districts"
 ---
 
-* [1139.01   Intent](#113901-Intent)
-* [1139.02   Permitted uses](#113902-Permitted uses)
-* [1139.03   Area and height regulations](#113903-Area and height regulations)
-* [1139.04   Yard and setback regulations](#113904-Yard and setback regulations)
-* [1139.05   Supplemental regulations](#113905-Supplemental regulations)
+* [1139.01   Intent](#113901-intent)
+* [1139.02   Permitted uses](#113902-permitted-uses)
+* [1139.03   Area and height regulations](#113903-area-and-height-regulations)
+* [1139.04   Yard and setback regulations](#113904-yard-and-setback-regulations)
+* [1139.05   Supplemental regulations](#113905-supplemental-regulations)
 
 ## Cross references
 

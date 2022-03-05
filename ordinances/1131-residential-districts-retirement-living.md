@@ -6,15 +6,15 @@ chapter_no: 1131
 title: "Chapter 1131: Residential Districts: Retirement Living"
 ---
 
-* [1131.01   Intent](#113101-Intent)
-* [1131.02   Permitted uses](#113102-Permitted uses)
-* [1131.03   Area regulations](#113103-Area regulations)
-* [1131.04   Height regulations](#113104-Height regulations)
-* [1131.05   Yard and setback regulations](#113105-Yard and setback regulations)
-* [1131.06   Distances between buildings and uses](#113106-Distances between buildings and uses)
-* [1131.07   Design regulations and standards](#113107-Design regulations and standards)
-* [1131.08   Off-street parking regulations](#113108-Off-street parking regulations)
-* [1131.09   Supplemental regulations](#113109-Supplemental regulations)
+* [1131.01   Intent](#113101-intent)
+* [1131.02   Permitted uses](#113102-permitted-uses)
+* [1131.03   Area regulations](#113103-area-regulations)
+* [1131.04   Height regulations](#113104-height-regulations)
+* [1131.05   Yard and setback regulations](#113105-yard-and-setback-regulations)
+* [1131.06   Distances between buildings and uses](#113106-distances-between-buildings-and-uses)
+* [1131.07   Design regulations and standards](#113107-design-regulations-and-standards)
+* [1131.08   Off-street parking regulations](#113108-off-street-parking-regulations)
+* [1131.09   Supplemental regulations](#113109-supplemental-regulations)
 
 ## Cross references
 

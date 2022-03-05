@@ -6,21 +6,21 @@ chapter_no: 544
 title: "Chapter 544: Trees, Weeds and Grass"
 ---
 
-* [544.01   Trimming of trees, shrubbery](#54401-Trimming of trees, shrubbery)
-* [544.02   Removal of weeds by owner or occupant; notice](#54402-Removal of weeds by owner or occupant; notice)
-* [544.03   Removal of trees, weeds, grasses by Municipality](#54403-Removal of trees, weeds, grasses by Municipality)
-* [544.04   Assessment of costs by Municipality](#54404-Assessment of costs by Municipality)
-* [544.05   Removing or interfering with trees or materials in tree lawn areas](#54405-Removing or interfering with trees or materials in tree lawn areas)
-* [544.06   Trimming hedges or growths at intersections](#54406-Trimming hedges or growths at intersections)
-* [544.07   Trimming hedges along public ways](#54407-Trimming hedges along public ways)
-* [544.08   Certain trees prohibited](#54408-Certain trees prohibited)
+* [544.01   Trimming of trees, shrubbery](#54401-trimming-of-trees-shrubbery)
+* [544.02   Removal of weeds by owner or occupant; notice](#54402-removal-of-weeds-by-owner-or-occupant-notice)
+* [544.03   Removal of trees, weeds, grasses by Municipality](#54403-removal-of-trees-weeds-grasses-by-municipality)
+* [544.04   Assessment of costs by Municipality](#54404-assessment-of-costs-by-municipality)
+* [544.05   Removing or interfering with trees or materials in tree lawn areas](#54405-removing-or-interfering-with-trees-or-materials-in-tree-lawn-areas)
+* [544.06   Trimming hedges or growths at intersections](#54406-trimming-hedges-or-growths-at-intersections)
+* [544.07   Trimming hedges along public ways](#54407-trimming-hedges-along-public-ways)
+* [544.08   Certain trees prohibited](#54408-certain-trees-prohibited)
 544.09   Dutch elm disease and “elm blight”.
-* [544.10   Inspection and removal of diseased trees](#54410-Inspection and removal of diseased trees)
-* [544.11   Examination and diagnosis of suspected infected trees](#54411-Examination and diagnosis of suspected infected trees)
-* [544.12   Trees permitted to be planted on Municipal property](#54412-Trees permitted to be planted on Municipal property)
-* [544.13   Permit; bond; contractor’s license](#54413-Permit; bond; contractor’s license)
-* [544.14   Establishment and powers of Shade Tree Commission](#54414-Establishment and powers of Shade Tree Commission)
-* [544.99   Penalty](#54499-Penalty)
+* [544.10   Inspection and removal of diseased trees](#54410-inspection-and-removal-of-diseased-trees)
+* [544.11   Examination and diagnosis of suspected infected trees](#54411-examination-and-diagnosis-of-suspected-infected-trees)
+* [544.12   Trees permitted to be planted on Municipal property](#54412-trees-permitted-to-be-planted-on-municipal-property)
+* [544.13   Permit; bond; contractor’s license](#54413-permit-bond-contractors-license)
+* [544.14   Establishment and powers of Shade Tree Commission](#54414-establishment-and-powers-of-shade-tree-commission)
+* [544.99   Penalty](#54499-penalty)
 
 ## Cross references
 

@@ -6,21 +6,21 @@ chapter_no: 1501
 title: "Chapter 1501: Model Codes Adopted"
 ---
 
-* [1501.01   Adoption of the Ohio Fire Code, NFPA, and the OBBC](#150101-Adoption of the Ohio Fire Code, NFPA, and the OBBC)
-* [1501.02   Establishment and duties of Bureau of Fire Prevention](#150102-Establishment and duties of Bureau of Fire Prevention)
-* [1501.03   Definitions](#150103-Definitions)
-* [1501.04   Limits for storage of flammable liquids and explosives](#150104-Limits for storage of flammable liquids and explosives)
-* [1501.05   Modifications](#150105-Modifications)
-* [1501.06   Appeals](#150106-Appeals)
-* [1501.07   New materials, processes or occupancies which may require permits](#150107-New materials, processes or occupancies which may require permits)
-* [1501.08   Severability](#150108-Severability)
-* [1501.09   Permit fees](#150109-Permit fees)
-* [1501.10   Incinerators prohibited for new construction or noncompliance](#150110-Incinerators prohibited for new construction or noncompliance)
-* [1501.11   Smoke density and outdoor fires](#150111-Smoke density and outdoor fires)
-* [1501.12   Conflicts with Building Code or State law](#150112-Conflicts with Building Code or State law)
-* [1501.13   Amendments](#150113-Amendments)
-* [1501.14   Failure to correct violations](#150114-Failure to correct violations)
-* [1501.99   Penalty](#150199-Penalty)
+* [1501.01   Adoption of the Ohio Fire Code, NFPA, and the OBBC](#150101-adoption-of-the-ohio-fire-code-nfpa-and-the-obbc)
+* [1501.02   Establishment and duties of Bureau of Fire Prevention](#150102-establishment-and-duties-of-bureau-of-fire-prevention)
+* [1501.03   Definitions](#150103-definitions)
+* [1501.04   Limits for storage of flammable liquids and explosives](#150104-limits-for-storage-of-flammable-liquids-and-explosives)
+* [1501.05   Modifications](#150105-modifications)
+* [1501.06   Appeals](#150106-appeals)
+* [1501.07   New materials, processes or occupancies which may require permits](#150107-new-materials-processes-or-occupancies-which-may-require-permits)
+* [1501.08   Severability](#150108-severability)
+* [1501.09   Permit fees](#150109-permit-fees)
+* [1501.10   Incinerators prohibited for new construction or noncompliance](#150110-incinerators-prohibited-for-new-construction-or-noncompliance)
+* [1501.11   Smoke density and outdoor fires](#150111-smoke-density-and-outdoor-fires)
+* [1501.12   Conflicts with Building Code or State law](#150112-conflicts-with-building-code-or-state-law)
+* [1501.13   Amendments](#150113-amendments)
+* [1501.14   Failure to correct violations](#150114-failure-to-correct-violations)
+* [1501.99   Penalty](#150199-penalty)
 
 ## Cross references
 

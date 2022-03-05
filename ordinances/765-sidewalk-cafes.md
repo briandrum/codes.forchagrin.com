@@ -6,16 +6,16 @@ chapter_no: 765
 title: "Chapter 765: Sidewalk Cafes"
 ---
 
-* [765.01   Intent](#76501-Intent)
-* [765.02   Definitions](#76502-Definitions)
-* [765.03   Permit required](#76503-Permit required)
-* [765.04   Application and permit fees](#76504-Application and permit fees)
-* [765.05   Permit application](#76505-Permit application)
-* [765.06   Location rules and review criteria](#76506-Location rules and review criteria)
-* [765.07   Conditions of permit](#76507-Conditions of permit)
-* [765.08   Liability and insurance](#76508-Liability and insurance)
-* [765.09   Denial, revocation or suspension of permit](#76509-Denial, revocation or suspension of permit)
-* [765.99   Penalty](#76599-Penalty)
+* [765.01   Intent](#76501-intent)
+* [765.02   Definitions](#76502-definitions)
+* [765.03   Permit required](#76503-permit-required)
+* [765.04   Application and permit fees](#76504-application-and-permit-fees)
+* [765.05   Permit application](#76505-permit-application)
+* [765.06   Location rules and review criteria](#76506-location-rules-and-review-criteria)
+* [765.07   Conditions of permit](#76507-conditions-of-permit)
+* [765.08   Liability and insurance](#76508-liability-and-insurance)
+* [765.09   Denial, revocation or suspension of permit](#76509-denial-revocation-or-suspension-of-permit)
+* [765.99   Penalty](#76599-penalty)
 
 ## 765.01   Intent
 

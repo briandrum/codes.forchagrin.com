@@ -6,17 +6,17 @@ chapter_no: 1130
 title: "Chapter 1130: Residential Districts: Mixed Use"
 ---
 
-* [1130.01   Intent](#113001-Intent)
-* [1130.02   Standards](#113002-Standards)
-* [1130.03   Permitted uses](#113003-Permitted uses)
-* [1130.04   Area regulations](#113004-Area regulations)
-* [1130.05   Height regulations](#113005-Height regulations)
-* [1130.06   Yard and setback regulations](#113006-Yard and setback regulations)
-* [1130.07   Landscaping requirements for one and two family dwellings](#113007-Landscaping requirements for one and two family dwellings)
-* [1130.08   Distances between buildings and uses](#113008-Distances between buildings and uses)
-* [1130.09   Design regulations and standards](#113009-Design regulations and standards)
-* [1130.10   Supplemental parking regulations](#113010-Supplemental parking regulations)
-* [1130.11   Supplemental regulations](#113011-Supplemental regulations)
+* [1130.01   Intent](#113001-intent)
+* [1130.02   Standards](#113002-standards)
+* [1130.03   Permitted uses](#113003-permitted-uses)
+* [1130.04   Area regulations](#113004-area-regulations)
+* [1130.05   Height regulations](#113005-height-regulations)
+* [1130.06   Yard and setback regulations](#113006-yard-and-setback-regulations)
+* [1130.07   Landscaping requirements for one and two family dwellings](#113007-landscaping-requirements-for-one-and-two-family-dwellings)
+* [1130.08   Distances between buildings and uses](#113008-distances-between-buildings-and-uses)
+* [1130.09   Design regulations and standards](#113009-design-regulations-and-standards)
+* [1130.10   Supplemental parking regulations](#113010-supplemental-parking-regulations)
+* [1130.11   Supplemental regulations](#113011-supplemental-regulations)
 
 ## Cross references
 

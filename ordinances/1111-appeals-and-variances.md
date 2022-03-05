@@ -10,7 +10,7 @@ title: "Chapter 1111: Appeals and Variances"
 - [1111.02   Jurisdiction.](#111102-jurisdiction)
 - [1111.03   Application for appeals or variances.](#111103-application-for-appeals-or-variances)
 - [1111.04   Notices.](#111104-notices)
-- [1111.05   Meetings, quorum and vote.](#111105-meetings,-quorum-and-vote)
+- [1111.05   Meetings, quorum and vote.](#111105-meetings-quorum-and-vote)
 - [1111.06   Record of decision.](111106-record-of-decision)
 - [1111.07   Reasons for granting variances.](#111107-reasons-for-granting-variances)
 - [1111.08   Variances for yards; supplemental standards.](#111108-variances-for-yards-supplemental-standards)

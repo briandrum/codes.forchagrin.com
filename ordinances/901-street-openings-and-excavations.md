@@ -6,10 +6,10 @@ chapter_no: 901
 title: "Chapter 901: Street Openings and Excavations"
 ---
 
-* [901.01   Permit required](#90101-Permit required)
-* [901.02   Prerequisites for permit](#90102-Prerequisites for permit)
-* [901.03   Rules and regulations](#90103-Rules and regulations)
-* [901.99   Penalty](#90199-Penalty)
+* [901.01   Permit required](#90101-permit-required)
+* [901.02   Prerequisites for permit](#90102-prerequisites-for-permit)
+* [901.03   Rules and regulations](#90103-rules-and-regulations)
+* [901.99   Penalty](#90199-penalty)
 
 ## Cross references
 

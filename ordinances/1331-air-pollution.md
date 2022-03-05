@@ -6,15 +6,15 @@ chapter_no: 1331
 title: "Chapter 1331: Air Pollution"
 ---
 
-* [1331.01   Scope; compliance required](#133101-Scope; compliance required)
-* [1331.02   Objectives](#133102-Objectives)
-* [1331.03   Enforcement](#133103-Enforcement)
-* [1331.04   Permits, time limitations; inspections](#133104-Permits, time limitations; inspections)
-* [1331.05   Stack and vent emissions](#133105-Stack and vent emissions)
-* [1331.06   Nuisances other than stack emissions](#133106-Nuisances other than stack emissions)
-* [1331.07   Future installations](#133107-Future installations)
-* [1331.08   Determination of violation](#133108-Determination of violation)
-* [1331.99   Penalty](#133199-Penalty)
+* [1331.01   Scope; compliance required](#133101-scope-compliance-required)
+* [1331.02   Objectives](#133102-objectives)
+* [1331.03   Enforcement](#133103-enforcement)
+* [1331.04   Permits, time limitations; inspections](#133104-permits-time-limitations-inspections)
+* [1331.05   Stack and vent emissions](#133105-stack-and-vent-emissions)
+* [1331.06   Nuisances other than stack emissions](#133106-nuisances-other-than-stack-emissions)
+* [1331.07   Future installations](#133107-future-installations)
+* [1331.08   Determination of violation](#133108-determination-of-violation)
+* [1331.99   Penalty](#133199-penalty)
 
 ## Cross references
 

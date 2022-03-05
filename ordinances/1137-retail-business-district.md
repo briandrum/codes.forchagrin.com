@@ -6,12 +6,12 @@ chapter_no: 1137
 title: "Chapter 1137: Retail Business District"
 ---
 
-* [1137.01   Intent](#113701-Intent)
-* [1137.02   Permitted uses](#113702-Permitted uses)
-* [1137.03   Height regulations](#113703-Height regulations)
-* [1137.04   Yard and setback regulations](#113704-Yard and setback regulations)
-* [1137.05   Detailed regulations by type of establishment](#113705-Detailed regulations by type of establishment)
-* [1137.06   Supplemental regulations](#113706-Supplemental regulations)
+* [1137.01   Intent](#113701-intent)
+* [1137.02   Permitted uses](#113702-permitted-uses)
+* [1137.03   Height regulations](#113703-height-regulations)
+* [1137.04   Yard and setback regulations](#113704-yard-and-setback-regulations)
+* [1137.05   Detailed regulations by type of establishment](#113705-detailed-regulations-by-type-of-establishment)
+* [1137.06   Supplemental regulations](#113706-supplemental-regulations)
 
 ## Cross references
 
