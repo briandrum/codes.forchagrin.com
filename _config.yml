@@ -23,3 +23,5 @@ header_pages:
 
 show_excerpts: false
 excerpt_separator: <!--more-->
+
+permalink: /:title/
