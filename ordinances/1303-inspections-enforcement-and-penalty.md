@@ -20,21 +20,14 @@ title: "Chapter 1303: Inspections; Enforcement and Penalty"
 
 ## Cross references
 
-      Enforcement; supervision; records - see Ohio R. C. 3781.03
-      Chief Administrative Officer to enforce Building Code regulations - see
-ADM.
-133.03
-      Driving over sidewalks - see TRAF.
-331.29
-      Improper drainage - see GEN. OFF. 517.04
-      Rat control - see GEN. OFF.
-521.12
-      Inspector to supervise topsoil removal - see BUS. REG. Ch.
-751
-      Inspection fees - see BLDG. Ch.
-1309
-      Tampering with hydrants - see BLDG.
-1351.02
+* Enforcement; supervision; records - see Ohio R. C. 3781.03
+* Chief Administrative Officer to enforce Building Code regulations - see ADM. 133.03
+* Driving over sidewalks - see TRAF. 331.29
+* Improper drainage - see GEN. OFF. 517.04
+* Rat control - see GEN. OFF. 521.12
+* Inspector to supervise topsoil removal - see BUS. REG. Ch. 751
+* Inspection fees - see BLDG. Ch. 1309
+* Tampering with hydrants - see BLDG. 1351.02
 
 ## 1303.01   Administration of building code; permits
 

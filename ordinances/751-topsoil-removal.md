@@ -16,9 +16,8 @@ title: "Chapter 751: Topsoil Removal"
 
 ## Cross references
 
-      Dropping or leaking loads; tracking mud - see TRAF.
-339.08
-      Notice to fill lots - see GEN. OFF. 517.04
+* Dropping or leaking loads; tracking mud - see TRAF. 339.08
+* Notice to fill lots - see GEN. OFF. 517.04
 
 ## 751.01   Removal in residence areas; restoration
 

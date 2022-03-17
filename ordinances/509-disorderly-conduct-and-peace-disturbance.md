@@ -20,14 +20,13 @@ title: "Chapter 509: Disorderly Conduct and Peace Disturbance"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Use of force to suppress riot - see Ohio R.C. 2917.05
-      Cordoning off riot areas, prohibiting sales of firearms and explosives -
-see Ohio R.C. 3761.16
-      Emergency suspension of permits and sales by Director of Liquor Control -
-see Ohio R.C 4301.251
-      Criminal trespass - see GEN. OFF.
-541.05
+* See sectional histories for similar State law
+* Use of force to suppress riot - see Ohio R.C. 2917.05
+* Cordoning off riot areas, prohibiting sales of firearms and explosives - see
+Ohio R.C. 3761.16
+* Emergency suspension of permits and sales by Director of Liquor Control - see
+Ohio R.C 4301.251
+* Criminal trespass - see GEN. OFF. 541.05
 
 ## 509.01   Riot
 

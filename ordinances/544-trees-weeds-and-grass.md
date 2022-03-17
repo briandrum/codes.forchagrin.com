@@ -24,14 +24,12 @@ title: "Chapter 544: Trees, Weeds and Grass"
 
 ## Cross references
 
-      Power to regulate shade trees and shrubbery - see Ohio R.C. 715.20
-      Assessments for tree planting or maintenance - see Ohio R.C. 727.011
-      Notice to cut noxious weeds - see Ohio R.C. 731.51
-      Destruction of weeds - see Ohio R.C. 971.33 et seq.
-      Injury or destruction of trees and growing products - see  GEN. OFF.
-541.06
-      Care of trees during street excavations - see S. & P.S.
-901.03(q)
+* Power to regulate shade trees and shrubbery - see Ohio R.C. 715.20
+* Assessments for tree planting or maintenance - see Ohio R.C. 727.011
+* Notice to cut noxious weeds - see Ohio R.C. 731.51
+* Destruction of weeds - see Ohio R.C. 971.33 et seq.
+* Injury or destruction of trees and growing products - see  GEN. OFF. 541.06
+* Care of trees during street excavations - see S. & P.S. 901.03(q)
 
 ## 544.01   Trimming of trees, shrubbery
 

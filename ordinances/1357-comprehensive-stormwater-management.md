@@ -28,10 +28,8 @@ title: "Chapter 1357: Comprehensive Stormwater Management"
 
 ## Cross references
 
-      Erosion and sediment control - see BLDG. Ch.
-1355
-      Illicit discharge and illegal connection control - see BLDG. Ch.
-1359
+* Erosion and sediment control - see BLDG. Ch. 1355
+* Illicit discharge and illegal connection control - see BLDG. Ch. 1359
 
 ## 1357.01   Purpose and scope 
 

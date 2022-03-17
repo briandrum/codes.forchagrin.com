@@ -17,12 +17,12 @@ title: "Chapter 733: Public Dances and Dance Halls"
 
 ## Cross references
 
-      Public school entertainments and lectures excluded from municipal
-regulation - see Ohio R.C. 715.48
-      Power to regulate public ballrooms - see Ohio R.C. 715.61
-      Human endurance contests - see Ohio R.C. 3773.14
-      Giving a public dance without a permit - see Ohio R.C. 3773.19
-      Intoxicating liquor in dance hall - see Ohio R.C. 4399.14
+* Public school entertainments and lectures excluded from municipal regulation -
+see Ohio R.C. 715.48
+* Power to regulate public ballrooms - see Ohio R.C. 715.61
+* Human endurance contests - see Ohio R.C. 3773.14
+* Giving a public dance without a permit - see Ohio R.C. 3773.19
+* Intoxicating liquor in dance hall - see Ohio R.C. 4399.14
 
 ## 733.01   Compliance required; definitions
 

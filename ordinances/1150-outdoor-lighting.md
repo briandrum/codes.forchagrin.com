@@ -15,8 +15,7 @@ title: "Chapter 1150: Outdoor Lighting"
 
 ## Cross references
 
-Environmental performance regulations - see P. & Z. Ch.
-1144
+* Environmental performance regulations - see P. & Z. Ch. 1144
 
 ## 1150.01   Purpose and intent
 

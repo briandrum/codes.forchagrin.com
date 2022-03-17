@@ -12,7 +12,7 @@ title: "Chapter 1339: Structures Near Lot Lines"
 
 ## Cross references
 
-      Fire prevention - see Part Fifteen - Fire Prevention Code
+* Fire prevention - see Part Fifteen - Fire Prevention Code
 
 ## 1339.01   Structure within three feet of line
 

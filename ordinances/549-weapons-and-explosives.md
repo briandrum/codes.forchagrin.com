@@ -23,14 +23,11 @@ title: "Chapter 549: Weapons and Explosives"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      License or permit to possess dangerous ordnance - see Ohio R.C. 2923.18
-      Hunting prohibited - see GEN. OFF.
-505.11
-      Reporting gunshot and stab wounds - see GEN. OFF.
-525.05(b)
-      Property destruction by tear gas device, etc. - see GEN. OFF.
-541.04
+* See sectional histories for similar State law
+* License or permit to possess dangerous ordnance - see Ohio R.C. 2923.18
+* Hunting prohibited - see GEN. OFF. 505.11
+* Reporting gunshot and stab wounds - see GEN. OFF. 525.05(b)
+* Property destruction by tear gas device, etc. - see GEN. OFF. 541.04
 
 ## 549.01   Definitions
 

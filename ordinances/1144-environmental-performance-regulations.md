@@ -13,8 +13,7 @@ title: "Chapter 1144: Environmental Performance Regulations"
 
 ## Cross references
 
-Solar energy systems - see P. & Z. Ch.
-1153
+Solar energy systems - see P. & Z. Ch. 1153
 
 ## 1144.01   Intent
 

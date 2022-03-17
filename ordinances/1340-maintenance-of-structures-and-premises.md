@@ -35,9 +35,8 @@ title: "Chapter 1340: Maintenance of Structures and Premises"
 
 ## Cross references
 
-      Removal of unsafe structures - see Ohio R. C. 715.26
-      Health, safety and sanitation - see GEN. OFF. Ch.
-521
+* Removal of unsafe structures - see Ohio R. C. 715.26
+* Health, safety and sanitation - see GEN. OFF. Ch. 521
 
 ## 1340.01   Purpose and scope
 

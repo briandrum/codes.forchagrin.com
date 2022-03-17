@@ -17,9 +17,8 @@ title: "Chapter 917: Sanitary Sewer Charges"
 
 ## Cross references
 
-      Weekly deposit of sewer rentals collected - see Ohio R. C. 729.52
-      Treatment and tests - see S. & P.S.
-911.09
+* Weekly deposit of sewer rentals collected - see Ohio R. C. 729.52
+* Treatment and tests - see S. & P.S. 911.09
 
 ## 917.01   Definitions
 

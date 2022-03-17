@@ -29,14 +29,11 @@ title: "Chapter 351: Parking Generally"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Owner nonliability, lease defense - see Ohio R.C. 4511.071
-      Police may remove ignition key from unattended vehicle - see TRAF.
-303.03
-      Parking near stopped fire apparatus - see TRAF.
-331.27
-      Lights on parked or stopped vehicles - see TRAF.
-337.09
+* See sectional histories for similar State law
+* Owner nonliability, lease defense - see Ohio R.C. 4511.071
+* Police may remove ignition key from unattended vehicle - see TRAF. 303.03
+* Parking near stopped fire apparatus - see TRAF. 331.27
+* Lights on parked or stopped vehicles - see TRAF. 337.09
 
 ## 351.01   Police may remove unattended vehicle which obstructs traffic
 

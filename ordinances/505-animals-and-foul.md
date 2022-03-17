@@ -34,11 +34,10 @@ title: "Chapter 505: Animals and Fowl"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Owner or keeper liable for damages - see Ohio R.C. 951.10
-      Dog registration - see Ohio R.C. 955.01
-      Discharging firearms prohibited - see GEN. OFF.
-549.12
+* See sectional histories for similar State law
+* Owner or keeper liable for damages - see Ohio R.C. 951.10
+* Dog registration - see Ohio R.C. 955.01
+* Discharging firearms prohibited - see GEN. OFF. 549.12
 
 ## 505.01   Animals not under control
 

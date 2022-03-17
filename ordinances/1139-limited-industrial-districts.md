@@ -14,14 +14,10 @@ title: "Chapter 1139: Limited Industrial Districts"
 
 ## Cross references
 
-      Noxious or offensive odors - see GEN. OFF.
-521.09
-      Off-street parking - see P. & Z.
-1141.05
-      Signs permitted - see P. & Z.
-1143.06
-      Similar use designations - see P. & Z.
- App. A
+* Noxious or offensive odors - see GEN. OFF. 521.09
+* Off-street parking - see P. & Z. 1141.05
+* Signs permitted - see P. & Z. 1143.06
+* Similar use designations - see P. & Z.  App. A
 
 ## 1139.01   Intent
 

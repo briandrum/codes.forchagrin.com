@@ -14,8 +14,7 @@ title: "Chapter 142: Cemetery Commission"
 
 ## Cross references
 
-Evergreen Cemetery - see S.& P.S. Ch.
-953
+* Evergreen Cemetery - see S.& P.S. Ch. 953
 
 ## 142.01   Creation
 

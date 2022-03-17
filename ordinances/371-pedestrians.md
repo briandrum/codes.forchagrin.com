@@ -23,16 +23,11 @@ title: "Chapter 371: Pedestrians"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Pedestrian defined - see TRAF.
-301.22
-      Pedestrian prohibited on freeways - see TRAF.
-303.06
-      Obedience to traffic control devices - see TRAF.
-313.01,
-313.03
-      Pedestrian control signals - see TRAF.
-313.05
+* See sectional histories for similar State law
+* Pedestrian defined - see TRAF. 301.22
+* Pedestrian prohibited on freeways - see TRAF. 303.06
+* Obedience to traffic control devices - see TRAF. 313.01, 313.03
+* Pedestrian control signals - see TRAF. 313.05
 
 ## 371.01   Right of way in crosswalk
 

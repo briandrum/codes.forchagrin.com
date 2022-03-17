@@ -19,14 +19,11 @@ title: "Chapter 529: Liquor Control"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Prohibiting sale of intoxicating liquor on Sunday - see Ohio R.C. 4301.22
-(D)
-      Local option - see Ohio R.C. 4301.32 et seq., 4303.29
-      Disorderly conduct; intoxication - see GEN. OFF.
-509.03
-      Using weapons while intoxicated - see GEN. OFF.
-549.03
+* See sectional histories for similar State law
+* Prohibiting sale of intoxicating liquor on Sunday - see Ohio R.C. 4301.22(D)
+* Local option - see Ohio R.C. 4301.32 et seq., 4303.29
+* Disorderly conduct; intoxication - see GEN. OFF. 509.03
+* Using weapons while intoxicated - see GEN. OFF. 549.03
 
 ## 529.01   Definitions
 

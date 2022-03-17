@@ -16,11 +16,10 @@ title: "Chapter 951: Parks"
 
 ## Cross references
 
-      Land appropriation for parks - see Ohio R.C. 715.21, 719.01
-      Municipal parks - see Ohio R. C. 755.01 et seq.
-      Power to regulate vehicle speed in parks - see Ohio R.C. 4511.07(E)
-      Vandalism - see GEN. OFF.
-541.04
+* Land appropriation for parks - see Ohio R.C. 715.21, 719.01
+* Municipal parks - see Ohio R. C. 755.01 et seq.
+* Power to regulate vehicle speed in parks - see Ohio R.C. 4511.07(E)
+* Vandalism - see GEN. OFF. 541.04
 
 ## 951.01   Prohibited hours in public property
 

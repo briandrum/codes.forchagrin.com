@@ -16,13 +16,10 @@ title: "Chapter 933: Garbage and Refuse Collection"
 
 ## Cross references
 
-      Collection and disposal of garbage and refuse - see Ohio R. C. 715.43,
-717.01
-      Employment of scavengers - see Ohio R. C. 3707.39
-      Littering and deposit of garbage or refuse - see GEN. OFF.
-521.08
-      Rat control - see GEN. OFF.
-521.12
+* Collection and disposal of garbage and refuse - see Ohio R. C. 715.43, 717.01
+* Employment of scavengers - see Ohio R. C. 3707.39
+* Littering and deposit of garbage or refuse - see GEN. OFF. 521.08
+* Rat control - see GEN. OFF. 521.12
 
 ## 933.01   Receptacles for refuse
 

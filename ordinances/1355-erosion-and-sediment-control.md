@@ -25,11 +25,8 @@ title: "Chapter 1355: Erosion and Sediment Control"
 
 ## Cross references
 
-Comprehensive stormwater management - see BLDG. Ch.
-1357
-
-Illicit discharge and illegal connection control - see BLDG. Ch.
-1359
+* Comprehensive stormwater management - see BLDG. Ch. 1357
+* Illicit discharge and illegal connection control - see BLDG. Ch. 1359
 
 ## 1355.01   Purpose and scope
 
@@ -741,7 +738,7 @@ soil particle sizes expected to be present on the site.
 5. _(e)_ All sediment control must be capable of ponding runoff in order to be
 considered functional. Earth diversion dikes or channels alone are not
 considered a sediment unless used in conjunction with a sediment settling pond.
-      Sediment control must meet the following requirements:
+Sediment control must meet the following requirements:
     1. _(1)_ Timing. Sediment control structures shall be functional throughout
 the course of earth disturbing activity. Sediment basins and perimeter sediment
 barriers shall be implemented prior to grading and within seven (7) days from

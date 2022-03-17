@@ -13,8 +13,7 @@ title: "Chapter 1123: Park District"
 
 ## Cross references
 
-Parks - see S. & P.S. Ch.
-951
+* Parks - see S. & P.S. Ch. 951
 
 ## 1123.01   Intent
 

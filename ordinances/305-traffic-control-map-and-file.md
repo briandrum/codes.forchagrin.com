@@ -14,21 +14,22 @@ Appendix A - Traffic Map Amendments.
 
 ## Cross references
 
-      Authority to designate traffic control areas - see Ohio R. C. 4511.07
+* Authority to designate traffic control areas - see Ohio R. C. 4511.07
 
 ## 305.01   Traffic control map
 
 There is hereby established a Traffic Control Map to show at all times the
 Municipality’s current:
-(a)    Through streets.
-(b)    Stop intersections.
-(c)    Yield right of way.
-(d)    One-way streets and alleys.
-(e)    Loading zones.
-(f)    Prohibited and limited parking areas.
-(g)    Angle parking areas.
-(h)    Parking meter zones.
-(i)    Prohibited and restricted turning movements.
+
+1. _(a)_ Through streets.
+2. _(b)_ Stop intersections.
+3. _(c)_ Yield right of way.
+4. _(d)_ One-way streets and alleys.
+5. _(e)_ Loading zones.
+6. _(f)_ Prohibited and limited parking areas.
+7. _(g)_ Angle parking areas.
+8. _(h)_ Parking meter zones.
+9. _(i)_ Prohibited and restricted turning movements.
 10. _(j)_ Valet zones.
 
 The Traffic Control Map shall be prepared and kept on file in the Police
@@ -48,12 +49,13 @@ The Traffic Control File existing as of the date of passage of this Traffic
 Code is incorporated as part of this Traffic Code.
 
 The Traffic Control File shall include the following information:
-(a)    Type of traffic control designation.
-(b)    Complete description of the street or area affected.
-(c)    Number of ordinance authorizing designation.
-(d)    Effective date of ordinance.
-(e)    Date proper signs and markings were erected.
-(f)    Date recorded upon Traffic Control Map.
+
+1. _(a)_ Type of traffic control designation.
+2. _(b)_ Complete description of the street or area affected.
+3. _(c)_ Number of ordinance authorizing designation.
+4. _(d)_ Effective date of ordinance.
+5. _(e)_ Date proper signs and markings were erected.
+6. _(f)_ Date recorded upon Traffic Control Map.
 
 ## 305.03   Amendments
 

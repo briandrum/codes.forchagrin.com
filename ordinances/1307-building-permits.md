@@ -33,15 +33,11 @@ title: "Chapter 1307: Building Permits"
 
 ## Cross references
 
-      Partition fences - see Ohio R. C. 971.02 et seq.
-      Construction of sidewalks, curbs and driveways - see S. & P. S.
-903.03
-      Permit fees listed - see BLDG. Ch.
-1309
-      Plumbers, electrical and heating contractor’s licensing - see BLDG. Ch.
-1335
-      Toilet connections to sanitary sewers - see BLDG.
-1343.02
+* Partition fences - see Ohio R. C. 971.02 et seq.
+* Construction of sidewalks, curbs and driveways - see S. & P. S. 903.03
+* Permit fees listed - see BLDG. Ch. 1309
+* Plumbers, electrical and heating contractor’s licensing - see BLDG. Ch. 1335
+* Toilet connections to sanitary sewers - see BLDG. 1343.02
 
 ## 1307.01   Building permits required; application; plans and drawings
 

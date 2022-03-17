@@ -11,7 +11,6 @@ and any future legislation.
 
 ## Cross references
 
-      Municipal library - see Ohio R.C. 715.13, 717.01, 3375.12 et seq.
-      County free public library - see Ohio R. C. 3375.06
-      Malicious damage to building or fixtures - see GEN. OFF.
-541.04
+* Municipal library - see Ohio R.C. 715.13, 717.01, 3375.12 et seq.
+* County free public library - see Ohio R. C. 3375.06
+* Malicious damage to building or fixtures - see GEN. OFF. 541.04

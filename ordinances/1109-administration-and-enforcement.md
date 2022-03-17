@@ -21,9 +21,7 @@ Table A
 
             Rezoning and variance fees - see ADM.
 125.06
-            Building permits and fees - see BLDG. Ch.
-1307,
-1309
+            Building permits and fees - see BLDG. Ch. 1307, 1309
             Occupancy permit defined - see P. & Z.
 1107.15
 

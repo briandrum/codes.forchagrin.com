@@ -13,24 +13,19 @@ title: "Chapter 901: Street Openings and Excavations"
 
 ## Cross references
 
-      Establishment and care of streets - see Ohio R.C. 715.19, 717.01, 723.01
-      Openings by the Municipality - see Ohio R. C. 723.02
-      Excavation liability - see Ohio R. C. 723.49
-      Street obstructions and special uses - see TRAF. Ch.
-311
-      Driving on street while closed for repair - see TRAF.
-331.26
-      Abandoned excavations - see GEN. OFF.
-521.03
-      Misdemeanor provisions relating to streets and sidewalks - see GEN. OFF
-Ch.
+* Establishment and care of streets - see Ohio R.C. 715.19, 717.01, 723.01
+* Openings by the Municipality - see Ohio R. C. 723.02
+* Excavation liability - see Ohio R. C. 723.49
+* Street obstructions and special uses - see TRAF. Ch. 311
+* Driving on street while closed for repair - see TRAF. 331.26
+* Abandoned excavations - see GEN. OFF. 521.03
+* Misdemeanor provisions relating to streets and sidewalks - see GEN. OFF Ch.
 543
-      Bond of private builder against damage or nuisance to street - see BLDG. 
+* Bond of private builder against damage or nuisance to street - see BLDG. 
 1307.03
-      Filling street excavations and restoring street area upon revocation of
-building permit - see BLDG
-1307.09
-      Protection of work by signs and barriers - see BLDG. 1335.07
+* Filling street excavations and restoring street area upon revocation of
+building permit - see BLDG 1307.09
+* Protection of work by signs and barriers - see BLDG. 1335.07
 
 ## 901.01   Permit required
 

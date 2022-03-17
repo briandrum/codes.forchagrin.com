@@ -17,8 +17,7 @@ title: "Chapter 1124: Institutional District"
 
 ## Cross references
 
-District established - see P. & Z. Ch.
-1119
+* District established - see P. & Z. Ch. 1119
 
 ## 1124.01   Intent
 

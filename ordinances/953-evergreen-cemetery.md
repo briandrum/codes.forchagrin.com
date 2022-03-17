@@ -25,16 +25,13 @@ Department of Finance for information concerning current costs and fees.
 
 ## Cross references
 
-      Cemetery Commission - see ADM. Ch.
-142
-      Burials may be prohibited - see Ohio R. C. 759.05
-      Management and control - see Ohio R. C. 759.20
-      Union cemeteries - see Ohio R. C. 759.27 et seq.
-      Burial permits - see Ohio R. C. 3705.24 et seq.
-      Burial of indigent persons - see Ohio R. C. 5113.15
-      Malicious damage to tombstone or cemetery property - see GEN. OFF.
-541.04,
-541.07
+* Cemetery Commission - see ADM. Ch. 142
+* Burials may be prohibited - see Ohio R. C. 759.05
+* Management and control - see Ohio R. C. 759.20
+* Union cemeteries - see Ohio R. C. 759.27 et seq.
+* Burial permits - see Ohio R. C. 3705.24 et seq.
+* Burial of indigent persons - see Ohio R. C. 5113.15
+* Malicious damage to tombstone or cemetery property - see GEN. OFF. 541.04, 541.07
 
 ## 953.01   Definitions
 

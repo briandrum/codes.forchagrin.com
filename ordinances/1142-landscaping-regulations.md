@@ -18,14 +18,12 @@ title: "Chapter 1142: Landscaping Regulations"
 
 ## Cross references
 
-                     Grade defined - see P. & Z.
-1107.08
-                     Flood control - see BLDG. Ch.
-1353
+* Grade defined - see P. & Z. 1107.08
+* Flood control - see BLDG. Ch. 1353
 
 ## 1142.01   Intent
 
-     It is the intent of these regulations to achieve, among others, the
+It is the intent of these regulations to achieve, among others, the
 following purposes.
 
 1. _(a)_ To ensure that the open areas on developed lots are attractively
@@ -37,7 +35,7 @@ from adjoining nonresidential developments.
 
 ## 1142.02   Applicability
 
-     The regulations of this chapter shall apply to all zoning districts except
+The regulations of this chapter shall apply to all zoning districts except
 R1 and R2F Districts, which are regulated by provisions of Chapter 1125 and
 1126.  
 (Ord. 2019-39. Passed 8-13-19.)

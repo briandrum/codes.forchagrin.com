@@ -12,15 +12,11 @@ title: "Chapter 503: Advertising, Billposting and Handbills"
 
 ## Cross references
 
-      Power to regulate - see Ohio R. C. 715.65
-      Defacing or destroying notifications - see GEN. OFF.
-541.04
-      Unauthorized traffic signs; advertising on traffic signs - see TRAF.
-313.06
-      Driving for advertising purposes - see TRAF.
-331.40
-      Signs and outdoor advertising - see BLDG. Ch.
-1347
+* Power to regulate - see Ohio R. C. 715.65
+* Defacing or destroying notifications - see GEN. OFF. 541.04
+* Unauthorized traffic signs; advertising on traffic signs - see TRAF. 313.06
+* Driving for advertising purposes - see TRAF. 331.40
+* Signs and outdoor advertising - see BLDG. Ch. 1347
 
 ## 503.01   Advertising on private property
 

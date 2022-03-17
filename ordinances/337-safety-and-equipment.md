@@ -39,34 +39,17 @@ title: "Chapter 337: Safety and Equipment"
 
 ## Cross references
 
-See sectional histories for similar State law
-
-Warning devices for commercial vehicles disabled upon freeways - see Ohio
-R.C. 4513.28
-
-Slow moving vehicle emblem - see OAC Ch. 4501.13
-
-Motorized bicycle lights and equipment - see Ohio R.C. 4511.521
-
-Vehicle lighting - see OAC 4501-15
-
-Use of stop and turn signals - see TRAF.
-331.14
-
-Wheel protectors for commercial vehicles - see TRAF.
-339.05
-
-Vehicles transporting explosives - see TRAF.
-339.06
-
-Towing requirements - see TRAF.
-339.07
-
-Use of studded tires and chains - see TRAF.
-339.11
-
-Bicycle equipment - see TRAF.
-373.05 et seq.
+* See sectional histories for similar State law
+* Warning devices for commercial vehicles disabled upon freeways - see Ohio R.C. 4513.28
+* Slow moving vehicle emblem - see OAC Ch. 4501.13
+* Motorized bicycle lights and equipment - see Ohio R.C. 4511.521
+* Vehicle lighting - see OAC 4501-15
+* Use of stop and turn signals - see TRAF. 331.14
+* Wheel protectors for commercial vehicles - see TRAF. 339.05
+* Vehicles transporting explosives - see TRAF. 339.06
+* Towing requirements - see TRAF. 339.07
+* Use of studded tires and chains - see TRAF. 339.11
+* Bicycle equipment - see TRAF. 373.05 et seq.
 
 ## 337.01   Driving unsafe vehicles
 

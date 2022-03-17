@@ -24,16 +24,12 @@ title: "Chapter 513: Drug Abuse Control"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Federal prosecution bar to local prosecution - see Ohio R.C. 2925.50,
-3719.19
-      Analysis report and notarized statement as evidence - see Ohio R.C.
-2925.51
-      Criteria for granting probation - see Ohio R.C 3719.70(B)
-      Adulterating food with drug of abuse - see GEN. OFF.
-537.13
-      Using weapons while under the influence - see GEN. OFF.
-549.03
+* See sectional histories for similar State law
+* Federal prosecution bar to local prosecution - see Ohio R.C. 2925.50, 3719.19
+* Analysis report and notarized statement as evidence - see Ohio R.C. 2925.51
+* Criteria for granting probation - see Ohio R.C 3719.70(B)
+* Adulterating food with drug of abuse - see GEN. OFF. 537.13
+* Using weapons while under the influence - see GEN. OFF. 549.03
 
 ## 513.01   Definitions
 

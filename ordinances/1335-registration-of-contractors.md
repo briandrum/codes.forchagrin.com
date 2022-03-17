@@ -19,12 +19,10 @@ title: "Chapter 1335: Registration of Contractors"
 
 ## Cross references
 
-      Municipal authority to regulate contractors - see Ohio R.C. 715.27
-      Ohio State Plumbing Code - see OAC Ch. 4101:3-1 et seq.
-      Street openings and excavations - see S.& P.S.
- 901.01 et seq.
-      Heating permits - see BLDG.
-1307.15
+* Municipal authority to regulate contractors - see Ohio R.C. 715.27
+* Ohio State Plumbing Code - see OAC Ch. 4101:3-1 et seq.
+* Street openings and excavations - see S.& P.S. 901.01 et seq.
+* Heating permits - see BLDG. 1307.15
 
 ## 1335.01   Purposes
 

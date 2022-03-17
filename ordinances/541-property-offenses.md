@@ -22,17 +22,12 @@ title: "Chapter 541: Property Offenses"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Parents’ liability for destructive acts of their children - see Ohio R.C.
-3109.09
-      Physical harm to property defined - see GEN. OFF.
-501.01(d), (f)
-      Reimbursement for investigation or prosecution costs - see GEN. OFF.
-501.99(a)
-      Damage to sidewalks - see GEN. OFF.
-521.04
-      Vehicle trespass - see GEN. OFF.
-545.06
+* See sectional histories for similar State law
+* Parents’ liability for destructive acts of their children - see Ohio R.C. 3109.09
+* Physical harm to property defined - see GEN. OFF. 501.01(d), (f)
+* Reimbursement for investigation or prosecution costs - see GEN. OFF. 501.99(a)
+* Damage to sidewalks - see GEN. OFF. 521.04
+* Vehicle trespass - see GEN. OFF. 545.06
 
 ## 541.01   Determining property value in arson
 

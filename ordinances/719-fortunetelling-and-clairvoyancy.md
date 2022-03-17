@@ -11,7 +11,7 @@ title: "Chapter 719: Fortunetelling and Clairvoyancy"
 
 ## Cross references
 
-      Power to regulate - see Ohio R.C. 2911.16
+* Power to regulate - see Ohio R.C. 2911.16
 
 ## 719.01   License required
 

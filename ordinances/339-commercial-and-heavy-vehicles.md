@@ -26,11 +26,10 @@ title: "Chapter 339: Commercial and Heavy Vehicles"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Weighing vehicle; removal of excess load - see Ohio R.C. 4513.33
-      Arrest notice of driver - see Ohio R.C. 5577.14
-      Slower moving vehicles to be driven in right-hand lane - see TRAF.
-331.01(b)
+* See sectional histories for similar State law
+* Weighing vehicle; removal of excess load - see Ohio R.C. 4513.33
+* Arrest notice of driver - see Ohio R.C. 5577.14
+* Slower moving vehicles to be driven in right-hand lane - see TRAF. 331.01(b)
 
 ## 339.01   Oversize or overweight vehicle operation on state routes; state permit
 

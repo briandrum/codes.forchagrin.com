@@ -17,21 +17,16 @@ title: "Chapter 931: Water"
 
 ## Cross references
 
-      Power to provide and regulate system - see Ohio R.C. 715.08, 717.01,
-743.01
-      Water pollution - see Ohio R. C. 715.08, 743.24 et seq; GEN. OFF.
-521.05
-      Water works mortgage revenue bonds - see Ohio R. C. 715.09 et seq.
-      Compulsory connections - see Ohio R. C. 729.06, 743.23
-      Weekly deposit of water works money collected - see Ohio R. C. 743.06
-      Tampering with hydrants, pipes or meters; unauthorized connections - see
-Ohio R. C. 4933.22
-      Interference with system - see GEN. OFF.
-521.04
-      Water permits - see BLDG.
-1307.07
-      Approval of water connections - see BLDG.
-1307.12
+* Power to provide and regulate system - see Ohio R.C. 715.08, 717.01, 743.01
+* Water pollution - see Ohio R. C. 715.08, 743.24 et seq; GEN. OFF. 521.05
+* Water works mortgage revenue bonds - see Ohio R. C. 715.09 et seq.
+* Compulsory connections - see Ohio R. C. 729.06, 743.23
+* Weekly deposit of water works money collected - see Ohio R. C. 743.06
+* Tampering with hydrants, pipes or meters; unauthorized connections - see Ohio
+R. C. 4933.22
+* Interference with system - see GEN. OFF. 521.04
+* Water permits - see BLDG. 1307.07
+* Approval of water connections - see BLDG. 1307.12
 
 ## 931.01   Mayor’s authority to limit water use
 

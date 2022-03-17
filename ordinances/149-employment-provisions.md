@@ -45,8 +45,7 @@ to contact the Director of Finance for copies of relevant legislation.)
 * Public employees retirement system - see Ohio R.C. Ch. 145
 * Expenses for attendance at conference or convention - see Ohio R.C. 733.79
 * Strikes by public employees - see Ohio R.C. Ch. 4117
-* Workmen’s compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. Ch.
-4123
+* Workmen’s compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. Ch. 4123
 
 ## 149.01   Within-range pay adjustments
 

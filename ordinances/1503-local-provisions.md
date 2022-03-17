@@ -23,13 +23,11 @@ title: "Chapter 1503: Local Provisions"
 
 ## Cross references
 
-      Power to regulate against fires - see Ohio R.C. 737.21, 737.37
-      Investigation of fires - see Ohio R.C. 737.27, 3737.08
-      Tampering with water hydrants - see Ohio R.C. 4933.22
-      Accumulations of fire hazards - see GEN. OFF.
-521.13
-      Adoption of Model Codes - see FIRE PREV. Ch.
-1501
+* Power to regulate against fires - see Ohio R.C. 737.21, 737.37
+* Investigation of fires - see Ohio R.C. 737.27, 3737.08
+* Tampering with water hydrants - see Ohio R.C. 4933.22
+* Accumulations of fire hazards - see GEN. OFF. 521.13
+* Adoption of Model Codes - see FIRE PREV. Ch. 1501
 
 ## 1503.01   Outdoor fires
 

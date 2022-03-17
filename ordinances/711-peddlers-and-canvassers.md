@@ -19,13 +19,11 @@ title: "Chapter 711: Peddlers and Canvassers"
 
 ## Cross references
 
-      Power to inspect food products - see Ohio R. C. 715.46
-      Power to regulate - see Ohio R. C. 715.61 et seq.
-      Charitable solicitations - see Ohio R.C. Ch. 1716
-      Littering - see GEN. OFF.
-521.08
-      Trespassing- see GEN. OFF.
-541.05
+* Power to inspect food products - see Ohio R. C. 715.46
+* Power to regulate - see Ohio R. C. 715.61 et seq.
+* Charitable solicitations - see Ohio R.C. Ch. 1716
+* Littering - see GEN. OFF. 521.08
+* Trespassing- see GEN. OFF. 541.05
 
 ## 711.01   Purpose
 

@@ -28,16 +28,11 @@ title: "Chapter 373: Bicycles and Motorcycles"
 
 ## Cross references
 
-      Bicycle; motorized bicycle defined - see TRAF.
-301.04
-      Motorcycle defined - see TRAF.
-301.19
-      Motorcycle operator’s license required - see TRAF.
-335.01(a)
-      Motorcycle headlight - see TRAF.
-337.03
-      Motorcycle brakes - see TRAF.
-337.18
+* Bicycle; motorized bicycle defined - see TRAF. 301.04
+* Motorcycle defined - see TRAF. 301.19
+* Motorcycle operator’s license required - see TRAF. 335.01(a)
+* Motorcycle headlight - see TRAF. 337.03
+* Motorcycle brakes - see TRAF. 337.18
 
 ## 373.01   Parent’s responsibility
 

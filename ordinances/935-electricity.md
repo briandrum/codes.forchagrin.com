@@ -11,9 +11,7 @@ and any future legislation.
 
 ## Cross references
 
-      Regulation of rates - see Ohio R.C. 715.27, 743.26, 743.28
-      Electrical fences prohibited - see GEN. OFF. 517.07
-      Electrical permit fees - see BLDG.
-1309.02 et seq.
-      Licensing electrical contractors - see BLDG. Ch.
-1335
+* Regulation of rates - see Ohio R.C. 715.27, 743.26, 743.28
+* Electrical fences prohibited - see GEN. OFF. 517.07
+* Electrical permit fees - see BLDG. 1309.02 et seq.
+* Licensing electrical contractors - see BLDG. Ch. 1335

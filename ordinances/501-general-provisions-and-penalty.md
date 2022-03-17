@@ -23,12 +23,11 @@ title: "Chapter 501: General Provisions and Penalty"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Limitation of prosecution for income tax violations - see Ohio R.C.
-718.06
-      Modification of sentence - see Ohio R.C. 2929.10(C), (D)
-      Penalty considerations - see Ohio R.C. 2929.22
-      Citation issuance for minor misdemeanors - see Ohio R.C. 2935.26 et seq.
+* See sectional histories for similar State law
+* Limitation of prosecution for income tax violations - see Ohio R.C. 718.06
+* Modification of sentence - see Ohio R.C. 2929.10(C), (D)
+* Penalty considerations - see Ohio R.C. 2929.22
+* Citation issuance for minor misdemeanors - see Ohio R.C. 2935.26 et seq.
 
 ## 501.01   Definitions
 

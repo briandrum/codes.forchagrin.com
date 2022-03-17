@@ -15,12 +15,9 @@ title: "Chapter 1152: Hillside Protection"
 
 ## Cross references
 
-               Landscaping regulations - see P. & Z. Ch.
-1142
-               Riparian buffer regulations - see P. & Z. Ch.
-1151
-               Flood damage protection - see BLDG. Ch.
-1353
+* Landscaping regulations - see P. & Z. Ch. 1142
+* Riparian buffer regulations - see P. & Z. Ch. 1151
+* Flood damage protection - see BLDG. Ch. 1353
 
 ## 1152.01   Intent
 

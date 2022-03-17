@@ -13,8 +13,7 @@ title: "Chapter 1151: Riparian Buffer Regulations"
 
 ## Cross references
 
-Hillside protection - see P. & Z. Ch.
-1152
+* Hillside protection - see P. & Z. Ch. 1152
 
 ## 1151.01   Intent
 

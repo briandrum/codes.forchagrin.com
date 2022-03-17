@@ -13,9 +13,8 @@ title: "Chapter 1351: Safety During Building Operations"
 
 ## Cross references
 
-      Removal of unsafe structures - see Ohio R.C. 715.26(B), 715.261
-      Inspection of dangerous equipment and structures - see BLDG.
-1303.08
+* Removal of unsafe structures - see Ohio R.C. 715.26(B), 715.261
+* Inspection of dangerous equipment and structures - see BLDG. 1303.08
 
 ## 1351.01   Provisions for safety of employees
 

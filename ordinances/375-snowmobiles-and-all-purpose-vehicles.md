@@ -12,14 +12,12 @@ title: "Chapter 375: Snowmobiles and All Purpose Vehicles"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Power of trial court of record to impound registration certificate for
-certain violations - see Ohio R. C. 4519.47
-      Power to regulate; municipal licensing prohibited - see Ohio R.C. 4519.48
-      Street or highway defined - see TRAF.
-301.42
-      Required usage of helmets and safety glasses - see TRAF.
-373.05(f)
+* See sectional histories for similar State law
+* Power of trial court of record to impound registration certificate for certain
+violations - see Ohio R. C. 4519.47
+* Power to regulate; municipal licensing prohibited - see Ohio R.C. 4519.48
+* Street or highway defined - see TRAF. 301.42
+* Required usage of helmets and safety glasses - see TRAF. 373.05(f)
 
 ## 375.01   Definitions
 

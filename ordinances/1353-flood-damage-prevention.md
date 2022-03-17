@@ -135,30 +135,30 @@ Federal Emergency Management Agency has delineated the special flood hazard
 areas.
 13. _(m)_ "Flood Insurance Risk Zones" means zone designations on FHBMs and
 FIRMs that indicate the magnitude of the flood hazard in specific areas of a
-community. Following are the zone definitions:
-      Zone A:
+community. Following are the zone definitions:  
+Zone A:  
 Special flood hazard areas inundated by the 100-year flood; base flood
-elevations are not determined.
-      Zones Al-30 and Zone AE:
+elevations are not determined.  
+Zones Al-30 and Zone AE:  
 Special flood hazard areas inundated by the 100-year flood; base flood
-elevations are determined.
-      Zone AO:
+elevations are determined.  
+Zone AO:  
 Special flood hazard areas inundated by the 100-year flood; with flood depths
 of 1 to 3 feet (usually sheet flow on sloping terrain); average depths are
-determined.
-      Zone AH:
+determined.  
+Zone AH:  
 Special flood hazard areas inundated by the 100-year flood; flood depths of 1
-to 3 feet (usually areas of ponding); base flood elevations are determined.
-      Zone A99:
+to 3 feet (usually areas of ponding); base flood elevations are determined.  
+Zone A99:  
 Special flood hazard areas inundated by the 100-year flood to be protected from
 the 100-year flood by a Federal flood protection system under construction; no
-base flood elevations are determined.
-      Zone B and Zone X (shaded):
+base flood elevations are determined.  
+Zone B and Zone X (shaded):  
 Areas of 500-year flood; areas subject to the 100-year flood with average
 depths of less than 1 foot or with contributing drainage area less than 1
-square mile; and areas protected by levees from the base flood.
-      Zone C and Zone X (unshaded):
-      Areas determined to be outside the 500-year floodplain.
+square mile; and areas protected by levees from the base flood.  
+Zone C and Zone X (unshaded):  
+Areas determined to be outside the 500-year floodplain.
 14. _(n)_ "Flood Insurance Study" means the official report in which the
 Federal Emergency Management Agency has provided flood profiles, floodway
 boundaries and the water surface elevations of the base flood.

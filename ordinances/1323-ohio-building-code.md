@@ -10,10 +10,10 @@ title: "Chapter 1323: Ohio Building Code"
 
 ## Cross references
 
-      Adoption of technical codes - see Ohio R. C. 731.231
-      State building regulations do not prevent municipalities from  making
-further regulations - see Ohio R. C. 3781.01
-      State examination of public buildings as to fire safety - see Ohio R. C.
+* Adoption of technical codes - see Ohio R. C. 731.231
+* State building regulations do not prevent municipalities from  making further
+regulations - see Ohio R. C. 3781.01
+* State examination of public buildings as to fire safety - see Ohio R. C.
 737.34
 
 ## 1323.01   Application of state standards; conflict

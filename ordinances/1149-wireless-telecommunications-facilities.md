@@ -16,8 +16,7 @@ title: "Chapter 1149: Wireless Telecommunications Facilities"
 
 ## Cross references
 
-Use of public ways for small cell facilities - see S.& P.S. Ch.
-941
+* Use of public ways for small cell facilities - see S.& P.S. Ch. 941
 
 ## 1149.01   Intent
 

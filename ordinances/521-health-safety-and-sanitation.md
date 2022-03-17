@@ -26,13 +26,12 @@ title: "Chapter 521: Health, Safety and Sanitation"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Flagpole installation in sidewalk - see Ohio R.C. 723.012
-      Excavation liability - see Ohio R.C. 723.49 et seq.
-      Removal of noxious weeds or litter - see Ohio R.C. 731.51 et seq.
-      Nuisances - see Ohio R.C. Ch. 3767
-      Tampering with safety devices - see GEN. OFF.
-541.04
+* See sectional histories for similar State law
+* Flagpole installation in sidewalk - see Ohio R.C. 723.012
+* Excavation liability - see Ohio R.C. 723.49 et seq.
+* Removal of noxious weeds or litter - see Ohio R.C. 731.51 et seq.
+* Nuisances - see Ohio R.C. Ch. 3767
+* Tampering with safety devices - see GEN. OFF. 541.04
 
 ## 521.01   Abandoned refrigerators and airtight containers
 

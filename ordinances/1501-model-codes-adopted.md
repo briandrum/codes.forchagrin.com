@@ -24,20 +24,17 @@ title: "Chapter 1501: Model Codes Adopted"
 
 ## Cross references
 
-      Power to regulate elevators, stairways and fire escapes - See Ohio R.C.
-715.26
-      Fire protection contracts - see Ohio R.C. 717.02
-      Adoption of technical codes - see Ohio R.C. 731.231
-      Power to regulate against fires - see Ohio R.C. 737.21, 737.37
-      Investigation of fires - see Ohio R.C. 737.27, 3737.08
-      Right to examine buildings - see Ohio R.C. 737.34 et seq., 3737.14
-      Petroleum liquids and gasses - see Ohio R.C. 3737.17 et seq.
-      Dry cleaning and dyeing - see Ohio R.C. Ch. 3739
-      Gasoline, oils and paints - see Ohio R.C. Ch. 3741
-      Fireworks and explosives - see GEN. OFF. Ch.
-549
-      Fire limits - see BLDG. Ch.
-1333
+* Power to regulate elevators, stairways and fire escapes - See Ohio R.C. 715.26
+* Fire protection contracts - see Ohio R.C. 717.02
+* Adoption of technical codes - see Ohio R.C. 731.231
+* Power to regulate against fires - see Ohio R.C. 737.21, 737.37
+* Investigation of fires - see Ohio R.C. 737.27, 3737.08
+* Right to examine buildings - see Ohio R.C. 737.34 et seq., 3737.14
+* Petroleum liquids and gasses - see Ohio R.C. 3737.17 et seq.
+* Dry cleaning and dyeing - see Ohio R.C. Ch. 3739
+* Gasoline, oils and paints - see Ohio R.C. Ch. 3741
+* Fireworks and explosives - see GEN. OFF. Ch. 149
+* Fire limits - see BLDG. Ch. 1333
 
 ## 1501.01   Adoption of the Ohio fire code, NFPA, and the OBBC
 

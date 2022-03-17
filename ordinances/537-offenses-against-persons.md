@@ -31,11 +31,9 @@ title: "Chapter 537: Offenses Against Persons"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Physical harm to persons defined - see GEN. OFF.
-501.01 (c), (e)
-      Fighting; provoking violent response - see GEN. OFF.
-509.03
+* See sectional histories for similar State law
+* Physical harm to persons defined - see GEN. OFF. 501.01 (c), (e)
+* Fighting; provoking violent response - see GEN. OFF. 509.03
 
 ## 537.01   Negligent homicide
 

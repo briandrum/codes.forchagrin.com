@@ -16,13 +16,10 @@ title: "Chapter 1321: Village of Chagrin Falls Residential Code for One-, Two- a
 
 ## Cross references
 
-      Adoption by reference - see Ohio R.C. 731.231
-      Authority to regulate and inspect building construction, alteration,
-sanitation, etc. - see Ohio R. C. 715.26 et seq.
-      State building regulations do not prevent municipalities from making
-further regulations - see Ohio R. C. 3781.01
-      Building standard provisions of Ohio Revised Code - see Ohio R. C.
-3781.01 et seq.
+* Adoption by reference - see Ohio R.C. 731.231
+* Authority to regulate and inspect building construction, alteration, sanitation, etc. - see Ohio R. C. 715.26 et seq.
+* State building regulations do not prevent municipalities from making further regulations - see Ohio R. C. 3781.01
+* Building standard provisions of Ohio Revised Code - see Ohio R. C. 3781.01 et seq.
 
 ## 1321.01   Definitions
 

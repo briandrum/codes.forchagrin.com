@@ -20,13 +20,10 @@ title: "Chapter 543: Streets and Sidewalks"
 
 ## Cross references
 
-      Construction or repair of sidewalk at owner’s expense - see Ohio R.C.
-729.01 et seq.
-      Notice to construct or repair sidewalks - see Ohio R.C. 729.03 et seq.
-      Unlawful congregation on sidewalks - see GEN. OFF.
-509.03(a)(4)
-      Streets and sidewalks - see
-Title One - Streets and Public Services Code
+* Construction or repair of sidewalk at owner’s expense - see Ohio R.C. 729.01 et seq.
+* Notice to construct or repair sidewalks - see Ohio R.C. 729.03 et seq.
+* Unlawful congregation on sidewalks - see GEN. OFF. 509.03(a)(4)
+* Streets and sidewalks - see Title One - Streets and Public Services Code
 
 ## 543.01   Cleaning and repairing sidewalks; remedy of municipality for noncompliance
 

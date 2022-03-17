@@ -19,8 +19,7 @@ title: "Chapter 1359: Illicit Discharge and Illegal Connection Control"
 
 ## Cross references
 
-Storm Water Management - see BLDG. Ch.
-1357
+* Storm Water Management - see BLDG. Ch. 1357
 
 ## 1359.01   Purpose and scope
 

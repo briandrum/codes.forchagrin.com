@@ -70,7 +70,7 @@ or credits won as prizes while using the electronic device;
 twenty per cent of the gross revenue received at one location; or
     9. _(9)_ A participant makes a purchase or exchange in order to obtain any
 good or service that may be used to facilitate play on the electronic device.
-      As used in this subsection, “electronic device” means a mechanical,
+As used in this subsection, “electronic device” means a mechanical,
 video, digital or electronic machine or device that is capable of displaying
 information on a screen or other mechanism and that is owned, leased or
 otherwise possessed by any person conducting a scheme of chance, or by that
@@ -112,7 +112,7 @@ and described in subsection 501(c)(3) of the Internal Revenue Code;
 organization, veteran’s organization, fraternal organization, or sporting
 organization that is exempt from federal, income taxation under subsection 501
 (c)(4), (c)(7), (c)(8), (c)(10) or (c)(19) of the Internal Revenue Code.
-      To qualify as a charitable organization, an organization shall have been
+To qualify as a charitable organization, an organization shall have been
 in continuous existence as such in this State for a period of two years
 immediately preceding either the making of an application for a bingo license
 under Ohio R.C. 2915.08 or the conducting of any game of chance as provided in

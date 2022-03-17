@@ -31,10 +31,8 @@ title: "Chapter 1141: Off-Street Parking and Loading"
 1142.06
               Nonconforming facilities - see P. & Z.
 1145.03(e)
-              Parking areas, loading space defined - see P. & Z. Ch.
-1107
-              Park and institutional districts - see P. & Z. Ch.
-1123
+              Parking areas, loading space defined - see P. & Z. Ch. 1107
+              Park and institutional districts - see P. & Z. Ch. 1123
               Junk vehicles - see GEN. OFF.
  521.11
 

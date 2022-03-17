@@ -15,13 +15,12 @@ title: "Chapter 341: Commercial Drivers"
 
 ## Cross references
 
-      See sectional histories for similar State law
-      Disqualification - see Ohio R.C. 4506.16
-      Suspension or revocation of license - see Ohio R.C. 4507.16
-      Warning devices when disabled on freeways - see Ohio R.C. 4513.28
-      Arrest notice of driver - see Ohio R.C. 5577.14
-      Load limits - see TRAF. Ch.
-339
+* See sectional histories for similar State law
+* Disqualification - see Ohio R.C. 4506.16
+* Suspension or revocation of license - see Ohio R.C. 4507.16
+* Warning devices when disabled on freeways - see Ohio R.C. 4513.28
+* Arrest notice of driver - see Ohio R.C. 5577.14
+* Load limits - see TRAF. Ch. 339
 
 ## 341.01   Definitions
 

@@ -12,8 +12,7 @@ title: "Chapter 171: Political Influence by Corporate Entities"
 
 ## Cross references
 
-Unlawful interest in a public contract - see GEN. OFF.
-525.10
+* Unlawful interest in a public contract - see GEN. OFF. 525.10
 
 ## 171.01   Move to amend day
 
