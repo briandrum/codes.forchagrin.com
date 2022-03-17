@@ -6,7 +6,7 @@ plugins:
  - jekyll-seo-tag
 
 # Build settings
-remote_theme: briandrum/optima
+remote_theme: briandrum/jekyll-theme-optima
 
 # Title & description: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: Codified Ordinances of Chagrin Falls, Ohio

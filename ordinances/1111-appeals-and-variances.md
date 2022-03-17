@@ -181,41 +181,42 @@ director and the secretary of the Board of Zoning Appeals.
 
 ## 1111.07   Reasons for granting variances
 
-1. _(a)_ The Board of Zoning Appeals, and in the case of a review of the Board of
-Zoning Appeals’ decision by Council, may, in specific cases, vary, modify or
+1. _(a)_ The Board of Zoning Appeals, and in the case of a review of the Board
+of Zoning Appeals’ decision by Council, may, in specific cases, vary, modify or
 waive the application of certain provisions of this Planning and Zoning Code,
 after making findings of fact setting forth the reasons therefor, in order that
 the public health, safety, convenience, comfort and general welfare may be
 safeguarded and substantial justice done.
-2. _(b)_ Variances shall not be granted for uses not permitted in the zoning district
-applicable to the property, unless a literal application of this Planning and
-Zoning Code would result in an unnecessary hardship that:
-   1. Was not self-created;
-   2. Is due to unique conditions existing on the property;
-   3. The property cannot be used for the purposes for which it is zoned;
-   4. Will not violate the spirit of the Planning and Zoning Code;
-   5. Is the minimum necessary to avoid the unnecessary hardship; and,
-   6. Results from special conditions unique to the property being reviewed.
+2. _(b)_ Variances shall not be granted for uses not permitted in the zoning
+district applicable to the property, unless a literal application of this
+Planning and Zoning Code would result in an unnecessary hardship that:
+   1. _(1)_ Was not self-created;
+   2. _(2)_ Is due to unique conditions existing on the property;
+   3. _(3)_ The property cannot be used for the purposes for which it is zoned;
+   4. _(4)_ Will not violate the spirit of the Planning and Zoning Code;
+   5. _(5)_ Is the minimum necessary to avoid the unnecessary hardship; and,
+   6. _(6)_ Results from special conditions unique to the property being
+   reviewed.
 3. _(c)_ Area variances may be granted on the basis of a finding of a practical
 difficulty. While no single factor controls in the determination of a practical
 difficulty, the factors to be considered and weighed include, but are not
 limited to:
-   1. Whether the property will yield a reasonable return or whether there can
-   be any beneficial use of the property without the variance;
-   2. Whether the variance is substantial;
-   3. Whether the essential character of the neighborhood would be substantially
-   altered or whether adjoining properties would suffer a substantial detriment
-   as a result of the variance;
-   4. Whether the variance would adversely affect the delivery of governmental
-   services;
-   5. Whether the property owner purchased the property with knowledge of the
-   zoning restriction;
-   6. Whether the property owner’s predicament feasibly can be obviated through
-   some method other than a variance;
-   7. Whether the spirit and intent behind the zoning requirement would be
+   1. _(1)_ Whether the property will yield a reasonable return or whether there
+   can be any beneficial use of the property without the variance;
+   2. _(2)_ Whether the variance is substantial;
+   3. _(3)_ Whether the essential character of the neighborhood would be
+   substantially altered or whether adjoining properties would suffer a
+   substantial detriment as a result of the variance;
+   4. _(4)_ Whether the variance would adversely affect the delivery of
+   governmental services;
+   5. _(5)_ Whether the property owner purchased the property with knowledge of
+   the zoning restriction;
+   6. _(6)_ Whether the property owner’s predicament feasibly can be obviated
+   through some method other than a variance;
+   7. _(7)_ Whether the spirit and intent behind the zoning requirement would be
    observed and substantial justice done by granting a variance; and,
-   8. Whether the variance is based on circumstances that are self- created or
-   exist as a result of actions of the property owner.  
+   8. _(8)_ Whether the variance is based on circumstances that are self-
+   created or exist as a result of actions of the property owner.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.08   Variances for yards; supplemental standards

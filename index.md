@@ -1,6 +1,5 @@
 ---
 layout: home
-list_title: Recent posts
 ---
 
 {% assign sortedParts = site.data.parts | sort: "number" %}
