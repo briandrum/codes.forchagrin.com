@@ -142,40 +142,41 @@ decision of the Board of Zoning Appeals.
 
 ## 1111.06   Record of decision
 
-1. _(a)_ The Board of Zoning Appeals, upon making any decision contemplated by this
-Chapter 1111, shall have its secretary immediately notify, in writing, the Clerk
-of Council of such action and notify each member of Council, using the
+1. _(a)_ The Board of Zoning Appeals, upon making any decision contemplated by
+this Chapter 1111, shall have its secretary immediately notify, in writing, the
+Clerk of Council of such action and notify each member of Council, using the
 electronic mail address they have provided to the Clerk of Council for receiving
 notices of Council business, or if none, by personal delivery, of the action
 taken by the Board of Zoning Appeals.
-2. _(b)_ Within fifteen (15) days after receipt of the written notification by the
-Clerk of Council from the Board of Zoning Appeals, of each decision made by such
-Board, any three (3) or more members of Council may, in writing, with copies
-provided to each member of Council at their electronic mail address, or if none
-by personal delivery, in any form or manner such Council members deem
+2. _(b)_ Within fifteen (15) days after receipt of the written notification by
+the Clerk of Council from the Board of Zoning Appeals, of each decision made by
+such Board, any three (3) or more members of Council may, in writing, with
+copies provided to each member of Council at their electronic mail address, or
+if none by personal delivery, in any form or manner such Council members deem
 appropriate, request that the Clerk of Council set a public hearing to review
 the decision of the Board of Zoning Appeals, in which case the Council shall
 receive testimony, and consider the evidence presented to Council, which shall
 also include the record to be prepared and provided by the Board of Zoning
-Appeals to Council, including its their decision and conclusions of fact, and
-the decision of Council shall be final in regard to any exception, variance,
+Appeals to Council, including its decision and conclusions of fact, and the
+decision of Council shall be final in regard to any exception, variance,
 interpretation or review of orders of administrative officials, boards or
 agencies of the Municipality, and a majority of Council shall be required to
 either affirm or reverse the decision of the Board of Zoning Appeals.
-3. _(c)_ Notice of the hearing by Council shall be given as provided in Section 1109.09 of the Planning and Zoning Code, including to the applicant before the
+3. _(c)_ Notice of the hearing by Council shall be given as provided in Section
+1109.09 of the Planning and Zoning Code, including to the applicant before the
 Board of Zoning Appeals that is the subject of the review by Council.
-4. _(d)_ If three (3) or more members of Council failed to request a hearing within
-fifteen (15) days after receipt of notification of the decision of the Board of
-Zoning Appeals by the Clerk of Council, the decision of the Board of Zoning
-Appeals shall be final.
-5. _(e)_ The notice to be provided by at least three (3) members of Council to have
-such Board of Zoning Appeals’ decision reviewed by Council shall provide the
-name of the applicant, the address of the property that is the subject of the
-exception or variance, and which action(s) of the Board of Zoning Appeals will
-be reviewed by Council.
-6. _(f)_ Clerk of Council shall give notice of the hearing of the request for review
-by the three (3) or more Council members to the applicant, the law director and
-the secretary of the Board of Zoning Appeals.  
+4. _(d)_ If three (3) or more members of Council failed to request a hearing
+within fifteen (15) days after receipt of notification of the decision of the
+Board of Zoning Appeals by the Clerk of Council, the decision of the Board of
+Zoning Appeals shall be final.
+5. _(e)_ The notice to be provided by at least three (3) members of Council to
+have such Board of Zoning Appeals’ decision reviewed by Council shall provide
+the name of the applicant, the address of the property that is the subject of
+the exception or variance, and which action(s) of the Board of Zoning Appeals
+will be reviewed by Council.
+6. _(f)_ Clerk of Council shall give notice of the hearing of the request for
+review by the three (3) or more Council members to the applicant, the law
+director and the secretary of the Board of Zoning Appeals.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.07   Reasons for granting variances
