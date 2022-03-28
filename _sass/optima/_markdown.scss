@@ -69,3 +69,17 @@
   text-decoration-thickness: .08em;
   text-underline-offset: .04em;
 }
+
+.Markdown table {
+  border-collapse: collapse;
+}
+
+.Markdown th,
+.Markdown td {
+  border-style: solid;
+  border-width: 1px;
+  font-size: 0.75em;
+  margin-top: 0.75em;
+  padding: 0.25em;
+  text-align: left;
+}
