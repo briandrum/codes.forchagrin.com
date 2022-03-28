@@ -27,8 +27,32 @@ Chapter 1111. The Board of Zoning Appeals shall determine whether or not a
 variance from the strict letter of the Planning and Zoning Code should be
 granted. The Board of Zoning Appeals shall determine whether decisions of
 administrative officers, boards or commissions should be affirmed, reversed or
-modified on appeal.  
-(Ord. 2019-39. Passed 8-13-19.)
+modified on appeal.
+
+1. _(a)_ When reviewing a decision of the Planning and Zoning Commission where
+it has acted to modify any part of the Planning and Zoning Code, as applied to
+any proposed development, the Board of Zoning Appeals shall be guided by the
+review standards set out in Sections 1111.07, 1111.08 and 1111.09 of this
+Chapter 1111, to the extent applicable.
+
+2. _(b)_ If the standards set out in subsection 1111.01(a) are not applicable,
+then the Board of Zoning Appeals shall follow the review standards set out in
+the following subsections:
+
+    1. _(1)_ When reviewing other decisions of the Planning and Zoning
+    Commission, or decisions of the Architectural Board of Review, or any
+    administrative officer, the Board of Zoning Appeals shall first determine if
+    (a) the decision was based on a correct interpretation of the Ordinances and
+    Regulations of the Municipality; and (b) the decision was not unreasonable
+    or an abuse of discretion, where discretion is permitted by the Ordinance or
+    Regulation that is the basis for the decision being reviewed.
+
+    2. _(2)_ If the decision was based on an incorrect interpretation, or was
+    unlawful, unreasonable or an abuse of discretion, as the case may be, the
+    Board of Zoning Appeals may reverse, modify or remand the matter to the
+    administrative officer, board or commission that rendered such decision.
+    Otherwise the Board of Zoning Appeals shall affirm such decision.  
+    (Ord. 2022-10. Passed 4-11-22.)
 
 ## 1111.02   Jurisdiction
 
@@ -60,31 +84,28 @@ provisions of the Codified Ordinances.
 ## 1111.03   Application for appeals or variances
 
 An appeal shall be considered by the Board of Zoning Appeals only after formal
-action or decision has been taken by the Administrator or other Officers,
-Boards, or Commissions with regard to an application for a building permit,
-zoning certificate, issuance of a stop order, specific referral or some similar
-action; provided that:
+action has been taken by the Administrator or other officers, or is taken at a
+public meeting by a board or commission with regard to an application for a
+building permit, zoning certificate, issuance of a stop order, specific referral
+or some similar action; provided that:
 
-1. _(a)_ The Administrator or designee shall send notice of such formal action
-or decision, by electronic mail, or by depositing a letter with the United
-States Postal Service, with postage pre-paid, notifying the aggrieved party who
-first made such application, as the case may be, of such formal action or
-decision.
+1. _(a)_ Within ten (10) days of such action, an application for appeal shall be
+filed with the Administrator; and when applicable, an application for a variance
+shall be filed with the Administrator; and
 
-2. _(b)_ Within ten (10) days of such formal action or decision, an application
-for appeal from such formal action or a decision shall be filed with the
-Administrator; and when applicable, an application for a variance shall be filed
-with the Administrator within such ten (10) day period; and
+2. _(b)_ Application for appeal or variance shall include reference to the
+decision or sections of this Planning and Zoning Code from which the appeal or
+variance is sought and all necessary data in accordance with the form provided.
 
-3. _(c)_ The time period to file an appeal shall commence to run upon the date
-that the Administrator or designee sends notice of such formal action or
-decision, by electronic mail, or by depositing a letter with the United States
-Postal Service, with postage pre-paid, notifying the aggrieved party who first
-made such application, as the case may be, of such formal action or decision.
-The notice shall be sent to the e-mail address or residence or business address
-designated by the applicant when filing an application for a permit, if any.
-Failure of the applicant to receive such notice shall not be a basis for tolling
-or extending the time period to file an appeal.
+3. _(c)_ An application for an appeal may be filed by (i) the person who has
+been denied a building permit, zoning certificate or any other authorization,
+(ii) a person who has received a stop work order under any provision of the
+Codified Ordinances, (iii) any property owner who can prove they would be
+especially damaged by the issuance of a permit or other administrative approval,
+or (iv) any property owner who should have received a notice of a request for
+approval of a project pursuant to Section 1109.05 of this Planning and Zoning
+Code and who has an interest, established by law, in the disposition of such
+matter.
 
 4. _(d)_ Prior to filing an application for a variance from the Board of Zoning
 Appeals, for the erection, enlargement and/or alteration of a building in the
@@ -101,14 +122,14 @@ from such action, the aggrieved party shall have a period of ten (10) days from
 the date that they discovered the correct deadline to file an appeal, but not to
 exceed twenty (20) days after formal action has been taken from which an appeal
 must ordinarily be filed with the Administrator, by filing the appropriate
-application and information as required by the Planning and Zoning Code.  
+application and information as required by the Planning and Zoning Code.
 
-In the event an appeal is filed pursuant to this Section, the Building Inspector
+In the event an appeal is filed pursuant to this section, the Building Inspector
 shall issue an order to the permit recipient to discontinue all work authorized
-under such permit in accordance with Section 1307.10, during the pendency of the
-appeal. Further work performed under such permit, during the pendency of the
+under such permit, in accordance with Section 1307.10, during the pendency of
+the appeal. Further work performed under such permit, during the pendency of the
 appeal, shall be deemed to be in violation of this provision.  
-(Ord. 2021-20. Passed 5-24-21.)
+(Ord. 2022-10. Passed 4-11-22.)
 
 ## 1111.04   Notices
 
@@ -152,33 +173,34 @@ decision of the Board of Zoning Appeals.
 
 ## 1111.06   Record of decision
 
-1. _(a)_ The Board of Zoning Appeals, upon making any decision contemplated by
-this Chapter 1111, shall have its secretary immediately notify, in writing, the
-Clerk of Council of such action and notify each member of Council, using the
+1. _(a)_ As soon as possible after the Board of Zoning Appeals makes any final
+reviewable decision, the Chief Administrative Officer shall notify, in writing,
+the Clerk of Council of such action and notify each member of Council, using the
 electronic mail address they have provided to the Clerk of Council for receiving
 notices of Council business, or if none, by personal delivery, of the action
 taken by the Board of Zoning Appeals.
 
 2. _(b)_ Within fifteen (15) days after receipt of the written notification by
-the Clerk of Council from the Board of Zoning Appeals, of each decision made by
-such Board, any three (3) or more members of Council may, in writing, with
-copies provided to each member of Council at their electronic mail address, or
-if none by personal delivery, in any form or manner such Council members deem
-appropriate, request that the Clerk of Council set a public hearing to review
-the decision of the Board of Zoning Appeals, in which case the Council shall
-receive testimony, and consider the evidence presented to Council, which shall
-also include the record to be prepared and provided by the Board of Zoning
-Appeals to Council, including its decision and conclusions of fact, and the
-decision of Council shall be final in regard to any exception, variance,
-interpretation or review of orders of administrative officials, boards or
-agencies of the Municipality, and a majority of Council shall be required to
-either affirm or reverse the decision of the Board of Zoning Appeals.
+the Chief Administrative Officer regarding a final decision made by the Board of
+Zoning Appeals, any three (3) or more members of Council may, in writing and
+emailed to the Clerk of Council, with copies provided to each member of Council
+at their electronic mail address, or if none by personal delivery, in any form
+or manner such Council members deem appropriate, request that the Clerk of
+Council set a public hearing to review the decision of the Board of Zoning
+Appeals, in which case the Council shall receive testimony, and consider the
+evidence presented to Council, which shall also include the record to be
+prepared and provided by the Board of Zoning Appeals to Council, including its
+decision and conclusions of fact, and the decision of Council shall be final in
+regard to any exception, variance, interpretation or review of orders of
+administrative officials, boards or agencies of the Municipality, and a majority
+of Council shall be required to either affirm or reverse the decision of the
+Board of Zoning Appeals.
 
 3. _(c)_ Notice of the hearing by Council shall be given as provided in Section
 1109.09 of the Planning and Zoning Code, including to the applicant before the
 Board of Zoning Appeals that is the subject of the review by Council.
 
-4. _(d)_ If three (3) or more members of Council failed to request a hearing
+4. _(d)_ If three (3) or more members of Council fail to request a hearing
 within fifteen (15) days after receipt of notification of the decision of the
 Board of Zoning Appeals by the Clerk of Council, the decision of the Board of
 Zoning Appeals shall be final.
@@ -186,22 +208,27 @@ Zoning Appeals shall be final.
 5. _(e)_ The notice to be provided by at least three (3) members of Council to
 have such Board of Zoning Appeals’ decision reviewed by Council shall provide
 the name of the applicant, the address of the property that is the subject of
-the exception or variance, and which action(s) of the Board of Zoning Appeals
-will be reviewed by Council.
+the exception, variance, interpretation or review of orders of administrative
+officials, and which action(s) of the Board of Zoning Appeals will be reviewed
+by Council, but the failure to include all such information shall not impair
+Council’s review of the decision.  
+(Ord. 2022-10. Passed 4-11-22.)
 
-6. _(f)_ Clerk of Council shall give notice of the hearing of the request for
-review by the three (3) or more Council members to the applicant, the law
-director and the secretary of the Board of Zoning Appeals.  
-(Ord. 2019-39. Passed 8-13-19.)
+6. _(f)_ The Clerk of Council shall give notice of the hearing of the request
+for review by the three (3) or more Council members to the applicant, the law
+director, and the secretary of the Board of Zoning Appeals.
 
 ## 1111.07   Reasons for granting variances
 
-1. _(a)_ The Board of Zoning Appeals, and in the case of a review of the Board
-of Zoning Appeals’ decision by Council, may, in specific cases, vary, modify or
-waive the application of certain provisions of this Planning and Zoning Code,
-after making findings of fact setting forth the reasons therefor, in order that
-the public health, safety, convenience, comfort and general welfare may be
-safeguarded and substantial justice done.
+1. _(a)_ The Board of Zoning Appeals, and in the case of a review of the
+decision of the Board of Zoning Appeals’ decision by Council, may, in specific
+cases, vary, modify or waive the application of certain provisions of this
+Planning and Zoning Code, after making findings of fact setting forth the
+reasons therefor, with such conditions the Board of Zoning Appeals or Council
+believes are necessary to impose in granting a variance in order that the public
+health, safety, convenience, comfort and general welfare may be safeguarded and
+substantial justice done.  
+(Ord. 2022-10. Passed 4-11-22.)
 
 2. _(b)_ Variances shall not be granted for uses not permitted in the zoning
 district applicable to the property, unless a literal application of this
@@ -289,7 +316,20 @@ presented at the Board of Zoning Appeals or Council.
 Zoning Appeals, Council shall make its own decision and shall adopt Conclusions
 of Fact which support its decision, and which are found in the record.
 
-4. _(d)_ At any time prior to a final decision of the Board of Zoning Appeals,
+4. _(d)_ Quorum and Vote. A majority of the members of Council shall constitute
+a quorum for the review of the Board of Zoning Appeals decision. In each case a
+motion or motions shall be made to grant the relief requested. Such motions may
+be made and seconded by members who are opposed to the motion. The affirmative
+vote of four members of Council shall be necessary for any official decision.
+Failure to receive four (4) affirmative votes will constitute a denial of the
+review pending before Council and will result in an affirmance of the prior
+administrative action being reviewed. Prior to voting on a motion, the movant
+and/or other Council members shall state findings which support their decision.
+Such findings shall become the basis for Conclusions of Fact by the Council.
+Members may state their agreement with the proffered findings and need not
+restate all findings supporting their decision prior to voting on the motion.
+
+5. _(e)_ At any time prior to a final decision of the Board of Zoning Appeals,
 or Council, the applicant may withdraw the application. Receipt of notice of the
 withdrawal of an appeal or an application for a variance or exception, at any
 time prior to final action by the Board of Zoning Appeals, or Council, as the
@@ -299,15 +339,20 @@ as though it had not been submitted, except that the applicant will not be
 entitled to the return of any fees, deposits or costs required in this Planning
 and Zoning Code.
 
-5. _(e)_ After reviewing the Board of Zoning Appeals’ decision, Council may
+6. _(f)_ After reviewing the Board of Zoning Appeals’ decision, Council may
 affirm, affirm and modify or reverse the decision of the Board of Zoning Appeals
 by a majority vote of all of its members.
 
-6. _(f)_ Immediately following Council’s decision, notice of such decision shall
+7. _(g)_ Immediately following Council’s decision, notice of such decision shall
 be mailed to the applicant and all interested parties who personally appeared
 before Council to support affirmance or reversal of the decision of the Board of
-Zoning Appeals.    
-(Ord. 2019-39. Passed 8-13-19; Ord. 2021-20. Passed 5-24-21.)
+Zoning Appeals.
+
+8. _(h)_ The applicant or any interested party who appeared or was represented
+at the Council meeting(s) where the matter was heard, and was harmed by the
+action of Council may appeal Council’s decision pursuant to Ohio R.C.
+Chapter 2506.  
+(Ord. 2022-10. Passed 4-11-22.)
 
 ## 1111.11   Time period to file appeal
 
