@@ -137,9 +137,10 @@ accordance with the setback regulations of subsection (b) hereof.
 1. _(a)_ Yards. The minimum setback from a lot line to a main building shall be
 as set forth below:
 
-|             |                  | Minimum Setback (feet)            |                   |
-|-------------|-----------------:|----------------------------------:|------------------:|
+**Minimum Setback (feet)**
+
 | Yard        | To Street R.O.W. | Line To Residential District Line | To Other Lot Line |
+|-------------|-----------------:|----------------------------------:|------------------:|
 | Front       | 30               | --                                | --                |
 | Side (each) | 20               | 10                                | 7                 |
 | Rear        | 20               | 40                                | 7                 |
@@ -147,9 +148,10 @@ as set forth below:
 2. _(b)_ Setbacks. The minimum setback from a lot line to an accessory structure
 or use shall be as set forth below:
 
-|                      |                  | Minimum Setback Depth (Feet)      |                   |
-|----------------------|-----------------:|----------------------------------:|------------------:|
+**Minimum Setback Depth (Feet)**
+
 | Accessory Use        | To Street R.O.W. | Line To Residential District Line | To Other Lot Line |
+|----------------------|-----------------:|----------------------------------:|------------------:|
 | Structures           | *                | 10                                | 7                 |
 | Surface Parking Area | 15               | 10                                | 5                 |
 | Drives               | *                | 10                                | 5                 |
