@@ -185,7 +185,7 @@ this Chapter.
 1. _(a)_ Kerosene, propane, battery and natural gas lamps.
 2. _(b)_ All low voltage lighting rated at twenty-four volts or less.
 3. _(c)_ Decorative outdoor lighting fixtures with bulbs that do not exceed
-twenty-five  (25) watts, installed seasonally for one period not exceeding
+twenty-five (25) watts, installed seasonally for one period not exceeding
 forty-five (45) days during any calendar year, are exempt from the requirements
 of this Chapter.
 4. _(d)_ Temporary construction or emergency lighting is exempt from the 

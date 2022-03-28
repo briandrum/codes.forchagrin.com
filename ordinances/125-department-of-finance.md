@@ -483,8 +483,7 @@ Passed 6-13- 05.)
 1. _(a)_ The Director of Finance is hereby authorized and directed to cause the
 billing of recipients of ambulance service commencing June 13, 2005, within the
 Village upon the following basis:
-   
- 
+
 Basic life support   $350.00 base rate
 plus                 $6.00 per mile
 (Basic life support is a unit in compliance with state emergency medical

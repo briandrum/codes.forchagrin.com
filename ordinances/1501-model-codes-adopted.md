@@ -61,7 +61,7 @@ for duties incident to the operation of the Bureau.
 laws and ordinances covering the following:
     1. _(1)_ The prevention of fires;
     2. _(2)_ The storage and use of explosives and flammables;
-   `   (3)    The installation and maintenance of automatic and other fire
+    3. _(3)_ The installation and maintenance of automatic and other fire
 alarm systems and fire extinguishing equipment;
     4. _(4)_ The maintenance and regulations of fire escapes;
     5. _(5)_ The maintenance of protection and elimination of hazards in
@@ -1117,7 +1117,7 @@ provide adequate light within the elevator car when the primary power fails.
     2. _(2)_ Each elevator cab shall be equipped with an emergency bell
 activated by an emergency-switch inside the cab, which shall be activated when
 the primary power fails.
-       (3)    Minimum Elevator Car Size. Any building which shall install
+    3. _(3)_ Minimum Elevator Car Size. Any building which shall install
 elevators shall have at least one elevator which has a platform size of seven
 feet by five feet, and the doors, both car and landing doors, shall be of two-
 speed side-slide type, which the edge of the door frame would be lined up to
@@ -1127,11 +1127,11 @@ feet, six inches wide and seven feet high.
 manufactured by the Chicago Lock Company, Lock Model #2174-1, Key Model #C-2136. Three duplicate keys shall be provided to the Fire Department.
 
 Section 29.4 Temporary Heat and Wiring. (Added):
-      (a)    Temporary heating appliances shall conform to Article 21,
+
+1. _(a)_ Temporary heating appliances shall conform to Article 21,
 Liquified Petroleum Gases, and the National Fire Protection Association
 Standard No. 58, Liquified Petroleum Gases, Storage and Handling 1969.
-      (b)    Temporary wiring shall conform to the National Fire Protection
-Association  standard.
+2. _(b)_ Temporary wiring shall conform to the National Fire Protection Association  standard.
 
 Appendix B Abandonment or Removal of Underground Tanks. (Added):
 

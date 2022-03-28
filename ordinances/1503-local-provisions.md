@@ -200,12 +200,12 @@ violation shall be deemed to be a separate offense.
 
 1. _(a)_  Definitions. For purposes of this Section 1503.071, the following terms shall have the following meanings:
 
-          (1)    "Central Station Monitored Fire Alarm System" means an NFPA 72
+    1. _(1)_ "Central Station Monitored Fire Alarm System" means an NFPA 72
 complaint system which, when activated by smoke, fire or other emergency
 requiring a Fire Department response, transmits a signal to a private alarm
 company, who will then alert the Village that a fire or other emergency exists
 or that the services of the fire or other public safety forces are needed.
-          (2)    "Commercial building" means any structure other than a one-,
+    2. _(2)_ "Commercial building" means any structure other than a one-,
 two-, or three-family dwelling that is issued a certificate of occupancy.
 2. _(b)_ Central Station Monitored Fire Alarm System Requirement/Application
 for a Building Permit.  The owner of any commercial building that applies for a

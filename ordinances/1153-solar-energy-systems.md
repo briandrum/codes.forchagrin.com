@@ -64,7 +64,8 @@ undertaken without first obtaining a permit.
 
 ## 1153.04   Application requirements
 
-     In addition to the application requirements set forth in Section 1109.04, an application for a solar energy system shall include:    
+In addition to the application requirements set forth in Section 1109.04, an
+application for a solar energy system shall include:
 
 1. _(a)_ The manufacturer’s specifications.
 2. _(b)_ Complete architectural and engineering drawings, adequately scaled and
@@ -72,11 +73,11 @@ dimensioned depicting the location, installation, mounting, anchorage details,
 appearance on the building and details for wiring and connections, and battery
 storage system details.
 3. _(c)_ Details for battery storage systems regarding:
-            (1)     Location of equipment
-            (2)     Ventilation
-            (3)     Containment
-            (4)     Supporting structures for batteries and equipment
-            (5)     Electrical system, devices and wiring
+    1. _(1)_ Location of equipment
+    2. _(2)_ Ventilation
+    3. _(3)_ Containment
+    4. _(4)_ Supporting structures for batteries and equipment
+    5. _(5)_ Electrical system, devices and wiring
 4. _(d)_ Evidence that the proposed system has been reviewed by the Chagrin
 Falls Bureau of Fire Prevention and its findings and recommendations are
 submitted with the application.

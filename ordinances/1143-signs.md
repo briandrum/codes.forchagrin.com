@@ -242,7 +242,7 @@ combined area, except as permitted in Section 1143.06(c)(2) below.
     2. _(2)_ Wall signs which occupy a single space two feet or less in vertical
 dimension may extend to a width ninety percent (90%) or less of the width and
 length of the building or unit.
-        (3)   Permanent window signs shall be regulated as wall signs for the
+    3. _(3)_ Permanent window signs shall be regulated as wall signs for the
 purposes of this section.
 3. _(c)_ Ground Signs.
     1. _(1)_ In addition to those signs permitted in Section 1143.06(a), one additional ground sign shall be permitted for each lot with a

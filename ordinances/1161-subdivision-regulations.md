@@ -107,7 +107,7 @@ edge, defining the limits of a yard in which no building may be located.
 commercial or other type of development, which primarily carries traffic from
 local streets to arterial streets, including the principal entrance and
 circulation routes within residential subdivisions.
-11. _(11)_ "County Recorder" means the Cuyahoga County Recorder.
+9. _(9)_ "County Recorder" means the Cuyahoga County Recorder.
 10. _(10)_ "County Sanitary Engineer" means the Cuyahoga County Sanitary
 Engineer.
 11. _(11)_ "Cul-de-sac" means a local street of relatively short length with one
@@ -548,103 +548,126 @@ specifications of the Village Engineer and to Chapters
 streets, so that the entire area can be served with a coordinated public street
 system. The width of the right of way should be provided so that all
 underground utilities can be located outside of pavement areas.
+
 6. _(f)_ Street Classification.
-    1. _(1)_ Arterial streets. Major arterial thoroughfares shall be planned
-for continuation of movement of traffic between points of heavy traffic
-generation and from one section of the community to another. They shall
-contain as few intersections with minor streets as possible.
+
+    1. _(1)_ Arterial streets. Major arterial thoroughfares shall be planned for
+    continuation of movement of traffic between points of heavy traffic
+    generation and from one section of the community to another. They shall
+    contain as few intersections with minor streets as possible.
+
     2. _(2)_ Local streets. Local streets shall provide direct and full access
-to each lot and shall be laid out so that their use by through traffic will be
-discouraged. The street system shall be so designed that all proposed streets
-shall be in general conformity with a plan for the most advantageous
-development of the entire neighborhood. The streets shall be extended to the
-boundaries of the tract to be recorded unless prevented by topography or other
-physical conditions, or unless, in the opinion of the Planning and Zoning
-Commission, such extension is not necessary nor desirable for the coordination
-of the layout of the subdivision with the development of adjacent tracts. 
-Dead-end streets or cul-de-sacs shall be approved only when necessitated by
-topography or other physical conditions or where they are appropriate for the
-type of development contemplated.
+    to each lot and shall be laid out so that their use by through traffic will
+    be discouraged. The street system shall be so designed that all proposed
+    streets shall be in general conformity with a plan for the most advantageous
+    development of the entire neighborhood. The streets shall be extended to the
+    boundaries of the tract to be recorded unless prevented by topography or
+    other physical conditions, or unless, in the opinion of the Planning and
+    Zoning Commission, such extension is not necessary nor desirable for the
+    coordination of the layout of the subdivision with the development of
+    adjacent tracts.  Dead-end streets or cul-de-sacs shall be approved only
+    when necessitated by topography or other physical conditions or where they
+    are appropriate for the type of development contemplated.
 
-Parallel streets may be required along an existing or proposed major
-arterial thoroughfare to provide access to lots along such major arterial
-thoroughfares.
+    Parallel streets may be required along an existing or proposed major
+    arterial thoroughfare to provide access to lots along such major arterial
+    thoroughfares.
+
     3. _(3)_ Street right-of-way widths and grades.
- 
-                                            Minimum  Grades
-                                          Right-of-Wayby Percent
-Classification                          Width in Feet  Maximum Minimum
-Major arterial thoroughfare             60*            6       0.5
-Collector, commercial and local streets 60*            12      0.5
-*  Indicates a minimum ten-foot easement to be adjacent to the proposed
-right-of-way lines on both sides of the streets.
-    4. _(4)_ Half streets. Half streets shall be prohibited except where there
-is an existing half street adjacent to the subdivision, in which case the
-remaining half of the street shall be platted.
-    5. _(5)_ Cul-de-sac and dead-end streets. Streets designed to be permanent
-cul-de-sacs shall not be longer than 750 feet and shall be provided at the
-closed end with a turnaround having an outside pavement radius of at least 37.5
-feet and a street right-of-way line radius of at least 62.5 feet with a paving
-diameter of ninety feet.
 
-If a cul-de-sac is of a temporary nature and a future extension into
-adjacent land is anticipated, then such turning circle beyond the normal street
-width shall be in the nature of an easement. Such easements shall be
-automatically vacated to abutting property owners when the dead-end street is
-legally extended into adjacent land.
+                                                Minimum  Grades
+                                              Right-of-Wayby Percent
+    Classification                          Width in Feet  Maximum Minimum
+    Major arterial thoroughfare             60*            6       0.5
+    Collector, commercial and local streets 60*            12      0.5
+    *  Indicates a minimum ten-foot easement to be adjacent to the proposed
+    right-of-way lines on both sides of the streets.
+
+    4. _(4)_ Half streets. Half streets shall be prohibited except where there
+    is an existing half street adjacent to the subdivision, in which case the
+    remaining half of the street shall be platted.
+
+    5. _(5)_ Cul-de-sac and dead-end streets. Streets designed to be permanent
+    cul-de-sacs shall not be longer than 750 feet and shall be provided at the
+    closed end with a turnaround having an outside pavement radius of at least
+    37.5 feet and a street right-of-way line radius of at least 62.5 feet with a
+    paving diameter of ninety feet.
+
+    If a cul-de-sac is of a temporary nature and a future extension into
+    adjacent land is anticipated, then such turning circle beyond the normal
+    street width shall be in the nature of an easement. Such easements shall be
+    automatically vacated to abutting property owners when the dead-end street
+    is legally extended into adjacent land.
+
     6. _(6)_ Corner radii. Property lines at street intersections shall be
-rounded with a radius of not less than twenty-five feet or as required by the
-Village Engineer.
-    7. _(7)_ Horizontal curves. Angles in the alignment of street lines shall
-be connected by a curve with a radius on the centerline of not less than 300
-feet for local streets, 800 feet for collector streets and 1,200 feet for major
-arterial thoroughfares. Between reverse curves there shall be a tangent at
-least 100 feet long on major arterial thoroughfares.
+    rounded with a radius of not less than twenty-five feet or as required by
+    the Village Engineer.
+
+    7. _(7)_ Horizontal curves. Angles in the alignment of street lines shall be
+    connected by a curve with a radius on the centerline of not less than 300
+    feet for local streets, 800 feet for collector streets and 1,200 feet for
+    major arterial thoroughfares. Between reverse curves there shall be a
+    tangent at least 100 feet long on major arterial thoroughfares.
+
     8. _(8)_ Intersections. Streets shall be laid out to intersect as nearly as
-possible at right angles and no street shall intersect any other street at an
-angle of less than seventy degrees. In no event shall an intersection
-containing streets in excess of four legs be considered unless specifically
-approved by the Planning Commission.
+    possible at right angles and no street shall intersect any other street at
+    an angle of less than seventy degrees. In no event shall an intersection
+    containing streets in excess of four legs be considered unless specifically
+    approved by the Planning Commission.
+
     9. _(9)_ Street centerline offsets (jogs). Street jogs with centerline
-offsets shall be prohibited unless specifically approved by the Planning and
-Zoning Commission and Village Engineer.
+    offsets shall be prohibited unless specifically approved by the Planning and
+    Zoning Commission and Village Engineer.
+
 7. _(g)_ Easements.
+
     1. _(1)_ Utility easements. Adequate easements along rear or side lot lines
-shall be provided for utilities where necessary. A ten-foot easement on each
-front lot line for utilities is required.
+    shall be provided for utilities where necessary. A ten-foot easement on each
+    front lot line for utilities is required.
+
     2. _(2)_ Drainage easements. Where a subdivision is traversed by a drainage
-way, a storm sewer or drainage easement conforming substantially with the lines
-of such drainage way shall be provided. The easement shall be a minimum of
-twenty feet or as the Village Engineer may require.
+    way, a storm sewer or drainage easement conforming substantially with the
+    lines of such drainage way shall be provided. The easement shall be a
+    minimum of twenty feet or as the Village Engineer may require.
+
     3. _(3)_ Utility lines. All utility lines including electric, telephone and
-cable television shall be located underground wherever possible.
+    cable television shall be located underground wherever possible.
+
 8. _(h)_ Lots.
+
     1. _(1)_ Zoning conformance. The lot size, width, depth and the minimum
-building setback lines shall meet at a minimum the existing Zoning Regulations,
-except where the Commission and Village Engineer determine the Hillside
-Protection Regulations apply.
+    building setback lines shall meet at a minimum the existing Zoning
+    Regulations, except where the Commission and Village Engineer determine the
+    Hillside Protection Regulations apply.
+
     2. _(2)_ Access to public streets. The subdividing of land whether as major
-or minor subdivision, shall provide each lot with the required frontage for the
-district in which it is zoned (fifty, sixty or 100 feet of continuous
-frontage). For lots which front on a curved street segment, the minimum street
-frontage required herein shall be reduced in proportion to the degree of
-curvature. The minimum permitted street frontage for such lots shall be that
-distance which results from side lot lines drawn as radials of the circle(s)
-formed from the front lot line. This standard may be reduced by the Planning
-and Zoning Commission for lots fronting on a permanent cul-de-sac.
+    or minor subdivision, shall provide each lot with the required frontage for
+    the district in which it is zoned (fifty, sixty or 100 feet of continuous
+    frontage). For lots which front on a curved street segment, the minimum
+    street frontage required herein shall be reduced in proportion to the degree
+    of curvature. The minimum permitted street frontage for such lots shall be
+    that distance which results from side lot lines drawn as radials of the
+    circle(s) formed from the front lot line. This standard may be reduced by
+    the Planning and Zoning Commission for lots fronting on a permanent
+    cul-de-sac.
+
     3. _(3)_ Lot lines. Lot lines shall be substantially at right angles or
-radial to street lines. Lot lines should follow Municipal boundary lines
-rather than across them.
+    radial to street lines. Lot lines should follow Municipal boundary lines
+    rather than across them.
+
     4. _(4)_ Minimum lot depth. No lot depth shall exceed four and one-half
-times the lot width or less than one and one-half times the width unless
-otherwise approved by the Commission. The lot width shall be measured at the
-minimum building setback line.
+    times the lot width or less than one and one-half times the width unless
+    otherwise approved by the Commission. The lot width shall be measured at the
+    minimum building setback line.
+
     5. _(5)_ Double frontage lot. A double frontage lot shall be avoided except
-where essential to provide separation of residential development from major
-arteries or specific disadvantages of topography.
+    where essential to provide separation of residential development from major
+    arteries or specific disadvantages of topography.
+
 9. _(i)_ Public Sites and Open Space. The developer is encouraged to give
 consideration to preserving outstanding natural features such as scenic spots,
 water bodies or groves of trees.
+
 10. _(j)_ Flood Areas and Storm Drain Sewers. In order to protect the health,
 safety and general welfare of the people, the Planning and Zoning Commission
 shall reject any proposed subdivision located in an area subject to a hundred
@@ -660,111 +683,128 @@ the cost of the required improvements.
 ## 1161.06   Required construction improvements
 
 1. _(a)_ Standards and Specifications. Standards and specifications for the
-construction of monuments, curbs, gutters, sidewalks, streetlights, water
-mains, storm sewers, sanitary sewers and other utility mains, piping and other
+construction of monuments, curbs, gutters, sidewalks, streetlights, water mains,
+storm sewers, sanitary sewers and other utility mains, piping and other
 facilities may be required completed by the Village Engineer.
-2. _(b)_ Guarantee of Installation of Improvements. Required improvements
-herein shall be constructed prior to the granting of the final plat approval by
-the Planning and Zoning Commission or the subdivider shall furnish the
-Commission with a surety or certified check for the amount of the estimated
-construction cost for the ultimate installation and initial maintenance of all
-the improvements herein.
+
+2. _(b)_ Guarantee of Installation of Improvements. Required improvements herein
+shall be constructed prior to the granting of the final plat approval by the
+Planning and Zoning Commission or the subdivider shall furnish the Commission
+with a surety or certified check for the amount of the estimated construction
+cost for the ultimate installation and initial maintenance of all the
+improvements herein.
+
 3. _(c)_ Improvements. The improvements required shall be designed by an Ohio
-registered professional engineer and constructed by the subdivider in
-accordance with the standards outlined in these Regulations. The work shall be
-done under the Village Administrator’s and Engineer’s supervision and
-inspection and shall be completed within the time fixed or agreed upon by the
-Village Engineer and Administrator. The minimum requirements for materials
-shall be in accordance with the standards of the current volume of
-"Construction and Material Specifications" of the State Department of
-Transportation and the requirements of the State EPA. All inspection costs
-shall be paid for by the subdivider.
+registered professional engineer and constructed by the subdivider in accordance
+with the standards outlined in these Regulations. The work shall be done under
+the Village Administrator’s and Engineer’s supervision and inspection and shall
+be completed within the time fixed or agreed upon by the Village Engineer and
+Administrator. The minimum requirements for materials shall be in accordance
+with the standards of the current volume of "Construction and Material
+Specifications" of the State Department of Transportation and the requirements
+of the State EPA. All inspection costs shall be paid for by the subdivider.
+
 4. _(d)_ Performance Guarantee in Lieu of Installation.
+
     1. _(1)_ Type of guarantees. The developer may execute and file with the
-Village, financial guarantees in lieu of actual installation or completion of
-the required improvements concurrently with the application for approval of the
-final plat. Such guarantees may be in the form of a performance or surety
-bond, a certified check or any other type of surety approved by the Village.
-    2. _(2)_ Terms. The terms of such guarantees shall be determined by
-Council; however, they shall not be for a longer period than two years unless
-Council, by resolution, extends the time. Bonds shall be executed by the
-applicant as principal with a surety company authorized in the State.
-    3. _(3)_ Amount of guarantee. The financial guarantees shall be in an
-amount equal to the estimated total cost of materials and labor required to
-install or construct the improvements, plus fifteen percent (15%) for
-engineering and legal fees and contingencies. Such costs shall be determined
-by the Village Engineer. When any portion of an improvement has, upon
-inspection, been found satisfactorily completed, a reduction in the bonds or
-partial withdrawal of funds equal to the estimated costs of such completed
-improvements may be authorized by the Village Engineer and Administrator.
+    Village, financial guarantees in lieu of actual installation or completion
+    of the required improvements concurrently with the application for approval
+    of the final plat. Such guarantees may be in the form of a performance or
+    surety bond, a certified check or any other type of surety approved by the
+    Village.
+
+    2. _(2)_ Terms. The terms of such guarantees shall be determined by Council;
+    however, they shall not be for a longer period than two years unless
+    Council, by resolution, extends the time. Bonds shall be executed by the
+    applicant as principal with a surety company authorized in the State.
+
+    3. _(3)_ Amount of guarantee. The financial guarantees shall be in an amount
+    equal to the estimated total cost of materials and labor required to install
+    or construct the improvements, plus fifteen percent (15%) for engineering
+    and legal fees and contingencies. Such costs shall be determined by the
+    Village Engineer. When any portion of an improvement has, upon inspection,
+    been found satisfactorily completed, a reduction in the bonds or partial
+    withdrawal of funds equal to the estimated costs of such completed
+    improvements may be authorized by the Village Engineer and Administrator.
+
     4. _(4)_ Progressive installation. The developer may apply for final
-approval and recording of only a portion of the entire subdivision. Under such
-a progressive unit development procedure, the installation of required
-improvements and sale or lease of lots may proceed only on that portion of the
-subdivision which has been approved and recorded.
+    approval and recording of only a portion of the entire subdivision. Under
+    such a progressive unit development procedure, the installation of required
+    improvements and sale or lease of lots may proceed only on that portion of
+    the subdivision which has been approved and recorded.
+
 5. _(e)_ Street Maintenance Deposit or Bond.
+
     1. _(1)_ The developer shall guarantee the construction and materials of the
-street pavement for a two-year period after acceptance by the Municipality and
-all other improvements for a twelve-month period after acceptance by the
-Municipality. In order to secure the guarantee, he shall deposit with the
-Municipality an amount equal to ten percent (10%) of the total cost of the
-construction of street improvements in a maintenance fund or furnish a
-maintenance bond equal to ten percent (10%) of the total cost of the
-construction of street improvements.
-    2. _(2)_ Insurance. The subdivider shall furnish such insurance as is
-deemed necessary by the Law Director or which has a minimum equal coverage to
-the insurance the Municipality carries, which shall indemnify and save harmless
-the Municipality from any and all liability arising by reason of the unimproved
-conditions of the streets of such subdivision which may arise or grow out of
-the construction or installment of such facilities when undertaken. The
-insurance shall be of such duration, amount and form as determined by the Law
-Director but shall in no case be allowed to expire earlier than the effective
-period of any maintenance bond. A copy of the insurance policy shall remain at
-all times with the Clerk of the Municipality.
-    3. _(3)_ Permits. The Administrator shall not issue building permits for
-any structure on a lot in a subdivision for which a plat has not been approved
-and recorded in the manner prescribed herein.
+    street pavement for a two-year period after acceptance by the Municipality
+    and all other improvements for a twelve-month period after acceptance by the
+    Municipality. In order to secure the guarantee, he shall deposit with the
+    Municipality an amount equal to ten percent (10%) of the total cost of the
+    construction of street improvements in a maintenance fund or furnish a
+    maintenance bond equal to ten percent (10%) of the total cost of the
+    construction of street improvements.
+
+    2. _(2)_ Insurance. The subdivider shall furnish such insurance as is deemed
+    necessary by the Law Director or which has a minimum equal coverage to the
+    insurance the Municipality carries, which shall indemnify and save harmless
+    the Municipality from any and all liability arising by reason of the
+    unimproved conditions of the streets of such subdivision which may arise or
+    grow out of the construction or installment of such facilities when
+    undertaken. The insurance shall be of such duration, amount and form as
+    determined by the Law Director but shall in no case be allowed to expire
+    earlier than the effective period of any maintenance bond. A copy of the
+    insurance policy shall remain at all times with the Clerk of the
+    Municipality.
+
+    3. _(3)_ Permits. The Administrator shall not issue building permits for any
+    structure on a lot in a subdivision for which a plat has not been approved
+    and recorded in the manner prescribed herein.
+
 6. _(f)_ Failure to Complete Improvements. In the event the developer fails to
 complete the installation of required improvements according to the terms and
 conditions of the agreement, the Municipality, upon proper notice, may complete
-the same and appropriate such necessary portion of the money or bonds posted
-for the faithful performance of such work. Further, the Village can pursue any
-and all other legal remedies available, either criminal or civic, for
-enforcement of the provisions of these Regulations, and to obtain the full
-cost, administrative and legal, for completing such improvements, or causing
-them to be completed.
+the same and appropriate such necessary portion of the money or bonds posted for
+the faithful performance of such work. Further, the Village can pursue any and
+all other legal remedies available, either criminal or civic, for enforcement of
+the provisions of these Regulations, and to obtain the full cost, administrative
+and legal, for completing such improvements, or causing them to be completed.
+
 7. _(g)_ Monuments, Markers and Pins. Permanent concrete monuments shall be
-accurately set and established at the intersection of all outside boundary
-lines of the subdivision; at the intersections of those boundary lines with all
-street lines; at the beginning and end of all curves; at points on the curves
-where the radius or direction changes; and at such other points as are
-necessary to establish definitely all lines of the plat, including all lot
-corners. Stone or concrete monuments shall be at least thirty-six inches long
-and at least six inches in diameter and shall be provided with an appropriate
-center point. Solid iron pins or iron pipe monuments at least one inch in
-diameter and at least thirty inches long may be used at all other points.
+accurately set and established at the intersection of all outside boundary lines
+of the subdivision; at the intersections of those boundary lines with all street
+lines; at the beginning and end of all curves; at points on the curves where the
+radius or direction changes; and at such other points as are necessary to
+establish definitely all lines of the plat, including all lot corners. Stone or
+concrete monuments shall be at least thirty-six inches long and at least six
+inches in diameter and shall be provided with an appropriate center point. Solid
+iron pins or iron pipe monuments at least one inch in diameter and at least
+thirty inches long may be used at all other points.
+
 8. _(h)_ Street Improvements. Street improvements shall consist of a hard
 surface pavement of reinforced Portland Cement concrete pavement or full depth
 asphalt. They shall have concrete curbs and drain tile on both sides of the
 pavement.
-9. _(i)_ Street Width. The width of the street shall be twenty-six feet
-measured from the back of curb to the back of curb and centered in the right of
-way.
-10. _(j)_ Street Subgrade. Spongy, vegetable or other materials objectionable
-to the Engineer found in the pavement area below subgrade shall be removed and
-replaced according to the requirements of the Engineer.  
-The subgrade area shall be compacted and shall acquire a compaction of
-ninety-five percent (95%) minimum. The developer shall submit compaction test
-results by an approved testing company to the Engineer before final approval
-can be given and any pavement put in place. The subgrade shall be consistent
-with the elevations and crowns that are called out on the improvement plan.
-11. _(k)_ Street Base Course. The base course for a reinforced concrete
-pavement shall be three inches thick and shall comply with Item 310 Subbase of
-the Construction and Materials Specifications of the State Department of
+
+9. _(i)_ Street Width. The width of the street shall be twenty-six feet measured
+from the back of curb to the back of curb and centered in the right of way.
+
+10. _(j)_ Street Subgrade. Spongy, vegetable or other materials objectionable to
+the Engineer found in the pavement area below subgrade shall be removed and
+replaced according to the requirements of the Engineer. The subgrade area shall
+be compacted and shall acquire a compaction of ninety-five percent (95%)
+minimum. The developer shall submit compaction test results by an approved
+testing company to the Engineer before final approval can be given and any
+pavement put in place. The subgrade shall be consistent with the elevations and
+crowns that are called out on the improvement plan.
+
+11. _(k)_ Street Base Course. The base course for a reinforced concrete pavement
+shall be three inches thick and shall comply with Item 310 Subbase of the
+Construction and Materials Specifications of the State Department of
 Transportation, latest edition. The base course for a full-depth asphalt
-pavement shall be six inches thick and shall comply with the Item 301
-Bituminous Aggregate Base of the Construction and Material Specifications of
-the State Department of Transportation, latest edition.
+pavement shall be six inches thick and shall comply with the Item 301 Bituminous
+Aggregate Base of the Construction and Material Specifications of the State
+Department of Transportation, latest edition.
+
 12. _(l)_ Street Surface Course. The surface course for a reinforced concrete
 pavement shall be seven inches thick and shall comply with Item 451 Reinforced
 Portland Cement Concrete Pavement of the Construction and Material
@@ -772,90 +812,113 @@ Specifications of the State Department of Transportation, latest edition. The
 surface course for a full-depth asphalt pavement shall be two inches thick and
 shall comply with Item 404 Asphalt Concrete of the Construction and Material
 Specifications of the State Department of Transportation, latest edition.
-13. _(m)_ Portland Cement Concrete Pavement. A Portland Cement concrete
-pavement shall be reinforced and have an overall thickness of ten inches of
-which three inches shall be Item 310 Subbase and seven inches of Item 451
-Reinforced Portland Cement Concrete Pavement.
-14. _(n)_ Full-Depth Asphalt Pavement. Full-depth asphalt pavement shall have
-an overall thickness of eight inches of which six inches shall be Item 301
+
+13. _(m)_ Portland Cement Concrete Pavement. A Portland Cement concrete pavement
+shall be reinforced and have an overall thickness of ten inches of which three
+inches shall be Item 310 Subbase and seven inches of Item 451 Reinforced
+Portland Cement Concrete Pavement.
+
+14. _(n)_ Full-Depth Asphalt Pavement. Full-depth asphalt pavement shall have an
+overall thickness of eight inches of which six inches shall be Item 301
 Bituminous Aggregate Base and two inches of Item 404 Asphalt Concrete.
-15. _(o)_ Street Curbs and Gutters. The reinforced concrete pavements shall
-have an integral curb and gutter and shall be Type 3-A as called out in
-standard construction drawings of the State Department of Transportation Page
-BP-7, latest edition. The full-depth asphalt pavements shall have asphalt
-gutters and six-inch by eighteen-inch Type 6 concrete curbs as called out in
-the standard construction drawings of the State Department of Transportation
-Page BP-7, latest edition.  
+
+15. _(o)_ Street Curbs and Gutters. The reinforced concrete pavements shall have
+an integral curb and gutter and shall be Type 3-A as called out in standard
+construction drawings of the State Department of Transportation Page BP-7,
+latest edition. The full-depth asphalt pavements shall have asphalt gutters and
+six-inch by eighteen-inch Type 6 concrete curbs as called out in the standard
+construction drawings of the State Department of Transportation Page BP-7,
+latest edition.  
 (Ord. 1988-25. Approved by voters 11-8-88.)
+
 16. _(p)_ Sidewalks.
+
     1. _(1)_ Sidewalks shall be constructed on both sides of every publicly
-dedicated road in a new subdivision. The Planning and Zoning Commission is
-authorized to grant an exception to the location and construction requirements,
-upon receipt of a written application for exception by the property owner. The
-Planning and Zoning Commission, in deciding whether to grant an exception,
-shall consider the recommendation of the Village Engineer, the unique physical
-characteristics of the property, the presence of sidewalks in the surrounding
-area, the availability of alternative means of pedestrian access, and any other
-factors deemed relevant by the Planning and Zoning Commission. Any person
-aggrieved by the decision or action of the Planning and Zoning Commission may
-appeal to the Board of Zoning Appeals within 10 days of such official action. 
-Such an appeal shall be made in conformity with Chapter 1111. Written notice of the appeal shall be served on the Village.
+    dedicated road in a new subdivision. The Planning and Zoning Commission is
+    authorized to grant an exception to the location and construction
+    requirements, upon receipt of a written application for exception by the
+    property owner. The Planning and Zoning Commission, in deciding whether to
+    grant an exception, shall consider the recommendation of the Village
+    Engineer, the unique physical characteristics of the property, the presence
+    of sidewalks in the surrounding area, the availability of alternative means
+    of pedestrian access, and any other factors deemed relevant by the Planning
+    and Zoning Commission. Any person aggrieved by the decision or action of the
+    Planning and Zoning Commission may appeal to the Board of Zoning Appeals
+    within 10 days of such official action.  Such an appeal shall be made in
+    conformity with Chapter 1111. Written notice of the appeal shall be served
+    on the Village.
+
     2. _(2)_ Sidewalks shall be constructed of Portland Cement concrete or
-sandstone flagging in accordance with Item 608 Walks, Curb Ramps and Steps of
-the Construction and Material Specifications of the State Department of
-Transportation and Chapter 903 of the Streets, Utilities and Public Services Code.  
-(Ord. 2011-13. Passed 4-11-14.)
-17. _(q)_ Driveways. Driveways may be constructed of Portland Cement concrete
-or asphalt concrete. However, all drive aprons shall be Portland Cement
-concrete, six inches thick and conform to Item 452 Plain Portland Cement
-Concrete Pavement as called out in the Construction and Material Specifications
-of the State Department of Transportation, latest edition and a two-inch base
-course as called out in Item 310 Subbase of the Construction and Material
-Specifications of the State Department of Transportation, latest edition. If
-the driveway is to be constructed of asphalt, then the driveway shall have a
-four-inch subbase conforming to Item 304 Aggregate Base of the Construction and
-Material Specifications of the State Department of Transportation, latest
-edition, and a four-inch surface course conforming to Item 404 of the
-Construction and Material Specifications of the State Department of
-Transportation.
+    sandstone flagging in accordance with Item 608 Walks, Curb Ramps and Steps
+    of the Construction and Material Specifications of the State Department of
+    Transportation and Chapter 903 of the Streets, Utilities and Public Services
+    Code.  
+    (Ord. 2011-13. Passed 4-11-14.)
+
+17. _(q)_ Driveways. Driveways may be constructed of Portland Cement concrete or
+asphalt concrete. However, all drive aprons shall be Portland Cement concrete,
+six inches thick and conform to Item 452 Plain Portland Cement Concrete Pavement
+as called out in the Construction and Material Specifications of the State
+Department of Transportation, latest edition and a two-inch base course as
+called out in Item 310 Subbase of the Construction and Material Specifications
+of the State Department of Transportation, latest edition. If the driveway is to
+be constructed of asphalt, then the driveway shall have a four-inch subbase
+conforming to Item 304 Aggregate Base of the Construction and Material
+Specifications of the State Department of Transportation, latest edition, and a
+four-inch surface course conforming to Item 404 of the Construction and Material
+Specifications of the State Department of Transportation.
+
 18. _(r)_ Street Name Signs and Street Naming. The developer may name streets
 and shall provide all necessary street signs, but the names and placement of
-signs are subject to the approval of the Village Administrator and shall
-satisfy the requirements of the Police Chief and Fire Chief.
+signs are subject to the approval of the Village Administrator and shall satisfy
+the requirements of the Police Chief and Fire Chief.
+
 19. _(s)_ Street and Walkway Lighting. The developer shall make provisions with
-the electric power company to provide the sufficient power and wiring to
-provide street lighting for the entire subdivision including walkways. The
-developer shall also provide a street and walkway lighting plan which must be
-approved by the Village Administrator. The developer shall pay for the
-installation of such lighting.
+the electric power company to provide the sufficient power and wiring to provide
+street lighting for the entire subdivision including walkways. The developer
+shall also provide a street and walkway lighting plan which must be approved by
+the Village Administrator. The developer shall pay for the installation of such
+lighting.
+
 20. _(t)_ Street Trees. Shade trees three inches calipered twelve inches above
 ground level shall be planted within the rights of way of all roads within and
-abutting the subdivision. The following regulations govern the planting of
-trees in subdivisions:
+abutting the subdivision. The following regulations govern the planting of trees
+in subdivisions:
+
     1. _(1)_ One tree shall be planted for every thirty-five feet of street
-frontage, exclusive of driveways. Streets abutting side lines of lots shall be
-considered frontage requirements.
+    frontage, exclusive of driveways. Streets abutting side lines of lots shall
+    be considered frontage requirements.
+
     2. _(2)_ Trees planted shall be of species which are resistant to damage and
-disease and which do not cause interference with underground utilities and/or
-street lighting and as approved by the Shade Tree Commission.
+    disease and which do not cause interference with underground utilities
+    and/or street lighting and as approved by the Shade Tree Commission.
+
     3. _(3)_ All trees shall be properly guyed, wrapped and mulched.
+
     4. _(4)_ A certification of the date of the tree’s planting shall be
-provided to the Shade Tree Commission. If a tree dies within two years of the
-planting date, it shall be replaced at the developer’s expanse.
-    5. _(5)_ All trees in subdivisions shall be referred to Chapter 544 of the General Offenses Code.
+    provided to the Shade Tree Commission. If a tree dies within two years of
+    the planting date, it shall be replaced at the developer’s expanse.
+
+    5. _(5)_ All trees in subdivisions shall be referred to Chapter 544 of the
+    General Offenses Code.
+
     6. _(6)_ Location of all proposed trees shall be shown on the improvement
-plans or on a separate plan to be submitted with the preliminary plat.
+    plans or on a separate plan to be submitted with the preliminary plat.
+
 21. _(u)_ Water Supply Improvements. A suitable public water supply connection
 shall be provided for each lot in the proposed subdivision. All public water
 supply improvements including extensions of existing water mains shall be
-subject to approval by the Village Engineer. The installation of all water
-mains and appurtenances shall comply with the ordinances and resolutions of the
+subject to approval by the Village Engineer. The installation of all water mains
+and appurtenances shall comply with the ordinances and resolutions of the
 Municipality and the rules and regulations of its Water Department. All new
 subdivisions shall have water from the Municipal water system and shall comply
 with Chapter 931 of the Streets, Utilities and Public Services Code.
+
 22. _(v)_ Fire Protection. Fire hydrants are to be provided at 250-foot
-intervals or as required by the Fire Chief. All hydrant locations and plans
-are to be approved by the Fire Chief, the Village Administrator and Chapter 931 of the Streets, Utilities and Public Services Code.
+intervals or as required by the Fire Chief. All hydrant locations and plans are
+to be approved by the Fire Chief, the Village Administrator and Chapter 931 of
+the Streets, Utilities and Public Services Code.
+
 23. _(w)_ Sanitary Sewer Improvements. Each lot in the proposed subdivision
 shall be served by a suitable sanitary sewer connection. Sanitary sewer
 improvements including extensions of existing facilities shall meet all
@@ -865,17 +928,18 @@ sanitary improvements shall be designed and constructed in accordance with the
 Uniform Rules, Regulations and Standards for the Design and Construction of
 Sewerage Improvements prepared and accepted by the City of Cleveland, Northeast
 Ohio Regional Sewer District, Cuyahoga County Sanitary Engineer and the
-Northeast Ohio Municipal Engineers Association. All new subdivisions shall
-have their sewage treated at the Chagrin Falls Municipal Waste Treatment Plant.
+Northeast Ohio Municipal Engineers Association. All new subdivisions shall have
+their sewage treated at the Chagrin Falls Municipal Waste Treatment Plant.
+
 24. _(x)_ Drainage Improvements. Each lot in the proposed subdivision shall be
-served by a suitable storm sewer connection. Storm sewer improvements
-including extensions of existing facilities shall meet all requirements of and
-be subject to approval by the Village Engineer. The storm improvements shall
-be designed and constructed in accordance with the Uniform Rules, Regulations
-and Standards for the Design and Construction of Sewerage Improvements prepared
-and accepted by the City of Cleveland, Northeast Ohio Regional Sewer District,
-Cuyahoga County Sanitary Engineer and the Northeast Ohio Municipal Engineers
-Association.
+served by a suitable storm sewer connection. Storm sewer improvements including
+extensions of existing facilities shall meet all requirements of and be subject
+to approval by the Village Engineer. The storm improvements shall be designed
+and constructed in accordance with the Uniform Rules, Regulations and Standards
+for the Design and Construction of Sewerage Improvements prepared and accepted
+by the City of Cleveland, Northeast Ohio Regional Sewer District, Cuyahoga
+County Sanitary Engineer and the Northeast Ohio Municipal Engineers Association.
+
 25. _(y)_ Storm Sewers and Storm Water Drainage. A storm sewer system meeting
 all requirements of the Uniform Rules, Regulations and Standards for the Design
 and Construction of Sewerage Improvements prepared and accepted by the City of
@@ -884,73 +948,88 @@ Engineer and the Northeast Ohio Municipal Engineers Association shall be
 constructed within the proposed subdivision. The following additional
 requirements shall govern the provision of storm water drainage facilities and
 improvements not covered in the document referred to above.
+
     1. _(1)_ All existing watercourses or ditches with a design capacity not
-exceeding that of sixty-inch concrete pipe as well as any watercourse or ditch
-having a gradient in excess of two and one-half percent (2.5%) shall be
-enclosed in a conduit the size and type of which shall be subject to approval
-by the Village Engineer.
+    exceeding that of sixty-inch concrete pipe as well as any watercourse or
+    ditch having a gradient in excess of two and one-half percent (2.5%) shall
+    be enclosed in a conduit the size and type of which shall be subject to
+    approval by the Village Engineer.
+
     2. _(2)_ Open ditches shall have a side slope ratio of not less than 3:1 and
-a minimum bottom width of two feet.
+    a minimum bottom width of two feet.
+
     3. _(3)_ All watercourses or ditches having a gradient of less than twenty-
-five percent (25%) but more than one and one-half percent (1.5%) shall be
-sodded or paved with bricks, concrete, half tile or broken concrete slabs or
-other suitable material.
+    five percent (25%) but more than one and one-half percent (1.5%) shall be
+    sodded or paved with bricks, concrete, half tile or broken concrete slabs or
+    other suitable material.
+
     4. _(4)_ Any storm drainage course carried along the side lot lines of
-proposed sublots shall be enclosed with approved pipe along the entire lot
-depth.
+    proposed sublots shall be enclosed with approved pipe along the entire lot
+    depth.
+
     5. _(5)_ Wherever possible, the Commission shall require the subdivider to
-provide one or more storm water retention basins or enclosed tanks within the
-subdivision as a means to control the amount and velocity of runoff occurring
-during and immediately after a storm. Such retention basins, if required,
-shall be sized so as to insure that storm water runoff from the tract in a
-fully developed state does not exceed that from the tract in a predevelopment
-or undeveloped state for a storm of two-hour duration and ten-year frequency. 
-Calculations of runoff from the tract shall be based upon use of the Rational
-Method or other method approved by the Village Engineer. Coefficients used in
-the calculation of storm water runoff shall be as specified in Uniform Rules,
-Regulations and Standards for the Design and Construction of Sewerage
-Improvements. All calculations of pre- and post-development storm water runoff
-as well as the design of the proposed  storm water retention basin shall be
-subject to the approval of the Village Engineer.
-26. _(z)_ Culverts and Bridges. Where natural or man-made watercourses
-intersect any proposed street right of way, it shall be the responsibility of
-the applicant to have satisfactory bridges and/or culverts constructed. Where
+    provide one or more storm water retention basins or enclosed tanks within
+    the subdivision as a means to control the amount and velocity of runoff
+    occurring during and immediately after a storm. Such retention basins, if
+    required, shall be sized so as to insure that storm water runoff from the
+    tract in a fully developed state does not exceed that from the tract in a
+    predevelopment or undeveloped state for a storm of two-hour duration and
+    ten-year frequency.  Calculations of runoff from the tract shall be based
+    upon use of the Rational Method or other method approved by the Village
+    Engineer. Coefficients used in the calculation of storm water runoff shall
+    be as specified in Uniform Rules, Regulations and Standards for the Design
+    and Construction of Sewerage Improvements. All calculations of pre- and
+    post-development storm water runoff as well as the design of the proposed 
+    storm water retention basin shall be subject to the approval of the Village
+    Engineer.
+
+26. _(z)_ Culverts and Bridges. Where natural or man-made watercourses intersect
+any proposed street right of way, it shall be the responsibility of the
+applicant to have satisfactory bridges and/or culverts constructed. Where
 culverts are required, the following minimum requirements shall be observed:
+
     1. _(1)_ All culverts shall extend across the entire right of way width of
-the proposed street.
+    the proposed street.
+
     2. _(2)_ The capacity of all culverts and the material utilized for the
-culvert shall be determined by the Village Engineer based on individual
-conditions.
+    culvert shall be determined by the Village Engineer based on individual
+    conditions.
+
     3. _(3)_ Headwalls shall be required on all culverts.
+
     4. _(4)_ Where an opening for an eight-inch or larger culvert is on private
-property, a hard surface easement shall be required.
+    property, a hard surface easement shall be required.
+
 27. _(aa)_ Electric, Gas and Telephone Improvements. Electric service, gas,
 telephone and cable service shall be provided to all lots within each
 subdivision. All wires, conduits and cables associated with such service shall
-be placed underground. All utilities shall be inspected by the Village
-Engineer at the developer’s expense.
+be placed underground. All utilities shall be inspected by the Village Engineer
+at the developer’s expense.
+
 28. _(bb)_ Extension to Boundaries. All improvements and utilities are to be
 extended to the boundaries of a subdivision so that a harmonious connection can
 be made with developments existing or proposed.
+
 29. _(cc)_ Inspection of Improvements During Construction. All improvements
 required herein shall be constructed under the supervision of the Village
-Engineer. It shall be the applicant’s responsibility to contact the Engineer
-at least forty-eight hours before any construction requiring inspection is to
-take place. All inspection costs shall be borne by the subdivider.  
-The developer shall post a cash bond equal to two percent (2%) of the
-construction cost for the cost of inspection. If the inspection costs are more
-than the cash bond, then the developer is required to make up the difference. 
-If there are moneys remaining at the end of the improvement construction, they
-shall be returned to the subdivider.
+Engineer. It shall be the applicant’s responsibility to contact the Engineer at
+least forty-eight hours before any construction requiring inspection is to take
+place. All inspection costs shall be borne by the subdivider. The developer
+shall post a cash bond equal to two percent (2%) of the construction cost for
+the cost of inspection. If the inspection costs are more than the cash bond,
+then the developer is required to make up the difference.  If there are moneys
+remaining at the end of the improvement construction, they shall be returned to
+the subdivider.
+
 30. _(dd)_ Final Inspections. Upon completion of all improvements, the
-subdivider shall request, in writing, a final inspection by the Village
-Engineer as required under Ohio R.C. 711.091. Such inspection may include core
-borings and related structural tests with respect to paving improvements. Such
+subdivider shall request, in writing, a final inspection by the Village Engineer
+as required under Ohio R.C. 711.091. Such inspection may include core borings
+and related structural tests with respect to paving improvements. Such
 inspections shall include an internal pipe inspection of sanitary and storm
-sewers, two photography, television and hydrostatic tests, the first
-immediately following installation and the second internal pipe inspection at
-the discretion of the Village Engineer. With respect to  sewer improvements,
-these inspections shall be completed at the developer’s expense.  
+sewers, two photography, television and hydrostatic tests, the first immediately
+following installation and the second internal pipe inspection at the discretion
+of the Village Engineer. With respect to  sewer improvements, these inspections
+shall be completed at the developer’s expense.  
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.07   Revisions; enforcement

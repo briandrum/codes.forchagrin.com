@@ -150,13 +150,13 @@ in accordance with all applicable laws, rules and regulations, including, but
 not limited to, the provisions of Ohio R.C. 3743.80, and the rules of the Fire
 Marshal adopted pursuant to Ohio R.C. 3737.82. 
 14. _(n)_
-    1. “Concealed handgun license” or “license to carry a concealed
+    1. _(1)_ “Concealed handgun license” or “license to carry a concealed
 handgun” means, subject to subsection (n)(2) of this section, a license or
 temporary emergency license to carry a concealed handgun issued under Ohio R.C.
 2923.125 or 2923.1213 or a license to carry a concealed handgun issued by
 another state with which the Attorney General has entered into a reciprocity
 agreement under Ohio R.C. 109.69.
-   (2)   A reference in any provision of the Ohio Revised Code to a concealed
+    2. _(2)_ A reference in any provision of the Ohio Revised Code to a concealed
 handgun license issued under Ohio R.C. 2923.125 or a license to carry a
 concealed handgun issued under Ohio R.C. 2923.125 means only a license of the
 type that is specified in that section. A reference in any provision of the
