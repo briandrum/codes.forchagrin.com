@@ -3,7 +3,7 @@ layout: page
 part_no: 1
 title_no: 1
 chapter_no: 101
-title: “Chapter 101: Codified Ordinances"
+title: "Chapter 101: Codified Ordinances"
 ---
 
 * [101.01   Designation; citation; headings](#10101-designation-citation-headings)
