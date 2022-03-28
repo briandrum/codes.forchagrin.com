@@ -23,7 +23,7 @@ title: "Chapter 125: Department of Finance"
 * [125.15   Funds to be retained by Village](#12515-funds-to-be-retained-by-village)
 * [125.16   Petty cash and change drawer funds](#12516-petty-cash-and-change-drawer-funds)
 * [125.17   Unclaimed Monies Agency Fund and transfer of unclaimed monies to the General Fund](#12517-unclaimed-monies-agency-fund-and-transfer-of-unclaimed-monies-to-the-general-fund)
-* [125.18   Transfer of unclaimed deposits to  the General Fund](#12518-transfer-of-unclaimed-deposits-to-the-general-fund)
+* [125.18   Transfer of unclaimed deposits to the General Fund](#12518-transfer-of-unclaimed-deposits-to-the-general-fund)
 
 ## Cross references
 
@@ -50,7 +50,7 @@ payable or withdrawable, in whole or in part, on demand, or a deposit in a
 negotiable order of withdrawal account as authorized in the Consumer Checking
 Account Equity Act of 1980, 94 Stat, 146, 12 U. S. C.A. 1832(a).
 4. _(d)_ "Federal Deposit Insurance" means insurance on deposits provided by
-the Federal  Deposit Insurance Corporation, the Federal Savings and Loan
+the Federal Deposit Insurance Corporation, the Federal Savings and Loan
 Insurance Corporation or other similar Federal Deposit Insurance.
 5. _(e)_ "Trustee" means an independent financial institution approved by the
 Director of Finance to serve as trustee under a trust agreement therefor
@@ -83,7 +83,7 @@ pay such charge. All public moneys of the Municipality not deposited in active
 deposits shall be invested pursuant to Section 125.08.
  
 2. _(b)_ The Director of Finance shall recommend, and Council, by ordinance,
-shall  designate one or more eligible depositories as the depository or
+shall designate one or more eligible depositories as the depository or
 depositories of the Municipality’s active deposits and as the institution or
 institutions through or from which the Municipality may purchase investments in
 accordance with Section 125.08. When more than one eligible depository is designated, the active
@@ -94,9 +94,9 @@ designation:
     1. _(1)_ The rate or rates of interest paid on active deposit;
     2. _(2)_ The convenience of the location of the depository’s offices;
     3. _(3)_ The service charges, if any, that will be made for the services of
-the  depository; and
+the depository; and
     4. _(4)_ Any other terms or conditions with respect to the depository’s
-acceptance  of the Municipality’s active deposits.
+acceptance of the Municipality’s active deposits.
 3. _(c)_ The initial designation of depositories for the Municipality’s active
 deposits shall be for a period not to exceed two years and shall be made
 without giving the notice hereinafter provided for. Subsequent designations of
@@ -290,7 +290,7 @@ of the public moneys, no more than fifty percent (50%) shall be invested in
 repurchase agreements, nor more than fifty percent (50%) with any one eligible
 depository.
 5. _(e)_ Investments shall be made with the exercise of that degree of judgment
-and care,  under circumstances then prevailing, which persons of prudence,
+and care, under circumstances then prevailing, which persons of prudence,
 discretion and intelligence exercise in the management of their own affairs,
 not for speculation but for investment, considering the probable safety of
 their capital as well as the probable income to be derived.
@@ -316,25 +316,25 @@ investments maturing more than one year from the date of purchase. The Director
 of Finance is authorized to pool cash balances from the several funds of the
 Municipality for investment purposes.
 2. _(b)_ The Director of Finance or his designee may invest in any of the
-following  classifications of obligations which are hereby determined to be
+following classifications of obligations which are hereby determined to be
 eligible for investment:
     1. _(1)_ Bonds, notes of other obligations of or guaranteed by the United
 States or those for which the faith of the United States, is pledged for the
-payment  of principal and interest thereon.
+payment of principal and interest thereon.
     2. _(2)_ Bonds, notes, debentures or other obligations or securities issued
 by any Federal Government agency or the Export-Import Bank of Washington;
     3. _(3)_ Discount notes of the Federal National Mortgage Association and
-bonds  issued by the Homeowners’ Loan Corporation as defined in Ohio R.C.
+bonds issued by the Homeowners’ Loan Corporation as defined in Ohio R.C.
 731.56;
     4. _(4)_ Bonds and notes of the State;
     5. _(5)_ Bonds and notes of any Municipal corporation, including the
-Municipal,  County, Township or other political subdivisions of this State as
-to which  there is no default of principal, interest or coupons;
+Municipal, County, Township or other political subdivisions of this State as
+to which there is no default of principal, interest or coupons;
     6. _(6)_ The Director of Finance or his designee may enter into a
-repurchase  agreement with any designated eligible depository mentioned in Ohio
-R.C.  135.03, if, and only if, under the terms of which agreement the Director 
-of Finance or his designee purchases for the Municipality and such  institution
-agrees unconditionally to repurchase within a period of thirty  days securities
+repurchase agreement with any designated eligible depository mentioned in Ohio
+R.C. 135.03, if, and only if, under the terms of which agreement the Director 
+of Finance or his designee purchases for the Municipality and such institution
+agrees unconditionally to repurchase within a period of thirty days securities
 that are direct obligations of, or are fully guaranteed as to principal and
 interest by, the United States government or agencies thereof that will mature
 or are redeemable within five years from the date of purchase;
@@ -343,8 +343,8 @@ provide, and if so, shall be shown on its face, that the amount of such deposit
 is payable upon written notice a specified period before the date of the
 repayment maturity;
     8. _(8)_ Insured deposit accounts in eligible depositories paying interest
-at a rate  greater than the interest rate paid on the Municipality’s active
-deposits,  provided that such investments shall be approved in writing by the
+at a rate greater than the interest rate paid on the Municipality’s active
+deposits, provided that such investments shall be approved in writing by the
 Director of Finance and Director of Law and that such approval by the Director
 of Finance and Director of Law shall also include approval of the insurance 
 provided to secure and protect the Municipality’s ability to recover the
@@ -381,7 +381,7 @@ box or vault belonging to an eligible depository, and such safe deposit box or
 vault shall be opened only upon a warrant or order of the Director of Finance
 or a person duly authorized as the Acting Director of Finance in the presence
 of one or more of the Director of Finance, Director of Law or Mayor or persons
-duly authorized as Acting Directors of  Finance or Law or Acting Mayor. The
+duly authorized as Acting Directors of Finance or Law or Acting Mayor. The
 warrant or order to open such safety deposit box or vault shall direct the
 deposit or removal of such securities, obligations or certificates of deposit,
 clipping of coupons or other official business reasons for opening the box or
@@ -505,7 +505,7 @@ agreements with all persons outside the corporate limits of the Village who
 desire to have monitoring of police or fire alarm warning systems who shall be
 charged a service fee of thirty dollars ($30.00) per month. All persons who
 fail to enter into an agreement with the Village for the increased service
-charge, and who are  already under agreement with the Village, or, who are
+charge, and who are already under agreement with the Village, or, who are
 delinquent in payment thereof for more than thirty days, shall be terminated
 from the service. The Village reserves the right to change these charges at
 anytime in the future.  
@@ -518,7 +518,7 @@ by the Village for the faithful performance of work shall be held along with
 all interest earned thereon, by the Village in any account or investment as
 determined by the Director of Finance pursuant to the powers vested in him by
 this chapter. Any interest or dividends earned shall become the sole and
-exclusive property of  the Village.  
+exclusive property of the Village.  
 (Ord.1991-6. Passed 2-11-91.)
 
 ## 125.16   Petty cash and change drawer funds

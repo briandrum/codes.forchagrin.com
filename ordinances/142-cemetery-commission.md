@@ -18,12 +18,11 @@ title: "Chapter 142: Cemetery Commission"
 
 ## 142.01   Creation
 
-There is hereby created a commission to be known and designated as the
-“Cemetery Commission”, composed of three residents of the Municipality, and one
-additional Council Member, for a total of four voting members of the
-Commission. Resident members shall be appointed and removed by the Mayor. The
-Council representative to the Cemetery Commission shall be appointed annually
-by the Council.  
+There is hereby created a commission to be known and designated as the “Cemetery
+Commission”, composed of three residents of the Municipality, and one additional
+Council Member, for a total of four voting members of the Commission. Resident
+members shall be appointed and removed by the Mayor. The Council representative
+to the Cemetery Commission shall be appointed annually by the Council.  
 (Ord. 2017-86. Passed 12-11-17.)
 
 ## 142.02   Term
@@ -50,23 +49,24 @@ Mayor and the Chief Administrative Officer any action, program, plan,
 improvements, regulations or legislation which the Commission finds or
 determines to be advisable for the continued use of the cemeteries by the
 Village residents and/or others.
+
 2. _(b)_ To recommend to Council and the Mayor the use of all funds that have
 been donated or bequeathed for use in the cemeteries.
+
 3. _(c)_ To grant exceptions to the Cemetery Rules and Regulations when
 authorized by such Rules and Regulations.  
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 142.05   Organization
 
-     The Commission shall choose its own officers, and keep a journal of its
+The Commission shall choose its own officers, and keep a journal of its
 proceedings. A majority of the members shall be a quorum for the transaction of
 business. All plans, findings, advice, reports and recommendations made by the
 Commission shall be in writing and shall designate by name those members of the
-Commission approving or concurring therein, and members who do not so approve
-or concur therein shall have the right, as a part of such report, to state
-their reasons for refusing to approve or concur. No later than February 1 of
-each year, the Commission shall submit an annual report to the Mayor, Council
-and the Chief Administrative Officer summarizing the activities and decisions
-of the Commission and any recommendations to revise Cemetery rules and
-regulations.  
+Commission approving or concurring therein, and members who do not so approve or
+concur therein shall have the right, as a part of such report, to state their
+reasons for refusing to approve or concur. No later than February 1 of each
+year, the Commission shall submit an annual report to the Mayor, Council and the
+Chief Administrative Officer summarizing the activities and decisions of the
+Commission and any recommendations to revise Cemetery rules and regulations.  
 (Ord. 2016-77. Passed 12-12-16.)

@@ -6,7 +6,8 @@ chapter_no: 139
 title: "Chapter 139: Board of Cemetery Trustees"
 ---
 
-Editor’s note: The Cemetery Board was established in 1917. See Chapter 142 Cemetery Commission for current regulations.
+Editor’s note: The Cemetery Board was established in 1917. See Chapter 142
+Cemetery Commission for current regulations.
 
 ## Cross references
 

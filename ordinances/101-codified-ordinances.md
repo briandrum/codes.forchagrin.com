@@ -129,7 +129,7 @@ signatures.
 ## 101.03   Rules of construction
 
 1. _(a)_ Common and Technical Usage. Words and phrases shall be read in context
-and construed according to the rules of grammar and common usage.  Words and
+and construed according to the rules of grammar and common usage. Words and
 phrases that have acquired a technical or particular meaning, whether by
 legislative definition or otherwise, shall be construed accordingly.  
 (ORC 1.42)

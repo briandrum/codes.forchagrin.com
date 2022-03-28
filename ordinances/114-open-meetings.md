@@ -32,11 +32,13 @@ State law.
 Council, Council Committees, Commissions, Boards and other similar public bodies
 of the Municipality shall be noted in a calendar of monthly meetings. This
 calendar shall be posted at the Village Hall.
+
 2. _(b)_ **Special Meetings.** Notification of any special meeting of Council,
 Council Committees, Commissions and Boards shall be made to any news media
 requesting such notification twenty-four hours prior to the time of such
 meetings. This notification shall include the time, place and purpose of the
 special meeting.
+
 3. _(c)_ **Emergency Meetings.** In the event of an emergency meeting, notice of
 such emergency meeting shall be communicated to the news media who have
 requested notification of the time, place and purpose of the emergency
@@ -50,6 +52,7 @@ of the calendar of monthly meetings. To obtain this notice, such persons are
 required to fill out a form provided by the Clerk of Council for such purpose
 and shall deposit the sum of one hundred dollars ($100.00) per year in advance
 for such notices of the calendar of monthly meetings.
+
 2. _(b)_ Any requesting person, organization or group of persons shall receive
 advance notice of all meetings at which any specific type of public business
 will be discussed and/or acted upon. To obtain this notice, such persons are
@@ -65,6 +68,7 @@ Council Committees, Commissions and Boards shall promptly be recorded in writing
 and open to the public for inspection. Minutes of executive sessions of public
 bodies need only reflect the general subject matter of discussion in such
 executive session.
+
 2. _(b)_ **Location of Minute Books.** The Clerk of Council shall keep a minute
 book for each public body. The minute books shall contain the minutes of all
 meetings of each public body. The public may inspect the minute books at all

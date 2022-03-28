@@ -9,8 +9,8 @@ title: "Chapter 147: Health Services"
 Editor’s note: Health services for the Village are provided by the Cuyahoga
 County Board of Health.
 
-There are no sections in Chapter 147. This chapter has been established to provide a place for cross references
-and any future legislation.
+There are no sections in Chapter 147. This chapter has been established to
+provide a place for cross references and any future legislation.
 
 ## Cross references
 

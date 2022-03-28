@@ -16,15 +16,15 @@ title: "Chapter 105: Public Contracts"
 
 ## 105.01   Surplus property
 
-Except for property in the possession of the Police Department, which is
-subject to other provisions of law, all personal property owned by the Village
-and not needed for municipal purposes shall be disposed of as follows:
+Except for property in the possession of the Police Department, which is subject
+to other provisions of law, all personal property owned by the Village and not
+needed for municipal purposes shall be disposed of as follows:
 
 1. _(a)_ Council shall, by motion passed by majority vote, declare all or any
 portion of such property to be surplus and not needed for Village purposes.
 
-2. _(b)_ Such property may be sold, donated, recycled or otherwise disposed-
-of in such manner and under such conditions as Council by motion, passed by
+2. _(b)_ Such property may be sold, donated, recycled or otherwise disposed- of
+in such manner and under such conditions as Council by motion, passed by
 majority vote, shall determine.  
 (Ord. 2013-29. Passed 5-13-13.)
 
@@ -33,25 +33,25 @@ majority vote, shall determine.
 1. _(a)_ Definitions.
 
     1. _(1)_ "Professional Design Firm" means any person, firm or corporation
-legally engaged in rendering professional design services.
+    legally engaged in rendering professional design services.
 
     2. _(2)_ "Professional Design Services" means services within the scope of
-practice of an architect or landscape architect registered under Chapter 4703
-of the Revised Code or a professional engineer or surveyor registered under
-Chapter 4733 of the Revised Code.
+    practice of an architect or landscape architect registered under Chapter
+    4703 of the Revised Code or a professional engineer or surveyor registered
+    under Chapter 4733 of the Revised Code.
 
     3. _(3)_ "Public Works Contract" means any contract awarded by the Village
-for the construction, alteration or repair of any public building, public
-highway or other public work.
+    for the construction, alteration or repair of any public building, public
+    highway or other public work.
 
     4. _(4)_ "Design-build Services" means services that form an integrated
-delivery system for which a person is responsible to a public authority for
-both the design and construction, demolition, alteration, repair or
-reconstruction of a public improvement.
+    delivery system for which a person is responsible to a public authority for
+    both the design and construction, demolition, alteration, repair or
+    reconstruction of a public improvement.
 
-2. _(b)_ The Village is hereby exempted from following the procedures set
-forth in Sections 153.65 through 153.73 of the Ohio Revised Code for
-contracting for Professional Design Services or Design-build Services.
+2. _(b)_ The Village is hereby exempted from following the procedures set forth
+in Sections 153.65 through 153.73 of the Ohio Revised Code for contracting for
+Professional Design Services or Design-build Services.
 
 3. _(c)_ The Mayor may contract for Professional Design Services related to a
 Public Works Contract when the amount of the Professional Design Services is
@@ -60,17 +60,17 @@ Professional Design Firm’s qualifications and abilities in such manner as the
 Mayor deems most suitable.
 
 4. _(d)_ In the event that the cost of the Professional Design Services for a
-Public Works Contract will equal or exceed fifty thousand dollars ($50,000),
-the Council shall have the authority, by motion passed by majority vote, to
-authorize the Mayor to sign such Professional Design Services contract. 
-Council may satisfy itself as to the Professional Design Firm’s qualifications
-and abilities in the manner it deems most suitable. (Ord. 2013-29. Passed 5-
-13-13.)
+Public Works Contract will equal or exceed fifty thousand dollars ($50,000), the
+Council shall have the authority, by motion passed by majority vote, to
+authorize the Mayor to sign such Professional Design Services contract. Council
+may satisfy itself as to the Professional Design Firm’s qualifications and
+abilities in the manner it deems most suitable.  
+(Ord. 2013-29. Passed 5- 13-13.)
 
 ## 105.03   Contract procedures
 
-1. _(a)_ Proper Authorization. No contract, or an amendment or a change order
-to a contract, shall be enforceable against the Village unless it has been duly
+1. _(a)_ Proper Authorization. No contract, or an amendment or a change order to
+a contract, shall be enforceable against the Village unless it has been duly
 authorized by Council, to the extent required herein, and executed in the name
 of the Village by the Mayor and bears the signature of the Director of Finance
 of the Village, to the extent required by the Ohio Revised Code, certifying the
@@ -78,12 +78,12 @@ availability and appropriation of funds for the contract or any amendment or
 change order to the contract. 
 
 2. _(b)_ Authorization to Investigate Costs. The Mayor shall have the authority
-to investigate costs relative to any proposed public improvement or any
-proposed purchase or lease of equipment, supplies, services or materials.
+to investigate costs relative to any proposed public improvement or any proposed
+purchase or lease of equipment, supplies, services or materials.
 
 3. _(c)_ Authorization for Design and/or Specifications. In the event the
-investigation or a good faith estimate by the Mayor indicates that the cost of
-a proposed project, purchase, lease or provision of services will exceed fifty
+investigation or a good faith estimate by the Mayor indicates that the cost of a
+proposed project, purchase, lease or provision of services will exceed fifty
 thousand dollars ($50,000), the approval of Council by a motion and majority
 vote is necessary to authorize the expenditure of funds for the design and/or
 specification thereof.
@@ -93,8 +93,8 @@ which: (i) provides for an expenditure in excess of fifty thousand dollars
 ($50,000); and, (ii) is for the construction of a public improvement or the
 purchase or lease of equipment, supplies or materials, or the provision of a
 service to the Village, shall be authorized only upon a motion, adopted by a
-majority vote of the members of Council, to award the contract to the lowest
-and best bidder after advertising for a time and in a manner that the Village
+majority vote of the members of Council, to award the contract to the lowest and
+best bidder after advertising for a time and in a manner that the Village
 determines shall be effective in notifying a sufficient number of bidders as
 determined by the Village in its discretion. By way of example, and not as a
 limitation, the advertisement may be in a newspaper of general circulation in

@@ -8,8 +8,8 @@ title: "Chapter 129: Police Department"
 
 * [129.01   Department established](#12901-department-established)
 * [129.02   Composition of department](#12902-composition-of-department)
-* [129.03   Probationary and original appointments; appointment requirements for full-time  regular patrol officers](#12903-probationary-and-original-appointments-appointment-requirements-for-full-time-regular-patrol-officers)
-* [129.04   Application, examination  and evaluation of candidates](#12904-application-examination-and-evaluation-of-candidates)
+* [129.03   Probationary and original appointments; appointment requirements for full-time regular patrol officers](#12903-probationary-and-original-appointments-appointment-requirements-for-full-time-regular-patrol-officers)
+* [129.04   Application, examination and evaluation of candidates](#12904-application-examination-and-evaluation-of-candidates)
 * [129.05   Oath](#12905-oath)
 * [129.06   Special police duty for private entity](#12906-special-police-duty-for-private-entity)
 * [129.07   Emergency aid outside Village](#12907-emergency-aid-outside-village)
@@ -88,9 +88,9 @@ positions as authorized by ordinance of Council, including:
 2. _(b)_ All Full-Time Regular Patrol Officers shall be appointed by the Mayor,
 subject to confirmation by Council. All other positions shall be filled by
 appointment of the Mayor, except as otherwise indicated herein.  
-(Ord. 2015-21. Passed  7-27-15.)
+(Ord. 2015-21. Passed 7-27-15.)
 
-## 129.03   Probationary and original appointments; appointment  requirements for full-time regular patrol officers
+## 129.03   Probationary and original appointments; appointment requirements for full-time regular patrol officers
 
 1. _(a)_ All Full-Time Regular Patrol Officers shall be appointed for a
 probationary period of six months full-time continuous service, and no such
@@ -138,7 +138,7 @@ the pool of Applicants who:
     5. _(5)_ Have earned a Certificate of Completion of the Ohio Peace Officer
     Training Academy physical fitness test, within one year of appointment, or
     have successfully completed an agility test administered by the Chagrin
-    Falls  Police Department.  
+    Falls Police Department.  
     (Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.04   Application, examination and evaluation of candidates
@@ -236,21 +236,23 @@ thirty days.
 
 ## 129.07   Emergency aid outside village
 
-The Chief of Police, under the direction of the Mayor, is hereby authorized
-to provide police protection to any county, municipal corporation or township
-of this State, without a contract, on an emergency basis, where mutual aid
+The Chief of Police, under the direction of the Mayor, is hereby authorized to
+provide police protection to any county, municipal corporation or township of
+this State, without a contract, on an emergency basis, where mutual aid
 protection is available from the same political subdivision to the Village and
 provided further that the Village can at that time, provide such protection
 without jeopardizing the safety and welfare of Chagrin Falls residents and
-property. (Ord. 2015-21. Passed 7-27-15.)
+property.  
+(Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.08   Parking enforcement unit
 
-1. _(a)_ Composition. The Parking Enforcement Unit within the Police
-Department is hereby established. The Parking Enforcement Unit shall be
-comprised of the Fire Prevention Officer and any other individuals appointed to
-the Parking Enforcement Unit by the Mayor and confirmed by Council. Such
-individuals shall serve as Parking Enforcement Officers.
+1. _(a)_ Composition. The Parking Enforcement Unit within the Police Department
+is hereby established. The Parking Enforcement Unit shall be comprised of the
+Fire Prevention Officer and any other individuals appointed to the Parking
+Enforcement Unit by the Mayor and confirmed by Council. Such individuals shall
+serve as Parking Enforcement Officers.
+
 2. _(b)_ Head of the Parking Enforcement Unit. The Mayor, pursuant to his
 authority under the Charter of Chagrin Falls and consistent with Ohio R.C.
 737.161, shall be the executive head of the Parking Enforcement Unit and shall
@@ -258,9 +260,11 @@ make all appointments and removals of Parking Enforcement Officers, subject to
 any general rules prescribed by the Village Council by ordinance. The Mayor
 shall prescribe rules for the organization, training, administration, control,
 and conduct of the Parking Enforcement Unit.
-3. _(c)_ Enforcement Authority. The authority of Parking Enforcement Officers
-is limited to the enforcement of all parking violations listed in Chapter 351. The Fire Prevention Officer is also authorized to enforce Chapter
- 1503.
+
+3. _(c)_ Enforcement Authority. The authority of Parking Enforcement Officers is
+limited to the enforcement of all parking violations listed in Chapter 351. The
+Fire Prevention Officer is also authorized to enforce Chapter 1503.
+
 4. _(d)_ Training. Parking Enforcement Officers shall receive training as
 directed by Ohio R.C. 737.161.  
 (Ord. 2015-21. Passed 7-27-15.)
