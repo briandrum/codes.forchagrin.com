@@ -142,55 +142,55 @@ include the feminine and the neuter.
 
 #### 126.03011   Adjusted federal taxable income
 
-   “Adjusted federal taxable income” means a “C” corporation’s federal taxable
+“Adjusted federal taxable income” means a “C” corporation’s federal taxable
 income before net operating losses and special deductions as determined under
 the Internal Revenue Code, but including subsequent adjustments from required
 additions and deductions. Pass-through entities must compute “adjusted federal
 taxable income” as if the pass-through entity was a “C” corporation. This
 definition does not apply to any taxpayer required to file a return under Ohio
-R.C. 5745.03 or to the net profit from a sole proprietorship. This definition
-is effective for tax years beginning on or after January 1, 2005.  
+R.C. 5745.03 or to the net profit from a sole proprietorship. This definition is
+effective for tax years beginning on or after January 1, 2005.  
 (Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.0302   Administrator
 
-   "Administrator" means the Director of Finance of the Municipality who is
+“Administrator” means the Director of Finance of the Municipality who is
 designated to administer and enforce the provisions of the municipal income
 tax.  
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0303   Association
 
-   "Association" means any partnership, limited partnership or any other form
-of unincorporated enterprise, owned by two or more persons.  
+“Association” means any partnership, limited partnership or any other form of
+unincorporated enterprise, owned by two or more persons.  
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0304   Board of review
 
-   "Board of Review" means the Board created by and constituted as provided in
+“Board of Review” means the Board created by and constituted as provided in
 Section 126.2501 herein.  
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0305   Business
 
-   "Business" means any enterprise, activity, profession or undertaking of any
+“Business” means any enterprise, activity, profession or undertaking of any
 nature conducted for profit or ordinarily conducted for profit, whether by an
-individual, partnership, association, corporation or any other entity,
-excluding however, all nonprofit corporations which are exempt from the payment
-of Federal Income Tax.  
+individual, partnership, association, corporation or any other entity, excluding
+however, all nonprofit corporations which are exempt from the payment of Federal
+Income Tax.  
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0306   Corporation
 
-   "Corporation" means a corporation or joint stock association organized under
-the laws of the United States, the State of Ohio or any other state, territory
-or foreign country or dependency.  
+“Corporation” means a corporation or joint stock association organized under the
+laws of the United States, the State of Ohio or any other state, territory or
+foreign country or dependency.  
 (Ord.1968-730. Passed 6-18-68. )
 
 ### 126.0307   Employee
 
-   "Employee" means one who works for wages, salary, commission or other type
-of compensation in the service of an employer.  
+“Employee” means one who works for wages, salary, commission or other type of
+compensation in the service of an employer.  
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0308   Employer
