@@ -765,7 +765,6 @@ be prosecuted under appropriate State law.
 1. _(a)_ No person shall receive, retain or dispose of property of another,
 knowing or having reasonable cause to believe that the property has been
 obtained through commission of a theft offense.
-   
 2. _(b)_ It is not a defense to a charge of receiving stolen property in
 violation of this section that the property was obtained by means other than
 through the commission of a theft offense if the property was explicitly

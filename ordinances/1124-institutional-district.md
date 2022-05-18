@@ -132,7 +132,7 @@ grouping shall comply with the requirements of this District.
 ## 1124.06   Lighting
 
      Outdoor lighting shall be governed by Chapter 1150, except that all lighting shall be extinguished between the hours of 11:00
-p.m. and 7:00 a.m.   
+p.m. and 7:00 a.m.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.07   Screening

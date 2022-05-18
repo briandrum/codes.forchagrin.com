@@ -43,7 +43,7 @@ governing conditions hazardous to life and property from fire and explosions,
 the most current editions of the Ohio Fire Code, National Fire Protection
 Association, and the Ohio Basic Building Code, including appendices and the
 complete index thereof, except such portions as are hereinafter deleted, added,
-modified or amended.   
+modified or amended.  
 (Ord. 2000-76. Passed 10-9-00.)
 
 ## 1501.02   Establishment and duties of bureau of fire prevention
@@ -586,7 +586,7 @@ locker rooms with divided compartments, each locker or compartment shall be
 provided with one sprinkler head supplied with a water main, not less than one
 inch in diameter with the main size increased as may be required for larger
 than average installations, and as approved by the Fire Chief. In no case,
-however, shall such sprinkler heads be spaced more than twelve feet apart.   
+however, shall such sprinkler heads be spaced more than twelve feet apart.  
 (Ord. 2000-76. Passed 10-9-00.)
     3. _(3)_ The following garages shall be equipped with automatic sprinkler
 equipment meeting the standards referred to in the preceding paragraph:
@@ -594,11 +594,11 @@ basement or sub-basement garages housing more than three motor vehicles, and
 garages located in buildings which one or more stories or parts thereof above
 the garages are occupied for other purposes when the garages have a capacity of
 eight or more passenger automobiles, or are used as bus terminals for three or
-more buses, or are used for the storage and loading of two or more trucks.   
+more buses, or are used for the storage and loading of two or more trucks.  
 (Ord. 1975-970. Passed 4-15-75.)
     4. _(4)_ Except as otherwise specifically prescribed, a complete sprinkler
 system shall be installed wherever specified in this Code or any amendment or
-supplement thereto.   
+supplement thereto.  
 (Ord. 2000-76. Passed 10-9-00.)
 11. _(k)_ Installation and Approval of Sprinkler Equipment.
     1. _(1)_ Required automatic sprinkler equipment shall be installed in

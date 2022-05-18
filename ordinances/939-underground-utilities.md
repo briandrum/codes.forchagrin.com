@@ -29,5 +29,5 @@ other underground facilities for such cables, wires or similar facilities, as
 directed by the Chief Administrative Officer, and no poles or other above-
 ground structures may be erected or used for the support of such cables, wires
 or similar facilities. For purposes of this chapter, the Downtown District
-shall be those streets described in Section 903.02(c).   
+shall be those streets described in Section 903.02(c).  
 (Ord. 2006-46. Passed 7-24-06.)

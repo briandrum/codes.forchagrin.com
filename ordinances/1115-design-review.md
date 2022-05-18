@@ -36,7 +36,7 @@ existing buildings; and
 3. _(c)_ To consider the historical and architectural nature of existing
 buildings, signs and structures within the Municipality and the compatibility
 of proposed changes or proposed new buildings, signs and structures with such
-existing buildings, signs and structures.   
+existing buildings, signs and structures.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1115.02   Applicability and limitations
@@ -99,8 +99,8 @@ design standards of Section 1115.07;
 structure as a whole;
 4. _(d)_ Consider the potential for the design, by virtue of its location, to
 materially and adversely impact another building or property; and
-5. _(e)_ State reasons to support its decision as required by Section 1109.05((b)(1)(E) of the Planning and Zoning Code.   
-(Ord.  2019-39. Passed 8-13-19.)
+5. _(e)_ State reasons to support its decision as required by Section 1109.05((b)(1)(E) of the Planning and Zoning Code.  
+(Ord. 2019-39. Passed 8-13-19.)
 
 ## 1115.05   Demolition and moving
 

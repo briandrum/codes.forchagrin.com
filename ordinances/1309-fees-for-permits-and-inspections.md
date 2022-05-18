@@ -290,7 +290,7 @@ shall be paid.
 1. _(a)_ A two hundred fifty dollar ($250.00) fee shall be paid upon
 application for a minor subdivision.
 2. _(b)_ An eight hundred dollar ($800.00) fee shall be paid upon application
-for a major subdivision.   
+for a major subdivision.  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.21   Reimbursement for professional fees

@@ -33,7 +33,7 @@ force majeure condition affecting a significant portion of the franchise area.
 The cable operator is free to exceed these standards to the benefit of its
 customers and such shall be considered performance for the purposes of these
 standards.  
-(Ord.  2007-23. Passed 3-26-07.)
+(Ord. 2007-23. Passed 3-26-07.)
 
 ## 763.02   Definitions
 

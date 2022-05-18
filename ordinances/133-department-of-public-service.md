@@ -12,7 +12,6 @@ title: "Chapter 133: Department of Public Service"
 * [133.04   Expense Account](#13304-expense-account) (Repealed)
 * [133.05   Streets and Services Division and Street Superintendent](#13305-streets-and-services-division-and-street-superintendent)
 * [133.06   Utilities Division, Water Department, Wastewater Department, and Superintendent of Utilities](#13306-utilities-division-water-department-wastewater-department-and-superintendent-of-utilities)
-   
 
 ## Cross references
 

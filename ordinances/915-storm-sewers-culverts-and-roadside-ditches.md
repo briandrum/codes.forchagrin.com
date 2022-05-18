@@ -32,7 +32,7 @@ with the same.
 
 Storm sewers shall be of such dimensions and materials as may be deemed
 necessary by the Village Engineer at the time the same are built and shall be
-so constructed as to make adequate provision for storm water drainage.   
+so constructed as to make adequate provision for storm water drainage.  
 (Ord. 2000-84. Passed 11-27-00.)
 
 ## 915.03   Curb connections
@@ -47,7 +47,7 @@ curb line.
 ## 915.04   Payment for construction
 
 The method of payment for construction of storm sewers shall be determined
-at the time the same are constructed.   
+at the time the same are constructed.  
 (Ord. 2000-84. Passed 11-27-00.)
 
 ## 915.05   Permit required
@@ -89,7 +89,7 @@ that must be installed for each property.
 An application and inspection fee of fifty dollars ($50.00) shall be charged
 prior to the issuance of a storm sewer permit. Where construction shall take
 place in the tree lawn or any other portion of a dedicated street, the
-applicant shall comply with all of the provisions of Chapter 901.   
+applicant shall comply with all of the provisions of Chapter 901.  
 (Ord. 2000-84. Passed 11-27-00.)
 
 ## 915.99   Penalty

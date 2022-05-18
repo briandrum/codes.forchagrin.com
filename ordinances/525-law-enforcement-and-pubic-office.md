@@ -245,7 +245,6 @@ the actor under this section was the victim.
 consideration of abandoning or agreeing to abandon the prosecution, did not
 exceed an amount that the actor reasonably believed due him as restitution for
 the loss caused him by the offense.
-   
 3. _(c)_ When a prosecuting witness abandons or agrees to abandon a prosecution
 under subsection (b) hereof, the abandonment or agreement in no way binds the
 State or Municipality to abandoning the prosecution.

@@ -27,7 +27,7 @@ standards for the existence and operation of sidewalk cafes are necessary to
 facilitate and ensure a safe environment in these areas. The issuance of a
 sidewalk cafe permit shall not constitute nor shall it be construed to
 constitute a vacation or abandonment by the Village of its interest in the
-right-of-way or any easements contained therein.   
+right-of-way or any easements contained therein.  
 (Ord. 2007-23. Passed 3-26-07.)
 
 ## 765.02   Definitions
@@ -114,7 +114,7 @@ In addition to the requirements of Sections
 is issued, and the sidewalk cafe may be operated on any day that the weather
 permits such operation. Requests for renewals shall be filed with the
 Administrator after the first day of January. The Administrator may approve,
-approve with additional conditions, or deny the request for renewal.   
+approve with additional conditions, or deny the request for renewal.  
 (Ord. 2009-22. Passed 3-23-09.)
 2. _(b)_ The permit issued shall be valid only for the permittee and is not
 transferable in any manner.

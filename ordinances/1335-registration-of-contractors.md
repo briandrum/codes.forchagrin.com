@@ -114,7 +114,7 @@ insurance with limits no less than five hundred thousand dollars ($500,000) per
 occurrence, one million dollars ($1,000,000) aggregate. The Municipality shall
 be an additional insured party and a copy of the general liability insurance
 endorsement that indicates the Municipality is an additional insured shall be
-provided to the Chief Administrative Officer as a condition of registration.   
+provided to the Chief Administrative Officer as a condition of registration.  
 (Ord. 2011-46. Passed 7-11-11.)
 
 ## 1335.07   Revocation of certificate of registration
@@ -146,7 +146,7 @@ and to all inspections authorized by the Chief Administrative Officer.
 
 The provisions of this chapter shall not apply to any contractor performing
 public works directly for the Village or for a developer where plans,
-specifications and contracts are approved by the Village.   
+specifications and contracts are approved by the Village.  
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.10   Fees

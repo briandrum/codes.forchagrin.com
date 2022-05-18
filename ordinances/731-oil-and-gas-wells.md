@@ -29,7 +29,7 @@ The objectives of this chapter are:
 visitors to the Village; and 
 2. _(b)_ To assure that all areas of the Village are protected from the
 encroachment of well drilling, storage and other equipment and from vehicles
-used in the drilling of and production from such wells.   
+used in the drilling of and production from such wells.  
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.02   Application requirements; review and permit procedures
@@ -161,7 +161,6 @@ Chapter 1509 shall govern.
 
 These spacing requirements shall remain in effect until the well has been
 plugged to the satisfaction of the Village and the Division of Oil and Gas.
-   
 3. _(c)_ Access Drives.
     1. _(1)_ Access drives from drilling sites or storage equipment to the
 roadway shall be located to have the minimum impact on adjacent residential
@@ -245,7 +244,7 @@ from rubbish of every character, at all times, during the drilling operation
 and as long thereafter as oil and/or gas is being produced therefrom. All
 permittees’  premises shall be kept clear of high grass, weeds and combustible
 trash or any other rubbish or debris that might constitute a fire hazard within
-a radius of 100 feet around any oil tank or tanks, or producing wells.   
+a radius of 100 feet around any oil tank or tanks, or producing wells.  
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.04   Operational standards
@@ -326,7 +325,7 @@ perpetually provided from a public street to the well site. 
     3. _(3)_ No building or structures shall be constructed within the
 easements, pursuant to subsections (b)(1) and (2) hereof, except fences,
 parking lots, walkways, playground equipment and other similar type equipment
-and landscape features.   
+and landscape features.  
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.06   Administration
@@ -403,14 +402,14 @@ year after the Chief Administrative Officer has received written confirmation
 from the State Division of Oil and Gas that the well has been satisfactorily
 plugged in accordance with the regulations of the Division. Until the surety
 bond is released by the Chief Administrative Officer in writing, such  bond
-shall remain in full force and effect for the benefit of the Village.   
+shall remain in full force and effect for the benefit of the Village.  
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.07   State regulations incorporated by reference
 
 All related rules and regulations (as amended) promulgated by the Department
 of Natural Resources Division of Oil and Gas are hereby incorporated by
-reference as part of this chapter.   
+reference as part of this chapter.  
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.08   Definitions
@@ -433,7 +432,7 @@ lift equipment or the removal of tubing obstructions such as paraffin or sand. 
 and the driller which enables the driller to include more than one separately
 owned parcel as part of the well site and commits these parcels to comply with
 the regulations of this chapter and the requirements of the Division of Oil and
-Gas.   
+Gas.  
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.09   Variance from development standards

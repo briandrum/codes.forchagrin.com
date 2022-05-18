@@ -108,7 +108,7 @@ holder and approved by the Village Engineer and the Chief Administrative
 Officer or his agent.
 5. _(e)_ Privately owned facilities encountered in the work shall be
 protected, removed, replaced or relocated by agreement between the owner of
-such facilities and the permit holder, at no expense to the Village.   
+such facilities and the permit holder, at no expense to the Village.  
 (Ord. 1985-8. Passed 2-25-85.)
 6. _(f)_ When the material excavated from a trench is suitable for backfill, in
 the opinion of the Chief Administrative Officer, the Village Engineer or the

@@ -105,7 +105,7 @@ EFFECTIVE RATE CHANGE DATE RATE - MIN. CHARGE
 01/01/23                   $12.13/100 cf - $72.78
       After the year 2019, the rates established for 2019 shall remain in
 effect until modified by Council.  
-(Ord.  2020-08. Passed 3-9-20.)
+(Ord. 2020-08. Passed 3-9-20.)
 3. _(c)_ Any sewage bill unpaid after January 30, April 30, July 30 or October
 30 of any year shall incur a penalty of ten percent (10%) of the total unpaid
 balance due.  
@@ -164,7 +164,7 @@ as presented in the Ohio Environmental Protection Agency Sewerage Flow Guide,
 revised from time to time, and using 400 gallons per day (one RSFU) as a base.
 The amount of the charge shall be determined by applying the RSFU equivalent
 figure to the above fee schedule.  
-(Ord.  2018-80. Passed 12-11-18.)
+(Ord. 2018-80. Passed 12-11-18.)
 8. _(h)_ In the event any premises are located outside the corporate limits of
 the Municipality and are served by the system but are unmetered for any reason
 whatsoever, such land or premises shall be charged at a rate equal to the
@@ -186,7 +186,7 @@ Municipality, except for those properties situated on Falls River Road as set
 forth in Ordinance No. 1971- 819, adopted February 21, 1971, an impact fee of
 sixteen thousand dollars ($16,000) per residential unit shall be paid to the
 Village.  
-(Ord.  2018-80. Passed 12-11-18.)
+(Ord. 2018-80. Passed 12-11-18.)
 10. _(j)_ Owners of property always remain responsible to the Municipality to
 pay for any sewer charges related to the property, and the owner is not
 relieved of the responsibility or obligation for payment of charges assessed to

@@ -64,7 +64,7 @@ kept on file in the Building Department.
 to private streets in Attached Single Family, Multi-Family, Retirement Living,
 Residential Mixed Use and Cluster Residential Districts. However, such trees
 may be spaced at intervals greater than thirty-five feet, as approved by the
-Administrator, in order to encourage the clustering of trees.   
+Administrator, in order to encourage the clustering of trees.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.05   Parking areas

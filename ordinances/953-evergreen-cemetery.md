@@ -147,7 +147,7 @@ Administrative Officer.
 entity, other than in the event of the death of the owner of an unused
 mausoleum lot, and pursuant to their last will and testament, or intestate
 succession in accordance with Ohio law, the mausoleum lot may be transferred to
-their devisee, or next of kin in the case of intestate succession.   
+their devisee, or next of kin in the case of intestate succession.  
 (Ord. 2019-28. Passed 3-25-19.)
 
 ### 953.031   Purchase of columbarium niches
@@ -163,7 +163,7 @@ Cemetery Trustees.
       
 4. _(d)_ The cost of a memorial bench is $7,500, which includes the foundation
 and engraving.  
-(Ord.  2017-14. Passed 3-13-17.)
+(Ord. 2017-14. Passed 3-13-17.)
 5. _(e)_ Niche prices: Two cremations may be interred in each niche.   
                        Resident            Non-Resident
 Columbarium 1
@@ -180,10 +180,8 @@ Tier C                 $2,500.00           $4,000.00
 Tier D                 $2,000.00           $3,000.00
 Engraving
                        $350.00 (one name)  $350.00 (one name)
-Two Names              $525.00 (two names) $525.00 (two names)
-   
-(Ord.  2020-40. Passed 9-14-20.)
-   
+Two Names              $525.00 (two names) $525.00 (two names)  
+(Ord. 2020-40. Passed 9-14-20.)
 6. _(f)_ NICHE BURIAL PROCEDURES & COSTS (OPENING & CLOSING): After 3:00 PM on
 a weekday is $500.00.
 7. _(g)_ The cost for a niche interment before 2:00 PM Monday through Saturday
@@ -198,14 +196,14 @@ affidavit stating that they are the sole beneficiary of the burial site.
 10. _(j)_ There shall be no burials on Sundays nor legal holidays.
 11. _(k)_ The Village must receive 12-hour notice (one business day) for an
 interment. There will be no burials after 12:00 p.m. (noon) on Saturdays.  
-(Ord.  2017-14. Passed 3-13-17.)
+(Ord. 2017-14. Passed 3-13-17.)
 12. _(l)_ Columbarium 1 niches are 12” long, 12” high and 12” wide. A single
 urn maximum dimension may be 11” wide by 11” high by 11” long. For two urns, 
 the maximum dimension for each urn is 5” wide by 5” long by 11” high. 
 Columbarium 3 niches are 12” wide by 14” long by 12” high. Maximum dimension
 for a single urn is 11” wide by 11” high by 13” long. The maximum for each urn
 when there are two urns is 5” wide by 6” long by 11” high.  
-(Ord.  2020-40. Passed 9-14-20.)
+(Ord. 2020-40. Passed 9-14-20.)
 13. _(m)_ Engraving of the face plat is $350.00 for one name and $525.00 for two
 names. All engraving is done through the Village. Only the name and date of
 birth & death are permitted on the face plate. 

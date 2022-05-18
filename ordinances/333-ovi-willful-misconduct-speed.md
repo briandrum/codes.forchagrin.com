@@ -1149,7 +1149,6 @@ operators of motor vehicles shall be governed by the speed limitations set
 forth on such signs. No person shall operate a motor vehicle below the speed
 limits posted upon such signs except when necessary for safe operation or in
 compliance with law.
-   
 3. _(c)_ In a case involving a violation of this section, the trier of fact, in
 determining whether the vehicle was being operated at an unreasonably slow
 speed, shall consider the capabilities of the vehicle and its operator.

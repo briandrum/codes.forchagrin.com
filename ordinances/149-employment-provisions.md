@@ -138,8 +138,8 @@ the equivalent of four hours pay at the employee’s straight time rate. This
 does not apply when an employee continues to work after the employee’s normal
 shift schedule ends or is instructed to report prior to the employee’s
 regularly scheduled starting time. This premiums payment shall be limited to
-one occurrence in an employee’s work day.   
-(Ord. 2007-70. Passed 11-26-07; Ord.  2018-60. Passed 8-27-18.)
+one occurrence in an employee’s work day.  
+(Ord. 2007-70. Passed 11-26-07; Ord. 2018-60. Passed 8-27-18.)
 
 ## 149.04   Scheduled overtime
 
@@ -285,7 +285,7 @@ employee will be paid by the Village the difference in money between the
 Village pay and military pay for such period.
 3. _(c)_ In calculating an employee’s jury duty pay or military pay, allowances
 for travel, food or housing shall not be considered, but any other pay or
-allowances of whatever nature, including longevity pay, shall be considered.   
+allowances of whatever nature, including longevity pay, shall be considered.  
 (Ord. 1996-40. Passed 7-8-96.)
 
 ## 149.09   Committee meetings
@@ -328,7 +328,7 @@ employee’s regular scheduled hours at straight time.
 weeks vacation after one full year of service, three weeks vacation after five
 consecutive years of service, four weeks vacation after ten consecutive years
 of service and five weeks vacation after twenty consecutive years of service.  
-(Ord.  1999-80. Passed 12-13-99.)
+(Ord. 1999-80. Passed 12-13-99.)
 2. _(b)_ Vacation credits are expected to be used during the following twelve
 months after accumulated. In unusual circumstances with the approval of the
 Mayor and department head, an employee may be permitted to carry a portion of
@@ -368,7 +368,7 @@ the Village at the Village’s expense for any absence.
 department head, sick leave may be used in advance of accrual, provided that
 any employee separated from the service who has been granted sick leave that is
 accrued at that time may be required to reimburse the Municipality for all
-salary and wages paid in connection with such unaccrued leave.   
+salary and wages paid in connection with such unaccrued leave.  
 (Ord. 1986-65. Passed 12-22-86.)
 4. _(d)_ The sick leave credit provided for herein shall be effective only
 during such time as the employee remains in the employment of the
@@ -471,7 +471,7 @@ hereof, the contributions required to be made by each such employee to the
 OPERS or OP&F, whichever is applicable, as an employee contribution under Ohio
 R.C. Chapters 145 and 742  shall be paid, pursuant to subsection (c) hereof, by
 the Village on behalf of the employee in lieu of contribution by the employees
-and in accordance with the provisions of this section.   
+and in accordance with the provisions of this section.  
 (Ord. 2011-26. Passed 5-23-11.)
 2. _(b)_ This section shall apply to all Village officials and/or employees in
 the following categories: Police Department personnel, Fire Department
@@ -555,7 +555,7 @@ that are reimbursable to the Village.
 rules and regulations governing the off-duty, part-time employment of police
 officers performing security or traffic control services to any entity or
 person.  
-(Ord.  1998-68. Passed 8-10-98.)
+(Ord. 1998-68. Passed 8-10-98.)
 
 ## 149.24   Purchase of grave sites
 

@@ -30,7 +30,7 @@ title: "Chapter 711: Peddlers and Canvassers"
 This Chapter is intended to balance the First Amendment rights of
 individuals wishing to engage in door-to-door peddling and canvassing
 activities in the Village with the privacy, health, safety and welfare of the
-Village’s residents.   
+Village’s residents.  
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.02   Definitions
@@ -66,7 +66,7 @@ she regularly delivers or intends to regularly deliver; and
 Individuals who are not required to get a license are encouraged to advise
 the police department that they will be going door-to-door in the Village in
 case members of the public seek information from the police department
-regarding whether the Village is aware that such activity is occurring.   
+regarding whether the Village is aware that such activity is occurring.  
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.04   Application for license
@@ -141,7 +141,7 @@ residence, apartment, or other dwelling unit in the Village upon which is
 clearly displayed at the entrance a notice that reads "No Solicitors" or that
 otherwise clearly purports to prohibit peddlers, canvassers, vendors,
 solicitors, or persons requesting contributions, unless such person is or has
-been invited upon the premises by the occupant thereof.   
+been invited upon the premises by the occupant thereof.  
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.07   Revocation of license
@@ -160,7 +160,7 @@ this chapter.
 constitute a menace to the health, safety or general welfare of the public.
 5. _(e)_ Violates any of the provisions of this Chapter 711.  
 Written notice shall be given to the licensee by personal service or by
-certified mail to any of the addresses required to be provided by Section 711.04(c) immediately upon such revocation.   
+certified mail to any of the addresses required to be provided by Section 711.04(c) immediately upon such revocation.  
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.08   Appeal procedure

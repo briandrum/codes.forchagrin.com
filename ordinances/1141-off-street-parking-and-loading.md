@@ -421,7 +421,7 @@ constructed in accord with standards established by the Municipal Engineer.
 
 ## 1141.15   Illumination of parking and loading areas
 
-Regulated in Chapter 1150 of this Planning and Zoning Code.   
+Regulated in Chapter 1150 of this Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.16   Approval of parking and loading plans

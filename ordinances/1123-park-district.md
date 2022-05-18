@@ -40,7 +40,7 @@ Chapters
     3. _(3)_ Lighting structures as regulated in Chapter 1150 of this Planning and Zoning Code, and flag poles.
     4. _(4)_ Utility, maintenance, sanitation and storage facilities completely
 enclosed within permitted main buildings or suitably and attractively screened
-from view where such screening is in conformance with Section 1142.07 of the Planning and Zoning Code   
+from view where such screening is in conformance with Section 1142.07 of the Planning and Zoning Code  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1123.03   Area, yard and height regulations

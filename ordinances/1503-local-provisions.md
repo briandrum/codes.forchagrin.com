@@ -194,7 +194,7 @@ a second or subsequent offense, such person is guilty of a misdemeanor of the
 first degree and shall be fined not more than one thousand dollars ($1,000) or
 imprisoned not more than six months, or both. Each day of a continuing
 violation shall be deemed to be a separate offense.  
-(Ord. 2011-06. Passed 1-24-11; Ord.  2019-64. Passed 11-11-19.)
+(Ord. 2011-06. Passed 1-24-11; Ord. 2019-64. Passed 11-11-19.)
 
 ## 1503.071   Central Station Monitored Fire Alarm System Requirement.
 
@@ -257,7 +257,7 @@ All standpipes and fire department connections shall be painted red.
 Key boxes shall be installed on all commercial and educational occupancies,
 as well as multi-family dwellings which are designed for occupancy by more than
 two families. The location of the key boxes must be approved by the Chagrin
-Falls Bureau of Fire Prevention prior to installation.   
+Falls Bureau of Fire Prevention prior to installation.  
 (Ord. 2008-05. Passed 2-11-08.)
 
 ## 1503.12   Inspection required prior to occupancy

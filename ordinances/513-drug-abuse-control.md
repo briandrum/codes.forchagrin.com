@@ -658,7 +658,6 @@ and other persons whose conduct was in accordance with Ohio R.C. Chapters 3719,
 instruments, a misdemeanor of the second degree. If the offender previously
 has been convicted of a drug abuse offense, violation of this section is a
 misdemeanor of the first degree.
-   
 4. _(d)_ In addition to any other sanction imposed upon an offender for a
 violation of this section, the court may suspend for not more than five years
 the offender’s driver’s or commercial driver’s license or permit. However, if

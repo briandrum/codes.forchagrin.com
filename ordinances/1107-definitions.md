@@ -348,7 +348,7 @@ but not including a bank, credit union, or savings association.
 examination and treatment to human patients on an outpatient basis by one or
 more physicians, dentists, psychologists, optometrists, therapists,
 chiropractors or other medical personnel and where patients are not lodged
-overnight.   
+overnight.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.15   Occupancy permit
@@ -445,7 +445,7 @@ a building or structure and a public or private street. Except for one-family
 and two-family dwellings, vehicle access provided between a street or land and
 a parking space, parking area, loading areas, or between two parking areas
 shall also be considered to be a driveway.  
-(Ord.  2019-39. Passed 8-13-19.)
+(Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.21   Use
 
@@ -464,7 +464,7 @@ main use of the main building or land.
 
    "Variance" means an adjustment of this Planning and Zoning Code, allowing
 either area or use variances, when the applicable factors set forth in Section 1111.07 of this Planning and Zoning Code weigh in favor of the granting of the
-variance.   
+variance.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.23   Yards and setbacks

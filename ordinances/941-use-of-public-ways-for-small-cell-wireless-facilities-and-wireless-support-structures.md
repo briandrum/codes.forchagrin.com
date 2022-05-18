@@ -169,7 +169,7 @@ trolleybuses.
     16. _(16)_ Any capitalized words or phrases not otherwise defined in this
 Chapter 941 shall have the meaning set forth, if any, in Substitute House Bill
 478 of the 132nd General Assembly.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.02   Consent required
 
@@ -190,7 +190,7 @@ any right, title or interest in the Right-of-Way, but shall be deemed a permit
 only to use and occupy the Public Ways for the limited purposes and term stated
 in the permit, this Chapter, and the Design Guidelines set forth in Chapter 943. Further, no Small Cell Use Permit shall be construed as any warranty of
 title.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.03   Permit application types
 
@@ -208,7 +208,7 @@ Structure within one hundred and eighty (180) days from the date the Small Cell
 Use Permit is issued.
 4. _(d)_ For Type 2 and Type 3 Applications, Applicants shall indicate whether
 the Application is or is not for a Small Wireless Facility.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.04   Consolidated consent applications
 
@@ -232,7 +232,7 @@ consolidated basis, applications involving Small Wireless Facilities may not be
 commingled with applications for other Small Cell Facilities or Wireless
 Support Structures. The limit on the number of applications that may be filed
 in a consolidated application pursuant to Section 941.04(a) shall not apply to applications for Small Wireless Facilities.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.05   Application fee
 
@@ -244,7 +244,7 @@ to the nearest Five Dollars ($5.00), beginning in the year 2023.
 resulting from the fee set forth in subsection (a) multiplied by the total
 number of Facilities or Wireless Support Structures included in the
 consolidated Application.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.06   Attachment fee
 
@@ -257,7 +257,7 @@ nearest Five Dollars ($5.00), beginning in the year 2023.
 complete, and no later than January 1 each year thereafter. The first-year
 attachment fee shall not be prorated, regardless of the date that the
 collocation is complete.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.07   Required application materials
 
@@ -318,7 +318,7 @@ depth and weight with mounts and other necessary hardware; and
 11. _(k)_ If the Applicant is not an Operator, then the Applicant must provide
 proof that the Applicant has been engaged by a wireless service provider who
 will be the end-user of the Facilities.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.08   Application review
 
@@ -387,7 +387,7 @@ area;
     6. _(6)_ Conflict with planned future improvements in the Right-of-Way; and
     7. _(7)_ Failure to comply with generally applicable health, safety, and
 welfare requirements.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.09   Permitting process, duration, and termination
 
@@ -431,7 +431,7 @@ shall restore and rehabilitate all Village-owned Wireless Support Structures
 and the Right-of-Way to their former condition and utility.
 10. _(j)_ The Village shall not issue any refunds for any amounts paid by the
 Facilities Operator upon termination of the permit.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.10   Annual registration
 
@@ -477,7 +477,7 @@ Operator shall keep all required registration information current at all times
 and shall provide the Village with notice of changes to the required
 information within fifteen (15) days following the date on which the Facilities
 Operator has notice of the need for such change.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.11   Nonconforming facilities
 
@@ -490,7 +490,7 @@ shall register such facility pursuant to Section 941.10 within ninety (90) days 
 3. _(c)_ If a nonconforming facility is damaged or destroyed beyond repair, any
 replacement facility must be designed in accordance with all provisions of this
 Chapter, the Design Guidelines established in Chapter 943, and state and federal law and regulations.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.12   Abandoned and damaged facilities
 
@@ -507,7 +507,7 @@ Facilities were damaged. If the damaged Facilities are not repaired within
 thirty (30) days, then the damaged Facilities shall be considered a nuisance
 and the Village may repair or remove the Facilities at the expense of the
 Facilities Operator.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.13   Insurance requirements
 
@@ -552,7 +552,7 @@ Officer that such review has been completed. As part of the review process,
 the Chief Administrative Officer may require, and the self-insurance applicant
 shall provide, any and all financial documents necessary to make a valid
 determination of the applicant’s ability to meet the needs of this Chapter.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.14   Indemnification
 
@@ -569,7 +569,7 @@ director, representative, employee, affiliate, or subcontractor of the
 Operator, or their respective officers, agents, employees, directors, or
 representatives while installing, repairing, or maintaining Facilities in the
 Right-of-Way.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.15   Financial surety
 
@@ -583,7 +583,7 @@ to remove abandoned, unused or unsafe Facilities, or to repair damage to any
 Village property caused by the Facilities Operator or its agent. In such event,
 the Facilities Operator shall cause the financial surety be replenished to its
 prior amount within ten (10) business days after Village notifies the
-Facilities Operator that it has drawn on the financial surety.   
+Facilities Operator that it has drawn on the financial surety.  
 (Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.16   Reserved space
@@ -594,7 +594,7 @@ Way and on Wireless Support Structures for future utility, safety, or
 transportation uses. Such space may be reserved in an ordinance or plan
 approved by the Mayor, Village Manager, Village Council, Building Commissioner,
 or Planning Commission.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.17   Removal or relocation of facilities
 
@@ -610,7 +610,7 @@ Facilities Operator.
 approved by the Village, the Facilities Operator shall relocate the Facilities
 within thirty (30) days of receiving notice that the Facilities are located
 improperly.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.18   Notice of work
 
@@ -618,7 +618,7 @@ improperly.
 all nonemergency work within ten (10) calendar days prior to performing any
 upgrades or maintenance on any Facilities, regardless of whether the work
 requires any permit or consent from the Village.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.19   Excavation permit
 
@@ -626,7 +626,7 @@ If a Facilities Operator must construct, reconstruct, alter, repair, remove
 or replace any culvert, sidewalk or driveway in any public street or road
 Right-of-Way, then the Facilities Operator shall obtain the required permit
 pursuant to Section 901.01.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.20   Waiver
 
@@ -649,4 +649,4 @@ occurs or continues.
 2. _(b)_ Nothing in this Chapter shall be construed as limiting any judicial
 remedies that the Village may have, at law or in equity, for enforcement of
 this Chapter.  
-(Ord.  2019-10. Passed 1-14-19.)
+(Ord. 2019-10. Passed 1-14-19.)

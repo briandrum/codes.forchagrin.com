@@ -314,7 +314,7 @@ changing of lanes on sections of roadway and drivers of vehicles shall obey the
 directions of every such device. 
     5. _(5)_ The driver of a motor vehicle shall not operate on any parts of a
 roadway marked and designated as a parking zone.  
-(Ord.  1987-45. Passed 11-9-87.)
+(Ord. 1987-45. Passed 11-9-87.)
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -682,7 +682,6 @@ as possible to, the right edge or curb of the street clear of any intersection,
 and stop and remain in that position until the public safety vehicle or
 coroner’s vehicle has passed, except when otherwise directed by a police
 officer.
-   
 2. _(b)_ This section does not relieve the driver of a public safety vehicle or
 coroner’s vehicle from the duty to drive with due regard for the safety of all
 persons and property upon the street.
@@ -1280,7 +1279,7 @@ guilty of a misdemeanor of the third degree.
 1. _(a)_ The driving of vehicles to and fro upon the public roads and highways
 within the Municipality for the purpose of advertising is hereby declared to be
 a nuisance and is prohibited.  
-(Ord.  1957-420. Passed 12-28-57.)
+(Ord. 1957-420. Passed 12-28-57.)
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -1307,7 +1306,7 @@ herein is directed by a police officer, by appropriate traffic control signals
 or devices or if the person operating the motor vehicle stops his vehicle and
 turns off the motor while on such property not devoted to use as a public
 street.  
-(Ord.  1987-45. Passed 11-9-87.)
+(Ord. 1987-45. Passed 11-9-87.)
 4. _(d)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one

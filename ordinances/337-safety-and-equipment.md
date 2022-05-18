@@ -517,7 +517,6 @@ Brakes not on all four wheels  40                           10.7
 so adjusted as to operate as equally as practicable with respect to the wheels
 on opposite sides of the vehicle.  
 (ORC 4513.20)
-   
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.99)
 

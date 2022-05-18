@@ -30,7 +30,7 @@ of private property;
 3. _(c)_ To minimize the adverse impacts of solar energy systems on contiguous
 properties and on the aesthetic quality of the Municipality; and, 
 4. _(d)_ To promote orderly land use, and development while allowing the safe,
-effective, and efficient use of solar energy systems.   
+effective, and efficient use of solar energy systems.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1153.02   Definitions
@@ -103,7 +103,6 @@ of electrical disconnection switch.
 building located on the same lot or parcel. Such facilities shall be designed,
 installed, or constructed to provide electrical power to be primarily consumed
 by the main use or building to which they are accessory.
-   
 2. _(b)_ The Architectural Board of Review shall review solar energy systems
 applications for compliance with the Building Code, general design standards,
 and design standards established in this Planning and Zoning Code.

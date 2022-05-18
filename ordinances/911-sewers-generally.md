@@ -82,7 +82,7 @@ any period of duration longer than fifteen minutes more than five times the
 average twenty-four hour concentration or flows during normal operation.
 18. _(r)_ "Storm drain", sometimes termed "storm sewer", means a sewer which
 carries storm and surface waters and drainage, but excludes sewage and
-industrial wastes, other than unpolluted cooling water.   
+industrial wastes, other than unpolluted cooling water.  
 (Ord. 1968-738. Passed 9-17-68.)
 19. _(s)_ "Superintendent" and “Superintendent of Services”  means the
 Superintendent of Utilities or his or her authorized deputy, agent or

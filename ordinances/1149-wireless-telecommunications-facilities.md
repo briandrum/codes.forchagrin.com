@@ -222,7 +222,7 @@ shelter or construct multiple shelters so that they share common walls with
 each shelter having a separate outside entrance.
 5. _(e)_ Access.  Provided along the circulation driveways of the existing use
 without interfering with the parking or vehicular circulation for the main use
-if present.   
+if present.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1149.06   Abandonment

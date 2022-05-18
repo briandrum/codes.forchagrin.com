@@ -135,7 +135,7 @@ the Board. No building permit shall be issued unless plans therefor have been
 approved in writing by the Architectural Board of Review or unless no action by
 the Board in regard to such plans has been taken within forty-five days of the
 date of the Board’s initial consideration of an application.
- 
+
 2. _(b)_ An applicant may request an unofficial review. The unofficial review is
 informal and does not entitle the applicant to preliminary or final approval, or
 to a building permit.  

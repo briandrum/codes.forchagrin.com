@@ -14,7 +14,7 @@ title: "Chapter 544: Trees, Weeds and Grass"
 * [544.06   Trimming hedges or growths at intersections](#54406-trimming-hedges-or-growths-at-intersections)
 * [544.07   Trimming hedges along public ways](#54407-trimming-hedges-along-public-ways)
 * [544.08   Certain trees prohibited](#54408-certain-trees-prohibited)
-544.09   Dutch elm disease and “elm blight”.
+* [544.09   Dutch elm disease and “elm blight”](#54409-dutch-elm-disease-and-elm-blight)
 * [544.10   Inspection and removal of diseased trees](#54410-inspection-and-removal-of-diseased-trees)
 * [544.11   Examination and diagnosis of suspected infected trees](#54411-examination-and-diagnosis-of-suspected-infected-trees)
 * [544.12   Trees permitted to be planted on Municipal property](#54412-trees-permitted-to-be-planted-on-municipal-property)
@@ -183,7 +183,7 @@ Station in Wooster, Ohio, or to the United States Agricultural Research Center
 in Beltsville, Maryland, or to their successor agencies regardless of where
 they may be located, and the action of the Chief Administrative Officer under
 this chapter shall await and be determined by the report received from such
-examination and diagnosis.   
+examination and diagnosis.  
 (Ord. 2019-43. Passed 7-8-19.)
 
 ## 544.12   Trees permitted to be planted on municipal property
@@ -191,29 +191,33 @@ examination and diagnosis. 
 1. _(a)_ The following is a list of trees, the planting of which may be
 permitted on Municipal property with an appropriate permit granted by the Chief
 Administrative Officer pursuant to Section 544.13.
-Acer Campestre -                         Hedge Maple
-Acer Platanoides -                       Norway Maple
-Acer Rubrum -                            Red Maple
-Acer Saccharum -                         Sugar Maple
-Almus Cordata -                          Italian Alder
-Carpinus Betulus Fastigian Pyramidalis - Pyramidal European Hornbeam
-Cercidiphyllum Japonicum -               Katsura Tree
-Crateagus Phacnopyrum -                  Washington Hawthorn
-Encommia Ulmoldes -                      Hardy Rubber Tree
-Ginkgo Biloba -                          Maiden Hair Tree (Male)
-Liquidambar Styraciflua -                Sweet Gum
-Nyssa Sylvatica -                        Sour Gum
-Ostrya Virginiana -                      Hop Hornbeam
-Pyrus Calleryana -                       Callery Pear
-Quercus Imbricarea -                     Shingle Oak
-Quercus Palustris -                      Pin Oak
-Quercus Phellos -                        Willow Oak
-Quercus Schumardi -                      Texas Red Oak
-Sophora Japonica -                       Chinese Scholar Tree
-Tilia Cordata -                          Littleleaf Linden
-Tilia Tomentosa -                        Silver Linden
-Ulmus Parvifolia -                       Chinese Elm
-Zelkova Serrata -                        Keaki Tree  
+
+| Binomial name                          | Common name                 |
+|----------------------------------------------------------------------|
+| Acer Campestre                         | Hedge Maple                 |
+| Acer Platanoides                       | Norway Maple                |
+| Acer Rubrum                            | Red Maple                   |
+| Acer Saccharum                         | Sugar Maple                 |
+| Almus Cordata                          | Italian Alder               |
+| Carpinus Betulus Fastigian Pyramidalis | Pyramidal European Hornbeam |
+| Cercidiphyllum Japonicum               | Katsura Tree                |
+| Crateagus Phacnopyrum                  | Washington Hawthorn         |
+| Encommia Ulmoldes                      | Hardy Rubber Tree           |
+| Ginkgo Biloba                          | Maiden Hair Tree (Male)     |
+| Liquidambar Styraciflua                | Sweet Gum                   |
+| Nyssa Sylvatica                        | Sour Gum                    |
+| Ostrya Virginiana                      | Hop Hornbeam                |
+| Pyrus Calleryana                       | Callery Pear                |
+| Quercus Imbricarea                     | Shingle Oak                 |
+| Quercus Palustris                      | Pin Oak                     |
+| Quercus Phellos                        | Willow Oak                  |
+| Quercus Schumardi                      | Texas Red Oak               |
+| Sophora Japonica                       | Chinese Scholar Tree        |
+| Tilia Cordata                          | Littleleaf Linden           |
+| Tilia Tomentosa                        | Silver Linden               |
+| Ulmus Parvifolia                       | Chinese Elm                 |
+| Zelkova Serrata                        | Keaki Tree                  |
+
 (Ord. 1982-36. Passed 1-24-83; Ord. 2002-71. Passed 11-25-02.)
 2. _(b)_ Wherever and whenever the Chief Administrative Officer determines
 that the planting of a tree by the Municipality on the tree lawn or other
@@ -241,7 +245,6 @@ cutting down of trees, bushes and shrubs on public streets or ways or in public
 places; provided, however, that the abutting property owner or agent of the
 Village shall not be required to obtain a permit for this purpose if such
 cutting or pruning is otherwise regulated by this chapter.
-   
 2. _(b)_ Each permit shall be valid for a period of thirty days from the date
 of issuance; provided, however, that such permit may be revoked by the Chief
 Administrative Officer when it is determined that any permittee is operating in
@@ -253,7 +256,7 @@ Municipality as insureds or beneficiaries, as the case may be, in the amount of
 One Million Dollars ($1,000,000.00) per claim for injury or death or damage of
 personal property, and payment of a Twenty-Five Dollar ($25.00) permit fee. A
 contractor may be licensed on an annual basis, for a Fifty Dollar ($50.00)
-permit fee and providing proof of the required insurance or bond.   
+permit fee and providing proof of the required insurance or bond.  
 (Ord. 2019-43. Passed 7-8-19.)
 
 ## 544.14   Establishment and powers of shade tree commission

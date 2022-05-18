@@ -25,7 +25,7 @@ committees, in connection with the most recent national, state and local
 elections. Members of the general public shall be afforded the opportunity to
 speak on these matters for up to five (5) minutes per person. The Village
 shall record the minutes of the meeting and make them available to the public
-by posting them on the Village’s website.      
+by posting them on the Village’s website.  
 (Ord. 2021-08. Passed 2-8-21.)
 
 ## 171.02   Summary of public hearing

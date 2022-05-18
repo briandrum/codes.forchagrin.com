@@ -166,7 +166,7 @@ Section 1143.06(d).
 9. _(i)_ Any sign that is painted on sidewalks or curbs.
 10. _(j)_ Marquee signs.
 11. _(k)_ Billboards. 
-12. _(l)_ Portable signs.   
+12. _(l)_ Portable signs.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.05   Permits
@@ -220,7 +220,7 @@ regulations provided for in this chapter:
     2. _(2)_ Incidental signs.
     3. _(3)_ Cornerstones and other similar building plaques or architectural
 elements permanently incorporated into a building and not exceeding two (2)
-square feet in total area.   
+square feet in total area.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.06   Number and type of signs permitted: nonresidential  districts
@@ -331,7 +331,7 @@ residential buildings, each building shall be permitted one wall, awning,
 canopy or ground sign.
 5. _(e)_ Nonresidential Main Uses.  One wall or ground sign may be permitted on
 the premises of a permitted nonresidential main use located in a residential
-district.   
+district.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.08   Design standards

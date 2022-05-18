@@ -49,7 +49,7 @@ repair, maintenance and nuisance prevention.
 provisions of the ordinances of the Municipality relating to the construction,
 use and maintenance of buildings and shall apply to all buildings or portions
 thereof, within the municipal limits.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.02   Definitions
 
@@ -166,7 +166,7 @@ result of such exposure.
 28. _(bb)_ “Workmanlike” means executed in a skilled manner with a quality of
 construction that is generally plumb, level, square in line, undamaged and
 without marring adjacent work or materials.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.03   Conflict
 
@@ -177,7 +177,7 @@ adopted pursuant to such ordinances, the more restrictive provisions shall
 prevail. The provisions of Chapter 1146 of the Codified Ordinances shall be deemed to be more restrictive than
 Chapter 1340 of the Codified Ordinances and no Historically Significant Property shall
 be demolished without compliance with Chapter 1146 of the Codified Ordinances.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.04   Severability
 
@@ -187,7 +187,7 @@ and provisions, and the holding of any such section, subsection, part or
 provision thereof to be unconstitutional, void or ineffective for any cause
 shall not affect or render invalid any other such section, subsection, part or
 provision thereof.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.05   Enforcement; legal action
 
@@ -199,14 +199,14 @@ occupancy of a building, structure or premises; to require compliance with the
 provisions of this chapter or other applicable laws, ordinances, rules or
 regulations, or the orders or determinations of the Building Inspector, the
 Mayor, or the Board of Zoning Appeals.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.06   Maintenance responsibilities
 
 No owner, occupant, or operator, shall occupy or allow to exist any
 premises, building, structures or any parts thereof, which do not comply with
 the provisions of this chapter.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.07   Inspection
 
@@ -214,7 +214,7 @@ The Building Inspector is authorized to make or cause to be made inspections
 of all structures or premises and all secondary or appurtenant structures to
 determine whether such structures or premises conform to the provisions of this
 chapter or other provisions of the Building Code.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.08   Notice of violation
 
@@ -240,7 +240,7 @@ registered mail to the last known address of the owner. Notice may also be
 posted in a conspicuous place on the structure or premises to which it
 relates. No person shall remove or deface such posted notice without the
 written permission of the Building Inspector.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 3. _(c)_ If the person to whom the notice and order is addressed is not found
 after reasonable and diligence search, then the notice and order shall be sent
 by certified mail to their tax mailing address, if available, as indicated on
@@ -285,7 +285,7 @@ All equipment and facilities appurtenant to a structure and premises shall be
 maintained in good repair.
 2. _(b)_ Repairs, maintenance work, alterations or installations shall be
 executed and installed in a workmanlike manner.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.10   Maintenance of foundations
 
@@ -299,14 +299,14 @@ protected against infestation.
 structure or piers require substantial repair, such piers shall be replaced
 with a foundation conforming to the Ohio Residential Code as adopted and
 amended by the Municipality.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.11   Maintenance of roofs, gutters and downspouts
 
 All roofs of every building shall be maintained weathertight and shall be
 equipped with gutters and downspouts connected to a public storm sewer if
 available, or as otherwise approved by the Building Inspector.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.12   Maintenance of exteriors of structures and secondary or appurtenant structures
 
@@ -335,7 +335,7 @@ condition prior to repainting or coating.
     2. _(2)_ All bare exterior surfaces which are flaking or crumbling shall be
 replaced or sealed in a workmanlike manner.
     3. _(3)_ All new or repaired bare surfaces shall be painted or coated.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.13   Maintenance of interior walls and floors
 
@@ -344,13 +344,13 @@ in good repair free of deterioration.
 2. _(b)_ The floors of all bathrooms and water closet compartments shall have a
 cove base at all walls and partitions. Floor surfaces and cove base shall be
 of nonabsorbent materials with moisture-resistant joints.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.14   Infestation by pests
 
 All structures and the premises thereof shall be maintained free from
 sources of breeding, harborage and infestation by insects, vermin or rodents.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.15   Exterior property areas
 
@@ -360,7 +360,7 @@ or which is a public nuisance, or which constitutes a blighting or
 deteriorating influence on the neighborhood. Lawns, landscaping and driveways
 shall also be maintained so as not to constitute a blighting or deteriorating
 influence to the buildings adjacent to such premises.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.16   Secondary or appurtenant structures
 
@@ -370,12 +370,11 @@ from the premises.
 2. _(b)_ All roofs of every secondary or appurtenant structure shall be
 equipped with gutters and downspouts connected to a public storm sewer if
 available, or as otherwise approved by the Building Inspector.
-   
 3. _(c)_ Where foundations of secondary or appurtenant structures have
 deteriorated or settled to the point where wall plates or studs are rotting,
 they shall be replaced with foundations as required under the applicable
 building code.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.17   Rubbish and garbage disposal
 
@@ -385,7 +384,7 @@ in approved receptacles or in other approved rubbish disposal facilities.
 which might provide food for insects and rodents, in approved nonleakable,
 nonabsorbent, covered garbage storage receptacles or in other approved garbage
 disposal facilities.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.18   Vacant buildings; plant or commercial building closings
 
@@ -482,7 +481,7 @@ pursuant to other provisions of the Building Code or other law.
 7. _(g)_ Failure to Comply With Plan. Failure to comply with the approved plan
 shall constitute a violation of this section, subjecting the owner of the
 building to penalties as provided in this chapter.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.19   Appeals
 
@@ -490,7 +489,7 @@ building to penalties as provided in this chapter.
 other action by the Village in relation to enforcement or interpretation of
 Chapter 1340, may appeal to the Board of Zoning Appeals within ten days of such
 official action. Such an appeal shall be made in conformity with Chapter 1111. Written notice of appeal shall be served on the Village.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)
 2. _(b)_ Any notice served by the Building Inspector shall automatically become
 a final order unless a written notice of appeal before the Board of Zoning
 Appeals is filed in the office of the Board of Zoning Appeals within the time
@@ -709,4 +708,4 @@ misdemeanor of the first degree, and shall be fined not more than one thousand
 dollars ($1,000) or imprisoned not more than six months, or both. A separate
 offense shall be deemed committed each day during or on which an offense occurs
 or continues.  
-(Ord.  2016-61. Passed 10-24-16.)
+(Ord. 2016-61. Passed 10-24-16.)

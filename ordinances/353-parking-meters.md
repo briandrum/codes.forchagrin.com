@@ -126,7 +126,7 @@ on the Zone Map of the Municipality of Chagrin Falls, as provided for in
 Section 1119.03 for more than three total hours in any nine hour span anywhere in the
 Central Shopping District between the hours of 9AM and 6PM during the weekdays
 of Monday through Friday, except that the provisions of this Section shall not
-apply to vehicles parked on the streets of the Village on declared holidays.   
+apply to vehicles parked on the streets of the Village on declared holidays.  
 (Ord. 2019-15. Passed 3-11-19.)
 
 ## 353.05   Prima-facie evidence of unlawful parking

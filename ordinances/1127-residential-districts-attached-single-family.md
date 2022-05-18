@@ -183,7 +183,7 @@ Secondary wall, facing:     another secondary wall     25+x
                             accessory building         20
 Accessory building, facing: another accessory building 15
                             private road               10
-x = length of overlap divided by 5     
+x = length of overlap divided by 5  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1127.07   Design regulations and standards
@@ -285,6 +285,5 @@ prohibited.
 
 For regulations regarding off-street parking and loading, lighting,
 landscaping, signs and environmental performance, refer to Chapters
-1141 -
-1150 of the Planning and Zoning Code.   
+1141 - 1150 of the Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)

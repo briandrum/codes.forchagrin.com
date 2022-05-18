@@ -710,7 +710,6 @@ As used in subsection (a)(3) of this section:
 (E) or (G) of Ohio R.C. 4905.03.
         2. _(B)_ “Utility service vehicle” means a vehicle owned or operated by a
 utility.
-   
 2. _(b)_ If an offender violates any section of this Traffic Code which
 provides for an enhanced penalty for an offense committed while distracted and
 the distracting activity is a contributing factor to the commission of the

@@ -40,7 +40,7 @@ of the buffer area setback shall be set at 120 feet in a horizontal plane
 outward from the normal low water mark of the stream channel. It shall be
 preserved in its natural state and shall be adjusted outward to include
 sensitive areas such as steep slopes, wetlands and wooded areas contiguous to
-the stream.   
+the stream.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1151.03   Permitted uses

@@ -50,7 +50,7 @@ regulated in Section 1125.04(d) of this Planning and Zoning Code.
     5. _(5)_ Central air-conditioner units, generators, heat pumps, as regulated
 in Section 1125.04 (e) and (f) of this Planning and Zoning Code.
     6. _(6)_ Signs, as regulated in Chapter 1143 of this Planning and Zoning Code.
-    7. _(7)_ Home occupations, renting of rooms as regulated in Section 1125.05 of this Planning and Zoning Code.   
+    7. _(7)_ Home occupations, renting of rooms as regulated in Section 1125.05 of this Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.03   Area, yard and height regulations: main buildings
@@ -320,7 +320,7 @@ relevant by the Administrator.
 right-of-way lines twenty-five feet from their point of intersection,
 substantially unobstructed sight lines shall be maintained within a vertical
 height band two and one-half to six feet above curb level.  
-(Ord.  2019-39. Passed 8-13-19.)
+(Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.08   Supplemental parking regulations
 

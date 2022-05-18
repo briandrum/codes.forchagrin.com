@@ -48,7 +48,7 @@ building activities on farms; redevelopment activities; general clearing; and
 all other uses that are not specifically exempted in Section 1355.01 (d).
 4. _(d)_ This regulation does not apply to activities regulated by, and in
 compliance with, the Ohio Agricultural Sediment Pollution Abatement Rules.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.02   Definitions
 
@@ -282,7 +282,7 @@ or ground water at a frequency and duration sufficient to support, and that
 under normal circumstances do support, a prevalence of vegetation typically
 adapted for life in saturated soil conditions, including swamps, marshes, bogs,
 and similar areas (40 CFR 232, as amended).  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.03   Disclaimer of liability
 
@@ -291,7 +291,7 @@ person from responsibility for damage to any person otherwise imposed by law.
 The provisions of this regulation are promulgated to promote the health,
 safety, and welfare of the public and are not designed for the benefit of any
 individual or for the benefit of any particular parcel of property.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.04   Conflicts, severability, nuisances and responsibility
 
@@ -310,7 +310,7 @@ relieve the site owner from the responsibility for the condition or damage
 resulting therefrom, and shall not result in the Village of Chagrin Falls, its
 officers, employees, or agents being responsible for any condition or damage
 resulting therefrom.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.05   Development of stormwater pollution prevention plans
 
@@ -384,7 +384,7 @@ are aware of such devices and areas. Pre-Construction Meetings may be waived
 at the discretion of the Village Engineer.
 7. _(g)_ Approvals issued in accordance with this regulation shall remain valid
 for one (1) year from the date of approval.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.07   Compliance with state and federal regulations
 
@@ -434,8 +434,8 @@ at the time an application is made under this regulation.
 5. _(e)_ Ohio Dam Safety Law: Proof of compliance shall be a copy of the ODNR
 Division of Water permit application tracking number, a copy of the project
 approval letter from the ODNR Division of Water, or a letter from the site
-owner certifying and explaining why the Ohio Dam Safety Law is not applicable.   
-(Ord.  2016-80. Passed 12-12-16.)
+owner certifying and explaining why the Ohio Dam Safety Law is not applicable.  
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.08   SWP3
 
@@ -606,7 +606,7 @@ stabilization devices and measures, and for permanent soil stabilization after
 construction is completed.
         5. _(E)_ Design criteria for corrective measures when necessary.
         6. _(F)_ Opinions and recommendations covering the stability of the site.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.09   Performance standards
 
@@ -1086,7 +1086,7 @@ stabilization, the applicant may note this on the SWP3 and no further
 inspection requirement applies to that portion of the site. Final
 stabilization also requires the installation of permanent (post-construction)
 stormwater control measures (SCMs).  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.10   Abbreviated SWP3
 
@@ -1163,7 +1163,7 @@ practice is not needed, the record must contain a statement of explanation as
 to why the control practice is not needed.
     8. _(8)_ Final Stabilization:  Final stabilization shall be determined by
 the Village of Chagrin Falls Engineer.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.11   Fees
 
@@ -1171,7 +1171,7 @@ The SWP3 and Abbreviated SWP3 review, filing, and inspection fee is part of
 a complete submittal and is required to be submitted to the Village of Chagrin
 Falls and the Cuyahoga SWCD before the review process begins. Please consult
 with the Village Engineer for current fee schedule.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.12   Bond
 
@@ -1191,7 +1191,7 @@ reached, all as determined by the Village Engineer.
 2. _(b)_ No project subject to this regulation shall commence without a SWP3 or
 Abbreviated SWP3, if a SWP3 is not required, approved by the Village of Chagrin
 Falls Engineer.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.13   Enforcement
 
@@ -1246,7 +1246,7 @@ Permit is identified.
 projects regulated under the Building Code, Part Thirteen  of the Codified
 Ordinances or the  Planning and Zoning Code, Part Eleven,  that have not
 received approval for an SWP3 for said project(s).  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.14   Violations
 
@@ -1266,7 +1266,7 @@ instances, however, where the Chief Administrative Officer and/or designee
 finds that immediate action is necessary for public safety or the public
 interest, he or she may require that work be stopped upon verbal order pending
 issuance of the written notice.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.15   Appeals
 
@@ -1275,7 +1275,7 @@ action by the Village in relation to this regulation may appeal to the Board of
 Zoning Appeals within ten days of such official action. Such an appeal shall be
 made in conformity with Chapter 1111 of the Planning and Zoning Code. Written notice of appeal shall be served
 on the Village.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.99   Violations and penalties
 
@@ -1294,4 +1294,4 @@ development, or to restrain, correct, or abate a violation, or to require
 compliance with the provisions of this regulation or other applicable laws,
 ordinances, rules, or regulations, or the orders of the Village of Chagrin
 Falls.  
-(Ord.  2016-80. Passed 12-12-16.)
+(Ord. 2016-80. Passed 12-12-16.)

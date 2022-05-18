@@ -63,7 +63,6 @@ in such  public sale.
 
 1. _(a)_ Licenses shall be valid only for the period of the sale indicated
 thereon, not to exceed three consecutive days.
-   
 2. _(b)_ No more than one sale per year shall be permitted at the same
 location.  
 (Ord. 1981-3. Passed 3-9-81.)

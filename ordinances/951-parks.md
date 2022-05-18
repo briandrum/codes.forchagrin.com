@@ -79,7 +79,7 @@ by the officially designated name that is hereafter determined by the Village 
 Council) or the Cemeteries. 
 8. _(h)_  Any person violating this Section shall be guilty of a misdemeanor
 of the third  degree.  
-(Ord.  2020-28. Passed 8-10-20.)
+(Ord. 2020-28. Passed 8-10-20.)
 9. _(i)_ All Conservation Land, and any property located in a Conservation
 District as defined in the Planning and Zoning Code of the Village of Chagrin
 Falls and all walking trails located on Public Property may only be used
@@ -145,5 +145,5 @@ each dispensing station.
 
 1. _(a)_ Whoever violates any provision of Sections
 951.02 to 951.05, shall be guilty of a misdemeanor of the third degree.
-2. _(b)_ Whoever violates any provision of Section 951.06 shall be guilty of a minor misdemeanor.   
+2. _(b)_ Whoever violates any provision of Section 951.06 shall be guilty of a minor misdemeanor.  
 (Ord. 2006-25. Passed 5-22-06.)

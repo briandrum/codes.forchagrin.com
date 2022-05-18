@@ -327,7 +327,6 @@ portion of a structure that is not historically significant, and, the
 demolition will not adversely affect those parts of the structure that are
 found to be a Historically Significant Property as determined by the
 Architectural Board of Review.
-   
 2. _(b)_ Moving.  No Historically Significant Property may be moved from its
 current location unless the Architectural Board of Review determines that the
 moving of the structure will not materially and adversely impact the historical
@@ -390,5 +389,5 @@ District as set forth in Section 1138.04.
 12. _(l)_ Fencing for utility uses as set forth in Section 1142.07(b).
 13. _(m)_ Design standards for signs as set forth in Section 1143.08.
 14. _(n)_ Design standards for cluster development as set forth in Section 1126.05(d) and
-1125.05(h).   
+1125.05(h).  
 (Ord. 2019-39. Passed 8-13-19.)

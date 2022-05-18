@@ -64,7 +64,7 @@ described herein.
 three (3) years shall be a misdemeanor of the first degree in the event a human
 being is attacked or bitten and a misdemeanor of the second degree in the event
 a domestic animal is attacked or bitten.  
-(Ord.  2020-36. Passed 10-12-20.)
+(Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.02   Impounding of dogs; disposal
 
@@ -515,7 +515,7 @@ Chief of Police as designated in Chapter 129 of the Codified Ordinances or his o
 animal, (iii) abused by a person, or (iv)   the dog was not coming to the aid
 or the defense of a person who was not engaged in illegal or criminal activity
 and who was not using the dog as a means of carrying out such activity.  
-(Ord.  2020-36. Passed 10-12-20.)
+(Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.18   Dangerous and vicious dogs
 
@@ -665,7 +665,7 @@ other criminal offense on the property of the owner, keeper, or harborer of the
 dog.
     4. _(4)_ In the case of another domestic animal, that the dog was attacked
 by such animal or that such animal was running at large.  
-(Ord.  2020-36. Passed 10-12-20; Ord.  2020-46. Passed 11-9-20.)
+(Ord. 2020-36. Passed 10-12-20; Ord. 2020-46. Passed 11-9-20.)
 
 ## 505.19   Impoundment of dogs involved in biting/attacking incidents
 
@@ -708,7 +708,7 @@ the dog has been released pursuant to the provisions of subsection (b) hereof.
 5. _(e)_ The provisions of this Section shall be in addition to any other
 procedures, penalties and/or remedies provided in this chapter or otherwise
 available at law.  
-(Ord.  2020-36. Passed 10-12-20.)
+(Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.20   Dangerous and vicious dog impounding procedure; redemption or disposition
 
@@ -745,7 +745,7 @@ in obtaining an animal impounded by the Village. Such register may be
 categorized by the breed desired and should be set up to give the person who
 has been registered the longest period of time the first chance to obtain the
 animal.  
-(Ord.  2020-36. Passed 10-12-20.)
+(Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.21   Court order to remove or destroy animal
 
@@ -756,7 +756,7 @@ animal has habitually permitted such animal to run at large, or violated this
 chapter on one or more occasions, the court may, in order to protect the
 health, welfare, safety and property of the Village’s inhabitants, order that
 such animal be destroyed or permanently banished from the Village.  
-(Ord.  2020-36. Passed 10-12-20.)
+(Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.22   Designation of dog as "dangerous” and "vicious"
 
@@ -771,7 +771,7 @@ given by personal service, ordinary mail, or by posting on the property at
 which the person resides.
 2. _(b)_ Any dog declared to be vicious by the Chief of Police is a final order
 and appealable to the Bedford Municipal Court.  
-(Ord.  2020-36. Passed 10-12-20.)
+(Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.23   Dangerous and vicious dog appeal
 
@@ -787,7 +787,7 @@ other provisions of law and shall not in any way relieve the owner or other
 person harboring or having care or control of the dog from civil or criminal
 liability for injury or damage caused by the dog or for violations of
 provisions of this chapter other than Section 505.18.  
-(Ord.  2020-36. Passed 10-12-20; Ord.  2020-46. Passed 11-9-20.)
+(Ord. 2020-36. Passed 10-12-20; Ord. 2020-46. Passed 11-9-20.)
 
 ## 505.99   Penalty
 

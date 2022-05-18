@@ -339,7 +339,7 @@ offender’s concealed handgun license shall be suspended pursuant to Ohio R.C.
 2923.128(A)(2).  
 (ORC 2923.12)
     5. _(5)_ Carrying concealed weapons in violation of division (B)(3) of this
-section is a felony of the fifth degree.   
+section is a felony of the fifth degree.  
 (Ord. 2017-03. Passed 1-23-17.)
 7. _(g)_ If a law enforcement officer stops a person to question the person
 regarding a possible violation of this section, for a traffic stop, or for any

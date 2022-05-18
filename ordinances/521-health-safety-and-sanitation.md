@@ -452,7 +452,7 @@ property.
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor upon
 conviction of the first offense and a misdemeanor of the third degree upon
 convictions thereafter.  
-(Ord.  1990-43. Passed 5-14-90.)
+(Ord. 1990-43. Passed 5-14-90.)
 
 ## 521.99   Penalty
 

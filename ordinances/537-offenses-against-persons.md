@@ -184,7 +184,6 @@ established by the Director of Transportation under Ohio R.C. 5501.27.
 same meaning as in Ohio R.C. 2903.06.
     3. _(3)_ “Construction zone” has the same meaning as in Ohio R.C. 5501.27.
     4. _(4)_ “Speeding offense” has the same meaning as in Ohio R.C. 2903.06.
-   
 6. _(f)_ For the purposes of this section, when a penalty or suspension is
 enhanced because of a prior or current violation of a specified law or a prior
 or current specified offense, the reference to the violation of the specified
@@ -904,7 +903,6 @@ information provided by another information content provider, as defined in
 Section 230 of Title 47 of the United States Code. Nothing in this subsection
 shall be construed to protect a person from liability to the extent that the
 person developed or created any content in violation of this section.
-   
 6. _(f)_ Subsections (a)(5) to (11) and (b)(2) of this section do not apply to
 a person who, while employed or contracted by a newspaper, magazine, press
 association, news agency, news wire service, cable channel or cable operator,

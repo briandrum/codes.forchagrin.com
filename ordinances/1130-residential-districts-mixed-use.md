@@ -91,7 +91,7 @@ sheds and rooftop antennas as regulated in Section 1125.04.
 the development.
     9. _(9)_ Signs, as regulated in Chapter 1143.
     10. _(10)_ Home occupations, as regulated in Section 1125.05.  
-(Ord.  2019-39. Passed 8-13-19.)
+(Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.04   Area regulations
 
@@ -142,7 +142,7 @@ building on which it is located, provided such equipment conforms to Section 113
 dwellings, attached or detached, such equipment shall be set back from any
 building face a distance at least equal to the height by which it exceeds the
 building height. Chimneys and antennas located on a dwelling are limited to a
-maximum height of fifteen feet above the roof line.   
+maximum height of fifteen feet above the roof line.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.06   Yard and setback regulations
@@ -271,7 +271,7 @@ Secondary wall, facing:     Another secondary wall     25+x
                             Accessory building         20
                             Recreation facility        20
 Accessory building, facing: Another accessory building 15
-x = Length of overlap divided by 5     
+x = Length of overlap divided by 5  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.09   Design regulations and standards
@@ -318,7 +318,7 @@ connecting residential buildings to parking and recreation areas.
 6. _(f)_ Utility Equipment. All utility lines serving a mixed use residential
 development shall be located underground. All rooftop mechanical equipment
 shall be enclosed in a manner which complements the architectural style of the
-building on which it is located. (Ord.  2016-59. Passed 11-14-16.)
+building on which it is located. (Ord. 2016-59. Passed 11-14-16.)
 7. _(g)_ Accessory Structures.
     1. _(1)_ R1/R2:  Accessory structures are permitted as regulated in Section 1125.04.
     2. _(2)_ ASF   Fifteen feet in height, maximum.  

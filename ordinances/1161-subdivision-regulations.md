@@ -370,7 +370,7 @@ Planning and Zoning Commission concerning the proposal.
     2. _(2)_ A notice not received by an abutting property owner shall not
 affect the validity of approval by this Village of any subdivision which in all
 other respects is lawfully given.  
-(Ord.  2014-72. Passed 11-10-14.)
+(Ord. 2014-72. Passed 11-10-14.)
 9. _(i)_ Approval of Preliminary Plat. The Village Administrator shall forward
 copies of the preliminary plat to such officials and agencies as may be
 necessary for the purpose of study and recommendation. These include at least
@@ -1100,7 +1100,7 @@ Village costs incurred in processing and evaluating the plat. If the deposit
 is depleted, the Administrator shall determine the amount of an additional
 reasonable deposit, that the applicant shall make or the application shall be
 dismissed. Upon final disposition of the application, any portion of the
-deposit which remains shall be returned to the applicant.   
+deposit which remains shall be returned to the applicant.  
 (Ord. 2009-66. Passed 12-14-09.)
     3. _(3)_ Administrator:
         1. _(A)_ Notify by first class mail abutting property owners at least ten

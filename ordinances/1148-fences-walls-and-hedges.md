@@ -94,7 +94,7 @@ hazards, the Administrator may waive the fencing requirement.
 7. _(g)_ Exceptions. The requirements of this chapter shall not apply to a
 hedge which is planted as a perimeter screen under the landscaping regulations
 set forth in Section 1142.06.  
-(Ord. 2019-39. Passed 8-13-19; Ord.  2020-10. Passed 3-9-20.)
+(Ord. 2019-39. Passed 8-13-19; Ord. 2020-10. Passed 3-9-20.)
 
 ## 1148.04   Permits
 
@@ -138,7 +138,7 @@ actual use or is unattended.
     2. _(2)_ Tennis courts. Tennis courts shall be enclosed by a metal chain
 link or mesh fence at least nine feet in height but no more than twelve feet in
 height above finished grade.  
-(Ord. 2019-39. Passed 8-13-19; Ord.  2019-56. Passed 11-25-19.)
+(Ord. 2019-39. Passed 8-13-19; Ord. 2019-56. Passed 11-25-19.)
 
 ## 1148.06   Fences, walls, nd hedges permitted: non-residential districts
 
@@ -171,7 +171,7 @@ actual use or is unattended.     
     2. _(2)_ Tennis courts.  Tennis courts shall be enclosed by a metal chain
 link or mesh fence at least nine feet in height but no more than twelve feet in
 height above finished grade.  
-(Ord. 2019-39. Passed 8-13-19; Ord.  2019-56. Passed 3-9-20.)
+(Ord. 2019-39. Passed 8-13-19; Ord. 2019-56. Passed 3-9-20.)
 
 ## 1148.07   Retaining walls
 

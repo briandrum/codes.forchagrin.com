@@ -232,7 +232,7 @@ accordance with the accounting system used by the taxpayer for federal income
 tax purposes, without deduction of taxes imposed by this chapter, federal,
 state and other taxes based on income; and in the case of an association,
 without deduction of salaries paid to partners and other owners. For taxable
-years 2005 and later, see the definition of adjusted federal taxable income.   
+years 2005 and later, see the definition of adjusted federal taxable income.  
 (Ord. 1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.0312   Nonresident
@@ -720,7 +720,7 @@ the amount of taxes so deducted during the previous month; provided, however,
 that if the amount of the tax so deducted by any employer in any one month is
 less than one hundred dollars ($100.00), the employer may defer the filing of a
 return and payment of the amount deducted until the last day of the month
-following the end of the calendar quarter in which such month occurred.   
+following the end of the calendar quarter in which such month occurred.  
 (Ord. 2005-44. Passed 7-11-05.)
 2. _(b)_ Such returns shall be on a form or forms prescribed or acceptable to
 the Administrator and shall be subject to the rules and regulations prescribed
@@ -803,7 +803,7 @@ declaration amount and at least a similar amount shall be paid on or before
 June 15th, September 15th and December 15th. In the case of a fiscal year
 taxpayer the second, third and fourth quarterly estimated payments shall be due
 on the fifteenth day of the sixth, ninth, and twelfth months of the taxable
-year, respectively.   
+year, respectively.  
 (Ord. 1973-919. Passed 12-4-73; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.1307   Annual return
@@ -853,7 +853,7 @@ payments if the taxpayer has remitted an amount equal to one hundred percent
 (100%) of the previous year’s tax liability, provided that the previous year
 reflected a twelve- month period, or if ninety percent (90%) of the actual
 liability has been received.  
-(Ord.1980-12. Passed 2-25-80; Ord.  2005-44. Passed 7-11-05.)
+(Ord.1980-12. Passed 2-25-80; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.1503   Exceptions
 
@@ -1175,7 +1175,7 @@ matters relating to tax years beginning on or after January 1, 2004, any ruling
 or decision of the Board of Review may be appealed to a court of competent
 jurisdiction or to the State Board of Tax Appeals within thirty calendar days
 from the date of the Board’s ruling.  
-(Ord.  2001-39. Passed 5-14-01; Ord. 2005-44. Passed 7-11-05.)
+(Ord. 2001-39. Passed 5-14-01; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.2502   Duty to approve regulations and to hear appeals
 
@@ -1184,7 +1184,7 @@ adopted by the Administrator under the authority conferred by this chapter,
 must be approved by the Board of Review before the same become effective. The
 Board shall hear and pass on appeals from any ruling or decision of the
 Administrator, and, at the request of the taxpayer or Administrator, is
-empowered to substitute alternate methods of allocation.   
+empowered to substitute alternate methods of allocation.  
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2503   Right of appeal

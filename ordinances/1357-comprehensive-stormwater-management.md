@@ -84,7 +84,7 @@ installation, that do not result in the installation of impervious surface as
 determined by the Village Engineer. Such projects must be designed to minimize
 the number of stream crossings and the width of disturbance. Linear
 construction projects must comply with the requirements of Chapter 1357
-Comprehensive Stormwater Management.   
+Comprehensive Stormwater Management.  
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.02   Definitions
@@ -335,7 +335,7 @@ be responsible for determination of compliance with this regulation, and shall
 issue notices and orders as may be necessary. The Village of Chagrin Falls may
 consult with the Cuyahoga SWCD, state agencies, private engineers, stormwater
 districts, or other technical experts in reviewing the Comprehensive Stormwater
-Management Plan.   
+Management Plan.  
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.06   Application procedures
@@ -432,7 +432,7 @@ at the time of application of this regulation.
 Division of Soil and Water Resources permit application tracking number, a copy
 of the project approval letter from the ODNR Division of Soil and Water
 Resources, or a letter from the site owner certifying and explaining why the
-Ohio Dam Safety Law is not applicable.   
+Ohio Dam Safety Law is not applicable.  
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.08   Comprehensive stormwater management plan
@@ -652,7 +652,7 @@ shall show volumes and sizes of contributing drainage areas.
 meet the design criteria in this regulation and any supplemental information
 requested by the Village Engineer.
         4. _(D)_ Each SCM shall be designated with an individual identification
-number.   
+number.  
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.09   Performance standards
@@ -1324,7 +1324,7 @@ five (5) working days, or other mutually agreed upon time, to makes repairs or
 submit a plan with detailed action items and established timelines. Should
 repairs not be made within this time, or a plan approved by the Village
 Engineer for these repairs not in place, the Village of Chagrin Falls may
-undertake the necessary repairs and assess the responsible party.   
+undertake the necessary repairs and assess the responsible party.  
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.14   Fees
@@ -1380,7 +1380,7 @@ demonstrate that the site is completely stabilized. Upon this proof of
 compliance, the water quality structure(s) may be completed and placed into
 service. Upon completion of installation of these practices, all disturbed
 areas and/or exposed soils caused by the installation of these practices must
-be stabilized within 2 days.   
+be stabilized within 2 days.  
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.17   Violations
@@ -1390,7 +1390,7 @@ the provisions of this regulation, or fail to comply with any of such
 provisions or with any lawful requirements of any public authority made
 pursuant to this regulation, or knowingly use or cause or permit the use of any
 lands in violation of this regulation or in violation of any permit granted
-under this regulation.   
+under this regulation.  
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.18   Appeals
@@ -1399,7 +1399,7 @@ Any person aggrieved by any order, requirement, determination, or any other
 action or inaction by the Village of Chagrin Falls in relation to this
 regulation may appeal to the Board of Zoning Appeals within 10 days of such
 official action. Such an appeal shall be made in conformity with Chapter 1111. Written notice of the appeal shall be filed with the Chief
-Administrative Officer.   
+Administrative Officer.  
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.99   Penalty

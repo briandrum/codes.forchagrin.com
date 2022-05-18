@@ -1960,7 +1960,6 @@ in Section 124.18 (A)(4).
 should have been deposited with another municipality, is allowable by the
 Municipality as a refund but is subject to the three (3) year limitation on
 refunds.
- 
 2. _(B)_ Income tax that was deposited with another municipality but should
 have been deposited with the Municipality is subject to recovery by
 Municipality. If the Municipality’s tax on that income is imposed after the
@@ -1969,15 +1968,13 @@ municipality, the Municipality shall allow a nonrefundable credit against the
 tax or withholding the Municipality claims is due with respect to such income
 or wages, equal to the tax or withholding paid to the first municipality with
 respect to such income or wages.
-   
 3. _(C)_ If the Municipality’s tax rate is less than the tax rate in the other
 municipality, then the nonrefundable credit shall be calculated using the
 Municipality’s tax rate. However, if the Municipality’s tax rate is greater
 than the tax rate in the other municipality, the tax due in excess of the
 nonrefundable credit is to be paid to the Municipality, along with any penalty
 and interest that accrued during the period of nonpayment.
-   
-4. _(D)_ Nothing in this section permits any credit carryforward.   
+4. _(D)_ Nothing in this section permits any credit carryforward.  
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.11   Amended returns

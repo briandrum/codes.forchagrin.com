@@ -88,7 +88,7 @@ and not when there is parking space available within reasonable distance of
 such establishment; or when there is an alley or other facilities available in
 connection with a business or business establishment for such purpose; and
 also, not when the operator of such vehicle is performing some act in
-connection with his personal affairs;   
+connection with his personal affairs;  
 (Ord. 1973-904. Passed 5-1-73.)
 12. _(m)_ Upon any bridge or other elevated structure upon a street, except when
 expressly permitted by signage and/or street markings and when designated on
@@ -351,7 +351,7 @@ No person shall park or permit any vehicle to be parked on any street or
 municipal parking lot between the hours of 2:00 o’clock a.m. and 6:00 o’clock
 a.m. on any day, except emergency and public safety vehicles and physicians on
 emergency calls.  
-(Ord.  1998-88. Passed 9-28-98.)
+(Ord. 1998-88. Passed 9-28-98.)
 
 ### 351.141   Parking prohibitions on private property; private tow-away zones
 
@@ -377,7 +377,7 @@ vehicles not authorized to park on the property will be towed away;
         2. _(B)_  The telephone number of the person from whom a towed away
 vehicle can be recovered and the address of the place to which the vehicle will
 be taken and from which it may be recovered; and
-(Ord.  1998-54. Passed 7-13-98.)
+(Ord. 1998-54. Passed 7-13-98.)
         3. _(C)_   A statement that the vehicle may be recovered at any time
 during the day or night upon the submission of proof of ownership and the
 payment of a towing charge in an amount not to exceed ninety dollars ($90.00)
@@ -389,7 +389,7 @@ may be recovered is conveniently located, is well lighted, and is on or within
 a reasonable distance of a regularly scheduled route of one or more modes of
 public transportation, if any public transportation is available in the
 Municipality.  
-(Ord.  1998-54. Passed 7-13-98.)
+(Ord. 1998-54. Passed 7-13-98.)
 4. _(d)_ If a vehicle is parked on private property that is established as a
 private tow away zone in accordance with subsection (c) hereof, without the
 consent of the owner of the property, the owner and the operator of the vehicle
@@ -491,7 +491,7 @@ Clerk or Deputy Clerk of the Bedford Municipal Court, and the Police Department
 shall notify the Bureau of Motor Vehicles to place a registration block upon
 the vehicle cited until the fine is deposited if not deposited within sixty
 (60) days of the citation date, and in which event the violator shall pay the
-cost, if any, to remove the registration block when the fine is paid.   
+cost, if any, to remove the registration block when the fine is paid.  
 (Ord. 2017-05. Passed 2-13-17.)
 4. _(d)_ Payment of the sum of money required by subsection (b) hereof shall be
 paid exclusively by (i) United States legal tender notes, known as Federal
@@ -527,7 +527,7 @@ necessary, to reflect the revised boundaries. No person shall park a vehicle
 in a parking space leased by the Village without a permit required by this
 Section. 
 2. _(b)_ Any person who violates subsection (a) hereof is guilty of a minor
-misdemeanor and subject to the penalties provided in Codified Ordinance Section 303.99.   
+misdemeanor and subject to the penalties provided in Codified Ordinance Section 303.99.  
 (Ord. 2019-26. Passed 4-8-19.)
 
 ## 351.99   Penalty

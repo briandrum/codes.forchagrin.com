@@ -620,7 +620,6 @@ U.S.C. 303, as amended.
         3. _(C)_ An act involving a bodily substance that is performed for the
 purpose of sexual arousal or gratification;
         4. _(D)_ Sado-masochistic abuse.
-   
 2. _(b)_ No person shall knowingly disseminate an image of another person if
 all of the following apply:
     1. _(1)_ The person in the image is eighteen years of age or older;
