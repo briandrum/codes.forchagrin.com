@@ -128,14 +128,14 @@ signatures.
 
 ## 101.03   Rules of construction
 
-1. _(a)_ Common and Technical Usage. Words and phrases shall be read in context
-and construed according to the rules of grammar and common usage. Words and
-phrases that have acquired a technical or particular meaning, whether by
+1. _(a)_ **Common and Technical Usage.** Words and phrases shall be read in
+context and construed according to the rules of grammar and common usage. Words
+and phrases that have acquired a technical or particular meaning, whether by
 legislative definition or otherwise, shall be construed accordingly.  
 (ORC 1.42)
 
-2. _(b)_ Singular and Plural; Gender; Tense. As used in the Codified Ordinances,
-unless the context otherwise requires:
+2. _(b)_ **Singular and Plural; Gender; Tense.** As used in the Codified
+Ordinances, unless the context otherwise requires:
 
     3. _(3)_ The singular includes the plural, and the plural includes the
     singular.
@@ -145,7 +145,7 @@ unless the context otherwise requires:
     3. _(3)_ Words in the present tense include the future.  
     (ORC 1.43)
 
-3. _(c)_ Calendar; Computation of Time.
+3. _(c)_ **Calendar; Computation of Time.**
 
     1. _(1)_ Definitions.
 
@@ -182,19 +182,19 @@ unless the context otherwise requires:
     notice shall mean such time only as may be necessary for the prompt
     performance of such duty or compliance with such notice.
 
-4. _(d)_ Authority. When the law requires an act to be done which may by law as
-well be done by an agent as by the principal, such requirement shall be
+4. _(d)_ **Authority.** When the law requires an act to be done which may by law
+as well be done by an agent as by the principal, such requirement shall be
 construed to include all such acts when done by an authorized agent.
 
-5. _(e)_ Joint Authority. All words purporting to give joint authority to three
-or more municipal officers or other persons shall be construed as giving such
-authority to a majority of such officers or other persons, unless it shall be
-otherwise expressly declared in the law giving the authority or inconsistent
+5. _(e)_ **Joint Authority.** All words purporting to give joint authority to
+three or more municipal officers or other persons shall be construed as giving
+such authority to a majority of such officers or other persons, unless it shall
+be otherwise expressly declared in the law giving the authority or inconsistent
 with State statute or Charter provisions.
 
-6. _(f)_ Exceptions. The rules of construction shall not apply to any law which
-shall contain any express provision excluding such construction, or when the
-subject matter or context of such law may be repugnant thereto.
+6. _(f)_ **Exceptions.** The rules of construction shall not apply to any law
+which shall contain any express provision excluding such construction, or when
+the subject matter or context of such law may be repugnant thereto.
 
 ## 101.04   Revivor; effect of amendment or repeal
 

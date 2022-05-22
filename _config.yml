@@ -1,12 +1,12 @@
 # _config.yml
 
+# Build settings
+remote_theme: briandrum/jekyll-theme-optima
+
 plugins:
  - jekyll-feed
  - jekyll-remote-theme
  - jekyll-seo-tag
-
-# Build settings
-remote_theme: briandrum/jekyll-theme-optima
 
 # Title & description: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: Codified Ordinances of Chagrin Falls, Ohio
@@ -17,11 +17,13 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   Codified Ordinances of Chagrin Falls, Ohio
 
-header_pages:
-  - index.md
-  - committees-boards-and-commissions.md
+permalink: /:title/
 
-show_excerpts: false
+show_excerpts: false # set to true to show excerpts on the homepage
 excerpt_separator: <!--more-->
 
-permalink: /:title/
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - index.md
+ - committees-boards-and-commissions.md
