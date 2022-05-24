@@ -27,3 +27,11 @@ excerpt_separator: <!--more-->
 header_pages:
  - index.md
  - committees-boards-and-commissions.md
+
+collections:
+  chapters:
+    output: true
+  parts:
+    output: true
+  titles:
+    output: false

@@ -110,16 +110,17 @@ _______________________
 3. _(c)_ Accessory Structures or Use. The minimum setback from a lot line to an
 accessory structure or use shall be as set forth below.
  
-                                           Minimum Setback
-Accessory Use        To street R.O.W. line (feet)           To other lot line
-                                           To Residential
-                                           District Line
-Buildings            *                     20               10
-Surface parking area *                     15               5
-Driveway             *                     15               5
-Flag poles           *                     20               5
-Walkways             0                     5                5
-* Not permitted in front yards except that drives are permitted only as
+**Minimum Setback (feet)**
+
+| Accessory Use        | To street R.O.W. line | To Residential District Line | To other lot line |
+|----------------------|----------------------:|-----------------------------:|------------------:|
+| Buildings            |                     * |                           20 |                10 |
+| Surface parking area |                     * |                           15 |                 5 |
+| Driveway             |                     * |                           15 |                 5 |
+| Flag poles           |                     * |                           20 |                 5 |
+| Walkways             |                     0 |                            5 |                 5 |
+
+\* Not permitted in front yards except that drives are permitted only as
 necessary in providing access to a public right of way  
 (Ord. 2019-39. Passed 8-13-19.)
 
@@ -131,25 +132,24 @@ grouping shall comply with the requirements of this District.
 
 ## 1124.06   Lighting
 
-     Outdoor lighting shall be governed by Chapter 1150, except that all lighting shall be extinguished between the hours of 11:00
-p.m. and 7:00 a.m.  
+Outdoor lighting shall be governed by Chapter 1150, except that all lighting
+shall be extinguished between the hours of 11:00 p.m. and 7:00 a.m.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.07   Screening
 
-     The Planning and Zoning Commission may require screening on the lot of a
+The Planning and Zoning Commission may require screening on the lot of a
 proposed use or development in an Institutional District wherever that lot
 adjoins a residential district. Such screening shall be required if deemed
-necessary by the Planning and Zoning Commission to protect the privacy,
-welfare, value and character of the adjoining residential area. The standards
-for screening contained in Sections
-1142.06(b) and (c) of the Planning and Zoning Code shall apply.  
+necessary by the Planning and Zoning Commission to protect the privacy, welfare,
+value and character of the adjoining residential area. The standards for
+screening contained in Sections 1142.06(b) and (c) of the Planning and Zoning
+Code shall apply.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.08   Supplemental regulations
 
-     For regulations regarding off-street parking and loading, landscaping,
-lighting, signs and environmental performance, refer to Chapters
-1141 -
-1150 of the Planning and Zoning Code.  
+For regulations regarding off-street parking and loading, landscaping, lighting,
+signs and environmental performance, refer to Chapters 1141 - 1150 of the
+Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)

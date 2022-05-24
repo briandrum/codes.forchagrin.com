@@ -5,6 +5,15 @@ layout: default
 <div class="Grid Grid--withGutter">
   <div class="Grid-cell u-sm-sizeFull u-md-size2of3 u-lg-size2of3">
     <div class="Markdown">
+      {% assign parts = site.parts | sort: 'part_no'  %}
+      <ul>
+      {% for part in parts %}
+        <li><a href="{{ part.url }}">{{ part.title }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+    {% comment %}
+    <div class="Markdown">
       {% assign sortedParts = site.data.parts | sort: "number" %}
       {% for part in sortedParts %}
         <details>
@@ -35,6 +44,7 @@ layout: default
         </details>
       {% endfor %}
     </div>
+    {% endcomment %}
   </div>
   <div class="Grid-cell u-sm-sizeFull u-md-size1of3 u-lg-size1of3">
     <div class="Markdown">

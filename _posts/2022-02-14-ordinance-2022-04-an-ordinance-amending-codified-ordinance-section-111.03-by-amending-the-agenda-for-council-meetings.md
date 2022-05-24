@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Ordinance 2022-04: An Ordinance Amending Codified Ordinance Section 111.03 By Amending The Agenda For Council Meetings
 ---
 
 WHEREAS, Codified Ordinance Section 111.03 provides for agendas for regular meetings of Council; and

@@ -118,17 +118,19 @@ shall be as set forth below.
 2. _(b)_ Accessory building, structure or use. The minimum setback from a lot
 line to an accessory building, structure, or use shall be as set forth below:
  
-                      Minimum Setback (feet)
-Accessory Uses        To Front Lot Line To R1 District Line To Other Lot Line
-Buildings and         *                 35                  15
-Structures
-Surface Parking Area  *                 10                  5
-Private Roads         *                 10                  5
-Recreation Facilities *                 30                  10
-Walkways              0                 5                   5
-________________________
+**Minimum Setback (feet)**
+
+| Accessory Uses           | To Front Lot Line | To R1 District Line | To Other Lot Line |
+|--------------------------|------------------:|--------------------:|------------------:|
+| Buildings and Structures |                 * |                  35 |                15 |
+| Surface Parking Area     |                 * |                  10 |                 5 |
+| Private Roads            |                 * |                  10 |                 5 |
+| Recreation Facilities    |                 * |                  30 |                10 |
+| Walkways                 |                 0 |                   5 |                 5 |
+
 \*Not permitted in front yards, except that private roads are permitted only as
 necessary in providing access to a public right of way.
+
 3. _(c)_ Projection of Building Features into Setbacks.
     1. _(1)_ Certain architectural features may project from a main building
 into any setback a maximum distance of three feet. However, no such feature
