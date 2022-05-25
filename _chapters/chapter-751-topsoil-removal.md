@@ -6,6 +6,8 @@ chapter_no: 751
 title: "Chapter 751: Topsoil Removal"
 ---
 
+## Sections
+
 * [751.01   Removal in residence areas; restoration](#75101-removal-in-residence-areas-restoration)
 * [751.02   Issuance of permit](#75102-issuance-of-permit)
 * [751.03   Application for permit; fee](#75103-application-for-permit-fee)

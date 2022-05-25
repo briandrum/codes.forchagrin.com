@@ -6,6 +6,8 @@ chapter_no: 1130
 title: "Chapter 1130: Residential Districts: Mixed Use"
 ---
 
+## Sections
+
 * [1130.01   Intent](#113001-intent)
 * [1130.02   Standards](#113002-standards)
 * [1130.03   Permitted uses](#113003-permitted-uses)

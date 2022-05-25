@@ -6,6 +6,8 @@ chapter_no: 1127
 title: "Chapter 1127: Residential Districts: Attached Single-Family"
 ---
 
+## Sections
+
 * [1127.01   Intent](#112701-intent)
 * [1127.02   Permitted uses](#112702-permitted-uses)
 * [1127.03   Area regulations](#112703-area-regulations)

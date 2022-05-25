@@ -6,6 +6,8 @@ chapter_no: 1321
 title: "Chapter 1321: Village of Chagrin Falls Residential Code for One-, Two- and Three-Family Dwellings"
 ---
 
+## Sections
+
 * [1321.01   Definitions](#132101-definitions)
 * [1321.02   Intent](#132102-intent)
 * [1321.03   Adoption of the Village Code](#132103-adoption-of-the-village-code)

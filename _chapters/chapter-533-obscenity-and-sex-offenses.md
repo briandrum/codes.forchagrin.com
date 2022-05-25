@@ -6,6 +6,8 @@ chapter_no: 533
 title: "Chapter 533: Obscenity and Sex Offenses"
 ---
 
+## Sections
+
 * [533.01   Definitions](#53301-definitions)
 * [533.02   Presumption of knowledge; actual notice and defense](#53302-presumption-of-knowledge-actual-notice-and-defense)
 * [533.03   Unlawful sexual conduct with a minor](#53303-unlawful-sexual-conduct-with-a-minor)

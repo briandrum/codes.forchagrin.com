@@ -6,6 +6,8 @@ chapter_no: 105
 title: "Chapter 105: Public Contracts"
 ---
 
+## Sections
+
 * [105.01   Surplus property](#10501-surplus-property)
 * [105.02   Professional design services; public works](#10502-professional-design-services-public-works)
 * [105.03   Contract procedures](#10503-contract-procedures)

@@ -6,6 +6,8 @@ chapter_no: 1503
 title: "Chapter 1503: Local Provisions"
 ---
 
+## Sections
+
 * [1503.01   Outdoor fires](#150301-outdoor-fires)
 * [1503.02   Fire lanes](#150302-fire-lanes)
 * [1503.03   Fire inspections: compliance required](#150303-fire-inspections-compliance-required)

@@ -6,6 +6,8 @@ chapter_no: 931
 title: "Chapter 931: Water"
 ---
 
+## Sections
+
 * [931.01   Mayor’s authority to limit water use](#93101-mayors-authority-to-limit-water-use)
 * [931.02   Water rates](#93102-water-rates)
 * [931.03   Water connection charges](#93103-water-connection-charges)

@@ -6,6 +6,8 @@ chapter_no: 1359
 title: "Chapter 1359: Illicit Discharge and Illegal Connection Control"
 ---
 
+## Sections
+
 * [1359.01   Purpose and scope](#135901-purpose-and-scope)
 * [1359.02   Applicability](#135902-applicability)
 * [1359.03   Definitions](#135903-definitions)

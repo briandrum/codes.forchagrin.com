@@ -6,6 +6,8 @@ chapter_no: 1113
 title: "Chapter 1113: Amendments"
 ---
 
+## Sections
+
 * [1113.01   Intent](#111301-intent)
 * [1113.02   Initiation of amendment](#111302-initiation-of-amendment)
 * [1113.03   Action by Commission](#111303-action-by-commission)

@@ -6,6 +6,8 @@ chapter_no: 371
 title: "Chapter 371: Pedestrians"
 ---
 
+## Sections
+
 * [371.01   Right of way in crosswalk](#37101-right-of-way-in-crosswalk)
 * [371.02   Right of way of blind person](#37102-right-of-way-of-blind-person)
 * [371.03   Crossing roadway outside crosswalk; diagonal crossings at intersections](#37103-crossing-roadway-outside-crosswalk-diagonal-crossings-at-intersections)

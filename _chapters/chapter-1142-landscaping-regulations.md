@@ -6,6 +6,8 @@ chapter_no: 1142
 title: "Chapter 1142: Landscaping Regulations"
 ---
 
+## Sections
+
 * [1142.01   Intent](#114201-intent)
 * [1142.02   Applicability](#114202-applicability)
 * [1142.03   General landscaping](#114203-general-landscaping)

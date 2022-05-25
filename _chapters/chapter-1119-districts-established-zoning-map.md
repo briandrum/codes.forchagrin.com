@@ -6,6 +6,8 @@ chapter_no: 1119
 title: "Chapter 1119: Districts Established; Zoning Map"
 ---
 
+## Sections
+
 * [1119.01   Districts](#111901-districts)
 * [1119.02   Zoning Map](#111902-zoning-map)
 * [1119.03   District boundary lines](#111903-district-boundary-lines)

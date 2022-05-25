@@ -6,6 +6,8 @@ chapter_no: 1303
 title: "Chapter 1303: Inspections; Enforcement and Penalty"
 ---
 
+## Sections
+
 * [1303.01   Administration of Building Code; permits](#130301-administration-of-building-code-permits)
 * [1303.02   Building Inspector and Assistant](#130302-building-inspector-and-assistant)
 * [1303.03   Compensation and bond](#130303-compensation-and-bond)

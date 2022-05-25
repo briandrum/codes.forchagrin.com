@@ -6,6 +6,8 @@ chapter_no: 733
 title: "Chapter 733: Public Dances and Dance Halls"
 ---
 
+## Sections
+
 * [733.01   Compliance required; definitions](#73301-compliance-required-definitions)
 * [733.02   Public dances; permit required; fee](#73302-public-dances-permit-required-fee)
 * [733.03   Public dance halls; license required; fee](#73303-public-dance-halls-license-required-fee)

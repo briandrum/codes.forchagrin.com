@@ -6,7 +6,9 @@ chapter_no: 373
 title: "Chapter 373: Bicycles and Motorcycles"
 ---
 
-* [373.01   Parent’s responsibility](#37301-parent’s responsibility)
+## Sections
+
+* [373.01   Parent’s responsibility](#37301-parents-responsibility)
 * [373.02   Motorized bicycle](#37302-motorized-bicycle)
 * [373.03   Traffic Code application to bicycles](#37303-traffic-code-application-to-bicycles)
 * [373.04   Obedience to traffic control devices](#37304-obedience-to-traffic-control-devices)

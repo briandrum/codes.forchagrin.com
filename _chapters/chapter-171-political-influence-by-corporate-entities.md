@@ -6,6 +6,8 @@ chapter_no: 171
 title: "Chapter 171: Political Influence by Corporate Entities"
 ---
 
+## Sections
+
 * [171.01   Move to amend day](#17101-move-to-amend-day)
 * [171.02   Summary of public hearing](#17102-summary-of-public-hearing)
 * [171.03   Termination of public hearing](#17103-termination-of-public-hearing)

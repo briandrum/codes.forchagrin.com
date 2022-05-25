@@ -6,6 +6,8 @@ chapter_no: 1137
 title: "Chapter 1137: Retail Business District"
 ---
 
+## Sections
+
 * [1137.01   Intent](#113701-intent)
 * [1137.02   Permitted uses](#113702-permitted-uses)
 * [1137.03   Height regulations](#113703-height-regulations)

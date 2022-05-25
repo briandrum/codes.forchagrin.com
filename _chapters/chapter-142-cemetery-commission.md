@@ -6,6 +6,8 @@ chapter_no: 142
 title: "Chapter 142: Cemetery Commission"
 ---
 
+## Sections
+
 * [142.01   Creation](#14201-creation)
 * [142.02   Term](#14202-term)
 * [142.03   Compensation](#14203-compensation)

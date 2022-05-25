@@ -6,6 +6,8 @@ chapter_no: 917
 title: "Chapter 917: Sanitary Sewer Charges"
 ---
 
+## Sections
+
 * [917.01   Definitions](#91701-definitions)
 * [917.02   Declaration of necessity](#91702-declaration-of-necessity)
 * [917.03   Disposition of funds](#91703-disposition-of-funds)

@@ -6,6 +6,8 @@ chapter_no: 951
 title: "Chapter 951: Parks"
 ---
 
+## Sections
+
 * [951.01   Prohibited hours in public property](#95101-prohibited-hours-in-public-property)
 * [951.02   Protection of park property, public buildings and structures](#95102-protection-of-park-property-public-buildings-and-structures)
 * [951.03   Refuse and trash](#95103-refuse-and-trash)

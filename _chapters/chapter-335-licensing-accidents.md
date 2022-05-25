@@ -6,6 +6,8 @@ chapter_no: 335
 title: "Chapter 335: Licensing; Accidents"
 ---
 
+## Sections
+
 * [335.01   Driver’s license or commercial driver’s license required](#33501-drivers-license-or-commercial-drivers-license-required)
 * [335.02   Permitting operation without valid license; one license permitted](#33502-permitting-operation-without-valid-license-one-license-permitted)
 * [335.021   Ohio driver’s license required for in state residents](#335021-ohio-drivers-license-required-for-in-state-residents)

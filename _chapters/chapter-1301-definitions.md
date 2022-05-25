@@ -6,6 +6,8 @@ chapter_no: 1301
 title: "Chapter 1301: Definitions"
 ---
 
+## Sections
+
 * [1301.01   Definitions generally](#130101-definitions-generally)
 * [1301.02   Alteration](#130102-alteration)
 * [1301.03   Apartment](#130103-apartment)

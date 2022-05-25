@@ -6,6 +6,8 @@ chapter_no: 517
 title: "Chapter 517: Gambling"
 ---
 
+## Sections
+
 * [517.01   Definitions](#51701-definitions)
 * [517.02   Gambling](#51702-gambling)
 * [517.03   Operating a gambling house](#51703-operating-a-gambling-house)

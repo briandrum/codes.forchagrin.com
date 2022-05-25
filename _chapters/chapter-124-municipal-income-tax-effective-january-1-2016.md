@@ -6,6 +6,8 @@ chapter_no: 124
 title: "Chapter 124: Municipal Income Tax Effective January 1, 2016"
 ---
 
+## Sections
+
 * [124.01   Authority to levy tax; purpose of tax](#12401-authority-to-levy-tax-purpose-of-tax)
 * [124.02   Definitions](#12402-definitions)
 * [124.03   Imposition of tax](#12403-imposition-of-tax)

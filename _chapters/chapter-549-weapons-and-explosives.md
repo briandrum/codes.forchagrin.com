@@ -6,12 +6,14 @@ chapter_no: 549
 title: "Chapter 549: Weapons and Explosives"
 ---
 
+## Sections
+
 * [549.01   Definitions](#54901-definitions)
 * [549.02   Carrying concealed weapons](#54902-carrying-concealed-weapons)
 * [549.03   Using weapons while intoxicated](#54903-using-weapons-while-intoxicated)
 * [549.04   Improperly handling firearms in a motor vehicle](#54904-improperly-handling-firearms-in-a-motor-vehicle)
 * [549.05   Failure to secure dangerous ordnance](#54905-failure-to-secure-dangerous-ordnance)
-549.06   Unlawful transactions in weapons.  
+* [549.06   Unlawful transactions in weapons](#54906-unlawful-transactions-in-weapons)
 * [549.07   Underage purchase of firearm](#54907-underage-purchase-of-firearm)
 * [549.08   Discharging firearms](#54908-discharging-firearms)
 * [549.09   Throwing or shooting missiles](#54909-throwing-or-shooting-missiles)

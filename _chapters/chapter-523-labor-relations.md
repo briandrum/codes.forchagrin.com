@@ -6,6 +6,8 @@ chapter_no: 523
 title: "Chapter 523: Labor Relations"
 ---
 
+## Sections
+
 * [523.01   Preventing ingress, egress or access to any person by force or intimidation](#52301-preventing-ingress-egress-or-access-to-any-person-by-force-or-intimidation)
 * [523.02   Picketing](#52302-picketing)
 * [523.03   Secondary boycott or strike](#52303-secondary-boycott-or-strike)

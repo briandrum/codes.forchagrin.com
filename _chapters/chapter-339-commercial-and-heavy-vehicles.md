@@ -6,6 +6,8 @@ chapter_no: 339
 title: "Chapter 339: Commercial and Heavy Vehicles"
 ---
 
+## Sections
+
 * [339.01   Oversize or overweight vehicle operation on State routes; State permit](#33901-oversize-or-overweight-vehicle-operation-on-state-routes-state-permit)
 * [339.02   Use of local streets; local permit and conditions](#33902-use-of-local-streets-local-permit-and-conditions)
 * [339.03   Maximum width, height and length](#33903-maximum-width-height-and-length)

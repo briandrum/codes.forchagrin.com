@@ -6,6 +6,8 @@ chapter_no: 721
 title: "Chapter 721: Garage Sales"
 ---
 
+## Sections
+
 * [721.01   Definitions](#72101-definitions)
 * [721.02   License required](#72102-license-required)
 * [721.03   Application and issuance](#72103-application-and-issuance)

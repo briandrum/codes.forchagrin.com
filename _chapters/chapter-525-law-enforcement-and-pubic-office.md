@@ -6,6 +6,8 @@ chapter_no: 525
 title: "Chapter 525: Law Enforcement and Public Office"
 ---
 
+## Sections
+
 * [525.01   Definitions](#52501-definitions)
 * [525.02   Falsification](#52502-falsification)
 * [525.03   Impersonation of peace officer](#52503-impersonation-of-peace-officer)

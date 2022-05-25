@@ -6,6 +6,8 @@ chapter_no: 353
 title: "Chapter 353: Parking Meters"
 ---
 
+## Sections
+
 * [353.01   Authority to designate parking meter areas and establish metered parking zones](#35301-authority-to-designate-parking-meter-areas-and-establish-metered-parking-zones)
 * [353.02   Designation of areas and zones](#35302-designation-of-areas-and-zones)
 * [353.03   Regulation of parking in metered zones](#35303-regulation-of-parking-in-metered-zones)

@@ -6,6 +6,8 @@ chapter_no: 1143
 title: "Chapter 1143: Signs"
 ---
 
+## Sections
+
 * [1143.01   Intent](#114301-intent)
 * [1143.02   Conformance required](#114302-conformance-required)
 * [1143.03   Definitions and references](#114303-definitions-and-references)

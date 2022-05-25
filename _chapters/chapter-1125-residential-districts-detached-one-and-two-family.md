@@ -6,6 +6,8 @@ chapter_no: 1125
 title: "Chapter 1125: Residential Districts: Detached One and Two-Family"
 ---
 
+## Sections
+
 * [1125.01   Intent](#112501-intent)
 * [1125.02   Permitted uses](#112502-permitted-uses)
 * [1125.03   Area, yard and height regulations: main buildings](#112503-area-yard-and-height-regulations-main-buildings)

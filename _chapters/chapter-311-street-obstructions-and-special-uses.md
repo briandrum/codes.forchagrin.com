@@ -6,6 +6,8 @@ chapter_no: 311
 title: "Chapter 311: Street Obstructions and Special Uses"
 ---
 
+## Sections
+
 * [311.01   Placing injurious material or obstruction in street](#31101-placing-injurious-material-or-obstruction-in-street)
 * [311.02   Parades and assemblages](#31102-parades-and-assemblages)
 * [311.03   Blocking off streets](#31103-blocking-off-streets)

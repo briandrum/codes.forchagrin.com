@@ -6,6 +6,8 @@ chapter_no: 544
 title: "Chapter 544: Trees, Weeds and Grass"
 ---
 
+## Sections
+
 * [544.01   Trimming of trees, shrubbery](#54401-trimming-of-trees-shrubbery)
 * [544.02   Removal of weeds by owner or occupant; notice](#54402-removal-of-weeds-by-owner-or-occupant-notice)
 * [544.03   Removal of trees, weeds, grasses by Municipality](#54403-removal-of-trees-weeds-grasses-by-municipality)

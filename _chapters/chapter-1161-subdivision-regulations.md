@@ -6,6 +6,8 @@ chapter_no: 1161
 title: "Chapter 1161: Subdivision Regulations"
 ---
 
+## Sections
+
 * [1161.01   Title and intent](#116101-title-and-intent)
 * [1161.02   Jurisdiction](#116102-jurisdiction)
 * [1161.03   Definitions](#116103-definitions)

@@ -6,6 +6,8 @@ chapter_no: 1126
 title: "Chapter 1126: Residential Districts: R1-C One-Family Detached Cluster"
 ---
 
+## Sections
+
 * [1126.01   Intent](#112601-intent)
 * [1126.02   Permitted uses](#112602-permitted-uses)
 * [1126.03   Development area](#112603-development-area)

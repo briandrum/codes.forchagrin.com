@@ -6,6 +6,8 @@ chapter_no: 1323
 title: "Chapter 1323: Ohio Building Code"
 ---
 
+## Sections
+
 * [1323.01   Application of State standards; conflict](#132301-application-of-state-standards-conflict)
 
 ## Cross references

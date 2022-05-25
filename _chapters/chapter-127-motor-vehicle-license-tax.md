@@ -6,6 +6,8 @@ chapter_no: 127
 title: "Chapter 127: Motor Vehicle License Tax"
 ---
 
+## Sections
+
 * [127.01   Levy; rate; purpose](#12701-levy-rate-purpose)
 
 ## Cross references

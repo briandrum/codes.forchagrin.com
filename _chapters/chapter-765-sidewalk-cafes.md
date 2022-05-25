@@ -6,6 +6,8 @@ chapter_no: 765
 title: "Chapter 765: Sidewalk Cafes"
 ---
 
+## Sections
+
 * [765.01   Intent](#76501-intent)
 * [765.02   Definitions](#76502-definitions)
 * [765.03   Permit required](#76503-permit-required)

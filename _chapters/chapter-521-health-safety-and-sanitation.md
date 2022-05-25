@@ -6,6 +6,8 @@ chapter_no: 521
 title: "Chapter 521: Health, Safety and Sanitation"
 ---
 
+## Sections
+
 * [521.01   Abandoned refrigerators and airtight containers](#52101-abandoned-refrigerators-and-airtight-containers)
 * [521.02   Venting of heaters and burners](#52102-venting-of-heaters-and-burners)
 * [521.03   Barricades and warning lights; abandoned excavations](#52103-barricades-and-warning-lights-abandoned-excavations)

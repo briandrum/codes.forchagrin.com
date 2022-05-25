@@ -6,6 +6,8 @@ chapter_no: 1333
 title: "Chapter 1333: Fire Limits"
 ---
 
+## Sections
+
 * [1333.01   Noncombustible materials required](#133301-noncombustible-materials-required)
 * [1333.02   Limits established](#133302-limits-established)
 

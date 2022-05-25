@@ -6,6 +6,8 @@ chapter_no: 141
 title: "Chapter 141: Parking Commission"
 ---
 
+## Sections
+
 * [141.01   Creation](#14101-creation)
 * [141.02   Term](#14102-term)
 * [141.03   Compensation](#14103-compensation)

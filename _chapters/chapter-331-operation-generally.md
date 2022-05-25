@@ -6,9 +6,11 @@ chapter_no: 331
 title: "Chapter 331: Operation Generally"
 ---
 
+## Sections
+
 * [331.01   Driving upon right side of roadway; exceptions](#33101-driving-upon-right-side-of-roadway-exceptions)
 * [331.02   Passing to right when proceeding in opposite directions](#33102-passing-to-right-when-proceeding-in-opposite-directions)
-* [331.03   Overtaking, passing to left; driver’s duties](#33103-overtaking-passing-to-left-driver’s duties)
+* [331.03   Overtaking, passing to left; driver’s duties](#33103-overtaking-passing-to-left-drivers-duties)
 * [331.04   Overtaking and passing upon right](#33104-overtaking-and-passing-upon-right)
 * [331.05   Overtaking, passing to left of center](#33105-overtaking-passing-to-left-of-center)
 * [331.06   Additional restrictions on driving upon left side of roadway](#33106-additional-restrictions-on-driving-upon-left-side-of-roadway)
@@ -17,7 +19,7 @@ title: "Chapter 331: Operation Generally"
 * [331.09   Following too closely](#33109-following-too-closely)
 * [331.10   Turning at intersections](#33110-turning-at-intersections)
 * [331.11   Turning into private driveway, alley or building](#33111-turning-into-private-driveway-alley-or-building)
-* [331.12   "U" turns restricted](#33112-"u" turns restricted)
+* [331.12   "U" turns restricted](#33112-u-turns-restricted)
 * [331.13   Starting and backing vehicles](#33113-starting-and-backing-vehicles)
 * [331.14   Signals before changing course, turning or stopping](#33114-signals-before-changing-course-turning-or-stopping)
 * [331.15   Hand and arm signals](#33115-hand-and-arm-signals)
@@ -26,7 +28,7 @@ title: "Chapter 331: Operation Generally"
 * [331.18   Operation of vehicle at yield signs](#33118-operation-of-vehicle-at-yield-signs)
 * [331.19   Operation of vehicle at stop signs](#33119-operation-of-vehicle-at-stop-signs)
 * [331.20   Emergency or public safety vehicles at stop signals or signs](#33120-emergency-or-public-safety-vehicles-at-stop-signals-or-signs)
-* [331.21   Right of way of public safety or coroner’s vehicle](#33121-right-of-way-of-public-safety-or-coroner’s vehicle)
+* [331.21   Right of way of public safety or coroner’s vehicle](#33121-right-of-way-of-public-safety-or-coroners-vehicle)
 * [331.211   Report of vehicle failing to yield right of way to public safety vehicle](#331211-report-of-vehicle-failing-to-yield-right-of-way-to-public-safety-vehicle)
 * [331.22   Driving onto roadwayfrom place other than roadway: duty to yield](#33122-driving-onto-roadwayfrom-place-other-than-roadway-duty-to-yield)
 * [331.23   Driving onto roadway from place other than roadway: stopping at sidewalk](#33123-driving-onto-roadway-from-place-other-than-roadway-stopping-at-sidewalk)
@@ -50,7 +52,7 @@ title: "Chapter 331: Operation Generally"
 * [331.41   Slow moving vehicles and equipment at grade crossings](#33141-slow-moving-vehicles-and-equipment-at-grade-crossings)
 * [331.42   Driving for advertising purposes](#33142-driving-for-advertising-purposes)
 * [331.43   Shortcutting; evasion of traffic control signals or device](#33143-shortcutting-evasion-of-traffic-control-signals-or-device)
-* [331.44   Littering from motorvehicle](#33144-littering-from-motorvehicle)
+* [331.44   Littering from motor vehicle](#33144-littering-from-motor-vehicle)
 * [331.45   Wearing earplugs or earphones prohibited](#33145-wearing-earplugs-or-earphones-prohibited)
 * [331.46   Vehicular operation on street closed due to rise in water level](#33146-vehicular-operation-on-street-closed-due-to-rise-in-water-level)
 

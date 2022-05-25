@@ -6,6 +6,8 @@ chapter_no: 505
 title: "Chapter 505: Animals and Fowl"
 ---
 
+## Sections
+
 * [505.01   Animals not under control](#50501-animals-not-under-control)
 * [505.02   Impounding of dogs; disposal](#50502-impounding-of-dogs-disposal) (Repealed)
 * [505.03   Annual registration of dogs; tags required](#50503-annual-registration-of-dogs-tags-required)
@@ -28,7 +30,7 @@ title: "Chapter 505: Animals and Fowl"
 * [505.19   Impoundment of dogs involved in biting/attacking incidents](#50519-impoundment-of-dogs-involved-in-biting-attacking-incidents)
 * [505.20   Dangerous and vicious dog impounding procedure; redemption or disposition](#50520-dangerous-and-vicious-dog-impounding-procedure-redemption-or-disposition)
 * [505.21   Court order to remove or destroy animal](#50521-court-order-to-remove-or-destroy-animal)
-505.22   Designation of dog as “dangerous” and “vicious”.
+* [505.22   Designation of dog as “dangerous” and “vicious”]($50522-designation-of-dog-as-dangerous-and-vicious)
 * [505.23   Dangerous and vicious dog appeal](#50523-dangerous-and-vicious-dog-appeal)
 * [505.99   Penalty](#50599-penalty)
 

@@ -6,6 +6,8 @@ chapter_no: 761
 title: "Chapter 761: Cable Television Basic Service Rates and Charges Regulations"
 ---
 
+## Sections
+
 * [761.01   Adoption of FCC basic cable service rates and charges](#76101-adoption-of-fcc-basic-cable-service-rates-and-charges)
 * [761.02   File and distributionof copies](#76102-file-and-distributionof-copies)
 * [761.03   Public comment](#76103-public-comment)

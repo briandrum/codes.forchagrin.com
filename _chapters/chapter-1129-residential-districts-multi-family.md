@@ -6,6 +6,8 @@ chapter_no: 1129
 title: "Chapter 1129: Residential Districts: Multi-Family"
 ---
 
+## Sections
+
 * [1129.01   Intent](#112901-intent)
 * [1129.02   Permitted uses](#112902-permitted-uses)
 * [1129.03   Area regulations](#112903-area-regulations)

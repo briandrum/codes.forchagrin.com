@@ -6,6 +6,8 @@ chapter_no: 1337
 title: "Chapter 1337: Moving of Buildings"
 ---
 
+## Sections
+
 * [1337.01   Permit required](#133701-permit-required)
 * [1337.02   Application](#133702-application)
 * [1337.03   Permit to be in two parts](#133703-permit-to-be-in-two-parts)

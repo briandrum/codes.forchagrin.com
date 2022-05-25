@@ -6,6 +6,8 @@ chapter_no: 1131
 title: "Chapter 1131: Residential Districts: Retirement Living"
 ---
 
+## Sections
+
 * [1131.01   Intent](#113101-intent)
 * [1131.02   Permitted uses](#113102-permitted-uses)
 * [1131.03   Area regulations](#113103-area-regulations)

@@ -6,6 +6,8 @@ chapter_no: 1107
 title: "Chapter 1107: Definitions"
 ---
 
+## Sections
+
 * [1107.01   Intent](#110701-intent)
 * [1107.02   Administrator](#110702-administrator)
 * [1107.03   Areas](#110703-areas)
@@ -25,7 +27,7 @@ title: "Chapter 1107: Definitions"
 * [1107.16   Performance standard](#110716-performance-standard)
 * [1107.160   Planning and Zoning Code](#1107160-planning-and-zoning-code)
 * [1107.161   Recreational vehicles and trailers](#1107161-recreational-vehicles-and-trailers)
-1107,17   Retail sales.
+* [1107.17   Retail sales](#110717-retail-sales)
 * [1107.18   Retail service](#110718-retail-service)
 * [1107.19   Sign](#110719-sign)
 * [1107.191   Site plan](#1107191-site-plan)

@@ -6,6 +6,8 @@ chapter_no: 741
 title: "Chapter 741: Taxicabs"
 ---
 
+## Sections
+
 * [741.01   Franchise required](#74101-franchise-required)
 * [741.02   Application for franchise; investigation](#74102-application-for-franchise-investigation)
 * [741.03   Inspections; insurance](#74103-inspections-insurance)

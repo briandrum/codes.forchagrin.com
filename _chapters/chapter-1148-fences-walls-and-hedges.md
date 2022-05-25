@@ -6,6 +6,8 @@ chapter_no: 1148
 title: "Chapter 1148: Fences, Walls, and Hedges"
 ---
 
+## Sections
+
 * [1148.01   Intent](#114801-intent)
 * [1148.02   Definitions and references](#114802-definitions-and-references)
 * [1148.03   General provisions](#114803-general-provisions)

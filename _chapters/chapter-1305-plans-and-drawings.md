@@ -6,6 +6,8 @@ chapter_no: 1305
 title: "Chapter 1305: Plans and Drawings"
 ---
 
+## Sections
+
 * [1305.01   Consideration of application](#130501-consideration-of-application)
 * [1305.02   Plot plan](#130502-plot-plan)
 * [1305.03   Building plans](#130503-building-plans)

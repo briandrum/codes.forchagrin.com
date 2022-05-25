@@ -6,6 +6,8 @@ chapter_no: 351
 title: "Chapter 351: Parking Generally"
 ---
 
+## Sections
+
 * [351.01   Police may remove unattended vehicle which obstructs traffic](#35101-police-may-remove-unattended-vehicle-which-obstructs-traffic)
 * [351.02   Registered owner prima-facie liable for unlawful parking](#35102-registered-owner-prima-facie-liable-for-unlawful-parking)
 * [351.03   Prohibited standing or parking places](#35103-prohibited-standing-or-parking-places)

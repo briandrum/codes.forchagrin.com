@@ -6,6 +6,8 @@ chapter_no: 933
 title: "Chapter 933: Garbage and Refuse Collection"
 ---
 
+## Sections
+
 * [933.01   Receptacles for refuse](#93301-receptacles-for-refuse)
 * [933.02   Preparation of refuse](#93302-preparation-of-refuse)
 * [933.03   Location of refuse receptacles](#93303-location-of-refuse-receptacles)

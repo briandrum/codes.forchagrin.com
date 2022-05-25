@@ -6,6 +6,8 @@ chapter_no: 503
 title: "Chapter 503: Advertising, Billposting and Handbills"
 ---
 
+## Sections
+
 * [503.01   Advertising on private property](#50301-advertising-on-private-property)
 * [503.02   Advertising on public property](#50302-advertising-on-public-property)
 * [503.99   Penalty](#50399-penalty)

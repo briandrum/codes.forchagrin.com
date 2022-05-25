@@ -6,6 +6,8 @@ chapter_no: 537
 title: "Chapter 537: Offenses Against Persons"
 ---
 
+## Sections
+
 * [537.01   Negligent homicide](#53701-negligent-homicide)
 * [537.02   Vehicular homicide and manslaughter](#53702-vehicular-homicide-and-manslaughter)
 * [537.021   Vehicular assault in a construction zone](#537021-vehicular-assault-in-a-construction-zone)

@@ -6,6 +6,8 @@ chapter_no: 303
 title: "Chapter 303: Enforcement, Impounding and Penalty"
 ---
 
+## Sections
+
 * [303.01   Compliance with lawful order of police officer; fleeing](#30301-compliance-with-lawful-order-of-police-officer-fleeing)
 * [303.02   Traffic direction in emergencies; obedience to school guard](#30302-traffic-direction-in-emergencies-obedience-to-school-guard)
 * [303.03   Officer may remove ignition key](#30303-officer-may-remove-ignition-key)

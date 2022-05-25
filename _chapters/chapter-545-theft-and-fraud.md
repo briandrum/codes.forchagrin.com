@@ -6,6 +6,8 @@ chapter_no: 545
 title: "Chapter 545: Theft and Fraud"
 ---
 
+## Sections
+
 * [545.01   Definitions](#54501-definitions)
 * [545.02   Determining property value in theft offense](#54502-determining-property-value-in-theft-offense)
 * [545.03   Property exceptions as felony offense](#54503-property-exceptions-as-felony-offense)

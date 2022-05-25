@@ -6,6 +6,8 @@ chapter_no: 715
 title: "Chapter 715: Coin-Operated Machines"
 ---
 
+## Sections
+
 * [715.01   Amusement machine defined](#71501-amusement-machine-defined)
 * [715.02   Amusement machines prohibited](#71502-amusement-machines-prohibited)
 * [715.03   Confiscation of amusement machines; premises where used](#71503-confiscation-of-amusement-machines-premises-where-used)

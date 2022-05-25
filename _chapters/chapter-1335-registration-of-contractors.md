@@ -6,6 +6,8 @@ chapter_no: 1335
 title: "Chapter 1335: Registration of Contractors"
 ---
 
+## Sections
+
 * [1335.01   Purposes](#133501-purposes)
 * [1335.02   Registration required](#133502-registration-required)
 * [1335.03   Holders of Ohio qualification certificate; exception](#133503-holders-of-ohio-qualification-certificate-exception)

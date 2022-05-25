@@ -6,6 +6,8 @@ chapter_no: 1139
 title: "Chapter 1139: Limited Industrial Districts"
 ---
 
+## Sections
+
 * [1139.01   Intent](#113901-intent)
 * [1139.02   Permitted uses](#113902-permitted-uses)
 * [1139.03   Area and height regulations](#113903-area-and-height-regulations)

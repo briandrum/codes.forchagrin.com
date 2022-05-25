@@ -6,8 +6,10 @@ chapter_no: 541
 title: "Chapter 541: Property Offenses"
 ---
 
+## Sections
+
 * [541.01   Determining property value in arson](#54101-determining-property-value-in-arson)
-541.02   Arson.  
+* [541.02   Arson](54102-arson)
 * [541.03   Criminal damaging or endangering](#54103-criminal-damaging-or-endangering)
 * [541.04   Criminal mischief](#54104-criminal-mischief)
 * [541.05   Criminal trespass](#54105-criminal-trespass)

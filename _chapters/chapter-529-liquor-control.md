@@ -6,6 +6,8 @@ chapter_no: 529
 title: "Chapter 529: Liquor Control"
 ---
 
+## Sections
+
 * [529.01   Definitions](#52901-definitions)
 * [529.02   Sales to and use by underage persons; securing public accommodations](#52902-sales-to-and-use-by-underage-persons-securing-public-accommodations)
 * [529.021   Purchase by minor; misrepresentation](#529021-purchase-by-minor-misrepresentation)

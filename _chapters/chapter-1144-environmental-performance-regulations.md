@@ -6,6 +6,8 @@ chapter_no: 1144
 title: "Chapter 1144: Environmental Performance Regulations"
 ---
 
+## Sections
+
 * [1144.01   Intent](#114401-intent)
 * [1144.02   Regulations](#114402-regulations)
 * [1144.03   Proposed uses and facilities](#114403-proposed-uses-and-facilities)

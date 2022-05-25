@@ -6,6 +6,8 @@ chapter_no: 111
 title: "Chapter 111: Council"
 ---
 
+## Sections
+
 * [111.01   Regular meetings](#11101-regular-meetings)
 * [111.02   Special meetings](#11102-special-meetings)
 * [111.03   Agenda for Council meetings](#11103-agenda-for-council-meetings)

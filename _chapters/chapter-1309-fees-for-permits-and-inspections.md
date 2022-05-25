@@ -6,6 +6,8 @@ chapter_no: 1309
 title: "Chapter 1309: Fees for Permits and Inspections"
 ---
 
+## Sections
+
 * [1309.01   Collection of fees](#130901-collection-of-fees)
 * [1309.02   New single-family dwellings](#130902-new-single-family-dwellings)
 * [1309.03   Additions to single-family dwellings, alterations and repairs](#130903-additions-to-single-family-dwellings-alterations-and-repairs)

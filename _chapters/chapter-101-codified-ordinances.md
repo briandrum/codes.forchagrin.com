@@ -6,6 +6,8 @@ chapter_no: 101
 title: "Chapter 101: Codified Ordinances"
 ---
 
+## Chapters
+
 * [101.01   Designation; citation; headings](#10101-designation-citation-headings)
 * [101.02   General definitions](#10102-general-definitions)
 * [101.03   Rules of construction](#10103-rules-of-construction)

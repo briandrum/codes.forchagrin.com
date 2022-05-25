@@ -6,6 +6,8 @@ chapter_no: 1146
 title: "Chapter 1146: Historic Preservation Regulations"
 ---
 
+## Sections
+
 * [1146.01   Intent](#114601-intent)
 * [1146.02   Applicability](#114602-applicability)
 * [1146.03   Administrative procedures](#114603-administrative-procedures)

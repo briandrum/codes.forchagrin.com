@@ -6,6 +6,8 @@ chapter_no: 133
 title: "Chapter 133: Department of Public Service"
 ---
 
+## Sections
+
 * [133.01   Establishment; head](#13301-establishment-head)
 * [133.02   Chief Administrative Officer established](#13302-chief-administrative-officer-established)
 * [133.03   Duties of Chief Administrative Officer](#13303-duties-of-chief-administrative-officer)

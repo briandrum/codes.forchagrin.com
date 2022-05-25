@@ -6,6 +6,8 @@ chapter_no: 113
 title: "Chapter 113: Ordinances and Resolutions"
 ---
 
+## Sections
+
 * [113.01   Publication and posting](#11301-publication-and-posting)
 
 ## Cross references

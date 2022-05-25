@@ -6,6 +6,8 @@ chapter_no: 1307
 title: "Chapter 1307: Building Permits"
 ---
 
+## Sections
+
 * [1307.01   Building permits required; application; plans and drawings](#130701-building-permits-required-application-plans-and-drawings)
 * [1307.02   Issuance of permit; certification of compliance with Zoning Code](#130702-issuance-of-permit-certification-of-compliance-with-zoning-code)
 * [1307.03   Bonds](#130703-bonds)
@@ -26,7 +28,7 @@ title: "Chapter 1307: Building Permits"
 * [1307.18   Minor building permits](#130718-minor-building-permits)
 * [1307.19   Preliminary plot plan required](#130719-preliminary-plot-plan-required)
 * [1307.20   Final plot plan](#130720-final-plot-plan)
-* [1307.21   Building Inspector’s fees](#130721-building-inspector’s fees)
+* [1307.21   Building Inspector’s fees](#130721-building-inspectors-fees)
 * [1307.22   Amendment of plan to include method of drainage](#130722-amendment-of-plan-to-include-method-of-drainage)
 * [1307.23   Appeals](#130723-appeals)
 * [1307.99   Penalty](#130799-penalty)

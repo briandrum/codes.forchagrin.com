@@ -6,6 +6,8 @@ chapter_no: 123
 title: "Chapter 123: Department of Law"
 ---
 
+## Sections
+
 * [123.01   Department established](#12301-department-established)
 * [123.02   Appointment and removal of Director](#12302-appointment-and-removal-of-director)
 * [123.03   Qualifications of Director](#12303-qualifications-of-director)

@@ -6,6 +6,8 @@ chapter_no: 711
 title: "Chapter 711: Peddlers and Canvassers"
 ---
 
+## Sections
+
 * [711.01   Purpose](#71101-purpose)
 * [711.02   Definitions](#71102-definitions)
 * [711.03   License required, exceptions](#71103-license-required-exceptions)

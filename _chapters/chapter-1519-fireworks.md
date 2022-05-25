@@ -6,6 +6,8 @@ chapter_no: 1519
 title: "Chapter 1519: Fireworks"
 ---
 
+## Sections
+
 * [1519.01   Definitions](#151901-definitions)
 * [1519.02   Public exhibition permit required; fee; bond; records](#151902-public-exhibition-permit-required-fee-bond-records)
 * [1519.03   Unlawful conduct by exhibitor](#151903-unlawful-conduct-by-exhibitor)

@@ -6,6 +6,8 @@ chapter_no: 1345
 title: "Chapter 1345: Incinerators"
 ---
 
+## Sections
+
 * [1345.01   Approval of Council required](#134501-approval-of-council-required)
 * [1345.99   Penalty](#134599-penalty)
 

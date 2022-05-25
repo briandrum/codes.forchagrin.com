@@ -6,6 +6,8 @@ chapter_no: 919
 title: "Chapter 919: Private Sewage Disposal Systems"
 ---
 
+## Sections
+
 * [919.01   Permit required; installation; standards](#91901-permit-required-installation-standards)
 * [919.02   Pumping and cleaning septic tanks](#91902-pumping-and-cleaning-septic-tanks)
 * [919.03   Household aerobic sewage treatment systems](#91903-household-aerobic-sewage-treatment-systems)

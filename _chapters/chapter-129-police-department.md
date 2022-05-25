@@ -6,6 +6,8 @@ chapter_no: 129
 title: "Chapter 129: Police Department"
 ---
 
+## Sections
+
 * [129.01   Department established](#12901-department-established)
 * [129.02   Composition of department](#12902-composition-of-department)
 * [129.03   Probationary and original appointments; appointment requirements for full-time regular patrol officers](#12903-probationary-and-original-appointments-appointment-requirements-for-full-time-regular-patrol-officers)

@@ -6,6 +6,8 @@ chapter_no: 543
 title: "Chapter 543: Streets and Sidewalks"
 ---
 
+## Sections
+
 * [543.01   Cleaning and repairing sidewalks; remedy of Municipality for noncompliance](#54301-cleaning-and-repairing-sidewalks-remedy-of-municipality-for-noncompliance)
 * [543.02   Removal of ice and snow from sidewalks](#54302-removal-of-ice-and-snow-from-sidewalks)
 * [543.03   Unloading on streets, sidewalks](#54303-unloading-on-streets-sidewalks)

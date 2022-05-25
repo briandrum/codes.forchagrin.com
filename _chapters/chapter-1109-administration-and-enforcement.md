@@ -6,6 +6,8 @@ chapter_no: 1109
 title: "Chapter 1109: Administration and Enforcement"
 ---
 
+## Sections
+
 * [1109.01   Intent](#110901-intent)
 * [1109.02   Applicability](#110902-applicability)
 * [1109.03   Conditions for issuance of certificates and permits](#110903-conditions-for-issuance-of-certificates-and-permits)
@@ -15,7 +17,7 @@ title: "Chapter 1109: Administration and Enforcement"
 * [1109.07   Enforcement and penalty](#110907-enforcement-and-penalty)
 * [1109.08   Fees and deposits](#110908-fees-and-deposits)
 * [1109.09   Public hearing notifications and hearings](#110909-public-hearing-notifications-and-hearings)
-Table A
+* [Table A](#table-a)
 
 ## Cross references
 

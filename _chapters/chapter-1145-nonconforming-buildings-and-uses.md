@@ -6,6 +6,8 @@ chapter_no: 1145
 title: "Chapter 1145: Nonconforming Buildings and Uses"
 ---
 
+## Sections
+
 * [1145.01   Intent](#114501-intent)
 * [1145.02   Nonconforming buildings and structures](#114502-nonconforming-buildings-and-structures)
 * [1145.03   Nonconforming use of buildings; nonconforming accessory uses](#114503-nonconforming-use-of-buildings-nonconforming-accessory-uses)

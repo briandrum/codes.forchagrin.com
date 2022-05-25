@@ -6,6 +6,8 @@ chapter_no: 501
 title: "Chapter 501: General Provisions and Penalty"
 ---
 
+## Sections
+
 * [501.01   Definitions](#50101-definitions)
 * [501.02   Classification of offenses](#50102-classification-of-offenses)
 * [501.03   Common law offenses abrogated](#50103-common-law-offenses-abrogated)

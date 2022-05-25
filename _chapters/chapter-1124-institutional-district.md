@@ -6,6 +6,8 @@ chapter_no: 1124
 title: "Chapter 1124: Institutional District"
 ---
 
+## Sections
+
 * [1124.01   Intent](#112401-intent)
 * [1124.02   Permitted uses](#112402-permitted-uses)
 * [1124.03   Area and height regulations](#112403-area-and-height-regulations)

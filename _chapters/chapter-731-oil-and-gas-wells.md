@@ -6,6 +6,8 @@ chapter_no: 731
 title: "Chapter 731: Oil and Gas Wells"
 ---
 
+## Sections
+
 * [731.01   Objectives](#73101-objectives)
 * [731.02   Application requirements; review and permit procedures](#73102-application-requirements-review-and-permit-procedures)
 * [731.03   Development standards](#73103-development-standards)

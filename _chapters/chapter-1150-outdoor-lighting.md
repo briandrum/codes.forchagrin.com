@@ -6,6 +6,8 @@ chapter_no: 1150
 title: "Chapter 1150: Outdoor Lighting"
 ---
 
+## Sections
+
 * [1150.01   Purpose and intent](#115001-purpose-and-intent)
 * [1150.02   Definitions](#115002-definitions)
 * [1150.03   General requirements](#115003-general-requirements)

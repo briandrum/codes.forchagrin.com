@@ -6,6 +6,8 @@ chapter_no: 1141
 title: "Chapter 1141: Off-Street Parking and Loading"
 ---
 
+## Sections
+
 * [1141.01   Intent](#114101-intent)
 * [1141.02   Off-street parking facilities; when required](#114102-off-street-parking-facilities-when-required)
 * [1141.03   Continuation of parking facilities](#114103-continuation-of-parking-facilities)

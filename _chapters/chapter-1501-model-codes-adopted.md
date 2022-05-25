@@ -6,6 +6,8 @@ chapter_no: 1501
 title: "Chapter 1501: Model Codes Adopted"
 ---
 
+## Sections
+
 * [1501.01   Adoption of the Ohio Fire Code, NFPA, and the OBBC](#150101-adoption-of-the-ohio-fire-code-nfpa-and-the-obbc)
 * [1501.02   Establishment and duties of Bureau of Fire Prevention](#150102-establishment-and-duties-of-bureau-of-fire-prevention)
 * [1501.03   Definitions](#150103-definitions)

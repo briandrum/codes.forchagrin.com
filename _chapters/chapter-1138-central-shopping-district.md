@@ -6,6 +6,8 @@ chapter_no: 1138
 title: "Chapter 1138: Central Shopping District"
 ---
 
+## Sections
+
 * [1138.01   Intent](#113801-intent)
 * [1138.02   Permitted uses](#113802-permitted-uses)
 * [1138.03   Area and height regulations](#113803-area-and-height-regulations)

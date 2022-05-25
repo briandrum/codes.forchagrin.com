@@ -6,6 +6,8 @@ chapter_no: 941
 title: "Chapter 941: Use of Public Ways for Small Cell Wireless Facilities and Wireless Support Structures"
 ---
 
+## Sections
+
 * [941.01   Overview and purpose; definitions](#94101-overview-and-purpose-definitions)
 * [941.02   Consent required](#94102-consent-required)
 * [941.03   Permit application types](#94103-permit-application-types)

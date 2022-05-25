@@ -6,6 +6,8 @@ chapter_no: 959
 title: "Chapter 959: Volunteer Senior Citizens Help Line"
 ---
 
+## Sections
+
 * [959.01   Creation and staffing](#95901-creation-and-staffing)
 * [959.02   Purpose](#95902-purpose)
 * [959.03   Training and duties of volunteers and supervisors](#95903-training-and-duties-of-volunteers-and-supervisors)
