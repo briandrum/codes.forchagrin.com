@@ -37,15 +37,13 @@ title: "Chapter 1107: Definitions"
 
 ## Cross references
 
-            General Codified Ordinance definitions - see ADM
-. 101.02
-            Off-street parking facilities defined - see P. & Z.
- 1141.04
+* *General Codified Ordinance definitions - see ADM. 101.02
+* *Off-street parking facilities defined - see P. & Z. 1141.04
 
 ## 1107.01   Intent
 
-     The following terms shall have, throughout this Planning and Zoning Code,
-the meaning given herein:
+The following terms shall have, throughout this Planning and Zoning Code, the
+meaning given herein:
 
 1. _(a)_ The word "shall" is to be interpreted as mandatory and not directory;
 the word "may" is permissive; the word "should" indicates that a certain
@@ -69,7 +67,7 @@ Board of Review means the Architectural Board of Review of Chagrin Falls; and
 
 ## 1107.02   Administrator
 
-     "Administrator" means the Building Inspector of the Municipality.  
+"Administrator" means the Building Inspector of the Municipality.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.03   Areas
@@ -211,7 +209,7 @@ storage of caskets, funeral urns, funeral vehicles and other funeral supplies.
 5. _(e)_ "Museum" means an institution that is established for the purpose of
 acquiring, conserving, studying, interpreting, and exhibiting to the public for
 its instruction and enjoyment a collection of artifacts of historical
-interest.  "Museum" also includes any libraries, reading rooms, and other
+interest. "Museum" also includes any libraries, reading rooms, and other
 offices and premises in connection therewith. However, the service of food and
 beverages, and retail sales on such premises, shall be customary and incidental
 to the principal use of the facility.
@@ -247,7 +245,7 @@ having a separate entrance or an entrance connected to a common outside
 entrance.
 7. _(g)_ "Hotel" means a building containing living and sleeping
 accommodations, excluding cooking facilities within an individual rental unit,
-for transient occupancy or compensation. 
+for transient occupancy or compensation.
 8. _(h)_ "Efficiency dwelling" means a space within a building containing no
 less than a main area for both living and sleeping accommodations with cooking,
 bathing and toilet facilities for the exclusive use of one family.  
@@ -255,10 +253,10 @@ bathing and toilet facilities for the exclusive use of one family.
 
 ## 1107.08   Family
 
-     "Family" means either an individual, two or more persons who live together
-in one dwelling unit and maintain a common household, related by blood,
-marriage or adoption; or not more than three persons not related by blood,
-marriage or adoption.  
+"Family" means either an individual, two or more persons who live together in
+one dwelling unit and maintain a common household, related by blood, marriage or
+adoption; or not more than three persons not related by blood, marriage or
+adoption.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.09   Grades
@@ -283,15 +281,14 @@ such roof.
 
 ## 1107.11   Home occupation
 
-     "Home occupation" means an occupation or profession conducted as an
-accessory use in a dwelling unit and as limited by the regulations of Section 1125.05.  
+"Home occupation" means an occupation or profession conducted as an accessory
+use in a dwelling unit and as limited by the regulations of Section 1125.05.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.12   Loading space
 
-     "Loading space" means an open or enclosed space other than a street, used
-for the temporary parking of a commercial vehicle while being loaded or
-unloaded.  
+"Loading space" means an open or enclosed space other than a street, used for
+the temporary parking of a commercial vehicle while being loaded or unloaded.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.13   Lot
@@ -362,10 +359,10 @@ designated thereon.
 
 ## 1107.16   Performance standard
 
-     "Performance standard" means a criterion established to control enclosure,
-dust, smoke, fire and explosive hazards, glare and heat, noise, odor, toxic and
-noxious matter, vibrations, drainage, erosion and other conditions created by
-or inherent in uses of land or buildings.  
+"Performance standard" means a criterion established to control enclosure, dust,
+smoke, fire and explosive hazards, glare and heat, noise, odor, toxic and
+noxious matter, vibrations, drainage, erosion and other conditions created by or
+inherent in uses of land or buildings.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.160   Planning and zoning code
@@ -404,17 +401,16 @@ ten miles or at a speed of more than twenty-five miles per hour.
 
 ## 1107.17   Retail sales
 
-     "Retail sales" means an establishment where goods, wares, merchandise,
-substances, articles or things are offered or kept for sale at retail,
-including storage of limited quantities of such goods, wares, merchandise,
-substances, articles or things sufficient only to service such store.  
+"Retail sales" means an establishment where goods, wares, merchandise,
+substances, articles or things are offered or kept for sale at retail, including
+storage of limited quantities of such goods, wares, merchandise, substances,
+articles or things sufficient only to service such store.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.18   Retail service
 
-     "Retail service" means an establishment primarily engaged in providing
-direct consumer services at the site of the business, but not including
-offices.  
+"Retail service" means an establishment primarily engaged in providing direct
+consumer services at the site of the business, but not including offices.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.19   Sign
@@ -490,7 +486,7 @@ general sense as defined in subsection (a) hereof.
 
 ## 1107.24   Zoning district, overlay
 
-     "Overlay District" means a zoning district that encompasses one or more
+"Overlay District" means a zoning district that encompasses one or more
 underlying zones and imposes additional or alternative requirements to those
 required by the underlying zone. Overlay Districts are designated on the
 official Zoning Map.  

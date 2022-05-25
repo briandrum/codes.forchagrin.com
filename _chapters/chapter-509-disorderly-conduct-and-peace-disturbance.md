@@ -197,7 +197,7 @@ section, or both sections.
 5. _(e)_ As used in this section:
     1. _(1)_ “Economic harm” means any of the following:
         1. _(A)_ All direct, incidental, and consequential pecuniary harm suffered
-by a victim as a result of criminal conduct.  “Economic harm” as described in
+by a victim as a result of criminal conduct. “Economic harm” as described in
 this division includes, but is not limited to, all of the following:
             1. _(1)_ All wages, salaries, or other compensation lost as a result of
 the criminal conduct;
@@ -239,7 +239,7 @@ in converting any item or device into any item or device described in division
 division may be readily assembled.
     4. _(4)_ “Biological agent” has the same meaning as in Ohio R.C. 2917.33.
     5. _(5)_ “Emergency medical services personnel” has the same meaning as in
-Ohio R.C. 2133.21. 
+Ohio R.C. 2133.21.
     6. _(6)_ “Institution of higher education” means any of the following:
         1. _(A)_ A state university or college as defined in Ohio R.C. 3345.12(A)
 (1), community college, state community college, university branch, or
@@ -318,7 +318,7 @@ a warning of danger;
     6. _(6)_ The unreasonable discharge into the open air of the exhaust of any
 steam engine, stationary internal combustion engine, motor vehicle or motor
 boat engine;
-    7. _(7)_ The creation  of a loud and excessive noise in connection with the
+    7. _(7)_ The creation of a loud and excessive noise in connection with the
 loading or unloading of any vehicle or the opening and destruction of bales,
 boxes, crates and containers;
     8. _(8)_ The making of any unnecessary or unseemly noise by a person or by
@@ -326,7 +326,7 @@ operation of any instrument, device, agency or vehicle, the performance of any
 construction or demolition activity or the operation of any mechanical,
 electrical, pneumatically, hydraulically powered or battery operated apparatus
 used in connection with any construction or demolition activity between the
-hours of  7:00 p.m. and 7:00 a.m. from Monday to Saturday, inclusive. No such
+hours of 7:00 p.m. and 7:00 a.m. from Monday to Saturday, inclusive. No such
 activity or operation shall be performed on Sundays or holidays;
     9. _(9)_ The use of any mechanical device operated by compressed air,
 excluding a jack hammer operated between the hours of 7:00 a.m. and 7:00 p.m.
@@ -373,7 +373,7 @@ approved by a parent or guardian, shall enter or remain on any street,
 sidewalk, or other public place, either on foot or any type of vehicle, during
 the following hours:
     1. _(1)_ A child under the age of sixteen between 11:00 p.m. and 6:00 a.m.;
-    2. _(2)_ A child the age of sixteen or seventeen,  between 1:00 a.m. and 6:
+    2. _(2)_ A child the age of sixteen or seventeen, between 1:00 a.m. and 6:
 00 a.m.
 2. _(b)_ A child who violates subsection (a) hereof shall be deemed unruly,
 neglected, dependent and/or a child without proper parental care and shall be

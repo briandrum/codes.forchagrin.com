@@ -15,18 +15,16 @@ title: "Chapter 1113: Amendments"
 
 ## Cross references
 
-            Mandatory referral for rezoning - see CHTR. Art. X,
-Sec. 4
-            Fees for rezoning - see ADM.
-125.06
+* Mandatory referral for rezoning - see CHTR. Art. X, Sec. 4
+* Fees for rezoning - see ADM. 125.06
 
 ## 1113.01   Intent
 
-     This Planning and Zoning Code may be amended periodically in order to keep
-pace with new zoning techniques and changes in enabling legislation governing
+This Planning and Zoning Code may be amended periodically in order to keep pace
+with new zoning techniques and changes in enabling legislation governing
 municipal planning and zoning. The Code may also be amended when a general
-hardship prevails in a given area, when new extensive developments affecting
-the use of land are being planned.  
+hardship prevails in a given area, when new extensive developments affecting the
+use of land are being planned.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1113.02   Initiation of amendment
@@ -40,9 +38,9 @@ before action is taken by Council.
 
 ## 1113.03   Action by commission
 
-     The Planning and Zoning Commission may approve or disapprove a proposed
-amendment, either in whole or in part, and submit its recommendation to
-Council.  
+The Planning and Zoning Commission may approve or disapprove a proposed
+amendment, either in whole or in part, and submit its recommendation to Council.
+ 
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1113.04   Action by council
@@ -63,8 +61,8 @@ regard to the Planning and Zoning Code.
 
 ## 1113.05   Current record of text and map
 
-     The Administrator shall maintain a permanent and current record of the
-Planning and Zoning Code showing all amendments to the text and Map.  
+The Administrator shall maintain a permanent and current record of the Planning
+and Zoning Code showing all amendments to the text and Map.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1113.06   Determination of similar uses

@@ -17,7 +17,7 @@ title: "Chapter 1340: Maintenance of Structures and Premises"
 * [1340.09   General maintenance requirements](#134009-general-maintenance-requirements)
 * [1340.10   Maintenance of foundations](#134010-maintenance-of-foundations)
 * [1340.11   Maintenance of roofs, gutters and downspouts](#134011-maintenance-of-roofs-gutters-and-downspouts)
-* [1340.12   Maintenance of exteriors of structures and secondary or  appurtenant structures](#134012-maintenance-of-exteriors-of-structures-and-secondary-or-appurtenant-structures)
+* [1340.12   Maintenance of exteriors of structures and secondary or appurtenant structures](#134012-maintenance-of-exteriors-of-structures-and-secondary-or-appurtenant-structures)
 * [1340.13   Maintenance of interior walls and floors](#134013-maintenance-of-interior-walls-and-floors)
 * [1340.14   Infestation by pests](#134014-infestation-by-pests)
 * [1340.15   Exterior property areas](#134015-exterior-property-areas)
@@ -129,14 +129,14 @@ industry, civic or non- profit, or other similar nonresidential purpose.
 18. _(r)_ “Operator” means a person who has charge, care or control of any
 building, structure, premises or part thereof.
 19. _(s)_ “Owner” means the owner of the premises or one of the owners of the
-premises if  owned by more than one person, including the holder of title
+premises if owned by more than one person, including the holder of title
 thereto subject to contract of purchase, a vendee in possession, a mortgagee or
 receiver in possession, a lessee or joint lessees of the whole thereof, or an
 agent or any other person, firm, corporation or fiduciary directly in control
 of the premises.
 20. _(t)_ “Person” means an individual, firm, partnership, limited liability
 company, limited liability partnership, association, joint venture,
-corporation, trust, or any other legal entity, including his or its agents.   
+corporation, trust, or any other legal entity, including his or its agents.  
 21. _(u)_ “Premises” means a lot, parcel of plot of land including the buildings
 or structures thereon.
 22. _(v)_ “Repair” means the renewal, replacement or reinforcement of an
@@ -221,7 +221,7 @@ chapter or other provisions of the Building Code.
 1. _(a)_ Whenever the Building Inspector finds any structure or premises, or
 any part thereof, to be in violation of the provisions of this chapter, he
 shall give or cause to be given or mailed to the owner, occupant, or operator
-of such structure or premises a written notice stating the violation therein. 
+of such structure or premises a written notice stating the violation therein.
 Such notice shall order the owner, occupant, or operator, within a stated
 reasonable time (but not less than ten days), to correct the violation. Such
 delivery or mailing shall be deemed legal service of notice. Upon expiration
@@ -255,7 +255,7 @@ and regulations, the Ohio Revised Code and the Ohio Administrative Code,
 including the Ohio Building Code, or to demolish and remove, as provided for in
 this chapter, shall inform prospective purchasers, vendees, grantees,
 assignees, lessees or land contractees of the notice of violation or the notice
-to make corrections, or to demolish and remove the unsafe structure. 
+to make corrections, or to demolish and remove the unsafe structure.
 5. _(e)_ No person shall transfer to a vendee, grantee, assignee, lessee, land
 contractee or any other transferee any interest in a building, structure or a
 portion thereof after receiving a notice of violation to make corrections, or
@@ -268,7 +268,7 @@ of an escrow agent in any real estate transaction involving the sale of a
 structure or building situated in the Village, shall disburse any funds
 resulting from a sale or transfer of any interest in any premises for which a
 notice has been provided in this chapter, to cure and/or demolish, unless the
-provisions of this division have been met. 
+provisions of this division have been met.
 6. _(f)_ Any buyer or grantee, by land contract or otherwise, of an unsafe
 structure or building, shall begin, upon the date of transfer, to comply with
 any notice or order obtained or to be obtained pursuant to Chapter 1340 of the Codified Ordinances and, within ten (10) days of the date of
@@ -280,7 +280,7 @@ reasonable time to comply.
 ## 1340.09   General maintenance requirements
 
 1. _(a)_ All premises, structures and all parts thereof, both exterior and
-interior, shall be maintained in good repair and shall be free from nuisance. 
+interior, shall be maintained in good repair and shall be free from nuisance.
 All equipment and facilities appurtenant to a structure and premises shall be
 maintained in good repair.
 2. _(b)_ Repairs, maintenance work, alterations or installations shall be
@@ -510,7 +510,7 @@ use, constitutes a hazard to the public health, safety, or welfare by reason of
 inadequate maintenance, dilapidation, obsolescence, or abandonment, fire, or
 other disaster, or is a nuisance as defined in this Chapter, is, severally,
 declared to be an "unsafe structure". Any unsafe structures or conditions is
-declared to be a public nuisance. 
+declared to be a public nuisance.
 2. _(b)_ The public nuisance shall be abated by correction of the violations to
 the minimum standards of the Codified Ordinances of the Village of Chagrin
 Falls, Ohio, applicable rules and regulations, the Ohio Revised Code and the
@@ -543,7 +543,7 @@ entry. The Building Inspector shall be authorized at any time to enter the
 premises to secure the structure in order to lessen the severity of the public
 nuisance. In the event the property owner refuses entry onto the premises, the
 Building Inspector shall use all available remedies authorized by a court of
-competent jurisdiction granting access necessary to carry out this section. 
+competent jurisdiction granting access necessary to carry out this section.
 2. _(b)_ In securing the structure, the Building Inspector may call upon any
 employee of the Village of Chagrin Falls for whatever assistance may be
 necessary, or may, by private contract, secure such structure and may notify
@@ -562,7 +562,7 @@ specified repairs and improvements are completed, inspected, and approved by
 the Building Inspector. The Building Inspector may cause to be posted at each
 entrance to the building or structure a notice as follows: ”THIS STRUCTURE IS
 IN A DANGEROUS CONDITION AND HAS BEEN CONDEMNED AND ITS USE HAS BEEN PROHIBITED
-BY THE BUILDING INSPECTOR FOR THE VILLAGE OF CHAGRIN FALLS.”  The notice shall
+BY THE BUILDING INSPECTOR FOR THE VILLAGE OF CHAGRIN FALLS.” The notice shall
 remain posted until the required corrections are made or demolition is
 completed. No person shall remove the notice without written permission of the
 Building Inspector, nor shall any person use or enter the building or structure
@@ -583,7 +583,7 @@ unsafe structure, also take appropriate action to effectively board the
 structure, or to secure it pursuant to Chapter 1340.
 2. _(b)_ The Building Inspector shall specifically state in writing the
 findings with respect to the structure, and shall determine whether to secure
-or to effectively board, based on factors which may include the following:  the
+or to effectively board, based on factors which may include the following: the
 distance of the structure from neighboring structures, the type of structure,
 the extent to which the structure is secured, the likelihood of vandalism or
 arson, the extent of the deterioration, the economic likelihood of eventual
@@ -595,7 +595,7 @@ remove a public nuisance or unsafe building, structure or a portion of those,
 or to remove or abate any other condition that is defined as a nuisance under
 this chapter, the Building Inspector may take appropriate action to take repair
 or maintenance measures or cause utility services to be shut-off pursuant to
-Chapter 1340 or to otherwise abate the public nuisance. 
+Chapter 1340 or to otherwise abate the public nuisance.
 4. _(d)_ The Building Inspector shall specifically state in writing the
 findings with respect to the structure, and shall determine whether to perform
 repair or maintenance based on factors which may include the following: the
@@ -608,7 +608,7 @@ shall give written notice informing the owner, agent, or person in control,
 mortgagee of record and lien holders of record of the Village’s intention to
 demolish and remove the unsafe building or structure at least thirty (30) days
 before the intended action by the Village. The notice may be effective
-concurrently with the violation notice. 
+concurrently with the violation notice.
 6. _(f)_ In the event a condemned structure, is effectively boarded by the
 owner pending rehabilitation and it later becomes open to entry, then upon
 determination by the Building Inspector that the structure can no longer be
@@ -618,14 +618,14 @@ to the Building Inspector giving written notice as stated in Chapter 1340.
 or by or on behalf of the Village, such demolition shall include the filling in
 of the excavation remaining on the property on which the demolished dwelling
 was located pursuant to the requirements of the Codified Ordinances including,
-but not limited to the requirements of Chapter 901. 
+but not limited to the requirements of Chapter 901.
 8. _(h)_ Any and all expenses or costs, including but not limited to attorney’s
 fees, costs of inspection, administrative staff and support staff, property
 maintenance costs, court costs, title search fees, process server fees, skip
 tracing expenses, and costs of collection or prosecution, including discovery
 and deposition expenses, incurred pursuant to this chapter relating to the
 demolition, repair, alteration, securing or boarding of a structure or for
-abating any other nuisance shall be paid by the owner of such structure. 
+abating any other nuisance shall be paid by the owner of such structure.
 9. _(i)_ Any and all owners of an unsafe structure, who appear in the chain of
 title from the time of receipt of a notice of condemnation until demolition of
 the building or structure, shall be jointly and severally responsible for all
@@ -643,7 +643,7 @@ Fiscal Officer of the action under this section with a statement of the charges
 for services, the amount paid for the performing of labor and a proper
 description of the premises including all costs to be paid by the property
 owner pursuant to this chapter, including the total cost of all abatement
-activity as defined in Revised Code Section 715.261. 
+activity as defined in Revised Code Section 715.261.
 11. _(k)_ Certification to the County Fiscal Officer is for the purpose of
 making expenses and costs a lien upon the lands, to be collected as other taxes
 and returned to the Village with the General Fund, with special accounting
@@ -692,7 +692,7 @@ of the structure.
 sanitary sewer, or other utility service from entering the premises. For
 underground utilities, shut-off shall be accomplished by disconnecting the
 service at the street and for overhead utilities, disconnection shall be at the
-pole. 
+pole.
 6. _(f)_ In the event of any actual or threatened violation of this section or
 in an emergency situation, the Director of Law, in addition to other remedies
 provided by law, may institute proper suit in equity or at law to prevent or

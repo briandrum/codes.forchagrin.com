@@ -13,7 +13,7 @@ title: "Chapter 313: Traffic Control Devices"
 * [313.05   Special pedestrian control signals](#31305-special-pedestrian-control-signals)
 * [313.06   Flashing traffic signals](#31306-flashing-traffic-signals) (Repealed)
 * [313.07   Unauthorized signs andsignals, hiding from view,advertising](#31307-unauthorized-signs-andsignals-hiding-from-view-advertising)
-* [313.08   Alteration, injury, removal  of traffic control devices](#31308-alteration-injury-removal-of-traffic-control-devices)
+* [313.08   Alteration, injury, removal of traffic control devices](#31308-alteration-injury-removal-of-traffic-control-devices)
 * [313.09   Driver’s duties uponapproaching ambiguous or non-working traffic signal](#31309-drivers-duties-uponapproaching-ambiguous-or-non-working-traffic-signal)
 * [313.10   Unlawful purchase,possession or sale](#31310-unlawful-purchase-possession-or-sale)
 * [313.11   Portable signal preemption devices prohibited](#31311-portable-signal-preemption-devices-prohibited)
@@ -37,7 +37,7 @@ enforced against an alleged violator if at the time and place of the alleged
 violation an official sign is not in proper position and sufficiently legible
 to be seen by an ordinarily observant person. Whenever a particular section of
 this Traffic Code does not state that signs are required, that section shall be
-effective even though no signs are erected or in place. 
+effective even though no signs are erected or in place.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -82,7 +82,7 @@ which vehicular traffic thereon is required by regulatory signs to stop or
 yield to traffic on the intersecting street, provided that in residence
 districts the Municipality may by ordinance designate such street or highway,
 or portion thereof, not to be a through highway and thereafter the affected
-residence district shall be indicated by official traffic control devices. 
+residence district shall be indicated by official traffic control devices.
 Where two or more streets or highways designated under this subsection (b)
 intersect and no traffic control signal is in operation, stop signs or yield
 signs shall be erected at one or more entrances thereto by the Ohio Department
@@ -133,9 +133,9 @@ following:
     3. _(3)_
         1. _(A)_ Unless otherwise directed by a pedestrian signal indication,
 as provided in Section 313.05, pedestrians facing a circular green signal indication are permitted to
-proceed across the roadway within any marked or unmarked associated crosswalk. 
+proceed across the roadway within any marked or unmarked associated crosswalk.
 The pedestrian shall yield the right-of-way to vehicles lawfully within the
-intersection or so close as to create an immediate hazard at the time  that the
+intersection or so close as to create an immediate hazard at the time that the
 green signal indication is first displayed.
         2. _(B)_ Pedestrians facing a green arrow signal indication, unless
 otherwise directed by a pedestrian signal indication or other traffic control
@@ -260,7 +260,7 @@ the flashing red signal indication is first displayed.
 beacon to supplement another traffic control device, road users are notified
 that there is a need to pay additional attention to the message contained
 thereon or that the regulatory requirements of the other traffic control
-device, which might not be applicable at all times, are currently applicable. 
+device, which might not be applicable at all times, are currently applicable.
 Use of this signal indication shall be limited to supplementing stop, do not
 enter, or wrong way signs, and to applications where compliance with the
 supplemented traffic control device requires a stop at a designated point.
@@ -270,7 +270,7 @@ of this section shall be applicable except as to those provisions which by
 their nature can have no application. Any stop required shall be made at a
 sign or marking on the pavement indicating where the stop shall be made, but in
 the absence of any such sign or marking the stop shall be made at the signal.
-8. _(h)_ Exception. This section does not apply at railroad grade crossings. 
+8. _(h)_ Exception. This section does not apply at railroad grade crossings.
 Conduct of drivers of vehicles approaching railroad grade crossings shall be
 governed by Ohio R.C. 4511.61 and 4511.62.  
 (ORC 4511.13)
@@ -360,7 +360,7 @@ control devices, or the erection upon private property of traffic control
 devices by the owner of real property in accordance with Ohio R.C. 4511.211 and
 4511.432.  
 Every such prohibited sign, signal, marking or device is a public nuisance,
-and the Police Chief is authorized to remove it or cause it to be removed. 
+and the Police Chief is authorized to remove it or cause it to be removed.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one

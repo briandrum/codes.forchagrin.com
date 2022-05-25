@@ -7,7 +7,7 @@ title: "Chapter 541: Property Offenses"
 ---
 
 * [541.01   Determining property value in arson](#54101-determining-property-value-in-arson)
-541.02   Arson.   
+541.02   Arson.  
 * [541.03   Criminal damaging or endangering](#54103-criminal-damaging-or-endangering)
 * [541.04   Criminal mischief](#54104-criminal-mischief)
 * [541.05   Criminal trespass](#54105-criminal-trespass)
@@ -142,7 +142,7 @@ Ohio R.C. 2911.21.
     2. _(2)_ “Improperly Tamper”. Means to change the physical location or the
 physical condition of the property.
     3. _(3)_ “Safety Device”. Means any fire extinguisher, fire hose, or fire
-axe, or any fire escape, emergency exit, or  emergency escape equipment, or any
+axe, or any fire escape, emergency exit, or emergency escape equipment, or any
 life line, life-saving ring, life preserver, or life boat or raft, or any
 alarm, light, flare, signal, sign, or notice intended to warn of danger or
 emergency, or intended for other safety purposes, or any guard railing or
@@ -213,7 +213,7 @@ authorized to enter or remain on the land or premises involved when such
 authorization was secured by deception.
 4. _(d)_
     1. _(1)_ Whoever violates this section is guilty of criminal trespass.
-Criminal trespass in violation of subsection  (a)(1), (a)(2), (a)(3), or (a)(4)
+Criminal trespass in violation of subsection (a)(1), (a)(2), (a)(3), or (a)(4)
 of this section is a misdemeanor of the fourth degree. Criminal trespass in
 violation of subsection (a)(5) of this section is a misdemeanor of the first
 degree.
@@ -230,7 +230,7 @@ off-highway motorcycle or the certificate of registration and license plate of
 that all-purpose vehicle for not less than sixty days. In such a case, Ohio
 R.C. 4519.47 applies.
 5. _(e)_ As used in subsections (a) through (e) of this section:
-    1. _(1)_ “All-Purpose Vehicle, Off-Highway Motorcycle” and “Snowmobile”. 
+    1. _(1)_ “All-Purpose Vehicle, Off-Highway Motorcycle” and “Snowmobile”.
 Have the same meanings as in Ohio R.C. 4519.01.
     2. _(2)_ “Critical Infrastructure Facility”. Means:
         1. _(A)_ One of the following, if completely enclosed by a fence or other
@@ -373,7 +373,7 @@ or 2917.21(A)(3) to (5) or Sections
 541.03 or
 541.04 of the General Offenses Code by reason of the race, color, religion or
 national origin of another person or group of persons.
-2. _(b)_ Whoever violates this section is guilty of ethnic intimidation. 
+2. _(b)_ Whoever violates this section is guilty of ethnic intimidation.
 Ethnic intimidation is an offense of the next higher degree than the offense
 the commission of which is a necessary element of ethnic intimidation.  
 (ORC 2927.12)
@@ -387,7 +387,7 @@ parking lot, street, driveway, curb, crossway, walkway area, mall or that
 portion of private property utilized for public use, so as to hinder or
 obstruct unreasonably, the free passage of pedestrians or vehicles thereon; nor
 shall any person block or obstruct or prevent the free access to the entrance
-to any building open to the public. 
+to any building open to the public.
 2. _(b)_ Whoever violates this section is guilty of loitering, a misdemeanor
 of the third degree.  
 (Ord. 1992-68. Passed 7-13-92.)
@@ -406,7 +406,7 @@ at, onto, or in the path of any of the following:
     1. _(1)_ Any vehicle on a highway;
     2. _(2)_ Any boat or vessel on any of the waters in this State that are
 located in the Municipality.
-3. _(c)_ Whoever violates this section is guilty of vehicular vandalism. 
+3. _(c)_ Whoever violates this section is guilty of vehicular vandalism.
 Except as otherwise provided in this subsection, vehicular vandalism is a
 misdemeanor of the first degree. If the violation of this section creates a
 substantial risk of physical harm to any person, serious physical harm to

@@ -8,7 +8,7 @@ title: "Chapter 959: Volunteer Senior Citizens Help Line"
 
 * [959.01   Creation and staffing](#95901-creation-and-staffing)
 * [959.02   Purpose](#95902-purpose)
-* [959.03   Training and duties of  volunteers and supervisors](#95903-training-and-duties-of-volunteers-and-supervisors)
+* [959.03   Training and duties of volunteers and supervisors](#95903-training-and-duties-of-volunteers-and-supervisors)
 * [959.04   Records](#95904-records)
 * [959.05   Contact with seniors](#95905-contact-with-seniors)
 * [959.06   Background checks](#95906-background-checks)
@@ -83,7 +83,7 @@ with the Help Line.
 
 ## 959.07   Confidentiality
 
-Volunteers should not promise confidentiality to callers to the help line. 
+Volunteers should not promise confidentiality to callers to the help line.
 No Volunteer or Supervisor, however, shall publicly discuss or publish
 information obtained in the performance of duties as a Volunteer or Supervisor,
 except for training or educational purposes; if such information is used for

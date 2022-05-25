@@ -440,7 +440,7 @@ is separately administered to or taken by an individual.
 
 1. _(a)_ No person shall knowingly give or offer to make a gift of twenty grams
 or less of marihuana.
-2. _(b)_ Whoever violates this section is guilty of trafficking in marihuana. 
+2. _(b)_ Whoever violates this section is guilty of trafficking in marihuana.
 Trafficking in marihuana is a minor misdemeanor for the first offense and, for
 any subsequent offense, it is a misdemeanor of the third degree. If the
 offense was committed in the vicinity of a school or the vicinity of a
@@ -595,13 +595,13 @@ following:
 preparation, or substance included in Schedule III, IV, or V, whoever violates
 subsection (a) hereof is guilty of possession of drugs. Possession of drugs is
 a misdemeanor if the amount of the drug involved does not exceed the bulk
-amount. The penalty for the offense shall be determined as follows: 
+amount. The penalty for the offense shall be determined as follows:
 possession of drugs is a misdemeanor of the first degree or, if the offender
 previously has been convicted of a drug abuse offense, a felony and shall be
 prosecuted under appropriate State law.
     2. _(2)_ If the drug involved in the violation is marihuana or a compound,
 mixture, preparation, or substance containing marihuana other than hashish,
-whoever violates subsection (a) hereof is guilty of possession of marihuana. 
+whoever violates subsection (a) hereof is guilty of possession of marihuana.
 Possession of marihuana is a misdemeanor if the amount of the drug involved
 does not exceed 200 grams. The penalty for the offense shall be determined as
 follows:
@@ -624,9 +624,9 @@ gram but is less than two grams of hashish in a liquid concentrate, liquid
 extract, or liquid distillate form, possession of hashish is a misdemeanor of
 the fourth degree.
 4. _(d)_ In addition to any other sanction that is imposed for an offense under
-this section,  the court that sentences an offender who is convicted of or
+this section, the court that sentences an offender who is convicted of or
 pleads guilty to a violation of this section may suspend for not more than five
-years the offender’s driver’s or commercial driver’s license or permit. 
+years the offender’s driver’s or commercial driver’s license or permit.
 However, if the offender pleaded guilty to or was convicted of a violation of
 Ohio R.C. 4511.19 or a substantially similar municipal ordinance or the law of
 another state or the United States arising out of the same set of circumstances
@@ -680,7 +680,7 @@ shall knowingly permit the premises, or real estate, including vacant land, to
 be used for the commission of a felony drug abuse offense by another person.
 3. _(c)_  Whoever violates this section is guilty of permitting drug abuse, a
 misdemeanor of the first degree. If the felony drug abuse offense in question
-is a violation of Ohio R.C. 2925.02,  2925.03, 2925.04 or 2925.041 as provided
+is a violation of Ohio R.C. 2925.02, 2925.03, 2925.04 or 2925.041 as provided
 in Ohio R.C. 2925.13, permitting drug abuse is a felony and shall be prosecuted
 under appropriate State law.
 4. _(d)_ In addition to any other sanction imposed for an offense under this
@@ -702,7 +702,7 @@ to Ohio R.C. Chapter 3767.
 1. _(a)_ No person shall knowingly cultivate marihuana.
 
 2. _(b)_ This section does not apply to any person listed in Ohio R.C. 2925.03
-(B)(1) to (3)  to the extent and under the circumstances described in those
+(B)(1) to (3) to the extent and under the circumstances described in those
 divisions.
 
 3. _(c)_ Whoever commits a violation of subsection (a) hereof is guilty of
@@ -742,7 +742,7 @@ physiological effects, shall obtain, possess or use a harmful intoxicant.
 2. _(b)_ Whoever violates this section is guilty of abusing harmful
 intoxicants, a misdemeanor of the first degree. If the offender previously has
 been convicted of a drug abuse offense, abusing harmful intoxicants is a felony
-and shall be prosecuted under appropriate State law. 
+and shall be prosecuted under appropriate State law.
 3. _(c)_ In addition to any other sanction imposed upon an offender for a
 violation of this section, the court may suspend for not more than five years
 the offender’s driver’s or commercial driver’s license or permit. However, if
@@ -768,7 +768,7 @@ V, or is marihuana, the penalty for the offense shall be determined as follows:
 dispensing of drug samples is a misdemeanor of the second degree.
     2. _(2)_ If the offense was committed in the vicinity of a school or in the
 vicinity of a juvenile, illegal dispensing of drug samples is a misdemeanor of
-the first degree. 
+the first degree.
 4. _(d)_ In addition to any other sanction imposed for an offense under this
 section, the court that sentences an offender who is convicted of or pleads
 guilty to a violation of this section may suspend for not more than five years
@@ -896,7 +896,7 @@ harvesting, manufacturing, compounding, converting, producing, processing,
 preparing, testing, analyzing, packaging, repackaging, storing, containing,
 concealing, injecting, ingesting, inhaling or otherwise introducing into the
 human body, a controlled substance in violation of this chapter or Ohio R.C.
-Chapter 2925.  "Drug paraphernalia" includes, but is not limited to, any of the
+Chapter 2925. "Drug paraphernalia" includes, but is not limited to, any of the
 following equipment, products or materials that are used by the offender,
 intended by the offender for use or designated by the offender for use, in any
 of the following manners:
@@ -935,7 +935,7 @@ marihuana cigarette, that has become too small or too short to be held in the
 hand; miniature cocaine spoon, or cocaine vial; chamber pipe; carburetor pipe;
 electric pipe; air driver pipe; chillum; bong; or ice pipe or chiller.
 
-2. _(b)_ In determining if any equipment, product or material  is drug
+2. _(b)_ In determining if any equipment, product or material is drug
 paraphernalia, a court or law enforcement officer shall consider, in addition
 to other relevant factors, the following:
     1. _(1)_ Any statement by the owner, or by anyone in control, of the
@@ -1022,7 +1022,7 @@ state or the United States arising out of the same set of circumstances as the
 violation, the court shall suspend the offender’s driver’s or commercial
 driver’s license or permit for not more than five years. If the offender is a
 professionally licensed person, in addition to any other sanction imposed for a
-violation of this section, the court immediately shall comply with Ohio R.C. 
+violation of this section, the court immediately shall comply with Ohio R.C.
 2925.38.  
 (ORC 2925.14)
 

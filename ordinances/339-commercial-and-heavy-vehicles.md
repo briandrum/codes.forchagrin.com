@@ -118,7 +118,7 @@ semitrailer combination on such State highways or portions of State highways as
 the Director designates;
     4. _(4)_ 28.5 feet for any semitrailer or trailer when operated in a
 commercial tractor-semitrailer-trailer or commercial tractor-semitrailer-
-semitrailer combination, except that  the Director may prohibit the operation
+semitrailer combination, except that the Director may prohibit the operation
 of any such commercial tractor-semitrailer-trailer or commercial tractor-
 semitrailer-semitrailer combination on such State highways or portions of State
 highways as the Director designates;
@@ -157,7 +157,7 @@ mirrors, turn signal lamps, marker lamps, handholds for cab entry and egress,
 flexible fender extensions, mud flaps, splash and spray suppressant devices,
 and load-induced tire bulge.  
 The width prescribed in subsection (b)(5) shall not include automatic
-covering devices, tarp and tarp hardware, and tiedown assemblies,  provided
+covering devices, tarp and tarp hardware, and tiedown assemblies, provided
 these safety devices do not extend more than three inches from each side of the
 vehicle.  
 The lengths prescribed in subsections (c)(2) to (8) hereof shall not include
@@ -307,7 +307,7 @@ agricultural production materials or a rubbish vehicle in the process of
 acquiring its load, no vehicle loaded with garbage, swill, cans, bottles, waste
 paper, ashes, refuse, trash, rubbish, waste, wire, paper, cartons, boxes,
 glass, solid waste or any other material of an unsanitary nature that is
-susceptible to blowing or bouncing from a  moving vehicle shall be driven or
+susceptible to blowing or bouncing from a moving vehicle shall be driven or
 moved on any street, highway or other public place unless the load is covered
 with a sufficient cover to prevent the load or any part of the load from
 spilling onto the street, highway or other public place.  
@@ -350,7 +350,7 @@ spikes, chains or other projections of any kind extending beyond the cleats, or
 no person shall tow or in any way pull another vehicle over the improved
 streets of this Municipality, which towed or pulled vehicle has tires or wheels
 equipped with ice picks, spuds, spikes, chains or other projections of any
-kind.  "Traction engine" or "tractor," as used in this section, applies to all
+kind. "Traction engine" or "tractor," as used in this section, applies to all
 self-propelling engines equipped with metal-tired wheels operated or propelled
 by any form of engine, motor or mechanical power.  
 (ORC 5589.08)
@@ -361,7 +361,7 @@ by any form of engine, motor or mechanical power.
 
 1. _(a)_ For purposes of this section, "studded tire" means any tire designed
 for use on a vehicle, and equipped with metal studs or studs of wear-resisting
-material that project beyond the tread of the traction surface of the tire. 
+material that project beyond the tread of the traction surface of the tire.
 "Motor vehicle," "street or highway," "public safety vehicle" and "school bus"
 have the same meanings as given those terms in Chapter 301.
 2. _(b)_
@@ -396,7 +396,7 @@ required by this Traffic Code.
 
 Vehicles operated under the Public Utilities Commission of Ohio shall not be
 subject to the requirements of the regulations provided for by this section.  
-(Ord. 1957-420. Passed 12-28-57.) 
+(Ord. 1957-420. Passed 12-28-57.)
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -412,14 +412,14 @@ misdemeanor of the third degree.
 upon any highway at any time from a half hour after sunset to a half hour
 before sunrise unless there is carried in such vehicle, except as provided in
 subsection (b) hereof, the following equipment which shall be of the types
-approved by the Director of Transportation: 
+approved by the Director of Transportation:
     1. _(1)_ At least three flares or three red reflectors or three red
-electric lanterns,    each of which is capable of being seen and distinguished
+electric lanterns, each of which is capable of being seen and distinguished
 at a distance of 500 feet under normal atmospheric conditions at night time;
     2. _(2)_ At least three red-burning fusees, unless red reflectors or red
-electric lanterns are carried; 
+electric lanterns are carried;
     3. _(3)_ At least two red cloth flags, not less than twelve inches square,
-with standards to support them; 
+with standards to support them;
     4. _(4)_ The type of red reflectors shall comply with such standards and
 specifications in effect on September 16, 1963, or later established by the
 Interstate Commerce Commission and must be certified as meeting such standards
@@ -430,7 +430,7 @@ bulk, or in transporting compressed flammable gases, unless there is carried in
 such vehicle three red electric lanterns or three red reflectors meeting the
 requirements stated in subsection (a) hereof. There shall not be carried in any
 such vehicle any flare, fusee, or signal produced by a flame.  
-(ORC 4513.27) 
+(ORC 4513.27)
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -447,31 +447,31 @@ trailer or pole trailer is disabled upon the traveled portion of any highway or
 the shoulder thereof, at any time when lighted lamps are required on vehicles,
 the operator of such vehicle shall display the following warning devices upon
 the highway during the time the vehicle is so disabled on the highway except as
-provided in subsection (b) hereof. 
+provided in subsection (b) hereof.
     1. _(1)_ A lighted fusee shall be immediately placed on the roadway at the
 traffic side of such vehicle, unless red electric lanterns or red reflectors
-are displayed. 
+are displayed.
     2. _(2)_ Within the burning period of the fusee and as promptly as
 possible, three lighted flares or pot torches, or three red reflectors or three
 red electric lanterns shall be placed on the roadway as follows:
-        1. _(A)_  One at a distance of forty paces or approximately one hundred
+        1. _(A)_ One at a distance of forty paces or approximately one hundred
 feet in advance of the vehicle;
-        2. _(B)_  One at a distance of forty paces or approximately one hundred
+        2. _(B)_ One at a distance of forty paces or approximately one hundred
 feet to the rear of the vehicle except as provided in this section, each in the
 center of the lane of traffic occupied by the disabled vehicle;
-        3. _(C)_  One at the traffic side of the vehicle.
+        3. _(C)_ One at the traffic side of the vehicle.
 2. _(b)_ Whenever any vehicle used in transporting flammable liquids in bulk,
 or in transporting compressed flammable gases, is disabled upon a highway at
 any time or place mentioned in subsection (a) hereof, the driver of such
-vehicle shall display upon the roadway the following warning devices: 
+vehicle shall display upon the roadway the following warning devices:
     1. _(1)_ One red electric lantern or one red reflector shall be immediately
-placed on the roadway at the traffic side of the vehicle; 
+placed on the roadway at the traffic side of the vehicle;
     2. _(2)_ Two other red electric lanterns or two other red reflectors shall
 be placed to the front and rear of the vehicle in the same manner prescribed
-for flares in subsection (a) hereof. 
+for flares in subsection (a) hereof.
 3. _(c)_ When a vehicle of a type specified in subsection (b) hereof is
 disabled, the use of flares, fusees or any signal produced by flame as warning
-signals is prohibited. 
+signals is prohibited.
 4. _(d)_ Whenever any vehicle of a type referred to in this section is
 disabled upon the traveled portion of a highway or the shoulder thereof, at any
 time when the display of fusees, flares, red reflectors or electric lanterns is
@@ -546,7 +546,7 @@ trucks.
 5. _(e)_ Whoever violates this section is guilty of a misdemeanor of the third
 degree. (Ord. 1984-26. Passed 6-10-85.)
 
-## 339.17   Weighing vehicle; scales to be used; removal of    excess load
+## 339.17   Weighing vehicle; scales to be used; removal of excess load
 
 Any police officer having reason to believe that the weight of a vehicle and
 its load is unlawful may require the driver of such vehicle to stop and submit

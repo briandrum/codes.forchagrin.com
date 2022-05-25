@@ -243,7 +243,7 @@ year.
 (Editor’s note: Former Section 533.05 has been deleted from the Codified
 Ordinances. Section 533.05 was identical to Ohio R.C. 2907.07(B) which the
 Ohio Supreme Court held to be unconstitutional in State v. Thompson, 95 Ohio
-St.  3rd 264 (2002).)
+St. 3rd 264 (2002).)
 
 ## 533.06   Voyeurism
 
@@ -431,8 +431,8 @@ in conduct in violation of subsection (a) of this section.
 sidewalk, bridge, alley, alleyway, plaza, park, driveway, parking lot or
 transportation facility.
         2. _(B)_ A doorway or entrance way to a building that fronts on a place
-described in subsection (c)(1)A.  of this definition.
-        3. _(C)_ A place not described in subsection (c)(1)A.  or B. of this
+described in subsection (c)(1)A. of this definition.
+        3. _(C)_ A place not described in subsection (c)(1)A. or B. of this
 definition that is open to the public.
     2. _(2)_ “Vehicle”. Has the same meaning as in Ohio R.C. 4501.01.
 4. _(d)_
@@ -455,7 +455,7 @@ prostitution, a misdemeanor of the third degree.
     2. _(2)_ Whoever violates subsection (b) of this section is guilty of
 engaging in prostitution after a positive HIV test, a felony to be prosecuted
 under appropriate state law.  
-(ORC  2907.25)
+(ORC 2907.25)
 
 ## 533.11   Disseminating matter harmful to juveniles
 

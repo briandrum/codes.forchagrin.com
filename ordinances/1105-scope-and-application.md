@@ -16,12 +16,12 @@ title: "Chapter 1105: Scope and Application"
 
 ## 1105.01   Title
 
-     These rules, regulations, procedures and Map shall be known, cited and
-referred to as the Chagrin Falls Planning and Zoning Code. Being Titles One to
-Five of Part Eleven - The Planning and Zoning Code of the Codified Ordinances
-of Chagrin Falls, Ohio, the digit 11 standing for Part Eleven - The Planning
-and Zoning Code of the Codified Ordinances of Chagrin Falls shall be understood
-to precede all section numbers of this Code.  
+These rules, regulations, procedures and Map shall be known, cited and referred
+to as the Chagrin Falls Planning and Zoning Code. Being Titles One to Five of
+Part Eleven - The Planning and Zoning Code of the Codified Ordinances of Chagrin
+Falls, Ohio, the digit 11 standing for Part Eleven - The Planning and Zoning
+Code of the Codified Ordinances of Chagrin Falls shall be understood to precede
+all section numbers of this Code.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.02   Findings of fact
@@ -71,7 +71,7 @@ historically significant buildings and structures.
 1. _(a)_ Buildings and land shall be used; and the use of buildings and land
 shall be changed or extended; and buildings shall be designed and erected; and
 existing buildings or uses shall be altered, converted, enlarged, reconstructed
-or moved only in conformance with this Planning and Zoning Code. 
+or moved only in conformance with this Planning and Zoning Code.
 2. _(b)_ The provisions of this Planning and Zoning Code shall be considered as
 minimum requirements and shall be literally construed to further its underlying
 purposes and objectives. They shall apply uniformly to each class or kind of
@@ -97,9 +97,9 @@ corporate limits of the Municipality.
 
 ## 1105.05   Compliance with this planning and zoning code
 
-     No public officials of the Municipality shall issue permits or
-certificates for any structure  or use that would result in conflict with
-provisions of this Planning and Zoning Code.  
+No public officials of the Municipality shall issue permits or certificates for
+any structure or use that would result in conflict with provisions of this
+Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.06   Relation to other regulations
@@ -126,7 +126,7 @@ between parties.
 4. _(d)_ Unless specifically provided otherwise in this Planning and Zoning
 Code, if the requirements of an Overlay District conflict with the requirements
 of the underlying district or any other provision of Municipality regulations,
-the requirements of the Overlay District shall govern. 
+the requirements of the Overlay District shall govern.
 5. _(e)_ Sale of Firearms.
     1. _(1)_ As used in this section "firearm" shall have the same meaning as in
 section 2923.11 of the Ohio Revised Code.

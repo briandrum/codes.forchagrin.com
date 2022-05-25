@@ -38,7 +38,7 @@ so constructed as to make adequate provision for storm water drainage.
 ## 915.03   Curb connections
 
 Curb connections shall be made with storm sewers for each fifty-foot front
-of any abutting  lot or parcel of land and for each fraction of twenty-five
+of any abutting lot or parcel of land and for each fraction of twenty-five
 feet or more of such lot or parcel of land, such curb connections shall be
 installed at the time the storm sewers are built and shall be extended to the
 curb line.  
@@ -59,7 +59,7 @@ storm sewer permit shall be first obtained by the owner or his agent from the
 Chief Administrative Officer or his designated agent. Such permit must be
 obtained before the commencement of any work is performed in connection with
 any construction, enlargement, alteration, repair or removal of any roadside
-drainage ditch, tree lawn  or other portion of a dedicated street or highway
+drainage ditch, tree lawn or other portion of a dedicated street or highway
 within the Village. The application shall be made in writing and upon printed
 forms furnished by the Village and shall include a plan and general
 specifications showing the proposed location, extent and nature of the work

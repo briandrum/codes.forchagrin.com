@@ -11,7 +11,7 @@ title: "Chapter 917: Sanitary Sewer Charges"
 * [917.03   Disposition of funds](#91703-disposition-of-funds)
 * [917.04   Sanitary sewer charges and connection fees](#91704-sanitary-sewer-charges-and-connection-fees)
 * [917.05   Additional charges for industrial wastes](#91705-additional-charges-for-industrial-wastes)
-* [917.06   Collection of charges; leased  lots](#91706-collection-of-charges-leased-lots)
+* [917.06   Collection of charges; leased lots](#91706-collection-of-charges-leased-lots)
 * [917.07   Treatment of certain wastes required](#91707-treatment-of-certain-wastes-required)
 * [917.99   Penalty](#91799-penalty)
 
@@ -83,7 +83,7 @@ chart below per hundred cubic feet of water, which shall be levied against such
 lot, parcel of land or premises, building or connection for the use of water
 service of the Municipality, or a minimum sewer charge of six times the stated
 rate, below, per one hundred cubic feet of water, whichever is greater:
- 
+
 EFFECTIVE RATE CHANGE DATE RATE - MIN. CHARGE
 04/01/20                   $8.30/100 cf - $49.80
 01/01/21                   $8.80/100 cf - $52.80
@@ -97,7 +97,7 @@ chart below, per hundred cubic feet of water, which shall be levied against
 such lot, parcel of land or premises, building or connection for the use of the
 water service of the Municipality, or a minimum sewer charge of six (6) times
 the rate per hundred cubic feet of water, whichever is greater.
- 
+
 EFFECTIVE RATE CHANGE DATE RATE - MIN. CHARGE
 04/01/20                   $10.38/100 cf - $62.28
 01/01/21                   $11.00/100 cf - $66.00
@@ -141,18 +141,19 @@ except for those properties situated on Falls River Road as set forth in
 Ordinance No. 1971-819, adopted February 21, 1971. The charges for connection
 to the sewerage system shall be as follows, except for those properties on
 Falls River Road as set forth in Ordinance No. 1971-819:
-            For single-family residences, which will be charged for one
-residential single-family unit (RSFU) of 400 gallons per day, the following fee
-schedule shall apply unless and until amended by the Municipality:
- 
- 
+
+For single-family residences, which will be charged for one residential
+single-family unit (RSFU) of 400 gallons per day, the following fee schedule
+shall apply unless and until amended by the Municipality:
+
+
 Period            Fee       Fee
                   (Village) (Outside)
 1/1/14 - 12/31/18 3,900     7,800
 1/1/19 - 12/31/23 5,000     10,000
 For multi-family residential units, the charge shall be based on the following
 RSFU equivalents and applied to the above fee schedule:
- 
+
                          RSFU
 (1)   One-bedroom unit0.625
 (2)   Two-bedroom unit0.750
@@ -170,7 +171,7 @@ the Municipality and are served by the system but are unmetered for any reason
 whatsoever, such land or premises shall be charged at a rate equal to the
 amount stated in the chart below, which shall be charged and billed quarterly
 to each such lot, parcel of land or premises.
- 
+
 EFFECTIVE RATE CHANGE DATE FLAT RATE
 04/01/20                   $332.08
 01/01/21                   $352.00

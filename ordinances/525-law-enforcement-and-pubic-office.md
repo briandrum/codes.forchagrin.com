@@ -27,15 +27,11 @@ title: "Chapter 525: Law Enforcement and Public Office"
 
 ## Cross references
 
-          See sectional histories for similar State law
-        Law enforcement officer defined - see GEN. OFF.
-501.01(k)
-        Misconduct at an emergency - see GEN. OFF.
-509.05
-        Making false alarms - see GEN. OFF.
-509.07
-        Personating an officer to defraud - see GEN. OFF.
-545.16
+* See sectional histories for similar State law
+* Law enforcement officer defined - see GEN. OFF. 501.01(k)
+* Misconduct at an emergency - see GEN. OFF. 509.05
+* Making false alarms - see GEN. OFF. 509.07
+* Personating an officer to defraud - see GEN. OFF. 545.16
 
 ## 525.01   Definitions
 
@@ -44,7 +40,7 @@ As used in this chapter:
 1. _(a)_ "Public official" means any elected or appointed officer, or employee,
 or agent of the State or any political subdivision thereof, whether in a
 temporary or permanent capacity, and includes, but is not limited to,
-legislators, judges and law enforcement officers.  “Public official” does not
+legislators, judges and law enforcement officers. “Public official” does not
 include an employee, officer, or governor-appointed member of the board of
 directors of the nonprofit corporation formed under Ohio R.C. 187.01.
 2. _(b)_ "Public servant" means any of the following:
@@ -53,7 +49,7 @@ directors of the nonprofit corporation formed under Ohio R.C. 187.01.
 but not limited to, a juror, member of a temporary commission, master,
 arbitrator, advisor or consultant;
     3. _(3)_ A person who is a candidate for public office, whether or not the
-person  is elected or appointed to the office for which the person is a
+person is elected or appointed to the office for which the person is a
 candidate. A person is a candidate for purposes of this subsection if the
 person has been nominated according to law for election or appointment to
 public office, or if the person has filed a petition or petitions as required
@@ -163,7 +159,7 @@ degree.
 falsification in a theft offense, a misdemeanor of the first degree. If the
 value of the property or services stolen is one thousand dollars ($1,000) or
 more, falsification in a theft offense is a felony and shall be prosecuted
-under appropriate State law. 
+under appropriate State law.
 5. _(e)_ A person who violates this section is liable in a civil action to any
 person harmed by the violation for injury, death, or loss to person or property
 incurred as a result of the commission of the offense and for reasonable
@@ -318,7 +314,7 @@ R.C. 3737.22(A)(15).
     5. _(5)_ Anyone participating in the making of reports under subsection (e)
 of this section or anyone participating in a judicial proceeding resulting from
 the reports is immune from any civil or criminal liability that otherwise might
-be incurred or imposed as a result of such actions. Notwithstanding Ohio R.C. 
+be incurred or imposed as a result of such actions. Notwithstanding Ohio R.C.
 4731.22, the physician-patient relationship or advanced practice registered
 nurse-patient relationship is not a ground for excluding evidence regarding a
 person’s burn injury or the cause of the burn injury in any judicial proceeding
@@ -527,12 +523,12 @@ involved, of the interest of the public official, member of the public
 official’s family or business associate, and the public official takes no part
 in the deliberations or decisions of the Municipality or governmental agency or
 instrumentality with respect to the public contract.
- 
+
 4. _(d)_ Subsection (a)(4) does not prohibit participation by a public employee
 in any housing program funded by public moneys if the public employee otherwise
 qualifies for the program and does not use the authority or influence of the
 public employee’s office or employment to secure benefits from the program and
-if the moneys are to be used on the primary residence of the public employee. 
+if the moneys are to be used on the primary residence of the public employee.
 Such participation does not constitute an unlawful interest in a public
 contract in violation of this section.
 5. _(e)_ Whoever violates this section is guilty of having an unlawful interest
@@ -666,7 +662,7 @@ is caused or attempted.
 in the performance of the officer’s official duties at the time the physical
 harm is caused or attempted, but the offender has actual knowledge that the dog
 or horse is a police dog or horse.
- 
+
 2. _(b)_ No person shall recklessly do any of the following:
     1. _(1)_ Taunt, torment, or strike a police dog or horse;
     2. _(2)_ Throw an object or substance at a police dog or horse;
@@ -691,7 +687,7 @@ a menacing fashion or apparent attitude of attack, or attempting to bite or
 otherwise endanger a police dog or horse that at the time of the conduct is
 assisting a law enforcement officer in the performance of the officer’s duties
 or that the person knows is a police dog or horse.
- 
+
 3. _(c)_ No person shall knowingly cause, or attempt to cause, physical harm to
 an assistance dog in either of the following circumstances:
     1. _(1)_ The dog is assisting or serving a blind, deaf or hearing impaired,

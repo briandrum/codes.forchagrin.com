@@ -29,7 +29,7 @@ application for a building permit for a new main building, have a sidewalk
 across the entire frontage of the lot and, on corner lots or through lots, each
 improved lot shall provide sidewalks across both frontages. Sidewalks shall be
 located and constructed in accordance with this chapter, any other applicable
-Codified Ordinances, and any standards established by the Village Engineer. 
+Codified Ordinances, and any standards established by the Village Engineer.
 Sidewalks shall be maintained in accordance with Section 903.03 and any other applicable Codified Ordinances.
 2. _(b)_ The Chief Administrative Officer is authorized to grant an exception
 to the location and construction requirements, upon receipt of a written
@@ -47,7 +47,7 @@ Administrative Officer.
 not having sidewalks, as of the effective date of this section, shall not be
 required to construct sidewalks until further order of Council.
 4. _(d)_ Before any certificate of occupancy is issued for any new building, a
-sidewalk shall be constructed and installed in accordance with this section. 
+sidewalk shall be constructed and installed in accordance with this section.
 If the Chief Administrative Officer, upon recommendation of the Building
 Inspector, determines that compliance is not possible due to weather
 conditions, the Chief Administrative Officer is authorized to require the
@@ -60,7 +60,7 @@ the sidewalk in conformance with all requirements, the Village shall return the
 cash bond. In the event that the property owner fails to comply with the order
 of the Building Inspector, after thirty days written notice, the Village may
 use the cash bond to construct the sidewalk. If any balance remains after the
-Village constructs the sidewalk, it shall be returned to the property owner. 
+Village constructs the sidewalk, it shall be returned to the property owner.
 If the amount of the bond is insufficient, the Building Inspector shall give
 thirty days written notice to the property owner to pay the outstanding
 balance. If the property owner fails to do so, the unpaid sum shall be
@@ -72,7 +72,7 @@ referred to collection.
 All sidewalks and driveway aprons hereafter constructed, reconstructed,
 replaced, altered or repaired in dedicated streets within the corporate limits
 of the Municipality shall conform to the following requirements. For the
-purpose of this chapter, all paved  areas between the curb line and the
+purpose of this chapter, all paved areas between the curb line and the
 property line in dedicated streets shall be considered as sidewalk or driveway
 aprons.
 
@@ -155,7 +155,7 @@ inches thick for sidewalks, five inches thick in downtown areas, and six inches
 thick for sidewalks through residential driveways and driveway aprons, and
 eight inches thick through commercial aprons by placing concrete between the
 forms described above.  
-The subgrade shall be adequately moistened just before the concrete is placed. 
+The subgrade shall be adequately moistened just before the concrete is placed.
 The concrete shall be placed at a slump of two to three inches unless otherwise
 ordered by the Chief Administrative Officer. After placing, the concrete shall
 be tamped, spaded and screeded. Internal vibrators will not be required for
@@ -229,7 +229,7 @@ the requirements herein specified.
     3. _(3)_ Laying flagging. The flagging for walks shall be laid with close
 joints and brought to an even surface conforming to the proper alignment and
 cross slope which is the same as that provided for Portland Cement concrete
-sidewalks in section 3.02 (Portland Cement Concrete) of these specifications. 
+sidewalks in section 3.02 (Portland Cement Concrete) of these specifications.
 The surface shall be free from depressions and inequalities. Exposed sides
 shall be pitched off to a continuous straight line conforming to the width of
 the walk. All utility castings and other similar fixtures, shall be adjusted

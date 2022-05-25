@@ -27,7 +27,7 @@ title: "Chapter 553: Railroads"
 obstructed a public street, road or highway by permitting a railroad car,
 locomotive or other obstruction to remain upon or across it for longer than
 five minutes to the hindrance or inconvenience of travelers or a person passing
-along or upon such street, road or highway. 
+along or upon such street, road or highway.
     2. _(2)_ At the end of each five minute period of obstruction of a public
 street, road or highway, each railroad company shall cause such railroad car,
 locomotive or other obstruction to be removed for sufficient time, not less

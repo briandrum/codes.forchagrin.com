@@ -127,7 +127,7 @@ phencyclidine per milliliter of the person’s whole blood or blood serum or
 plasma.
             11. _(11)_ The State Board of Pharmacy has adopted a rule pursuant to
 Ohio R.C. 4729.041 that specifies the amount of salvia divinorum and the amount
-of salvinorin  A that constitute concentrations of salvia divinorum and
+of salvinorin A that constitute concentrations of salvia divinorum and
 salvinorin A in a person’s urine, in a person’s whole blood, or in a person’s
 blood serum or plasma at or above which the person is impaired for purposes of
 operating any vehicle within this Municipality, the rule is in effect, and the
@@ -200,7 +200,7 @@ prescription issued by a licensed health professional authorized to prescribe
 drugs.
         2. _(B)_ The person injected, ingested, or inhaled the controlled
 substance in accordance with the health professional’s directions.
-5. _(e)_ Evidence; Tests. 
+5. _(e)_ Evidence; Tests.
     1. _(1)_
         1. _(A)_ In any criminal prosecution or juvenile court proceeding for a
 violation of (a)(1)A. of this section or for any equivalent offense, that is
@@ -226,7 +226,7 @@ submits to a blood, breath, urine or other bodily substance test at the request
 of a law enforcement officer under Ohio R.C. 4511.191, or a blood or urine
 sample is obtained pursuant to a search warrant. Only a physician, a
 registered nurse, an emergency medical technician-intermediate, an emergency
-medical  technician-paramedic or a qualified technician, chemist, or
+medical technician-paramedic or a qualified technician, chemist, or
 phlebotomist shall withdraw a blood sample for the purpose of determining the
 alcohol, drug, controlled substance, metabolite of a controlled substance, or
 combination content of the whole blood, blood serum, or blood plasma. This
@@ -234,7 +234,7 @@ limitation does not apply to the taking of breath or urine specimens. A person
 authorized to withdraw blood under this subsection may refuse to withdraw blood
 under this subsection, if in that person’s opinion, the physical welfare of the
 person would be endangered by the withdrawing of blood.  
-The bodily substance withdrawn under subsection (e)(1)B.  hereof
+The bodily substance withdrawn under subsection (e)(1)B. hereof
 shall be analyzed in accordance with methods approved by the Director of Health
 by an individual possessing a valid permit issued by the Director pursuant to
 Ohio R.C. 3701.143.
@@ -256,7 +256,7 @@ equivalent offense that is substantially equivalent to that subsection.
     3. _(3)_ Upon the request of the person who was tested, the results of the
 chemical test shall be made available to the person or the person’s attorney,
 immediately upon the completion of the chemical test analysis.
-If the chemical test was obtained pursuant to subsection (e)(1)B.  hereof, the
+If the chemical test was obtained pursuant to subsection (e)(1)B. hereof, the
 person tested may have a physician, a registered nurse, or a qualified
 technician, chemist or phlebotomist of the person’s own choosing administer a
 chemical test or tests, at the person’s expense, in addition to any
@@ -309,7 +309,7 @@ prosecution or juvenile court proceeding of a type described in that
 subsection, from considering evidence or testimony that is not otherwise
 disallowed by subsection (e)(4)B. of this section.  
 (ORC 4511.19; 4511.194)
-6. _(f)_ Forensic Laboratory Reports. 
+6. _(f)_ Forensic Laboratory Reports.
     1. _(1)_ Subject to subsection (f)(3) of this section, in any criminal
 prosecution or juvenile court proceeding for a violation of subsection (a)
 (1)B., C., D., E., F., G., H., I., or J. or (b)(1), (2), (3) or (4) of this
@@ -368,7 +368,7 @@ wanton misconduct.
 As used in this subsection, "emergency medical technician-intermediate" and
 "emergency medical technician-paramedic" have the same meanings as in Ohio R.C.
 4765.01.
-8. _(h)_ General OVI Penalty. 
+8. _(h)_ General OVI Penalty.
     1. _(1)_ Whoever violates any provision of subsections (a)(1)A. to I. or (a)
 (2) of this section is guilty of operating a vehicle under the influence of
 alcohol, a drug of abuse, or a combination of them. Whoever violates
@@ -385,7 +385,7 @@ subsections (a)(1)A., B., C., D., E., or J. of this section, a mandatory jail
 term of three consecutive days. As used in this subsection, three consecutive
 days means seventy-two consecutive hours. The court may sentence an offender
 to both an intervention program and a jail term. The court may impose a jail
-term in addition to the three-day mandatory jail term or intervention program. 
+term in addition to the three-day mandatory jail term or intervention program.
 However, in no case shall the cumulative jail term imposed for the offense
 exceed six months.
 The court may suspend the execution of the three-day jail term under this
@@ -418,14 +418,14 @@ privileges in accordance with Ohio R.C. 4510.022.
 (a)(1)F., G., H. or I. or (a)(2) of this section, except as otherwise provided
 in this subsection, a mandatory jail term of at least three consecutive days
 and a requirement that the offender attend, for three consecutive days, a
-drivers’ intervention program that is certified pursuant to Ohio R.C. 5119.38. 
+drivers’ intervention program that is certified pursuant to Ohio R.C. 5119.38.
 As used in this subsection, three consecutive days means seventy-two
 consecutive hours. If the court determines that the offender is not conducive
 to treatment in a drivers’ intervention program, if the offender refuses to
 attend a drivers’ intervention program, or if the jail at which the offender is
 to serve the jail term imposed can provide a drivers’ intervention program, the
 court shall sentence the offender to a mandatory jail term of at least six
-consecutive days. 
+consecutive days.
 If the court grants unlimited driving privileges to a first-time offender under
 Ohio R.C. 4510.022, all penalties imposed upon the offender by the court under
 subsection (h)(1)A.2. of this section for the offense apply, except that the
@@ -434,7 +434,7 @@ under subsection (h)(1)A.2. of this section upon granting unlimited driving
 privileges in accordance with Ohio R.C. 4510.022.
 The court may require the offender, under a community control sanction imposed
 under Ohio R.C. 2929.25, to attend and satisfactorily complete any treatment or
-education  programs that comply with the minimum standards adopted pursuant to
+education programs that comply with the minimum standards adopted pursuant to
 Ohio R.C. Chapter 5119 by the Director of Mental Health and Addiction Services,
 in addition to the required attendance at drivers’ intervention program, that
 the operators of the drivers’ intervention program determine that the offender
@@ -447,7 +447,7 @@ five dollars ($375.00) and not more than one thousand seventy-five dollars
             4. _(4)_ In all cases, a suspension of the offender’s driver’s or
 commercial driver’s license or permit or nonresident operating privilege for a
 definite period of one to three years. The court may grant limited driving
-privileges relative to the suspension under Ohio R.C. 4510.021 and 4510.13. 
+privileges relative to the suspension under Ohio R.C. 4510.021 and 4510.13.
 The court may grant unlimited driving privileges with an ignition interlock
 device relative to the suspension and may reduce the period of suspension as
 authorized under Ohio R.C. 4510.022.
@@ -525,7 +525,7 @@ section, it instead imposes a sentence under that subsection consisting of both
 a jail term and a term of house arrest with electronic monitoring, with
 continuous alcohol monitoring, or with
 both electronic monitoring and continuous alcohol monitoring. The court may
-impose a jail term in addition to the thirty-day mandatory jail term. 
+impose a jail term in addition to the thirty-day mandatory jail term.
 Notwithstanding the jail terms set forth in Section 303.99, the additional jail term shall not exceed one year, and the cumulative
 jail term imposed for the offense shall not exceed one year.
             2. _(2)_ If the sentence is being imposed for a violation of subsection
@@ -558,7 +558,7 @@ participate with a community addiction services provider authorized by Ohio
 R.C. 5119.21, subject to subsection (k) of this section, and shall order the
 offender to follow the treatment recommendations of the services provider. The
 operator of the services provider shall determine and assess the degree of the
-offender’s alcohol dependency and shall make recommendations for treatment. 
+offender’s alcohol dependency and shall make recommendations for treatment.
 Upon the request of the court, the services provider shall submit the results
 of the assessment to the court, including all treatment recommendations and
 clinical diagnoses related to alcohol use.
@@ -605,7 +605,7 @@ less than thirty-six consecutive days of house arrest with electronic
 monitoring, with continuous alcohol monitoring, or with both electronic
 monitoring and continuous alcohol monitoring. The cumulative total of the ten
 consecutive days in jail and the period of house arrest with electronic
-monitoring, continuous alcohol monitoring or both types of monitoring  shall
+monitoring, continuous alcohol monitoring or both types of monitoring shall
 not exceed six months. The ten consecutive days in jail do not have to be
 served prior to or consecutively to the period of house arrest.
 As an alternative to a mandatory jail term of thirty consecutive days required
@@ -615,7 +615,7 @@ fifty-five consecutive days of house arrest with electronic monitoring, with
 continuous alcohol monitoring, or with both electronic monitoring and
 continuous alcohol monitoring. The cumulative total of the fifteen consecutive
 days in jail and the period of house arrest with electronic monitoring,
-continuous alcohol monitoring or both types of monitoring  shall not exceed one
+continuous alcohol monitoring or both types of monitoring shall not exceed one
 year. The fifteen consecutive days in jail do not have to be served prior to
 or consecutively to the period of house arrest.
 As an alternative to the mandatory jail term of sixty consecutive days required
@@ -820,7 +820,7 @@ hereof;
 another state, or law of the United States that is substantially equivalent to
 division (A) or (B) of Ohio R.C. 4511.19;
         3. _(C)_ A violation of a former law of this state that was substantially
-equivalent to division (A)  or (B) of Ohio R.C. 4511.19.  
+equivalent to division (A) or (B) of Ohio R.C. 4511.19.  
 (ORC 4511.181)
 
 ## 333.02   Reckless operation; willful misconduct
@@ -879,7 +879,7 @@ except, that on controlled-access highways and expressways, if the right-of-way
 line fence has been erected without pedestrian opening, the speed shall be
 governed by subsection (b)(4) hereof and on freeways, if the right-of-way line
 fence has been erected without pedestrian opening, the speed shall be governed
-by subsection (b)(7) hereof. The end of every school zone may be  marked by a
+by subsection (b)(7) hereof. The end of every school zone may be marked by a
 sign indicating the end of the zone. Nothing in this section or in the manual
 and specifications for a uniform system of traffic control devices shall be
 construed to require school zones to be indicated by signs equipped with
@@ -930,7 +930,7 @@ hereof.
 that term in Section 301.09. The Director may, upon request by resolution of Council, and upon
 submission by the Municipality of such engineering, traffic and other
 information as the Director considers necessary, designate a school zone on any
-portion of a  State route lying within the Municipality that includes a
+portion of a State route lying within the Municipality that includes a
 crosswalk customarily used by children going to or leaving a school during
 recess and opening and closing hours, whenever the distance, as measured in a
 straight line, from the school property line nearest the crosswalk to the
@@ -966,7 +966,7 @@ outerbelt, except as provided in subsection (b)(12) of this section;
     12. _(12)_ Sixty-five miles per hour on all portions of freeways or
 expressways without traffic control signals in urbanized areas.
 3. _(c)_ It is prima-facie unlawful for any person to exceed any of the speed
-limitations in subsection (b)(1)A. to  (b)(6) hereof, or any declared or
+limitations in subsection (b)(1)A. to (b)(6) hereof, or any declared or
 established pursuant to this section by the Director or local authorities and
 it is unlawful for any person to exceed any of the speed limitations in
 subsection (d) hereof. No person shall be convicted of more than one violation
@@ -1071,7 +1071,7 @@ two times the usual amount imposed for the violation upon an offender if the
 offender alleges, in an affidavit filed with the court prior to the offender’s
 sentencing, that the offender is indigent and is unable to pay the fine imposed
 pursuant to this subsection and if the court determines that the offender is an
-indigent person and unable to pay the fine. 
+indigent person and unable to pay the fine.
     4. _(4)_ If the offender commits the offense while distracted and the
 distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under Section 303.991 of the Traffic Code.  
@@ -1124,7 +1124,7 @@ misdemeanor of the third degree.
     2. _(2)_ Notwithstanding Section 303.99(b), upon a finding that a person operated a motor vehicle in violation
 of subsection (c) of this section, the court, in addition to all other
 penalties provided by law, shall impose a fine of two times the usual amount
-imposed for the violation. 
+imposed for the violation.
     3. _(3)_ If the offender commits the offense while distracted and the
 distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under Section 303.991 of the Traffic Code.
@@ -1219,7 +1219,7 @@ speeds established by Section 333.03 or rapidly accelerating from a common start
 excess of such prima-facie lawful speeds shall be prima-facie evidence of
 street racing.
 2. _(b)_ No person shall participate in street racing upon any public road,
-street or highway in this Municipality. 
+street or highway in this Municipality.
 3. _(c)_ Whoever violates this section is guilty of street racing, a
 misdemeanor of the first degree. In addition to any other sanctions, the court
 shall suspend the offender’s driver’s license, commercial driver’s license,
@@ -1248,7 +1248,7 @@ degree.
 1. _(a)_ Definitions. As used in this section:
     1. _(1)_ “Electronic wireless communications device” means a portable
 electronic device capable of transmitting and/or receiving data and includes
-the following:  a wireless telephone; a text-messaging device; a personal
+the following: a wireless telephone; a text-messaging device; a personal
 digital assistant; and a computer, including a laptop computer and a computer
 tablet.
     2. _(2)_ “Text message” means a message sent or received via a process using

@@ -31,7 +31,7 @@ appointment in the Village of Chagrin Falls, to be appointed for terms of four
 years by the Mayor, subject to the confirmation by a majority vote of the
 members of Council. Those members in office on the effective date of this
 provisions shall be permitted to complete their term of appointment, even if
-they are in contravention of this section. 
+they are in contravention of this section.
 
 2. _(b)_ Up to three alternate members of the Board of Zoning Appeals may be
 appointed by the Mayor and confirmed by a majority vote of the members of
@@ -41,7 +41,7 @@ None of the alternate members shall be members of Council and shall not
 simultaneously hold an appointment to the Planning Commission, but shall be
 electors of the municipality and shall not hold any other municipal officer
 appointment in the Village of Chagrin Falls. Each alternate member shall be
-appointed for a term of four years. 
+appointed for a term of four years.
 
 3. _(c)_ A vacancy occurring during the term of any member shall be filled for
 the unexpired term in the manner authorized for an original appointment,

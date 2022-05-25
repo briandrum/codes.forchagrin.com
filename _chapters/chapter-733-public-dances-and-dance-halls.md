@@ -32,7 +32,7 @@ chapter. As used in this chapter:
 
 1. _(a)_ "Public dance" means any dance or entertainment at which dancing is
 permitted which is open to the general public or at which a charge is made for
-admission or  attendance.
+admission or attendance.
 2. _(b)_ "Public dance hall" means any room, place or space in which public
 dances or public balls are held, for which dances or balls a charge or other
 valuable consideration is made or demanded for admission thereto or
@@ -61,7 +61,7 @@ application shall contain such information as the Mayor shall deem necessary.
 The fee for such license shall be six hundred dollars ($600.00) per year or any
 fraction thereof. The license shall expire on December 31 and there shall be no
 prorating of the fee.  
-(Ord. 1969-771. Passed 7-1-69; Ord. 1990-79. Passed 10-8-79; Ord. 2005-28. 
+(Ord. 1969-771. Passed 7-1-69; Ord. 1990-79. Passed 10-8-79; Ord. 2005-28.
 Passed 6-13-05.)
 
 ## 733.04   Denial of permit or license; appeal

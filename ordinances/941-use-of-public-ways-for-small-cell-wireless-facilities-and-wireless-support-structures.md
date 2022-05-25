@@ -30,7 +30,7 @@ title: "Chapter 941: Use of Public Ways for Small Cell Wireless Facilities and W
 
 ## Cross references
 
-Small cell design guidelines - see S.U. & P.S. Ch. 
+Small cell design guidelines - see S.U. & P.S. Ch.
 943
 
 ## 941.01   Overview and purpose; definitions
@@ -90,7 +90,7 @@ Small Cell Use Permit.
 any request for modification of an existing support structure or base station
 that does not substantially change the physical dimension of such support
 structure involving Collocation of new Facilities; removal of Facilities; or
-replacement of Facilities. A substantial change means:   
+replacement of Facilities. A substantial change means:  
         1. _(i)_ A modification that changes the physical dimension of a Wireless
 Support Structure by increasing the height of the Wireless Support Structure by
 more than ten percent (10%) or more than ten (10) feet, whichever is greater;
@@ -197,7 +197,7 @@ title.
 Applicants shall classify their Application as one of the following types:
 
 1. _(a)_ Type 1: Eligible Facilities Requests.
-2. _(b)_ Type 2:  Application for Collocation of Small Cell Equipment on a
+2. _(b)_ Type 2: Application for Collocation of Small Cell Equipment on a
 Wireless Support Structure that does not constitute an Eligible Facilities
 Request.
 3. _(c)_ Type 3: New Wireless Support Structure. Such applications will address
@@ -336,7 +336,7 @@ made complete, as described below:
     1. _(1)_ To toll the time period for incompleteness, the Village must
 provide written notice to the Applicant, specifically identifying all missing
 documents or information, within thirty (30) days after receiving the
-Application; except that where an Applicant has indicated that the  Application
+Application; except that where an Applicant has indicated that the Application
 is for a Small Wireless Facility, or a Wireless Support Structure upon which a
 Small Wireless Facility is to be mounted, the written notice shall be provided
 within ten (10) days after receiving the Application.

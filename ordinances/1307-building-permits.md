@@ -89,7 +89,7 @@ permit, such permittee will promptly and at the proper time, or at such times
 as instructed by the Inspector, replace and restore the street, pavement,
 sidewalk, tree lawn or other public property over any such opening to as good a
 state and condition as found previous to opening the same. Such deposit shall
-be held for such purposes and also in accordance with the provisions of Section 1307.11 and the provisions of Chapter 901. Upon the completion of  the work for which a permit has been granted, and
+be held for such purposes and also in accordance with the provisions of Section 1307.11 and the provisions of Chapter 901. Upon the completion of the work for which a permit has been granted, and
 when the Inspector is satisfied that all the conditions and requirements
 provided for herein have been satisfied, such deposit or any unused portion
 thereof may be returned to the permittee.
@@ -116,7 +116,7 @@ a height to receive the first tier of beams, girders or joists.
 ## 1307.05   Permits for superstructure
 
 (Editor’s note: Former Section 1307.05 was repealed by Ordinance 1980-5, passed January 28, 1980.)
-  
+ 
 
 ## 1307.06   Permits for minor interior repairs and alterations
 
@@ -230,9 +230,9 @@ Underground water pipes between the curb connection and the meter shall be
 ## 1307.13   Driveway permits
 
 Driveways shall be constructed in the manner specified by the Building
-Inspector. The  elevations and grades of that portion of the driveway within
-the normal sidewalk  limits must be such as to conform with the grade of the
-sidewalks which it adjoins and must provide a  uniform grade. Construction
+Inspector. The elevations and grades of that portion of the driveway within
+the normal sidewalk limits must be such as to conform with the grade of the
+sidewalks which it adjoins and must provide a uniform grade. Construction
 within the limits of the sidewalk must conform to the requirements of Chapter 903 covering the construction of sidewalks. The entire construction must be
 such as not to provide a public hazard.  
 (Ord. 1940-276. Passed 9-9-40.)
@@ -259,7 +259,7 @@ this Municipality regulating heating.
 
 1. _(a)_ Before proceeding with the installation, construction or excavation
 for a permanent swimming pool, a permit shall first be obtained from the
-Building Inspector by the owner of  the property upon which such swimming pool
+Building Inspector by the owner of the property upon which such swimming pool
 is to be installed, in accordance with the provisions of the Zoning Code and
 Building Code.
 2. _(b)_ Before a swimming pool permit is issued, a plot plan shall be
@@ -291,7 +291,7 @@ the issuance of a permit.
 
 Mere replacements of material of a minor nature may be made and installed
 without any permit.  
-(Ord. 1980-5. Passed 1-28-80; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28. 
+(Ord. 1980-5. Passed 1-28-80; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28.
 Passed 6-13-05.)
 
 ## 1307.19   Preliminary plot plan required
@@ -365,7 +365,7 @@ which difference shall be paid prior to any issuance of the building permit.
 Any difference between the final cost of the grade plan review and the
 Municipal Engineer’s estimate shall be paid prior to the issuance of a
 certificate of occupancy.  
-(Ord. 1933-53. Passed 12-12-83; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28. 
+(Ord. 1933-53. Passed 12-12-83; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28.
 Passed 6-13-05.)
 
 ## 1307.22   Amendment of plan to include method of drainage
@@ -395,7 +395,7 @@ the Building Code which authorizes appeals to the Board of Zoning Appeals.
 2. _(b)_ The Chief Administrative Officer shall create one or more forms to be
 utilized by any person who intends to appeal to the Board of Zoning Appeals any
 order, requirement, determination or other action regarding the Building Code
-of Chagrin Falls, but the failure to provide  such form or forms shall not
+of Chagrin Falls, but the failure to provide such form or forms shall not
 prohibit or impede the right of any aggrieved person to file an appeal to the
 Board of Zoning Appeals so long as the aggrieved person provides a description
 of the action that it being appealed, the date of the official action, and any
@@ -407,7 +407,7 @@ of Zoning Appeals regarding the Planning and Zoning Code of Chagrin Falls.
     1. _(1)_ Whenever any appeal is made to the Board of Zoning Appeals from
 any provision, regulation, order, requirement, determination or any other
 action by the Village in relation to the Building Code, the standard of review
-for any appeal regarding an area  regulation shall be the same as provided for
+for any appeal regarding an area regulation shall be the same as provided for
 area variances found in Section 1111.07(c) of the Planning and Zoning Code.
     2. _(2)_ Whenever the appeal relates to seeking a variance from required
 construction materials or methods, the standard of review shall be as follows:
@@ -425,15 +425,15 @@ Code, alleging error by such official, the Board of Zoning Appeals may affirm,
 modify and affirm, or reverse such decision in the event that it determines the
 decision was illegal, arbitrary, capricious, unreasonable or unsupported by the
 preponderance of substantial, reliable, and probative evidence on the whole
-record. 
+record.
 5. _(e)_ Advice of Expert on Economic Feasibility. If, in reviewing a request
 for a variance, or an appeal alleging error by an official of the Village,
 relating to the Building Code, the Administrator or Chairman of the Board of
-Zoning Appeals determines that  the advice of an expert in applying building
+Zoning Appeals determines that the advice of an expert in applying building
 codes or construction of buildings and structures is necessary to assist in the
 analysis of determining whether or not the variance request or any appeal
-alleging error is appropriate and if in applying the  standard of review
-confirms that relief is appropriate, the Administrator  shall  engage an expert
+alleging error is appropriate and if in applying the standard of review
+confirms that relief is appropriate, the Administrator shall engage an expert
 at the applicant’s expense, to provide such advice. The Administrator may
 require the applicant to deposit a sum estimated to cover the cost to have the
 expert provide such advice and attend any hearing or meeting.  

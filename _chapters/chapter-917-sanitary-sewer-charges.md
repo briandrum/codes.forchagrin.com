@@ -11,7 +11,7 @@ title: "Chapter 917: Sanitary Sewer Charges"
 * [917.03   Disposition of funds](#91703-disposition-of-funds)
 * [917.04   Sanitary sewer charges and connection fees](#91704-sanitary-sewer-charges-and-connection-fees)
 * [917.05   Additional charges for industrial wastes](#91705-additional-charges-for-industrial-wastes)
-* [917.06   Collection of charges; leased  lots](#91706-collection-of-charges-leased-lots)
+* [917.06   Collection of charges; leased lots](#91706-collection-of-charges-leased-lots)
 * [917.07   Treatment of certain wastes required](#91707-treatment-of-certain-wastes-required)
 * [917.99   Penalty](#91799-penalty)
 

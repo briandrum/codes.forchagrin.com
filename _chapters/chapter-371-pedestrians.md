@@ -18,7 +18,7 @@ title: "Chapter 371: Pedestrians"
 * [371.10   On bridges or railroad crossings](#37110-on-bridges-or-railroad-crossings)
 * [371.11   Persons operating motorized wheelchairs](#37111-persons-operating-motorized-wheelchairs)
 * [371.12   Electric personal assistive mobility devices](#37112-electric-personal-assistive-mobility-devices)
-* [371.13   Operation of personal delivery device on sidewalks and  crosswalks](#37113-operation-of-personal-delivery-device-on-sidewalks-and-crosswalks)
+* [371.13   Operation of personal delivery device on sidewalks and crosswalks](#37113-operation-of-personal-delivery-device-on-sidewalks-and-crosswalks)
 * [371.14   Low-speed micromobility devices](#37114-low-speed-micromobility-devices)
 
 ## Cross references
@@ -46,7 +46,7 @@ Section 371.03(b).
 4. _(d)_ Whenever any vehicle is stopped at a marked crosswalk or at any
 unmarked crosswalk at an intersection to permit a pedestrian to cross the
 roadway, the driver of any other vehicle approaching from the rear shall not
-overtake and pass the stopped vehicle. 
+overtake and pass the stopped vehicle.
 5. _(e)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -140,7 +140,7 @@ outside edge of the roadway, and, if on a two-way roadway, shall walk only on
 the left side of the roadway.
 4. _(d)_ Except as otherwise provided in Section 313.03 and
 371.01, any pedestrian upon a roadway shall yield the right of way to all
-vehicles upon the roadway. 
+vehicles upon the roadway.
 5. _(e)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -199,7 +199,7 @@ semitrailer.
 6. _(f)_ No driver of a truck, trailer or semitrailer shall permit any person,
 except for those workers performing specialized highway or street maintenance
 or construction under authority of a public agency to ride in the cargo storage
-area or on a tailgate of the driver’s vehicle while the tailgate is unlatched. 
+area or on a tailgate of the driver’s vehicle while the tailgate is unlatched.
 7. _(g)_
     1. _(1)_ Except as otherwise provided in this subsection, whoever
 violates any provision of subsections (a) to (d) of this section is guilty of a
@@ -238,7 +238,7 @@ offender is subject to the additional fine established under Section 303.991 of 
 Section 331.21, every pedestrian shall yield the right of way to the public safety
 vehicle.
 2. _(b)_ This section shall not relieve the driver of a public safety vehicle
-from the duty to exercise due care to avoid colliding with any pedestrian. 
+from the duty to exercise due care to avoid colliding with any pedestrian.
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -253,7 +253,7 @@ misdemeanor of the third degree.
 
 1. _(a)_ A pedestrian who is under the influence of alcohol, any drug of abuse,
 or any combination of them, to a degree that renders the pedestrian a hazard
-shall not walk or be upon a highway. 
+shall not walk or be upon a highway.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -271,7 +271,7 @@ thereto beyond the bridge signal, gate or barrier after a bridge operation
 signal indication has been given.
 2. _(b)_ No pedestrian shall pass through, around, over or under any crossing
 gate or barrier at a railroad grade crossing or bridge while the gate or
-barrier is closed or is being opened or closed. 
+barrier is closed or is being opened or closed.
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -363,7 +363,7 @@ the total storage, processing, and release fees assessed against the offender
 or the device in connection with the device’s impoundment or subsequent release
 shall not exceed fifty dollars ($50.00).
         2. _(B)_ If the court does not issue an impoundment order pursuant to
-subsection (f)(2)A.  hereof, issue an order prohibiting the offender from
+subsection (f)(2)A. hereof, issue an order prohibiting the offender from
 operating any electric personal assistive mobility device on the public
 streets, highways, sidewalks, and paths and portions of roadways set aside for
 the exclusive use of bicycles for not less than one day but not more than

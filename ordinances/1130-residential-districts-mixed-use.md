@@ -20,15 +20,10 @@ title: "Chapter 1130: Residential Districts: Mixed Use"
 
 ## Cross references
 
-              Dwelling defined - see P. & Z.
-1107.07
-              Off-street parking -see P. & Z.
-1141.05
-              Signs permitted - see P. & Z.
-1143.04(h),
-1143.07
-              Home occupation defined - see P. & Z.
-1107.11
+* Dwelling defined - see P. & Z. 1107.07
+* Off-street parking -see P. & Z. 1141.05
+* Signs permitted - see P. & Z. 1143.04(h), 1143.07
+* Home occupation defined - see P. & Z. 1107.11
 
 ## 1130.01   Intent
 
@@ -66,8 +61,8 @@ Municipal Engineer and other Municipal officers as applicable.
 
 ## 1130.03   Permitted uses
 
-       In a Residential Mixed Use (RMU) District, building and land shall be
-used by right for only the main and accessory uses set forth below:
+In a Residential Mixed Use (RMU) District, building and land shall be used by
+right for only the main and accessory uses set forth below:
 
 1. _(a)_ Main Uses.
     1. _(1)_ Detached one (1F) and two (2F) family dwellings.as permitted in R1-
@@ -147,19 +142,19 @@ maximum height of fifteen feet above the roof line.
 
 ## 1130.06   Yard and setback regulations
 
-     In the RMU District, land and structures shall be developed and maintained
-in accordance with the following yard and setback regulations. Landscape
-features, gardens, fences, walls and signs shall be permitted in setback 
-areas, provided that such uses conform to applicable regulations of this
-Planning and Zoning Code. Other accessory uses are permitted in setbacks only
-in accordance with the setback regulations of subsection (b)(2) hereof.
+In the RMU District, land and structures shall be developed and maintained in
+accordance with the following yard and setback regulations. Landscape features,
+gardens, fences, walls and signs shall be permitted in setback areas, provided
+that such uses conform to applicable regulations of this Planning and Zoning
+Code. Other accessory uses are permitted in setbacks only in accordance with the
+setback regulations of subsection (b)(2) hereof.
 
 1. _(a)_ Detached One (1F) and Two (2F) Family Dwellings.
     1. _(1)_ Yards.  The minimum setback from a lot line to a dwelling shall be
 as set forth below.
                                           R1 R2
 A.   Front yard setback, minimum (feet)30 30
-B.   Side yard setback, minimum (feet)  
+B.   Side yard setback, minimum (feet) 
 
 With attached garage:
 
@@ -183,7 +178,7 @@ established in subsection (a) hereof.
 2. _(b)_ Attached Single Family (ASF).
     1. _(1)_ Yards. The minimum yard setback from a lot line to a main building
 shall be as set forth below.
- 
+
                   Minimum Setback (Feet)
 Number of Stories To Street R.O.W. To R1 District Line To Other Lot Line
 In Main Building  or Private Road
@@ -192,7 +187,7 @@ In Main Building  or Private Road
 3                 35               55                  35
     2. _(2)_ Setbacks.  The minimum setback from a lot line to an accessory
 structure or use shall be as set forth below.
- 
+
                                         Minimum Setback
                                         (feet)
 Accessory Uses        To Front Lot Line To R1 District Line To Other Lot Line
@@ -208,11 +203,11 @@ as necessary in providing access to a public right of way.
 family development adjoins a One-Family District shall not apply within the RMU
 District, but all buffer requirements shall apply between the RMU District and
 contiguous districts zoned for one-family dwellings.
-3. _(c)_ Projection of Building Features into Setbacks. 
+3. _(c)_ Projection of Building Features into Setbacks.
     1. _(1)_ Certain architectural features may project from a main building
 into any setback a maximum distance of three feet. However, no such feature
 shall extend to within three feet of a side lot line or into a setback any
-distance greater than a setback line that has been established by a variance. 
+distance greater than a setback line that has been established by a variance.
 For purposes of this subsection, architectural features shall include awnings,
 balconies, bay windows, belt courses, canopies, cornices, projecting eaves and
 other overhangs.
@@ -229,16 +224,16 @@ shall meet the setback requirements of the main building.
 
 ## 1130.07   Landscaping requirements for one and two family dwellings
 
-     A zoning certificate for development of a one (1F) or two (2F) family
-dwelling under the regulations of this chapter shall not be issued unless such
+A zoning certificate for development of a one (1F) or two (2F) family dwelling
+under the regulations of this chapter shall not be issued unless such
 development conforms with the requirements of Section 1125.06.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.08   Distances between buildings and uses
 
-     In the RMU District, attached single family (ASF) dwellings shall be
-developed and maintained in accordance with the following regulations regarding
-the required distances between buildings and other uses.
+In the RMU District, attached single family (ASF) dwellings shall be developed
+and maintained in accordance with the following regulations regarding the
+required distances between buildings and other uses.
 
 1. _(a)_ Definitions and Measurement Standards. The following definitions and
 measurement standards shall apply to terms used in this section.
@@ -255,9 +250,9 @@ intersect with the second wall.
 from which perpendicular lines will intersect a second wall. In determining
 the length of overlap, the minimum possible overlap shall be used for
 computation.
-    5. _(5)_ "Facing walls."  Although more than one set of walls may be
+    5. _(5)_ "Facing walls." Although more than one set of walls may be
 "overlapping" in the relationship between two buildings, only one set of two
-walls shall be considered "facing".  "Facing walls" means those two overlapping
+walls shall be considered "facing". "Facing walls" means those two overlapping
 walls for which the length of the overlap is the greater.
 2. _(b)_ Schedule of Distances. The minimum distance between walls of main
 buildings and other walls or uses shall be as set forth in the following
@@ -290,7 +285,7 @@ the facades of not more than every two dwelling units shall be offset by at
 least sixteen inches. No more than eight units shall be located in one
 building.
     3. _(3)_ Buildings may be attached if it is determined by the Planning and
-Zoning Commission  that site design will be improved as a result. However,
+Zoning Commission that site design will be improved as a result. However,
 attached buildings shall be designed with visible offsets or setbacks not less
 than six feet in depth or with substantial variations in alignment.
 2. _(b)_ Site Design. Developments shall be designed to complement the
@@ -308,7 +303,7 @@ compliance with these requirements is either clearly infeasible or contrary to
 compliance with the design regulations and standards of this section. However,
 the maximum permitted density shall not be increased by reason of this
 provision. Applicants shall first seek modifications under this section prior
-to filing an application as set forth in Section 1111.03 for a variance for areas, yards, setbacks and distances between uses. 
+to filing an application as set forth in Section 1111.03 for a variance for areas, yards, setbacks and distances between uses.
 4. _(d)_ Common Open Space.  As required in Section 1130.04(d), at least ten percent (10%) of the total area of the development
 shall be reserved as common open space in ASF developments and shall comply
 with the requirements of Section 1127.07(d) of this Planning and Zoning Code.
@@ -320,13 +315,14 @@ development shall be located underground. All rooftop mechanical equipment
 shall be enclosed in a manner which complements the architectural style of the
 building on which it is located. (Ord. 2016-59. Passed 11-14-16.)
 7. _(g)_ Accessory Structures.
-    1. _(1)_ R1/R2:  Accessory structures are permitted as regulated in Section 1125.04.
+    1. _(1)_ R1/R2: Accessory structures are permitted as regulated in Section 1125.04.
     2. _(2)_ ASF   Fifteen feet in height, maximum.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.10   Supplemental parking regulations
 
-     In addition to the applicable parking regulations of Chapter 1141, the following parking regulations shall apply.
+In addition to the applicable parking regulations of Chapter 1141, the following
+parking regulations shall apply.
 
 1. _(a)_ Large Vehicles.  Vehicles exceeding nineteen (19) feet in length or
 seven (7) feet in width, or eight (8) feet in height are considered large
@@ -355,13 +351,12 @@ in order to improve design.
 5. _(e)_ ASF.
     1. _(1)_ In addition to the parking required in Chapter 1141 , a minimum of one-half (0.5) off-street parking space per dwelling unit
 shall be provided in unenclosed common parking areas distributed throughout
-the  development in a manner providing convenient access to all dwelling units.  
+the development in a manner providing convenient access to all dwelling units.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.11   Supplemental regulations
 
-       For regulations regarding off-street parking and loading, landscaping,
-lighting, signs and environmental performance, refer to Chapters
-1141 -
-1150 of the Planning and Zoning Code.  
+For regulations regarding off-street parking and loading, landscaping, lighting,
+signs and environmental performance, refer to Chapters 1141 - 1150 of the
+Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)

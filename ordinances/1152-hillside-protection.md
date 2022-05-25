@@ -21,10 +21,10 @@ title: "Chapter 1152: Hillside Protection"
 
 ## 1152.01   Intent
 
-     Whereas the hillside areas of the Municipality differ from the
-Municipality’s flatlands, hillsides necessitate different provisions for their
-development and their protection. The Hillside Protection Regulations are
-established to achieve, among others, the following objectives:
+Whereas the hillside areas of the Municipality differ from the Municipality’s
+flatlands, hillsides necessitate different provisions for their development and
+their protection. The Hillside Protection Regulations are established to
+achieve, among others, the following objectives:
 
 1. _(a)_ To permit development on hillside areas while conserving and promoting
 the public health, safety, convenience and general welfare by minimizing
@@ -112,11 +112,11 @@ surface constructed on or over as specified in this chapter.
 
 ## 1152.03   Procedures
 
-     Upon the filing of a request for approval of a building permit, grade plan
-approval or subdivision, the Administrator shall use the following procedures
-to determine whether the proposed action is governed by provisions of this
-chapter and whether a hillside protection permit is required for a parcel or
-part of a parcel.
+Upon the filing of a request for approval of a building permit, grade plan
+approval or subdivision, the Administrator shall use the following procedures to
+determine whether the proposed action is governed by provisions of this chapter
+and whether a hillside protection permit is required for a parcel or part of a
+parcel.
 
 1. _(a)_ The average percent slope shall be calculated, and this information
 shall be supplied by the applicant at the time of filing of the application
@@ -132,12 +132,14 @@ a building permit or subdivision permit is issued to the owner or developer by
 the Municipality. A hillside protection permit shall be issued in phases as
 determined by the Administrator and the Municipal Engineer before the next
 phase permit will be issued.
-     Refer to Section 1152.06 for additional information on administration and enforcement.  
+
+Refer to Section 1152.06 for additional information on administration and
+enforcement.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1152.04   Required hillside control measures, standards and plans
 
-     The owner/developer shall comply with the following provisions:
+The owner/developer shall comply with the following provisions:
 
 1. _(a)_ Pre-Construction Record. A photographic record shall be filed with
 the Administrator prior to any building, grading or clearing activity on the
@@ -197,7 +199,7 @@ dates.
 earth moving:
     1. _(1)_ Minimum alterations.  Earth moving shall be limited to the minimum
 required for building foundations, driveways, drainage control structures and
-immediate yard areas. 
+immediate yard areas.
     2. _(2)_ Erosion control. All earth moving shall create the lowest possible
 potential for airborne or waterborne transportation of soil.
     3. _(3)_ Compaction.  All fill shall be stabilized in conformance with
@@ -271,7 +273,7 @@ earth moving and construction.
 8. _(h)_ Landscape Plan.  A landscape plan, prepared or approved in writing by
 a professional registered landscape architect trained and experienced in both
 the characteristics of plant material and proper procedures for installation,
-shall be submitted with each application for a hillside protection permit. 
+shall be submitted with each application for a hillside protection permit.
 This plan shall include the following:
     1. _(1)_ Existing inventory. A site plan inventory describing the existing
 vegetation cover of the property and showing those areas where the vegetation
@@ -295,8 +297,8 @@ chapter.
 
 ## 1152.05   Hold harmless provisions
 
-     The following hold harmless provisions pertain to any construction or any
-earth moving activities permitted by the administration of this chapter:
+The following hold harmless provisions pertain to any construction or any earth
+moving activities permitted by the administration of this chapter:
 
 1. _(a)_ Limited Obligation. Compliance with the procedures of this chapter
 and the issuance of any related permits shall not be construed to impose any

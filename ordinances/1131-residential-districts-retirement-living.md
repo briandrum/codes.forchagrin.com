@@ -18,31 +18,29 @@ title: "Chapter 1131: Residential Districts: Retirement Living"
 
 ## Cross references
 
-                 Off-street parking - see P. & Z.
-1141.05
-                 Signs permitted - see P.& Z.
-1143.07
-                 Satellite dish antennas - see BLDG.
-1350.11
+* Off-street parking - see P. & Z. 1141.05
+* Signs permitted - see P.& Z. 1143.07
+* Satellite dish antennas - see BLDG. 1350.11
 
 ## 1131.01   Intent
 
-     In addition to the applicable provisions of the intent stated in Section 1105.03 , it is the intent of these district regulations to promote the
-development of appropriately located  housing for persons of retirement age and
-to provide in such locations dining, recreation and health center facilities
-for the comfort and convenience of such persons.  
+In addition to the applicable provisions of the intent stated in Section 1105.03
+, it is the intent of these district regulations to promote the development of
+appropriately located housing for persons of retirement age and to provide in
+such locations dining, recreation and health center facilities for the comfort
+and convenience of such persons.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1131.02   Permitted uses
 
-     In a Retirement Living District, buildings and land shall be used by right
-for only the main and accessory uses set forth below.
+In a Retirement Living District, buildings and land shall be used by right for
+only the main and accessory uses set forth below.
 
 1. _(a)_ Main Uses.
     1. _(1)_ Attached single-family (ASF) dwellings
     2. _(2)_ Retirement Living Center (RLC) building, consisting of residential
 units with full dining service and other support services provided within the
-building. 
+building.
 2. _(b)_ Accessory Uses.
     1. _(1)_ Health centers and recreation facilities primarily for the use of
 residents of the Retirement Living District.
@@ -52,7 +50,7 @@ residents of the Retirement Living District.
 enclosed within separate buildings or otherwise permitted buildings, except
 that maintenance and repair of trucks, tractors, automobiles and similar
 vehicles shall not be permitted within residential buildings.
-    5. _(5)_ Landscape features, private gardens, fences, walls and hedges as 
+    5. _(5)_ Landscape features, private gardens, fences, walls and hedges as
 regulated in Chapters
 1142 and
 1148.
@@ -83,7 +81,7 @@ and along the length of each vehicular access through a yard.
 5. _(e)_ Building Coverage (all main and
 accessory buildings): 30% maximum.
 6. _(f)_ Common Open Space: 500 square feet of
-lot area, minimum, per dwelling unit  as defined and regulated in Section
+lot area, minimum, per dwelling unit as defined and regulated in Section
 1131.07(f).
 7. _(g)_ Dwelling Unit Area:
     * RLC: 300 square feet minimum for an efficiency unit, 750 square feet
@@ -126,7 +124,7 @@ accordance with the setback regulations of subsection (b) hereof.
 
 1. _(a)_ Yards. The minimum setback from a lot
 line to a main building shall be as set forth below.
- 
+
                   Minimum Setback (Feet)
 Number of Stories To Street R.O.W. To R1 District Line To Other Lot Line
 In Main Building
@@ -135,7 +133,7 @@ In Main Building
 3                 35               55                  35
 2. _(b)_ Setbacks. The minimum setback from a lot line to an accessory
 structure or use shall be as set forth in the following table:
- 
+
                       Minimum Setback (feet)
 Accessory Uses        To Front Lot Line To R1 District Line To Other Lot Line
 Buildings and         *                 35                  15
@@ -147,11 +145,11 @@ Walkways              0                 5                   5
 __________________________
 \* Not permitted in front yards, except that private roads are permitted only as
 necessary in providing access to a public right of way.
-3. _(c)_ Projection of Building Features into Setbacks. 
+3. _(c)_ Projection of Building Features into Setbacks.
     1. _(1)_ Certain architectural features may project from a main building
 into any setback a maximum distance of three feet. However, no such feature
 shall extend to within three feet of a side lot line or into a setback any
-distance greater than a setback line that has been established by a variance. 
+distance greater than a setback line that has been established by a variance.
 For purposes of this subsection, architectural features shall include awnings,
 balconies, bay windows, belt courses, canopies, cornices, projecting eaves and
 other overhangs.
@@ -207,7 +205,7 @@ Secondary wall, facing:     Another secondary wall     25+x
                             Surface parking area       10
 Accessory building, facing: Another accessory building 15
                             Private road*              10
-________________________   
+________________________  
 x = length of overlap divided by 5.
 * "private road" excludes a drive providing direct access to a Retirement
 Living Center building.  
@@ -215,9 +213,8 @@ Living Center building.
 
 ## 1131.07   Design regulations and standards
 
-     In a Retirement Living District, land and structures shall be developed
-and maintained in accordance with the following design regulations and
-standards.
+In a Retirement Living District, land and structures shall be developed and
+maintained in accordance with the following design regulations and standards.
 
 1. _(a)_ Building Design. Retirement Living Center. The maximum length of any
 main or accessory building wall shall be 100 feet. However, building length may
@@ -248,7 +245,7 @@ infeasible or contrary to compliance with the design regulations and standards
 of this section. However, the maximum permitted density shall not be increased
 by reason of this provision. Applicants shall first seek modifications
 permitted under this section prior to filing an application as set forth in
-Section 1111.03 for a variance for areas, yards, setbacks and distances between uses. 
+Section 1111.03 for a variance for areas, yards, setbacks and distances between uses.
 6. _(f)_ Common Open Space. As required in Section 1131.03(f), at least 500 square feet of land per dwelling unit shall be
 reserved as common open space in Retirement Living Districts.
     1. _(1)_ Required characteristics. Land designated as common open space
@@ -281,7 +278,7 @@ preserve and maintain such open space.
         3. _(C)_ In the event the open space is owned in common by more than one
 owner directly or indirectly, a non-profit association shall be incorporated
 under the laws of the State of Ohio and such association shall be the owner in
-unencumbered fee simple title. 
+unencumbered fee simple title.
         4. _(D)_ All common open space shown on the site plan must be subject to
 legally enforceable declarations and restrictions. Such declarations and
 restrictions shall grant enforcement rights to the Municipality as a third-
@@ -303,13 +300,14 @@ style of the building on which it is located.
 
 ## 1131.08   Off-street parking regulations
 
-     In addition to the applicable regulations of Chapter 1141, the following parking regulations shall apply to attached single-family
-developments in a Retirement Living District.
+In addition to the applicable regulations of Chapter 1141, the following parking
+regulations shall apply to attached single-family developments in a Retirement
+Living District.
 
 1. _(a)_ Common Parking Areas. In attached single-family developments, a
 minimum of one-half (0.5) off-street parking space per dwelling unit shall be
 provided in unenclosed common parking areas distributed throughout the
-developments in a manner providing convenient access to all dwelling units. 
+developments in a manner providing convenient access to all dwelling units.
 This requirement shall be in addition to the parking requirements of Chapter 1141.
 2. _(b)_ Garages. In attached single-family developments, each garage shall be
 provided for the exclusive use of a single dwelling unit and shall be attached
@@ -323,8 +321,7 @@ prohibited.
 
 ## 1131.09   Supplemental regulations
 
-       For regulations regarding off-street parking and loading, landscaping,
-lighting, signs and environmental performance, refer to Chapters
-1141 -
-1150 of the Planning and Zoning Code.  
+For regulations regarding off-street parking and loading, landscaping, lighting,
+signs and environmental performance, refer to Chapters 1141 - 1150 of the
+Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)

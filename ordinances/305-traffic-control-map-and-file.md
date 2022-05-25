@@ -75,13 +75,13 @@ regulation shall be punished as provided in Section 303.99.
 APPENDIX A - TRAFFIC MAP AMENDMENTS
 Ord. No.    Date       Description
 1960-481    5-23-60    No parking on east side of Main St. between Washington
-St. and  corporation line; and on west side of Main St. for 50 feet, both 
-sides, at its intersection with Belleview Ave., and 75 feet north  of
+St. and corporation line; and on west side of Main St. for 50 feet, both
+sides, at its intersection with Belleview Ave., and 75 feet north of
 corporation line.
 1961-512    5-8-61       Falls Rd. entering North St., designated as stop
 street.
 1961-515    6-12-61    (1)    Thirty-minute parking north side of Orange St.
-from Main St.  to American Legion Hall.
+from Main St. to American Legion Hall.
             (2)    Parallel parking only on south side of Washington St. from
 Franklin St. to Masonic Building alley.
             (3)    Left turn mandatory from center lane of southbound traffic
@@ -90,7 +90,7 @@ on N. Main St. into Bell St.
 Washington St., Walnut St., S. Franklin St., N. Main St. and Municipal Lot near
 post office.
 1962-547A    9-24-62    Meters installed on west side of West St. from Orange
-St. to  River St.
+St. to River St.
 1963-556    1-14-63    Hall St. one-way eastbound from Franklin to Walnut Sts.
 1963-567    3-25-63    (1)    Parallel parking on both sides of N. Main St.
 from E. and W. Orange St. to E. and W. Cottage St.
@@ -98,14 +98,14 @@ from E. and W. Orange St. to E. and W. Cottage St.
 specified in (1).
 1963-574    6-10-63    One-hour parking on east side of American St.
 1963-575    6-10-63    Commercial vehicles prohibited on Vincent St. from Bell
-to  Cleveland, on American St. from Bell to Vincent, on Columbus  St. from
+to Cleveland, on American St. from Bell to Vincent, on Columbus St. from
 Cleveland to American.
 1964-607A    10-26-64    No parking on west side of S. Main St. from E.
 Washington St. to May Court.
 1965-613    2-8-65       Parking prohibited on west side of S. Main St. from
 222 feet south of center line of E. Washington St. to May Ct.
 1965-618A    5-10-65    Addition of a parking meter zone on:
-(1)    South side of Bell St. from intersection of Pleasant Dr.  easterly a
+(1)    South side of Bell St. from intersection of Pleasant Dr. easterly a
 distance of approximately 400 feet.
 (2)    West side of Pleasant Dr. from Bell St. to Plaza Dr.
 (3)    South side of Plaza Dr. from Main St. to Pleasant Dr.
@@ -134,7 +134,7 @@ Ord. No.    Date       Description
             High St.
             No parking both sides, from North Cleveland St. east to the dead
 end.
-            No parking south side, from west property line of 184 High St. 
+            No parking south side, from west property line of 184 High St.
 east to North Cleveland St.
             No parking both sides, from North St. 100 ft. east.
             Bellview St.
@@ -145,47 +145,47 @@ east to North Cleveland St.
             South Franklin
             East side, two-hour metered parking from Washington St. to 50 ft.
 south.
-            No parking from 50 ft. south of Washington St. to Village line  at
+            No parking from 50 ft. south of Washington St. to Village line at
 South St.
             Pleasant Dr.
-            No parking both sides, except from 200 ft. south of Bell St. on 
+            No parking both sides, except from 200 ft. south of Bell St. on
 the west side.
             Two-hour metered parking west side from Bell 200 ft. south.
             East Washington St.
-            No parking both sides, from South Franklin St. east to Village 
+            No parking both sides, from South Franklin St. east to Village
 line.
             West Washington St.
-            No parking on the North side from Franklin St. to Church St., 
+            No parking on the North side from Franklin St. to Church St.,
 except five-minute parking in front of Post Office property.
-            South side from Franklin St. west to Walnut St., two-hour  metered
+            South side from Franklin St. west to Walnut St., two-hour metered
 parking.
             No parking from Water St. west to Church St., both sides.
 Ord. No.    Date       Description
 1967-683    4-18-67    Church St.
             No parking east side, from West Washington St. to Maple St.
-            No parking from West Washington St. to 200 ft. south on the  west
+            No parking from West Washington St. to 200 ft. south on the west
 side.
             No parking from Maple St. 200 ft. north on the west side.
             South Main St.
             No parking east side, from Washington St. south to Village line.
-            No parking west side, from 150 ft. south of Washington St.  south
+            No parking west side, from 150 ft. south of Washington St. south
 to 100 ft. south of May Court.
             Two-hour metered parking, from Washington St. 150 ft. south.
             No parking west side, from South St. 300 ft. north.
             North Main St.
             Two-hour metered parking from Washington St. to Orange St.
             Two-hour parking from Orange St. north to Cottage St.
-            No parking north from Cottage St. to 200 ft. north of Summit  St.,
+            No parking north from Cottage St. to 200 ft. north of Summit St.,
 both sides.
             Solon Rd.
             No parking both sides, from Maple St. south to Village line.
             Bell St.
             No parking north side, from Main St. east to Village line.
-            South side, two-hour metered parking from Main St. to the  east
+            South side, two-hour metered parking from Main St. to the east
 drive to the shopping center.
-            No parking from the east drive to the shopping center to the 
+            No parking from the east drive to the shopping center to the
 Federated Church.
-            No parking south side, from 300 ft. east of Philomethian St.  east
+            No parking south side, from 300 ft. east of Philomethian St. east
 to Village line.
             Hall St.
             No parking both sides, from Walnut St. to Franklin St.
@@ -202,7 +202,7 @@ to Village line.
             North Franklin St.
             Two-hour metered parking.
             South Franklin St.
-            West side, two-hour metered parking from Washington St. to  Center
+            West side, two-hour metered parking from Washington St. to Center
 St.
             No parking west side, from Center to Maple St.
             Walters Rd.
@@ -239,10 +239,10 @@ St.
             No parking both sides, from South Franklin to Monticello Dr.
             Monticello Dr.
             No parking both sides, from Carriage Stone Dr. south to Solon Rd.
-            No parking on the west side of Monticello Dr., from Carriage  Stone
+            No parking on the west side of Monticello Dr., from Carriage Stone
 Dr. north to the center of the cul-de-sac.
             Applebrook
-            No parking both sides, from Falls Rd. to the end of the  cul-de-
+            No parking both sides, from Falls Rd. to the end of the cul-de-
 sac.
             Coy Lane - Applebrook
             No parking both sides to the cul-de-sac on both streets.
@@ -256,8 +256,8 @@ intersections:
 Ord. No.   Date       Description
 1967-696    9-19-67    (1)    Stop Streets.
 
-The following are designated as stop streets and all vehicles  thereon shall
-stop before entering the intersection of the second  street, unless otherwise
+The following are designated as stop streets and all vehicles thereon shall
+stop before entering the intersection of the second street, unless otherwise
 directed by a policeman or traffic control device:
 West Washington at Water St. - eastbound
 West Washington at Water St. - westbound
@@ -266,9 +266,9 @@ Church at Center St. - northbound
 Church at Center St. - southbound
 (2)    Four-Way Streets.
 
-The following streets are designated as four-way streets and all  vehicles
-shall stop before entering the intersection from any  direction, unless
-otherwise directed by a policeman or traffic  control device:
+The following streets are designated as four-way streets and all vehicles
+shall stop before entering the intersection from any direction, unless
+otherwise directed by a policeman or traffic control device:
 Water St. at Center St.
 Walnut St. at Center St.
 1968-718    4-16-68    North Franklin Street.
@@ -277,34 +277,34 @@ Walnut St. at Center St.
             South Franklin Street
             No parking on the east side, from West Washington St. to South St.
 1968-721    6-18-68    Three-Way Stop Streets.
-            The following street is designated as a three-way stop street and 
-all vehicles shall stop before entering the intersection from any  direction,
-unless otherwise directed by a policeman or traffic  control device:
+            The following street is designated as a three-way stop street and
+all vehicles shall stop before entering the intersection from any direction,
+unless otherwise directed by a policeman or traffic control device:
             High St. and North Cleveland St.
 1968-737    9-3-68       One-Way Street.
             Eastbound on Bellview St. from Bradley St. to South Main St.
 1969-785    11-4-69    Bell St.
-            No parking south side, from the east boundary line of the 
+            No parking south side, from the east boundary line of the
 Federated Church to Philomethian Street.
 1970-811    10-6-70    No Parking.
             The following streets have no parking restrictions:
-            Green Briar Dr. north side, from Solon Rd. east to Somerset,  south
+            Green Briar Dr. north side, from Solon Rd. east to Somerset, south
 side, Solon Rd. to Green Haven.
             South side approximately fifty feet west of Somerset to Somerset.
             Somerset west side from Greenbriar, south to Hawthorne.
             Somerset east side about fifty feet north of Hawthorne Dr. to
 Hawthorne.
-            Hawthorne Drive, south side from Somerset west to half-way  around
+            Hawthorne Drive, south side from Somerset west to half-way around
 the cul-de-sac.
             Greenhaven, east side from Greenbriar south to Hawthorne Dr.
 Ord. No.   Date       Description
 1971-820    3-2-71       Williams Street
-No parking east side between West Orange St. and the end  of such street.
+No parking east side between West Orange St. and the end of such street.
 1973-896    3-6-73       Walnut Street
-No parking on the west side from its intersection with Center  and Maple
+No parking on the west side from its intersection with Center and Maple
 Streets.
 1975-974    6-17-75    Right Turns on Red Prohibited.
-No operator of a motor vehicle shall make a right turn against  a steady red
+No operator of a motor vehicle shall make a right turn against a steady red
 traffic signal at any of the following intersections:
 (1)    Philomethian and Bell;
 (2)    Philomethian and Washington;
@@ -320,23 +320,23 @@ traffic signal at any of the following intersections:
             (2)    Stop sign:
                  Intersection of May Court and new Elm Court.
             (3)    Permitted parking:
-               East side of Somerset Drive, even though on fire hydrant  side.
+               East side of Somerset Drive, even though on fire hydrant side.
 1977-1071    7-5-77       Stop Sign.
 The following street is designated as a stop street and all vehicles shall stop
 before entering the intersection of the second street, unless otherwise
 directed by a policeman or traffic control device:
 Bellview Street at Bradley Street - eastbound.
 1977-1080    12-20-77    Left Turn Prohibited.
-(a)    For traffic exiting from Pleasant Drive onto East  Washington Street.
+(a)    For traffic exiting from Pleasant Drive onto East Washington Street.
 (b)    For traffic exiting from Pleasant Drive onto Bell Street.
 1979-1142    2-12-79    Left Turn Prohibited.
 For traffic exiting from Washington Street, eastbound, turning onto North
 Franklin Street.
 1979-1181    10-22-79    Parking Restriction.
-Parking is prohibited in excess of four hours in any consecutive  time period
-in all parking spaces in Riverside Park, except  those on the east boundary.
+Parking is prohibited in excess of four hours in any consecutive time period
+in all parking spaces in Riverside Park, except those on the east boundary.
 1980-45    7-14-80    Stop Sign. Stop sign for eastbound traffic on River
-Street at  the southwest point of the intersection with West Street.
+Street at the southwest point of the intersection with West Street.
 Ord. No.   Date   Description
 1987-9      3-24-87   Prohibited Parking Zones.
 Both sides of Senlac Hills Dr. from E. Washington to Hastings Lane.
@@ -396,7 +396,7 @@ before enforcement can occur.
 Solon Road and no parking on the north side within thirty feet of the
 intersections with Church St. and Solon Road.
 2017-12   3-13-17   (a)   Pleasant Dr.
-No parking both sides, except from 200 ft. south of Bell St. on the west side. 
+No parking both sides, except from 200 ft. south of Bell St. on the west side.
 Eight-hour metered parking west side from Bell 200 ft. south.
       (b)   Bell St.
 No parking, north side, from Main St. east to Village line.

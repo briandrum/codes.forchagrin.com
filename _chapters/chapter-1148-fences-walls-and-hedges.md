@@ -22,7 +22,8 @@ Fence permit - see BLDG.
 
 ## 1148.01   Intent
 
-       In addition to the applicable provisions of the intent stated in Section 1105.03, it is the intent of these regulations:
+In addition to the applicable provisions of the intent stated in Section
+1105.03, it is the intent of these regulations:
 
 1. _(a)_ To regulate the location, height and overall general characteristics
 of fencing, walls, hedges, or any combination thereof within the front, side or
@@ -98,7 +99,7 @@ set forth in Section 1142.06.
 
 ## 1148.04   Permits
 
-1. _(a)_ Permit Required. No person shall erect any fence,  wall, or retaining
+1. _(a)_ Permit Required. No person shall erect any fence, wall, or retaining
 wall without first obtaining a building permit and making payment of the fee
 required by Section 1309.14 of the Building Code.
 2. _(b)_ Survey Required. If documentation of the property line locations is
@@ -106,7 +107,7 @@ not conclusive, the Administrator may require a professional survey to identify
 such locations prior to issuing a permit.  
 (Ord. 2019-39. Passed 8-13-19.)
 
-## 1148.05   Fences, walls, and hedges permitted:  residential districts
+## 1148.05   Fences, walls, and hedges permitted: residential districts
 
 1. _(a)_ Front Yards. Fences, walls and hedges shall not exceed three and one-
 half feet in height above finished grade. However, fences, walls and hedges
@@ -167,7 +168,7 @@ or existing wall may be used as part of the enclosure. All gates providing
 access to the pool or pool area shall be of self-closing and self-latching
 construction with the latch at least four (4) feet from ground level, shall be
 designed to permit locking and shall be kept locked when the pool is not in
-actual use or is unattended.     
+actual use or is unattended.    
     2. _(2)_ Tennis courts.  Tennis courts shall be enclosed by a metal chain
 link or mesh fence at least nine feet in height but no more than twelve feet in
 height above finished grade.  

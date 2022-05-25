@@ -41,7 +41,7 @@ will proximately result in the death of any person.
 physiological impairment, regardless of its gravity or duration.
 4. _(d)_ "Physical harm to property" means any tangible or intangible damage to
 property that, in any degree, results in loss to its value or interferes with
-its use or enjoyment.  "Physical harm to property" does not include wear and
+its use or enjoyment. "Physical harm to property" does not include wear and
 tear occasioned by normal use.
 5. _(e)_ "Serious physical harm to persons" means any of the following:
     1. _(1)_ Any mental illness or condition of such gravity as would normally
@@ -86,13 +86,13 @@ persons or a risk of serious physical harm to persons;
 offense under subsection (i)(1), (2) or (3) hereof.
 10. _(j)_
     1. "Property" means any property, real or personal, tangible or
-intangible, and any interest or license in that property.  "Property" includes,
+intangible, and any interest or license in that property. "Property" includes,
 but is not limited to, cable television service, other telecommunications
 service, telecommunications devices, information service, computers, data,
 computer software, financial instruments associated with computers, other
 documents associated with computers, or copies of the documents, whether in
 machine or human readable form, trade secrets, trademarks, copyrights, patents,
-and property protected by a trademark, copyright, or patent.  “Financial
+and property protected by a trademark, copyright, or patent. “Financial
 instruments associated with computers” include, but are not limited to, checks,
 drafts, warrants, money orders, notes of indebtedness, certificates of deposit,
 letters of credit, bills of credit or debit cards, financial transaction
@@ -150,9 +150,9 @@ office or relationship, or growing out of necessity.
 13. _(m)_ "Contraband" means any property that is illegal for a person to
 acquire or possess under a statute, ordinance, or rule, or that a trier of fact
 lawfully determines to be illegal to possess by reason of the property’s
-involvement in an offense.  “Contraband” includes, but is not limited to, all
+involvement in an offense. “Contraband” includes, but is not limited to, all
 of the following:
-    1. _(1)_ Any controlled substance, as defined in Ohio  R.C.  3719.01, or any
+    1. _(1)_ Any controlled substance, as defined in Ohio R.C. 3719.01, or any
 device, or paraphernalia;
     2. _(2)_ Any unlawful gambling device, or paraphernalia;
     3. _(3)_ Any dangerous ordnance or obscene material.
@@ -378,7 +378,7 @@ not himself a party to the offense.
 expired, prosecution shall be commenced for the following offenses during the
 following specified periods of time:
         1. _(A)_ For an offense involving misconduct in office by a public servant
-at any time while the accused remains a  public servant, or within two years
+at any time while the accused remains a public servant, or within two years
 thereafter;
         2. _(B)_ For an offense by a person who is not a public servant but whose
 offense is directly related to the misconduct in office of a public servant, at
@@ -549,7 +549,7 @@ Chapter 3734 that is not specifically classified, an attempt is a misdemeanor
 of the first degree if the offense attempted is a felony under the Ohio Revised
 Code, and a misdemeanor of the fourth degree if the offense attempted is a
 misdemeanor. An attempt to commit a minor misdemeanor is not an offense under
-this section. 
+this section.
 6. _(f)_ As used in this section, “drug abuse offense” has the same meaning as
 in Ohio R.C. 2925.01.  
 (ORC 2923.02)
@@ -624,7 +624,7 @@ the section defining the offense.
 4. _(d)_ As used in this section, "organization" means a corporation for profit
 or not for profit, partnership, limited partnership, joint venture,
 unincorporated nonprofit association, estate, trust or other commercial or
-legal entity.  "Organization" does not include an entity organized as or by a
+legal entity. "Organization" does not include an entity organized as or by a
 governmental agency for the execution of a governmental program.  
 (ORC 2901.23)
 
@@ -774,11 +774,11 @@ of financial sanctions authorized under this section. If the court in its
 discretion imposes one or more financial sanctions, the financial sanctions
 that may be imposed pursuant to this section include, but are not limited to,
 the following:
-    1. _(1)_ Restitution. 
+    1. _(1)_ Restitution.
         1. _(A)_ Unless the misdemeanor offense is a minor misdemeanor or could be
 disposed of by the traffic violations bureau serving the court under Traffic
 Rule 13, restitution by the offender to the victim of the offender’s crime or
-any survivor of the victim, in an amount based on the victim’s economic loss. 
+any survivor of the victim, in an amount based on the victim’s economic loss.
 The court may not impose restitution as a sanction pursuant to this section if
 the offense is a minor misdemeanor or could be disposed of by the traffic
 violations bureau serving the court under Traffic Rule 13. If the court
@@ -846,7 +846,7 @@ subsection, confinement costs may be assessed pursuant to a repayment policy
 adopted under Ohio R.C. 2929.37. In addition, the offender may be required to
 pay the fees specified in Ohio R.C. 2929.38 in accordance with that section.  
 (ORC 2929.28)
-2. _(b)_ Jail Terms. 
+2. _(b)_ Jail Terms.
     1. _(1)_ Except as provided in Ohio R.C. 2929.22 or 2929.23 of the Revised
 Code, and unless another term is required or authorized pursuant to law, if the
 sentencing court imposing a sentence upon an offender for a misdemeanor elects
@@ -905,11 +905,11 @@ of judgment against the person as described in that section.
         2. _(B)_ The sentence automatically includes any certificate of judgment
 issued as described in subsection (b)(4)A.2. of this section.  
 (ORC 2929.24)
- 
+
 3. _(c)_ Organizations. Regardless of the penalties provided in subsections
 (a) and (b) hereof, an organization convicted of an offense pursuant to Section 501.11 shall be fined, in accordance with this section. The court shall fix
 the fine as follows:
- 
+
 Type of Misdemeanor                           Maximum Fine
 First degree                                  $5,000.00
 Second degree                              4,000.00
@@ -918,8 +918,8 @@ Fourth degree                                 2,000.00
 Minor                                         1,000.00
 Misdemeanor not specifically classified       2,000.00
 Minor misdemeanor not specifically classified 1,000.00
- 
- 
+
+
     1. _(1)_ When an organization is convicted of an offense that is not
 specifically classified, and the section defining the offense or penalty
 plainly indicates a purpose to impose the penalty provided for violation upon
@@ -935,4 +935,4 @@ civil sanctions against an organization convicted of an offense pursuant to
 Section 501.11, either in addition to or in lieu of a fine imposed pursuant to this
 subsection (c).  
 (ORC 2929.31)
- 
+

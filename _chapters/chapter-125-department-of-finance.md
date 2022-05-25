@@ -374,7 +374,7 @@ eligible for investment:
 
     6. _(6)_ The Director of Finance or his designee may enter into a repurchase
     agreement with any designated eligible depository mentioned in Ohio R.C.
-    135.03, if, and only if, under the terms of which agreement the Director  of
+    135.03, if, and only if, under the terms of which agreement the Director of
     Finance or his designee purchases for the Municipality and such institution
     agrees unconditionally to repurchase within a period of thirty days
     securities that are direct obligations of, or are fully guaranteed as to
@@ -392,7 +392,7 @@ eligible for investment:
     deposits, provided that such investments shall be approved in writing by the
     Director of Finance and Director of Law and that such approval by the
     Director of Finance and Director of Law shall also include approval of the
-    insurance  provided to secure and protect the Municipality’s ability to
+    insurance provided to secure and protect the Municipality’s ability to
     recover the principal deposited in such deposit account.
 
 3. _(c)_ The Director of Finance or his designee may sell any securities,
@@ -538,7 +538,7 @@ Upon final disposition of the application, the balance remaining shall be
 returned to the applicant. Any additional amounts due to the Municipality beyond
 the amount of the deposit shall be immediately paid by the applicant upon
 receiving an invoice from the Municipality.  
-(Ord. 1983-41. Passed 11-28-83; Ord. 1990-79. Passed 10-8-90; Ord. 2005-35. 
+(Ord. 1983-41. Passed 11-28-83; Ord. 1990-79. Passed 10-8-90; Ord. 2005-35.
 Passed 6-13- 05.)
 
 ## 125.13   Ambulance fees

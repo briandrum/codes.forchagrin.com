@@ -17,8 +17,8 @@ title: "Chapter 1151: Riparian Buffer Regulations"
 
 ## 1151.01   Intent
 
-     In addition to the applicable provisions stated in Section 1105.03, it is the intent of these    regulations to achieve the following
-objectives:
+In addition to the applicable provisions stated in Section 1105.03, it is the
+intent of these    regulations to achieve the following objectives:
 
 1. _(a)_ Limit impact of land uses on rivers in order to preserve and conserve
 the quality, purity, clarity and free-flowing condition of streams;
@@ -32,15 +32,14 @@ future generations.
 
 ## 1151.02   Establishment of buffer area setback and boundary
 
-     The buffer area setback shall be maintained along both sides of stream
-channels which have a mean surface width at normal low water of at least ten
-feet or greater and wetlands as defined by the Army Corps of Engineers and the
-United States Environmental Protection Agency (E.P.A.). The minimum boundary
-of the buffer area setback shall be set at 120 feet in a horizontal plane
-outward from the normal low water mark of the stream channel. It shall be
-preserved in its natural state and shall be adjusted outward to include
-sensitive areas such as steep slopes, wetlands and wooded areas contiguous to
-the stream.  
+The buffer area setback shall be maintained along both sides of stream channels
+which have a mean surface width at normal low water of at least ten feet or
+greater and wetlands as defined by the Army Corps of Engineers and the United
+States Environmental Protection Agency (E.P.A.). The minimum boundary of the
+buffer area setback shall be set at 120 feet in a horizontal plane outward from
+the normal low water mark of the stream channel. It shall be preserved in its
+natural state and shall be adjusted outward to include sensitive areas such as
+steep slopes, wetlands and wooded areas contiguous to the stream.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1151.03   Permitted uses

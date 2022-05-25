@@ -7,9 +7,9 @@ title: "Chapter 351: Parking Generally"
 ---
 
 * [351.01   Police may remove unattended vehicle which obstructs traffic](#35101-police-may-remove-unattended-vehicle-which-obstructs-traffic)
-* [351.02   Registered owner prima-facie liable for unlawful  parking](#35102-registered-owner-prima-facie-liable-for-unlawful-parking)
+* [351.02   Registered owner prima-facie liable for unlawful parking](#35102-registered-owner-prima-facie-liable-for-unlawful-parking)
 * [351.03   Prohibited standing or parking places](#35103-prohibited-standing-or-parking-places)
-* [351.04   Parking near curb; handicapped  locations on public and private lots and garages](#35104-parking-near-curb-handicapped-locations-on-public-and-private-lots-and-garages)
+* [351.04   Parking near curb; handicapped locations on public and private lots and garages](#35104-parking-near-curb-handicapped-locations-on-public-and-private-lots-and-garages)
 * [351.05   Angle parking; parking within marked spaces](#35105-angle-parking-parking-within-marked-spaces)
 * [351.06   Selling, washing or repairing vehicle upon roadway](#35106-selling-washing-or-repairing-vehicle-upon-roadway)
 * [351.07   Unattended vehicle: duty to stop engine, remove key, set brake and turn wheels](#35107-unattended-vehicle-duty-to-stop-engine-remove-key-set-brake-and-turn-wheels)
@@ -61,26 +61,26 @@ conflict with other traffic or with the provisions of this Traffic Code, or in
 compliance with the directions of a police officer or a traffic control device
 in any of the following places:
 
-1. _(a)_ On a sidewalk, tree lawn, center strip or curb; 
-2. _(b)_ In front of a public or private driveway; 
-3. _(c)_ Within an intersection; 
-4. _(d)_ Within ten feet of a fire hydrant; 
+1. _(a)_ On a sidewalk, tree lawn, center strip or curb;
+2. _(b)_ In front of a public or private driveway;
+3. _(c)_ Within an intersection;
+4. _(d)_ Within ten feet of a fire hydrant;
 5. _(e)_ On a crosswalk; (Ord. 1973-904. Passed 5-1-73.)
 6. _(f)_ Within twenty feet of a crosswalk at an intersection, except when
 expressly permitted by signage and/or street markings and when designated on
 the Traffic Control Map; (Ord. 2017-14. Passed 11-13-17.)
 7. _(g)_ Within thirty feet of, and upon the approach to, any flashing beacon,
-stop sign or traffic control device; 
+stop sign or traffic control device;
 8. _(h)_ Between a safety zone and the adjacent curb or within thirty feet of
 points on the curb immediately opposite the end of a safety zone, unless a
-different length is indicated by a traffic control device; 
-9. _(i)_ Within any bus loading zone; 
+different length is indicated by a traffic control device;
+9. _(i)_ Within any bus loading zone;
 10. _(j)_ Within twenty feet of the driveway entrance to any fire station, and on
 the side of the street opposite the entrance to any fire station, within
-seventy-five feet of such entrance when properly posted with signs; 
+seventy-five feet of such entrance when properly posted with signs;
 11. _(k)_ Alongside or opposite any street excavation or obstruction when such
-standing or parking would obstruct traffic; 
-    1. _(1)_  Alongside any vehicle stopped or parked at the edge or curb of a street,
+standing or parking would obstruct traffic;
+    1. _(1)_ Alongside any vehicle stopped or parked at the edge or curb of a street,
 except that commercial trucks may park alongside any such stopped or parked
 vehicle when in front of a business establishment for the purpose of loading or
 unloading merchandise; but only for so long as it takes to perform such act,
@@ -94,11 +94,11 @@ connection with his personal affairs;
 expressly permitted by signage and/or street markings and when designated on
 the Traffic Control Map; (Ord. 2017-14. Passed 11-13-17.)
 13. _(n)_ At any place where signs prohibit or limit stopping, standing or
-parking; 
-14. _(o)_ Within one foot of another parked vehicle. 
+parking;
+14. _(o)_ Within one foot of another parked vehicle.
 15. _(p)_ Within 500 feet of any fire apparatus at the scene of a fire or
-emergency; 
-16. _(q)_ Upon any street or other areas designated as a fire lane; 
+emergency;
+16. _(q)_ Upon any street or other areas designated as a fire lane;
 17. _(r)_ On the roadway portion of a freeway, expressway or thruway.  
 (Ord. 1973-904. Passed 5-1-73.)
 
@@ -284,7 +284,7 @@ the stop for loading and unloading of materials exceed thirty minutes.
 
 ## 351.10   Bus stops and taxicab stands
 
-1. _(a)_  No person shall stop, stand or park a vehicle other than a bus in a
+1. _(a)_ No person shall stop, stand or park a vehicle other than a bus in a
 bus stop, or other than a taxicab in a taxicab stand when any such stop or
 stand has been officially designated and appropriately posted, except that the
 driver of a passenger vehicle may temporarily stop therein for the purpose of
@@ -358,23 +358,23 @@ emergency calls.
 1. _(a)_ If an owner of private property posts on the property, in a
 conspicuous manner, a prohibition against parking on the property, or
 conditions and regulations under which parking is permitted, no person shall do
-either of the following: 
-    1. _(1)_ Park a vehicle on the property without the owner’s consent; or 
+either of the following:
+    1. _(1)_ Park a vehicle on the property without the owner’s consent; or
     2. _(2)_ Park a vehicle on the property in violation of any condition or
-regulation posted by the owner. 
+regulation posted by the owner.
 2. _(b)_ Except as provided in Ohio R.C. 4513.60 to 4513.65 and Section 303.08 of this Traffic Code and Section 521.11 of the General Offenses Code, and subject to the requirements of this
 section, the owner of private property or his or her authorized agent may
 remove, or cause to be removed, any vehicle parked on the property in violation
-of a posted parking prohibition condition or regulation. 
+of a posted parking prohibition condition or regulation.
 3. _(c)_ The owner of private property may create a private tow-away zone only
-if all of the following conditions are satisfied: 
+if all of the following conditions are satisfied:
     1. _(1)_ The owner posts on his or her property a sign that is at least
 eighteen inches by twenty-four inches in size, that is visible from all
 entrances to the property, and that contains at least all of the following
 information:
-        1. _(A)_  A notice that the property is a private tow-away zone and that
+        1. _(A)_ A notice that the property is a private tow-away zone and that
 vehicles not authorized to park on the property will be towed away;
-        2. _(B)_  The telephone number of the person from whom a towed away
+        2. _(B)_ The telephone number of the person from whom a towed away
 vehicle can be recovered and the address of the place to which the vehicle will
 be taken and from which it may be recovered; and
 (Ord. 1998-54. Passed 7-13-98.)
@@ -473,7 +473,7 @@ citation, deposit the sum of ninety dollars ($90.00), and the Police Department
 shall notify the Bureau of Motor Vehicles to place a registration block upon
 the vehicle cited until the fine is deposited if not deposited within sixty
 (60) days of the citation date, in which event the violator shall pay the cost,
-if any, to remove the registration block after the fine is paid. 
+if any, to remove the registration block after the fine is paid.
     2. _(2)_ Whoever violates Section 351.04(f) may execute a waiver and deposit two hundred and fifty dollars
 ($250.00) with the Clerk or Deputy Clerk of the Bedford Municipal Court, who is
 on duty at the Village Police Department, an instrument waiving the formal
@@ -508,7 +508,7 @@ not honored by the payor’s bank, the violator shall pay all costs and expenses
 incurred by the Municipality resulting from the dishonor of the bank check.  
 (Ord. 2017-56. Passed 9-11-17.)
 
-## 351.18   Issuance of parking permits for village leased  parking spaces
+## 351.18   Issuance of parking permits for village leased parking spaces
 
 1. _(a)_ The Police Department is hereby authorized to issue permits to
 employees and operators of businesses located in the Village to permit parking
@@ -525,7 +525,7 @@ identifying the boundaries of such district, and in the event of any zone map
 change to the Central Shopping District to relocate such signage, where
 necessary, to reflect the revised boundaries. No person shall park a vehicle
 in a parking space leased by the Village without a permit required by this
-Section. 
+Section.
 2. _(b)_ Any person who violates subsection (a) hereof is guilty of a minor
 misdemeanor and subject to the penalties provided in Codified Ordinance Section 303.99.  
 (Ord. 2019-26. Passed 4-8-19.)

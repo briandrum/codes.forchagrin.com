@@ -40,7 +40,7 @@ title: "Chapter 335: Licensing; Accidents"
 * State point system suspension - see Ohio R.C. 4510.03.6
 * State accident reports - see Ohio R.C. 4509.01(J), 4509.06, 4509.74, 5502.11
 * Motorized bicycle operator’s license - see Ohio R.C. 4511.521
-* Glass removal from street after accident  - see TRAF. 311.01
+* Glass removal from street after accident - see TRAF. 311.01
 
 ## 335.01   Driver’s license or commercial driver’s license required
 
@@ -247,7 +247,7 @@ plasma, breath, or urine as provided in Section 333.01(a).
 3. _(c)_ As used in this section:
     1. _(1)_ “Eligible adult” means any of the following:
         1. _(A)_ An instructor of a driver education course approved by the
-Department of Education or a driver training course approved  by the Department
+Department of Education or a driver training course approved by the Department
 of Public Safety;
         2. _(B)_ Any of the following persons who holds a current valid driver’s
 or commercial driver’s license issued by this State:
@@ -255,7 +255,7 @@ or commercial driver’s license issued by this State:
             2. _(2)_ A person twenty-one years of age or older who acts in loco
 parentis of the permit holder.
     2. _(2)_ “Occupant restraining device” has the same meaning as in Ohio R.C.
-4513.263. 
+4513.263.
 4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4507.05)
 
@@ -305,7 +305,7 @@ affiliated with the event.
 religious event is not liable in damages in a civil action for any injury,
 death or loss to person or property that allegedly arises from, or is related
 to, the fact that the employer, school official, or official affiliated with a
-religious event provided the holder of a  probationary driver’s license with
+religious event provided the holder of a probationary driver’s license with
 the written documentation described in subsection (a)(2) of this section.
 The Registrar of Motor Vehicles shall make available at no cost a form to serve
 as the written documentation described in subsection (a)(2) of this section,
@@ -381,14 +381,14 @@ the following:
         2. _(B)_ A child or stepchild;
         3. _(C)_ A parent, stepparent, grandparent, or parent-in-law;
         4. _(D)_ An aunt or uncle;
-        5. _(E)_ A sibling, whether or the whole or half blood  or by adoption, a
+        5. _(E)_ A sibling, whether or the whole or half blood or by adoption, a
 brother-in-law or a sister-in-law;
         6. _(F)_ A son or daughter of the probationary license holder’s stepparent
 if the stepparent has not adopted the probationary license holder;
         7. _(G)_ An eligible adult, as defined in Ohio R.C. 4507.05.
     3. _(3)_ “Moving violation” means any violation of any statute or ordinance
 that regulates the operation of vehicles, streetcars, or trackless trolleys on
-the highways or streets.  “Moving violation” does not include a violation of
+the highways or streets. “Moving violation” does not include a violation of
 Ohio R.C. 4513.263 or a substantially equivalent municipal ordinance, or a
 violation of any statute or ordinance regulating pedestrians or the parking of
 vehicles, vehicle size or load limitations, vehicle fitness requirements, or
@@ -469,7 +469,7 @@ commercial driver’s license, temporary instruction permit or commercial
 driver’s license temporary instruction permit, or any renewal, reprint, or
 duplicate thereof, knowingly conceal a material fact, or present any
 physician’s statement required under Ohio R.C. 4507.08 or 4507.081 when knowing
-the same to be false or fictitious. 
+the same to be false or fictitious.
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
 degree.  
 (ORC 4507.30)
@@ -527,7 +527,7 @@ be sentenced to a community residential sanction pursuant to Ohio R.C. 2929.26;
 notwithstanding division (A)(2)(a) of Ohio R.C. 2929.28, the offender may be
 fined up to one thousand dollars ($1,000); and, notwithstanding division (A)(3)
 of Ohio R.C. 2929.27, the offender may be ordered pursuant to division (C) of
-that section to serve a term of community service of up to five hundred hours. 
+that section to serve a term of community service of up to five hundred hours.
 The failure of an offender to complete a term of community service imposed by
 the court may be punished as indirect criminal contempt under division (A) of
 Ohio R.C. 2705.02.
@@ -552,7 +552,7 @@ vehicle involved in the offense and the impoundment of that vehicle’s license
 plates. If issued, the order shall be issued and enforced under Ohio R.C.
 4503.233.
         2. _(B)_ If the offender previously has been convicted of or pleaded
-guilty to one violation of Ohio R.C. 4511.203  or a substantially equivalent
+guilty to one violation of Ohio R.C. 4511.203 or a substantially equivalent
 municipal ordinance, the court may order, for sixty days, the immobilization of
 the vehicle involved in the offense and the impoundment of that vehicle’s
 license plates. If issued, the order shall be issued and enforced under Ohio
@@ -566,7 +566,7 @@ If title to a motor vehicle that is subject to an order for criminal forfeiture
 under this subsection is assigned or transferred and division (B)(2) or (3) of
 Ohio R.C. 4503.234 applies, in addition to or independent of any other penalty
 established by law, the court may fine the offender the value of the vehicle as
-determined by publications of the national automobile dealer’s association. 
+determined by publications of the national automobile dealer’s association.
 The proceeds from any fine imposed under this subsection shall be distributed
 in accordance with division (C)(2) of Ohio R.C. 4503.234.
 4. _(d)_ If a court orders the immobilization of a vehicle under subsection (c)
@@ -696,7 +696,7 @@ court, in addition to any other sentence that it imposes on the offender may
 order the criminal forfeiture of the vehicle involved in the offense to the
 State.
 5. _(e)_ Any order for immobilization and impoundment under this section shall
-be issued and enforced under Ohio R.C. 4503.233 and 4507.02, as applicable. 
+be issued and enforced under Ohio R.C. 4503.233 and 4507.02, as applicable.
 The court shall not release a vehicle from immobilization ordered under this
 section unless the court is presented with current proof of financial
 responsibility with respect to that vehicle.
@@ -707,7 +707,7 @@ registrar shall accept any application for the registration or transfer of
 registration of any motor vehicle owned or leased by the person named in the
 declaration of forfeiture. The period of registration denial shall be five
 years after the date of the order, unless, during that period, the court having
-jurisdiction of the offense that lead to the  order terminates the forfeiture
+jurisdiction of the offense that lead to the order terminates the forfeiture
 and notifies the Registrar of the termination. The Registrar shall then take
 necessary measures to permit the person to register a vehicle owned or leased
 by the person or to transfer registration of the vehicle.
@@ -721,7 +721,7 @@ proximate result of the offender’s operation of the vehicle before, during, or
 after committing the offense for which the offender is sentenced under this
 section.  
 (ORC 4510.11)
- 
+
 8. _(h)_ Any person whose driver’s or commercial driver’s license or permit or
 nonresident operating privileges are suspended as a repeat traffic offender
 under this section and who, during the suspension, operates any motor vehicle
@@ -742,7 +742,7 @@ suspension.
 2. _(b)_ Whoever violates this section is guilty of driving under OVI
 suspension. The court shall sentence the offender under Ohio R.C. Chapter 2929, subject to the differences authorized or required by this section.
     1. _(1)_ Except as otherwise provided in subsection (b)(2) or (3) of this
-section, driving under OVI suspension is a misdemeanor of the first degree. 
+section, driving under OVI suspension is a misdemeanor of the first degree.
 The court shall sentence the offender to all of the following:
         1. _(A)_ A mandatory jail term of three consecutive days. The three-day
 term shall be imposed, unless, subject to subsection (c) of this section, the
@@ -776,7 +776,7 @@ been convicted of or pleaded guilty to two or more violations of this section
 or two or more equivalent offenses, driving under OVI suspension is a
 misdemeanor of the first degree. The court shall sentence the offender to all
 of the following:
-        1. _(A)_ A mandatory jail term of thirty consecutive days. 
+        1. _(A)_ A mandatory jail term of thirty consecutive days.
 Notwithstanding the jail terms provided in Ohio R.C. Chapter 2929, the court
 may sentence the offender to a longer jail term of not more than one year. The
 court shall not sentence the offender to a term of house arrest with electronic
@@ -969,7 +969,7 @@ in accordance with Ohio R.C. 4509.101. Whoever violates this subsection (e)
 hereof is guilty of falsification, a misdemeanor of the first degree.  
 (ORC 4509.102)
 
-### 335.073   Driving without complying with license  reinstatement requirements
+### 335.073   Driving without complying with license reinstatement requirements
 
 1. _(a)_ No person whose driver’s license, commercial driver’s license,
 temporary instruction permit, or nonresident’s operating privilege has been
@@ -1019,7 +1019,7 @@ operating privilege from the range specified in division (A)(7) of Ohio R.C.
 or private property used by the public for purposes of vehicular travel or
 parking in this Municipality whose driver’s or commercial driver’s license has
 been suspended pursuant to Ohio R.C. 2151.354, 2151.87, 2935.27, 3123.58,
-4301.99, 4510.032, 4510.22  or 4510.33.
+4301.99, 4510.032, 4510.22 or 4510.33.
 2. _(b)_ Upon the request or motion of the prosecuting authority, a
 noncertified copy of the law enforcement automated data system report or a
 noncertified copy of a record of the Registrar of Motor Vehicles that shows the
@@ -1089,13 +1089,13 @@ the motor vehicle, or the manufacturer’s certificate of origin, and all title
 assignments that evidence the seller’s ownership of the motor vehicle, and an
 odometer disclosure statement that complies with Ohio R.C. 4505.06 and
 subchapter IV of the “Motor Vehicle Information and Cost Savings Act”, 86
-Stat.  961 (1972), 15 U.S.C. 1981;
+Stat. 961 (1972), 15 U.S.C. 1981;
     7. _(7)_ Operate in this Municipality a motor vehicle knowing that the
 certificate of title to the vehicle or ownership of the vehicle as otherwise
 reflected in the automated title processing system has been canceled.
 2. _(b)_ This section does not apply to persons engaged in the business of
 warehousing or transporting motor vehicles for the purpose of salvage
-disposition. 
+disposition.
 3. _(c)_ Whoever violates this section shall be fined not more than two hundred
 dollars ($200.00) or imprisoned not more than ninety days, or both.  
 (ORC 4505.18)
@@ -1205,7 +1205,7 @@ person in whose name the original registration and license plates were issued
 shall be done within a period not to exceed thirty days. During that thirty-
 day period, the license plates from the motor vehicle for which they originally
 were issued may be displayed on the succeeding motor vehicle, and the
-succeeding motor vehicle may be operated on the streets of the Municipality. 
+succeeding motor vehicle may be operated on the streets of the Municipality.
 4. _(d)_ Whoever violates subsection (c) of this section is guilty of a
 misdemeanor of the fourth degree.  
 (ORC 4503.12)
@@ -1236,7 +1236,7 @@ resident in accordance with standards adopted by the Registrar under Ohio R.C.
 4507.01.  
 (ORC 4503.111)
 
-## 335.12   Stopping after accident upon streets; collision with  unattended vehicle
+## 335.12   Stopping after accident upon streets; collision with unattended vehicle
 
 1. _(a)_
     1. _(1)_ In the case of a motor vehicle accident or collision with

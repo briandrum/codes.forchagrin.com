@@ -28,7 +28,7 @@ title: "Chapter 544: Trees, Weeds and Grass"
 * Assessments for tree planting or maintenance - see Ohio R.C. 727.011
 * Notice to cut noxious weeds - see Ohio R.C. 731.51
 * Destruction of weeds - see Ohio R.C. 971.33 et seq.
-* Injury or destruction of trees and growing products - see  GEN. OFF. 541.06
+* Injury or destruction of trees and growing products - see GEN. OFF. 541.06
 * Care of trees during street excavations - see S. & P.S. 901.03(q)
 
 ## 544.01   Trimming of trees, shrubbery
@@ -95,7 +95,7 @@ shall be certified to the County Auditor for collection of same as other taxes
 and assessments are collected.  
 (Ord. 1982-36. Passed 1-24-83.)
 
-## 544.05   Removing or interfering with trees or materials in tree  lawn areas
+## 544.05   Removing or interfering with trees or materials in tree lawn areas
 
 No person, firm or corporation, including public utilities, shall, without
 consent of the Chief Administrative Officer, remove, destroy, cut or otherwise
@@ -157,14 +157,14 @@ diseased trees and the abatement of such nuisances.
 The Chief Administrative Officer is hereby authorized to inspect any tree
 within the Municipality reported or supposed to be infected with Dutch Elm
 Disease or the virus disease Phloem Necrosis, commonly known as "Elm Blight",
-or any other disease. If upon such inspection the Chief Administrative Officer 
-determines that  such tree is infected with either of such diseases, he may, if
-the tree is in any public street, ground or way within the Municipality, 
-immediately  remove  and  burn the same in  such  manner as to prevent as fully
-as possible the spread of such disease. If  such tree is  located  on private 
+or any other disease. If upon such inspection the Chief Administrative Officer
+determines that such tree is infected with either of such diseases, he may, if
+the tree is in any public street, ground or way within the Municipality,
+immediately remove and burn the same in such manner as to prevent as fully
+as possible the spread of such disease. If such tree is located on private
 property, the Chief Administrative Officer may immediately serve upon the owner
-of such property a written  notice that such tree is so infected  and the same
-must  be removed  and burned under the supervision of the Chief Administrative
+of such property a written notice that such tree is so infected and the same
+must be removed and burned under the supervision of the Chief Administrative
 Officer within five days of the service of such notice. If such owner cannot be
 found, a copy of the notice shall be posted upon the infected tree. If the tree
 is not so removed and burned within five days after the service or posting of

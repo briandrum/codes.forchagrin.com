@@ -145,7 +145,7 @@ Health Department.
 shall be kept free of litter and other debris at all times. Where
 establishments provide take-out or selfservice, an adequate number of employees
 must be maintained to clear sidewalk cafes on a regular basis. Sidewalk and
-flooring areas must be cleaned daily, including adjacent sidewalk areas. 
+flooring areas must be cleaned daily, including adjacent sidewalk areas.
 11. _(k)_ The Village of Chagrin Falls has the right to repeal or amend this
 chapter and thereby terminate or modify all sidewalk cafe operations. No
 permittee shall obtain any property right in the continued private commercial
@@ -172,12 +172,12 @@ service in the licensed area.
 Prior to the issuance of permit, permittee shall:
 
 1. _(a)_ Furnish a signed statement, with the application, that the permittee
-shall defend,  indemnify and hold harmless the Village, its officers and
+shall defend, indemnify and hold harmless the Village, its officers and
 employees, from any and all claims for damages to property or injury to persons
 which may occur in connection with an activity carried on under the terms of
 the permit.
 2. _(b)_ Each sidewalk cafe permit holder shall provide proof of liability
-insurance in the  form of a certificate of insurance with limits no less than
+insurance in the form of a certificate of insurance with limits no less than
 five hundred thousand dollars ($500,000) per occurrence, one million dollars
 ($1,000,000) aggregate and the Village of Chagrin Falls is named on the
 certificate as additionally insured as a condition of the permit.  

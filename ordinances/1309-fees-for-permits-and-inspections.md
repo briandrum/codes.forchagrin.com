@@ -51,7 +51,7 @@ amount of the permit fee which would ordinarily be charged for such work.
 ## 1309.02   New single-family dwellings
 
 The fees for new single-family dwellings shall be as follows:
- 
+
 (a) Building permit                                            $ 500.00
     An additional fee per 100 square feet of floor area or
     fraction thereof, (floor area shall be measured by using
@@ -70,7 +70,7 @@ The fees for new single-family dwellings shall be as follows:
 
 The fees for additions to single-family dwellings, alterations and repairs,
 shall be as follows:
- 
+
 (a)     Building permit
         (1) Not exceeding 200 square feet                       $ 100.00
         (2) Each additional 100 square feet or fraction thereof       5.00
@@ -88,14 +88,14 @@ for each 100 square feet of building ground coverage.
 ## 1309.05   Additions to garages
 
 The fee for additions to garages shall be as follows:
- 
+
 Building permit $ 50.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.06   Demolition and moving
 
 The fees for demolishing and moving buildings shall be as follows:
- 
+
 (a) Permit
     (1) Demolition of any building                                $ 150.00
         Moving any building on a public street or highway,
@@ -132,11 +132,11 @@ required, shall be as follows:
     Water Regulations, Part Nine, Streets & Public Services Code  
 (Ord. 2014-06. Passed 1-27-14.)
 
-## 1309.08   Additions or alterations to apartments or multiple  dwellings
+## 1309.08   Additions or alterations to apartments or multiple dwellings
 
 The fees for additions or alterations to apartments or multiple dwellings,
 if no State permit is required, shall be as follows:
- 
+
 (a) Building permit
     (1) Apartment or multiple dwellings, motels or hotels
                                                                $ 130.00
@@ -176,7 +176,7 @@ required, shall be as follows:
 
 The fees for additions to industrial or commercial buildings, alterations
 and repairs, if no State permit is required, shall be as follows:
- 
+
 (a) Building permit
     (1) Initial fee per floor or story                           $ 200.00
         Additional fee per 100 square feet or fraction thereof,
@@ -210,28 +210,28 @@ The following permit fees shall be charged:
 ## 1309.12   Sign fees
 
 The fees for signs shall be as follows:
- 
+
  Nonilluminated, per sign $ 50.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.13   Swimming pools
 
 The fee for a swimming pool shall be as follows:
- 
+
 Building permit $ 100.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.14   Fence or wall near property line
 
 The fee for a fence or wall near a property line shall be as follows:
- 
+
 Building permit, if height exceeds three feet $ 40.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.15   Minor permit where no inspection
 
 The fee for minor permits where there is no inspection shall be:
- 
+
 Minor building permit $ 20.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
@@ -239,7 +239,7 @@ Minor building permit $ 20.00
 
 There shall be no additional fees for inspections covered in the preceding
 sections except as hereafter provided:
- 
+
     Whenever an inspection has been requested and the work is found
     incomplete or not ready for inspection, or in need of
 (a) correction, and a reinspection is necessary, there shall be a

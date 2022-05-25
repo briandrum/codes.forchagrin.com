@@ -25,7 +25,7 @@ the Municipality:
       Conservation District         C
       Park District             P
       Institutional District         I
-      Residential Districts   
+      Residential Districts  
          One-Family 100      R1-100
          One-Family 60      R1-60
          One-Family 50      R1-50
@@ -35,16 +35,16 @@ the Municipality:
          Multi-Family 10      RMF-10
          Multi-Family 15      RMF-15
          Retirement Living      RL
-      Business Districts   
+      Business Districts  
          Office Building      O
          Retail Business      R
          Central Shopping      CS
       Limited Industrial         LI
-      Overlay Districts   
+      Overlay Districts  
          Residential Mixed Use   RMU  
 (Ord. 2019-39. Passed 8-13-19.)
 
-## 1119.02   Zoning  map
+## 1119.02   Zoning map
 
        The aforesaid districts are designated by symbols and the locations and
 boundaries of such districts are established on the Map entitled "Zoning Map of

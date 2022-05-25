@@ -122,7 +122,7 @@ resulting from any action or inaction on the part of the Village related in any
 manner to the adoption and/or enforcement of this section of the Code.
 2. _(b)_ “Skateboard” means any platform device designed and intended to move
 or propel one or more riders over a hard surface by means of roller wheels
-utilizing gravity or human impetus.  “Roller skates” and “roller blades” means
+utilizing gravity or human impetus. “Roller skates” and “roller blades” means
 any device fitted upon the human foot designed and intended to propel persons
 over hard surfaces by means of roller wheels utilizing gravity or human
 impetus.
@@ -131,7 +131,7 @@ skate devices upon public property within any retail or central business
 district of the Village, nor shall any person ride a skateboard or wear roller
 blades or roller skate devices upon any arterial public street or adjacent
 sidewalk anywhere within the Village corporate limits, which includes the
-following streets:  Bell, East Washington, West Washington, Solon, Maple, South
+following streets: Bell, East Washington, West Washington, Solon, Maple, South
 Franklin, Miles, East Orange, West Orange, South Main, North Main, North,
 Walters, Ridgewood, Cleveland, Mill, Church, East Summit, and West Summit.
 4. _(d)_ Every person riding a skateboard or wearing roller blades or roller

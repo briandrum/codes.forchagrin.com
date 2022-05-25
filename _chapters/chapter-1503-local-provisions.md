@@ -16,7 +16,7 @@ title: "Chapter 1503: Local Provisions"
 * [1503.071   Central station monitored fire alarm system requirement](#1503071-central-station-monitored-fire-alarm-system-requirement)
 * [1503.08   Fire alarm systems](#150308-fire-alarm-systems)
 * [1503.09   Water-based fire protection systems](#150309-water-based-fire-protection-systems)
-* [1503.10   Standpipes and Fire  Department connections](#150310-standpipes-and-fire-department-connections)
+* [1503.10   Standpipes and Fire Department connections](#150310-standpipes-and-fire-department-connections)
 * [1503.11   Key boxes](#150311-key-boxes)
 * [1503.12   Inspection required prior to occupancy](#150312-inspection-required-prior-to-occupancy)
 * [1503.99   Penalty](#150399-penalty)
@@ -198,7 +198,7 @@ violation shall be deemed to be a separate offense.
 
 ## 1503.071   Central Station Monitored Fire Alarm System Requirement.
 
-1. _(a)_  Definitions. For purposes of this Section 1503.071, the following terms shall have the following meanings:
+1. _(a)_ Definitions. For purposes of this Section 1503.071, the following terms shall have the following meanings:
 
     1. _(1)_ "Central Station Monitored Fire Alarm System" means an NFPA 72
 complaint system which, when activated by smoke, fire or other emergency

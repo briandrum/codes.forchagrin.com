@@ -15,16 +15,14 @@ title: "Chapter 1138: Central Shopping District"
 
 ## Cross references
 
-           Garbage or refuse outside eating establishments - see GEN. OFF.
-521.10
-           Off-street parking - see P. & Z.
-1141.05
-           Signs permitted - see P. & Z.
-1143.06
+* Garbage or refuse outside eating establishments - see GEN. OFF. 521.10
+* Off-street parking - see P. & Z. 1141.05
+* Signs permitted - see P. & Z. 1143.06
 
 ## 1138.01   Intent
 
-     In addition to the applicable provisions of the intent stated in Section 1105.03, it is the intent of these district regulations to promote retail
+In addition to the applicable provisions of the intent stated in Section
+1105.03, it is the intent of these district regulations to promote retail
 business development appropriately designed and located to achieve, among
 others, the following objectives:
 
@@ -50,11 +48,11 @@ downtown core while accommodating new investment.
 
 ## 1138.02   Permitted uses
 
-     In the Central Shopping District, more than one (1) main building may be
-grouped on a lot provided that such grouping shall comply with the requirements
-of this District. Buildings and land shall be used by right of only the main
-and accessory uses set forth below. Except as otherwise permitted, such uses
-shall be conducted within completely enclosed buildings.
+In the Central Shopping District, more than one (1) main building may be grouped
+on a lot provided that such grouping shall comply with the requirements of this
+District. Buildings and land shall be used by right of only the main and
+accessory uses set forth below. Except as otherwise permitted, such uses shall
+be conducted within completely enclosed buildings.
 
 1. _(a)_ Main Uses.
     1. _(1)_ Office uses. General and medical office uses as permitted in
@@ -92,7 +90,7 @@ establishments offering classes in such areas as self-improvement, dance, exam
 preparation and weight loss, provided that no such use shall occupy a ground
 floor space with frontage on a public street from which that space has access.
     6. _(6)_ Public buildings. Village hall, library, post office and other
-public facilities, providing frequently used, pedestrian-oriented services. 
+public facilities, providing frequently used, pedestrian-oriented services.
 Police stations, fire stations and ambulance services shall be permitted only
 as regulated in Section 1138.05(d).
     7. _(7)_ Residential use. As regulated in Section 1138.05(g).
@@ -123,7 +121,7 @@ structures within the Central Shopping District.
 ## 1138.04   Yard and setback regulations
 
 For regulations regarding minimum yard and setback requirements, the same
-regulations contained in Section 1137.04  of the Retail Business District shall also apply to the land and
+regulations contained in Section 1137.04 of the Retail Business District shall also apply to the land and
 structures within the Central Shopping District.  
 (Ord. 2019-39. Passed 8-13-19.)
 
@@ -135,16 +133,16 @@ regulations set forth below:
 1. _(a)_ Full-Service Restaurants. As used in this chapter, "full-service
 restaurant" means a place where food and beverages are sold and consumed on-
 premises within a completely enclosed building, except as otherwise permitted
-herein. 
+herein.
     1. _(1)_ A full- service restaurant shall have a host and/or hostess to seat
 customers, provide table service to customers with food orders taken and food
-delivered to tables by waiters and /or waitresses. 
+delivered to tables by waiters and /or waitresses.
     2. _(2)_ Outdoor service shall be limited to seating areas which are not
 located in setbacks. Furthermore, indoor and permitted outdoor service areas
 for each establishment shall be sufficient in size to accommodate the majority
-of customers served. 
+of customers served.
     3. _(3)_ Direct service to customers in automobiles or other vehicles shall
-not be permitted. 
+not be permitted.
     4. _(4)_ Carry-out service shall only be permitted as an incidental use to a
 full-service restaurant which otherwise complies with the requirements of this
 Planning and Zoning Code.
@@ -164,18 +162,18 @@ commercial street frontage, police, fire and ambulance service uses shall be
 located on streets other than Main, or Franklin Streets.
 5. _(e)_ Hotels. Dwelling units in a hotel shall be limited to a maximum
 density of thirty units per acre and a minimum floor area of 300 square feet
-per unit. 
+per unit.
 6. _(f)_ Residential Use. Residential uses shall be developed and maintained
 in accordance with the following:
     1. _(1)_ No residential use shall occupy a ground floor space with frontage
-on a public street. 
+on a public street.
     2. _(2)_ Private, off-street parking, or public off-street parking by
 Municipal permit, must be secured for overnight parking and must accommodate a
 minimum of one parking space per efficiency or one bedroom unit and two parking
 spaces for two or more bedroom units. The provision of such spaces shall not
 result in the reduction of the required number of parking spaces for any other
 permitted use.
-    3. _(3)_ Minimum dwelling unit area:  500 square feet for an efficiency, 750
+    3. _(3)_ Minimum dwelling unit area: 500 square feet for an efficiency, 750
 square feet for a one bedroom unit, and 150 square feet for each additional
 bedroom.
     4. _(4)_ All utility equipment and mechanical systems shall be installed so
@@ -187,8 +185,7 @@ commercial character.
 
 ## 1138.06   Supplemental regulations
 
-       For regulations regarding off-street parking and loading, landscaping,
-lighting, signs and environmental performance, refer to Chapters
-1141 -
-1150 of the Planning and Zoning Code.  
+For regulations regarding off-street parking and loading, landscaping, lighting,
+signs and environmental performance, refer to Chapters 1141 - 1150 of the
+Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)

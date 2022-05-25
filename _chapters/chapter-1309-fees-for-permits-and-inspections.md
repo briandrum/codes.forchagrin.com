@@ -132,7 +132,7 @@ required, shall be as follows:
     Water Regulations, Part Nine, Streets & Public Services Code  
 (Ord. 2014-06. Passed 1-27-14.)
 
-## 1309.08   Additions or alterations to apartments or multiple  dwellings
+## 1309.08   Additions or alterations to apartments or multiple dwellings
 
 The fees for additions or alterations to apartments or multiple dwellings,
 if no State permit is required, shall be as follows:

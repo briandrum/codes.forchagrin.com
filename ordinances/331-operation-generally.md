@@ -28,7 +28,7 @@ title: "Chapter 331: Operation Generally"
 * [331.20   Emergency or public safety vehicles at stop signals or signs](#33120-emergency-or-public-safety-vehicles-at-stop-signals-or-signs)
 * [331.21   Right of way of public safety or coroner’s vehicle](#33121-right-of-way-of-public-safety-or-coroner’s vehicle)
 * [331.211   Report of vehicle failing to yield right of way to public safety vehicle](#331211-report-of-vehicle-failing-to-yield-right-of-way-to-public-safety-vehicle)
-* [331.22   Driving onto roadwayfrom place other than roadway:  duty to yield](#33122-driving-onto-roadwayfrom-place-other-than-roadway-duty-to-yield)
+* [331.22   Driving onto roadwayfrom place other than roadway: duty to yield](#33122-driving-onto-roadwayfrom-place-other-than-roadway-duty-to-yield)
 * [331.23   Driving onto roadway from place other than roadway: stopping at sidewalk](#33123-driving-onto-roadway-from-place-other-than-roadway-stopping-at-sidewalk)
 * [331.24   Right of way of funeralprocession](#33124-right-of-way-of-funeralprocession)
 * [331.25   Driver’s view and control to be unobstructed by load or persons](#33125-drivers-view-and-control-to-be-unobstructed-by-load-or-persons)
@@ -52,7 +52,7 @@ title: "Chapter 331: Operation Generally"
 * [331.43   Shortcutting; evasion of traffic control signals or device](#33143-shortcutting-evasion-of-traffic-control-signals-or-device)
 * [331.44   Littering from motorvehicle](#33144-littering-from-motorvehicle)
 * [331.45   Wearing earplugs or earphones prohibited](#33145-wearing-earplugs-or-earphones-prohibited)
-* [331.46   Vehicular operation on  street closed due to rise in water level](#33146-vehicular-operation-on-street-closed-due-to-rise-in-water-level)
+* [331.46   Vehicular operation on street closed due to rise in water level](#33146-vehicular-operation-on-street-closed-due-to-rise-in-water-level)
 
 ## Cross references
 
@@ -121,7 +121,7 @@ offender is subject to the additional fine established under Section 303.991 of 
 each other to the right, and upon roadways having width for not more than one
 line of traffic in each direction, each operator shall give to the other one-
 half of the main traveled portion of the roadway or as nearly one-half as is
-reasonably possible. 
+reasonably possible.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -154,7 +154,7 @@ overtaking vehicle.
 proceeding in the same direction on a divided street or highway as defined in
 Section 331.31, a limited access highway as defined in Ohio R.C. 5511.02 or a highway
 with four or more traffic lanes, is not required to signal audibly to the
-vehicle being overtaken and passed. 
+vehicle being overtaken and passed.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -231,7 +231,7 @@ bridge, viaduct or tunnel;
 or railroad grade crossing.
 2. _(b)_ This section does not apply to vehicles upon a one-way roadway, upon a
 roadway where traffic is lawfully directed to be driven to the left side or
-under the conditions described in Section 331.01(a)(2). 
+under the conditions described in Section 331.01(a)(2).
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -264,7 +264,7 @@ to indicate the beginning and end of each no passing zone.
 When appropriate signs or markings indicating hazardous or no passing zones
 are in place and clearly visible, every operator of a vehicle shall obey the
 directions of the signs or markings, notwithstanding the distance set out in
-Section 331.06. 
+Section 331.06.
 2. _(b)_ Subsection (a) of this section does not apply when all of the
 following apply:
     1. _(1)_ The slower vehicle is proceeding at less than half the speed of the
@@ -311,7 +311,7 @@ the use of a particular lane to only buses during certain hours or during all
 hours, and drivers of vehicles shall obey the directions of such signs.
     4. _(4)_ Official traffic control devices may be installed prohibiting the
 changing of lanes on sections of roadway and drivers of vehicles shall obey the
-directions of every such device. 
+directions of every such device.
     5. _(5)_ The driver of a motor vehicle shall not operate on any parts of a
 roadway marked and designated as a parking zone.  
 (Ord. 1987-45. Passed 11-9-87.)
@@ -464,9 +464,9 @@ until such movement can be made with reasonable safety.
 Before backing, operators of vehicles shall give ample warning, and while
 backing they shall exercise vigilance not to injure person or property on the
 street or highway.  
-No person shall back a motor vehicle on a freeway, except:  in a rest area;
+No person shall back a motor vehicle on a freeway, except: in a rest area;
 in the performance of public works or official duties; as a result of an
-emergency caused by an accident or breakdown of a motor vehicle. 
+emergency caused by an accident or breakdown of a motor vehicle.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -512,7 +512,7 @@ The signal lights required by this section shall not be flashed on one side
 only on a disabled vehicle, flashed as a courtesy or "do pass" signal to
 operators of other vehicles approaching from the rear, nor be flashed on one
 side only of a parked vehicle except as may be necessary for compliance with
-this section. 
+this section.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -532,13 +532,13 @@ offender is subject to the additional fine established under Section 303.991 of 
 this Traffic Code, when given by hand and arm shall be given from the left side
 of the vehicle in the following manner, and such signals shall indicate as
 follows:
-    1. _(1)_ Left turn:  Hand and arm extended horizontally;
-    2. _(2)_ Right turn:  Hand and arm extended upward;
-    3. _(3)_ Stop or decrease speed:  Hand and arm extended downward.
+    1. _(1)_ Left turn: Hand and arm extended horizontally;
+    2. _(2)_ Right turn: Hand and arm extended upward;
+    3. _(3)_ Stop or decrease speed: Hand and arm extended downward.
 2. _(b)_ As an alternative to subsection (a)(2) hereof, a person operating a
 bicycle or electric bicycle may give a right turn signal by extending the right
 hand and arm horizontally and to the right side of the bicycle or electric
-bicycle. 
+bicycle.
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -584,7 +584,7 @@ offender is subject to the additional fine established under Section 303.991 of 
 intersection or into an alley, private road or driveway shall yield the right
 of way to any vehicle approaching from the opposite direction, whenever the
 approaching vehicle is within the intersection or so close to the intersection,
-alley, private road or driveway as to constitute an immediate hazard. 
+alley, private road or driveway as to constitute an immediate hazard.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -612,7 +612,7 @@ an immediate hazard during the time the driver is moving across or within the
 intersection or junction of roadways. Whenever a driver is involved in a
 collision with a vehicle in the intersection or junction of roadways, after
 driving past a yield sign without stopping, the collision shall be prima-facie
-evidence of the driver’s failure to yield the right of way. 
+evidence of the driver’s failure to yield the right of way.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -656,7 +656,7 @@ offender is subject to the additional fine established under Section 303.991 of 
 responding to an emergency call, upon approaching a red or stop signal or any
 stop sign shall slow down as necessary for safety to traffic, but may proceed
 cautiously past such red or stop sign or signal with due regard for the safety
-of all persons using the street or highway. 
+of all persons using the street or highway.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -747,7 +747,7 @@ of the Public Utilities Commission.
 1. _(a)_ Subject to compliance with any traffic control device, the operator of
 a vehicle about to enter or cross a highway from an alley or from any place
 other than another roadway shall yield the right of way to all traffic
-approaching on the roadway to be entered or crossed. 
+approaching on the roadway to be entered or crossed.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -861,7 +861,7 @@ safety vehicle on official business, shall not follow any emergency vehicle or
 public safety vehicle traveling in response to an alarm closer than 500 feet,
 or drive into or park such vehicle within the block where fire apparatus has
 stopped in answer to a fire alarm, unless directed to do so by a police officer
-or a firefighter. 
+or a firefighter.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -879,7 +879,7 @@ offender is subject to the additional fine established under Section 303.991 of 
 
 1. _(a)_ No vehicle shall, without the consent of the Fire Chief or fire
 official in command, be driven over any unprotected fire hose that is laid down
-on any street or private driveway to be used at any fire or alarm of fire. 
+on any street or private driveway to be used at any fire or alarm of fire.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -915,7 +915,7 @@ offender is subject to the additional fine established under Section 303.991 of 
 1. _(a)_ Upon a roadway designated and posted with signs for one-way traffic a
 vehicle shall be driven only in the direction designated. A vehicle passing
 around a rotary traffic island shall be driven only to the right of the rotary
-traffic island. 
+traffic island.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -936,10 +936,10 @@ intervening space, or by a physical barrier, or clearly indicated dividing
 section so constructed as to impede vehicular traffic, every vehicle shall be
 driven only upon the right-hand roadway, and no vehicle shall be driven over,
 across or within any such dividing space, barrier or median section, except
-through an opening, crossover or intersection established by public authority. 
+through an opening, crossover or intersection established by public authority.
 This section does not prohibit the occupancy of such dividing space, barrier or
 median section for the purpose of an emergency stop or in compliance with an
-order of a police officer. 
+order of a police officer.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -1099,7 +1099,7 @@ vehicle overtaking the school bus shall comply with subsection (a) hereof.
 more traffic lanes shall receive and discharge all school children, persons
 attending programs offered by community boards of mental health and County
 boards of developmental disabilities, and children attending programs offered
-by head start agencies  on their residence side of the highway.
+by head start agencies on their residence side of the highway.
 5. _(e)_ No school bus driver shall start the driver’s bus until after any
 child, person attending programs offered by community boards of mental health
 and County boards of developmental disabilities, or child attending a program
@@ -1114,8 +1114,8 @@ of a type approved by the State Board of Education, is painted the color and
 displays the markings described in Ohio R.C. 4511.77, and is equipped with
 amber and red visual signals meeting the requirements of Ohio R.C. 4511.771,
 irrespective of whether or not the bus has fifteen or more children aboard at
-any time.  “School bus” does not include a van owned and operated by a head
-start agency, irrespective of its color, lights, or markings. 
+any time. “School bus” does not include a van owned and operated by a head
+start agency, irrespective of its color, lights, or markings.
 7. _(g)_
     1. _(1)_ Whoever violates subsection (a) of this section may be fined an
 amount not to exceed five hundred dollars ($500.00). A person who is issued a
@@ -1138,7 +1138,7 @@ Motor Vehicles, together with notice of the court’s action.
 
 1. _(a)_
     1. _(1)_ Whenever any person driving a vehicle approaches a railroad
-grade  crossing, the person shall stop within fifty feet, but not less than
+grade crossing, the person shall stop within fifty feet, but not less than
 fifteen feet from the nearest rail of the railroad, if any of the following
 circumstances exist at the crossing:
         1. _(A)_ A clearly visible electric or mechanical signal device gives
@@ -1228,7 +1228,7 @@ guilty of a misdemeanor of the fourth degree.
     1. _(1)_ When authorized stop signs are erected at railroad grade
 crossings, the operator of any vehicle shall stop within fifty but not less
 than fifteen feet from the nearest rail of the railroad tracks and shall
-exercise due care before proceeding across such grade crossing. 
+exercise due care before proceeding across such grade crossing.
     2. _(2)_ Except as otherwise provided in this subsection, whoever violates
 this subsection (b)(1) hereof is guilty of a minor misdemeanor. If, within one
 year of the offense, the offender previously has been convicted of or pleaded
@@ -1328,7 +1328,7 @@ the motor vehicle, except into a litter receptacle in a manner that prevents
 its being carried away or deposited by the elements.
 3. _(c)_ As used in this section, "litter" means garbage, trash, waste,
 rubbish, ashes, cans, bottles, wire, paper, cartons, boxes, automobile parts,
-furniture, glass or anything else of an unsightly or unsanitary nature. 
+furniture, glass or anything else of an unsightly or unsanitary nature.
 4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4511.82)
 

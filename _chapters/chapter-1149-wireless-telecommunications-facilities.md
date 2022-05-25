@@ -52,7 +52,7 @@ by the Federal Communications Commission are transmitted or received. Antennas
 used by amateur radio operators are excluded from this definition.
 7. _(g)_ "Wireless telecommunications equipment shelter" means the structure in
 which the electronic receiving and relay equipment for a wireless
-telecommunications facility is housed. 
+telecommunications facility is housed.
 8. _(h)_ "Wireless telecommunications facility" means a facility consisting of
 the equipment and structures involved in receiving telecommunications or radio
 signals from a mobile radio communications source and transmitting those
@@ -65,9 +65,9 @@ including monopoles, guyed and lattice construction steel structures.
 
 ## 1149.03   Administrative procedures
 
-     In addition to the requirements of Chapter 1109, the following procedures are established to govern the processing of
-applications for placement and operation of wireless telecommunication
-facilities as regulated in this chapter.
+In addition to the requirements of Chapter 1109, the following procedures are
+established to govern the processing of applications for placement and operation
+of wireless telecommunication facilities as regulated in this chapter.
 
 1. _(a)_ When a wireless telecommunications facility is proposed, the applicant
 shall submit:
@@ -108,9 +108,9 @@ experience in judgments for damages in tort cases, and new types of coverages
 when made available to the wireless telecommunications industry, or to cover
 those amounts and types of coverages a wireless telecommunications tower owner
 in Cuyahoga County customarily requires carriers to provide for the owner’s
-benefit. 
+benefit.
 2. _(b)_ The Administrator may waive any of the above requirements which he
-determines to be inapplicable in specific instances. 
+determines to be inapplicable in specific instances.
 3. _(c)_ In addition to the Review and Approval Procedures set forth in Section 1109.05, an application for the placement of a wireless telecommunication
 shall be subject to the following:
     1. _(1)_ Upon receiving the completed application, the Planning and Zoning
@@ -197,8 +197,7 @@ the maximum extent possible.
 
 ## 1149.05   Minimum area, height and design requirements
 
-     Wireless telecommunications facilities are subject to the following
-conditions:
+Wireless telecommunications facilities are subject to the following conditions:
 
 1. _(a)_ Minimum Lot Size.  The area needed to accommodate the tower (and guy
 wires, if used), the equipment shelter, security fencing, buffer planting, and
@@ -210,12 +209,12 @@ use lot line or residential district lot line shall be 300 feet.
     2. _(2)_ Equipment shelter. The minimum setback for the applicable zoning
 district.
 3. _(c)_ Maximum Height.
-    1. _(1)_ Tower.  150 feet including antenna.
+    1. _(1)_ Tower. 150 feet including antenna.
     2. _(2)_ Equipment shelter.  15 feet above finished grade.
     3. _(3)_ Antenna attached to existing building or structure.  20 feet or 20%
 of the building height above the existing building or structure, whichever is
 less.
-4. _(d)_ Maximum Size of Equipment Shelter.  300 square feet for a single
+4. _(d)_ Maximum Size of Equipment Shelter. 300 square feet for a single
 shelter, or, if there is more than one, 750 total square feet for all shelters.
 The Planning and Zoning Commission may require that providers utilize a single
 shelter or construct multiple shelters so that they share common walls with
@@ -246,13 +245,13 @@ the lien with the Cuyahoga County Recorder.
 ## 1149.07   Supplemental regulations
 
 1. _(a)_ The location of the tower and equipment shelter shall comply with all
-natural  resource protection standards including Chapter 1144, Environmental Performance  Regulations, and, Chapter 1152, Hillside Protection.
+natural resource protection standards including Chapter 1144, Environmental Performance Regulations, and, Chapter 1152, Hillside Protection.
 2. _(b)_ Security fencing shall surround the tower, equipment shelter and any
-guy wires,  either completely or individually as required by Chapter 1142, Landscaping Regulations, and  Chapter 1148, Fences, Walls and Hedges.
+guy wires, either completely or individually as required by Chapter 1142, Landscaping Regulations, and Chapter 1148, Fences, Walls and Hedges.
 3. _(c)_ Any application to locate an antenna on a building or structure that
 is listed on an historic register, or is in an historic district shall be
 subject to review by the Architectural Board of Review in accordance with
 Chapter 1146, Historic Preservation Regulations.
 4. _(d)_ No advertising is permitted anywhere on the facility with the
-exception of  incidental signs as permitted by Chapter 1143, Signs.  
+exception of incidental signs as permitted by Chapter 1143, Signs.  
 (Ord. 2019-39. Passed 8-13-19.)

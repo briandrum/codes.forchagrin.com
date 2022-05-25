@@ -28,7 +28,7 @@ title: "Chapter 505: Animals and Fowl"
 * [505.19   Impoundment of dogs involved in biting/attacking incidents](#50519-impoundment-of-dogs-involved-in-biting-attacking-incidents)
 * [505.20   Dangerous and vicious dog impounding procedure; redemption or disposition](#50520-dangerous-and-vicious-dog-impounding-procedure-redemption-or-disposition)
 * [505.21   Court order to remove or destroy animal](#50521-court-order-to-remove-or-destroy-animal)
-505.22   Designation of dog as  “dangerous” and “vicious”.
+* [505.22   Designation of dog as “dangerous” and “vicious”.](#50522-designation-of-dog-as-dangerous-and-vicious)
 * [505.23   Dangerous and vicious dog appeal](#50523-dangerous-and-vicious-dog-appeal)
 * [505.99   Penalty](#50599-penalty)
 
@@ -163,7 +163,7 @@ animal or livestock and may provide for its disposition including, but not
 limited to, the sale of the animal or livestock. If an animal or livestock is
 forfeited and sold pursuant to this subsection, the proceeds from the sale
 first shall be applied to pay the expenses incurred with regard to the care of
-the animal from the time it was taken from the custody of the former owner. 
+the animal from the time it was taken from the custody of the former owner.
 The balance of the proceeds from the sale, if any, shall be paid to the former
 owner of the animal.  
 (ORC 959.99)
@@ -173,7 +173,7 @@ owner of the animal.
 1. _(a)_ As used in this section:
     1. _(1)_ “Companion animal” means any animal that is kept inside a
 residential dwelling and any dog or cat regardless of where it is kept,
-including a pet store as defined in Ohio R.C. 956.01.  “Companion animal” does
+including a pet store as defined in Ohio R.C. 956.01. “Companion animal” does
 not include livestock or any wild animal.
     2. _(2)_ “Cruelty”, “torment” and “torture” have the same meanings as in
 Ohio R.C. 1717.01.
@@ -184,11 +184,11 @@ a habitation.
 R.C. 4741.01.
     5. _(5)_ “Wild animal” has the same meaning as in Ohio R.C. 1531.01.
     6. _(6)_ “Federal animal welfare act” means the “Laboratory Animal Act of
-1966", Pub. L. No.  89-544, 80 Stat.  350 (1966), 7 U.S.C.A. 2131 et seq., as
-amended by the “Animal Welfare Act of 1970", Pub. L. No.  91-579, 84 Stat. 
-1560 (1970), the “Animal Welfare Act Amendments of 1976", Pub. L. No.  94-279,
-90 Stat.  417 (1976), and the “Food Security Act of 1985", Pub. L. No.  99-
-198, 99 Stat.  1354 (1985), and as it may be subsequently amended.
+1966", Pub. L. No. 89-544, 80 Stat. 350 (1966), 7 U.S.C.A. 2131 et seq., as
+amended by the “Animal Welfare Act of 1970", Pub. L. No. 91-579, 84 Stat.
+1560 (1970), the “Animal Welfare Act Amendments of 1976", Pub. L. No. 94-279,
+90 Stat. 417 (1976), and the “Food Security Act of 1985", Pub. L. No. 99-
+198, 99 Stat. 1354 (1985), and as it may be subsequently amended.
     7. _(7)_ “Dog kennel” means an animal rescue for dogs that is registered
 under Ohio R.C. 956.06, a boarding kennel or a training kennel.
 2. _(b)_ No person shall knowingly torture, torment, needlessly mutilate or
@@ -245,7 +245,7 @@ provides for the distribution of fine moneys, the Clerk of Court shall forward
 all fines the Clerk collects that are so imposed for any violation of this
 section to the Treasurer of the municipality, whose county humane society or
 law enforcement agency is to be paid the fine money as determined under this
-section. The Treasurer shall pay the fine moneys to the county humane  society
+section. The Treasurer shall pay the fine moneys to the county humane society
 or the county, township, municipal corporation, or state law enforcement agency
 in this state that primarily was responsible for or involved in the
 investigation and prosecution of the violation. If a county humane society
@@ -328,11 +328,11 @@ degree.
 ## 505.10   Animal bites; reports and quarantine
 
 1. _(a)_ Whenever any person is bitten by a dog or other animal, report of
-such bite shall  be made to the Health Commissioner within  twenty-four  hours.
-The dog or other animal inflicting a bite shall immediately  be examined by a
-qualified veterinarian and results of such  examination shall be  reported to
-the Health Commission  within twenty-four hours. At the direction of the Health
-Commissioner, the dog  or other animal  shall either be confined  by its owner
+such bite shall be made to the Health Commissioner within twenty-four hours.
+The dog or other animal inflicting a bite shall immediately be examined by a
+qualified veterinarian and results of such examination shall be reported to
+the Health Commission within twenty-four hours. At the direction of the Health
+Commissioner, the dog or other animal shall either be confined by its owner
 or harborer to his premises away from the public at large, or be placed under
 supervision of a veterinarian at the owner’s or harborer’s expense. The
 isolation or observation period shall not be less than ten days from the date
@@ -385,7 +385,7 @@ in the Municipality a horse or pony shall, before January 20 of each year, file
 in the office of the Chief Administrative Officer of the Municipality an
 application for registration for the following year, stating the age, sex,
 color, height and distinctive markings of such horse or pony, and the name and
-address of the owner. A registration fee of seven  dollars  and fifty cents
+address of the owner. A registration fee of seven dollars and fifty cents
 ($7.50) for each horse or pony shall accompany such application.  
 If such application for registration is not filed and the fee paid on or
 before January 20 of each year, the Municipality shall assess a penalty of
@@ -406,7 +406,7 @@ shall fail to file the application for registration, nor shall he fail to pay
 the legal fee therefor.
 5. _(e)_ Misdemeanor Classification. Whoever violates this section is guilty
 of a misdemeanor of the third degree.  
-(Ord. 1978-1122. Passed 10-9-78; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28. 
+(Ord. 1978-1122. Passed 10-9-78; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28.
 Passed 6-13-05.)
 
 ## 505.15   Certain animals prohibited
@@ -465,12 +465,12 @@ or otherwise endanger any person, or which presents a risk to the safety of any
 person, or which has caused serious physical injury or death to another
 domestic animal.
     1. _(1)_ A "dangerous dog" shall not include the following:
-        1. _(A)_  A police dog that is being used to assist one or more law
+        1. _(A)_ A police dog that is being used to assist one or more law
 enforcement officers in the performance of their duties.
     2. _(2)_ It shall be prima-facie evidence that a dog is dangerous if its
 owner, keeper or harborer has been notified in writing by the Chief of Police
 that the dog is considered dangerous, based on the following:
-        1. _(A)_  One or more verified incidents reported to the Village that the
+        1. _(A)_ One or more verified incidents reported to the Village that the
 dog (i) has chased or approached in either a menacing fashion or an apparent
 attitude of attack or has attempted to bite or otherwise endanger any person or
 (ii) has caused serious physical injury or death to any domestic animal.
@@ -653,7 +653,7 @@ dangerous or vicious dog represents a continuing threat of serious harm to
 human beings or other domestic animals.
 11. _(k)_ In prosecutions for a violation of division (a) or (e) hereof in
 connection with which a dog has caused injury or serious injury to or the death
-of a person or domestic  animal, any of the following may be asserted as an
+of a person or domestic animal, any of the following may be asserted as an
 affirmative defense as applicable:
     1. _(1)_ The dog was teased, tormented or abused by a person.
     2. _(2)_ The dog was coming to the aid or defense of a person who was not

@@ -18,41 +18,44 @@ title: "Chapter 1119: Districts Established; Zoning Map"
 
 ## 1119.01   Districts
 
-     For the purpose of this Planning and Zoning Code, and to carry out its
+For the purpose of this Planning and Zoning Code, and to carry out its
 objectives, the following classification of districts is hereby established in
 the Municipality:
-                Title                    Abbreviation
-      Conservation District         C
-      Park District             P
-      Institutional District         I
-      Residential Districts   
-         One-Family 100      R1-100
-         One-Family 60      R1-60
-         One-Family 50      R1-50
-         One-Family Cluster      R1-C
-         Two-Family         R2F
-         Attached Single Family   ASF
-         Multi-Family 10      RMF-10
-         Multi-Family 15      RMF-15
-         Retirement Living      RL
-      Business Districts   
-         Office Building      O
-         Retail Business      R
-         Central Shopping      CS
-      Limited Industrial         LI
-      Overlay Districts   
-         Residential Mixed Use   RMU  
+
+| Title                     | Abbreviation |
+|---------------------------|--------------|
+| Conservation District     | C            |
+| Park District             | P            |
+| Institutional District    | I            |
+| Residential Districts     |              |
+|    One-Family 100         | R1-100       |
+|    One-Family 60          | R1-60        |
+|    One-Family 50          | R1-50        |
+|    One-Family Cluster     | R1-C         |
+|    Two-Family             | R2F          |
+|    Attached Single Family | ASF          |
+|    Multi-Family 10        | RMF-10       |
+|    Multi-Family 15        | RMF-15       |
+|    Retirement Living      | RL           |
+| Business Districts        |              |
+|    Office Building        | O            |
+|    Retail Business        | R            |
+|    Central Shopping       | CS           |
+| Limited Industrial        | LI           |
+| Overlay Districts         |              |
+|    Residential Mixed Use  | RMU          |
+
 (Ord. 2019-39. Passed 8-13-19.)
 
-## 1119.02   Zoning  map
+## 1119.02   Zoning map
 
-       The aforesaid districts are designated by symbols and the locations and
+The aforesaid districts are designated by symbols and the locations and
 boundaries of such districts are established on the Map entitled "Zoning Map of
-the Municipality of Chagrin Falls, or the Village of Chagrin Falls Zoning Map
-", or similar title and referred to in the Planning and Zoning Code as the Map
-or Zoning Map. The notations, schedules and other information shown thereon and
-all amendments thereto are hereby made a part of this Planning and Zoning Code.
-The Map shall indicate the approval of the Planning and Zoning Commission and
+the Municipality of Chagrin Falls, or the Village of Chagrin Falls Zoning Map ",
+or similar title and referred to in the Planning and Zoning Code as the Map or
+Zoning Map. The notations, schedules and other information shown thereon and all
+amendments thereto are hereby made a part of this Planning and Zoning Code. The
+Map shall indicate the approval of the Planning and Zoning Commission and
 adoption by Council. The Map, or a print thereof, shall be on file with the
 Clerk of Council and the Administrator and shall be the final authority as to
 the status of current zoning map districts.  
@@ -60,9 +63,9 @@ the status of current zoning map districts.
 
 ## 1119.03   District boundary lines
 
-     The district boundary lines of the Map enclose an area of a designated
-district, and generally follow the center lines of streets, alleys, and lot
-lines or their extensions, provided, however:
+The district boundary lines of the Map enclose an area of a designated district,
+and generally follow the center lines of streets, alleys, and lot lines or their
+extensions, provided, however:
 
 1. _(a)_ Where a district boundary line is shown by dimension or relationship
 as being located a specific distance from and parallel to a street or property
@@ -89,8 +92,7 @@ appropriate regulations of the extended district.
 
 ## 1119.04   Annexed territory
 
-     All territory which may hereafter be annexed to the Municipality if
-already zoned shall be continued in its existing zone classification until
-amended in conformance with the procedure outlined in this Planning and Zoning
-Code.  
+All territory which may hereafter be annexed to the Municipality if already
+zoned shall be continued in its existing zone classification until amended in
+conformance with the procedure outlined in this Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)

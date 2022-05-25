@@ -14,7 +14,8 @@ title: "Chapter 1121: Conservation District"
 
 ## 1121.01   Intent
 
-     In addition to the applicable provisions of the intent stated in Section 1105.03, the Conservation District shall be applied only to publicly owned land
+In addition to the applicable provisions of the intent stated in Section
+1105.03, the Conservation District shall be applied only to publicly owned land
 and is established for the following objectives:
 
 1. _(a)_ To preserve and protect the values of distinctive geologic,
@@ -28,8 +29,8 @@ recreation that are compatible with the other objectives of the District.
 
 ## 1121.02   Permitted uses
 
-     In a Conservation District, buildings and land shall be used by right for
-only the main and accessory uses set forth below.
+In a Conservation District, buildings and land shall be used by right for only
+the main and accessory uses set forth below.
 
 1. _(a)_ Main Uses.
     1. _(1)_ Forestry.
@@ -42,14 +43,14 @@ habitats.
     1. _(1)_ Off-street parking areas, driveways and walkways.
     2. _(2)_ Sanitation facilities completely enclosed within a permitted main
 building or structure, or suitably and attractively screened from view where
-such screening is in conformance with Section 1142.07 of the Planning and Zoning Code 
+such screening is in conformance with Section 1142.07 of the Planning and Zoning Code
     3. _(3)_ Lighting structures as regulated in Chapter 1150 of this Planning and Zoning Code and flagpoles.
     4. _(4)_ Fences, walls and hedges as regulated in Chapter 1148.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1121.03   Area, yard and height regulations
 
-     In the Conservation District, land and structures shall be developed and
+In the Conservation District, land and structures shall be developed and
 maintained in accordance with area, yard and height regulations authorized by
 the Planning and Zoning Commission. Such authorization shall be based on a site
 plan as required in Section 1109.04 and the following:
@@ -62,7 +63,7 @@ Municipal officers as applicable.
 
 ## 1121.04   Development standards
 
-     In the Conservation District, land and structures shall be developed and
+In the Conservation District, land and structures shall be developed and
 maintained in accordance with the following standards:
 
 1. _(a)_ The preservation and appropriate management of all timber shall be

@@ -21,7 +21,7 @@ title: "Chapter 901: Street Openings and Excavations"
 * Abandoned excavations - see GEN. OFF. 521.03
 * Misdemeanor provisions relating to streets and sidewalks - see GEN. OFF Ch.
 543
-* Bond of private builder against damage or nuisance to street - see BLDG. 
+* Bond of private builder against damage or nuisance to street - see BLDG.
 1307.03
 * Filling street excavations and restoring street area upon revocation of
 building permit - see BLDG 1307.09
@@ -32,7 +32,7 @@ building permit - see BLDG 1307.09
 No person, except a contractor performing Village work on a regularly
 awarded Village contract, shall excavate within or bore or tunnel through,
 along or across the limits of any street, alley or public grounds in or owned
-by the Village, for the purpose  of installing sewer, water or gas lines,
+by the Village, for the purpose of installing sewer, water or gas lines,
 telephone or power conduits or cables, or any other structure, without first
 having obtained a permit for such work from the Village.  
 (Ord. 1985-8. Passed 2-25-85.)

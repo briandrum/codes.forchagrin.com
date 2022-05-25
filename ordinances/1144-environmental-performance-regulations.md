@@ -17,18 +17,17 @@ Solar energy systems - see P. & Z. Ch. 1153
 
 ## 1144.01   Intent
 
-       These environmental performance regulations are established in order to
-protect local residents and property from offensive or harmful effects
-resulting from conduct of various activities.  
+These environmental performance regulations are established in order to protect
+local residents and property from offensive or harmful effects resulting from
+conduct of various activities.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1144.02   Regulations
 
-       The following regulations shall be observed in all zoning districts.
-Where similar regulations are presented elsewhere in this Planning and Zoning
-Code, the most restrictive regulations shall apply. See in particular Chapters
-1331 and
-1340 of the Building Code.
+The following regulations shall be observed in all zoning districts. Where
+similar regulations are presented elsewhere in this Planning and Zoning Code,
+the most restrictive regulations shall apply. See in particular Chapters 1331
+and 1340 of the Building Code.
 
 1. _(a)_ Outdoor Lighting.   Outdoor lighting shall comply with Chapter 1150 of this Planning and Zoning Code.
 2. _(b)_ Noise.  No use shall emit noise in violation of Section 509.08.
@@ -81,7 +80,7 @@ propose activities relevant to the above standards.
 
 ## 1144.04   Existing uses and facilities
 
-1. _(a)_  Determination of Violation. The Administrator shall investigate any
+1. _(a)_ Determination of Violation. The Administrator shall investigate any
 purported violation of these environmental performance regulations and if there
 are reasonable grounds for same, may request that the Municipal Engineer or
 other qualified professional determine the existence and nature of such

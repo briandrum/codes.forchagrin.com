@@ -56,19 +56,19 @@ compensation for their services as Council may from time to time determine, and
 each shall, before entering upon the duties of his office. give bond for the
 faithful performance of his duties in such sum and with such surety as may from
 time to time be required by Council. The obligee of the bond shall be the
-Municipality, and the bond shall be for the benefit of all parties  aggrieved
+Municipality, and the bond shall be for the benefit of all parties aggrieved
 by the acts or neglect of the principal.  
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1303.04   Duties of inspector
 
 The Building Inspector shall examine all buildings in the course of
-erection, alteration,  repair or removal throughout the Village, as often as
+erection, alteration, repair or removal throughout the Village, as often as
 required to insure efficient supervision, and shall be charged with the survey
 and inspection of buildings and with the enforcement of this Building Code and
 all other laws and ordinances relating to the erection, construction,
 alteration, repair, removal and safety of buildings, structures, elevators,
-heating apparatus,  gas fittings, house drainage and plumbing, steam boilers,
+heating apparatus, gas fittings, house drainage and plumbing, steam boilers,
 electric wiring, prevention of smoke, fire escapes and other fire protective
 devices. He shall pass upon all questions relating to the strength and
 durability of buildings, land structures and the quality of materials and
@@ -95,7 +95,7 @@ penalty provided in Section 1303.99.
 ## 1303.06   Records of inspector
 
 The Building Inspector shall keep suitable records, which are to be kept on
-file in the  office of the Municipality. In such records shall be recorded the
+file in the office of the Municipality. In such records shall be recorded the
 location and character of every building, structure or other work for which a
 certificate or permit is issued and a copy of every report of inspection of
 such building, structure or work, so arranged that the full history of the
@@ -133,7 +133,7 @@ the person responsible for such violation.
 ## 1303.09   Civil action
 
 Whenever any person fails, neglects or refuses to comply with any order of
-the Building  Inspector under the provisions of this Building Code, or whenever
+the Building Inspector under the provisions of this Building Code, or whenever
 any building or other structure is used or occupied so as to be in violation of
 or not in conformity with any provision of this Building Code, the Inspector
 may, in his discretion, institute and maintain in the name of the Municipality

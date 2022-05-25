@@ -113,7 +113,7 @@ computer use or data that is contained within a computer system or computer
 network.
 13. _(m)_ "Computer" means an electronic device that performs logical,
 arithmetic and memory functions by the manipulation of electronic or magnetic
-impulses.  "Computer" includes, but is not limited to, all input, output,
+impulses. "Computer" includes, but is not limited to, all input, output,
 processing, storage, computer program or communication facilities that are
 connected or related, in a computer system or network to an electronic device
 of that nature.
@@ -176,7 +176,7 @@ device that, alone or with another telecommunications device, has been altered,
 constructed, manufactured, or programmed to acquire, intercept, receive, or
 otherwise facilitate the use of a telecommunications service or information
 service without the authority or consent of the provider of the
-telecommunications service or information service.  “Counterfeit
+telecommunications service or information service. “Counterfeit
 telecommunications device” includes, but is not limited to, a clone telephone,
 clone microchip, tumbler telephone, or tumbler microchip; a wireless scanning
 device capable of acquiring, intercepting, receiving, or otherwise facilitating
@@ -263,7 +263,7 @@ offense, the value of the property or services involved for the purpose of
 determining the value is the aggregate value of all property and services
 involved in all of the offenses in the course of conduct.
     3. _(3)_ In prosecuting a single offense under subsection (b)(1) or (2), it
-is not necessary to separately allege and prove each offense in the series. 
+is not necessary to separately allege and prove each offense in the series.
 Rather, it is sufficient to allege and prove that the offender, within a given
 span of time, committed one or more theft offenses in the offender’s same
 employment, capacity, or relationship to another as described in subsection (b)
@@ -476,7 +476,7 @@ Ohio R.C. 2929.18 or 2929.28. Restitution may include, but is not limited to,
 the cost of repairing or replacing the stolen property, or the cost of
 repairing the stolen property and any loss of revenue resulting from
 deprivation of the property due to theft of rental services that is less than
-or equal to the actual value of the property at the time it was rented. 
+or equal to the actual value of the property at the time it was rented.
 Evidence of intent to commit theft of rented property or rental services shall
 be determined pursuant to the provisions of Ohio R.C. 2913.72.
 5. _(e)_ The sentencing court that suspends an offender’s license, permit, or
@@ -568,7 +568,7 @@ property. Except as provided in subsection (d) hereof, unauthorized use of
 property is a misdemeanor of the fourth degree.
 4. _(d)_ If unauthorized use of property is committed for the purpose of
 devising or executing a scheme to defraud or to obtain property or services,
-unauthorized use of property is a misdemeanor of the first degree. 
+unauthorized use of property is a misdemeanor of the first degree.
 Unauthorized use of property is a felony and shall be prosecuted under
 appropriate State law if:
     1. _(1)_ Unauthorized use of property is committed for the purpose of
@@ -816,9 +816,9 @@ which is to establish the identity of the bearer described on the card, whether
 the words "identity," "identification," "identification card" or other similar
 words appear on the card.
 2. _(b)_ Whoever violates subsection (a) hereof is guilty of forging
-identification cards or selling or distributing forged identification cards. 
+identification cards or selling or distributing forged identification cards.
 Except as otherwise provided in this subsection, forging or selling or
-distributing forged identification cards is a misdemeanor of the first degree. 
+distributing forged identification cards is a misdemeanor of the first degree.
 If the offender previously has been convicted of a violation of this section or
 Ohio R.C. 2913.31 (B), forging identification cards or selling or distributing
 forged identification cards is a misdemeanor of the first degree and, in

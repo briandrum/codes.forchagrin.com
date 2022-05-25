@@ -55,7 +55,7 @@ the following provisions, giving:
 
 1. _(a)_ His name and permanent address;
 2. _(b)_ The name and address of all persons who will be associated or engaged
-in such  public sale.
+in such public sale.
 3. _(c)_ The name and address of the party for whom the sale is being held.  
 (Ord. 1981-3. Passed 3-9-81.)
 

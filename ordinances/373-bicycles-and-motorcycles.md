@@ -54,7 +54,7 @@ both are referred to separately in the same paragraph.
 
 1. _(a)_ The provisions of this Traffic Code that are applicable to bicycles
 and electric bicycles apply whenever a bicycle or electric bicycle is operated
-upon any street or upon any path set aside for the exclusive use of bicycles. 
+upon any street or upon any path set aside for the exclusive use of bicycles.
 2. _(b)_ Except as provided in subsection (d) of this section, a bicycle
 operator or electric bicycle operator who violates any section of this Traffic
 Code described in subsection (a) of this section that is applicable to bicycles
@@ -147,7 +147,7 @@ passenger on a motorcycle operated by such a person unless similarly wearing a
 protective helmet. The helmet, safety glasses or other protective eye device
 shall conform with rules adopted by the Ohio Director of Public Safety. The
 provisions of this subsection or a violation thereof shall not be used in the
-trial of any civil action. 
+trial of any civil action.
     2. _(2)_ Subsection (h)(1) of this section does not apply to a person
 operating an autocycle or cab-enclosed motorcycle when the occupant compartment
 top is in place enclosing the occupants.
@@ -244,7 +244,7 @@ reflectors shall not be used on the front of the bicycle or electric bicycle
 and white lamps and white reflectors shall not be used on the rear of the
 bicycle or electric bicycle.
 3. _(c)_ Every bicycle or electric bicycle shall be equipped with an adequate
-brake when used on a street or highway. 
+brake when used on a street or highway.
 4. _(d)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -304,7 +304,7 @@ or self to any vehicle upon a roadway.
 No operator shall knowingly permit any person riding upon any motorcycle,
 bicycle, electric bicycle, coaster, roller skates, sled, skateboard or toy
 vehicle to attach the same or self to any vehicle while it is moving upon a
-roadway. This section does not apply to the towing of a disabled vehicle. 
+roadway. This section does not apply to the towing of a disabled vehicle.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -323,7 +323,7 @@ offender is subject to the additional fine established under Section 303.991 of 
 1. _(a)_ Persons riding bicycles, electric bicycles, or motorcycles upon a
 roadway shall ride not more than two abreast in a single lane, except on paths
 or parts of roadways set aside for the exclusive use of bicycles, electric
-bicycles, or motorcycles. 
+bicycles, or motorcycles.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -374,7 +374,7 @@ appropriate sign giving notice of such use is posted on the path.
 Nothing in this section shall be construed to affect any rule of the Ohio
 Director of Natural Resources governing the operation of motor vehicles,
 snowmobiles, all-purpose vehicles, and bicycles on lands under the Director’s
-jurisdiction. 
+jurisdiction.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one

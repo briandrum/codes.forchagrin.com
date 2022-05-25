@@ -44,8 +44,8 @@ grade of occupancy.
 ## 1301.03   Apartment
 
    "Apartment" means and includes all buildings or parts thereof designed,
-constructed,  altered or converted to be used as a place of residence for three
-or more families living  independently of each other and having common rights
+constructed, altered or converted to be used as a place of residence for three
+or more families living independently of each other and having common rights
 in halls, yards, cellars or stairs.  
 (Ord. 1940-276. Passed 9-9-40.)
 
@@ -54,7 +54,7 @@ in halls, yards, cellars or stairs.
    "Building" means any structure erected by art and fixed upon or in the soil,
 composed of several pieces and designed for use in the position in which so
 fixed. As commonly understood, a "building" is a structure for business,
-residence or public use or for the shelter of  animals or the storage of goods.  
+residence or public use or for the shelter of animals or the storage of goods.  
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1301.05   Building line
@@ -94,7 +94,7 @@ Officer, or any of his assistants acting under his instructions.
 ## 1301.10   Lawn
 
    "Lawn" means the sodded space in resident districts between the street line
-and the  building line or between the street line and the sidewalk or the
+and the building line or between the street line and the sidewalk or the
 sidewalk and the curb.  
 (Ord. 1940-276. Passed 9-9-40.)
 

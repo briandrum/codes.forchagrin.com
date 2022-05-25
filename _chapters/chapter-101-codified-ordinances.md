@@ -117,7 +117,7 @@ viaducts and all other public thoroughfares within the Municipality.
 holding a written or oral lease, or who actually occupies the whole or any part
 of such premises, alone or with others.
 
-22. _(v)_ “Whoever” includes all persons, natural and artificial; partners; 
+22. _(v)_ “Whoever” includes all persons, natural and artificial; partners;
 principals, agents and employees; and all officials, public or private.  
 (ORC 1.02(A))
 

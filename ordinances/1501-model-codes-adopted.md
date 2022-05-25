@@ -212,13 +212,13 @@ Permits required by sections of the Fire Prevention Code will be granted
 upon payment to the Municipality a fee of twenty-five dollars ($25.00) for each
 required permit, provided that such application for a permit shall be approved
 by the Bureau of Fire Prevention.  
-(Ord. 1975-970. Passed 4-15-75; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28. 
+(Ord. 1975-970. Passed 4-15-75; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28.
 Passed 6-13-05.)
 
-## 1501.10   Incinerators prohibited for new construction or  noncompliance
+## 1501.10   Incinerators prohibited for new construction or noncompliance
 
 Incinerators not installed and existing in good operating condition on or
-after adoption  date of this Code in a multi-family, apartment, office,
+after adoption date of this Code in a multi-family, apartment, office,
 commercial building, retail building, single or two-family home or other use
 within the Municipality are prohibited. All existing incinerators shall be kept
 and maintained in good repair as is otherwise set forth in this chapter, but
@@ -262,7 +262,7 @@ shall be submitted for review by the Bureau of Fire Prevention. When such
 submitted plans have been found to conform to the provisions of the Fire
 Prevention Code, and all other codes adopted by the Municipality pertaining to
 fire protection, fire safety extinguishment and life safety, such plans shall
-be stamped as approved for "Fire Regulations Only."  When plans are submitted
+be stamped as approved for "Fire Regulations Only." When plans are submitted
 which do not conform with such codes, a list of all violations, with their
 corresponding code section numbers shall be written or attached to the
 submitted plans. The owner of such plans or his representative shall
@@ -345,7 +345,7 @@ provided and installed in front of the condenser of the projector, so arranged
 that such shutter can be instantly closed by the operator.
 5. _(e)_ Approved metal cabinets with self-closing doors shall be installed in
 all work rooms, storage rooms, film storage rooms, carpenter shops, paint
-rooms, property rooms and in all rooms serving a similar purpose. 
+rooms, property rooms and in all rooms serving a similar purpose.
 6. _(f)_ An approved automatic sprinkler system shall be installed in all work
 rooms, storage rooms, film storage rooms, carpenter shops, paint rooms,
 property rooms and in all rooms serving a similar purpose.
@@ -386,14 +386,14 @@ exterior open spaces to or through which exit ways lead, shall be kept
 adequately lighted at all times that the building being served thereby is
 occupied.
 2. _(b)_ Each room, hall or auditorium having a capacity of fifty (50)
-persons, and each  place of business, place of assembly, open to the public
+persons, and each place of business, place of assembly, open to the public
 after sunset and each apartment house shall be provided with lights meeting the
 provisions of Section 11.2 and 11.3 so located and supplied with electrical
-energy as to provide, with  any electrical power failure, emergency
+energy as to provide, with any electrical power failure, emergency
 illumination without appreciable delay. Such installations shall consist of any
 one of the following:
     1. _(1)_ An emergency lighting system so designed as to automatically
-provide the  illumination required in this section in the event of failure of
+provide the illumination required in this section in the event of failure of
 normal power due to any fault in the system, or to any failure of the public
 utility or other outside electrical power supply or manual act such as
 accidental opening of a switch controlling normal power facilities.
@@ -443,7 +443,7 @@ fire damage, with outlets within stairway enclosures.
 3. _(c)_ Construction of Standpipes.
     1. _(1)_ Standpipes shall be constructed of wrought iron or steel, and
 shall be designed to withstand a working pressure of not less than 100 pounds
-per  square inch in excess of the static head of water due to the height of the
+per square inch in excess of the static head of water due to the height of the
 standpipe.
     2. _(2)_ Standpipes shall extend from the lowest story of the building to
 the topmost story, provided that Standpipes serving parts of buildings that are
@@ -453,8 +453,8 @@ that part.
 be connected at their bases by pipes of a size equal to that of the largest
 standpipe, to permit water from any source to supply all the standpipes.
     4. _(4)_ Where the water supply is furnished by a gravity tank of a pressure
-tank  located in the building at or above the topmost outlet, a check valve
-shall  be provided below the tank and a stop valve between the check valve and 
+tank located in the building at or above the topmost outlet, a check valve
+shall be provided below the tank and a stop valve between the check valve and
 the tank.
     5. _(5)_ Standpipes shall be equipped in every story with two and one-half
 inch hose connections and valves located not more than five feet above the
@@ -482,7 +482,7 @@ nor more than thirty-six inches above the level of the adjoining ground or
 sidewalk.
     4. _(4)_ The thread of such connections shall be uniform with that used by
 the Fire Department. Substantial plugs, with chains, shall be provided to
-protect  the threads on each connection.
+protect the threads on each connection.
     5. _(5)_ Each such connection shall be suitably marked with raised letters
 reading "STANDPIPE WET" or "STANDPIPE DRY".
     6. _(6)_ Just inside of the building in a horizontal section of the
@@ -500,7 +500,7 @@ together with reducing coupling to conform to those of the Fire Department.
 fitted with smoothbore play pipe or nozzle at least twelve inches long having a
 one-half inch discharge outlet or an adjustable nozzle.
     4. _(4)_ Hose shall be kept on hose racks or in the hose cabinets approved
-by the Fire Chief. 
+by the Fire Chief.
 6. _(f)_ Water Supply to Standpipes.
     1. _(1)_ Standpipes shall be supplied under full pressure from an adequate
 water supply, or the water supply shall be furnished automatically by the
@@ -538,7 +538,7 @@ installed in addition to the water supply that is provided and permanently
 connected to the required standpipe systems.
     2. _(2)_ The capacities of the pumps shall be not less than 500 gallons per
 minute for a four-inch standpipe, not less than 750 gallons per minute for a
-six-inch  standpipe or two interconnected four-inch standpipes.
+six-inch standpipe or two interconnected four-inch standpipes.
     3. _(3)_ The pumps shall have an adequate source of power and shall be
 supplied from street mains or from well systems or other storage systems
 furnishing not less than one hour’s supply at the rated capacity of the pump.
@@ -556,7 +556,7 @@ workable.
 installed as the construction progresses, in such a way that they are available
 for use by the Fire Department to the topmost floor that has been constructed.
     2. _(2)_ After the completion of a building hereafter erected, and in
-buildings  heretofore erected, standpipes and pumps, tanks and other equipment,
+buildings heretofore erected, standpipes and pumps, tanks and other equipment,
 as a part of the standpipe system, shall be maintained in readiness for use at
 all times.
     3. _(3)_ Sprinkler systems, standpipe systems, fire alarm systems and other
@@ -627,15 +627,15 @@ Department connections approved by the Fire Chief. The pipe from the sprinkler
 system to the hose connection shall be not less than four inches in size.
     2. _(2)_ There shall be a Fire Department hose connection on each street
 frontage or when the building is situated back of the street line, on each
-accessible  exterior wall, provided that when a frontage or exterior wall is
-less than  fifty feet in length, no such connection will be required on that
+accessible exterior wall, provided that when a frontage or exterior wall is
+less than fifty feet in length, no such connection will be required on that
 frontage if the required connections are provided on the other frontages.
     3. _(3)_ Hose connections shall be so located as to permit prompt and easy
 attachment of hose.
     4. _(4)_ The thread of the connection shall be uniform with that used by
 the Fire Department. Substantial plugs shall be provided on each connection.
     5. _(5)_ Each connection shall be suitably marked with raised letters
-reading "FIRE  DEPT. CONNECTION - AUTO SPRINKLERS", or when only stories below
+reading "FIRE DEPT. CONNECTION - AUTO SPRINKLERS", or when only stories below
 grade are equipped, "FIRE DEPT. CONNECTION - BASEMENT SPRINKLERS" (or "CELLAR
 SPRINKLERS").
     6. _(6)_ An approved straightway check valve shall be installed in each
@@ -690,7 +690,7 @@ Prevention, the Fire Chief and the Ohio Inspection Bureau, for approval before
 installation may proceed.
 
 Automatic fire extinguishing systems shall be inspected and full-flow tested
-with the  extinguishing agent which the system is designed for, before
+with the extinguishing agent which the system is designed for, before
 acceptance and annually there after, by the manufacturer or his authorized
 agent, and a report of its test and inspection sent to the Bureau of Fire
 Prevention. All testing shall be done under the direct supervision of the
@@ -717,7 +717,7 @@ including fuel oil for oil burner service.
 4. _(d)_ Assembly Occupancies, Apartment Houses Containing More Than Three
 Dwellings and Hotels.
 Storage in excess of five gallons shall be prohibited, and limited storage of
-such  liquids shall be within approved safety cans. Storage quantities shall be
+such liquids shall be within approved safety cans. Storage quantities shall be
 limited to that required for building and equipment operation or maintenance
 not including fuel oil for oil burner service.
 
@@ -727,7 +727,7 @@ Section 16.79 Welding in Service Stations Prohibited. (Added):
 heat producing torch within or upon the property of any gasoline service
 station.
 2. _(b)_ The Fire Department shall be notified immediately of spillage or
-leakage of  more than one pint of flammable liquid.
+leakage of more than one pint of flammable liquid.
 
 Section 19.6 Indoor Storage of Motor Vehicles. (Added):
 
@@ -785,13 +785,13 @@ combustibility.
 7. _(g)_ Storage or servicing of vehicles using or carrying liquified gas,
 shall not be parked, stored or serviced except by permit.
 
-Section 21.4  Inspection of Installations. (Amended):
+Section 21.4 Inspection of Installations. (Amended):
 
 It shall be the duty of the Bureau of Fire Prevention to inspect all
 liquefied petroleum gas installations to determine if the provisions of this
 article are being complied with.
 
-Section 27.1  Definitions. (Amended):
+Section 27.1 Definitions. (Amended):
 
 1. _(a)_ Decorative material shall include all such materials as curtains,
 draperies, streamers, surface coverings applied over building interior finish
@@ -808,20 +808,20 @@ a story or stories above or below, where entrance is common to the rooms or
 spaces.
       *    May be measured by folding a piece to five thicknesses and measuring
 to see if the thickness of five layers exceeds one-eighth inch.
-Section 27.11  Number of Occupants Permitted. (Amended):
+Section 27.11 Number of Occupants Permitted. (Amended):
 
 Each place of assembly shall be posted with a legible sign in contrasting
 colors conspicuously located stating the maximum number of occupants permitted,
 the number shall be determined by the square feet of floor area or areas so
 occupied, and the exit ways provided.
-Section 27.14  Overcrowding Prohibited. (Added):
+Section 27.14 Overcrowding Prohibited. (Added):
 No person, being the owner, manager or person in charge or control of a place
-of assembly shall  fail to comply with the posted regulation of the number of
+of assembly shall fail to comply with the posted regulation of the number of
 occupants allowable in such place of assembly; in the event of overcrowding in
 excess of the posted regulation, any member of the Fire Prevention Bureau or
 any member of the Police Department shall cause such place of assembly to be
 closed until the excess number of persons has been removed therefrom.
-Section 28.3  Smoking Prohibited Under Certain Conditions. (Amended):
+Section 28.3 Smoking Prohibited Under Certain Conditions. (Amended):
 
 1. _(a)_ “Smoking” means and includes the carrying of lighted pipe, cigar,
 cigarettes or tobacco in any form.
@@ -900,7 +900,7 @@ will block doors or exitways.
     5. _(5)_ Flexible cords from any electrical outlet or display, equipment or
 appliance shall not be spliced, tacked, stapled, or fastened to woodwork or
 walls, tied to or draped over pipes or other supports.
-    6. _(6)_ (deleted). (Ord. 2008-05. Passed  2-11-08.)
+    6. _(6)_ (deleted). (Ord. 2008-05. Passed 2-11-08.)
 
 Section 28.14 Trap Doors to be Closed. (Amended):
 
@@ -912,7 +912,7 @@ Section 28.17 Basements. (Added):
 1. _(a)_ Basements of individual store units shall be provided with one or both
 of the following plans of opening:
     1. _(1)_ At least one exterior window or other opening shall be provided at
-each end  of the basement store unit, which window or opening shall be placed
+each end of the basement store unit, which window or opening shall be placed
 below the ceiling level and shall be accessible to the Fire Department.
     2. _(2)_ In lieu of the opening required by the preceding paragraph with
 respect to the end of a basement store unit adjacent to a street, there may be
@@ -920,7 +920,7 @@ substituted, with the prior written approval of the Bureau of Fire Prevention,
 an opening from the basement store unit to the street level, which opening may
 be temporarily closed by concrete of such thickness that the concrete may serve
 as part of a sidewalk but may be quickly and easily broken open by the Fire
-Department. The dimensions of such opening, the thickness of such concrete  and
+Department. The dimensions of such opening, the thickness of such concrete and
 the method of installation shall be subject to the approval of the Bureau of
 Fire Prevention.
 2. _(b)_ In any retail or commercial establishment where people are employed
@@ -1048,17 +1048,17 @@ curtain, drape or other household furnishing or fitting or any other part of
 such buildings or premises in such a manner as to endanger the safety of any
 person or property.
 2. _(b)_ It shall be the duty of the manager, owner or lessee of any hotel or
-motel to post  the provisions of this section in a conspicuous place in each
-room occupied by  guests in such hotel or motel. It shall be the duty of the
+motel to post the provisions of this section in a conspicuous place in each
+room occupied by guests in such hotel or motel. It shall be the duty of the
 manager, owner or lessee of any rooming house, lodging house, apartment house,
-tenement house,  convalescent home, hospital, child care facility or similar
+tenement house, convalescent home, hospital, child care facility or similar
 place of abode, to post the provisions of this section in a conspicuous place
 upon such premises.
 3. _(c)_ Report of Fire; Spreading Alarm.
 It shall be the duty of the manager, owner or lessee, and of an occupant, and
-of  any person in direct control of rooming houses, apartments, hotels, motels,
-rest  homes, department stores, theaters, auditoriums and other public places
-of  assembly, upon the discovery of any unfriendly fire, or upon receiving
+of any person in direct control of rooming houses, apartments, hotels, motels,
+rest homes, department stores, theaters, auditoriums and other public places
+of assembly, upon the discovery of any unfriendly fire, or upon receiving
 information that there is an unfriendly fire on the premises, to immediately,
 and with all reasonable dispatch and diligency, call or notify the Fire
 Department concerning such fire and to spread an alarm immediately to all
@@ -1068,37 +1068,37 @@ Section 28.22 Elevators. (Added):
 
 1. _(a)_ Automatic passenger elevators shall conform to the following:
     1. _(1)_ A two-position keyed switch shall be provided at the ground floor
-of single  elevator or of a group of elevators. When the switch is in the "ON"
+of single elevator or of a group of elevators. When the switch is in the "ON"
 position, all elevators shall return nonstop to the ground floor, and the doors
 shall open.
         1. _(A)_ An elevator traveling away from the main floor shall reverse at
-the  next available floor without opening its doors.
+the next available floor without opening its doors.
         2. _(B)_ Door opening devices for power operated doors which may be
 affected by smoke or heat so as to prevent door closure shall be rendered
 inoperative.
-        3. _(C)_  Elevators equipped with power operated doors and standing at a
+        3. _(C)_ Elevators equipped with power operated doors and standing at a
 floor other than the ground floor, with doors open, shall close their doors
 without delay.
         4. _(D)_ When it is considered safe to do so, the elevators not being used
-for  emergency service may be returned to normal service by moving the  keyed
+for emergency service may be returned to normal service by moving the keyed
 switch to the "OFF" position.
     2. _(2)_ The return to the ground floor may be initiated by heat and/or
 smoke sensing devices in the building independently of the keyed switch
 required by (a)(1) except that such devices at the ground floor shall not
 initiate the return of the elevators. If so, the switch required at the ground
 floor shall have three positions. The third position shall restore normal
-service independent of  the heat and/or smoke sensing device.
+service independent of the heat and/or smoke sensing device.
     3. _(3)_ A keyed switch shall be provided in or adjacent to an operating
 panel of each elevator. This switch, when operated, shall put the elevator on
 emergency service.
-        1. _(A)_  When on emergency service, an elevator shall be operable only by
+        1. _(A)_ When on emergency service, an elevator shall be operable only by
 a person in the elevator.
-        2. _(B)_  Elevators on emergency service shall not respond to elevator
+        2. _(B)_ Elevators on emergency service shall not respond to elevator
 landing calls.
-        3. _(C)_  The opening of power operated doors shall be controlled only by
+        3. _(C)_ The opening of power operated doors shall be controlled only by
 continuous pressure "open" buttons or switches. If the open button or switch is
 released during the "open" motion, the doors shall automatically reclose.
-        4. _(D)_  Door reopening devices for power-operated doors which may be
+        4. _(D)_ Door reopening devices for power-operated doors which may be
 affected by smoke or heat so as to prevent door closure shall be rendered
 inoperative.
     4. _(4)_ Keys or switches required by (a)(1) and (a)(3) shall be kept on the
@@ -1131,14 +1131,14 @@ Section 29.4 Temporary Heat and Wiring. (Added):
 1. _(a)_ Temporary heating appliances shall conform to Article 21,
 Liquified Petroleum Gases, and the National Fire Protection Association
 Standard No. 58, Liquified Petroleum Gases, Storage and Handling 1969.
-2. _(b)_ Temporary wiring shall conform to the National Fire Protection Association  standard.
+2. _(b)_ Temporary wiring shall conform to the National Fire Protection Association standard.
 
 Appendix B Abandonment or Removal of Underground Tanks. (Added):
 
 1. _(a)_ Methods.
     1. _(1)_ Underground tanks taken out of service shall be safeguarded or
-disposed  of by any one of the two following means:
-        1. _(A)_  Placed in a "temporarily out of service" condition. Tanks shall
+disposed of by any one of the two following means:
+        1. _(A)_ Placed in a "temporarily out of service" condition. Tanks shall
 be rendered "temporarily out of service" only when it is planned that they will
 be returned to active service within a reasonable period or pending removal or
 abandonment. Tanks cannot be placed "temporarily out of service" for longer
@@ -1146,16 +1146,16 @@ than ninety days.
 2. _(b)_ Records.
     1. _(1)_ In cases where tanks are rendered "temporarily out of service,"
 records shall be kept of tank size, location, date of abandonment, and methods
-described in subsection (a). No cutting torch or other flame or spark 
+described in subsection (a). No cutting torch or other flame or spark
 producing equipment shall be used until the tank has been completely purged or
 otherwise rendered safe. In each case, the steps given shall be carried out
 successively.
 3. _(c)_ Tank Rendered Temporarily Out of Service.
     1. _(1)_ With tanks rendered "temporarily out of service"
-        1. _(A)_  The fill line, gauge opening and pump suction shall be capped
+        1. _(A)_ The fill line, gauge opening and pump suction shall be capped
 and secured against tampering.
-        2. _(B)_  The vent line shall be left open.
-        3. _(C)_  They will be filled with water.  
+        2. _(B)_ The vent line shall be left open.
+        3. _(C)_ They will be filled with water.  
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1501.14   Failure to correct violations

@@ -14,7 +14,7 @@ title: "Chapter 1142: Landscaping Regulations"
 * [1142.06   Perimeter screens](#114206-perimeter-screens)
 * [1142.07   Utility uses](#114207-utility-uses)
 * [1142.08   Visibility at intersections](#114208-visibility-at-intersections)
-* [1142.09   Maintenance of landscaping  and replacement of landscaping](#114209-maintenance-of-landscaping-and-replacement-of-landscaping)
+* [1142.09   Maintenance of landscaping and replacement of landscaping](#114209-maintenance-of-landscaping-and-replacement-of-landscaping)
 
 ## Cross references
 
@@ -42,11 +42,11 @@ R1 and R2F Districts, which are regulated by provisions of Chapter 1125 and
 
 ## 1142.03   General landscaping
 
-     Any portion of a developed lot not used for permitted main and accessory
-buildings or structures shall be landscaped with vegetative ground cover,
-shrubs and trees in accordance with an overall landscaping plan acceptable to
-the Municipality. Such landscaping shall be maintained in good condition. In
-the development of property, existing trees and significant vegetation shall be
+Any portion of a developed lot not used for permitted main and accessory
+buildings or structures shall be landscaped with vegetative ground cover, shrubs
+and trees in accordance with an overall landscaping plan acceptable to the
+Municipality. Such landscaping shall be maintained in good condition. In the
+development of property, existing trees and significant vegetation shall be
 retained wherever feasible.  
 (Ord. 2019-39. Passed 8-13-19.)
 
@@ -86,7 +86,7 @@ exceeds eight spaces in length.
 
 ## 1142.06   Perimeter screens
 
-     A planted area designed to screen views and noise shall be provided along
+A planted area designed to screen views and noise shall be provided along
 certain lot lines separating uses which are not fully compatible. The location
 and nature of such perimeter screens shall be in accordance with the following
 regulations.
@@ -118,11 +118,11 @@ equivalent to that required.
 
 ## 1142.07   Utility uses
 
-     Maintenance facilities, sanitation facilities, storage facilities and
-utility uses including but not limited to electrical substations, telephone
-exchanges, communication related boxes and telephone terminal boxes located in
-any district except Industrial Districts shall be governed by the following
-landscaping and fencing regulations.
+Maintenance facilities, sanitation facilities, storage facilities and utility
+uses including but not limited to electrical substations, telephone exchanges,
+communication related boxes and telephone terminal boxes located in any district
+except Industrial Districts shall be governed by the following landscaping and
+fencing regulations.
 
 1. _(a)_ Landscaping. Utility uses shall be substantially screened from view by
 evergreen shrubbery and/or trees, as approved by the Administrator. Such
@@ -131,37 +131,39 @@ District.
 2. _(b)_ Fencing. Utility uses shall be completely enclosed by a fence or wall
 not less than five feet and not more than seven feet in height. The design and
 construction of such fences shall be approved by the Architectural Board of
-Review in consideration of factors of safety and visual impact on nearby uses. 
+Review in consideration of factors of safety and visual impact on nearby uses.
 For uses which do not present safety hazards, the Administrator may waive the
 fencing requirement.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.08   Visibility at intersections
 
-     In all zoning districts, within a triangle formed by lines drawn between
-points on two street right-of-way lines twenty-five feet from their point of
+In all zoning districts, within a triangle formed by lines drawn between points
+on two street right-of-way lines twenty-five feet from their point of
 intersection, substantially unobstructed sight lines shall be maintained within
 a vertical height band two and one-half to six feet above curb level.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.09   Maintenance of landscaping and replacement of landscaping
 
-     All landscaping required by this Chapter 1142 shall be maintained in good condition and, when necessary, shall be
-replaced with landscaping comparable to the landscaping required by the
-approved landscape plan in accordance with the following:
+All landscaping required by this Chapter 1142 shall be maintained in good
+condition and, when necessary, shall be replaced with landscaping comparable to
+the landscaping required by the approved landscape plan in accordance with the
+following:
 
 1. _(a)_ Any tree, shrub, or bush, due to its condition, shall be replaced, at
 a minimum, with a tree, shrub, or bush that is comparable to the type and
 height of the tree, shrub, or bush specified for initial planting in the
-approved landscape plan. 
+approved landscape plan.
 2. _(b)_ Any request to plant or maintain landscaping that is not comparable to
 the landscaping required by the approved landscape plan shall be reviewed by
 the Administrator and approved only if such landscaping is an improvement and
 enhancement, as determined by the Administrator, to the originally approved
 plan.
 3. _(c)_ The Administrator, in considering whether or not landscaping is an
-improvement and enhancement, shall consider the intent of Chapter 1142, the need for a visual barrier, the intent of the original landscaping
-plan, the adjacent properties, the current site conditions, including soil
-conditions and the success of a certain species growing in the area, and any
-other factor deemed relevant by the Administrator.  
+improvement and enhancement, shall consider the intent of Chapter 1142, the need
+for a visual barrier, the intent of the original landscaping plan, the adjacent
+properties, the current site conditions, including soil conditions and the
+success of a certain species growing in the area, and any other factor deemed
+relevant by the Administrator.  
 (Ord. 2019-39. Passed 8-13-19.)

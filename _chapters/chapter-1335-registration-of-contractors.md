@@ -58,14 +58,14 @@ pursuant to Section 1307.18.
 1. _(a)_ Except as provided in subsection (b) hereof, and upon the payment of
 the appropriate fee provided in Section 1335.10, any person having a qualification certificate to install or perform
 plumbing, sewer work, heating or electrical equipment, which qualification
-certificate  has been issued by the State pursuant to Ohio R.C. Chapter 4740
+certificate has been issued by the State pursuant to Ohio R.C. Chapter 4740
 and is in full force and effect, upon presentation of such certificate to the
 Chief Administrative Officer shall have issued to such person by the Chief
 Administrative Officer, upon such evidence and without examination, the
 certificate of registration provided for herein.
 2. _(b)_ No person who has recklessly or intentionally violated any provision
 of the Ohio Revised Code or the Codified Ordinances of the Village shall be
-eligible to obtain or renew a certificate of registration under this chapter. 
+eligible to obtain or renew a certificate of registration under this chapter.
 The Chief Administrative Officer shall determine whether a violation has been
 committed recklessly or intentionally, as those terms are defined in Section 501.08 of the General Offenses Code.  
 (Ord. 2006-48. Passed 7-24-06.)

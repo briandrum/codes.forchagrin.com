@@ -44,7 +44,7 @@ R.C. Chapter 3772, lottery unless authorized under Ohio R.C. Chapter 3770,
 numbers game, pool conducted for profit, or other scheme in which a participate
 gives a valuable consideration for a chance to win a prize, but does not
 include bingo, a skill-based amusement machine, or a pool not conducted for
-profit.  “Scheme of chance” includes the use of an electronic device to reveal
+profit. “Scheme of chance” includes the use of an electronic device to reveal
 the results of a game entry if valuable consideration is paid, directly or
 indirectly, for a chance to win a prize. Valuable consideration is deemed to
 be paid for a chance to win a prize in the following instances:
@@ -123,7 +123,7 @@ membership for regular worship and religious observances.
 10. _(j)_ "Veteran’s organization" means any individual post or state
 headquarters of a national veteran’s association or an auxiliary unit of any
 individual post of a national veteran’s association, which post, state
-headquarters, or auxiliary unit  is incorporated as a nonprofit corporation and
+headquarters, or auxiliary unit is incorporated as a nonprofit corporation and
 either has received a letter from the state headquarters of the national
 veteran’s association indicating that the individual post or auxiliary unit is
 in good standing with the national veteran’s association or has received a
@@ -199,11 +199,11 @@ described in subsection (s)(1) of this section.
 20. _(t)_ "Gross receipts" means all money or assets, including admission fees,
 that a person receives from bingo without the deduction of any amounts for
 prizes paid out or for the expenses of conducting bingo. "Gross receipts" does
-not include  any money directly taken in from the sale of food or beverages by
+not include any money directly taken in from the sale of food or beverages by
 a charitable organization conducting bingo, or by a bona fide auxiliary unit or
 society of a charitable organization conducting bingo, provided all of the
 following apply:
-    1. _(1)_ The auxiliary unit or society has been in existence as a  bona fide
+    1. _(1)_ The auxiliary unit or society has been in existence as a bona fide
 auxiliary unit or society of the charitable organization for at least two years
 prior to conducting bingo.
     2. _(2)_ The person who purchases the food or beverage receives nothing of
@@ -269,11 +269,11 @@ operation, maintenance and improvement of its playing fields of the type
 described in paragraph (1) hereof.
 26. _(z)_ "Bingo supplies" means bingo cards or sheets; instant bingo tickets or
 cards; electronic bingo aids; raffle tickets; punch boards; seal cards; instant
-bingo ticket dispensers; and  devices for selecting or displaying the
+bingo ticket dispensers; and devices for selecting or displaying the
 combination of bingo letters and numbers or raffle tickets. Items that are
-"bingo supplies" are not gambling devices if sold or otherwise provided,  and
+"bingo supplies" are not gambling devices if sold or otherwise provided, and
 used, in accordance with this chapter. For purposes of this chapter, "bingo
-supplies" are not to be considered equipment used  to conduct a bingo game.
+supplies" are not to be considered equipment used to conduct a bingo game.
 27. _(aa)_ “Instant bingo" means a form of bingo that shall use folded or banded
 tickets or paper cards with perforated break-open tabs, a face of which is
 covered or otherwise hidden from view to conceal a number, letter, or symbol,
@@ -294,7 +294,7 @@ symbols.
 won by one or more persons who have purchased a raffle ticket. The one or more
 winners of the raffle are determined by drawing a ticket stub or other
 detachable section from a receptacle containing ticket stubs or detachable
-sections corresponding to all tickets sold for the raffle.  “Raffle” does not
+sections corresponding to all tickets sold for the raffle. “Raffle” does not
 include the drawing of a ticket stub or other detachable section of a ticket
 purchased to attend a professional sporting event if both of the following
 apply:
@@ -374,7 +374,7 @@ accounting for the instant bingo tickets or cards it dispenses.
     8. _(8)_ It is not part of an electronic network and is not interactive.
 41. _(oo)_
     1. "Electronic bingo aid" means an electronic device used by a
-participant to monitor bingo cards or sheets purchased  at the time and place
+participant to monitor bingo cards or sheets purchased at the time and place
 of a bingo session and that does all of the following:
         1. _(A)_ It provides a means for a participant to input numbers and
 letters announced by a bingo caller.
@@ -396,7 +396,7 @@ behalf of a player to conduct bingo or a scheme or game of chance.
     2. _(2)_ “Slot machine” does not include a skill-based amusement machine or
 an instant bingo ticket dispenser.
 44. _(rr)_ “Net profit from the proceeds of the sale of instant bingo" means
-gross profit minus the ordinary, necessary, and  reasonable expense expended
+gross profit minus the ordinary, necessary, and reasonable expense expended
 for the purchase of instant bingo supplies, and, in the case of instant bingo
 conducted by a veteran’s, fraternal or sporting organization, minus the payment
 by that organization of real property taxes, and assessments levied on a
@@ -540,11 +540,11 @@ possession of the prize is actually transferred, or placed on an account or
 other record as evidence of the intent to transfer the prize.
         4. _(D)_ “Sweepstakes terminal device facility” means any location in this
 Municipality where a sweepstakes terminal device is provided to a sweepstakes
-participant, except as provided in Ohio R.C.  2915.02(G).
+participant, except as provided in Ohio R.C. 2915.02(G).
 54. _(bbb)_ “Sweepstakes” means any game, contest, advertising scheme or plan,
 or other promotion where consideration is not required for a person to enter to
 win or become eligible to receive any prize, the determination of which is
-based upon chance.  “Sweepstakes” does not include bingo as authorized under
+based upon chance. “Sweepstakes” does not include bingo as authorized under
 this chapter, pari-mutuel wagering as authorized by Ohio R.C. Chapter 3769,
 lotteries conducted by the State Lottery Commission as authorized by Ohio R.C.
 Chapter 3770, and casino gaming as authorized by Ohio R.C. Chapter 3772.  
@@ -593,7 +593,7 @@ expressly permitted by law.
     1. _(1)_ Games of chance, if all of the following apply:
         1. _(A)_ The games of chance are not craps for money or roulette for
 money.
-        2. _(B)_  The games of chance are conducted by a charitable organization
+        2. _(B)_ The games of chance are conducted by a charitable organization
 that is, and has received from the Internal Revenue Service a determination
 letter that is currently in effect, stating that the organization is, exempt
 from Federal income taxation under subsection 501(a) and described in
@@ -711,7 +711,7 @@ R.C. 2915.101.
 Section 517.01(o)(1) shall fail to do any of the following:
     1. _(1)_ Conduct the bingo game on premises that are owned by the charitable
 organization, on premises that are owned by another charitable organization and
-leased from that charitable  organization for a rental rate not in excess of
+leased from that charitable organization for a rental rate not in excess of
 the lesser of six hundred dollars ($600.00) per bingo session or forty-five per
 cent of the gross receipts of the bingo session, on premises that are leased
 from a person other than a charitable organization for a rental rate that is
@@ -719,14 +719,14 @@ not more than is customary and reasonable for premises that are similar in
 location, size, and quality but not in excess of four hundred fifty dollars
 ($450.00) per bingo session, or on premises that are owned by a person other
 than a charitable organization, that are leased from that person by another
-charitable organization, and that are subleased from that other  charitable
+charitable organization, and that are subleased from that other charitable
 organization by the charitable organization for a rental rate not in excess of
 four hundred fifty dollars ($450.00) per bingo session. No charitable
 organization is required to pay property taxes or assessments on premises that
 the charitable organization leases from another person to conduct bingo
-sessions. If the charitable organization leases from a person  other than a
-charitable organization the premises on which it  conducts bingo sessions, the
-lessor of the premises shall  provide the premises to the organization and
+sessions. If the charitable organization leases from a person other than a
+charitable organization the premises on which it conducts bingo sessions, the
+lessor of the premises shall provide the premises to the organization and
 shall not provide the organization with bingo game operators, security
 personnel, concessions or concession operators, bingo supplies, or any other
 type of service. A charitable organization shall not lease or sublease premises
@@ -745,13 +745,13 @@ bingo set forth in Section 517.01(o)(1).
 Section 517.01(o)(1) shall do any of the following:
     1. _(1)_ Pay any compensation to a bingo game operator for operating a bingo
 session that is conducted by the charitable organization or for preparing,
-selling, or serving food or  beverages at the site of the bingo session, permit
+selling, or serving food or beverages at the site of the bingo session, permit
 any auxiliary unit or society of the charitable organization to pay
 compensation to any bingo game operator who prepares, sells, or serves food or
-beverages at a bingo session conducted by the  charitable organization, or
+beverages at a bingo session conducted by the charitable organization, or
 permit any auxiliary unit or society of the charitable organization to prepare,
 sell, or serve food or beverages at a bingo session conducted by the charitable
-organization, if the auxiliary unit or society pays any  compensation to the
+organization, if the auxiliary unit or society pays any compensation to the
 bingo game operators who prepare, sell, or serve the food or beverages;
     2. _(2)_ Pay consulting fees to any person for any services performed in
 relation to the bingo session;
@@ -765,7 +765,7 @@ than three bingo sessions in a seven-day period after notifying the Attorney
 General when it will conduct the sessions;
     5. _(5)_ Pay out more than six thousand dollars ($6,000) in prizes for bingo
 games described in Section 517.01(o)(1) during any bingo session that is conducted by the charitable
-organization.  “Prizes” does not include awards from the conduct of instant
+organization. “Prizes” does not include awards from the conduct of instant
 bingo;
     6. _(6)_ Conduct a bingo session at any time during the eight-hour period
 between two a.m. and ten a.m., at any time during, or within ten hours of, a
@@ -793,7 +793,7 @@ jurisdiction to be a bingo game operator;
     9. _(9)_ Permit the lessor of the premises on which the bingo session is
 conducted, if the lessor is not a charitable organization, to provide the
 charitable organization with bingo game operators, security personnel,
-concessions, bingo  supplies, or any other type of service;
+concessions, bingo supplies, or any other type of service;
     10. _(10)_ Purchase or lease bingo supplies from any person except a
 distributor issued a license under Ohio R.C. 2915.081;
     11. _(11)_ A.   Use or permit the use of electronic bingo aids except under
@@ -805,7 +805,7 @@ an electronic bingo aid with corresponding paper bingo cards or sheets.
             3. _(3)_ The total price of bingo faces played with an electronic bingo
 aid shall be equal to the total price of the same number of bingo faces played
 with a paper bingo card or sheet sold at the same bingo session but without an
-electronic bingo  aid.
+electronic bingo aid.
             4. _(4)_ An electronic bingo aid cannot be part of an electronic
 network other than a network that includes only bingo aids and devices that are
 located on the premises at which the bingo is being conducted or be interactive
@@ -819,7 +819,7 @@ input of numbers and letters announced by a bingo caller other than the bingo
 caller who physically calls the numbers and letters at the location at which
 the bingo session is conducted and at which the electronic bingo aid is used.
         2. _(B)_ The Attorney General may adopt rules in accordance with Ohio R.C.
-Chapter 119  that govern the use of electronic bingo aids. The rules may
+Chapter 119 that govern the use of electronic bingo aids. The rules may
 include a requirement that an electronic bingo aid be capable of being audited
 by the Attorney General to verify the number of bingo cards or sheets played
 during each bingo session.
@@ -830,7 +830,7 @@ Section 517.01(o)(1).
     1. _(1)_ Except as otherwise provided in subsection (d)(3) hereof, no
 charitable organization shall provide to a bingo game operator, and no bingo
 game operator shall receive or accept, any commission, wage, salary, reward,
-tip, donation, gratuity, or  other form of compensation, directly or
+tip, donation, gratuity, or other form of compensation, directly or
 indirectly, regardless of the source, for conducting bingo or providing other
 work or labor at the site of bingo during a bingo session.
     2. _(2)_ Except as otherwise provided in subsection (d)(3) hereof, no
@@ -844,9 +844,9 @@ fraternal organization, veteran’s organization, or sporting organization from
 selling instant bingo tickets or cards to the organization’s members or invited
 guests, as long as no portion of the employee’s compensation is paid from any
 receipts of bingo.
-5. _(e)_ Notwithstanding subsection (b)(1) of this  section, a charitable
+5. _(e)_ Notwithstanding subsection (b)(1) of this section, a charitable
 organization that, prior to December 6, 1977, has entered into written
-agreements for the lease of  premises it owns to another charitable
+agreements for the lease of premises it owns to another charitable
 organization or other charitable organizations for the conducting of bingo
 sessions so that more than two bingo sessions are conducted per calendar week
 on the premises, and a person that is not a charitable organization and that,
@@ -904,7 +904,7 @@ not specified on the organization’s license issued pursuant to Ohio R.C.
 has been convicted of a felony or gambling offense in any jurisdiction to be a
 bingo game operator in the conduct of instant bingo;
     5. _(5)_ Purchase or lease supplies used to conduct instant bingo or punch
-board games from any person except a distributor licensed  under Ohio R.C. 
+board games from any person except a distributor licensed under Ohio R.C.
 2915.081;
     6. _(6)_ Sell or provide any instant bingo ticket or card for a price
 different from the price printed on it by the manufacturer on either the
@@ -917,7 +917,7 @@ three years;
 instant bingo that is conducted by the organization or for preparing, selling,
 or serving food or beverages at the site of the instant bingo game, permit any
 auxiliary unit or society of the organization to pay compensation to any bingo
-game operator  who prepares, sells, or serves food or beverages at an instant
+game operator who prepares, sells, or serves food or beverages at an instant
 bingo game conducted by the organization, or permit any auxiliary unit or
 society of the organization to prepare, sell, or serve food or beverages at an
 instant bingo game conducted by the organization, if the auxiliary unit or
@@ -940,15 +940,15 @@ manufacturer on either the instant bingo ticket or card or on the game flare.
     13. _(13)_ Fail to display its bingo license, and the serial numbers of the
 deal of instant bingo tickets or cards to be sold, conspicuously at each
 premises at which it sells instant bingo tickets or cards;
-    14. _(14)_ Possess a deal of instant bingo tickets or cards that  was not
+    14. _(14)_ Possess a deal of instant bingo tickets or cards that was not
 purchased from a distributor licensed under Ohio R.C. 2915.081 as reflected on
 an invoice issued by the distributor that contains all of the information
 required by Section 517.11(f);
     15. _(15)_ Fail, once it opens a deal of instant bingo tickets or cards, to
 continue to sell the tickets or cards in that deal until the tickets or cards
 with the top two highest tiers of prizes in that deal are sold;
-    16. _(16)_ Possess bingo supplies that were not obtained in  accordance with
-Ohio R.C.  2915.01 to 2915.13.
+    16. _(16)_ Possess bingo supplies that were not obtained in accordance with
+Ohio R.C. 2915.01 to 2915.13.
 2. _(b)_ A charitable organization may purchase, lease, or use instant bingo
 ticket dispensers to sell instant bingo tickets or cards.
 3. _(c)_ Whoever violates subsection (a) of this section or a rule adopted
@@ -993,16 +993,16 @@ appropriate State law.
 1. _(a)_ As used in this section, "retail income from all commercial activity"
 means the income that a person receives from the provision of goods, services,
 or activities that are provided at the location where instant bingo other than
-at a bingo session is conducted, including the sale of instant bingo tickets. 
+at a bingo session is conducted, including the sale of instant bingo tickets.
 A religious organization that is exempt from federal income taxation under
 subsection 501(a) and described in subsection 501(c)(3) of the Internal Revenue
 Code, at not more than one location at which it conducts its charitable
 programs, may include donations from its members and guests as retail income.
 2. _(b)_
     1. _(1)_ If a charitable instant bingo organization conducts instant
-bingo other than at a bingo session, the charitable  instant bingo organization
-shall enter into a written contract  with the owner or lessor of the location
-at which the instant  bingo is conducted to allow the owner or lessor to assist
+bingo other than at a bingo session, the charitable instant bingo organization
+shall enter into a written contract with the owner or lessor of the location
+at which the instant bingo is conducted to allow the owner or lessor to assist
 in the conduct of instant bingo other than at a bingo session, identify each
 location where the instant bingo other than at a bingo session is being
 conducted, and identify the owner or lessor of each location.
@@ -1030,7 +1030,7 @@ total gross receipts of any deal of instant bingo tickets for the purpose of
 reimbursing the owner or lessor for expenses described in this subsection.  
 As used in this subsection, “expenses” means those items provided for in
 subsections (gg)(4), (5), (6), (7), (8), (12) and (13) of Section 517.01 and that percentage of the owner’s or lessor’s rent for the location
-where instant bingo is conducted.  “Expenses” in the aggregate, shall not
+where instant bingo is conducted. “Expenses” in the aggregate, shall not
 exceed six per cent of the total gross receipts of any deal of instant bingo
 tickets.  
 As used in this subsection, “full gross profit” means the amount by which
@@ -1060,7 +1060,7 @@ million five hundred thousand dollars.
 ## 517.10   Location of instant bingo
 
 1. _(a)_ No owner or lessor of a location shall assist a charitable instant
-bingo organization in the conduct of  instant bingo other than at a bingo
+bingo organization in the conduct of instant bingo other than at a bingo
 session at that location unless the owner or lessor has entered into a written
 contract, as described in Section 517.09, with the charitable instant bingo organization to assist in the
 conduct of instant bingo other than at a bingo session.
@@ -1076,8 +1076,8 @@ as prescribed in subsection (a) of this section shall violate the terms of the
 contract.
 5. _(e)_
     1. _(1)_ Whoever violates subsection (c) or (d) of this section is
-guilty of illegal instant bingo conduct. Except as otherwise  provided in this
-subsection, illegal instant bingo conduct is a  misdemeanor of the first
+guilty of illegal instant bingo conduct. Except as otherwise provided in this
+subsection, illegal instant bingo conduct is a misdemeanor of the first
 degree. If the offender previously has been convicted of a violation of
 subsection (c) or (d) of this section, illegal instant bingo conduct is a
 felony and shall be prosecuted under appropriate State law.
@@ -1099,13 +1099,13 @@ game of instant bingo by serial number, each raffle, each punch board game, and
 each game of chance, and an itemized list of the gross profits of each game of
 instant bingo by serial number;
     2. _(2)_ An itemized list of all expenses, other than prizes, that are
-incurred in conducting bingo or instant  bingo, the name of each person to whom
+incurred in conducting bingo or instant bingo, the name of each person to whom
 the expenses are paid, and a receipt for all of the expenses;
     3. _(3)_ A list of all prizes awarded during each bingo session, each
 raffle, each punch board game, and each game of chance conducted by the
-charitable organization,  the total prizes awarded from each game of instant
+charitable organization, the total prizes awarded from each game of instant
 bingo by serial number, and the name, address, and social security number of
-all persons who are winners of prizes of six hundred dollars ($600.00) or  more
+all persons who are winners of prizes of six hundred dollars ($600.00) or more
 in value;
     4. _(4)_ An itemized list of the recipients of the net profit of the bingo
 or game of chance, including the name and address of each recipient to whom the
@@ -1113,7 +1113,7 @@ money is distributed, and if the organization uses the net profit of bingo, or
 the money or assets received from a game of chance, for any charitable or other
 purpose set forth in Section 517.01(v), Section 517.02(d), or Ohio R.C. 2915.101, a list of each purpose and an itemized list
 of each expenditure for each purpose;
-    5. _(5)_ The number of persons who participate in any bingo  session or game
+    5. _(5)_ The number of persons who participate in any bingo session or game
 of chance that is conducted by the charitable organization;
     6. _(6)_ A list of receipts from the sale of food and beverages by the
 charitable organization or one of its auxiliary units or societies, if the
@@ -1124,10 +1124,10 @@ the charitable organization in the sale of food and beverages by the charitable
 organization or by an auxiliary unit or society of the charitable organization,
 the name of each person to whom the expenses are paid, and a receipt for all of
 the expenses.
-2. _(b)_  A charitable organization shall keep the records that it  is required
+2. _(b)_  A charitable organization shall keep the records that it is required
 to maintain pursuant to subsection (a) of this section at its principal place
 of business in this State or at its headquarters in this State and shall notify
-the Attorney General  of the location at which those records are kept.
+the Attorney General of the location at which those records are kept.
 3. _(c)_ The gross profit from each bingo session or game described in Section 517.01(o)(1) or (2) shall be deposited into a checking account devoted
 exclusively to the bingo session or game. Payments for allowable expenses
 incurred in conducting the bingo session or game and payments to recipients of
@@ -1146,13 +1146,13 @@ or otherwise providing to another person bingo supplies for use in this State.
 The record shall include all of the following for each instance:
     1. _(1)_ The name of the manufacturer from which the distributor purchased
 the bingo supplies and the date of the purchase;
-    2. _(2)_ The name and address of the charitable organization or  other
-distributor to which the bingo supplies were sold or  otherwise provided;
+    2. _(2)_ The name and address of the charitable organization or other
+distributor to which the bingo supplies were sold or otherwise provided;
     3. _(3)_ A description that clearly identifies the bingo supplies;
     4. _(4)_ Invoices that include the nonrepeating serial numbers of all paper
 bingo cards and sheets and all instant bingo deals sold or otherwise provided
 to each charitable organization.
-7. _(g)_ A manufacturer shall maintain, for a period of three  years after the
+7. _(g)_ A manufacturer shall maintain, for a period of three years after the
 date of its sale or other provision, a record of each instance of its selling
 or otherwise providing bingo supplies for use in this State. The record shall
 include all of the following for each instance:
@@ -1160,7 +1160,7 @@ include all of the following for each instance:
 were sold or otherwise provided;
     2. _(2)_ A description that clearly identifies the bingo supplies, including
 serial numbers;
-    3. _(3)_ Invoices that include the nonrepeating serial numbers of  all paper
+    3. _(3)_ Invoices that include the nonrepeating serial numbers of all paper
 bingo cards and sheets and all instant bingo deals sold or otherwise provided
 to each distributor.
 8. _(h)_ The Attorney General, or any law enforcement agency, may do all of the
@@ -1182,9 +1182,9 @@ enforcement agency may proceed by action in the proper court to enforce this
 chapter, provided that the law enforcement agency shall give written notice to
 the Attorney General when commencing an action as described in this subsection.
 9. _(i)_ No person shall destroy, alter, conceal, withhold, or deny access to
-any accounts or records of a charitable  organization that have been requested
+any accounts or records of a charitable organization that have been requested
 for examination, or obstruct, impede, or interfere with any inspection, audit,
-or  observation of bingo or a game of chance or premises where bingo or a game
+or observation of bingo or a game of chance or premises where bingo or a game
 of chance is conducted, or refuse to comply with any reasonable request of, or
 obstruct, impede, or interfere with any other reasonable action undertaken by,
 the Attorney General or a law enforcement agency pursuant to subsection (h) of
@@ -1268,10 +1268,10 @@ section if the local law enforcement agency gives written notice to the
 Attorney General when commencing the action.  
 (ORC 2915.12)
 
-## 517.14   Instant bingo conduct by a veteran’s or fraternal  organization
+## 517.14   Instant bingo conduct by a veteran’s or fraternal organization
 
-1. _(a)_ A veteran’s organization, a fraternal  organization, or a sporting
-organization authorized to conduct a bingo session pursuant to Ohio R.C. 
+1. _(a)_ A veteran’s organization, a fraternal organization, or a sporting
+organization authorized to conduct a bingo session pursuant to Ohio R.C.
 2915.01 to 2915.12 may conduct instant bingo other than at a bingo session if
 all of the following apply:
     1. _(1)_ The veteran’s organization, fraternal organization or sporting
@@ -1313,7 +1313,7 @@ State, that is exempt from federal income taxation under subsection 501(a) and
 described in subsection 501(c)(3) of the Internal Revenue Code, and that is in
 good standing in this State.
 3. _(c)_
-    1. _(1)_ If a veteran’s organization, fraternal  organization or a
+    1. _(1)_ If a veteran’s organization, fraternal organization or a
 sporting organization authorized to conduct instant bingo pursuant to
 subsection (a) of this section has been issued a liquor permit under Ohio R.C.
 Chapter 4303, that permit may be subject to suspension, revocation, or
@@ -1321,14 +1321,14 @@ cancellation if the veteran’s organization, fraternal organization, or a
 sporting organization violates a provision of this chapter or Ohio R.C. Chapter 2915.
     2. _(2)_ No veteran’s organization, fraternal organization, or a sporting
 organization that enters into a written contract pursuant to subsection (b) of
-this  section shall violate any provision of this chapter or Ohio R.C. Chapter 2915, or permit, aid, or abet any other person in violating any provision of
+this section shall violate any provision of this chapter or Ohio R.C. Chapter 2915, or permit, aid, or abet any other person in violating any provision of
 this chapter or Ohio R.C. Chapter 2915.
 4. _(d)_ A veteran’s organization, fraternal organization, or a sporting
 organization shall give all required proceeds earned from the conduct of
 instant bingo to the organization with which the veteran’s organization,
 fraternal organization, or a sporting organization has entered into a written
 contract.
-5. _(e)_ Whoever violates this section is guilty of illegal  instant bingo
+5. _(e)_ Whoever violates this section is guilty of illegal instant bingo
 conduct. Except as otherwise provided in this subsection, illegal instant bingo
 conduct is a misdemeanor of the first degree. If the offender previously has
 been convicted of a violation of this section, illegal instant bingo conduct is

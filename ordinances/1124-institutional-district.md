@@ -29,8 +29,8 @@ convenience while minimizing adverse impacts to adjoining residential areas.
 
 ## 1124.02   Permitted uses
 
-     In an Institutional District, buildings and land shall be used by right
-for only the main and accessory uses set forth below.
+In an Institutional District, buildings and land shall be used by right for only
+the main and accessory uses set forth below.
 
 1. _(a)_ Main Uses.
     1. _(1)_ Educational. Primary and secondary schools, public or private, and
@@ -67,7 +67,7 @@ In an Institutional District, land and structures shall be developed and
 maintained in accordance with the following area and height regulations.
 
 1. _(a)_ Lot Size and Width. As determined by the Planning and Zoning
-Commission in accordance with the stated intent of Section 1124.01 of this Planning and Zoning Code 
+Commission in accordance with the stated intent of Section 1124.01 of this Planning and Zoning Code
 2. _(b)_ Building Coverage. Twenty-five percent (25%) of lot area, maximum for
 all main and accessory buildings.  
 (Ord. 1987-19. Passed 9-28-87.)
@@ -97,7 +97,7 @@ in accordance with the setback regulations of subsection (b) hereof.
 1. _(a)_ Main Buildings. The minimum setback from a lot line to a main building
 shall be as set forth below.
 2. _(b)_ 
- 
+
                                   Minimum Setback (feet)
 Yard        To Street R.O.W. line To Residential District To other lot line
                                   Line
@@ -109,7 +109,7 @@ _______________________
 ** but no less than 20% of lot depth.
 3. _(c)_ Accessory Structures or Use. The minimum setback from a lot line to an
 accessory structure or use shall be as set forth below.
- 
+
 **Minimum Setback (feet)**
 
 | Accessory Use        | To street R.O.W. line | To Residential District Line | To other lot line |

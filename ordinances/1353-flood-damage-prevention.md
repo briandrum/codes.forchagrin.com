@@ -37,7 +37,7 @@ Constitution grants municipalities, the legal authority to adopt land use and
 control measures for promoting the health, safety and general welfare of its
 citizens. Therefore, the Council of the Village of Chagrin Falls, State of Ohio
 does ordain as follows:
-2. _(b)_ Findings of Fact. 
+2. _(b)_ Findings of Fact.
     1. _(1)_ The flood hazard areas of the Village are subject to periodic
 inundation which may result in loss of life and property, health and safety
 hazards, disruption of commerce and governmental services, extraordinary public
@@ -47,8 +47,8 @@ all of which adversely affect the public health, safety and general welfare.
 protected from flood damage also contribute to the flood loss.
 3. _(c)_ Statement of Purpose. It is the purpose of this chapter to promote
 the public health, safety and general welfare, and to minimize public and
-private losses due to flood  conditions in specific areas by provisions
-designed to: 
+private losses due to flood conditions in specific areas by provisions
+designed to:
     1. _(1)_ Protect human life and health;
     2. _(2)_ Minimize expenditure of public money for costly flood control
 projects;
@@ -96,7 +96,7 @@ and to give this chapter its most reasonable application.
 1. _(a)_ "Accessory structure" means a structure on the same lot with, and of a
 nature customarily incidental and subordinate to, the principal structure.
 2. _(b)_ "Appeal" means a request for a review of the Chief Administrative
-Officer’s  interpretation of any provision of this chapter or a request for a
+Officer’s interpretation of any provision of this chapter or a request for a
 variance.
 3. _(c)_ "Base flood" means the flood having a one percent (1%) chance of
 being equaled or exceeded in any given year. The base flood may also be
@@ -119,7 +119,7 @@ assisted activities be conducted in or have the potential to affect identified
 special flood hazard areas, unless there is no practicable alternative.
 8. _(h)_ "Federal Emergency Management Agency (FEMA)" means the agency with
 the overall responsibility for administering the National Flood Insurance
-Program. 
+Program.
 9. _(i)_ "Fill" means a deposit of earth material placed by artificial means.
 10. _(j)_ "Flood" or "flooding" means a general and temporary condition of
 partial or complete inundation of normally dry land areas from:
@@ -183,7 +183,7 @@ future watershed development, encroachment in the floodway fringe, and
 unpredictable effects such as those caused by ice or debris jams.
 18. _(r)_ "Historic structure" means any structure that is:
     1. _(1)_ Listed individually in the National Register of Historic Places (a
-listing  maintained by the U.S. Department of Interior) or preliminarily
+listing maintained by the U.S. Department of Interior) or preliminarily
 determined by the Secretary of the Interior as meeting the requirements for
 individual listings on the National Register;
     2. _(2)_ Certified or preliminarily determined by the Secretary of the
@@ -231,7 +231,7 @@ purposes of these regulations, a manufactured home includes manufactured homes
 and mobile homes as defined in Chapter 3733 of the Ohio Revised Code.
 23. _(w)_ "Manufactured home park" means as specified in the Ohio
 Administrative Code 3701-27-01, a manufactured home park means any tract of
-land upon which  three or more manufactured homes, used for habitation are
+land upon which three or more manufactured homes, used for habitation are
 parked, either free of charge or for revenue purposes, and includes any
 roadway, building, structure, vehicle, or enclosure used or intended for use as
 part of the facilities of the park. A tract of land that is subdivided and the
@@ -240,7 +240,7 @@ purpose of installation of manufactured homes on the lots, is not a
 manufactured home park, even though three or more manufactured homes are parked
 thereon, if the roadways are dedicated to the local government authority.
 24. _(x)_ "National Flood Insurance Program (NFIP)" means a Federal program
-enabling  property  owners in participating communities to purchase insurance
+enabling property owners in participating communities to purchase insurance
 protection against losses from flooding. This insurance is designed to provide
 an insurance alternative to disaster assistance to meet the escalating costs of
 repairing damage to buildings and their contents caused by floods.
@@ -251,11 +251,11 @@ development in special flood hazard areas, the Federal government will make
 flood insurance available within the community as a financial protection
 against flood loss.
 25. _(y)_ "New construction" means structures for which the "start of
-construction" commenced  on or after the initial effective date of the Village
+construction" commenced on or after the initial effective date of the Village
 of Chagrin Falls Flood Insurance Rate Map, July 2, 1980, and includes any
 subsequent improvements to such structures.
 26. _(z)_ "Person" means any individual or group of individuals, corporation,
-partnership,  association, or any other entity, including state and local
+partnership, association, or any other entity, including state and local
 governments and agencies. An agency is further defined in the Ohio Revised Code
 Section 111.15 as any governmental entity of the State and includes, but is not
 limited to, any board, department, division, commission, bureau, society,
@@ -270,10 +270,10 @@ projection,
     3. _(3)_ Designed to be self- propelled or permanently towable by a light
 duty truck, and
     4. _(4)_ Designed primarily not for use as a permanent dwelling but as
-temporary living quarters for recreational, camping, travel, or seasonal use. 
+temporary living quarters for recreational, camping, travel, or seasonal use.
 28. _(bb)_ "Registered Professional Architect" means a person registered to
 engage in the practice of architecture under the provisions of sections 4703.01
-to 4703.19 of the Ohio Revised Code. 
+to 4703.19 of the Ohio Revised Code.
 29. _(cc)_ "Registered Professional Engineer" means a person registered as a
 professional engineer under Chapter 4733 of the Revised Code.
 30. _(dd)_ "Registered Professional Surveyor" means a person registered as a
@@ -284,10 +284,10 @@ rehabilitation, addition, placement or other improvement was within 180 days of
 the permit date.
     1. _(1)_ The actual start means either the first placement of permanent
 construction of a structure on a site, such as the pouring of slab or footings,
-the installation of piles, the construction of columns or any  work beyond the
+the installation of piles, the construction of columns or any work beyond the
 stage of excavation, or the placement of a manufactured home on a foundation.
     2. _(2)_ Permanent construction does not include land preparation, such as
-clearing,  grading and filling; nor does it include the installation of streets
+clearing, grading and filling; nor does it include the installation of streets
 and/or walkways; nor does it include excavation for a basement, footings, piers
 or foundations or the erection of temporary forms; nor does it include the
 installation on the property of accessory buildings, such as garages or sheds
@@ -297,7 +297,7 @@ means the first alteration of any wall, ceiling, floor, or other structural
 part of a building, whether or not that alteration affects the external
 dimensions of a building.
 32. _(ff)_ "Special flood hazard area" means the land in the floodplain within a
-community subject  to a one percent (1%) or greater chance of flooding in any
+community subject to a one percent (1%) or greater chance of flooding in any
 given year. Special flood hazard areas are designated by the Federal Emergency
 Management Agency on Flood Insurance Rate Maps, Flood Insurance Studies, Flood
 Boundary and Floodway Maps and Flood Hazard Boundary Maps as Zone A, AE, AH,
@@ -323,10 +323,10 @@ value of the structure before the "start of construction" of the improvement.
 This term includes structures which have incurred "substantial damage"
 regardless of the actual repair work performed.
     2. _(2)_ The term does not, however, include:
-        1. _(A)_  Any project for improvement of a structure to correct existing
-violations of State or local health, sanitary or safety code  specifications
-which are the minimum necessary to assure safe  living conditions;
-        2. _(B)_  Any alteration of a historic provided that the alteration will
+        1. _(A)_ Any project for improvement of a structure to correct existing
+violations of State or local health, sanitary or safety code specifications
+which are the minimum necessary to assure safe living conditions;
+        2. _(B)_ Any alteration of a historic provided that the alteration will
 not preclude the structure’s continued designation as a historic structure.
 36. _(jj)_ "Variance" means a grant of relief from the standards of these
 regulations consistent with the variance conditions herein.
@@ -395,7 +395,7 @@ than the part so declared to be unconstitutional or invalid.
 1. _(a)_ Establishment of Development Permit. A development permit shall be
 obtained from the Chief Administrative Officer before construction or
 development begins within any special flood hazard area established in Section 1353.03(b). Application for a development permit shall be made on forms
-furnished by the Chief Administrative Officer and may include,  but not be
+furnished by the Chief Administrative Officer and may include, but not be
 limited to: site specific topographic plans in duplicate drawn to scale showing
 the nature, location, dimensions and elevations of the area in question;
 existing or proposed structures, fill, storage of materials, drainage
@@ -419,7 +419,7 @@ surveyor of the structure’s as-built lowest floor or floodproofed elevation.
 development permit shall not be required for maintenance work such as roofing,
 painting and basement sealing, or for small nonstructural development
 activities valued at less than one thousand dollars ($1,000). Any proposed
-action exempt from filing for a development  permit is also exempt from the
+action exempt from filing for a development permit is also exempt from the
 standards of this chapter.
 3. _(c)_ Designation of the Flood Damage Prevention Administrator. The Chief
 Administrative Officer is hereby appointed to enforce the provisions of these
@@ -428,33 +428,33 @@ development permit applications in accordance with its provisions.
 4. _(d)_ Administrator’s Duties. Duties and responsibilities of the Chief
 Administrative Officer shall include but are not limited to:
     1. _(1)_ Determination of hydraulically connected areas.
-        1. _(A)_  The Administrator shall interpret floodplain boundaries and
+        1. _(A)_ The Administrator shall interpret floodplain boundaries and
 provide flood hazard and flood protection elevation information.
-        2. _(B)_  If the Administrator determines that a proposed development is
+        2. _(B)_ If the Administrator determines that a proposed development is
 near the special flood hazard area, sufficient hydraulic analysis must be
 provided so that the Administrator can determine if the area is hydraulically
 connected to the source of flooding in the floodplain.
-        3. _(C)_  If an area is determined to be hydraulically connected to the
+        3. _(C)_ If an area is determined to be hydraulically connected to the
 special flood hazard area, sufficient data must be submitted to the
 Administrator to determine if the property and/or its associated sewers,
 drains, and lowest floors are at or below the flood protection elevation.
-        4. _(D)_  If the Administrator determines the area to be hydraulically
+        4. _(D)_ If the Administrator determines the area to be hydraulically
 connected, and the lowest floor is below the flood protection elevation, the
 area is subject to all provisions stated in this chapter.
     2. _(2)_ Permit review.
-        1. _(A)_  Review all development permit applications to determine that the
-permit requirements of this chapter have been satisfied. 
-        2. _(B)_  Review all development permit applications to assure that all
+        1. _(A)_ Review all development permit applications to determine that the
+permit requirements of this chapter have been satisfied.
+        2. _(B)_ Review all development permit applications to assure that all
 necessary permits have been received from those Federal, State or local
 governmental agencies from which prior approval is required. The applicant
 shall be responsible for obtaining such permits as required.
-        3. _(C)_  Review all development permit applications to determine if the
+        3. _(C)_ Review all development permit applications to determine if the
 proposed development is located within a designated floodway. Floodways are
 delineated in the Flood Boundary and Floodway Map or the Flood Insurance Rate
 Map of the Flood Insurance Study. Floodways may also be delineated in other
 sources of flood information. If the proposed development is located within a
 designated floodway, assure that the encroachment provision of Section 1353.07(a) is met.
-        4. _(D)_  Inspect all development projects before, during, and after
+        4. _(D)_ Inspect all development projects before, during, and after
 construction to ensure proper elevation of the structure and to ensure
 compliance with all provisions of this chapter.
     3. _(3)_ Use of other base flood elevation and floodway data. Special flood
@@ -466,15 +466,15 @@ Federal State or other source, in order to administer Sections
 1353.06(b)(1) and (2) and
  1353.07.
     4. _(4)_ Information to be obtained and maintained by the Village. Where
-base  flood elevation data are utilized within special flood hazard areas on
+base flood elevation data are utilized within special flood hazard areas on
 the Village’s Flood Hazard Boundary Map or Flood Insurance Rate Map, regardless
 of the source of such data, the following provisions apply:
-        1. _(A)_  Obtain and record the actual elevation, in relation to mean sea
+        1. _(A)_ Obtain and record the actual elevation, in relation to mean sea
 level, of the lowest floor, including basement, of all new or substantially
 improved structures, and record whether or not such structures contain an
 enclosure below the lowest floor.
-        2. _(B)_  For all new or substantially improved floodproofed
-nonresidential  structures:
+        2. _(B)_ For all new or substantially improved floodproofed
+nonresidential structures:
             1. _(1)_ Verify and record the actual elevation in relation to mean
 sea level, to which the structure was floodproofed; and,
             2. _(2)_ Maintain the floodproofing certifications required in
@@ -488,25 +488,25 @@ whether development is in or out of special flood hazard areas for the purpose
 of issuing floodplain development permits, elevation certificates, variances,
 and records of enforcement actions taken for violations of these regulations.
     5. _(5)_ Alteration of watercourses.
-        1. _(A)_  Notify adjacent communities, the U.S. Army Corps of Engineers,
+        1. _(A)_ Notify adjacent communities, the U.S. Army Corps of Engineers,
 and the State Department of Natural Resources, Division of Water, prior to any
 alteration or relocation of a watercourse and submit evidence of such
 notification to the Federal Emergency Management Agency. A watercourse is
 considered to be altered if any change occurs within its banks.
-        2. _(B)_  Require that necessary maintenance will be provided for by the
-applicant  for the altered or relocated portion of such watercourse so that the
+        2. _(B)_ Require that necessary maintenance will be provided for by the
+applicant for the altered or relocated portion of such watercourse so that the
 flood-carrying capacity will not be diminished.
-        3. _(C)_  Maintain engineering documentation required in Section 1353.04(a)(4) that the flood carrying capacity of the altered or relocated
+        3. _(C)_ Maintain engineering documentation required in Section 1353.04(a)(4) that the flood carrying capacity of the altered or relocated
 portion of said watercourse will not be diminished.
     6. _(6)_ Interpretation and appeals.
-        1. _(A)_  Make interpretations, where needed, as to the exact location of
+        1. _(A)_ Make interpretations, where needed, as to the exact location of
 the boundaries of the special flood hazard areas, for example, where there
 appears to be a conflict between a mapped boundary and actual field conditions.
 Where a map boundary and elevations disagree, the elevations delineated in the
-Flood Elevation  Profile for the Village shall prevail. The person contesting
+Flood Elevation Profile for the Village shall prevail. The person contesting
 the location of the boundary shall be given a reasonable opportunity to appeal
 the interpretation as provided in Section 1353.05.
-        2. _(B)_  Provide information, testimony or other evidence as needed 
+        2. _(B)_ Provide information, testimony or other evidence as needed
 during variance hearings.
     7. _(7)_ Alteration of Village boundaries. Upon occurrence, notify FEMA in
 writing whenever the boundaries of the Village of Chagrin Falls have been
@@ -520,18 +520,18 @@ or the new area for which the Village of Chagrin Falls has assumed or
 relinquished floodplain management regulatory authority.
     8. _(8)_ Coordination. Coordinate map maintenance activities and FEMA
 follow-up inspections.
-        1. _(A)_  Inspect buildings and lands to determine whether any violations
+        1. _(A)_ Inspect buildings and lands to determine whether any violations
 of these regulations have been committed.
-        2. _(B)_  Conduct substantial damage determinations to determine whether
+        2. _(B)_ Conduct substantial damage determinations to determine whether
 existing structures, damaged from any source and in special flood hazard areas
 identified by FEMA, must meet the development standards of these regulations.
     9. _(9)_ Map maintenance activities. To meet National Flood Insurance
-Program  minimum requirements to have flood data reviewed and approved by FEMA,
+Program minimum requirements to have flood data reviewed and approved by FEMA,
 and to ensure that the Village of Chagrin Falls flood maps, studies and other
 data identified in Section 1353.03(b) accurately represent flooding conditions so appropriate floodplain
 management criteria are based on current data, the following map maintenance
 activities are identified:
-        1. _(A)_  Requirement to Submit New Technical Data.
+        1. _(A)_ Requirement to Submit New Technical Data.
             1. _(1)_ For all development proposals that impact floodway
 delineations or base flood elevations, the community shall ensure that
 technical data reflecting such changes be submitted to FEMA within six months
@@ -563,23 +563,23 @@ elevations but no floodway.
             4. _(4)_ Floodplain development permits issued by the Floodplain
 Administrator shall be conditioned upon the applicant obtaining a Letter of Map
 Revision from FEMA for any development proposal subject to Section 1353.04(d)(9)A.1.
-        2. _(B)_  Right to Submit New Technical Data. The Floodplain
+        2. _(B)_ Right to Submit New Technical Data. The Floodplain
 Administrator may request changes to any of the information shown on an
 effective map that does not impact floodplain or floodway delineations or base
 flood elevations, such as labeling or planimetric details. Such a submission
 shall include appropriate supporting documentation made in writing by the Chief
 Administrative Officer of the Village of Chagrin Falls, and may be submitted at
 any time.
-    10. _(10)_ Post-construction certifications required:  The following as-
+    10. _(10)_ Post-construction certifications required: The following as-
 built certifications are required after a floodplain development permit has
-been  issued: 
-        1. _(A)_  For new or substantially improved residential structures, or 
-nonresidential structures that have been elevated, the applicant shall  have a
-Federal Emergency Management Agency Elevation Certificate  completed by a
+been issued:
+        1. _(A)_ For new or substantially improved residential structures, or
+nonresidential structures that have been elevated, the applicant shall have a
+Federal Emergency Management Agency Elevation Certificate completed by a
 registered surveyor to record as-built elevation data. For elevated structures
 in Zone A and Zone AO areas without a base flood elevation, the elevation
 certificate may be completed by the property owner or owner’s representative.
-        2. _(B)_  For all development activities subject to the standards of
+        2. _(B)_ For all development activities subject to the standards of
 Section 1353.04(d)(4), a Letter of Map Revision.  
 (Ord. 2005-22. Passed 4-11-05.)
 
@@ -591,50 +591,50 @@ hear and decide appeals and requests for variances from the requirements of
 this chapter.
     2. _(2)_ The Board shall hear and decide appeals when it is alleged there
 is an error in any requirement, decision or determination made by the Chief
-Administrative  Officer in the enforcement or administration of this chapter.
+Administrative Officer in the enforcement or administration of this chapter.
     3. _(3)_ Meetings and hearings of the Board shall be conducted in accordance with
 Section 1111.04 of the Zoning Code.
     4. _(4)_ Determination of a quorum, requirements for official decisions and
-the  conduct of meetings of the Board shall be in accordance with Section 1111.05of the Zoning Code.
+the conduct of meetings of the Board shall be in accordance with Section 1111.05of the Zoning Code.
     5. _(5)_ Applications for appeals and variances shall be considered by the
-Board in accordance with Section 1111.03 of the Zoning Code. Variances  shall be issued upon a determination
+Board in accordance with Section 1111.03 of the Zoning Code. Variances shall be issued upon a determination
 that:
-        1. _(A)_  The granting of a variance will not result in increased flood
+        1. _(A)_ The granting of a variance will not result in increased flood
 heights beyond that which is allowed in this chapter, additional threats to
 public safety, extraordinary public expense, create nuisances, or conflict with
 subsection (a)(6) hereof, or existing local laws or ordinances; and,
-        2. _(B)_  The structure or other development is protected by methods to
-minimize  flood damages.
+        2. _(B)_ The structure or other development is protected by methods to
+minimize flood damages.
     6. _(6)_ In passing upon such applications, the Board shall consider and
 make findings of fact on all technical evaluations, all relevant factors,
 standards specified in other sections of this chapter, and:
-        1. _(A)_  The danger that materials may be swept onto other lands to the
+        1. _(A)_ The danger that materials may be swept onto other lands to the
 injury of others;
-        2. _(B)_  The danger to life and property due to flooding or erosion
+        2. _(B)_ The danger to life and property due to flooding or erosion
 damage;
-        3. _(C)_  The susceptibility of the proposed facility and its contents to
+        3. _(C)_ The susceptibility of the proposed facility and its contents to
 flood damage and the effect of such damage on the individual owner;
-        4. _(D)_  The importance of the services provided by the proposed facility
+        4. _(D)_ The importance of the services provided by the proposed facility
 to the Village;
-        5. _(E)_  The availability of alternative locations for the proposed use 
+        5. _(E)_ The availability of alternative locations for the proposed use
 which are not subject to flooding or erosion damage;
-        6. _(F)_  The necessity to the facility of a waterfront location, where
+        6. _(F)_ The necessity to the facility of a waterfront location, where
 applicable;
-        7. _(G)_  The compatibility of the proposed use with existing and 
+        7. _(G)_ The compatibility of the proposed use with existing and
 anticipated development;
-        8. _(H)_  The relationship of the proposed use to the comprehensive plan 
+        8. _(H)_ The relationship of the proposed use to the comprehensive plan
 and floodplain management program for that area;
-        9. _(I)_  The safety of access to the property in times of flood for
+        9. _(I)_ The safety of access to the property in times of flood for
 ordinary and emergency vehicles;
-        10. _(J)_  The expected heights, velocity, duration, rate of rise and
+        10. _(J)_ The expected heights, velocity, duration, rate of rise and
 sediment transport of the floodwaters and the effects of wave action if
 applicable, expected at the site; and,
-        11. _(K)_  The costs of providing governmental services during and after 
+        11. _(K)_ The costs of providing governmental services during and after
 flood conditions, including maintenance and repair of public utilities and
 facilities such as sewer, gas, electrical and water systems, and streets and
 bridges.
     7. _(7)_ Upon consideration of the factors of subsection (a)(6) hereof and
-the purposes of this chapter, the Board may attach such conditions to the 
+the purposes of this chapter, the Board may attach such conditions to the
 granting of variances as it deems necessary to further the purposes of this
 chapter.
     8. _(8)_ In addition to the requirements of Section 1111.06 of the Zoning Code, the Chief Administrative Officer shall maintain the
@@ -643,28 +643,28 @@ Management Agency upon request.
 2. _(b)_ Conditions for Variances.
     1. _(1)_ Variances may only be issued where due to physical characteristics
 of the property compliance with the requirements of this chapter creates an
-unnecessary hardship. Increased cost or inconvenience of meeting the 
+unnecessary hardship. Increased cost or inconvenience of meeting the
 requirements of this chapter do not constitute an unnecessary hardship.
-    2. _(2)_ Additionally, variances for new construction and substantial 
+    2. _(2)_ Additionally, variances for new construction and substantial
 improvements to existing structures in the floodplain shall be granted only
-after the Board  considers and makes findings of fact as required in paragraph
+after the Board considers and makes findings of fact as required in paragraph
 (a) (6).
     3. _(3)_ Notwithstanding the other provisions of this section, variances may
-be issued  for the reconstruction, rehabilitation or restoration of historic
-structures upon a  determination that the proposed repair or rehabilitation
-will not preclude the  structure’s continued designation as a historic
-structure and the variance is the  minimum necessary to preserve the historic
-character and design of the  structure.
+be issued for the reconstruction, rehabilitation or restoration of historic
+structures upon a determination that the proposed repair or rehabilitation
+will not preclude the structure’s continued designation as a historic
+structure and the variance is the minimum necessary to preserve the historic
+character and design of the structure.
     4. _(4)_ Variances shall not be issued within any designated floodway if
-any increase in flood levels during the base flood discharge would result. 
+any increase in flood levels during the base flood discharge would result.
     5. _(5)_ Variances shall only be issued upon a determination that the
 variance is the minimum necessary, considering the flood hazard, to afford
-relief. 
+relief.
     6. _(6)_ Any applicant to whom a variance is granted shall, if applicable,
-be given  written notice that the structure will be permitted to be built with
-a lowest floor  elevation below the base flood elevation and that the cost of
-flood insurance  will be commensurate with the increased risk resulting from
-the reduced lowest  floor elevation.
+be given written notice that the structure will be permitted to be built with
+a lowest floor elevation below the base flood elevation and that the cost of
+flood insurance will be commensurate with the increased risk resulting from
+the reduced lowest floor elevation.
 3. _(c)_ Lapse of Variances. A variance, once granted, shall expire in one
 year subject to the requirements of Section 1111.10 of the Zoning Code.
 4. _(d)_ Action by Council. Following a decision by the Board, each case
@@ -680,7 +680,7 @@ applicant.
 1. _(a)_ General Standards. In all special flood hazard areas, the following
 standards are required:
     1. _(1)_ Anchoring. All new construction and substantial improvements shall
-be  anchored to prevent flotation, collapse or lateral movement of the
+be anchored to prevent flotation, collapse or lateral movement of the
 structure resulting from hydrodynamic and hydrostatic loads, including the
 effects of buoyancy. Manufactured Homes shall be affixed to a permanent
 foundation and anchored to prevent floatation, collapse, or lateral movement of
@@ -688,32 +688,32 @@ the structure resulting from hydrodynamic and hydrostatic loads, including the
 effects of buoyancy. Methods of anchoring may include, but are not limited to,
 use of over-the-top or frame ties to ground anchors.
     2. _(2)_ Construction materials and methods.
-        1. _(A)_  All new construction and substantial improvements shall be
+        1. _(A)_ All new construction and substantial improvements shall be
 constructed with materials resistant to flood damage.
-        2. _(B)_  All new construction and substantial improvements shall be
-constructed  using methods and practices that minimize flood damage.
-        3. _(C)_  All new construction and substantial improvements shall be
-constructed  with electrical, heating, ventilation, plumbing and air-
+        2. _(B)_ All new construction and substantial improvements shall be
+constructed using methods and practices that minimize flood damage.
+        3. _(C)_ All new construction and substantial improvements shall be
+constructed with electrical, heating, ventilation, plumbing and air-
 conditioning equipment and other service facilities that are designed and/or
 located so as to prevent water from entering or accumulating within the
 components during conditions of flooding.
     3. _(3)_ Utilities.
-        1. _(A)_  All new and replacement water supply systems shall be designed
+        1. _(A)_ All new and replacement water supply systems shall be designed
 to minimize or eliminate infiltration of floodwaters into the systems;
-        2. _(B)_  New and replacement sanitary sewerage systems shall be designed
+        2. _(B)_ New and replacement sanitary sewerage systems shall be designed
 to minimize or eliminate infiltration of floodwaters into the systems and
 discharge from the systems into floodwaters; and
-        3. _(C)_  On-site waste disposal systems shall be located to avoid 
-impairment to  them or contamination from them during flooding.
+        3. _(C)_ On-site waste disposal systems shall be located to avoid
+impairment to them or contamination from them during flooding.
     4. _(4)_ Subdivision proposals.
-        1. _(A)_  All subdivision proposals shall be consistent with the need to
+        1. _(A)_ All subdivision proposals shall be consistent with the need to
 minimize flood damage;
-        2. _(B)_  All subdivision proposals shall have public utilities and
-facilities  such as sewer, gas, electrical and water systems located and
+        2. _(B)_ All subdivision proposals shall have public utilities and
+facilities such as sewer, gas, electrical and water systems located and
 constructed to minimize flood damage;
-        3. _(C)_  All subdivision proposals shall have adequate drainage provided
+        3. _(C)_ All subdivision proposals shall have adequate drainage provided
 to reduce exposure to flood damage; and,
-        4. _(D)_  In all areas of special flood hazard where base flood elevation
+        4. _(D)_ In all areas of special flood hazard where base flood elevation
 data are not available, the applicant shall provide a hydrologic and hydraulic
 engineering analysis that generates base flood elevations for all subdivision
 proposals and other proposed developments containing at least fifty lots or
@@ -724,7 +724,7 @@ other materials of any composition, is prohibited.
 2. _(b)_ Specific Standards. In all special flood hazard areas where base
 flood elevation data have been provided as set forth in Section 1353.03(b) or Section 1353.04(d)(3), and in all areas that constitute flood protection elevations as
 determined by the Flood Damage Prevention Administrator, the following
-provisions are required: 
+provisions are required:
     1. _(1)_ Residential construction. New construction and substantial
 improvement of any residential structures, including manufactured homes, shall
 have the lowest floor, including basement, elevated to no less than eighteen
@@ -734,11 +734,11 @@ improvement of any commercial, industrial or other nonresidential structure
 shall either have the lowest floor, including basement, elevated to no less
 than eighteen (18) inches above the level of the base flood elevation; or,
 together with attendant utility and sanitary facilities, shall:
-        1. _(A)_  Be floodproofed so that below the base flood level the structure
+        1. _(A)_ Be floodproofed so that below the base flood level the structure
 is watertight with walls substantially impermeable to the passage of water;
-        2. _(B)_  Have structural components capable of resisting hydrostatic and 
+        2. _(B)_ Have structural components capable of resisting hydrostatic and
 hydrodynamic loads and effects of buoyancy; and
-        3. _(C)_  Be certified by a registered professional engineer or architect
+        3. _(C)_ Be certified by a registered professional engineer or architect
 that the design and methods of construction are in accordance with accepted
 standards of practice for meeting the standards of this subsection. Such
 certification shall be provided to the official as set forth in Section 1353.04(a)(3).
@@ -749,16 +749,16 @@ exemption to the elevation or dry floodproofing standards may be granted for
 accessory structures (e.g., sheds, detached garages) containing 576 square feet
 or less in gross floor area. Such structures shall meet the encroachment
 provisions of Section 1353.07(a) and the following additional standards:
-        1. _(A)_  They shall not be used for human habitation;
-        2. _(B)_  They shall be constructed of flood resistant materials:
-        3. _(C)_  They shall be designed to have low flood damage potential;
-        4. _(D)_  They shall be constructed and placed on the building site so as
+        1. _(A)_ They shall not be used for human habitation;
+        2. _(B)_ They shall be constructed of flood resistant materials:
+        3. _(C)_ They shall be designed to have low flood damage potential;
+        4. _(D)_ They shall be constructed and placed on the building site so as
 to offer the minimum resistance to the flow of floodwaters;
-        5. _(E)_  They shall be firmly anchored to prevent flotation; and
-        6. _(F)_  Service facilities, such as electrical and heating equipment,
+        5. _(E)_ They shall be firmly anchored to prevent flotation; and
+        6. _(F)_ Service facilities, such as electrical and heating equipment,
 shall be elevated or floodproofed to or above the level of the flood protection
-elevation; and, they shall meet the opening requirements of Section 
-1353.06(b)(4). 
+elevation; and, they shall meet the opening requirements of Section
+1353.06(b)(4).
     4. _(4)_ Enclosures below the lowest floor base flood elevation. The
 following standards apply to all new and substantially improved residential and
 nonresidential nonbasement structures, including manufactured homes, which are
@@ -770,9 +770,9 @@ other than a basement and which are subject to flooding shall be designed to
 automatically equalize hydrostatic flood forces on exterior walls by allowing
 for the entry and exit of floodwaters. Designs for meeting this requirement
 shall:
-        1. _(A)_  Be certified by a registered professional engineer or architect;
+        1. _(A)_ Be certified by a registered professional engineer or architect;
 or,
-        2. _(B)_  Shall meet or exceed the following criteria:
+        2. _(B)_ Shall meet or exceed the following criteria:
             1. _(1)_ A minimum of two openings having a total net area of not less
 than one square inch for every square foot of enclosed area subject to flooding
 shall be provided;
@@ -781,14 +781,14 @@ above grade; and,
             3. _(3)_ Openings may be equipped with screens, louvers or other
 coverings or devices provided that they permit the automatic entry and exit of
 floodwaters.
-        3. _(C)_  Any enclosure which meets these criteria shall be considered as
-having met the requirements of subsection (a)(l) hereof. 
+        3. _(C)_ Any enclosure which meets these criteria shall be considered as
+having met the requirements of subsection (a)(l) hereof.
     5. _(5)_ Recreational vehicles. Recreational vehicles must meet at least
 one of the following standards:
-        1. _(A)_  They shall not be located on sites in special flood hazard areas
+        1. _(A)_ They shall not be located on sites in special flood hazard areas
 for more than 180 days, or
-        2. _(B)_  They must be fully licensed and ready  for highway use, or
-        3. _(C)_  They must meet all standards of Section 1353.06.  
+        2. _(B)_ They must be fully licensed and ready for highway use, or
+        3. _(C)_ They must meet all standards of Section 1353.06.  
 (Ord. 2010-45. Passed 9-13-10.)
 
 ## 1353.07   Floodways
@@ -842,24 +842,24 @@ bank shall be left in place to retard bank erosion.
 4. _(d)_ The buffer area described above shall be overlays to the existing
 underlying districts as shown on the official Zoning Map of the Village, and as
 such, the provisions for the flood plain buffer areas shall serve as a
-supplement to the underlying district provisions. 
+supplement to the underlying district provisions.
 5. _(e)_ Where there happens to be any conflict between the provisions or
 requirements of any buffer area and those of any underlying district, the more
 restrictive provisions and/or those pertaining to the flood plain buffer areas
 shall apply.
 6. _(f)_ In the event any provision concerning a flood plain buffer area is
-declared inapplicable  as a result of any legislative or administrative
+declared inapplicable as a result of any legislative or administrative
 actions, or judicial discretion, the basic underlying district provision shall
 remain applicable.
 
 ## 1353.09   FEMA letters for map revisions and amendments
 
 Any individual, firm, or other non-community official, submitting a
-revision  request to FEMA, should consult with the Chief Administrative
-Officer. FEMA letters  of map revisions require submission of the Overview and
-Concurrence form 3067-0148  which involves Village approval of the application
+revision request to FEMA, should consult with the Chief Administrative
+Officer. FEMA letters of map revisions require submission of the Overview and
+Concurrence form 3067-0148 which involves Village approval of the application
 for both CLOMR and LOMR requests. According to CFR Title 44, Chapter 1, section
-65.4, applications including the  submission of new technical data should come
+65.4, applications including the submission of new technical data should come
 from the CEO of the community. Otherwise, the application may be submitted by
 the property owner with the required signatures of the requester, community
 official, and engineer.  

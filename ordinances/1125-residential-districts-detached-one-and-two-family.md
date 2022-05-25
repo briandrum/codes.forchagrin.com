@@ -18,24 +18,22 @@ title: "Chapter 1125: Residential Districts: Detached One and Two-Family"
 
 ## Cross references
 
-            Night parking of commercial vehicles - see TRAF.
-351.15
-            Home occupation defined - see P. & Z.
-1107.11
-            Signs permitted - see P. & Z.
-1143.04(h)
+* Night parking of commercial vehicles - see TRAF. 351.15
+* Home occupation defined - see P. & Z. 1107.11
+* Signs permitted - see P. & Z. 1143.04(h)
 
 ## 1125.01   Intent
 
-     In addition to the applicable provisions of the intent stated in Section 1105.03, it is the intent of these district regulations to promote development
+In addition to the applicable provisions of the intent stated in Section
+1105.03, it is the intent of these district regulations to promote development
 of low-to-medium density housing under conditions which maximize safety and
 minimize environmental disturbances to residents.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.02   Permitted uses
 
-     In Detached One and Two-Family Residential Districts, buildings and land
-shall be used by right for only the main and accessory uses set forth below.
+In Detached One and Two-Family Residential Districts, buildings and land shall
+be used by right for only the main and accessory uses set forth below.
 
 1. _(a)_ Main Uses.
     1. _(1)_ In R1-100, R1-60 and R1-50 Districts: one-family detached
@@ -55,9 +53,10 @@ in Section 1125.04 (e) and (f) of this Planning and Zoning Code.
 
 ## 1125.03   Area, yard and height regulations: main buildings
 
-     Lots in R1 and R2F Districts shall be occupied by no more than one (1)
-main building per lot, and further, shall be developed and maintained in
-accordance with the following regulations.
+Lots in R1 and R2F Districts shall be occupied by no more than one (1) main
+building per lot, and further, shall be developed and maintained in accordance
+with the following regulations.
+
                                               R1-100 R1-60 R1-50 R2F
                                                                  1F/2F
 (a)   Lot size, minimum (sq. ft.)          20,000 9,000 6,000 6,000/8,000
@@ -160,7 +159,7 @@ the through lot. Where there are no adjoining lots, the minimum distance from
 the rear lot line shall be the required side yard setback plus five feet.
     6. _(6)_ The maximum height of an accessory building shall not exceed
 eighteen feet. The Architectural Board of Review may approve a height of no
-more than twenty-two feet for an accessory building  to permit a roof pitch
+more than twenty-two feet for an accessory building to permit a roof pitch
 that is architecturally compatible with the main building on the lot and on
 property in proximity to the lot when required by Chapter 1146. Such approval shall be in accordance with the following compatibility
 requirements:
@@ -197,7 +196,7 @@ considerations of safety.
 the right- of-way line of the nearest intersecting street.
     7. _(7)_ Driveways that do not connect to a garage are prohibited.
 3. _(c)_ Fences, Walls and Hedges. Fences, walls and hedges are permitted as
-regulated in Chapter 1148. 
+regulated in Chapter 1148.
 4. _(d)_ Recreational Uses.
     1. _(1)_ Swimming pools. Swimming pools shall be located only in rear yards
 and shall be set back a minimum distance of ten feet from each lot line. Any
@@ -239,11 +238,11 @@ Section 1144.02(b).
 1. _(a)_ Home Occupations. Home occupations, including professional offices
 are permitted only if in conformance with the following standards:
     1. _(1)_ Employment. The occupation is conducted only by members of the
-family residing in the dwelling unit. 
+family residing in the dwelling unit.
     2. _(2)_ Area.  The occupation is conducted within a completely enclosed
 dwelling unit and any space used for sales, service or production occupies no
 more than twenty-five percent (25%) of the dwelling unit’s floor area nor more
-than 150 square feet. 
+than 150 square feet.
     3. _(3)_ Sales. All merchandise sold on the premises is produced on the
 premises.
     4. _(4)_ Environmental impact. No use shall create noise, dust, odor, glare,
@@ -316,7 +315,7 @@ relevant by the Administrator.
 
 ## 1125.07   Visibility at intersections
 
-       Within a triangle formed by lines drawn between points on two street
+Within a triangle formed by lines drawn between points on two street
 right-of-way lines twenty-five feet from their point of intersection,
 substantially unobstructed sight lines shall be maintained within a vertical
 height band two and one-half to six feet above curb level.  
@@ -324,8 +323,8 @@ height band two and one-half to six feet above curb level.
 
 ## 1125.08   Supplemental parking regulations
 
-     In addition to the applicable parking regulations of Chapter 1141, the following parking regulations shall apply in all R1 and R2F
-Districts.
+In addition to the applicable parking regulations of Chapter 1141, the following
+parking regulations shall apply in all R1 and R2F Districts.
 
 1. _(a)_ Exceptions. Vehicles temporarily on the premises of a dwelling for
 the purposes of deliveries, repairs, construction, landscaping, maintenance,
@@ -353,14 +352,14 @@ overall length or eight (8) feet or less in width or twelve (12) feet or less
 in height, inclusive of any rooftop mechanical equipment may be parked or
 stored on the premises provided that the following requirements are satisfied:
         1. _(A)_ The vehicle shall be located only in a rear yard, a minimum
-distance of three feet from any lot line plus the width of required screening. 
+distance of three feet from any lot line plus the width of required screening.
 On a corner lot the vehicle may be parked no closer to the street than five
 feet plus the setback for the main building plus the width of required
 screening.
         2. _(B)_ The Administrator may require an increase in setbacks if
 necessary, for the installation of adequate screening.
         3. _(C)_ The vehicle shall be screened as required under Section 1125.08(f) so as to obscure it from contiguous parcels and public streets when
-viewed from contiguous  parcels and public streets by a person standing at
+viewed from contiguous parcels and public streets by a person standing at
 ground level. The Administrator may exclude from the screening requirement an
 area of sufficient width to serve as an approach drive for the vehicle.
         4. _(D)_ All parking areas and access drives to accommodate the vehicle
@@ -401,7 +400,7 @@ being used for a permitted main use of the lot.
     2. _(2)_ When not considered a large vehicle, the outside parking and
 storage of trailers shall conform to the following:
         1. _(A)_ The trailer shall be located only in a rear yard, a minimum
-distance of three feet from any lot line plus the width of required screening. 
+distance of three feet from any lot line plus the width of required screening.
 On a corner lot, the trailer may be parked no closer to the street than five
 feet plus the setback for the main building plus the width of required
 screening.
@@ -431,10 +430,10 @@ Section. Screening shall be maintained in good condition at all times.
 
 ## 1125.09   Keeping chickens
 
-     The keeping of chickens may be permitted solely in the R1-100 District
-subject to the following:
+The keeping of chickens may be permitted solely in the R1-100 District subject
+to the following:
 
-1. _(a)_ A maximum of four (4) female chickens may be kept on the property. 
+1. _(a)_ A maximum of four (4) female chickens may be kept on the property.
 Roosters are not permitted.
 2. _(b)_ Chickens shall be kept in an enclosure or fenced area, such as a coop
 or run at all times.
@@ -443,7 +442,7 @@ or run at all times.
     2. _(2)_ Chicken coops and runs shall be located a minimum of fifteen (15)
 feet away from the main building and all contiguous lot lines.
     3. _(3)_ The facility must be kept in good repair, maintained in a clean and
-in a sanitary condition, and free of vermin, obnoxious smells and substances. 
+in a sanitary condition, and free of vermin, obnoxious smells and substances.
 The facility shall not create a nuisance or disturb neighboring residents due
 to noise, odor, damage or threats to public health.
     4. _(4)_ The chicken coop and run shall be designed to ensure that the

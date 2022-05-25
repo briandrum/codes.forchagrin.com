@@ -58,7 +58,7 @@ planning and design at the earliest possible stage in the development process.
 caused by inadequate stormwater management.
     8. _(8)_ Maximize use of SCMs that serve multiple purposes including, but
 not limited to, flood control, erosion control, fire protection, water quality
-protection, recreation, and habitat preservation. 
+protection, recreation, and habitat preservation.
     9. _(9)_ Design sites to minimize the number of stream crossings and the
 width of associated disturbance in order to minimize the Village of Chagrin
 Falls’ future expenses related to the maintenance and repair of stream
@@ -133,7 +133,7 @@ of vegetative cover and/or soil disturbing activities.
 11. _(k)_ Drainage: The removal of excess surface water or groundwater from land
 by surface or subsurface drains.
 12. _(l)_ Erosion: The process by which the land surface is worn away by the
-action of wind, water, ice, gravity, or any combination of those forces. 
+action of wind, water, ice, gravity, or any combination of those forces.
 13. _(m)_ Extended detention facility: A stormwater control measure that
 replaces and/or enhances traditional detention facilities by releasing the
 runoff collected during the stormwater quality event over at least 24 to 48
@@ -168,11 +168,11 @@ pollution prevention measures to compensate for land development impacts on
 hydrology and water quality. LID’s goal is to mimic natural hydrology and
 processes by using small-scale, decentralized practices that infiltrate,
 evaporate, detain, and transpire stormwater. LID stormwater control measures
-(SCMs)  are uniformly and strategically located throughout the site.
+(SCMs) are uniformly and strategically located throughout the site.
 22. _(v)_ Maximum extent practicable: The level of pollutant reduction that
 operators of small municipal separate storm sewer systems regulated under 40
 C.F.R. Parts 9, 122, 123, and 124, referred to as NPDES Stormwater Phase II,
-must meet. 
+must meet.
 23. _(w)_ Municipal Separate Storm Sewer System (MS4): A conveyance or system of
 conveyances (including roads with drainage systems, municipal streets, catch
 basins, curbs, gutters, ditches, man-made channels, or storm drains) that are:
@@ -209,12 +209,12 @@ Board of Registration for Engineers and Surveyors.
 previously developed and where the new land use will not increase the runoff
 coefficient used to calculate the water quality volume. If the new land use
 will increase the runoff coefficient, then the project is considered to be a
-new development project rather than a redevelopment project. 
+new development project rather than a redevelopment project.
 31. _(ee)_ Riparian area: Land adjacent to any brook, creek, river, or stream
 having a defined bed and bank that, if appropriately sized, helps to stabilize
 streambanks, limit erosion, reduce flood size flows, and/or filter and settle
 out runoff pollutants, or performs other functions consistent with the purposes
-of this regulation. 
+of this regulation.
 32. _(ff)_ Riparian and wetland setback: The real property adjacent to a water
 resource on which soil disturbing activities are limited, all as regulated by
 Chapter 1151.02 of the Chagrin Falls Planning and Zoning Code.
@@ -229,7 +229,7 @@ product of erosion.
 commission, board, public or private partnership, joint venture, agency,
 unincorporated association, municipal corporation, county or state agency, the
 federal government, other legal entity, or an agent thereof that is responsible
-for the overall construction site.   
+for the overall construction site.  
 37. _(kk)_ Soil disturbing activity: Clearing, grading, excavating, filling, or
 other alteration of the earth’s surface where natural or human made ground
 cover is destroyed that may result in, or contribute to, increased stormwater
@@ -340,7 +340,7 @@ Management Plan.
 
 ## 1357.06   Application procedures
 
-1. _(a)_ Pre-Application Meeting:  The applicant shall attend a Pre-Application
+1. _(a)_ Pre-Application Meeting: The applicant shall attend a Pre-Application
 Meeting with the Village Engineer to discuss the proposed project, review the
 requirements of this regulation, identify unique aspects of the project that
 must be addressed during the review process, and establish a preliminary review
@@ -361,8 +361,8 @@ preliminary subdivision plan
     2. _(2)_ For other construction projects: In conjunction with the
 application for a zoning permit.
     3. _(3)_ For general clearing projects:  In conjunction with the application
-for a zoning permit. 
-3. _(c)_ Final Comprehensive Stormwater Management Plan:  The applicant shall
+for a zoning permit.
+3. _(c)_ Final Comprehensive Stormwater Management Plan: The applicant shall
 submit two (2) sets of a Final Comprehensive Stormwater Management Plan (Final
 Plan) and the applicable fees to the Village Engineer and/or the Chief
 Administrative Officer in conjunction with the submittal of the final plat,
@@ -376,10 +376,10 @@ and shall approve or return for revisions with comments and recommendations for
 revisions. A Preliminary or Final Plan rejected because of deficiencies shall
 receive a narrative report stating specific problems and the procedures for
 filing a revised Preliminary or Final Plan.
-5. _(e)_ Approval Necessary:  Land clearing and soil-disturbing activities
+5. _(e)_ Approval Necessary: Land clearing and soil-disturbing activities
 shall not begin and zoning and/or building permits shall not be issued without
 an approved Comprehensive Stormwater Management Plan.
-6. _(f)_ Valid for Two Years:  Approvals issued in accordance with this
+6. _(f)_ Valid for Two Years: Approvals issued in accordance with this
 regulation shall remain valid for two (2) years from the date of approval.  
 (Ord. 2016-79. Passed 12-12-16.)
 
@@ -437,7 +437,7 @@ Ohio Dam Safety Law is not applicable.
 
 ## 1357.08   Comprehensive stormwater management plan
 
-1. _(a)_ Comprehensive Stormwater Management Plan Required:  The applicant
+1. _(a)_ Comprehensive Stormwater Management Plan Required: The applicant
 shall develop a Comprehensive Stormwater Management Plan describing how the
 quantity and quality of stormwater will be managed after construction is
 completed for every discharge from the site and/or into a water resource or
@@ -451,13 +451,13 @@ the physical, chemical, and biological characteristics of on-site and
 downstream water resources and, if necessary, correct current degradation of
 water resources that is occurring or take measures to prevent predictable
 degradation of water resources.
-2. _(b)_ Preparation by Professional Engineer:  The Comprehensive Stormwater
+2. _(b)_ Preparation by Professional Engineer: The Comprehensive Stormwater
 Management Plan shall be prepared by a registered Professional Engineer and
 include supporting calculations, plan sheets, and design details. To the extent
 necessary, as determined by the Village Engineer, a site survey shall be
 performed by a registered Professional Surveyor to establish boundary lines,
 measurements, or land surfaces.
-3. _(c)_ Community Procedures:  The Village Engineer shall prepare and maintain
+3. _(c)_ Community Procedures: The Village Engineer shall prepare and maintain
 procedures providing specific criteria and guidance to be followed when
 designing the stormwater management system for the site. These procedures may
 be updated from time to time, at the discretion of the Village Engineer based
@@ -504,10 +504,10 @@ location and name of the immediate receiving stream or surface water(s) and the
 first subsequent receiving water(s) and the aerial extent and description of
 wetlands or other special aquatic sites at or near the site which will be
 disturbed or which will receive discharges from undisturbed areas of the
-project. 
+project.
         11. _(K)_ TMDLs applicable for the site [refer to TMDL community
 identifier table at http://www.neohiostormwater.com/]; demonstrate that
-appropriate (SCMs) have been selected to address these TMDLs. 
+appropriate (SCMs) have been selected to address these TMDLs.
         12. _(L)_ For each SCM, identify the drainage area, percent impervious
 cover within the drainage area, runoff coefficient for water quality volume,
 peak discharge, and the time of concentration for each subwatershed per
@@ -536,7 +536,7 @@ applicant is seeking approval from the Army Corps of Engineers and/or Ohio EPA.
 facilities, and utilities.
         6. _(F)_ The location of any in-stream activities including stream
 crossings.
-    3. _(3)_ Contact information:  Company name and contact information as well
+    3. _(3)_ Contact information: Company name and contact information as well
 as contact name, addresses, and phone numbers for the following:
         1. _(a)_ The Professional Engineer who prepared the Comprehensive
 Stormwater Management Plan.
@@ -553,11 +553,11 @@ of the property.
     9. _(9)_ A site plan sheet showing:
 The location of each proposed post-construction SCMs
         1. _(a)_ The geographic coordinates of the site AND each proposed practice
-in North American Datum Ohio State Plane North. 
+in North American Datum Ohio State Plane North.
 It is preferred that the entire site be shown on one plan sheet to allow a
 complete view of the site during plan review. If a smaller scale is used to
 accomplish this, separate sheets providing an enlarged view of areas on
-individual sheets should also be provided. 
+individual sheets should also be provided.
     10. _(10)_ Inspection and Maintenance Agreement. The Inspection and
 Maintenance Agreement required for SCMs under this regulation as a stand-alone
 document between the Village of Chagrin Falls and the applicant. A copy of
@@ -618,8 +618,8 @@ Chagrin Falls Engineer, to ensure continued performance of SCMs permitted to be
 located in, or within 50 feet of, water resources.
         5. _(E)_ The location and documentation of all access and maintenance
 easements on the property.
-Alteration or termination of these stipulations is prohibited. 
-    12. _(12)_ Required Calculations:  The applicant shall submit calculations
+Alteration or termination of these stipulations is prohibited.
+    12. _(12)_ Required Calculations: The applicant shall submit calculations
 for projected stormwater runoff flows, volumes, and timing into and through all
 SCMs for flood control, channel protection, water quality, and the condition of
 the habitat, stability, and incision of each water resource and its floodplain,
@@ -628,8 +628,8 @@ post-development land use conditions and shall include the underlying
 assumptions and hydrologic and hydraulic methods and parameters used for these
 calculations. The applicant shall also include critical storm determination and
 demonstrate that the runoff from offsite areas have been considered in the
-calculations. 
-    13. _(13)_ List of all contractors and subcontractors before construction: 
+calculations.
+    13. _(13)_ List of all contractors and subcontractors before construction:
 Prior to construction or before the pre-construction meeting, provide the list
 of all contractors and subcontractors and their names, addresses, and phones
 involved with the implementation of the Comprehensive Stormwater Management
@@ -639,7 +639,7 @@ responsibilities of the Comprehensive Stormwater Management Plan.
     14. _(14)_ Existing and proposed drainage patterns: The location and
 description of existing and proposed drainage patterns and SCMs, including any
 related SCMs beyond the development area and the larger common development
-area. 
+area.
     15. _(15)_ For each SCM to be employed on the development area, include the
 following:
         1. _(A)_ Location and size, including detail drawings, maintenance
@@ -657,11 +657,11 @@ number.
 
 ## 1357.09   Performance standards
 
-1. _(a)_ General:  The stormwater system, including SCMs for storage, treatment
+1. _(a)_ General: The stormwater system, including SCMs for storage, treatment
 and control, and conveyance facilities, shall be designed to prevent structure
 flooding during the 100-year, 24-hour storm event; to maintain predevelopment
 runoff patterns, flows, and volumes; and to meet the following criteria:
-    1. _(1)_ Integrated practices that address degradation of water resources. 
+    1. _(1)_ Integrated practices that address degradation of water resources.
 The shall function as an integrated system that controls flooding and minimizes
 the degradation of the physical, biological, and chemical integrity of the
 water resources receiving stormwater discharges from the site. Acceptable
@@ -680,22 +680,22 @@ current edition of Rainwater and Land Development or another design manual
 acceptable for use by the Village of Chagrin Falls and Ohio EPA.
 SCMs that meet the criteria in this regulation, and additional criteria
 required by the Village Engineer, shall comply with this regulation.
-    2. _(2)_ Practices designed for final use:  SCMs shall be designed to
+    2. _(2)_ Practices designed for final use: SCMs shall be designed to
 achieve the stormwater management objectives of this regulation, to be
 compatible with the proposed post-construction use of the site, to protect the
 public health, safety, and welfare, and to function safely with routine
 maintenance.
-    3. _(3)_ Stormwater management for all lots:  Areas developed for a
+    3. _(3)_ Stormwater management for all lots: Areas developed for a
 subdivision, as defined in Chapter 1161, shall provide stormwater management and water quality controls for the
 development of all subdivided lots. This shall include provisions for lot
 grading and drainage that prevent structure flooding during the 100-year, 24-
 hour storm; and maintain, to the extent practicable, the pre-development runoff
 patterns, volumes, and peaks from each lot.
-    4. _(4)_ Stormwater facilities in water resources:  SCMs and related
+    4. _(4)_ Stormwater facilities in water resources: SCMs and related
 activities shall not be constructed in water resources unless the applicant
 shows proof of compliance with all appropriate permits from the Ohio EPA, the
 U.S. Army Corps, and other applicable federal, state, and local agencies as
-required in Section 1357.07 of this Chapter, and the activity is in compliance with Chapter 1355  of the Building Code and Chapter 1151 of the Planning and Zoning Code, all as determined by the Village
+required in Section 1357.07 of this Chapter, and the activity is in compliance with Chapter 1355 of the Building Code and Chapter 1151 of the Planning and Zoning Code, all as determined by the Village
 Engineer.
     5. _(5)_ Stormwater ponds and surface conveyance channels:  All stormwater
 pond and surface conveyance designs must provide a minimum of one (1) foot
@@ -704,14 +704,14 @@ year, 24-hour storm. When designing stormwater ponds and conveyance channels,
 the applicant shall consider public safety as a design factor and alternative
 designs must be implemented where site limitations would preclude a safe
 design.
-    6. _(6)_ Exemption:  The site where soil-disturbing activities are conducted
+    6. _(6)_ Exemption: The site where soil-disturbing activities are conducted
 shall be exempt from the requirements of this Section 1357.09 if it can be shown to the satisfaction of the Village Engineer that the
 site is part of a larger common plan of development where the stormwater
 management requirements for the site are provided by an existing SCMs, or if
 the stormwater management requirements for the site are provided by practices
 defined in a regional or local stormwater management plan approved by the
 Village Engineer.
-    7. _(7)_ Maintenance:  All SCMs shall be maintained in accordance with the
+    7. _(7)_ Maintenance: All SCMs shall be maintained in accordance with the
 Inspection and Maintenance Plan and Agreements approved by the Village Engineer
 as detailed in Section 1357.08 of this Chapter.
     8. _(8)_ Ownership: Unless otherwise required by the Village of Chagrin
@@ -719,9 +719,9 @@ as detailed in Section 1357.08 of this Chapter.
     held and maintained by an entity of common ownership or, if compensated by
     the property owners, by the Village of Chagrin Falls. SCMs serving single
     lots shall be placed on these lots, protected within an easement, and
-    maintained by the property owner. 
+    maintained by the property owner.
 
-    9. _(9)_ Preservation of Existing Natural Drainage:  Practices that preserve
+    9. _(9)_ Preservation of Existing Natural Drainage: Practices that preserve
     and/or improve the existing natural drainage shall be used to the maximum
     extent practicable. Such practices may include minimizing site grading and
     compaction; protecting and/or restoring water resources, riparian areas, and
@@ -734,7 +734,7 @@ as detailed in Section 1357.08 of this Chapter.
     receiving stream’s physical, chemical and biological characteristics are
     protected and ecological functions are maintained.
 
-    10. _(10)_ Preservation of Wetland Hydrology:  Concentrated stormwater
+    10. _(10)_ Preservation of Wetland Hydrology: Concentrated stormwater
     runoff from SCMs to wetlands shall be converted to diffuse flow before the
     runoff enters the wetlands in order to protect the natural hydrology,
     hydroperiod, and wetland flora. The flow shall be released such that no
@@ -754,7 +754,7 @@ as detailed in Section 1357.08 of this Chapter.
     impervious surface or have been incorporated into an SCM, the soil moisture-
     holding capacity of areas that have been cleared and graded should be
     restored to that of the original, undisturbed soil to the maximum extent
-    practicable.  Areas that have been compacted or had the topsoil or duff
+    practicable. Areas that have been compacted or had the topsoil or duff
     layer removed should be amended using the following steps:
 
         1. _(1)_ till subsoil to a depth of 15-18 inches,
@@ -766,19 +766,19 @@ as detailed in Section 1357.08 of this Chapter.
 convey stormwater to allow for the maximum removal of pollutants and reduction
 in flow velocities. This shall include but not be limited to:
 
-    1. _(1)_ Water Protection:  The Village Engineer may allow modification to
+    1. _(1)_ Water Protection: The Village Engineer may allow modification to
     streams, rivers, lakes, wetlands or other surface waters only if the
     applicant shows proof of compliance with all appropriate permits from the
     Ohio EPA, the U.S. Army Corps, and other applicable federal, state, and
     local agencies as required in Section 1357.07  of this Chapter, and the
     activity is in compliance with Chapter 1355   of the Building Code and
-    Chapter 1151  of  the Planning and Zoning Code, all as determined by the
+    Chapter 1151  of the Planning and Zoning Code, all as determined by the
     Village Engineer. At a minimum, stream relocation designs must show how the
     project will minimize changes to the vertical stability, floodplain form,
     channel form, and habitat of upstream and downstream channels on and off the
     property.
 
-    2. _(2)_ Off-site Stormwater Discharges:  Off-site stormwater runoff that
+    2. _(2)_ Off-site Stormwater Discharges: Off-site stormwater runoff that
     discharges to or across the applicant’s development site shall be conveyed
     through the stormwater conveyance system planned for the development site at
     its existing peak flow rates during each design storm. Off-site flows shall
@@ -790,7 +790,7 @@ in flow velocities. This shall include but not be limited to:
     development site in a manner that does not exacerbate upstream or downstream
     flooding and erosion.
 
-    3. _(3)_ Sheet Flow:  The site shall be graded in a manner that maintains
+    3. _(3)_ Sheet Flow: The site shall be graded in a manner that maintains
     sheet flow over as large an area as possible. The maximum area of sheet flow
     shall be determined based on the slope, the uniformity of site grading, and
     the use of easements or other legally-binding mechanisms that prohibit
@@ -803,7 +803,7 @@ in flow velocities. This shall include but not be limited to:
     4. _(4)_ Open Channels:  Unless otherwise allowed by the Village Engineer,
     drainage tributary to SCMs shall be provided by an open channel with
     vegetated banks and designed to carry the 10 year, 24 hour stormwater runoff
-    from upstream contributory areas. 
+    from upstream contributory areas.
 
     5. _(5)_ Open Drainage Systems: Open drainage systems shall be preferred on
     all new development sites to convey stormwater where feasible. Storm sewer
@@ -811,7 +811,7 @@ in flow velocities. This shall include but not be limited to:
     allowed under Village of Chagrin Falls zoning or where the use of an open
     drainage system affects public health or safety, all as determined by the
     Village Engineer. The following criteria shall be used to design storm sewer
-    systems when necessary: 
+    systems when necessary:
 
         1. _(A)_ Storm sewers shall be designed such that they do not surcharge
         from runoff caused by the 5 year, 24 hour storm, and that the hydraulic
@@ -820,7 +820,7 @@ in flow velocities. This shall include but not be limited to:
         roadway during a 10 year, 24 hour storm. The system shall be designed to
         meet these requirements when conveying the flows from the contributing
         drainage area within the proposed development and existing flows from
-        offsite areas that are upstream from the development. 
+        offsite areas that are upstream from the development.
         2. _(B)_ The minimum inside diameter of pipe to be used in public storm
         sewer systems is 12 inches. Smaller pipe sizes may be used in private
         systems, subject to the approval of the Village Engineer.
@@ -844,7 +844,7 @@ in flow velocities. This shall include but not be limited to:
         to convey the stream’s flow for the minimum 25 year, 24 hour storm.
         2. _(B)_ Bridges, open bottom arch or spans are the preferred crossing
         technique and shall be considered in the planning phase of the
-        development.  Bridges and open spans should be considered for all State
+        development. Bridges and open spans should be considered for all State
         Scenic Rivers, coldwater habitat, exceptional warmwater habitat,
         seasonal salmonid habitat streams, and Class III headwater streams. The
         footers or piers for these bridges and open spans shall not be
@@ -873,7 +873,7 @@ in flow velocities. This shall include but not be limited to:
         through a bridge shall be below the bottom chord of the bridge for
         either the 100 year, 24 hour storm, or the 100 year flood elevation as
         determined by FEMA, whichever is more restrictive.
-    7. _(7)_ Overland Flooding:  Overland flood routing paths shall be used to
+    7. _(7)_ Overland Flooding: Overland flood routing paths shall be used to
     convey stormwater runoff from the 100 year, 24 hour storm event to an
     adequate receiving water resource or SCM such that the runoff is contained
     within the drainage easement for the flood routing path and does not cause
@@ -897,11 +897,11 @@ in flow velocities. This shall include but not be limited to:
     slopes used in compensatory storage areas must reasonably conform to the
     natural slopes adjacent to the disturbed area. The use of vertical retaining
     structures is specifically prohibited.
-    9. _(9)_ Velocity dissipation:  Velocity dissipation devices shall be placed
+    9. _(9)_ Velocity dissipation: Velocity dissipation devices shall be placed
     at discharge locations and along the length of any outfall to provide non-
     erosive flow velocity from the structure to a water resource so that the
     natural physical and biological characteristics and functions of the water
-    resource are maintained and protected. 
+    resource are maintained and protected.
 3. _(c)_ Stormwater Quality Control:
     1. _(1)_ Direct runoff to an SCM: The site shall be designed to direct
     runoff to one or more of the following SCMs. These practices are listed in
@@ -932,10 +932,10 @@ in flow velocities. This shall include but not be limited to:
         cities, or villages), the Village Engineer may approve SCMs not included
         in Table 2 of this regulation, but must show compliance with the current
         version of the Ohio Department of Transportation "Location and Design
-        Manual, Volume Two Drainage Design". 
+        Manual, Volume Two Drainage Design".
     2. _(2)_ Criteria applying to all SCMs. SCMs chosen must be sized to treat
     the water quality volume (WQv) and to ensure compliance with Ohio Water
-    Quality Standards (OAC Chapter 3745-1). 
+    Quality Standards (OAC Chapter 3745-1).
         1. _(A)_ The WQv shall be equal to the volume of runoff from a 0.75 inch
         rainfall event and shall be determined according to one of the following
         methods:
@@ -1001,7 +1001,7 @@ in flow velocities. This shall include but not be limited to:
         vegetation management, debris control, and other maintenance activities
         defined in the Inspection Plan and Maintenance Agreement for the site.
 
-        Table 2:  Draw Down Times for Stormwater Control Measures
+        Table 2: Draw Down Times for Stormwater Control Measures
 
         Stormwater Control Measure                      | Drain Time of WQv
         ------------------------------------------------|------------------
@@ -1068,13 +1068,13 @@ in flow velocities. This shall include but not be limited to:
             feet and no more than 15 feet outward from the normal water edge.
             The 8 feet wide portion of the aquatic bench closest to the
             shoreline shall have an average depth of 6 inches below the
-            permanent pool to promote the growth of aquatic vegetation.  The
+            permanent pool to promote the growth of aquatic vegetation. The
             remainder of the aquatic bench shall be no more than 15 inches below
             the permanent pool to minimize drowning risk to individuals who
             accidentally or intentionally enter the basin, and to limit growth
             of dense vegetation in a manner that allows waves and mosquito
             predators to pass through the vegetation. The maximum slope of the
-            aquatic bench shall be 10 (H) to 1 (V).  The aquatic bench shall be
+            aquatic bench shall be 10 (H) to 1 (V). The aquatic bench shall be
             planted with native plant species comparable to wetland vegetation
             that are able to withstand prolonged inundation. The use of invasive
             plant species is prohibited. An invasive species is a species that
@@ -1088,9 +1088,9 @@ in flow velocities. This shall include but not be limited to:
             4. _(4)_ Detention basins shall be provided with an emergency drain,
             where practicable, so that the basin may be emptied if the primary
             outlet becomes clogged and/or to drain the permanent pool to
-            facilitate maintenance.  The emergency drain should be designed to
+            facilitate maintenance. The emergency drain should be designed to
             drain by gravity where possible.
-    5. _(5)_ Criteria for the Acceptance of Alternative post-construction SCMs: 
+    5. _(5)_ Criteria for the Acceptance of Alternative post-construction SCMs:
     The applicant may request approval from the Village Engineer for the use of
     alternative structural post-construction SCMs if the applicant shows to the
     satisfaction of the Village Engineer that these SCMs are equivalent in
@@ -1098,7 +1098,7 @@ in flow velocities. This shall include but not be limited to:
     listed in Table 2. If the site is greater than five (5) acres, or less than
     five (5) acres but part of a larger common plan of development or sale which
     will disturb five (5) or more acres, prior approval from the Ohio EPA is
-    necessary. To demonstrate the equivalency, the applicant must show: 
+    necessary. To demonstrate the equivalency, the applicant must show:
         1. _(A)_ The alternative SCM has a minimum total suspended solid (TSS)
         removal efficiency of 80 percent, using the Level II Technology
         Acceptance Reciprocity Partnership (TARP) testing protocol.
@@ -1152,7 +1152,7 @@ concentrations. Time of concentration shall also show the flow path and the
 separation in flow type.
                     5. _(5)_ Rainfall Depth - For the most accurate, up-to-date, location-
 specific rainfall data for stormwater design, use the Precipitation-Frequency
-Atlas of the United States, NOAA Atlas 14, Vol 2(3). [available online:  http:/
+Atlas of the United States, NOAA Atlas 14, Vol 2(3). [available online: http:/
 /hdsc.nws.noaa.gov/hdsc/pfds/.]
                     6. _(6)_ Temporal Distribution - Use the SCS Type II rainfall
 distribution for all design events with a recurrence interval greater than 1
@@ -1160,7 +1160,7 @@ year. Include lot coverage assumptions used for full build out of the proposed
 condition.
                     7. _(7)_ Curve numbers for the pre-development condition shall reflect
 the average type of land use over the past 10 years and not only the current
-land use. 
+land use.
                         1. _(i)_ Pre-development Curve Numbers - For wooded or brushy areas,
 use listed values from TR-55 NRCS USDA Urban Hydrology for Small Watersheds,
 1986 in good hydrologic condition. For meadows, use listed values. For all
@@ -1224,7 +1224,7 @@ or a combination of the two.
             3. _(3)_ Where projects are a combination of new development and
 redevelopment, the total water quality volume required to be treated shall be
 calculated by a weighted average based on acreage, with the new development at
-100 percent water quality volume and redevelopment at 20 percent. 
+100 percent water quality volume and redevelopment at 20 percent.
             4. _(4)_ Where conditions prevent impervious area reduction or on-site
 stormwater management for redevelopment projects, practical alternatives as
 detailed in Section 1357.10 of this Chapter may be approved by the Village
@@ -1243,7 +1243,7 @@ regulation.
     2. _(2)_ Implemented in the same Hydrologic Unit Code (HUC) 12 watershed
 unit as the proposed development project.
     3. _(3)_ The mitigation ratio of the water quality volume is 1.5 to 1 or the
-water quality volume at the point of retrofit, whichever is greater. 
+water quality volume at the point of retrofit, whichever is greater.
     4. _(4)_ An inspection and maintenance agreement as described in Chapter 1357.08(d)(10) of the Building Code is established to ensure operations and
 treatment in perpetuity.
     5. _(5)_ Obtain prior written approval from Ohio EPA.
@@ -1265,7 +1265,7 @@ maintenance shall be secured by easements. The following conditions shall
 apply to all easements:
 
 1. _(a)_ Easements shall be included in the Inspection and Maintenance
-Agreement submitted with the Comprehensive Stormwater Management Plan. 
+Agreement submitted with the Comprehensive Stormwater Management Plan.
 2. _(b)_ Easements shall be approved by the Village of Chagrin Falls prior to
 approval of a final plat and shall be recorded with the Cuyahoga County Auditor
 and on all property deeds.
@@ -1275,12 +1275,12 @@ The easement shall also incorporate the entire practice plus an additional 25-
 foot wide band around the perimeter of the SCM.
 4. _(d)_ The easement shall be graded and/or stabilized as necessary to allow
 maintenance equipment to access and manipulate around and within each facility,
-as defined in the Inspection and Maintenance Agreement for the site. 
+as defined in the Inspection and Maintenance Agreement for the site.
 5. _(e)_ Easements to structural SCMs shall be restricted against the
 construction therein of buildings, fences, walls, and other structures that may
 obstruct the free flow of stormwater and the passage of inspectors and
 maintenance equipment; and against the changing of final grade from that
-described by the final grading plan approved by the Village of Chagrin Falls. 
+described by the final grading plan approved by the Village of Chagrin Falls.
 Any re-grading and/or obstruction placed within a maintenance easement may be
 removed by the Village of Chagrin Falls at the property owners’ expense.  
 (Ord. 2016-79. Passed 12-12-16.)
@@ -1306,7 +1306,7 @@ Plan. The As-Built Survey must provide the location, dimensions, and bearing
 of such practices and include the entity responsible for long-term maintenance
 as detailed in the Inspection and Maintenance Agreement.
 3. _(c)_ A copy of the complete and recorded Inspection and Maintenance Plan
-and Inspection and Maintenance Agreement as specified in Section 1357.08  of this Chapter must be provided to the Village Engineer.  
+and Inspection and Maintenance Agreement as specified in Section 1357.08 of this Chapter must be provided to the Village Engineer.  
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.13   On-going inspections

@@ -35,7 +35,7 @@ not, whatever its origin may be, and includes synthetic ethyl alcohol. The term
 does not include denatured alcohol and wood alcohol.
 2. _(b)_ “At Retail”. For use or consumption by the purchaser and not for
 resale.
-3. _(c)_ “Beer”. 
+3. _(c)_ “Beer”.
     1. _(1)_ Includes all beverages brewed or fermented wholly or in part from
 malt products and containing one-half of one percent (0.5%) or more of alcohol
 by volume.
@@ -103,7 +103,7 @@ Ohio R.C. 4301.21. Such terms do not include the mere solicitation of orders
 for beer or intoxicating liquor from the holders of permits issued by the
 Division of Liquor Control authorizing the sale of the beer or intoxicating
 liquor, but no solicitor shall solicit any orders until the solicitor has been
-registered with the Division pursuant to Ohio R.C.  4303.25.
+registered with the Division pursuant to Ohio R.C. 4303.25.
 15. _(o)_ “Sealed Container”. Any container having a capacity of not more than
 128 fluid ounces, the opening of which is closed to prevent the entrance of
 air.
@@ -219,7 +219,7 @@ the Division of Liquor Control or sold by the Division of Liquor Control.
     1. _(1)_ Whoever violates any provision of this section for which no
 other penalty is provided is guilty of a misdemeanor of the first degree.
     2. _(2)_ Whoever violates subsection (a) hereof, shall be fined not less
-than twenty-five dollars ($25.00) nor more than one hundred dollars ($100.00). 
+than twenty-five dollars ($25.00) nor more than one hundred dollars ($100.00).
 The court imposing a fine for a violation of subsection (a) hereof may order
 that the fine be paid by the performance of public work at a reasonable hourly
 rate established by the court. The court shall designate the time within which
@@ -280,7 +280,7 @@ degree.
 vehicle. This section does not apply to persons described in Section 529.07(d).  
 (ORC 4301.64)
 2. _(b)_ Whoever violates subsection (a) hereof is guilty of a misdemeanor of
-the fourth degree. 
+the fourth degree.
 3. _(c)_ If an offender who violates this section was under the age of eighteen
 years at the time of the offense, the court, in addition to any other penalties
 it imposes upon the offender, shall suspend the offender’s temporary
@@ -288,7 +288,7 @@ instruction permit, probationary driver’s license, or driver’s license for a
 period of not less than six months and not more than one year. In lieu of
 suspending the offender’s temporary instruction permit, probationary driver’s
 license or driver’s license, the court may instead require the offender to
-perform community service for a number of hours to be determined by the court. 
+perform community service for a number of hours to be determined by the court.
 If the offender is fifteen years and six months of age or older and has not
 been issued a temporary instruction permit or probationary driver’s license,
 the offender shall not be eligible to be issued such a license or permit for a
@@ -311,7 +311,7 @@ Liquor Control and in force at the time.
 (ORC 4303.25)
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.
 
-## 529.06   Low-alcohol beverages:  sale to and purchase by underage persons prohibited
+## 529.06   Low-alcohol beverages: sale to and purchase by underage persons prohibited
 
 1. _(a)_ As used in this section, "underage person" means a person under
 eighteen years of age.
@@ -387,7 +387,7 @@ of any of the following:
         1. _(A)_ Beer or intoxicating liquor that has been lawfully purchased for
 consumption on the premises where bought from the holder of an A-1-A, A-2, A-2
 (f), A-3a, D-1, D-2, D-3, D-3a, D-4, D-4a, D-5, D-5a, D-5b, D-5c, D-5d, D-5e,
-D-5f, D-5g, D-5h, D-5i, D-5j,  D- 5k, D-5l, D-5m, D-5n, D-5o, D-7, D8, E, F, F-
+D-5f, D-5g, D-5h, D-5i, D-5j, D- 5k, D-5l, D-5m, D-5n, D-5o, D-7, D8, E, F, F-
 2, F-5, F-7 or F-8 permit;
         2. _(B)_ Beer, wine, or mixed beverages served for consumption on the
 premises by the holder of an F-3 permit, wine served as a tasting sample by an
@@ -420,7 +420,7 @@ premises during the period for which the D-2 permit is issued.
             1. _(1)_ “Orchestral performance” means a concert comprised of a group
 of not fewer than forty musicians playing various musical instruments.
             2. _(2)_ “Outdoor performing arts center” means an outdoor performing
-arts center that is located on not less than one  hundred fifty acres of land
+arts center that is located on not less than one hundred fifty acres of land
 and that is open for performances from the first day of April to the last day
 of October of each year.
     4. _(4)_ A person may have in the person’s possession an opened or unopened
@@ -520,7 +520,7 @@ apparent if the bottle has been subsequently opened or tampered with.
 subsection (e)(1) of this section is stored in the trunk of a motor vehicle or,
 if the motor vehicle does not have a trunk, behind the last upright seat or in
 an area not normally occupied by the driver or passengers and not easily
-accessible by the driver. 
+accessible by the driver.
 6. _(f)_
     1. _(1)_ Except if an ordinance or resolution is enacted or adopted under
 subsection (f)(2) of this section, this section does not apply to a person who,
@@ -593,7 +593,7 @@ holders who are authorized by their permit to sell beer, wine, mixed beverages,
 or spirituous liquor for on-premises consumption.
 3. _(c)_ No beer, wine, mixed beverages, or spirituous liquid shall be sold or
 delivered by an A-1A, D-3 when issued with a D-3A, D-4A, D-5, D-5A, D-5B, D-5C,
-D-5D, D-5E, D-5F, D-5G,  D-5I, D-5J, D-5l, D-5m, D-5n, D-5o, or D-7 permit
+D-5D, D-5E, D-5F, D-5G, D-5I, D-5J, D-5l, D-5m, D-5n, D-5o, or D-7 permit
 holder:
     1. _(1)_ From Monday to Saturday between the hours of two thirty a.m. and
 five thirty a.m.

@@ -24,13 +24,14 @@ title: "Chapter 1139: Limited Industrial Districts"
 In addition to the applicable provisions of the intent stated in Section 1105.03, it is the intent of these district regulations to promote limited
 industrial development appropriately designed and located to achieve, among
 others, the following objectives:
-     (a)       To provide opportunities for local employment.
-     (b)       To stimulate the local economy and generate local tax revenues.
-     (c)       To minimize the impact of limited industrial uses on surrounding
+
+1. _(a)_ To provide opportunities for local employment.
+2. _(b)_ To stimulate the local economy and generate local tax revenues.
+3. _(c)_ To minimize the impact of limited industrial uses on surrounding
 uses.
-     (d)       To encourage development to take place that will make efficient
+4. _(d)_ To encourage development to take place that will make efficient
 use of existing infrastructure and services.
-     (e)       To limit permitted industrial uses to those most compatible with
+5. _(e)_ To limit permitted industrial uses to those most compatible with
 the predominantly small-scale, residential character of the community.  
 (Ord. 2019-39. Passed 8-13-19.)
 
@@ -190,7 +191,7 @@ setback regulations of subsection (b) hereof.
 
 1. _(a)_ Yards. The minimum setback from a lot line to a main building shall be
 as set forth below.
- 
+
       Minimum Setback (feet)
 Yard  To Street R.O.W. Line* To Residential To Other Lot Line
                              District Line
@@ -200,7 +201,7 @@ Rear  20                     50             25
 * For private roads, such distance shall be measured to the road pavement edge.
 2. _(b)_ Setbacks. The minimum setback depth from a lot line to an accessory
 structure or use shall be as set forth below.
- 
+
                    Minimum Setback Depth (feet)
 Accessory Use      To Street R.O.W. Line To Residential To Other Lot Line
                                          District Line
@@ -216,8 +217,7 @@ right of way.
 
 ## 1139.05   Supplemental regulations
 
-       For regulations regarding off-street parking and loading, landscaping,
-lighting, signs and environmental performance, refer to Chapters
-1141 -
-1150 of the Planning and Zoning Code.  
+For regulations regarding off-street parking and loading, landscaping, lighting,
+signs and environmental performance, refer to Chapters 1141 - 1150 of the
+Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)

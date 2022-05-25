@@ -125,7 +125,7 @@ tandem wheels or one wheel in the front and two wheels in the rear, that may be
 pedaled, and that is equipped with a helper motor of not more than fifty cubic
 centimeters piston displacement that produces not more than one brake horsepower
 and is capable of propelling the vehicle at a speed of no greater than twenty
-miles per hour on a level surface. 
+miles per hour on a level surface.
 
 “Motorized bicycle” or “moped” does not include an electric bicycle.  
 (ORC 4511.01(H))
@@ -278,7 +278,7 @@ designed for use in specific highway maintenance activities.
 ### 301.162   Highway traffic signal
 
 “Highway traffic signal”means a power-operated traffic control device by which
-traffic is warned or directed to take some specific action.  “Highway traffic
+traffic is warned or directed to take some specific action. “Highway traffic
 signal” does not include a power-operated sign, steadily illuminated pavement
 markers, warning light, or steady burning electric lamp.  
 (ORC 4511.01(MMM))
@@ -331,12 +331,12 @@ divided into two or more clearly marked lanes for vehicular traffic.
 that has handlebars, is propelled by an electric motor or human power, and has
 an attainable speed on a paved level surface of not more than twenty miles per
 hour when propelled by the electric motor.  
-(ORC 4511.01(WWW))  
+(ORC 4511.01(WWW))
 
 ### 301.185   Median
 
 “Median” means the area between two roadways of a divided highway, measured from
-edge of traveled way to edge of traveled way, but excluding turn lanes.  The
+edge of traveled way to edge of traveled way, but excluding turn lanes. The
 width of a median may be different between intersections, between interchanges,
 and at opposite approaches of the same intersection.  
 (ORC 4511.01(NNN))
@@ -441,7 +441,7 @@ implied permission from the owner but not by other persons.
 including any adjacent sidewalks that generally run parallel to the road, within
 a shopping center, airport, sports arena, or other similar business or
 recreation facility that is privately owned but where the public is allowed to
-travel without access restrictions.  “Private road open to public travel”
+travel without access restrictions. “Private road open to public travel”
 includes a gated toll road but does not include a road within a private gated
 property where access is restricted at all times, a parking area, a driving
 aisle within a parking area, or a private grade crossing.  
@@ -562,7 +562,7 @@ transportation of children to and from a school session or a school function,
 and "school bus" does not include a van or bus used by a licensed child day-
 care center or type A family day-care home to transport children from the child
 day-care center or type A family day-care home to a school if the van or bus
-does not have more than fifteen children in the van or bus at any time.  "Child
+does not have more than fifteen children in the van or bus at any time. "Child
 day-care center" and "type A family day-care home" have the same meanings as in
 Ohio R.C. 5104.01.  
 (ORC 4511.01(F), (FFF))
@@ -629,7 +629,7 @@ the boundary lines of every way open to the use of the public as a thoroughfare
 for purposes of vehicular travel.  
 (ORC 4511.01(BB))
 
-2. _(b)_ "Arterial street"  means any United States or State numbered route,
+2. _(b)_ "Arterial street" means any United States or State numbered route,
 controlled access highway or other major radial or circumferential street or
 highway designated by local authorities within their respective jurisdictions as
 part of a major arterial system of streets or highways.  

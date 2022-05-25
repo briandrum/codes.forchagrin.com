@@ -42,7 +42,7 @@ same, car washing and the use of swimming pools. No person shall violate the
 provisions of such emergency ban.  
 (Ord. 1965-620. Passed 6-28-65.)
 
-## 931.02   Regulations of the water department,  and water rates
+## 931.02   Regulations of the water department, and water rates
 
 1. _(a)_ In order to provide for an orderly growth of the Municipality’s water
 system, and to assure equitable treatment for all users of the water system,

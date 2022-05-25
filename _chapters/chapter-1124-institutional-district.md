@@ -29,8 +29,8 @@ convenience while minimizing adverse impacts to adjoining residential areas.
 
 ## 1124.02   Permitted uses
 
-     In an Institutional District, buildings and land shall be used by right
-for only the main and accessory uses set forth below.
+In an Institutional District, buildings and land shall be used by right for only
+the main and accessory uses set forth below.
 
 1. _(a)_ Main Uses.
     1. _(1)_ Educational. Primary and secondary schools, public or private, and
@@ -67,7 +67,7 @@ In an Institutional District, land and structures shall be developed and
 maintained in accordance with the following area and height regulations.
 
 1. _(a)_ Lot Size and Width. As determined by the Planning and Zoning
-Commission in accordance with the stated intent of Section 1124.01 of this Planning and Zoning Code 
+Commission in accordance with the stated intent of Section 1124.01 of this Planning and Zoning Code
 2. _(b)_ Building Coverage. Twenty-five percent (25%) of lot area, maximum for
 all main and accessory buildings.  
 (Ord. 1987-19. Passed 9-28-87.)
@@ -134,25 +134,24 @@ grouping shall comply with the requirements of this District.
 
 ## 1124.06   Lighting
 
-     Outdoor lighting shall be governed by Chapter 1150, except that all lighting shall be extinguished between the hours of 11:00
-p.m. and 7:00 a.m.  
+Outdoor lighting shall be governed by Chapter 1150, except that all lighting
+shall be extinguished between the hours of 11:00 p.m. and 7:00 a.m.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.07   Screening
 
-     The Planning and Zoning Commission may require screening on the lot of a
+The Planning and Zoning Commission may require screening on the lot of a
 proposed use or development in an Institutional District wherever that lot
 adjoins a residential district. Such screening shall be required if deemed
-necessary by the Planning and Zoning Commission to protect the privacy,
-welfare, value and character of the adjoining residential area. The standards
-for screening contained in Sections
-1142.06(b) and (c) of the Planning and Zoning Code shall apply.  
+necessary by the Planning and Zoning Commission to protect the privacy, welfare,
+value and character of the adjoining residential area. The standards for
+screening contained in Sections 1142.06(b) and (c) of the Planning and Zoning
+Code shall apply.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.08   Supplemental regulations
 
-     For regulations regarding off-street parking and loading, landscaping,
-lighting, signs and environmental performance, refer to Chapters
-1141 -
-1150 of the Planning and Zoning Code.  
+For regulations regarding off-street parking and loading, landscaping, lighting,
+signs and environmental performance, refer to Chapters 1141 - 1150 of the
+Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)

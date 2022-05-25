@@ -84,7 +84,7 @@ average twenty-four hour concentration or flows during normal operation.
 carries storm and surface waters and drainage, but excludes sewage and
 industrial wastes, other than unpolluted cooling water.  
 (Ord. 1968-738. Passed 9-17-68.)
-19. _(s)_ "Superintendent" and “Superintendent of Services”  means the
+19. _(s)_ "Superintendent" and “Superintendent of Services” means the
 Superintendent of Utilities or his or her authorized deputy, agent or
 representative.  
 (Ord. 2008-65. Passed 12-8-08.)
@@ -288,7 +288,7 @@ slugs, as defined herein.
 treatment or reduction by the sewage treatment processes employed or are
 amenable to treatment only to such degree that the sewage treatment plant
 effluent cannot meet the requirements of other agencies having jurisdiction
-over discharge to the receiving  waters.  
+over discharge to the receiving waters.  
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.07   Authority of superintendent

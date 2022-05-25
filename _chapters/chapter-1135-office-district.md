@@ -108,7 +108,7 @@ set forth below.
 In an Office District, land and structures shall be developed and maintained in
 accordance with the following height regulations.
 
-1. _(a)_ Main Buildings:  40 feet maximum.
+1. _(a)_ Main Buildings: 40 feet maximum.
 
 2. _(b)_ Accessory Structures: 15 feet maximum for accessory structures.
 
@@ -123,7 +123,7 @@ height by which it exceeds the building height.
 
 In an Office District, land and structures shall be developed and maintained in
 accordance with the following yard and setback regulations. Landscape features,
-fences, walls and signs shall be permitted in setback  areas, provided that such
+fences, walls and signs shall be permitted in setback areas, provided that such
 uses conform to applicable regulations of this Planning and Zoning Code. Other
 accessory buildings structures and uses are permitted in setbacks only in
 accordance with the setback regulations of subsection (b) hereof.
@@ -160,7 +160,7 @@ right of way.
     1. _(1)_ Front yards. The Planning and Zoning Commission may reduce the
     required front yard setback to permit proposed buildings in substantially
     built up blocks to meet prevailing setbacks if such alignment is deemed more
-    appropriate 
+    appropriate
 
     2. _(2)_ Side yards. Buildings on adjoining lots may be attached at side lot
     lines if approved by the Planning and Zoning Commission and Architectural
@@ -172,7 +172,7 @@ right of way.
     requirements at side and rear lot lines joining nonresidential uses in order
     to permit shared drive and parking facilities. Such action shall be taken
     only if it is determined that site design or safety will be improved as a
-    result. The Planning and Zoning Commission shall require the submission of 
+    result. The Planning and Zoning Commission shall require the submission of
     written reciprocal agreements between the property owners, which shall be
     recorded with the County Recorder, guaranteeing the observance of all
     required conditions for the life of the shared driving and/or parking

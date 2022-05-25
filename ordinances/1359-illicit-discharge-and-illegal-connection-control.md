@@ -51,7 +51,7 @@ activities detailed in Section 1359.07 (a)(1) to (a)(3) of this regulation.
 The words and terms used in this regulation, unless otherwise expressly
 stated, shall have the following meaning:
 
-1. _(a)_ Best Management Practices (BMPs):  Means schedules of activities,
+1. _(a)_ Best Management Practices (BMPs): Means schedules of activities,
 prohibitions of practices, general good housekeeping practices, pollution
 prevention and educational practices, maintenance procedures, and other
 management practices to prevent or reduce the discharge of pollutants to storm
@@ -61,7 +61,7 @@ or drainage from raw materials storage.
 2. _(b)_ Community: Means the Village of Chagrin Falls, its designated
 representatives, boards, or commissions.
 3. _(c)_ Environmental Protection Agency Or United States Environmental
-Protection Agency (USEPA):  Means the United States Environmental Protection
+Protection Agency (USEPA): Means the United States Environmental Protection
 Agency, including but not limited to the Ohio Environmental Protection Agency
 (Ohio EPA), or any duly authorized official of said agency.
 4. _(d)_ Floatable material: In general this term means any foreign matter
@@ -78,7 +78,7 @@ discharge to an MS4 that is not composed entirely of storm water, except for
 those discharges to an MS4 pursuant to a NPDES permit or noted in Section 1359.07 of this regulation.
 7. _(g)_ Illegal connection: Means any drain or conveyance, whether on the
 surface or subsurface, that allows an illicit discharge to enter the MS4.
-8. _(h)_  Municipal Separate Storm Sewer System (MS4):  As defined at 40
+8. _(h)_ Municipal Separate Storm Sewer System (MS4): As defined at 40
 C.F.R. 122.26 (b)(8), municipal separate storm sewer system means a conveyance
 or system of conveyances (including roads with drainage systems, municipal
 streets, catch basins, curbs, gutters, ditches, man-made channels, or storm
@@ -93,13 +93,13 @@ of the Clean Water Act that discharges to waters of the United States;
     2. _(2)_ Designed or used for collecting or conveying storm water;
     3. _(3)_ Which is not a combined sewer; and
     4. _(4)_ Which is not part of a Publicly Owned Treatment Works (POTW) as
-defined at 40 C.F.R. 122.2. 
+defined at 40 C.F.R. 122.2.
 9. _(i)_ National Pollutant Discharge Elimination System (NPDES) storm water
-discharge permit:  Means a permit issued by EPA (or by a State under authority
+discharge permit: Means a permit issued by EPA (or by a State under authority
 delegated pursuant to 33 USC § 1342(b)) that authorizes the discharge of
 pollutants to waters of the United States, whether the permit is applicable on
 an individual, group, or general areawide basis.
-10. _(j)_ Off-lot discharging household sewage treatment system:  Means a system
+10. _(j)_ Off-lot discharging household sewage treatment system: Means a system
 designed to treat household sewage on-site and discharges treated wastewater
 effluent off the property into a storm water or surface water conveyance or
 system.
@@ -134,7 +134,7 @@ individual or for the benefit of any particular parcel of property.
 
 ## 1359.05   Conflicts, severability, nuisances and responsibility
 
-1. _(a)_  Where this regulation is in conflict with other provisions of law or
+1. _(a)_ Where this regulation is in conflict with other provisions of law or
 ordinance, the most restrictive provisions, as determined by the Village of
 Chagrin Falls, shall prevail.
 2. _(b)_ If any clause, section, or provision of this regulation is declared
@@ -195,8 +195,8 @@ approved by the Ohio Environmental Protection Agency. When such permit coverage
 is available for systems existing prior to January 1, 2007, discharges from
 off-lot discharging household sewage treatment systems existing prior to
 January 1, 2007 will no longer be exempt from the requirements of this
-regulation. 
-2. _(b)_  Prohibition of Illegal Connections. The construction, use,
+regulation.
+2. _(b)_ Prohibition of Illegal Connections. The construction, use,
 maintenance, or continued existence of illegal connections to the MS4 is
 prohibited.
     1. _(1)_ This prohibition expressly includes, without limitation, illegal
@@ -221,8 +221,8 @@ weather flows found as the result of these inspections.
 2. _(b)_ Inspection of Residential, Commercial, Industrial, or Institutional
 Facilities.
     1. _(1)_ The Village of Chagrin Falls shall be permitted to enter and
-inspect facilities  subject to this regulation as often as may be necessary to
-determine compliance with this regulation. 
+inspect facilities subject to this regulation as often as may be necessary to
+determine compliance with this regulation.
     2. _(2)_ The Village of Chagrin Falls shall have the right to set up at
 facilities subject to this regulation such devices as are necessary to conduct
 monitoring and/or sampling of the facility’s storm water discharge, as
@@ -256,7 +256,7 @@ the facility owner/operator.
 
 ## 1359.09   Enforcement
 
-1. _(a)_  Notice of Violation. When the Village of Chagrin Falls finds that a
+1. _(a)_ Notice of Violation. When the Village of Chagrin Falls finds that a
 person has violated a prohibition or failed to meet a requirement of this
 regulation, the Village may order compliance by written Notice of Violation.
 Such notice must specify the violation and shall be hand delivered, and/or sent
@@ -269,21 +269,21 @@ desist;
     4. _(4)_ The abatement or remediation of storm water pollution or
 contamination hazards and the restoration of any affected property; or
     5. _(5)_ The implementation of source control or treatment BMPs.
-2. _(b)_  If abatement of a violation and/or restoration of affected property
+2. _(b)_ If abatement of a violation and/or restoration of affected property
 is required, the Notice of Violation shall set forth a deadline within which
 such remediation or restoration must be completed. Said Notice shall further
 advise that, should the facility owner/operator fail to remediate or restore
 within the established deadline, a legal action for enforcement may be
 initiated.
-3. _(c)_  Any person receiving a Notice of Violation must meet compliance
+3. _(c)_ Any person receiving a Notice of Violation must meet compliance
 standards within the time established in the Notice of Violation.
-4. _(d)_ Administrative Hearing:  If the violation has not been corrected
+4. _(d)_ Administrative Hearing: If the violation has not been corrected
 pursuant to the requirements set forth in the Notice of Violation, the Village
 of Chagrin Falls shall schedule an administrative hearing to determine reasons
 for non-compliance and to determine the next enforcement activity. Notice of
 the administrative hearing shall be hand delivered and/or sent registered mail
 and shall be conducted by the Board of Zoning Appeals.
-5. _(e)_  Injunctive Relief:  It shall be unlawful for any owner/operator to
+5. _(e)_ Injunctive Relief: It shall be unlawful for any owner/operator to
 violate any provision or fail to comply with any of the requirements of this
 regulation pursuant to Ohio R.C. 3709.211. If a owner/operator has violated or
 continues to violate the provisions of this regulation, the Village of Chagrin

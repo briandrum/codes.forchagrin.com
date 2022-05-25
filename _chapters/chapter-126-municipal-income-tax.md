@@ -94,7 +94,7 @@ DUTIES AND AUTHORITY OF THE ADMINISTRATOR
 126.2304.   Authority to arrange installment payments.
 126.2305.   Authority to determine amount of tax due.
 126.2306.   Authority to make investigations.
-126.2307.   Authority to compel  productions of records.
+126.2307.   Authority to compel productions of records.
 126.2308.   Refusal to produce records.
 126.2309.   Confidential nature of information obtained.
 126.2310.   Taxpayer required to retain records.
@@ -267,7 +267,7 @@ more of his regular employees regularly in attendance.
 
    “Qualifying wage” means wages as defined in Section 3121(a) of the Internal
 Revenue Code, without regard to any wage limitation, but including subsequent
-adjustments from required additions and deductions.  “Qualifying wage”
+adjustments from required additions and deductions. “Qualifying wage”
 represents employees’ income including non- qualified deferred compensation and
 stock options from which municipal tax shall be deducted by the employer, and
 any wages not considered a part of “qualifying wage” shall not be taxed by the
@@ -320,7 +320,7 @@ this chapter.
 ### 126.0322   Fundamental change
 
    "Fundamental change" means any substantial alteration by an employer
-including  liquidation, dissolution, bankruptcy and reorganizations such as
+including liquidation, dissolution, bankruptcy and reorganizations such as
 merger, consolidation, acquisition, transfer or change in identity, form or
 organization.  
 (Ord.1986-33. Passed 7-14-86.)
@@ -340,12 +340,12 @@ done or services performed or rendered within the Municipality.
 3. _(c)_
     1. _(1)_ On the portion attributable to the Municipality on the net
 profits earned on and after July 1, 1981, of all resident unincorporated
-business entities or  professions or other activities, derived from sales made,
-work done, services  performed or rendered and business or other activities
+business entities or professions or other activities, derived from sales made,
+work done, services performed or rendered and business or other activities
 conducted in the Municipality.
     2. _(2)_ On the portion of the distributive share of the net profits earned
-on and after  July 1, 1981, of a resident partner or owner of a resident
-unincorporated  business entity not attributable to the Municipality and not
+on and after July 1, 1981, of a resident partner or owner of a resident
+unincorporated business entity not attributable to the Municipality and not
 levied against such unincorporated business entity by the Municipality.
 4. _(d)_
     1. _(1)_ On the portion attributable to the Municipality of the net
@@ -355,7 +355,7 @@ work done, services performed or rendered, and business and other activities
 conducted in the Municipality, whether or not such unincorporated business
 entity has an office or place of business in the Municipality.
     2. _(2)_ On the portion of the distributive share of the net profits earned
-on and after  July 1, 1981, of a resident partner or owner of a nonresident
+on and after July 1, 1981, of a resident partner or owner of a nonresident
 unincorporated business entity not attributable to the Municipality and not
 levied against such unincorporated business entity by the Municipality.
 5. _(e)_ On the portion attributable to the Municipality of the net profits
@@ -378,7 +378,7 @@ production of an oil or gas well in a taxable year exceeds three thousand
 dollars ($3,000) it shall be prima-facie evidence that the income was derived
 from a business activity of such taxpayer and the net income from such royalty
 interest shall be subject to tax.
-    2. _(2)_ Employer’s income. The employer’s income derived from finance and 
+    2. _(2)_ Employer’s income. The employer’s income derived from finance and
 carrying charges associated with his customers’ accounts receivable.  
 (Ord. 1986-33. Passed 7-14-86; Ord. 2005-44. Passed 7-11-05. )
 7. _(g)_ Occasional Entrant Rule.
@@ -462,15 +462,15 @@ taxpayer, whether such headquarters is within or without the Municipality.
 As used in Section 126.0701(c) sales made in the Municipality means:
 
 1. _(a)_ All sales of tangible personal property which is delivered within the
-Municipality  regardless of where title passes if shipped or delivered from a
-stock of goods  within the Municipality.
+Municipality regardless of where title passes if shipped or delivered from a
+stock of goods within the Municipality.
 2. _(b)_ All sales of tangible personal property which is delivered within the
-Municipality  regardless of where title passes even though transported from a
+Municipality regardless of where title passes even though transported from a
 point outside the Municipality if the taxpayer is regularly engaged through its
 own employees in the solicitation or promotion of sales within the Municipality
 and the sales result from such solicitation or promotion.
 3. _(c)_ All sales of tangible personal property which is shipped from a place
-within the  Municipality to purchasers outside of the Municipality regardless
+within the Municipality to purchasers outside of the Municipality regardless
 of where title passes if the taxpayer is not, through its own employees,
 regularly engaged in the solicitation or promotion of sales at the place where
 delivery is made.  
@@ -569,7 +569,7 @@ the taxation of which is prohibited by the Constitution of the State of Ohio or
 any act of the Ohio General Assembly limiting the power of the Municipality to
 impose net income taxes.
 12. _(l)_ Parsonage allowance, to the extent of the rental allowance or rental
-value or a house provided as a part of an ordained minister’s compensation. 
+value or a house provided as a part of an ordained minister’s compensation.
 The ordained minister must be duly ordained, commissioned, or licensed by a
 religious body constituting a church or church denomination, and must have
 authority to perform all sacraments of the church.  
@@ -625,7 +625,7 @@ way.
 ### 126.1104   Consolidated returns
 
 1. _(a)_ Filing of consolidated returns may be permitted or required in
-accordance with rules and regulations prescribed by the Administrator. 
+accordance with rules and regulations prescribed by the Administrator.
 Notwithstanding, any affiliated group which files a consolidated return for
 federal income tax purposes pursuant to Section 1501 of the Internal Revenue
 Code may file a consolidated return with the Municipality. However, once the
@@ -653,7 +653,7 @@ the Municipality.
 
 1. _(a)_ Where necessary, an amended return must be filed in order to report
 additional income and pay any additional tax due, or claim a refund of tax
-overpaid, subject to the  requirements, limitations, or both, contained in
+overpaid, subject to the requirements, limitations, or both, contained in
 Sections
 126.1701,
 126.1702 and
@@ -687,12 +687,12 @@ balance, if any, shall be due and payable at the time of filing such return.
 2. _(b)_ A taxpayer who has overpaid the amount of tax to which the
 Municipality is entitled under the provisions of this chapter may have such
 overpayment applied against any subsequent liability hereunder, or, at his
-election, indicated on the return, such overpayment  (or part thereof) shall be
+election, indicated on the return, such overpayment (or part thereof) shall be
 refunded, provided that no additional taxes or refunds of less than one dollar
 ($1.00) shall be collected or refunded.  
 (Ord.1971-850. Passed 12-7-71.)
 3. _(c)_ If any employer which is liable for tax obligations imposed by this
-chapter  undergoes a fundamental change, then the employer and its manager
+chapter undergoes a fundamental change, then the employer and its manager
 shall be liable for taxes due up to the date of the fundamental change. Taxes
 and final tax returns shall be due immediately after the fundamental change.
 Any successor employer shall withhold from any purchase price that the
@@ -711,7 +711,7 @@ for the payment of such taxes, interest and penalty.
 
 1. _(a)_ In accordance with rules and regulations prescribed by the
 Administrator, each employer within or doing business within the Municipality
-shall deduct, at the time of the  payment of such salary, qualifying wages,
+shall deduct, at the time of the payment of such salary, qualifying wages,
 commissions or other compensation, the tax of one percent (unless a different
 tax rate is imposed in Section 126.0501) per annum of the gross salaries, qualifying wages, commissions or
 other compensation due by such employer to such employee, and shall, on or
@@ -731,7 +731,7 @@ fact, been withheld.
 until payment is made by such employer to the Municipality as a trustee for the
 benefit of the Municipality, and any such tax collected by such employer from
 his employees shall, until the same is paid to the Municipality, be deemed a
-trust fund in the hands of such employer. 
+trust fund in the hands of such employer.
 4. _(d)_ No person shall be required to withhold the tax on wages or other
 compensation paid domestic servants employed by him exclusively in or about
 such person’s residence, even though such residence is in the Municipality, but
@@ -739,14 +739,14 @@ such employee shall be subject to all of the requirements of this chapter.
 (Ord.1971-850. Passed 12-7-71.)
 5. _(e)_ Manager’s Obligation.
     1. _(1)_ Every manager is deemed to be a trustee of the Municipality in
-collecting  and holding the tax required under this chapter to be withheld and
-the  funds so collected by such withholding are deemed to be trust funds. Every manager is liable directly to the Municipality for payment of
+collecting and holding the tax required under this chapter to be withheld and
+the funds so collected by such withholding are deemed to be trust funds. Every manager is liable directly to the Municipality for payment of
 such trust, whether actually collected by such employer or not. Any tax
 deducted and withheld is to be considered paid to the Municipality, whether or
 not the employer actually remits the tax to the Municipality, for purposes of
 determining employee payments or credits.
     2. _(2)_ All managers shall be personally liable to the extent of the tax,
-interest  and penalty, jointly and severally, for failure to file the
+interest and penalty, jointly and severally, for failure to file the
 employer’s return or to pay the employer’s tax, interest and penalty as
 required under this chapter.
     3. _(3)_ No change in structure by an employer, including a fundamental
@@ -781,7 +781,7 @@ period.
 ### 126.1305   Form of declaration
 
 1. _(a)_ The declaration required by Section 126.1303 hereof shall be filed upon a form furnished by or obtainable from the
-Administrator. As provided in Section 126.1303 hereof,  credit shall be taken for the Village of Chagrin Falls tax to
+Administrator. As provided in Section 126.1303 hereof, credit shall be taken for the Village of Chagrin Falls tax to
 be withheld from any portion of such income and credit shall be taken for tax
 to be paid or withheld and remitted to another taxing municipality, in
 accordance with the provisions of Section 126.1902 hereof.
@@ -839,14 +839,14 @@ interest at the rate of eight percent per annum.
 
 ### 126.1502   Penalties on unpaid tax
 
-In addition to interest as provided in Section 126.1501, penalties based on the  unpaid tax or installments of estimated tax
+In addition to interest as provided in Section 126.1501, penalties based on the unpaid tax or installments of estimated tax
 are hereby imposed as follows:
 
 1. _(a)_ For failure to pay taxes or estimated taxes due, other than taxes
 withheld: ten percent per year, but not less than twenty-five dollars ($25.00).
 2. _(b)_ For failure to remit taxes withheld from employees: ten percent per
 month or fraction thereof, but accumulated penalty shall not exceed fifty
-percent (50%) upon any  unpaid amount and shall not be less than twenty-five
+percent (50%) upon any unpaid amount and shall not be less than twenty-five
 dollars ($25.00).
 3. _(c)_ Notwithstanding the above, no penalties shall be assessed on estimated
 payments if the taxpayer has remitted an amount equal to one hundred percent
@@ -880,7 +880,7 @@ Any person who:
 by this chapter; or
 2. _(b)_ Makes any incomplete, false or fraudulent return; or
 3. _(c)_ Intentionally or willfully fails, neglects or refuses to pay the tax,
-penalties or  interest imposed by this chapter; or
+penalties or interest imposed by this chapter; or
 4. _(d)_ Fails, neglects or refuses to withhold the tax from his employees or
 remit such withholding to the Administrator; or
 5. _(e)_ Refuses to permit the Administrator, or any duly authorized agent or
@@ -897,7 +897,7 @@ subpoena of the Administrator authorized hereby; or
 social security number and residence address or fails to promptly notify an
 employer of any change in residence address and date thereof; or
 (j)    Fails to use ordinary diligence in maintaining proper records of
-employees  residence addresses, total wages paid and Municipal tax withheld, or
+employees residence addresses, total wages paid and Municipal tax withheld, or
 to knowingly give the Administrator false information; or
 11. _(k)_ Attempts to do anything whatever to avoid the payment of the whole or
 any part of the tax, penalties or interest imposed by this chapter;
@@ -1108,8 +1108,8 @@ dollars ($1,000); or imprisoned for not more than six months, or both. Each
 disclosure shall constitute a separate offense.
 
 In addition to the above penalty, any employee of the Municipality who
-violates the  provisions of this section relative to the disclosures of
-confidential information shall be  guilty of an offense punishable by immediate
+violates the provisions of this section relative to the disclosures of
+confidential information shall be guilty of an offense punishable by immediate
 dismissal.  
 (Ord.1968-730. Passed 6-18-68.)
 
@@ -1154,7 +1154,7 @@ who has filed the required returns or other documents pertaining to the
 contested issue, may appeal therefrom in writing to the Board of Review within
 thirty calendar days from the issuance of such ruling or decision by the
 Administrator. The appeal must state the alleged errors in the
-Administrator’s  ruling or decision. The Board must schedule a hearing within
+Administrator’s ruling or decision. The Board must schedule a hearing within
 forty-five calendar days of receiving the appeal unless the taxpayer expressly
 waives the hearing and chooses instead to permit the Board to render its
 decision on writings submitted by the taxpayer and the Administrator. If the

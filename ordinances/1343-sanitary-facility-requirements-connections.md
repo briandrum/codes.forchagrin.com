@@ -18,7 +18,7 @@ title: "Chapter 1343: Sanitary Facility Requirements; Connections"
 ## 1343.01   Properly connected toilets required
 
 No person shall use as a residence or dwelling any building within the
-Municipality unless  such building is equipped with one or more toilets
+Municipality unless such building is equipped with one or more toilets
 connected to the sanitary sewer system or to such other outlet as is not in
 violation of this Building Code or other ordinances and regulations of the
 Municipality; nor shall any person use any commercial, industrial or other

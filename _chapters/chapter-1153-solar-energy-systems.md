@@ -19,7 +19,8 @@ title: "Chapter 1153: Solar Energy Systems"
 
 ## 1153.01   Intent
 
-     In addition to the applicable provisions of the intent stated in Section 1105.03, it is the intent of these regulations to provide for the placement of
+In addition to the applicable provisions of the intent stated in Section
+1105.03, it is the intent of these regulations to provide for the placement of
 solar energy systems to achieve the following objectives:
 
 1. _(a)_ To regulate the construction, modification, operation and abandonment
@@ -28,7 +29,7 @@ of solar energy systems;
 protect the public health, safety, and welfare while preserving the enjoyment
 of private property;
 3. _(c)_ To minimize the adverse impacts of solar energy systems on contiguous
-properties and on the aesthetic quality of the Municipality; and, 
+properties and on the aesthetic quality of the Municipality; and,
 4. _(d)_ To promote orderly land use, and development while allowing the safe,
 effective, and efficient use of solar energy systems.  
 (Ord. 2019-39. Passed 8-13-19.)
@@ -39,7 +40,7 @@ effective, and efficient use of solar energy systems.
 generation system in whole or part.
 2. _(b)_ "Solar array" means any collection of solar panels, connectors,
 battery banks, controllers, wiring, meters, and switching devices intended to
-work in combination to convert solar energy to electrical power.   
+work in combination to convert solar energy to electrical power.  
 3. _(c)_ "Solar cell" means the basic photovoltaic device that generates
 electricity when exposed to light.
 4. _(d)_ "Solar energy system" means the photovoltaic cells and related
@@ -54,7 +55,7 @@ converting it to electrical power.
 ## 1153.03   Applicability
 
 1. _(a)_ Solar energy systems shall be designed, erected, installed, operated,
-and maintained in accordance with the provisions set forth in this Chapter. 
+and maintained in accordance with the provisions set forth in this Chapter.
 2. _(b)_ A Building Permit and Electrical Permit shall be required prior to the
 erection, installation, connection, or operation of any solar energy system.
 3. _(c)_ Like-kind replacements, minor repairs or maintenance of lawfully
@@ -211,12 +212,12 @@ Building) to "B" Use District (Retail Business).
 near Orange and Cottage Sts. from "O" Use District (Office Building) to "B" Use
 District (Retail Business).
 1973-907    7-10-73    Parcel of land near E. Washington St. from L. I. Use
-District and R-1-60 Use District (Single Family) to R-1-100 Use District 
+District and R-1-60 Use District (Single Family) to R-1-100 Use District
 (Single Family).
 1974-940    10-15-74    Part of Solon Twp. Lot 8 near Hillside Ave. and Miles
-Rd. from  R-1-60 Use District to R-1-100 Use District.
+Rd. from R-1-60 Use District to R-1-100 Use District.
 1975-961    2-18-75    Part of Orange Twp. Lots 14 and 21 near Miles Rd.,
-along  Corporate limit between Chagrin Falls and Moreland Hills from R-1-60 Use
+along Corporate limit between Chagrin Falls and Moreland Hills from R-1-60 Use
 District to R-1-100 Use District.
 1975-963    5-20-75    Part of Russell Twp. Lot 17 near E. Washington St. from
 Limited Industry Use Classification (LI) to R-1-100 Use District.
@@ -261,13 +262,13 @@ limited industrial uses.
 District.
 1996-50   8-12-96   Permanent Parcel 931-1-7 from Parks and Institutional to
 Conservation District.
-1998-63   11-3-98   Permanent Parcel 932-19-9 (178 E. Washington St.)  from
+1998-63   11-3-98   Permanent Parcel 932-19-9 (178 E. Washington St.) from
 Office District to Residential R1-60 District.
 1999-23   4-26-99   Permanent Parcels 931-6-2, 931-6-13 and 931-6-15, from Park
 and Institutional to both Park/Institutional and Cluster Development.
 2000-6   3-27-00   Includes new boundaries of expanded Central Shopping
 District as recommended by Planning and Zoning Commission; amends Zoning
-Map.   
+Map.  
 Ord. No.   Date   Description
 2000-66   11-13-00   Permanent Parcels 931-22-007 and 931-23-007, from R1-100
 to Conservation District.
@@ -283,12 +284,12 @@ Shopping to Retail Business District.
 2005-56   10-24-05   Permanent Parcels 932-17-028 to 932-17-030 and 932-17-010
 from Central Shopping to Retail Business District.
 2019-39   8-13-19   Permanent Parcels 931-06-002, 012, 015, 025, 027 through
-059 and 061 from the Park and Institutional District to the R1-C District. 
+059 and 061 from the Park and Institutional District to the R1-C District.
 Permanent Parcel 931-10-005 from the R1-100 District to the Institutional
 District. Permanent Parcel 931-13-024 from the R1-60 District to the
 Institutional District. Permanent Parcel 931-13-037 through 041 from the Park
 and Institutional District to the Park District. Permanent Parcel 931-13-049,
-058 through 063 from the Park and Institutional District to the Park District. 
+058 through 063 from the Park and Institutional District to the Park District.
 Permanent Parcel 931-13-999 to the Park District. Permanent Parcel 931-14-012
 through 015 from the Park and Institutional District to the Institutional
 District. Permanent Parcel 931-14-020 from the Park and Institutional District
@@ -309,29 +310,29 @@ RMU and Parking Districts to the Limited Industrial District with the RMU
 District overlay. Permanent Parcel 931-17-003 from the Parking District to the
 RMU District. Permanent Parcel 931-17-004 from the R1-100 District to the
 Conservation District. Permanent Parcel 932-01-014, 932-02-001 through 004
-from the R1-100 and Park and Institutional District to the R1-100 District. 
+from the R1-100 and Park and Institutional District to the R1-100 District.
 Permanent Parcel 932-02-006 through 012 from the R1-60 District and Park and
 Institutional District to the R1-60 District. Permanent Parcel 932-02-025 from
-the R1-100 and Park and Institutional District to the R1-100 District. 
+the R1-100 and Park and Institutional District to the R1-100 District.
 Permanent Parcel 932-02-031 from the R1-50 District and Park and Institutional
 District to the R1-50 District. Permanent Parcel 932-02-032 from the Park and
 Institutional District and the R1-100 District to the Park District. Permanent
 Parcel 932-03-005, 006, 008 and 009 from the Park and Institutional District to
 the Institutional District. Permanent Parcel 932-06-016 from the Park and
 Institutional District to the Central Shopping District. Permanent Parcel 932-
-06-018 from the Park and Institutional District to the Institutional District. 
+06-018 from the Park and Institutional District to the Institutional District.
 Permanent Parcels 932-06-037 and 038 from the Central Shopping District to the
 Institutional District. Permanent Parcel 932-06-039 from the Office and Park
 and Institutional District to the Office District. Permanent Parcel 932-06-040
 from the Park and Institutional District to the Institutional District to the
-extent parking currently exists and the balance to the Park District. 
+extent parking currently exists and the balance to the Park District.
 Permanent Parcel 932-06-041 through 043 from the R1-60 and Park and
 Institutional District to the R1-60 District. Permanent Parcels 932-06-046
 through 048 from the Retail Business District and Park and Institutional
 District to the Retail Business District. Permanent Parcel 932-06-049 from the
 Central Shopping District and Park and Institutional District to the Central
 Shopping District. Permanent Parcels 932-07-009 through 011, 932-07-014A and B
-from the Park and Institutional District to the Institutional District. 
+from the Park and Institutional District to the Institutional District.
 Permanent Parcel 932-07-023 from the Park and Institutional District to the
 Park District. Permanent Parcels 932-08-013 and 932-10-028 from the Park and
 Institutional District to the Institutional District. Permanent Parcel 932-17-
@@ -342,10 +343,10 @@ Parcel 932-25-004 from the Park and Institutional District to the Institutional
 District. Permanent Parcel 932-25-008 from the Park and Institutional District
 to the Park District. Permanent Parcel 932-26-001 from the Park and
 Institutional District to the Park District to the extent that it is currently
-operated as a ball field and the balance into the Institutional District. 
+operated as a ball field and the balance into the Institutional District.
 Permanent Parcel 932-26-004 from the R1-100 District to the Institutional
 District. Permanent Parcels 932-27-001 through 003 from the Park and
-Institutional District to the Institutional District. 
+Institutional District to the Institutional District.
 2021-19   5-24-21   1.   Permanent Parcel No. 932-02-032 from the Park District
 to the Conservation District.
       2.   Permanent Parcel No. 931-12-047 from the R1-60 District to the

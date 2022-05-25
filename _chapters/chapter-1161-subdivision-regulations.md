@@ -54,7 +54,7 @@ subdivision of land.
 1. _(a)_ Jurisdiction. The rules and regulations governing subdivision of land
 contained in these Regulations shall apply within the corporate limits of the
 Municipality. The Planning and Zoning Commission shall have the power of
-approval of the improvement plans, the preliminary plan and final plat. 
+approval of the improvement plans, the preliminary plan and final plat.
 Council shall have the power of acceptance of dedication of any street, open
 space, required improvements, utilities in the right of way or other public
 ways on the plat.
@@ -178,7 +178,7 @@ the general public or a public entity have a right, or which are dedicated,
 whether improved or not.
 35. _(35)_ "Right of way" means a strip of land taken or dedicated for use as a
 public way. In addition to the roadway, it normally incorporates the curbs,
-lawn strips, sidewalks, lighting and  drainage  facilities, and may include
+lawn strips, sidewalks, lighting and drainage facilities, and may include
 special features (required by the topography or treatment) such as grade
 separation, landscaped areas, viaducts and bridges.
 36. _(36)_ "Setback line" means a line established by the Subdivision
@@ -206,7 +206,7 @@ involving the division or allocation of land for the opening, widening or
 extension of any street or streets except private streets serving industrial
 structures, the division or allocation of land as open spaces for common use by
 owners, occupants or lease holders, or as easements for the extension and
-maintenance of public sewer, water, storm drainage or other public facilities. 
+maintenance of public sewer, water, storm drainage or other public facilities.
 See "Minor subdivision".
 42. _(42)_ "Sublots" means the parcels of land which result from the subdivision
 process on a plat intended for future private use. Sublots on recorded plats
@@ -237,11 +237,11 @@ or that land whose drainage is affected by the subdivision.
 ## 1161.04   Proposal
 
 1. _(a)_ Preapplication.
-    1. _(1)_ Recommended procedure:  The preliminary discussion allows the
+    1. _(1)_ Recommended procedure: The preliminary discussion allows the
 subdivider to meet with the Village Administrator to discuss the proposed
 subdivision in relation to these regulations as well as existing conditions and
 future planning.
-    2. _(2)_ Recommended procedure:  The preapplication sketch allows the
+    2. _(2)_ Recommended procedure: The preapplication sketch allows the
 subdivider to present all information needed to determine that the proposed
 subdivision satisfies all the requirements hereof and will serve the public
 interest. Included in the legible, drawn-to-scale (of one inch = forty feet)
@@ -261,7 +261,7 @@ facilities for the disposal of sewage and storm water.
         5. _(E)_ Name, address and phone number of owners and developer.
 2. _(b)_ Preliminary Plat. After the preapplication stage, the subdivider
 shall submit a preliminary plat of the proposed subdivision which shall conform
-with the requirements set forth in subsections (d) to (k) hereof, inclusive. 
+with the requirements set forth in subsections (d) to (k) hereof, inclusive.
 The preliminary plat shall be prepared and stamped by a registered professional
 engineer or registered surveyor of the State.
 3. _(c)_ Application for Tentative Approval. An application in writing for the
@@ -274,7 +274,7 @@ four by thirty-six inches in size.
 5. _(e)_ Preliminary Plat Contents. The preliminary plat shall contain the
 following information:
     1. _(1)_ Proposed name of the subdivision, which shall not duplicate or
-closely approximate the name of any other subdivision  in the Municipality.
+closely approximate the name of any other subdivision in the Municipality.
     2. _(2)_ Location by section, range and township, permanent parcel number or
 other surveys.
     3. _(3)_ Names, addresses and phone numbers of the owner, subdivider and the
@@ -344,7 +344,7 @@ Administrator shall be required indicating the change has been approved and is
 in effect.
     8. _(8)_ Certification of compliance with environmental performance
 regulations as required in Section 1144.03.
-    9. _(9)_ For all uses proposed or to be retained:  building and structure
+    9. _(9)_ For all uses proposed or to be retained: building and structure
 heights, number of parking spaces, number of dwelling units, total building
 coverage and floor area by type and use.  
 (Ord. 1988-25. Approved by voters 11-8-88.)
@@ -382,7 +382,7 @@ disapproval shall be stated in writing. The Planning and Zoning Commission
 shall consider the preliminary plat at the next regularly scheduled meeting
 which occurs seven days or more after official acceptance of the application by
 the Administrator. The Commission shall make its final determination no later
-than thirty-five days after the date of its required initial consideration. 
+than thirty-five days after the date of its required initial consideration.
 When a preliminary plat has been approved by the Planning and Zoning
 Commission, the chairman shall sign all copies and return one to the subdivider
 for compliance with final approval requirements. Approval of the preliminary
@@ -397,7 +397,7 @@ preliminary plat of the proposed subdivision, shall submit a final plat of the
 subdivision and drawings and specifications of the improvements required
 therein. The final plat shall have incorporated all changes in the preliminary
 plat required by the Planning and Zoning Commission. Otherwise, it shall
-conform to the preliminary plat  and it may constitute only that portion of the
+conform to the preliminary plat and it may constitute only that portion of the
 approved preliminary plat which the subdivider proposes to record and develop
 at the time. The final plat and the supplementary information shall be
 prepared by a qualified registered engineer or surveyor.
@@ -472,7 +472,7 @@ the next regularly scheduled meeting which occurs seven days or more after
 official acceptance of the application by the Administrator. The Commission
 shall make its final determination no later than thirty-five days after the
 date of its required initial consideration. Failure of the Commission to act
-upon the final plat within such time shall be deemed as approval of the plat. 
+upon the final plat within such time shall be deemed as approval of the plat.
 If the plat is disapproved, the grounds for disapproval shall be stated in the
 records of the Commission and a copy of such record shall be forwarded to the
 subdivider. The Commission shall not disapprove the final plat if the
@@ -565,7 +565,7 @@ underground utilities can be located outside of pavement areas.
     other physical conditions, or unless, in the opinion of the Planning and
     Zoning Commission, such extension is not necessary nor desirable for the
     coordination of the layout of the subdivision with the development of
-    adjacent tracts.  Dead-end streets or cul-de-sacs shall be approved only
+    adjacent tracts. Dead-end streets or cul-de-sacs shall be approved only
     when necessitated by topography or other physical conditions or where they
     are appropriate for the type of development contemplated.
 
@@ -844,7 +844,7 @@ latest edition.
     of pedestrian access, and any other factors deemed relevant by the Planning
     and Zoning Commission. Any person aggrieved by the decision or action of the
     Planning and Zoning Commission may appeal to the Board of Zoning Appeals
-    within 10 days of such official action.  Such an appeal shall be made in
+    within 10 days of such official action. Such an appeal shall be made in
     conformity with Chapter 1111. Written notice of the appeal shall be served
     on the Village.
 
@@ -974,12 +974,12 @@ improvements not covered in the document referred to above.
     required, shall be sized so as to insure that storm water runoff from the
     tract in a fully developed state does not exceed that from the tract in a
     predevelopment or undeveloped state for a storm of two-hour duration and
-    ten-year frequency.  Calculations of runoff from the tract shall be based
+    ten-year frequency. Calculations of runoff from the tract shall be based
     upon use of the Rational Method or other method approved by the Village
     Engineer. Coefficients used in the calculation of storm water runoff shall
     be as specified in Uniform Rules, Regulations and Standards for the Design
     and Construction of Sewerage Improvements. All calculations of pre- and
-    post-development storm water runoff as well as the design of the proposed 
+    post-development storm water runoff as well as the design of the proposed
     storm water retention basin shall be subject to the approval of the Village
     Engineer.
 
@@ -1017,7 +1017,7 @@ least forty-eight hours before any construction requiring inspection is to take
 place. All inspection costs shall be borne by the subdivider. The developer
 shall post a cash bond equal to two percent (2%) of the construction cost for
 the cost of inspection. If the inspection costs are more than the cash bond,
-then the developer is required to make up the difference.  If there are moneys
+then the developer is required to make up the difference. If there are moneys
 remaining at the end of the improvement construction, they shall be returned to
 the subdivider.
 
@@ -1028,7 +1028,7 @@ and related structural tests with respect to paving improvements. Such
 inspections shall include an internal pipe inspection of sanitary and storm
 sewers, two photography, television and hydrostatic tests, the first immediately
 following installation and the second internal pipe inspection at the discretion
-of the Village Engineer. With respect to  sewer improvements, these inspections
+of the Village Engineer. With respect to sewer improvements, these inspections
 shall be completed at the developer’s expense.  
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
@@ -1168,7 +1168,7 @@ for its final approval.
         3. _(C)_ If approved, the Commission shall refer the final plat to Council
 for acceptance of dedication of any street, utilities in the right of way or
 open place.
-5. _(e)_ Recording of Plat:  After approval by the Commission and Council,
+5. _(e)_ Recording of Plat: After approval by the Commission and Council,
 signed, stamped and dated and all necessary certifications received, the
 original tracing shall be returned to the subdivider for filing with the County
 Recorder’s office. The original tracing is then permanently filed with the

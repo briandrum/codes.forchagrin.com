@@ -11,14 +11,14 @@ title: "Chapter 549: Weapons and Explosives"
 * [549.03   Using weapons while intoxicated](#54903-using-weapons-while-intoxicated)
 * [549.04   Improperly handling firearms in a motor vehicle](#54904-improperly-handling-firearms-in-a-motor-vehicle)
 * [549.05   Failure to secure dangerous ordnance](#54905-failure-to-secure-dangerous-ordnance)
-549.06   Unlawful transactions in weapons.   
+549.06   Unlawful transactions in weapons.  
 * [549.07   Underage purchase of firearm](#54907-underage-purchase-of-firearm)
 * [549.08   Discharging firearms](#54908-discharging-firearms)
 * [549.09   Throwing or shooting missiles](#54909-throwing-or-shooting-missiles)
 * [549.10   Reporting sale of firearms](#54910-reporting-sale-of-firearms) (Repealed)
 * [549.11   Blasting permit](#54911-blasting-permit)
 * [549.12   Possessing replica firearmin school](#54912-possessing-replica-firearmin-school)
-* [549.13   Defacing identification marks of a firearm; possessing a  defaced firearm](#54913-defacing-identification-marks-of-a-firearm-possessing-a-defaced-firearm)
+* [549.13   Defacing identification marks of a firearm; possessing a defaced firearm](#54913-defacing-identification-marks-of-a-firearm-possessing-a-defaced-firearm)
 * [549.99   Penalty](#54999-penalty)
 
 ## Cross references
@@ -39,7 +39,7 @@ possessed, carried or used as a weapon.
 2. _(b)_
     1. "Firearm" means any deadly weapon capable of expelling or
 propelling one or more projectiles by the action of an explosive or combustible
-propellant.  "Firearm" includes an unloaded firearm, and any firearm that is
+propellant. "Firearm" includes an unloaded firearm, and any firearm that is
 inoperable but that can readily be rendered operable.
     2. _(2)_ When determining whether a firearm is capable of expelling or
 propelling one or more projectiles by the action of an explosive or combustible
@@ -58,7 +58,7 @@ cartridge ready to fire, with a single function of the trigger.
 fire a succession of cartridges with a single function of the trigger.
 6. _(f)_ "Sawed-off firearm" means a shotgun with a barrel less than eighteen
 inches long, or a rifle with a barrel less than sixteen inches long, or a
-shotgun or rifle less than twenty-six inches long overall.  “Sawed-off firearm”
+shotgun or rifle less than twenty-six inches long overall. “Sawed-off firearm”
 does not include any firearm with an overall length of at least twenty-six
 inches that is approved for sale by the Federal Bureau of Alcohol, Tobacco,
 Firearms and Explosives under the “Gun Control Act of 1968", 82 Stat. 1213, 18
@@ -74,7 +74,7 @@ not designed as a firearm, but that as designed is capable of use as such, when
 possessed, carried or used as a firearm.
 8. _(h)_ "Explosive device" means any device designed or specially adapted to
 cause physical harm to persons or property by means of an explosion, and
-consisting of an explosive substance or agency and a means to detonate it. 
+consisting of an explosive substance or agency and a means to detonate it.
 "Explosive device" includes without limitation any bomb, any explosive
 demolition device, any blasting cap or detonator containing an explosive
 charge, and any pressure vessel that has been knowingly tampered with or
@@ -135,20 +135,20 @@ and Explosives under the “Gun Control Act of 1968", 82 Stat. 1213, 18 U.S.C.
 921(a)(3), but that is found by the Bureau not to be regulated under the
 “National Firearms Act”, 68A Stat. 725 (1934), 26 U.S.C. 5845(a).
 13. _(m)_ “Explosive” means any chemical compound, mixture, or device, the
-primary or common purpose of which is to function by explosion.  “Explosive”
+primary or common purpose of which is to function by explosion. “Explosive”
 includes all materials that have been classified as division 1.1, division 1.2,
 division 1.3, or division 1.4 explosives by the United States Department of
 Transportation in its regulations and includes, but is not limited to,
 dynamite, black powder, pellet powders, initiating explosives, blasting caps,
 electric blasting caps, safety fuses, fuse igniters, squibs, cordeau detonant
-fuses, instantaneous fuses, and igniter cords and igniters.  “Explosive” does
+fuses, instantaneous fuses, and igniter cords and igniters. “Explosive” does
 not include “fireworks”, as defined in Ohio R.C. 3743.01, or any substance or
 material otherwise meeting the definition of explosive set forth in this
 section that is manufactured, sold, possessed, transported, stored or used in
 any activity described in Ohio R.C. 3743.80, provided the activity is conducted
 in accordance with all applicable laws, rules and regulations, including, but
 not limited to, the provisions of Ohio R.C. 3743.80, and the rules of the Fire
-Marshal adopted pursuant to Ohio R.C. 3737.82. 
+Marshal adopted pursuant to Ohio R.C. 3737.82.
 14. _(n)_
     1. _(1)_ “Concealed handgun license” or “license to carry a concealed
 handgun” means, subject to subsection (n)(2) of this section, a license or
@@ -285,7 +285,7 @@ this section, if the weapon involved is a firearm and the violation of this
 section is committed at premises for which a D permit has been issued under
 Chapter 4303, of the Revised Code or if the offense is committed aboard an
 aircraft, or with purpose to carry a concealed weapon aboard an aircraft,
-regardless of the weapon involved, carrying concealed weapons in  violation of
+regardless of the weapon involved, carrying concealed weapons in violation of
 subsection (a) of this section is a felony and shall be prosecuted under
 appropriate State law.
     2. _(2)_ If a person being arrested for a violation of subsection (a)(2) of
@@ -350,8 +350,8 @@ or arrest the person for any offense, the person is not otherwise prohibited by
 law from possessing the firearm, and the firearm is not contraband, the officer
 shall return the firearm to the person at the termination of the stop. If a
 court orders a law enforcement officer to return a firearm to a person pursuant
-to the  requirement set forth in this subsection, division (B) of Ohio R.C.
-2923.163 applies. 
+to the requirement set forth in this subsection, division (B) of Ohio R.C.
+2923.163 applies.
 8. _(h)_ For purposes of this section, “deadly weapon” or “weapon” does not
 include any knife, razor, or cutting instrument if the instrument was not used
 as a weapon.  
@@ -461,7 +461,7 @@ shall be required to obtain a concealed handgun license as a condition for the
 dismissal of the charge.
     2. _(2)_ If a person is convicted of, was convicted of, pleads guilty to, or
 has pleaded guilty to a violation of subsection (b) of this section as it
-existed prior to  September 30, 2011, and if the conduct that was the basis of
+existed prior to September 30, 2011, and if the conduct that was the basis of
 the violation no longer would be a violation of subsection (b) of this section
 on or after September 30, 2011, the person may file an application under Ohio
 R.C. 2953.37 requesting the expungement of the record of conviction.  
@@ -534,7 +534,7 @@ compartment that does not contain the magazine or speed loader;
                 2. _(b)_ A pocket or other enclosure on the person of the person in
 question that closes using a snap, button, buckle, zipper, hook and loop
 closing mechanism, or other fastener that must be opened to access the
-contents.      
+contents.     
             3. _(3)_ For the purposes of subsection (h)(2)A. of this section,
 ammunition held in stripper-clips or in en-bloc clips is not considered
 ammunition that is loaded into a magazine or speed loader.
@@ -545,7 +545,7 @@ is uncapped or when the priming charge is removed from the pan.
 4506.25(A).
     4. _(4)_ “Motor carrier enforcement unit” means the motor carrier
 enforcement unit in the Department of Public Safety, Division of State Highway
-Patrol, that is created by Ohio R.C. 5503.34. 
+Patrol, that is created by Ohio R.C. 5503.34.
 9. _(i)_ Subsection (h)(2) of this section does not affect the authority of a
 person who is carrying a valid concealed handgun license to have one or more
 magazines or speed loaders containing ammunition anywhere in a vehicle, without
@@ -615,7 +615,7 @@ guilty of underage purchase of a handgun, a misdemeanor of the second degree.
 ## 549.08   Discharging firearms
 
 1. _(a)_ No person shall discharge any air gun, rifle, shotgun, revolver,
-pistol or other firearm within the corporate limits of the Municipality. 
+pistol or other firearm within the corporate limits of the Municipality.
 2. _(b)_ This section does not apply when firearms are used in self defense, in
 the discharge of official duty or when otherwise lawfully authorized.
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the third

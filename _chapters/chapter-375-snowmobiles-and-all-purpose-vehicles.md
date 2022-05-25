@@ -46,17 +46,17 @@ the public, as a matter of right, for purposes of vehicular traffic.
 ## 375.02   Operation
 
 1. _(a)_ No person shall operate a snowmobile and any all purpose vehicle:
-    1. _(1)_  Upon any property owned or leased by the Municipality. 
+    1. _(1)_ Upon any property owned or leased by the Municipality.
     2. _(2)_ Upon or within ten feet of any public thoroughfare within the
-Municipality, except a mini-bike properly safety equipped. 
-    3. _(3)_  On private property within the Municipality without consent of the owner
+Municipality, except a mini-bike properly safety equipped.
+    3. _(3)_ On private property within the Municipality without consent of the owner
 or lessee thereof. Any person operating a snowmobile or all purpose vehicle
 upon lands of another shall stop and identify himself upon the request of the
 land owner or his duly authorized representative, and if requested to do so by
 such land owner, shall promptly remove such snowmobile and any all purpose
-vehicle from the premises. 
-    4. _(4)_  Between the hours of ten p. m. and seven a. m.  
-(Ord. 1972-860. Passed 3-21-72.) 
+vehicle from the premises.
+    4. _(4)_ Between the hours of ten p. m. and seven a. m.  
+(Ord. 1972-860. Passed 3-21-72.)
 2. _(b)_ Whoever violates this section shall be fined not less than fifty
 dollars ($50.00) nor more than five hundred dollars ($500.00), imprisoned not
 less than three nor more than thirty days, or both.  

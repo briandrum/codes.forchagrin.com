@@ -38,13 +38,13 @@ in this Code.
 
 ## 1145.02   Nonconforming buildings and structures
 
-     A building or other structure existing lawfully at the time this Planning
-and Zoning Code became effective, but which does not currently conform as to
-area or width of lot, setback, yard dimensions, lot coverage, height of
-building or other structure, use intended or other regulations of the district
-in which it is located, is a lawful nonconforming building. or other structure.
-Such building or other structure may continue to be occupied or used so long as
-it remains otherwise lawful, subject to the following provisions:
+A building or other structure existing lawfully at the time this Planning and
+Zoning Code became effective, but which does not currently conform as to area or
+width of lot, setback, yard dimensions, lot coverage, height of building or
+other structure, use intended or other regulations of the district in which it
+is located, is a lawful nonconforming building. or other structure. Such
+building or other structure may continue to be occupied or used so long as it
+remains otherwise lawful, subject to the following provisions:
 
 1. _(a)_ Maintenance and Repair. A nonconforming building or other structure
 may continue to be used, maintained and repaired, provided however no
@@ -58,7 +58,7 @@ other structure are made to conform to the yard, coverage and height
 regulations of the district in which it is located, except a nonconforming
 dwelling may be altered, modernized or enlarged provided the alterations and
 enlargements conform to all the yard regulations and setbacks , and the
-existing dwelling  and the proposed enlargement combined shall meet the maximum
+existing dwelling and the proposed enlargement combined shall meet the maximum
 lot coverage regulations of the district in which it is located.
 3. _(c)_ Moving. A nonconforming building shall not be moved in whole or in
 part to any other location on the lot or other premises, unless every portion
@@ -81,7 +81,7 @@ third to be selected by the mutual consent of the two parties, in the event the
 Municipality and the owner do not agree on the value.  
 (Ord. 2019-39. Passed 8-13-19.)
 
-## 1145.03   Nonconforming use of buildings; nonconforming  accessory uses
+## 1145.03   Nonconforming use of buildings; nonconforming accessory uses
 
 A use of a building existing lawfully at the time this Planning and Zoning
 Code became effective, but which does not conform to the use regulations,
@@ -97,7 +97,7 @@ single use category
 be expanded or extended throughout those parts of a building which were
 manifestly arranged or designed for such use at the time of adoption or
 amendment of this Code that made the use nonconforming, but no such use shall
-be extended so as to occupy any land outside such building. 
+be extended so as to occupy any land outside such building.
 3. _(c)_ Discontinuance of Use. If a nonconforming use within a building or
 portion thereof is discontinued for a continuous period of one year, any future
 use of such building or portion thereof, so discontinued, shall be in
@@ -127,7 +127,7 @@ forth in Sections
 1141.05 and
 1141.13; provided, however, that if the building is located in the Central
 Shopping District the owner or occupant shall not be required to provide
-additional parking for the increased parking requirement unless it results 
+additional parking for the increased parking requirement unless it results
 from an increase in the floor area due to an expansion of an existing building.
 6. _(f)_ Nonconforming as to Performance Standards. A building or use existing
 lawfully at the time this Code became effective, but which is nonconforming as
@@ -138,8 +138,8 @@ altered.
 
 ## 1145.04   Nonconforming use of land
 
-     A vacant lot or parcel of land, nonconforming as to use or dimension (area
-or yard) and existing lawfully at the time this Planning and Zoning Code or
+A vacant lot or parcel of land, nonconforming as to use or dimension (area or
+yard) and existing lawfully at the time this Planning and Zoning Code or
 amendment thereto became effective but which does not conform with the use and/
 or dimension regulations of the district in which it is located is a
 nonconforming use of land, and such use may be continued so long as it remains
@@ -193,7 +193,7 @@ located and shall not be resumed thereafter.
 2. _(b)_ A proposed building conforming in all respects to the Planning and
 Zoning Code shall be permitted on the same zoning lot as a nonconforming
 building or use provided the lot area, lot width and number of parking spaces
-allocated to  the nonconforming building or use and the proposed conforming
+allocated to the nonconforming building or use and the proposed conforming
 building equal the sum of the lot area, lot width and parking spaces required
 for each use; and provided the distances between the conforming building and
 nonconforming building or use are at least equal to the distances required if

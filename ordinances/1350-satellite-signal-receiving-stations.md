@@ -99,7 +99,7 @@ ten feet from any lot line.
 
 ## 1350.04   Permit required; fee
 
-Except as provided in Section 1350.03,  no person, firm or corporation shall erect a satellite dish-type
+Except as provided in Section 1350.03, no person, firm or corporation shall erect a satellite dish-type
 earth station without a permit and no installation or erection shall commence
 before a permit is issued in accordance with this Chapter. The permit fee for a
 satellite dish earth station is seventy dollars ($70.00).  
@@ -120,7 +120,7 @@ the Village on which such construction or erected satellite station is
 proposed.
     3. _(3)_ The application shall indicate the owner or owners of the subject
 property, the occupant of the subject premises and the contractor or other
-person  who will be permitted to construct or erect the proposed satellite dish
+person who will be permitted to construct or erect the proposed satellite dish
 earth station.
     4. _(4)_ The applicant shall also submit documentation demonstrating that
 the dish antenna must be sited in the proposed location. If the size of the

@@ -26,7 +26,7 @@ title: "Chapter 1129: Residential Districts: Multi-Family"
 In addition to the applicable provisions of the intent stated in Section
 1105.03, it is the intent of these district regulations to promote development
 of relatively high-density housing under conditions which maximize open space
-and minimize disturbance to adjoining  lower-density residential areas.  
+and minimize disturbance to adjoining lower-density residential areas.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1129.02   Permitted uses

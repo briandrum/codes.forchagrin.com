@@ -191,7 +191,7 @@ employee of the armed forces of the United States or their reserve components,
 including the Ohio national guard. This exception does not apply to United
 States reserved technicians.
     7. _(7)_ A commercial motor vehicle that is operated for nonbusiness
-purposes.  “Operated for nonbusiness purposes” means that the commercial motor
+purposes. “Operated for nonbusiness purposes” means that the commercial motor
 vehicle is not used in commerce as “commerce” is defined in 49 C.F.R. 383.5, as
 amended, and is not regulated by the Public Utilities Commission pursuant to
 Ohio R.C. Chapter 4905, 4921, or 4923.
@@ -296,7 +296,7 @@ commercial motor vehicle in violation of Section 341.05.
 4. _(d)_ No employer shall knowingly permit or authorize a driver to operate a
 commercial motor vehicle if the driver does not hold a valid, current
 commercial driver’s license or commercial driver’s license temporary
-instruction permit bearing the proper class or endorsements for the vehicle. 
+instruction permit bearing the proper class or endorsements for the vehicle.
 No employer shall knowingly permit or authorize a driver to operate a
 commercial motor vehicle in violation of the restrictions on the driver’s
 commercial driver’s license or commercial driver’s license temporary

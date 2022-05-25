@@ -10,7 +10,7 @@ title: "Chapter 905: Street Specifications"
 
 ## Cross references
 
-* Power to establish and care for streets - see Ohio R. C.  715.19, 717.01,
+* Power to establish and care for streets - see Ohio R. C. 715.19, 717.01,
 723.01
 * Dedication and acceptance - see Ohio R. C. 723.03
 

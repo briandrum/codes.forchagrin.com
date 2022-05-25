@@ -25,7 +25,7 @@ title: "Chapter 943: Small Cell Design Guidelines"
 ## Cross references
 
 Use of Public Ways for small cell wireless facilities and wireless support
-structures - see S.& P.S. Ch. 
+structures - see S.& P.S. Ch.
 941
 
 ## 943.01   Overview and purpose, definitions
@@ -132,7 +132,7 @@ or a transit authority, are located underground.
 either guyed or self-supporting, street light pole, traffic signal pole, a
 fifteen-foot or taller sign pole, or utility pole capable of supporting Small
 Cell Facilities. As used in this Chapter, "Wireless Support Structure"
-excludes  the following except in connection with a Small Wireless Facility, in
+excludes the following except in connection with a Small Wireless Facility, in
 which case the following are not excluded:
         1. _(i)_ A utility pole or other facility owned or operated by a
 municipal electric utility; and
@@ -154,7 +154,7 @@ Cell Use Permit.
 the highest standards of workmanship.
 4. _(d)_ Facilities shall be maintained in good and safe condition and in a
 manner that complies with all applicable federal, state and local
-requirements. All facilities shall be regularly painted and free of debris. 
+requirements. All facilities shall be regularly painted and free of debris.
 5. _(e)_ Facilities shall not be installed in any location that causes any
 interference with the Village’s public safety radio system, traffic and
 emergency signal light system, or other Village safety communications systems
@@ -175,7 +175,7 @@ smaller than 9 point font and no larger than 14 point font.
 9. _(i)_ Unless otherwise required by law, all manufacturer stickers and decals
 shall be removed from Facilities.
 10. _(j)_ Facilities shall be camouflaged using existing land forms, vegetation,
-and structures to screen  the Facilities from view and to blend in with the
+and structures to screen the Facilities from view and to blend in with the
 surrounding built and natural environment.
 11. _(k)_ The Village may require the Facilities Operator to incorporate
 additional concealment elements before approving an Application. Concealment
@@ -218,7 +218,7 @@ inside the Wireless Support Structure whenever possible and otherwise within a
 canister or other shroud. All Accessory Equipment associated with the antenna
 shall be concealed and shall not visibly protrude from the shroud or canister.
 4. _(d)_ The width of the canister or other shroud encasing the antenna and
-Accessory Equipment shall not exceed the width of the topmost  portion of the
+Accessory Equipment shall not exceed the width of the topmost portion of the
 Wireless Support Structure or 10 inches in diameter, whichever is less.
 5. _(e)_ The enclosure or shroud shall be painted to match or compliment the
 Wireless Support Structure.

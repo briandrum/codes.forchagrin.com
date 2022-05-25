@@ -24,11 +24,11 @@ Conservation District - see P. & Z.
 
 ## 1143.01   Intent
 
-     Sign regulations, including provisions to control the type, design, size,
+Sign regulations, including provisions to control the type, design, size,
 illumination, movement, materials, condition and location thereof, are
 established in order to achieve, among others, the following purposes:
 
-1. _(a)_ To protect and maintain property values; 
+1. _(a)_ To protect and maintain property values;
 2. _(b)_ To provide for reasonable and appropriate means of communication;
 3. _(c)_ To protect and enhance the unique historic and aesthetic character of
 the Municipality;
@@ -55,7 +55,7 @@ governed by the provisions of these regulations.
 
 ## 1143.03   Definitions and references
 
-       As used in this chapter, unless the context otherwise indicates:
+As used in this chapter, unless the context otherwise indicates:
 
 1. _(a)_ "Awning" means a projection from a building wall intended primarily
 for shelter or ornamentation and which can be retracted, folded or collapsed
@@ -103,14 +103,14 @@ similar materials providing support or structural integrity for the sign.
 made of durable materials, designed to be moved and is not permanently attached
 to any part of a building, structure, or to the ground.
 17. _(q)_ "Projecting sign" means any sign with two faces that extends outward
-at an angle from the wall to which it is attached. 
+at an angle from the wall to which it is attached.
 18. _(r)_ "Roof sign" means any sign erected, constructed and maintained wholly
 upon or over the roof or parapet wall of any building, with the principal
 support on the roof structure.
 19. _(s)_ "Sign" means any visual communication including but not limited to any
 writing, pictorial representation, mural illustration, emblem, symbol, design,
 drawing, banner, flag, placard, pennant, poster or other similar device that is
-visible from a dedicated right of way, private street, alley, sidewalk,  or
+visible from a dedicated right of way, private street, alley, sidewalk, or
 other public place and is used for purpose of advertisement, announcement,
 declaration, demonstration, identification or expression or directing attention
 to a person, institution, organization, business, activity, place, object or
@@ -123,7 +123,7 @@ wall by color shall not be considered a sign panel.
 21. _(u)_ "Temporary sign" means a sign constructed of cloth, paper, wood,
 metal, fabric, or other material that is not intended to be permanently
 installed in the ground nor permanently affixed to a building or structure and
-is intended for use for a limited period of time. 
+is intended for use for a limited period of time.
 22. _(v)_ "Wall sign" means any sign painted on, attached to, or erected against
 or integrated into the wall of a building or structure, with the exposed face
 of the sign in a plane parallel to the plane of the wall.
@@ -137,7 +137,7 @@ established in Chapter 1119.
 
 ## 1143.04   Signs prohibited
 
-     In general, any sign that is not expressly authorized by this Chapter is
+In general, any sign that is not expressly authorized by this Chapter is
 prohibited. Additionally, the following specific signs are prohibited:
 
 1. _(a)_ Any sign attached to natural vegetation.
@@ -165,7 +165,7 @@ Section 1143.06(d).
 8. _(h)_ Roof signs.
 9. _(i)_ Any sign that is painted on sidewalks or curbs.
 10. _(j)_ Marquee signs.
-11. _(k)_ Billboards. 
+11. _(k)_ Billboards.
 12. _(l)_ Portable signs.  
 (Ord. 2019-39. Passed 8-13-19.)
 
@@ -223,7 +223,7 @@ elements permanently incorporated into a building and not exceeding two (2)
 square feet in total area.  
 (Ord. 2019-39. Passed 8-13-19.)
 
-## 1143.06   Number and type of signs permitted: nonresidential  districts
+## 1143.06   Number and type of signs permitted: nonresidential districts
 
 In nonresidential districts, permanent signs shall be permitted as follows:
 
@@ -235,7 +235,7 @@ sign may be displayed as a projecting sign.
     3. _(3)_ Any one use shall not display both a projecting sign and a ground
 sign.
     4. _(4)_ Signs that are not considered incidental signs may be illuminated
-by an external light source. 
+by an external light source.
 2. _(b)_ Wall Signs.
     1. _(1)_ Wall signs for each building shall not exceed twelve square feet in
 combined area, except as permitted in Section 1143.06(c)(2) below.
@@ -253,7 +253,7 @@ on the same lot shall be twenty- five feet.
 feet or less above finished grade in height except that a ground sign located
 in a vision triangle of any public street intersection or intersection of a
 public street with a private street, alley, or driveway shall be two and one-
-half feet or less above curb level. 
+half feet or less above curb level.
     3. _(3)_ Ground signs shall not be located nearer the street than the
 required building line nor shall such signs be located less than twenty feet
 from an interior side lot line. However, a ground sign which does not exceed
@@ -289,7 +289,7 @@ rear entrance.
 7. _(g)_ Multi-tenant buildings.  In multi-tenant buildings, the allowable sign
 area for all tenants shall not exceed the maximum sign area computed as if
 there were a single tenant. The property owner shall be responsible for
-allocating the permitted sign area among tenants in a multi-tenant building. 
+allocating the permitted sign area among tenants in a multi-tenant building.
 8. _(h)_ Upper Floor Uses. In Business Districts, any use located on the second
 floor of a building or above shall be permitted one permanent window sign
 twelve square feet or less in area. In addition to a permanent window sign,
@@ -299,15 +299,14 @@ sign, two square feet or less, at such entrance.
 
 ## 1143.07   Number and types of signs permitted: residential districts
 
-     In all residential districts, permanent signs shall be permitted as
-follows:
+In all residential districts, permanent signs shall be permitted as follows:
 
 1. _(a)_ General.
     1. _(1)_ Dwelling units that are permitted in the Cluster and RMU Overlay
 Districts shall be deemed to be in a residential district regardless of the
 underlying zoning district.
     2. _(2)_ Signs that are not considered incidental signs may be illuminated
-by an external light source. 
+by an external light source.
     3. _(3)_ Signs permitted under this section shall be twelve square feet in
 area or less.
     4. _(4)_ Ground signs permitted under this section shall be set back five
@@ -319,7 +318,7 @@ be two and one-half feet or less above curb level.
 2. _(b)_ Dwelling Units. One permanent sign shall be permitted for each
 dwelling unit.
     1. _(1)_ Each single family and two-family dwelling unit may display either
-a ground or wall sign. Such sign shall require no permit. 
+a ground or wall sign. Such sign shall require no permit.
     2. _(2)_ Each attached single family or multi-family family dwelling unit
 may display a wall sign. Such sign shall require no permit.
 3. _(c)_ Residential Developments. Each residential development shall be
@@ -336,12 +335,13 @@ district.
 
 ## 1143.08   Design standards
 
-     In order to facilitate information legibility, traffic safety, general
-economic vitality and the preservation of unique historic resources, signs
-should be designed in a manner compatible with the character and style of
-immediate and neighboring buildings and signs.
-     More specifically, signs shall be designed in accordance with the
-following standards:
+In order to facilitate information legibility, traffic safety, general economic
+vitality and the preservation of unique historic resources, signs should be
+designed in a manner compatible with the character and style of immediate and
+neighboring buildings and signs.
+
+More specifically, signs shall be designed in accordance with the following
+standards:
 
 1. _(a)_ Signs in Series. Signs to be seen in series shall be designed with
 continuity and compatibility in terms of style, materials, color, size and
@@ -376,7 +376,7 @@ the lowest portion thereof is at least eight feet above the level of the
 sidewalk.
     3. _(3)_ Awnings shall be constructed of such materials as may be approved
 by the Architectural Board of Review provided that all frames and support shall
-be metal. Every awning shall be attached to and supported by the building. 
+be metal. Every awning shall be attached to and supported by the building.
 Posts or columns beyond building lines shall not be permitted for awnings.
     4. _(4)_ Canopies shall be constructed of such materials as may be approved
 by the Architectural Board of Review. The framework of all canopies shall be
@@ -386,7 +386,7 @@ Code.
 
 ## 1143.09   Temporary signs
 
-     Temporary signs shall be permitted only in accordance with the following
+Temporary signs shall be permitted only in accordance with the following
 regulations:
 
 1. _(a)_ General.

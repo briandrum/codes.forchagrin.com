@@ -44,7 +44,7 @@ As used in this chapter:
 1. _(a)_ "Public official" means any elected or appointed officer, or employee,
 or agent of the State or any political subdivision thereof, whether in a
 temporary or permanent capacity, and includes, but is not limited to,
-legislators, judges and law enforcement officers.  “Public official” does not
+legislators, judges and law enforcement officers. “Public official” does not
 include an employee, officer, or governor-appointed member of the board of
 directors of the nonprofit corporation formed under Ohio R.C. 187.01.
 2. _(b)_ "Public servant" means any of the following:
@@ -53,7 +53,7 @@ directors of the nonprofit corporation formed under Ohio R.C. 187.01.
 but not limited to, a juror, member of a temporary commission, master,
 arbitrator, advisor or consultant;
     3. _(3)_ A person who is a candidate for public office, whether or not the
-person  is elected or appointed to the office for which the person is a
+person is elected or appointed to the office for which the person is a
 candidate. A person is a candidate for purposes of this subsection if the
 person has been nominated according to law for election or appointment to
 public office, or if the person has filed a petition or petitions as required
@@ -163,7 +163,7 @@ degree.
 falsification in a theft offense, a misdemeanor of the first degree. If the
 value of the property or services stolen is one thousand dollars ($1,000) or
 more, falsification in a theft offense is a felony and shall be prosecuted
-under appropriate State law. 
+under appropriate State law.
 5. _(e)_ A person who violates this section is liable in a civil action to any
 person harmed by the violation for injury, death, or loss to person or property
 incurred as a result of the commission of the offense and for reasonable
@@ -318,7 +318,7 @@ R.C. 3737.22(A)(15).
     5. _(5)_ Anyone participating in the making of reports under subsection (e)
 of this section or anyone participating in a judicial proceeding resulting from
 the reports is immune from any civil or criminal liability that otherwise might
-be incurred or imposed as a result of such actions. Notwithstanding Ohio R.C. 
+be incurred or imposed as a result of such actions. Notwithstanding Ohio R.C.
 4731.22, the physician-patient relationship or advanced practice registered
 nurse-patient relationship is not a ground for excluding evidence regarding a
 person’s burn injury or the cause of the burn injury in any judicial proceeding
@@ -532,7 +532,7 @@ instrumentality with respect to the public contract.
 in any housing program funded by public moneys if the public employee otherwise
 qualifies for the program and does not use the authority or influence of the
 public employee’s office or employment to secure benefits from the program and
-if the moneys are to be used on the primary residence of the public employee. 
+if the moneys are to be used on the primary residence of the public employee.
 Such participation does not constitute an unlawful interest in a public
 contract in violation of this section.
 5. _(e)_ Whoever violates this section is guilty of having an unlawful interest

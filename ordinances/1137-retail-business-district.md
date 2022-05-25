@@ -15,18 +15,15 @@ title: "Chapter 1137: Retail Business District"
 
 ## Cross references
 
-         Garbage or refuse outside eating establishments - see GEN. OFF.
- 521.10
-         Off-street parking - see P. & Z.
-1141.05
-         Signs permitted - see P. & Z.
-1143.06
-         Special use designations - see P. & Z.
-App. A
+* Garbage or refuse outside eating establishments - see GEN. OFF. 521.10
+* Off-street parking - see P. & Z. 1141.05
+* Signs permitted - see P. & Z. 1143.06
+* Special use designations - see P. & Z. App. A
 
 ## 1137.01   Intent
 
-     In addition to the applicable provisions of the intent stated in Section 1105.03, it is the intent of these district regulations to promote retail
+In addition to the applicable provisions of the intent stated in Section
+1105.03, it is the intent of these district regulations to promote retail
 business development appropriately designed and located to achieve, among
 others, the following objectives:
 
@@ -88,7 +85,7 @@ to the premises. Amusement machines are prohibited by the provisions of
 Chapter 715 of the Business Regulation Code.
     6. _(6)_ Trade schools, etc. Trade and business schools and private
 establishments offering classes in such areas as self-improvement, dance, exam
-preparation and weight loss. 
+preparation and weight loss.
     7. _(7)_ Public buildings. Village hall, library, post office and other
 public facilities providing frequently used, pedestrian-oriented services.
 Police stations, fire stations and ambulance services shall be permitted only
@@ -142,7 +139,7 @@ in accordance with the setback regulations of Section (b) below.
 
 1. _(a)_ Yards. The minimum setback from lot line to a main building shall be
 as set forth below.
- 
+
             Minimum Setback (feet)
 Yard        To Street R.O.W. Line To Residential To Other Lot Line
                                   District Line
@@ -151,7 +148,7 @@ Side (each) 20                    15             5
 Rear        20                    40             5
 2. _(b)_ Setbacks. The minimum setback from a lot line to an accessory
 structure or use shall be as set forth below.
- 
+
                       Minimum Setback Depth (feet)
 Accessory Use         To Street R.O.W. Line To Residential To Other Lot Line
                                             District Line
@@ -163,7 +160,7 @@ Lighting, Flag Poles  5                     10             5
 * Accessory structures and drives are not permitted in required yards except
 that drives are permitted only as necessary in providing access to a public
 right of way.
-3. _(c)_  Modifications to Yard and Setback Requirements.
+3. _(c)_ Modifications to Yard and Setback Requirements.
     1. _(1)_ Front yards. The Planning and Zoning Commission may reduce the
 required front yard setback to permit proposed buildings in substantially
 built-up blocks to meet prevailing setbacks if such alignment is deemed more
@@ -175,21 +172,21 @@ of Review in consideration of planning and design standards.
 requirements at side and rear lot lines joining nonresidential uses in order to
 permit shared drive and parking facilities. Such action shall be taken only if
 it is determined that site design or safety will be improved as a result. The
-Planning and Zoning Commission shall require the submission of  written
+Planning and Zoning Commission shall require the submission of written
 reciprocal agreements between the property owners, which shall be recorded with
 the County Recorder, guaranteeing the observance of all required conditions for
 the life of the shared driving and/or parking facilities, which agreement shall
 be reviewed and subject to the approval of the Law Director, which agreements
 shall name the Municipality as a third party beneficiary of the agreements with
 the right to enforce such reciprocal agreements.
-4. _(d)_  Projections into Setbacks. An open or semi-enclosed fire escape may
+4. _(d)_ Projections into Setbacks. An open or semi-enclosed fire escape may
 project no more than six feet into a required rear yard.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1137.05   Detailed regulations by type of establishment
 
-     The following uses, as permitted in Section 1137.02, shall be developed and maintained in accordance with the additional
-regulations set forth below.
+The following uses, as permitted in Section 1137.02, shall be developed and
+maintained in accordance with the additional regulations set forth below.
 
 1. _(a)_ Restaurants (and other establishments engaged primarily in the sale of
 food in a ready-to-consume state).
@@ -249,8 +246,7 @@ commercial character.
 
 ## 1137.06   Supplemental regulations
 
-       For regulations regarding off-street parking and loading, landscaping,
-lighting, signs and environmental performance, refer to Chapters
-1141 -
-1150 of the Planning and Zoning Code.  
+For regulations regarding off-street parking and loading, landscaping, lighting,
+signs and environmental performance, refer to Chapters 1141 - 1150 of the
+Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)

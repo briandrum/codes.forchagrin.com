@@ -18,33 +18,30 @@ title: "Chapter 1127: Residential Districts: Attached Single-Family"
 
 ## Cross references
 
-            Night parking of commercial vehicles - see TRAF.
-351.15
-            Dwelling defined - see P. & Z.
- 1107.07
-            Off-street parking - see P. & Z.
-1141.05
-            Signs permitted - see P. & Z.
-1143.07
+* Night parking of commercial vehicles - see TRAF. 351.15
+* Dwelling defined - see P. & Z. 1107.07
+* Off-street parking - see P. & Z. 1141.05
+* Signs permitted - see P. & Z. 1143.07
 
 ## 1127.01   Intent
 
-     In addition to the applicable provisions of the intent stated in Section 1105.03, it is the intent of these district regulations to promote development
+In addition to the applicable provisions of the intent stated in Section
+1105.03, it is the intent of these district regulations to promote development
 of medium-density clustered housing in order to appropriately and efficiently
 utilize limited remaining vacant land in the community.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1127.02   Permitted uses
 
-         In an ASF District, buildings and land shall be used by right only for
-the main and accessory uses set forth below:
+In an ASF District, buildings and land shall be used by right only for the main
+and accessory uses set forth below:
 
 1. _(a)_ Main Uses.
     1. _(1)_ Detached single-family dwellings as permitted in R1-50 Districts
 and as regulated in Chapter 1125.
     2. _(2)_ Attached single-family dwellings where more than one (1) main
 building may be grouped on a lot provided that such grouping shall comply with
-the requirements of this District. 
+the requirements of this District.
 2. _(b)_ Accessory Uses.
     1. _(1)_ Private swimming pools as regulated in Section 1125.04(d)(1) of this Planning and Zoning Code, and other private recreational
 uses, including community center buildings.
@@ -62,8 +59,8 @@ in Section 1125.04 (e) and (f) of this Planning and Zoning Code.
 
 ## 1127.03   Area regulations
 
-     In an ASF District, attached single family dwellings shall be developed
-and maintained in accordance with the following area regulations:
+In an ASF District, attached single family dwellings shall be developed and
+maintained in accordance with the following area regulations:
 
 1. _(a)_ Development area: 3 acres minimum.
 2. _(b)_ Density: 8 dwelling units per acre maximum.
@@ -89,9 +86,8 @@ addition to the dwelling unit area.
 
 ## 1127.04   Height regulations
 
-     In an ASF District, attached single-family dwellings and other structures
-shall be developed and maintained in accordance with the following height
-regulations.
+In an ASF District, attached single-family dwellings and other structures shall
+be developed and maintained in accordance with the following height regulations.
 
 1. _(a)_ Buildings: 35 feet, maximum.
 2. _(b)_ Accessory structures: Six feet maximum for accessory structures which
@@ -136,7 +132,7 @@ necessary in providing access to a public right of way.
     1. _(1)_ Certain architectural features may project from a main building
 into any setback a maximum distance of three feet. However, no such feature
 shall extend to within three feet of a side lot line or into a setback any
-distance greater than a setback line that has been established by a variance. 
+distance greater than a setback line that has been established by a variance.
 For purposes of this subsection, architectural features shall include awnings,
 balconies, bay windows, belt courses, canopies, cornices, projecting eaves and
 other overhangs.
@@ -170,7 +166,7 @@ that wall intersect the second wall.
     4. _(4)_ Length of overlap. The "length of overlap" shall be considered as
 the length of the portion of one wall from which perpendicular lines will
 intersect a second wall. In determining the length of overlap, the minimum
-possible overlap shall be used for computation. 
+possible overlap shall be used for computation.
     5. _(5)_ Facing walls. Although more than one set of walls may be
 "overlapping" in the relationship between two buildings, only one set of two
 walls shall be considered "facing". Facing walls shall be those two overlapping
@@ -191,9 +187,9 @@ x = length of overlap divided by 5
 
 ## 1127.07   Design regulations and standards
 
-     In an ASF District, attached single-family dwellings and other structures
-shall be developed and maintained in accordance with the following design
-regulations and standards.
+In an ASF District, attached single-family dwellings and other structures shall
+be developed and maintained in accordance with the following design regulations
+and standards.
 
 1. _(a)_ Building Design. In order to enhance privacy and to reduce the
 apparent mass of the buildings, the alignment of attached single-family
@@ -217,7 +213,7 @@ if compliance with these requirements is either clearly infeasible or contrary
 to compliance with the design regulations and standards of this section.
 However, the maximum permitted density shall not be increased by reason of this
 provision. Applicants shall first seek modifications under this section prior
-to filing an application as set forth in Section 1111.03 for a variance for areas, yards, setbacks and distances between uses. 
+to filing an application as set forth in Section 1111.03 for a variance for areas, yards, setbacks and distances between uses.
 4. _(d)_ Common Open Space. As required in Section 1127.03(i), at least 750 square feet of land per dwelling unit shall be
 reserved as common open space in each ASF District.
     1. _(1)_ Required characteristics. Land designated as common open space

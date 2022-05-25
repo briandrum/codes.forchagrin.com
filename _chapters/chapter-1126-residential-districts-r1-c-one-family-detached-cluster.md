@@ -19,15 +19,13 @@ title: "Chapter 1126: Residential Districts: R1-C One-Family Detached Cluster"
 
 ## Cross references
 
-              District created - see P. & Z. 
-1119.01
-              Zoning map amendments - see
-APPENDIX B
+* District created - see P. & Z. 1119.01
+* Zoning map amendments - see APPENDIX B
 
 ## 1126.01   Intent
 
-     In addition to the applicable provisions stated in Section 1105.03, it is the intent of these regulations to achieve the following
-objectives:
+In addition to the applicable provisions stated in Section 1105.03, it is the
+intent of these regulations to achieve the following objectives:
 
 1. _(a)_ Efficient use of facilities and improvements required in connection
 with residential development;
@@ -69,7 +67,7 @@ subject of a joint application.
 based on the R1-100 District requirements and for the purpose of density
 calculations assumes conventional lot and street layouts conforming to all
 Municipal regulations. Such plans shall be conceptual in nature, but may not
-include lots or streets that would not be permitted in a conventional layout. 
+include lots or streets that would not be permitted in a conventional layout.
 In no case shall the number of building lots or dwelling units permitted exceed
 the yield plan number of units or lots.
 2. _(b)_ Lots in the R1-C District shall be occupied by not more than one (1)
@@ -78,11 +76,12 @@ main building per lot.
 
 ## 1126.05   Development plan required; design criteria
 
-     A development plan shall be submitted in accordance with Chapter 1109. When reviewing such plans, the Planning and Zoning Commission shall use
-as a guide the standards of this chapter and the guidelines set forth below. 
-Where strict application of these standards would serve no significant purpose,
-the Planning and Zoning Commission shall have the authority to waive, modify or
-apply additional standards so long as the convenience and general welfare of
+A development plan shall be submitted in accordance with Chapter 1109. When
+reviewing such plans, the Planning and Zoning Commission shall use as a guide
+the standards of this chapter and the guidelines set forth below. Where strict
+application of these standards would serve no significant purpose, the Planning
+and Zoning Commission shall have the authority to waive, modify or apply
+additional standards so long as the convenience and general welfare of
 neighboring uses is maintained.
 
 1. _(a)_ Lot and yard sizes shall be shown on the development plan and shall
@@ -110,7 +109,7 @@ of surrounding existing development.
 
 ## 1126.06   Maximum dwelling unit area
 
-     The dwelling unit area of each dwelling unit shall not exceed 2,800 square
+The dwelling unit area of each dwelling unit shall not exceed 2,800 square
 feet.  
 (Ord. 2019-39. Passed 8-13-19.)
 
@@ -129,7 +128,7 @@ following resources:
     5. _(5)_ Significant wildlife habitat areas.
     6. _(6)_ Historic, archaeological or cultural features.
     7. _(7)_ Scenic views into the property from existing public roads.
-      
+     
 3. _(c)_ To the extent possible, designated open space shall be contiguous
 acreage. Except areas that by their nature have a linear configuration, such
 as buffers, waterbodies, or trail links, the length to width ratio of any

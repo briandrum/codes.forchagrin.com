@@ -75,7 +75,7 @@ duly authorized by Council, to the extent required herein, and executed in the
 name of the Village by the Mayor and bears the signature of the Director of
 Finance of the Village, to the extent required by the Ohio Revised Code,
 certifying the availability and appropriation of funds for the contract or any
-amendment or change order to the contract. 
+amendment or change order to the contract.
 
 2. _(b)_ **Authorization to Investigate Costs.** The Mayor shall have the
 authority to investigate costs relative to any proposed public improvement or
@@ -98,7 +98,7 @@ best bidder after advertising for a time and in a manner that the Village
 determines shall be effective in notifying a sufficient number of bidders as
 determined by the Village in its discretion. By way of example, and not as a
 limitation, the advertisement may be in a newspaper of general circulation in
-the Village, or publication on the Village’s website, or both. 
+the Village, or publication on the Village’s website, or both.
 
 5. _(e)_ **Exceptions to Public Bidding.** Contracts whose costs are estimated
 to exceed fifty thousand dollars ($50,000) and that meet the following
@@ -179,7 +179,7 @@ extension shall not entitle the contractor to delay costs.
 
 10. _(j)_ **Withdrawal of Bids.** Bidders may withdraw bids pursuant Section
 9.31 of the Ohio Revised Code; such a withdrawal shall not modify the Village’s
-right to award to the next lowest and best bidder. 
+right to award to the next lowest and best bidder.
 
 11. _(k)_ **Bids in Excess of Estimate.** The Village may award contracts
 regardless of the amount of the bid as compared to the estimated cost.

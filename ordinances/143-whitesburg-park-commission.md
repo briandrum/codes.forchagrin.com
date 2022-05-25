@@ -32,7 +32,7 @@ by the Mayor shall be confirmed by a majority of Council.
 
 ## 143.02   Term
 
-The term of six members to be appointed shall be four  years, provided that the
+The term of six members to be appointed shall be four years, provided that the
 term of two of the members appointed in 1996 shall be for two years and two of
 the members shall be for three years. In the event that a vacancy occurs during
 the term of any member, his or her successor shall be appointed for the

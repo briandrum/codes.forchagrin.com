@@ -100,7 +100,7 @@ family dwelling units.
 ## 1331.05   Stack and vent emissions
 
 The following limitations are to apply for emissions from any stack or vent
-within the  Municipality:
+within the Municipality:
 
 1. _(a)_ Smoke.
 Ringleman                  Combustion Devices
@@ -110,10 +110,10 @@ Chart No.   Incinerators   Other Than Incinerators
 3           Not allowed    5 minutes any 8 hour period
 4 & 5       Not allowed    Not allowed
 Exceptions:
-    1. _(1)_  During equipment breakdown.
-    2. _(2)_  During initial firing from complete shutdown.
+    1. _(1)_ During equipment breakdown.
+    2. _(2)_ During initial firing from complete shutdown.
 2. _(b)_ Gases, Fumes and Other Pollution. No emission of poisonous, obnoxious,
-pungent  or ill-smelling gases, fumes or other air pollutants are permitted
+pungent or ill-smelling gases, fumes or other air pollutants are permitted
 from any stack or from any other source in the Municipality so as to cause a
 nuisance or create a health hazard.
 3. _(c)_ Dust or Fumes. No emission with color other than black is to be
@@ -135,7 +135,7 @@ are to be adjusted to fifty percent excess air.
 1. _(a)_ Dust. No person, firm or corporation having charge or management of
 any building, premises, industrial establishment, coal yard, brick yard,
 factory or other place of business, by himself, his agent or employee, shall
-cause, suffer or allow the handling,  conveying, storing or accumulation of any
+cause, suffer or allow the handling, conveying, storing or accumulation of any
 coal, ashes, cinders, building material, dust, refuse or other material, in
 such manner that dust or other emanations may escape and become a nuisance,
 beyond his own property line at normally occupied levels.
@@ -147,7 +147,7 @@ or manner except a wood-burning fireplace.
 3. _(c)_ Exceptions.
     1. _(1)_ Open fires shall be permitted for recreational purposes.
     2. _(2)_ Open fires may be permitted if they are in accordance with
-directives issued  by the Environmental Control Officer and approved by the
+directives issued by the Environmental Control Officer and approved by the
 Fire Chief.  
 (Ord. 1968-740. Passed 10-1-68.)
 
@@ -174,7 +174,7 @@ reference for all values. A recording smokescope is considered valid evidence
 if the equipment is properly standardized immediately prior to and following
 the test period.
 3. _(c)_ Authorization of Testing. When the Environmental Control Officer has
-cause to  believe that an emission from fuel-burning equipment (or any other
+cause to believe that an emission from fuel-burning equipment (or any other
 device) violates Section 1331.05 he shall notify the owner of the equipment and set a time for a
 hearing, which hearing shall be set not less than ten nor more than twenty days
 from the time of notification.  

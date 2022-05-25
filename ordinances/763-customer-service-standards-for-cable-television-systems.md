@@ -86,7 +86,7 @@ within 30 seconds. These standards shall be met no less than 90% of the time
 measured quarterly.
 3. _(c)_ Responsiveness.
     1. _(1)_ Guaranteed seven-day residential installation.
-        1. _(A)_  The cable operator shall complete all standard customer
+        1. _(A)_ The cable operator shall complete all standard customer
 installations requested by customers within seven business days after the order
 is placed, unless a later date for installation is requested. "Standard"
 customer installations are those located up to 150 feet from the existing
@@ -95,12 +95,12 @@ installation, or the cable operator determines that a nonstandard customer
 installation is required, the cable operator shall provide the customer in
 advance with a total installation cost estimate and an estimated date of
 completion.
-        2. _(B)_  All underground cable drops from the pedestal to the home shall
+        2. _(B)_ All underground cable drops from the pedestal to the home shall
 be buried at a depth of no less than eight inches, and within no more than two
 calendar weeks (weather permitting) from the initial installation, or at a time
 mutually agreed upon between the cable operator and the customer.
     2. _(2)_ Residential installation and service appointments.
-        1. _(A)_  Customers requesting installation of cable service or service to
+        1. _(A)_ Customers requesting installation of cable service or service to
 an existing installation may choose any of the following blocks of time for the
 installation appointment: 8:00 a.m. to 12:00 Noon; 12:00 Noon to 4:00 p.m.; 4:
 00 p.m. to 8:00 p.m.; or a four-hour block of time mutually agreed upon by the
@@ -108,14 +108,14 @@ customer and the cable operator. The cable operator may not cancel an
 appointment with a customer after 5:00 p.m. on the day before the scheduled
 appointment, except for appointments scheduled within 12 hours after the
 initial call.
-        2. _(B)_  An operator may not cancel an appointment with a customer after
+        2. _(B)_ An operator may not cancel an appointment with a customer after
 the close of business on the business day prior to the scheduled appointment.
-        3. _(C)_  If a cable operator representative is running late for an
+        3. _(C)_ If a cable operator representative is running late for an
 appointment with a customer and will not be able to keep the appointment as
 scheduled, the customer will be contacted and notified as soon as it is
 apparent that the appointment will be missed. The appointment will be
 rescheduled, as necessary, at a time which is convenient for the customer.
-        4. _(D)_  The cable operator shall be deemed to have responded to a
+        4. _(D)_ The cable operator shall be deemed to have responded to a
 request for service under the provisions of this section when a technician
 arrives within the agreed upon time and, if the customer is absent when the
 technician arrives, the technician leaves written notification of arrival, and
@@ -123,14 +123,14 @@ a copy of that notification and the form or service log or otherwise is kept by
 the cable operator. In such circumstances, the cable operator shall attempt to
 contact the customer within 48 hours.
     3. _(3)_ Residential service interruptions.
-        1. _(A)_  In the event of system outages (loss of reception on all
+        1. _(A)_ In the event of system outages (loss of reception on all
 channels) resulting from cable operator equipment failure affecting three or
 more customers, the cable operator shall respond to such failure within two
 hours after the 3rd customer call is received.
-        2. _(B)_  All other service interruptions resulting from cable operator
+        2. _(B)_ All other service interruptions resulting from cable operator
 equipment failure shall be corrected by the cable operator by the end of the
 next calendar day.
-        3. _(C)_  The cable operator shall keep an accurate and comprehensive file
+        3. _(C)_ The cable operator shall keep an accurate and comprehensive file
 of any and all complaints regarding signal quality, service quality and
 interruptions or degradation of service experienced with respect to the cable
 system or its operation of the cable system as well as all written complaints
@@ -138,38 +138,38 @@ to either the cable operator or the grantor from subscribers, in a manner
 consistent with the privacy rights of customers, and the cable operator’s
 actions in response to those complaints. These files shall be available to the
 franchising authority during normal business hours upon request.
-        4. _(D)_  All service outages and interruptions for any cause beyond the
+        4. _(D)_ All service outages and interruptions for any cause beyond the
 control of the cable operator shall be corrected within 36 hours, after the
 conditions beyond its control have been corrected.
     4. _(4)_ TV reception.
-        1. _(A)_  The cable operator shall provide clear television reception that
+        1. _(A)_ The cable operator shall provide clear television reception that
 meets or exceeds technical standards established by the United States Federal
 Communications Commission (the "FCC"). The cable operator shall render
 effficient service, make repairs promptly, and interrupt service only for good
 cause and for the shortest time possible. Scheduled interruptions shall be
 preceded by notice and shall occur during periods of minimum use of the system,
 preferably between midnight and 6:00 a.m.
-        2. _(B)_  If a customer experiences poor video or audio reception
+        2. _(B)_ If a customer experiences poor video or audio reception
 attributable to the cable operator’s equipment, the cable operator shall repair
 the problem no later than the day following the customer call. If an
 appointment is necessary, customer may choose the same blocks of time described
 in Section 763.03(c)(2)A. At the customer’s request, the cable operator shall repair the
 problem at a later time convenient to the customer.
     5. _(5)_ Treatment of property.
-        1. _(A)_  The cable operator shall keep trimming to a minimum; trees and
+        1. _(A)_ The cable operator shall keep trimming to a minimum; trees and
 shrubs or other landscaping that are damaged by the cable operator, or any
 employee or agent during installation or construction shall be restored to
 their prior condition or replaced. Trees and shrubs shall not be removed
 without the prior permission of the owner or legal tenant of the property on
 which they are located. This provision shall be in addition to, and shall not
 supersede, any requirement in any franchise agreement.
-        2. _(B)_  The cable operator shall, at its own cost and expense, and in a
+        2. _(B)_ The cable operator shall, at its own cost and expense, and in a
 manner approved by the property owner and the franchising authority, restore
 any property to as good condition as before the work causing such disturbance
 was initiated. The cable operator shall repair, replace or compensate a
 property owner for any damage resulting from the cable operator’s installation,
 construction, service or repair activities.
-        3. _(C)_  Except in the case of an emergency involving public safety or
+        3. _(C)_ Except in the case of an emergency involving public safety or
 service interruption to a large number of subscribers, the cable operator shall
 give reasonable notice to property owners or legal tenants prior to entering
 upon private premises, and the notice shall specify the work to be performed;
@@ -185,30 +185,30 @@ door hanger at least one week in advance. In the case of an emergency, the
 cable operator shall attempt to contact the property owner or legal tenant in
 person, and shall leave a door hanger notice in the event personal contact is
 not made.
-        4. _(D)_  The cable operator’s personnel shall clean all areas surrounding
+        4. _(D)_ The cable operator’s personnel shall clean all areas surrounding
 any work site and ensure that all cable materials have been disposed of
 properly.
 4. _(d)_ Customer Information.
     1. _(1)_ Upon installation, and at any time the customer may request, and
 the cable operator shall provide the following information in clear, concise
 written form:
-        1. _(A)_  Products and services offered by the cable operator, including
+        1. _(A)_ Products and services offered by the cable operator, including
 its channel lineup;
-        2. _(B)_  The cable operator’s complete range of service options and the
+        2. _(B)_ The cable operator’s complete range of service options and the
 prices for these services;
-        3. _(C)_  Instruction on the use of cable TV service and on a standard VCR
+        3. _(C)_ Instruction on the use of cable TV service and on a standard VCR
 hookup;
-        4. _(D)_  The cable operator’s billing, collection and disconnection
+        4. _(D)_ The cable operator’s billing, collection and disconnection
 policies;
-        5. _(E)_  Customer privacy requirements;
-        6. _(F)_  All applicable complaint procedures, including complaint forms,
+        5. _(E)_ Customer privacy requirements;
+        6. _(F)_ All applicable complaint procedures, including complaint forms,
 if any, and the telephone numbers and mailing address of the cable operator,
 the FCC, and the franchising authority to whom the complaints should be
 addressed;
-        7. _(G)_  Use and availability of A/B switches;
-        8. _(H)_  Use and availability of parental control/lock out device;
-        9. _(I)_  Special services for customers with disabilities, if any; and
-        10. _(J)_  Days, times of operation and locations of service centers.
+        7. _(G)_ Use and availability of A/B switches;
+        8. _(H)_ Use and availability of parental control/lock out device;
+        9. _(I)_ Special services for customers with disabilities, if any; and
+        10. _(J)_ Days, times of operation and locations of service centers.
     2. _(2)_ The cable operator shall provide customers with written
 notification of any change in rates, programming or channel positions, at least
 30 days before the effective date of change.
@@ -240,9 +240,9 @@ rebates and credits.
 written complaint from a subscriber within 30 days.
     3. _(3)_ Refunds. Refund checks will be issued promptly, but no later than
 either:
-        1. _(A)_  The customer’s next billing cycle following resolution of the
+        1. _(A)_ The customer’s next billing cycle following resolution of the
 request or 30 days, whichever is earlier, or
-        2. _(B)_  The return of the equipment supplied by the cable operator if
+        2. _(B)_ The return of the equipment supplied by the cable operator if
 service is terminated.
     4. _(4)_ Credits. Credits for service will be issued no later than the
 customer’s next billing cycle following the determination that a credit is
@@ -321,7 +321,7 @@ results of the test and recommending action to be taken by the Village.
 initial installation of the name and address of the Village Complaint Officer
 and of the procedures contained in this section.  
 (Ord. 2001-18. Passed 3-12-01.)
-  
+ 
 
 ## 763.04   Customer dissatisfaction with any service
 

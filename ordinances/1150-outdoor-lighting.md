@@ -19,12 +19,12 @@ title: "Chapter 1150: Outdoor Lighting"
 
 ## 1150.01   Purpose and intent
 
-     It is the intent of this Planning and Zoning Code to preserve, protect,
-and enhance the lawful nighttime use and enjoyment of any and all property
-through the use of appropriate lighting practices and systems. Such individual
-fixtures and lighting systems shall be designed, constructed, and installed to
-(i) control glare, (ii) prevent light trespass, (iii) minimize obtrusive light,
-and (iv) conserve energy while maintaining safety, security and productivity.  
+It is the intent of this Planning and Zoning Code to preserve, protect, and
+enhance the lawful nighttime use and enjoyment of any and all property through
+the use of appropriate lighting practices and systems. Such individual fixtures
+and lighting systems shall be designed, constructed, and installed to (i)
+control glare, (ii) prevent light trespass, (iii) minimize obtrusive light, and
+(iv) conserve energy while maintaining safety, security and productivity.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1150.02   Definitions
@@ -71,7 +71,7 @@ construction, safety, seasonal events, or public events.
 ## 1150.03   General requirements
 
 1. _(a)_ Outdoor lighting fixtures installed in all zoning districts other than
-the Parks, Conservation and all residential  districts, after the effective
+the Parks, Conservation and all residential districts, after the effective
 date of this Chapter 1150, shall comply with the following:
     1. _(1)_ Lighting Plans. Full lighting plans shall be required prior to
 the installation of any lighting improvements or fixtures. Lighting plans shall
@@ -100,12 +100,12 @@ measured by meter line of sight to any luminaire. Other than light incidental
 to fully shielded lighting, no direct light will be allowed to trespass onto
 other properties.
     4. _(4)_ Island canopy ceiling fixtures shall be recessed so that direct
-light cannot radiate  onto adjacent properties or roadways.
+light cannot radiate onto adjacent properties or roadways.
     5. _(5)_ With the exception of flag lighting, ground level signs, any
 decorative lighting mounted as shielded sconces (emitting a maximum of 3,000
 lumens each) on building side walls, no lighting may be pointed in an upward
 direction.
-    6. _(6)_ All non-residential  lighting will be designed to provide
+    6. _(6)_ All non-residential lighting will be designed to provide
 average lux levels at ground level in keeping with the recommended averages
 published in RP-33 Lighting for Exterior Environments and RP-20 Light for
 Parking Facilities by the IESNA (Illuminating Engineering Society of North
@@ -188,7 +188,7 @@ this Chapter.
 twenty-five (25) watts, installed seasonally for one period not exceeding
 forty-five (45) days during any calendar year, are exempt from the requirements
 of this Chapter.
-4. _(d)_ Temporary construction or emergency lighting is exempt from the 
+4. _(d)_ Temporary construction or emergency lighting is exempt from the
 requirements of this Section. Such lighting shall be discontinued immediately
 upon completion of the construction work or abatement of the emergency
 necessitating such lighting.
@@ -203,7 +203,7 @@ Municipality.
 
 ## 1150.05   Prohibited lighting
 
-     This Section identifies lighting applications which cause glare, decrease
+This Section identifies lighting applications which cause glare, decrease
 visibility, produce unattractive lighting environments or excessive light
 trespass or light pollution. These applications are prohibited.
 
@@ -220,7 +220,7 @@ high-voltage (neon) tubing is prohibited.
 
 ## 1150.06   Nonconformance
 
-     There shall be no change in use or lamp type, or any replacement or
-structural alteration made, without conforming to all applicable requirements
-of this Chapter.  
+There shall be no change in use or lamp type, or any replacement or structural
+alteration made, without conforming to all applicable requirements of this
+Chapter.  
 (Ord. 2019-39. Passed 8-13-19.)

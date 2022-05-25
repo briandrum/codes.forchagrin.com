@@ -106,7 +106,7 @@ determined:
 1. _(a)_ The applicant has made a false, misleading or deceptive statement in
 providing the information required under Section 711.04;
 2. _(b)_ The applicant has been convicted of a felony violation, a misdemeanor
-violation involving moral turpitude, or an "offense of violence" as defined by 
+violation involving moral turpitude, or an "offense of violence" as defined by
 Section 501.01 of the Codified Ordinances of the Village of Chagrin Falls during the
 past five (5) years.
 3. _(c)_ Each applicant who is issued a license shall carry the license

@@ -37,7 +37,7 @@ shall place or knowingly drop upon any part of a highway, lane, road, street or
 alley any tacks, bottles, wire, glass, nails or other articles which may damage
 or injure any person, vehicle or animal traveling along or upon such highway,
 except such substances that may be placed upon the roadway by proper authority
-for the repair or construction thereof. 
+for the repair or construction thereof.
 6. _(f)_
     1. _(1)_ Except as otherwise provided in this subsection, whoever
 violates any provision of subsections (a) to (d) of this section is guilty of a
@@ -94,26 +94,26 @@ misdemeanor of the third degree.
 ## 311.03   Blocking off streets
 
 1. _(a)_ The Chief of Police may blockade any street, alley or sidewalk. No
-person shall use  any of the public roads, streets, highways or alleys of the
-Municipality, including the  sidewalks thereon, for the purpose of coasting,
-skating, skiing or other similar sport,  unless such road, street, highway or
-alley has first been designated by the Chief of  Police for such use, for such
-days or parts of days as shall be designated by the Chief  of Police. The Chief
-of Police, in designating any road, street, highway or alley for  such
+person shall use any of the public roads, streets, highways or alleys of the
+Municipality, including the sidewalks thereon, for the purpose of coasting,
+skating, skiing or other similar sport, unless such road, street, highway or
+alley has first been designated by the Chief of Police for such use, for such
+days or parts of days as shall be designated by the Chief of Police. The Chief
+of Police, in designating any road, street, highway or alley for such
 recreational use, shall do so temporarily only, and shall cause sufficient
-warnings  and barriers to be erected so as to make the same reasonably safe for
-recreational  purposes without unduly inconveniencing the public in its use of
-thoroughfares. 
+warnings and barriers to be erected so as to make the same reasonably safe for
+recreational purposes without unduly inconveniencing the public in its use of
+thoroughfares.
 2. _(b)_ No person shall slide or course upon hand-sleds or skates in any
-street. However,  nothing in this section shall prohibit the setting aside of
-streets or sections thereof for  limited periods of time for such purposes
-while under proper supervision. 
+street. However, nothing in this section shall prohibit the setting aside of
+streets or sections thereof for limited periods of time for such purposes
+while under proper supervision.
 3. _(c)_ In times of emergency or when it is deemed necessary in the interest
-of public  safety, all police officers are authorized to close off streets or
-portions of streets and  divert traffic as the occasion may require, and
-pedestrians and drivers of vehicles shall  conform to the regulations so
+of public safety, all police officers are authorized to close off streets or
+portions of streets and divert traffic as the occasion may require, and
+pedestrians and drivers of vehicles shall conform to the regulations so
 established.  
-(Ord. 1957-420. Passed 12-28-57.) 
+(Ord. 1957-420. Passed 12-28-57.)
 4. _(d)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -126,9 +126,9 @@ misdemeanor of the third degree.
 ## 311.04   Zones of quiet
 
 1. _(a)_ The Mayor is authorized, where it is necessary to preserve health, to
-establish zones of  quiet. Whenever authorized signs are erected indicating a
-zone of quiet, no person  operating a motor vehicle within any such zone shall
-sound the horn or other warning  device of such vehicle except in an emergency.  
+establish zones of quiet. Whenever authorized signs are erected indicating a
+zone of quiet, no person operating a motor vehicle within any such zone shall
+sound the horn or other warning device of such vehicle except in an emergency.  
 (Ord. 1957-420. Passed 12-28-57.)
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,

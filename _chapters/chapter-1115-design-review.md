@@ -21,9 +21,9 @@ Review and approval procedures - see P. & Z.
 
 ## 1115.01   Intent
 
-     In order to maintain and enhance the distinctive character of the
-Municipality these regulations are established to achieve, among others, the
-following objectives:
+In order to maintain and enhance the distinctive character of the Municipality
+these regulations are established to achieve, among others, the following
+objectives:
 
 1. _(a)_ To preserve and protect the public health, safety and welfare by
 maintaining the high character of community development;
@@ -66,7 +66,7 @@ Architectural Board of Review for a determination of compliance with the
 provisions of the Planning and Zoning Code.
 2. _(b)_ Grade. Where an applicant for a building permit proposes to change the
 existing grade of a lot by more than three (3) inches, the Architectural Board
-of Review shall review such change  to ensure that the proposed building
+of Review shall review such change to ensure that the proposed building
 elevations and site grading are compatible with contiguous property and that
 the proposed building or structure meets the standards set forth in Section 1115.04.
 3. _(c)_ Conformance. Construction shall be in conformance with an approved
@@ -83,17 +83,17 @@ accordance with Chapter 1111 of the Planning and Zoning Code.
 
 ## 1115.04   Standards of review
 
-     The Architectural Board of Review has the authority to regulate, according
-to proper architectural principles, the design, use of materials, finished
-grade lines and orientation of new construction, and to make recommendations to
-the applicant regarding the proposed design. In conducting its review, the
+The Architectural Board of Review has the authority to regulate, according to
+proper architectural principles, the design, use of materials, finished grade
+lines and orientation of new construction, and to make recommendations to the
+applicant regarding the proposed design. In conducting its review, the
 Architectural Board of Review shall:
 
 1. _(a)_ Consider and take cognizance of the development of adjacent,
 contiguous, and neighboring properties for the purpose of achieving safe,
 harmonious, and integrated development of related properties;
 2. _(b)_ Consider the Village of Chagrin Falls Design Guidelines adopted by
-the  Council on October 10, 2005, and as may thereafter be amended, as well as
+the Council on October 10, 2005, and as may thereafter be amended, as well as
 design standards of Section 1115.07;
 3. _(c)_ Consider the relationship of each design element to the building or
 structure as a whole;
@@ -104,18 +104,17 @@ materially and adversely impact another building or property; and
 
 ## 1115.05   Demolition and moving
 
-     The demolition or moving of a building or structure shall be permitted
-only after the applicant has obtained all permits required to be issued by the
+The demolition or moving of a building or structure shall be permitted only
+after the applicant has obtained all permits required to be issued by the
 Planning and Zoning Code and other applicable ordinances of the Municipality.
-The applicant shall obtain preliminary and final approval from the
-Architectural Board of Review for the building or structure that is to replace
-it.  
+The applicant shall obtain preliminary and final approval from the Architectural
+Board of Review for the building or structure that is to replace it.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1115.06   Maintenance requirements
 
 1. _(a)_ Nothing in this chapter shall be construed to prevent or delay the
-reconstruction, alteration  or demolition of a structure or feature which has
+reconstruction, alteration or demolition of a structure or feature which has
 been ordered by the Administrator upon certification of an unsafe condition
 constituting an emergency.
 2. _(b)_ Similarly, nothing in this chapter shall be construed to govern or

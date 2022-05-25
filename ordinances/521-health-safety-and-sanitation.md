@@ -49,7 +49,7 @@ warehouseman or repairman.
 (ORC 3767.29)
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
 degree.
-  
+ 
 
 ## 521.02   Venting of heaters and burners
 
@@ -118,7 +118,7 @@ Ohio R.C. 3737.82.
 degree.  
 (ORC 3701.99(C))
 
-## 521.03   Barricades and warning lights; abandoned  excavations
+## 521.03   Barricades and warning lights; abandoned excavations
 
 1. _(a)_ No person shall abandon or knowingly permit to remain on public or
 private property, any excavation, well, cesspool or structure which is in the
@@ -142,7 +142,7 @@ degree.
 maintenance of the water works system of the Municipality, whether such system
 is located within or without the corporate limits, or commit any act
 detrimental to the water supply system of the Municipality or any act which
-will be deleterious to the purity of the water supply. 
+will be deleterious to the purity of the water supply.
 2. _(b)_ No person shall pollute or in any manner interfere with the operation
 or maintenance of the water supply system of the Municipality, whether such
 system is included within or without the corporate limits.
@@ -162,8 +162,8 @@ degree.
 the lawful time after service or publication of the notice or resolution is
 made as required by law:
 To fill or drain any lot or land or remove all putrid substances therefrom, or
-remove all obstructions from  culverts, covered  drains or natural 
-watercourses as provided  in Ohio R.C. 715.47.
+remove all obstructions from culverts, covered drains or natural
+watercourses as provided in Ohio R.C. 715.47.
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
 degree.
 
@@ -261,7 +261,7 @@ distribution establishment.
     3. _(3)_ “Litter” includes garbage, trash, waste, rubbish, ashes, cans,
 bottles, wire, paper, cartons, boxes, automobile parts, furniture, glass,
 auxiliary containers, or anything else of an unsightly or unsanitary nature.
-    4. _(4)_ “Litter receptacle” means a dumpster,  trash can, trash bin,
+    4. _(4)_ “Litter receptacle” means a dumpster, trash can, trash bin,
 garbage can, or similar container in which litter is deposited for removal.  
 (ORC 3767.32)
 5. _(e)_ No person shall cause or allow litter to be collected or remain in any
@@ -297,48 +297,48 @@ maintain on the premises in areas where food is consumed out of doors refuse
 and waste containers which are easily accessible to customers and employees.
 Such containers shall be metal, of at least twenty-gallon capacity with a
 tightly fitting cover.  
-(Ord. 1957-420. Passed 12-28-57.) 
+(Ord. 1957-420. Passed 12-28-57.)
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
 degree.
 
 ## 521.11   Junk and junk vehicles
 
 1. _(a)_ Definitions. For the purpose of this section, the following terms are
-defined as follows: 
+defined as follows:
     1. _(1)_ "Person" means any person, firm, partnership, association,
-corporation, company or organization of any kind. 
+corporation, company or organization of any kind.
     2. _(2)_ "Street or highway" means the entire width between the boundary
 lines of every way publicly maintained when any part thereof is open to the use
 of the public for purposes of vehicular travel.
     3. _(3)_ "Property" means discarded articles of all kinds which reasonably
-appear to be discarded or of no intrinsic value. 
+appear to be discarded or of no intrinsic value.
     4. _(4)_ "Junk" means any worn-out, castoff, or discarded article or
 material which is ready for destruction or has been collected or stored for
 salvage or conversion to some other use. Any article or material which,
 unaltered or unchanged and without further reconditioning, can be used for its
-original purpose as readily as when new, shall not be considered junk. 
+original purpose as readily as when new, shall not be considered junk.
     5. _(5)_ "Junk car" means any used vehicle propelled or intended to be
 propelled by power other than human power and which is in an inoperative or a
 partially dismantled condition. Portions of junk cars such as hoods, fenders,
 radiators, rims, motors, etc., not being utilized for the repair of a motor
-vehicle, shall be considered as junk. 
+vehicle, shall be considered as junk.
     6. _(6)_ "Inoperative condition" means a vehicle, as above described,
-incapable of being propelled under its own power . 
+incapable of being propelled under its own power .
     7. _(7)_ "Partially dismantled condition" means a vehicle, as above
 described having some part or parts missing which is or are ordinarily an
-essential component thereof. 
+essential component thereof.
 2. _(b)_ Abandonment of Vehicles. No person shall abandon any vehicle within
 the Municipality and no person shall leave any vehicle at any place within the
 Municipality for such time and under such circumstances as to cause such
-vehicle reasonably to appear to have been abandoned. 
+vehicle reasonably to appear to have been abandoned.
 3. _(c)_ Leaving of Wrecked, Nonoperating Vehicle on Street. No person shall
 leave any partially dismantled, nonoperating wrecked or junked vehicle on any
-street or highway within the Municipality for more than seventy-two hours. 
+street or highway within the Municipality for more than seventy-two hours.
 4. _(d)_ Deposit, Storage, Maintenance or Collection Declared a Public
 Nuisance. Except as herein otherwise provided, the deposit, storage,
 maintenance or collection of junk or junk cars outside of a building or
 buildings is hereby declared to be a public nuisance and offensive to the
-public health, welfare and safety of the residents of this Municipality. 
+public health, welfare and safety of the residents of this Municipality.
 5. _(e)_ Deposit, Storage, Maintenance or Collection Prohibited. No person in
 charge or control of any premises within the Municipality, whether as owner,
 tenant, lessee, occupant or otherwise, shall allow any junk or junk car to

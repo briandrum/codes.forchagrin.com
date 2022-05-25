@@ -6,7 +6,7 @@ chapter_no: 353
 title: "Chapter 353: Parking Meters"
 ---
 
-* [353.01   Authority to designate parking meter areas and establish  metered parking zones](#35301-authority-to-designate-parking-meter-areas-and-establish-metered-parking-zones)
+* [353.01   Authority to designate parking meter areas and establish metered parking zones](#35301-authority-to-designate-parking-meter-areas-and-establish-metered-parking-zones)
 * [353.02   Designation of areas and zones](#35302-designation-of-areas-and-zones)
 * [353.03   Regulation of parking in metered zones](#35303-regulation-of-parking-in-metered-zones)
 * [353.04   Unlawful parking in metered zones](#35304-unlawful-parking-in-metered-zones)
@@ -56,7 +56,7 @@ about fifty feet north of the plaza.
 8. _(h)_ West Washington. South side from Franklin St. to Walnut St.
 9. _(i)_ Walnut Street. East side from Center St. north to the Fire Department
 drive.
-10. _(j)_ Center Street. Both sides from Walnut St. east to Franklin Street. 
+10. _(j)_ Center Street. Both sides from Walnut St. east to Franklin Street.
 11. _(k)_ River Street. South side from Main St. west approximately 150 feet.
 12. _(l)_ West Street. Both sides from River St. north to Orange St.
 13. _(m)_ East Orange Street. North side from about 100 feet east to Main St.
@@ -78,7 +78,7 @@ legal parking is only permitted on such deposit. If such parking meter
 requires the movement of a lever or other device, as well as the deposit of a
 coin, to cause the meter to operate, the person so depositing the coin shall
 immediately so move the lever as to set the meter in operation. The coins
-required to deposit in parking meters shall be set forth on the parking meter. 
+required to deposit in parking meters shall be set forth on the parking meter.
 Notice to the public shall be given by appropriate signs setting forth the
 length of time for which parking is permitted, the hours when payment for
 metered parking is required within the Village and the conditions for parking
@@ -105,7 +105,7 @@ parking meter is installed, without turning the lever on the parking meter as
 far as it will go.
 2. _(b)_ No person shall cause, allow, permit or suffer any vehicle registered
 in his name to be parked over-time or beyond the lawful period of time
-prescribed by the provisions of this chapter as herein provided. 
+prescribed by the provisions of this chapter as herein provided.
 3. _(c)_ No person shall cause, allow, permit or suffer any vehicle owned or
 operated by such person to be parked on any line designating a metered parking
 zone. Any vehicle parked contrary to these provisions shall be deemed to be

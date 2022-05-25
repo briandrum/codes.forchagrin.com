@@ -19,20 +19,18 @@ Table A
 
 ## Cross references
 
-            Rezoning and variance fees - see ADM.
-125.06
-            Building permits and fees - see BLDG. Ch. 1307, 1309
-            Occupancy permit defined - see P. & Z.
-1107.15
+* Rezoning and variance fees - see ADM. 125.06
+* Building permits and fees - see BLDG. Ch. 1307, 1309
+* Occupancy permit defined - see P. & Z. 1107.15
 
 ## 1109.01   Intent
 
-     It is the intent of these regulations to establish procedures which
-require compliance with this Planning and Zoning Code and which also ensure
-equitable and expeditious handling of applications for subdivision approvals,
-zoning certificates, building permits and occupancy permits, as further
-regulated in the Building Code. Specifically, the purposes and relationships of
-these Municipal authorizations are as set forth below:
+It is the intent of these regulations to establish procedures which require
+compliance with this Planning and Zoning Code and which also ensure equitable
+and expeditious handling of applications for subdivision approvals, zoning
+certificates, building permits and occupancy permits, as further regulated in
+the Building Code. Specifically, the purposes and relationships of these
+Municipal authorizations are as set forth below:
 
 1. _(a)_ Subdivision Approvals. Subdivision approvals are required in order to
 certify that proposed lots comply with the Planning and Zoning Code and other
@@ -52,12 +50,11 @@ Code, Building Code and other applicable municipal ordinances and requirements.
 
 ## 1109.02   Applicability
 
-     Subdivision approvals, zoning certificates, building permits and occupancy
+Subdivision approvals, zoning certificates, building permits and occupancy
 permits shall be required for activities listed below. No such activity nor
-grading and excavation in preparation for such activity shall be commenced
-prior to the granting of the required authorization. Questions regarding
-applicability should be directed to the Administrator prior to commencement of
-activity.
+grading and excavation in preparation for such activity shall be commenced prior
+to the granting of the required authorization. Questions regarding applicability
+should be directed to the Administrator prior to commencement of activity.
 
 1. _(a)_ Subdivision Approval Required. Subdivision of land to create one or
 more additional recorded lots or to alter lot lines.
@@ -80,17 +77,17 @@ ownership or termination of a vacancy of six months or more.
 
 ## 1109.03   Conditions for issuance of certificates and permits
 
-     Certificates and permits shall be issued only for applications, work and
-uses in full compliance with the Planning and Zoning Code, Building Code and
-other applicable municipal ordinances and requirements. Furthermore, permits
-and certificates shall be issued in accordance with the following conditions:
+Certificates and permits shall be issued only for applications, work and uses in
+full compliance with the Planning and Zoning Code, Building Code and other
+applicable municipal ordinances and requirements. Furthermore, permits and
+certificates shall be issued in accordance with the following conditions:
 
 1. _(a)_ Actions by Municipality. No zoning certificate, building permit or
 occupancy permit shall be issued prior to granting of required variances by the
 Board of Zoning Appeals (see Chapter 1111 ), determinations of similar use, as applicable, by the Planning and
 Zoning Commission (see Chapter 1147), and approvals by the Planning and Zoning Commission, Architectural Board
 of Review and other municipal officers as required below and by other
-provisions of the Codified Ordinances. 
+provisions of the Codified Ordinances.
 2. _(b)_ Actions by Applicant. No zoning certificate, building permit or
 occupancy permit shall be issued for a building on a lot which is not located
 in a duly recorded subdivision, is not located on a public or private street,
@@ -100,12 +97,12 @@ or acceptably guaranteed.
 
 ## 1109.04   Application requirements
 
-     Applications for subdivision approvals, Zoning Certificates or Occupancy
-Permits shall be submitted to the Administrator in accordance with the
-following regulations. Each application shall be signed by the applicant and
-submitted along with two paper copies and an electronic copy, unless otherwise
-required by the Administrator. Each application for a Zoning Certificate shall
-contain the elements listed below.
+Applications for subdivision approvals, Zoning Certificates or Occupancy Permits
+shall be submitted to the Administrator in accordance with the following
+regulations. Each application shall be signed by the applicant and submitted
+along with two paper copies and an electronic copy, unless otherwise required by
+the Administrator. Each application for a Zoning Certificate shall contain the
+elements listed below.
 
 1. _(a)_ Narrative Information.
     1. _(1)_ Name, mailing address electronic mail address and telephone number
@@ -120,16 +117,16 @@ coverage, and floor area by type of use.
 regulations as required in Section 1144.03.
 2. _(b)_ Site Plans. Plans drawn at a scale of one-inch equals forty feet, or
 as otherwise required by the Administrator, indicating the following
-information in a clear and legible manner. 
+information in a clear and legible manner.
     1. _(1)_ Existing and proposed property lines of the subject parcel(s),
-documented by a professional survey, with all dimensions indicated. 
+documented by a professional survey, with all dimensions indicated.
     2. _(2)_ Locations, heights, finished grades, and first floor elevations of
 existing main buildings on contiguous parcels.
     3. _(3)_ Contiguous streets, with the distance to the nearest intersecting
 street indicated if not shown. Existing topography showing contours at
 intervals of not less than two feet.
     4. _(4)_ Proposed topography, showing contours at intervals of not less than
-two feet. 
+two feet.
     5. _(5)_ Existing buildings by type of use, parking spaces, loading spaces,
 roads, drives and walkways, showing representative dimensions and locations
 based on a professional survey.
@@ -152,7 +149,7 @@ permits in Part Thirteen - Building Code.
 
 ## 1109.05   Review and approval procedures
 
-     The following procedures are established to govern the review and approval
+The following procedures are established to govern the review and approval
 process regarding applications for subdivision approvals, zoning certificates,
 building permits and occupancy permits.
 
@@ -198,7 +195,7 @@ of Review may establish such rules as may be necessary for the effective
 proceeding of any meeting.
         4. _(D)_ Review Process. Except for those applications subject to
 Concurrent Review as set forth herein, the review process for an application
-shall be in two phases: the preliminary plan review and the final plan review. 
+shall be in two phases: the preliminary plan review and the final plan review.
 However, the applicant is also encouraged to meet with the Administrator or
 Architectural Board of Review prior to submitting an application for
 preliminary plan review. The purpose of this meeting would be to discuss early
@@ -219,7 +216,7 @@ the proposed design.
 with modification or disapprove the preliminary plan. If the Architectural
 Board of Review does not grant preliminary approval, it shall verbally advise
 the applicant of the reasons preliminary approval was not granted or it may
-specify modification which would make the preliminary plan acceptable. 
+specify modification which would make the preliminary plan acceptable.
 Approval of the preliminary plan shall be conditioned upon compliance with all
 other applicable statutes and ordinances of the Municipality. Preliminary plan
 approval shall be obtained, which may be conditioned upon obtaining any needed
@@ -244,17 +241,17 @@ that such submission satisfies the submittal requirements of this chapter, and
 no variances from the Board of Zoning Appeals or modifications from the
 Planning and Zoning Commission will be requested for the project.
         5. _(E)_ Approval/Disapproval. The Architectural Board of Review shall
-either approve, approve with modification or disapprove the final  plan in
+either approve, approve with modification or disapprove the final plan in
 accordance with the review and approval procedures set forth in Section 1109.05
 and the standards of Chapters
 1115 and
 1146, as applicable. In conjunction with a motion on the final plan, the
 Architectural Board of Review shall state the reasons that support the
 decision.
-    2. _(2)_ Planning and Zoning Commission. 
+    2. _(2)_ Planning and Zoning Commission.
         1. _(A)_ Subdivisions. The Planning and Zoning Commission shall approve or
 disapprove all subdivision applications based on the Subdivision Regulations
-and Improvement Standards in Chapter 1161 of the Codified Ordinances.   
+and Improvement Standards in Chapter 1161 of the Codified Ordinances.  
         2. _(B)_ Zoning Certificates. The Planning and Zoning Commission shall
 also approve or disapprove Zoning Certificate applications which propose an
 action as follows:
@@ -274,7 +271,7 @@ application request. Applicable sections of the code where discretion is given
 to the Planning and Zoning Commission and meeting notice is required are:
             1. _(1)_ Section 1125.03(l) Modifications to front yard setback.
             2. _(2)_ Section 1125.04(b)(5) Driveways on adjoining lots.
-            3. _(3)_ Section 1127.07(c) Area, yard and setback  requirements.
+            3. _(3)_ Section 1127.07(c) Area, yard and setback requirements.
             4. _(4)_ Section 1129.07(c) Area, yard and setback requirements.
             5. _(5)_ Chapter 1130, Residential Mixed Use Development plans.
             6. _(6)_ Section 1131.07(e) Area, yard and setback requirements.
@@ -295,7 +292,7 @@ Systems in accordance with Chapter 1153.
 approval applications proposing the creation of five or more additional lots
 and for any application which proposes the widening, extension or opening of
 public or private roads (with the exception of a single access driveway serving
-a  one or two-family  dwelling).Council shall not consider any application that
+a one or two-family dwelling).Council shall not consider any application that
 has been disapproved by the Architectural Board of Review, Planning and Zoning
 Commission or Municipal Engineer, where such approval is required, except as
 referred to in Chapter 1111.
@@ -363,9 +360,9 @@ Council or any board or commission of the Municipality.
 
 ## 1109.06   Expiration and renewal of certificates and permits
 
-     In order to ensure that the intent of Municipal authorizations is not
-altered by changing circumstances, the following regulations are established
-governing the expiration of certificates and permits.
+In order to ensure that the intent of Municipal authorizations is not altered by
+changing circumstances, the following regulations are established governing the
+expiration of certificates and permits.
 
 1. _(a)_ Zoning Certificates. Zoning Certificates are issued as a prerequisite
 to issuance of a building permit or occupancy permit, as required. If neither
@@ -377,14 +374,15 @@ year and may be renewed while construction is diligently pursued.
 3. _(c)_ Occupancy Permits. Occupancy permits shall be issued for a period of
 one year for nonresidential uses and for an indefinite period of time for
 residential uses.
-       Each nonresidential occupancy permit shall be renewed by the occupant to
-become effective July 1, of each year. A renewal fee may be charged to cover
-filing and inspection costs.  
+
+Each nonresidential occupancy permit shall be renewed by the occupant to become
+effective July 1, of each year. A renewal fee may be charged to cover filing and
+inspection costs.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.07   Enforcement and penalty
 
-     The following regulations are established to ensure adequate and equitable
+The following regulations are established to ensure adequate and equitable
 enforcement of the provisions of this Planning and Zoning Code.
 
 1. _(a)_ Inspections.
@@ -425,22 +423,22 @@ aesthetics as a result of the violation;
 orders to comply and previous enforcement action;
         4. _(D)_ Good faith efforts of the person to remedy the violation; and
         5. _(E)_ The duration of the violation before a notice and order to comply
-was served pursuant to this section 
-        6. _(F)_ Penalty. 
+was served pursuant to this section
+        6. _(F)_ Penalty.
             1. _(1)_ Any person who is responsible for a violation of this Planning
 and Zoning Code, or any person who fails to comply with an order made by the
 Administrator in enforcing this Code, is guilty of a misdemeanor of the third
-degree. 
+degree.
             2. _(2)_ Each day such violation is committed or continued shall
 constitute a separate offense, commencing one day after the Administrator’s
 order is served on the owner, his employee, tenant or other agent or any other
-person who is responsible for the violation. 
+person who is responsible for the violation.
             3. _(3)_ Fines shall not be levied while work in correcting such
 violation is pursued diligently.
             4. _(4)_ If the Administrator determines that correction of a violation
 is not feasible, the Administrator shall issue a citation for each offense and
 require any remedies necessary to mitigate adverse impacts of the violation, or
-complete elimination of the use. 
+complete elimination of the use.
         7. _(G)_ Records.
             1. _(1)_ The Administrator shall maintain records of all subdivision
 approval, zoning certificate, building permit and occupancy permit applications
@@ -472,7 +470,7 @@ application. Such expenses shall be approved for payment by the Administrator.
 Upon final disposition of the application, any monetary balance remaining shall
 be returned to the applicant.  
 (Ord. 2019-39. Passed 8-13-19.)
-  
+ 
 
 ## 1109.09   Public hearing notifications and hearings
 

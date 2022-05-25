@@ -17,19 +17,14 @@ title: "Chapter 1146: Historic Preservation Regulations"
 
 ## Cross references
 
-         Architectural Board of Review - see CHTR. Art. VII,
- Sec.  9; ADM. Ch. 
-137
-       Plans and drawings - see BLDG. Ch. 
-1305
-         Permits - see BLDG. Ch. 
-1307
-         Moving buildings - see BLDG. Ch. 
-1337
+* Architectural Board of Review - see CHTR. Art. VII, Sec. 9; ADM. Ch. 137
+* Plans and drawings - see BLDG. Ch. 1305
+* Permits - see BLDG. Ch. 1307
+* Moving buildings - see BLDG. Ch. 1337
 
 ## 1146.01   Intent
 
-     In order to maintain and enhance the distinctive historic character of the
+In order to maintain and enhance the distinctive historic character of the
 Municipality these regulations are established to achieve, among others, the
 following objectives:
 
@@ -61,16 +56,16 @@ building or a portion thereof.
 
 ## 1146.03   Administrative procedures
 
-     The following procedures are established to govern the processing of
+The following procedures are established to govern the processing of
 applications for building permits and other municipal authorizations in
 accordance with the regulations of this chapter.
 
 1. _(a)_ Mandatory Referral.
     1. _(1)_ As directed by Section 1109.05(b)(1), all requests for building permits shall be referred to the
-Architectural Board of Review for a determination of compliance with  this
+Architectural Board of Review for a determination of compliance with this
 Chapter. The Architectural Board of Review may obtain the assistance of an
 expert in historic architecture to assist it in determining whether a proposed
-project satisfies the requirements of this chapter. 
+project satisfies the requirements of this chapter.
     2. _(2)_ All requests for demolition of a structure or portion of a
 structure which is more than fifty (50) years old shall be accompanied by a
 deposit of five hundred dollars ($500.00). All requests to make an addition to
@@ -82,23 +77,23 @@ to whether or not the structure is a Historically Significant Property. The
 Architectural Board of Review shall apply the standards set forth in Section 1146.06 hereof to determine whether or not demolition is permitted.
         1. _(A)_ Advice of Expert on Historic Significance.  When an applicant
 requests a permit to demolish a structure or portion thereof that is more than
-fifty (50) years old, the Administrator  shall engage the assistance of an
+fifty (50) years old, the Administrator shall engage the assistance of an
 expert in the field of the history of architecture, who shall make a
 recommendation to the Architectural Board of Review regarding whether or not
-the structure is an Historically Significant Property, as defined by Section 1146.05  of this Chapter. The expert shall be paid out of the deposit made
+the structure is an Historically Significant Property, as defined by Section 1146.05 of this Chapter. The expert shall be paid out of the deposit made
 pursuant to paragraph (a)(2) hereof, and the remaining funds from such deposit,
 if any, shall be returned to the applicant.
         2. _(B)_ Advice of Expert on Economic Feasibility. If, in reviewing a
 request for demolition, a majority of the Architectural Board of Review, by
 motion, requests the advice of an expert to assist in the analysis of
 determining whether or not the repair, rehabilitation or restoration of an
-Historically Significant Property is Economically Feasible, the Administrator 
-shall determine whether the  Municipality  should engage an expert at
-Municipality  expense, to provide such advice.
+Historically Significant Property is Economically Feasible, the Administrator
+shall determine whether the Municipality should engage an expert at
+Municipality expense, to provide such advice.
         3. _(C)_ Advice of Expert on Additions and Alterations. When an applicant
 requests a permit to add to, or in any material way (other than painting) alter
 the exterior of, any structure that is more than fifty (50) but less than one
-hundred (100) years old, the Administrator  shall engage the assistance of an
+hundred (100) years old, the Administrator shall engage the assistance of an
 expert in the field of the history of architecture, who shall make a
 recommendation to the Architectural Board of Review regarding whether or not
 the structure is a Historically Significant Property, as defined by Section 1146.05 of this Chapter, and whether the proposed addition or alteration is
@@ -166,7 +161,7 @@ existing buildings, signs and structures;
     1. _(1)_ Preservation of features.  The distinguishing original qualities or
 character of a Historically Significant Property shall not be destroyed.
 Removal or alteration of historic material or distinctive architectural
-features shall be avoided. 
+features shall be avoided.
     2. _(2)_ Replacement of features. Consistent with the concept of
 responsible property maintenance, deteriorated or damaged architectural
 features shall be repaired rather than replaced. In the event that the
@@ -204,7 +199,7 @@ convincing evidence; provided, that any structure which is more than one
 hundred (100) years old shall be presumed to be an Historically Significant
 Property, and any party asserting that such structure is not a Historically
 Significant Property shall bear the burden of proving the same by clear and
-convincing  evidence.
+convincing evidence.
     2. _(2)_ If new construction is proposed, the design of the new construction
 shall be permitted unless it is proven, by a preponderance of the evidence,
 that the new building is not compatible with any structure more than fifty (50)
@@ -230,7 +225,7 @@ As used in this chapter, the following terms shall have the meaning given
 herein:
 
 1. _(a)_ A "Historically Significant Property" means (i) any structure which is
-more than one  hundred (100) years old, or, (ii) any structure that is fifty
+more than one hundred (100) years old, or, (ii) any structure that is fifty
 (50) years old and:
     1. _(1)_ Is listed individually in the National Register of Historic Places
 (a listing maintained by the U.S. Department of Interior); or preliminarily
@@ -261,11 +256,11 @@ Historically Significant Property.
 pursuant to Section 1146.04 means the potential for one property, by virtue of its location, to
 materially and adversely affect an Historically Significant Property.
 4. _(d)_ "Economically Feasible" means that the costs of the necessary repair
-and  rehabilitation  of a Historically Significant Property, when combined with
-the market value  of the land upon which the Historically Significant  Property
-resides, do not exceed the  market value of the real property after the
-necessary repair and  rehabilitation  of the Historically Significant Property
-has been completed,  based on the reasonable expectations in the marketplace
+and rehabilitation of a Historically Significant Property, when combined with
+the market value of the land upon which the Historically Significant Property
+resides, do not exceed the market value of the real property after the
+necessary repair and rehabilitation of the Historically Significant Property
+has been completed, based on the reasonable expectations in the marketplace
 for comparably aged and constructed homes by an amount beyond what a willing
 and reasonably prudent buyer would agree to pay for a Historically Significant
 Property in that area of the Municipality.
@@ -293,7 +288,7 @@ appearance or configuration, which may have changed over the years.
 9. _(i)_ "Reconstruction" means the building of a replica of a structure, or
 portion thereof, that has been destroyed, based upon supporting visual and
 documentary evidence and, possibly surviving fragments. This technique is
-rarely used and is usually confined to archaeological sites. 
+rarely used and is usually confined to archaeological sites.
 10. _(j)_ "Master" means a figure of generally recognized greatness in a field,
 a known craftsman of consummate skill, or an anonymous craftsman whose work is
 distinguishable from others by its characteristic style and quality. The
@@ -310,11 +305,11 @@ conditions exist:
     1. _(1)_ Demolition has been ordered by the Administrator for public safety
 because of an unsafe or dangerous condition that constitutes an emergency.
     2. _(2)_ The owner demonstrates that the Historically Significant Property
-is either not habitable or otherwise not safe; or the Repair or Rehabilitation 
+is either not habitable or otherwise not safe; or the Repair or Rehabilitation
 of the structure is not Economically Feasible and the property’s condition did
 not result from damage which has been purposefully caused to the property, or
-allowed to occur due to the  neglect of the owner or  previous owners with the
-likely  intention of making the Repair or  Rehabilitation of the structure not
+allowed to occur due to the neglect of the owner or previous owners with the
+likely intention of making the Repair or Rehabilitation of the structure not
 Economically Feasible. No permit to demolish will be permitted under this
 paragraph (a)(2) or (3) hereof unless the owner or owner’s representative
 obtains final approval from the Architectural Board of Review for the structure

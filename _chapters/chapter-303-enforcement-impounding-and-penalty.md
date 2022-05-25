@@ -37,7 +37,7 @@ title: "Chapter 303: Enforcement, Impounding and Penalty"
 ## 303.01   Compliance with lawful order of police officer; fleeing
 
 1. _(a)_ No person shall fail to comply with any lawful order or direction of
-any police officer invested with authority to direct, control or regulate 
+any police officer invested with authority to direct, control or regulate
 traffic.
 2. _(b)_ No person shall operate a motor vehicle so as willfully to elude or
 flee a police officer after receiving a visible or audible signal from a police
@@ -106,7 +106,7 @@ key shall be returned to the owner of the motor vehicle upon presentation of
 proof of ownership.  
 (ORC 4549.05)
 
-## 303.04   Road workers, motor vehicles and equipment  excepted
+## 303.04   Road workers, motor vehicles and equipment excepted
 
 1. _(a)_ The provisions of this Traffic Code do not apply to persons, teams,
 motor vehicles, and other equipment while actually engaged in work upon the
@@ -183,7 +183,7 @@ inapplicable.
 
 1. _(a)_ No person, unless otherwise directed by a police officer, shall:
     1. _(1)_ As a pedestrian, occupy any space within the limits of the right-
-of-way of a freeway, except:  in a rest area; on a facility that is separated
+of-way of a freeway, except: in a rest area; on a facility that is separated
 from the roadway and shoulders of the freeway and is designed and appropriately
 marked for pedestrian use; in the performance of public works or official
 duties; as a result of an emergency caused by an accident or breakdown of a
@@ -195,7 +195,7 @@ and shoulders of the freeway and is designed and appropriately marked for
 bicycle use; an electric bicycle; a bicycle with motor attached; a motor driven
 cycle with a motor which produces not to exceed five brake horsepower; an
 agricultural tractor; farm machinery; except in the performance of public works
-or official duties. 
+or official duties.
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one
@@ -261,7 +261,7 @@ without a lawful license or while his license has been suspended or revoked and
 is located upon a public street or other property open to the public for
 purposes of vehicular travel or parking.
     10. _(10)_ When any vehicle is found for which two or more citation tags for
-violations of this Traffic Code have been issued and the  owner or operator
+violations of this Traffic Code have been issued and the owner or operator
 thereof has failed to respond to such citation tags as lawfully required, and
 is located upon a public street or other property open to the public for
 purposes of vehicular travel or parking.
@@ -317,7 +317,7 @@ vehicle only in accordance with subsection (d) of this section.
     4. _(4)_ As used in this section "private residential property" means
 private property on which is located one or more structures that are used as a
 home, residence or sleeping place by one or more persons, if no more than three
-separate households are maintained in the structure or structures.  "Private
+separate households are maintained in the structure or structures. "Private
 residential property" does not include any private property on which is located
 one or more structures that are used as a home, residence or sleeping place by
 two or more persons, if more than three separate households are maintained in
@@ -353,7 +353,7 @@ section. The record shall include an entry for each such motor vehicle that
 identifies the motor vehicle’s license number, make, model and color, the
 location from which it was removed, the date and time of the removal, the
 telephone number of the person from whom it may be recovered, and the address
-of the place to which it has been taken and from which it may be recovered. 
+of the place to which it has been taken and from which it may be recovered.
 The Chief of Police shall provide any information in the record that pertains
 to a particular motor vehicle to any person who, either in person or pursuant
 to a telephone call, identifies self as the owner or operator of the motor
@@ -427,7 +427,7 @@ information:
         1. _(A)_ A statement that the property is a tow-away zone;
         2. _(B)_ A description of persons authorized to park on the property. If
 the property is a residential property, the owner of the private property may
-include on the sign  a statement that only tenants and guests may park in the
+include on the sign a statement that only tenants and guests may park in the
 private tow-away zone, subject to the terms of the property owner. If the
 property is a commercial property, the owner of the private property may
 include on the sign a statement that only customers may park in the private
@@ -473,7 +473,7 @@ vehicle that has been removed under this section, subject to subsection (c) of
 this section, may recover the vehicle in accordance with subsection (g) of this
 section.
     2. _(2)_ If a municipal corporation requires tow trucks and tow truck
-operators to be  licensed, no owner of a private property located within the
+operators to be licensed, no owner of a private property located within the
 municipal corporation shall cause the removal and storage of any vehicle
 pursuant to subsection (b) of this section by an unlicensed tow truck or
 unlicensed tow truck operator.
@@ -490,10 +490,10 @@ pay a fee of not more than one-half of the fee for the removal of the vehicle
 established by the Public Service Commission in rules adopted under Ohio R.C.
 4921.25, in order to obtain release of the vehicle. That fee may be paid by
 use of a major credit card unless the towing service uses a mobile credit card
-processor and mobile service is not available at the time of the transaction. 
+processor and mobile service is not available at the time of the transaction.
 Upon payment of that fee, the towing service shall give the vehicle owner or
 operator a receipt showing both the full amount normally assessed and the
-actual amount received and shall release the vehicle to the owner or operator. 
+actual amount received and shall release the vehicle to the owner or operator.
 Upon its release the owner or operator immediately shall move the vehicle so
 that the vehicle is not parked on the private property established as a private
 tow-away zone without the consent of the owner of the private property or in
@@ -670,13 +670,14 @@ this Traffic Code shall be imprisoned for a definite term or fined, or both,
 which term of imprisonment and fine shall be fixed by the court as provided in
 this section.
 
-Classification of Maximum Term    Maximum Fine
-Misdemeanor       of Imprisonment
-First degree      180 days        $1,000.00
-Second degree     90 days             750.00
-Third degree      60 days             500.00
-Fourth degree     30 days             250.00
-Minor             No imprisonment     150.00  
+| Classification of Misdemeanor Maximum Term of Imprisonment |   Maximum Fine |
+|-----------------------------------------------------------:|---------------:|
+| First degree                                      180 days |      $1,000.00 |
+| Second degree                                      90 days |         750.00 |
+| Third degree                                       60 days |         500.00 |
+| Fourth degree                                      30 days |         250.00 |
+| Minor                                      No imprisonment |         150.00 |
+
 (ORC 2929.24; 2929.28)
 
 ### 303.991   Committing an offense while distracted penalty

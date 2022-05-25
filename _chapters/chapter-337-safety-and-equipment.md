@@ -106,13 +106,13 @@ prosecution of a person for a violation of that subsection.
 at least two headlights with at least one near each side of the front of the
 motor vehicle.
 2. _(b)_ Every motorcycle shall be equipped with at least one and not more than
-two headlights. 
+two headlights.
 3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.04)
 
 ## 337.04   Tail light; illumination of rear license plate
 
-1. _(a)_  Every motor vehicle, trailer, semitrailer, pole trailer or vehicle
+1. _(a)_ Every motor vehicle, trailer, semitrailer, pole trailer or vehicle
 which is being drawn at the end of a train of vehicles shall be equipped with
 at least one tail light mounted on the rear which, when lighted, shall emit a
 red light visible from a distance of 500 feet to the rear, provided that in the
@@ -125,7 +125,7 @@ fifty feet to the rear. Any tail light, together with any separate light for
 illuminating the rear registration plate, shall be so wired as to be lighted
 whenever the headlights or auxiliary driving lights are lighted, except where
 separate lighting systems are provided for trailers for the purpose of
-illuminating such registration plate. 
+illuminating such registration plate.
 3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.05)
 
@@ -163,7 +163,7 @@ another vehicle of the combination need not be lighted, but this section does
 not affect the requirement that lighted clearance lights be displayed on the
 front of the foremost vehicle required to have clearance lights or that all
 lights required on the rear of the rearmost vehicle of any combination shall be
-lighted. 
+lighted.
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor on a
 first offense; on a second offense within one year after the first offense, the
 person is guilty of a misdemeanor of the fourth degree; on each subsequent
@@ -192,7 +192,7 @@ exhibit a white or amber light on the roadway side visible from a distance of
 500 feet to the front of such vehicle, and a red light visible from a distance
 of 500 feet to the rear. No lights need be displayed upon any such vehicle
 when it is stopped or parked where there is sufficient light to reveal any
-person or substantial object within a distance of 500 feet upon such street. 
+person or substantial object within a distance of 500 feet upon such street.
 Any lighted headlights upon a parked vehicle shall be depressed or dimmed.  
 (ORC 4513.10)
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
@@ -290,7 +290,7 @@ Standard ANSI/ASAE S584 JAN2005, agricultural equipment; speed identification
 symbol (SIS) when the unit is operated upon a street or highway, irrespective
 of the speed at which the unit is operated on the street or highway. The speed
 identification symbol shall indicate the maximum speed in miles per hour at
-which the unit of farm machinery is designed by its manufacturer to operate. 
+which the unit of farm machinery is designed by its manufacturer to operate.
 The display of the speed identification symbol shall be in accordance with the
 standard prescribed in this subsection.  
 If an agricultural tractor that is designed by its manufacturer to operate
@@ -310,7 +310,7 @@ manufacturer designed the agricultural tractor to operate.
 used exclusively to transport a boat between a place of storage and a marina,
 or in and around a marina, when drawn or towed on a street or highway for a
 distance of no more than ten miles and at a speed of twenty-five miles per hour
-or less. 
+or less.
 10. _(j)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.11)
 
@@ -358,7 +358,7 @@ directed high enough and of sufficient intensity to reveal persons, vehicles
 and substantial objects at a safe distance in advance of the vehicle, except
 that upon approaching an oncoming vehicle, the lights or beams shall be so
 aimed that the glaring rays are not projected into the eyes of the oncoming
-driver. 
+driver.
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.15)
 
@@ -368,7 +368,7 @@ driver. 
 Section 337.02 when it is equipped with two lighted lights upon the front thereof
 capable of revealing persons and substantial objects seventy-five feet ahead in
 lieu of lights required in Section 337.13, provided that such vehicle shall not be operated at a speed in excess
-of twenty miles per hour. 
+of twenty miles per hour.
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.16)
 
@@ -417,13 +417,13 @@ when on duty, no person shall operate, move or park upon, or permit to stand
 within the right of way of any street or highway any vehicle or equipment that
 is equipped with, or upon which is mounted, and displaying a flashing blue or a
 flashing combination blue and white light, or an oscillating or rotating blue
-light, or a combination blue and white oscillating or rotating light. 
+light, or a combination blue and white oscillating or rotating light.
 5. _(e)_ This section does not prohibit the use of warning lights required by
 law or the simultaneous flashing of turn signals on disabled vehicles or on
 vehicles being operated in unfavorable atmospheric conditions in order to
 enhance their visibility. This section also does not prohibit the simultaneous
 flashing of turn signals or warning lights either on farm machinery or vehicles
-escorting farm machinery, when used on a street or highway. 
+escorting farm machinery, when used on a street or highway.
 6. _(f)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.17)
 
@@ -431,7 +431,7 @@ escorting farm machinery, when used on a street or highway. 
 
 1. _(a)_ No person shall use any lights mentioned in Section 337.02 to 337.16, inclusive, upon any motor vehicle, trailer or semitrailer unless the
 lights are equipped, mounted and adjusted as to focus and aim in accordance
-with State regulations. 
+with State regulations.
 2. _(b)_ The headlights on any motor vehicle shall comply with the headlamp
 color requirements contained in federal motor vehicle safety standard number
 108, 49 C.F.R. 571.108. No person shall operate a motor vehicle in violation
@@ -484,7 +484,7 @@ employed.
 motorized bicycles, and except trailers and semitrailers of a gross weight of
 less than 2,000 pounds, and pole trailers, shall be equipped with parking
 brakes adequate to hold the vehicle on any grade on which it is operated, under
-all conditions of loading, on a surface free from snow, ice or loose material. 
+all conditions of loading, on a surface free from snow, ice or loose material.
 The parking brakes shall be capable of being applied in conformance with the
 foregoing requirements by the driver’s muscular effort or by spring action or
 by equivalent means. Their operation may be assisted by the service brakes or
@@ -555,7 +555,7 @@ smoke or gas, or so equipped as to permit oil or any other chemical to flow
 into or upon the exhaust pipe or muffler of such vehicle, or equipped in any
 other way to produce or emit smoke or dangerous or annoying gases from any
 portion of such vehicle, other than the ordinary gases emitted by the exhaust
-of an internal combustion engine under normal operation. 
+of an internal combustion engine under normal operation.
 3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.22)
 
@@ -566,7 +566,7 @@ located as to reflect to the operator a view of the street to the rear of such
 vehicle or motorcycle. Operators of vehicles and motorcycles shall have a
 clear and unobstructed view to the front and to both sides of their vehicles or
 motorcycles and shall have a clear view to the rear of their vehicles or
-motorcycles by mirror. 
+motorcycles by mirror.
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.23)
 
@@ -640,7 +640,7 @@ constructed or installed so as to provide adequate and reliable illumination
 and shall conform to the appropriate rules and regulations established under
 Ohio R.C. 4513.19.  
 Historical motor vehicles as defined in Ohio R.C. 4503.181, not originally
-manufactured with stop lights, are not subject to this section. 
+manufactured with stop lights, are not subject to this section.
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.071)
 
@@ -806,7 +806,7 @@ required by Section 337.26 to be secured in a child restraint device or booster 
     2. _(2)_ Subsection (b)(1) hereof does not apply to a person who is an
 employee of the United States Postal Service or of a newspaper home delivery
 service, during any period in which the person is engaged in the operation of
-an automobile to deliver mail or newspapers to addressees. 
+an automobile to deliver mail or newspapers to addressees.
     3. _(3)_ Subsections (b)(1) and (3) hereof do not apply to a person who has
 an affidavit signed by a physician licensed to practice in this State under
 Ohio R.C. Chapter 4731 or a chiropractor licensed to practice in this State
@@ -982,7 +982,7 @@ for such use; and
     4. _(4)_ The manufacturer’s tinting or glazing of motor vehicle windows or
 windshields that is otherwise in compliance with or permitted by "Federal Motor
 Vehicle Safety Standard Number 205" (FMVSS 205) in effect at the time of the
-manufacture of the motor vehicle as provided in subsection (a) hereof. 
+manufacture of the motor vehicle as provided in subsection (a) hereof.
 “Federal Motor Vehicle Safety Standard Number 205" (FMVSS 205), Code of Federal
 Regulations, Title 49, Part 571, can be obtained online at web site http://
 www.gpo.gov.  
@@ -1118,7 +1118,7 @@ been modified or altered from the original manufacturer’s design in order to
 conform with the maximum bumper requirements of this section, the bumper height
 shall be measured from a level surface to the bottom of the vehicle frame rail
 at the most forward and rearward points of the frame rail. Frame rail height
-if bumper modified or altered: 
+if bumper modified or altered:
 
                                Front (inches) Rear (inches)
 Passenger Vehicles             22             22
@@ -1150,6 +1150,6 @@ equipped with electrical or mechanical directional signals.
 capable of clearly indicating an intention to turn either to the right or to
 the left and which shall be visible from both the front and rear.
 3. _(c)_ All mechanical signal devices shall be self-illuminating devices when
-in use at the times mentioned in Section 337.02. 
+in use at the times mentioned in Section 337.02.
 4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.261)

@@ -140,7 +140,7 @@ this section also shall impose a suspension of the offender’s driver’s licen
 commercial driver’s license, temporary instruction permit, probationary
 license, or nonresident operating privilege from the range specified in
 division (B) of Ohio R.C. 4510.02 that is equivalent in length to the
-suspension required for a violation of Ohio R.C.  2903.06 or division (A) or
+suspension required for a violation of Ohio R.C. 2903.06 or division (A) or
 (B) of Ohio R.C. 4511.19 under similar circumstances.  
 (ORC 4510.07)
 
@@ -204,7 +204,7 @@ misdemeanor of the first degree, and the court shall sentence the offender as
 provided in subsection (c) hereof. If the assault was committed under the
 circumstances provided in subsection (c)(2), (3), (4), (5), (6), (7), (8) or
 (9) hereof, assault is a felony and shall be prosecuted under appropriate State
-law. 
+law.
     2. _(2)_ Except as otherwise provided in this subsection, if the offense is
 committed by a caretaker against a functionally impaired person under the
 caretaker’s care.
@@ -313,7 +313,7 @@ division (G) of Ohio R.C. 2929.24.
     3. _(3)_ “Emergency medical service” has the same meaning as in Ohio R.C.
 4765.01.
     4. _(4)_ “Local correctional facility” means a county, multicounty,
-municipal, municipal-county  or multicounty-municipal jail or workhouse. A
+municipal, municipal-county or multicounty-municipal jail or workhouse. A
 minimum security jail established under Ohio R.C. 341.23 or 753.21, or another
 county, multicounty, municipal, municipal-county, or multicounty- municipal
 facility used for the custody of persons arrested for any crime or delinquent
@@ -413,14 +413,14 @@ misdemeanor of the third degree.
 
 1. _(a)_ No person shall knowingly cause another to believe that the offender
 will cause serious physical harm to the person or property of the other person,
-the other person’s unborn, or a member of the other person’s immediate family. 
+the other person’s unborn, or a member of the other person’s immediate family.
 In addition to any other basis for the other person’s belief that the offender
 will cause serious physical harm to the person or property of the other person,
 the other person’s unborn, or a member of the other person’s immediate family,
 the other person’s belief may be based on words or conduct of the offender that
 are directed at or identify a corporation, association or other organization
 that employs the other person or to which the other person belongs.
-2. _(b)_ Whoever violates this section is guilty of aggravated menacing. 
+2. _(b)_ Whoever violates this section is guilty of aggravated menacing.
 Except as otherwise provided in this subsection (b), aggravated menacing is a
 misdemeanor of the first degree. If the victim of the offense is an officer or
 employee of a public children services agency or a private child placing agency
@@ -431,7 +431,7 @@ violence, the victim of that prior offense was an officer or employee of a
 public children services agency or private child placing agency, and that prior
 offense related to the officer’s or employee’s performance or anticipated
 performance of official responsibilities or duties, aggravated menacing is a
-felony and shall be prosecuted under appropriate State law. 
+felony and shall be prosecuted under appropriate State law.
 3. _(c)_ As used in this section, “organization” includes an entity that is a
 governmental employer.  
 (ORC 2903.21)
@@ -486,7 +486,7 @@ person.
         6. _(F)_ While committing the offense under subsection (a)(1) of this
 section or a violation of subsection (a)(3) of this section is based on conduct
 in violation of subsection (a)(1) of this section, the offender had a deadly
-weapon on or about the offender’s person or under the offender’s control. 
+weapon on or about the offender’s person or under the offender’s control.
 Subsection (b)(2)F. of this section does not apply in determining the penalty
 for a violation of subsection (a)(2) of this section or a violation of
 subsection (a)(3) of this section based on conduct in violation of subsection
@@ -732,7 +732,7 @@ another of the other person’s liberty.
 2. _(b)_ No person, without privilege to do so and with a sexual motivation,
 shall knowingly restrain another of the other person’s liberty.
 3. _(c)_ Whoever violates this section is guilty of unlawful restraint, a
-misdemeanor of the third degree. 
+misdemeanor of the third degree.
 4. _(d)_ As used in this section, “sexual motivation” has the same meaning as
 in Ohio R.C. 2971.01.  
 (ORC 2905.03)
@@ -912,7 +912,7 @@ the scope of the person’s employment in that capacity or the person’s
 contractual authority in that capacity.
 7. _(g)_ As used in this section:
     1. _(1)_ “Economic harm” means all direct, incidental, and consequential
-pecuniary harm suffered by a victim as a result of criminal conduct.  “Economic
+pecuniary harm suffered by a victim as a result of criminal conduct. “Economic
 harm” includes, but is not limited to, all of the following:
         1. _(A)_ All wages, salaries, or other compensation lost as a result of
 the criminal conduct;
@@ -984,7 +984,7 @@ emergency service using the telephone number 9-1-1.
 (ORC 128.01)
 2. _(b)_ No person shall knowingly use the telephone number of the 9-1-1 system
 established under Ohio R.C. Chapter 128 to report an emergency if he knows that
-no emergency exists. 
+no emergency exists.
 3. _(c)_ No person shall knowingly use a 9-1-1 system for a purpose other than
 obtaining emergency service.
 4. _(d)_ No person shall disclose or use any information concerning telephone
@@ -1045,7 +1045,7 @@ household member to believe that the offender will cause imminent physical harm
 to the family or household member.
 4. _(d)_
     1. _(1)_ Whoever violates this section is guilty of domestic violence.
-    2. _(2)_ Except as otherwise provided in subsection (d)(3) to (5)  of this
+    2. _(2)_ Except as otherwise provided in subsection (d)(3) to (5) of this
 section, a violation of subsection (c) of this section is a misdemeanor of the
 fourth degree, and a violation of subsection (a) or (b) of this section is a
 misdemeanor of the first degree.
@@ -1170,7 +1170,7 @@ of that nature issued by a civil court of another state, including a temporary
 order and a final order issued in an independent action or as a pendente lite
 order in a proceeding for other relief, if the court issued it in response to a
 complaint, petition or motion filed by or on behalf of a person seeking
-protection.  “Protection order issued by a court of another state” does not
+protection. “Protection order issued by a court of another state” does not
 include an order for support or for custody of a child.  
 (ORC 2919.27)
 
@@ -1536,7 +1536,7 @@ third degree.
 
    (Editor’s note: This section was formerly 537.17 Criminal Child Enticement,
 based on Ohio R.C. 2905.05, Criminal Child Enticement. The Ohio Supreme Court
-held that Ohio R.C.  2905.05(A) was unconstitutionally overbroad in violation
+held that Ohio R.C. 2905.05(A) was unconstitutionally overbroad in violation
 of the First Amendment. See State v. Romage, 138 Ohio St. 3d. 390 (2014).)
 
 ## 537.18   Contributing to unruliness or delinquency of a child
