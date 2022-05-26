@@ -136,37 +136,47 @@ submitted, or as amended by the applicant.
 
 ## 731.03   Development standards
 
-1. _(a)_ Minimum Tract. No permit shall be issued on a tract of less than
-twenty acres. If a larger tract is required by the Rules and Regulations of the
+1. _(a)_ Minimum Tract. No permit shall be issued on a tract of less than twenty
+acres. If a larger tract is required by the Rules and Regulations of the
 Division of Oil and Gas, then such larger tract shall govern. A tract may be a
 parcel in single ownership or a composite of land which is owned by several
-persons or other separate entities. If the tract has more than one owner, then
-a proper lease shall be executed between the applicant and all the owners of
-the land. A copy of this unitized lease shall accompany the application for a
+persons or other separate entities. If the tract has more than one owner, then a
+proper lease shall be executed between the applicant and all the owners of the
+land. A copy of this unitized lease shall accompany the application for a
 permit.
-2. _(b)_ Well Location. Drilling sites, storage tanks and other equipment
-shall be located to conform with the following:
-    1. _(1)_ 200 feet from existing buildings on the tract, except as provided
-in subsection (b)(2) hereof. For nonresidential buildings, except for schools
-and other public places of assembly, this provision may be waived, in writing
-by the owner and occupant of a building nearer than 200 feet from the proposed
-well site or storage equipment provided that in no case shall such well or
-equipment be nearer than 100 feet from such building. Such written
-authorization shall be included with the application.
-    2. _(2)_ 300 feet from schools or other public places of assembly as defined
-in the Ohio Basic Building Code.
-    3. _(3)_ 300 feet from adjacent properties.
-    4. _(4)_ 200 feet from a public street provided further that storage tanks
-and equipment may be within 100 feet of a public street right of way.
-    5. _(5)_ Any greater distances which may be required pursuant to Ohio R.C.
-Chapter 1509 shall govern.
 
-These spacing requirements shall remain in effect until the well has been
-plugged to the satisfaction of the Village and the Division of Oil and Gas.
+2. _(b)_ Well Location. Drilling sites, storage tanks and other equipment shall
+be located to conform with the following:
+
+    1. _(1)_ 200 feet from existing buildings on the tract, except as provided
+    in subsection (b)(2) hereof. For nonresidential buildings, except for
+    schools and other public places of assembly, this provision may be waived,
+    in writing by the owner and occupant of a building nearer than 200 feet from
+    the proposed well site or storage equipment provided that in no case shall
+    such well or equipment be nearer than 100 feet from such building. Such
+    written authorization shall be included with the application.
+
+    2. _(2)_ 300 feet from schools or other public places of assembly as defined
+    in the Ohio Basic Building Code.
+
+    3. _(3)_ 300 feet from adjacent properties.
+
+    4. _(4)_ 200 feet from a public street provided further that storage tanks
+    and equipment may be within 100 feet of a public street right of way.
+
+    5. _(5)_ Any greater distances which may be required pursuant to Ohio R.C.
+    Chapter 1509 shall govern.
+
+        These spacing requirements shall remain in effect until the well has
+        been plugged to the satisfaction of the Village and the Division of Oil
+        and Gas.
+
 3. _(c)_ Access Drives.
+
     1. _(1)_ Access drives from drilling sites or storage equipment to the
-roadway shall be located to have the minimum impact on adjacent residential
-properties.
+    roadway shall be located to have the minimum impact on adjacent residential
+    properties.
+
     2. _(2)_ Access drives shall have a hard surface from the roadway to a point
 forty feet along the access drive from the roadway. The hard surface shall be
 eleven feet wide and constructed by placing three inches of asphalt on a six-

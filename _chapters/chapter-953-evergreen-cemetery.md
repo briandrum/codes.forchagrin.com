@@ -157,13 +157,16 @@ nonexchangeable. It cannot, for any reason, be transferred, exchanged, or
 assigned. Notwithstanding the previous sentence, the Village may repurchase a
 niche at 75% of the current resident price, at the discretion of the Board of
 Cemetery Trustees.
+
 2. _(b)_ No Village resident may purchase a niche for a non-resident.
+
 3. _(c)_ (Editor’s note: Former subsection (c) hereof was repealed by Ordinance
 2019-23.)
-     
+
 4. _(d)_ The cost of a memorial bench is $7,500, which includes the foundation
 and engraving.  
 (Ord. 2017-14. Passed 3-13-17.)
+
 5. _(e)_ Niche prices: Two cremations may be interred in each niche.  
 
 |                                          | Resident  | Non-Resident |
@@ -227,7 +230,7 @@ Village’s cemeteries. Such regulations shall have the same validity as an
 ordinance, and a current version shall be on file in the office of the Chief
 Administrative Officer.
 
-BURIAL PROCEDURES:
+### Burial procedures
 
 1. _(a)_ The owner shall produce their Right to Bury form.
 2. _(b)_ There will be no burials on Sundays or Village holidays as listed in

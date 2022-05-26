@@ -625,13 +625,19 @@ organization that is described in subsection 509(a)(1), (2) or (3) of the
 Internal Revenue Code and is either a governmental unit or an organization that
 is tax exempt under subsection 501(a) and described in subsection 501(c)(3) of
 the Internal Revenue Code;
-        5. _(E)_ The games of chance are not conducted during, or within ten hours
-of, a bingo game conducted for amusement purposes only pursuant to Section 517.13.
-         No person shall receive any commission, wage, salary, reward, tip,
-donations, gratuity or other form of compensation, directly or indirectly, for
-operating or assisting in the operation of any game of chance.
+
+        5. _(E)_ The games of chance are not conducted during, or within ten
+        hours of, a bingo game conducted for amusement purposes only pursuant to
+        Section 517.13.
+
+        No person shall receive any commission, wage, salary, reward, tip,
+        donations, gratuity or other form of compensation, directly or
+        indirectly, for operating or assisting in the operation of any game of
+        chance.
+
     2. _(2)_ Any tag fishing tournament operated under a permit issued under
-Ohio R.C. 1533.92, as "tag fishing tournament" is defined in Ohio R.C. 1531.01.
+    Ohio R.C. 1533.92, as "tag fishing tournament" is defined in Ohio R.C.
+    1531.01.
     3. _(3)_ Bingo conducted by a charitable organization that holds a license
 issued under Ohio R.C. 2915.08.
 5. _(e)_ Subsection (d) hereof shall not be construed to authorize the sale,

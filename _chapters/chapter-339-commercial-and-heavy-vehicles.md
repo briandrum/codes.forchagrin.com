@@ -393,12 +393,14 @@ such vehicle when operated within the Municipality where there is sufficient
 light to reveal any person or substantial object on the highway at a distance
 of 500 feet.
 
-Such equipment shall be in addition to all other lights specifically
-required by this Traffic Code.
+    Such equipment shall be in addition to all other lights specifically
+    required by this Traffic Code.
 
-Vehicles operated under the Public Utilities Commission of Ohio shall not be
-subject to the requirements of the regulations provided for by this section.  
-(Ord. 1957-420. Passed 12-28-57.)
+    Vehicles operated under the Public Utilities Commission of Ohio shall not be
+    subject to the requirements of the regulations provided for by this
+    section.  
+    (Ord. 1957-420. Passed 12-28-57.)
+
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
 the offender previously has been convicted of or pleaded guilty to one

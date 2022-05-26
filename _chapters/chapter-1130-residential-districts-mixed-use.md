@@ -153,59 +153,60 @@ Code. Other accessory uses are permitted in setbacks only in accordance with the
 setback regulations of subsection (b)(2) hereof.
 
 1. _(a)_ Detached One (1F) and Two (2F) Family Dwellings.
+
     1. _(1)_ Yards.  The minimum setback from a lot line to a dwelling shall be
-as set forth below.
-                                          R1 R2
-A.   Front yard setback, minimum (feet)30 30
-B.   Side yard setback, minimum (feet) 
+    as set forth below.
 
-With attached garage:
+        |                                       | R1 | R2 |
+        |---------------------------------------|---:|---:|
+        | A. Front yard setback, minimum (feet) | 30 | 30 |
+        | B. Side yard setback, minimum (feet)  |    |    |
+        | With attached garage:                 |    |    |
+        | Each side                             |  3 |  3 |
+        | Total                                 |  8 | 12 |
+        | With detached garage:                 |    |    |
+        | Each side                             |  3 |  5 |
+        | Total                                 | 13 | 15 |
+        | Corner lots, from side street         | 10 | 10 |
+        | C. Rear yard setback, minimum (feet)  | 30 | 30 |
 
-Each side                           3  3
-
-Total                               8  12
-
-With detached garage:
-
-Each side                           3  5
-
-Total                               13 15
-
-Corner lots, from side street    10 10
-C.   Rear yard setback, minimum (feet) 30 30
     2. _(2)_ Modifications to required front yard setback. The Planning and
-Zoning Commission may reduce the required front yard setback for a group of
-three or more contiguous one-family or two-family dwellings planned as a unit;
-however, the front setback shall not be less than two-thirds of that
-established in subsection (a) hereof.
+    Zoning Commission may reduce the required front yard setback for a group of
+    three or more contiguous one-family or two-family dwellings planned as a
+    unit; however, the front setback shall not be less than two-thirds of that
+    established in subsection (a) hereof.
+
 2. _(b)_ Attached Single Family (ASF).
+
     1. _(1)_ Yards. The minimum yard setback from a lot line to a main building
-shall be as set forth below.
+    shall be as set forth below.
 
-                  Minimum Setback (Feet)
-Number of Stories To Street R.O.W. To R1 District Line To Other Lot Line
-In Main Building  or Private Road
-1                 35               35                  15
-2                 35               45                  25
-3                 35               55                  35
-    2. _(2)_ Setbacks.  The minimum setback from a lot line to an accessory
-structure or use shall be as set forth below.
+        |                                    |           Minimum Setback (Feet) |                     |                   |
+        |-----------------------------------:|---------------------------------:|--------------------:|------------------:|
+        | Number of Stories In Main Building | To Street R.O.W. or Private Road | To R1 District Line | To Other Lot Line |
+        |                                  1 |                               35 |                  35 |                15 |
+        |                                  2 |                               35 |                  45 |                25 |
+        |                                  3 |                               35 |                  55 |                35 |
 
-                                        Minimum Setback
-                                        (feet)
-Accessory Uses        To Front Lot Line To R1 District Line To Other Lot Line
-Buildings and         *                 35                  15
-Structures
-Surface parking area  *                 10                  5
-Private Roads         *                 10                  5
-Recreation Facilities *                 30                  10
-Walkways              0                 5                   5
-*  Not permitted in front yards, except that private roads are permitted only
-as necessary in providing access to a public right of way.
+    2. _(2)_ Setbacks.  The minimum setback from a lot line to an accessory structure or use shall be as set forth below.
+
+        |                          | Minimum Setback (feet) |                     |                   |
+        |--------------------------|-----------------------:|--------------------:|------------------:|
+        | Accessory Uses           |      To Front Lot Line | To R1 District Line | To Other Lot Line |
+        | Buildings and Structures |                      * |                  35 |                15 |
+        | Surface parking area     |                      * |                  10 |                 5 |
+        | Private Roads            |                      * |                  10 |                 5 |
+        | Recreation Facilities    |                      * |                  30 |                10 |
+        | Walkways                 |                      0 |                   5 |                 5 |
+
+        \* Not permitted in front yards, except that private roads are permitted
+        only as necessary in providing access to a public right of way.
+
     3. _(3)_ The buffer requirements that would normally apply where multi-
-family development adjoins a One-Family District shall not apply within the RMU
-District, but all buffer requirements shall apply between the RMU District and
-contiguous districts zoned for one-family dwellings.
+    family development adjoins a One-Family District shall not apply within the
+    RMU District, but all buffer requirements shall apply between the RMU
+    District and contiguous districts zoned for one-family dwellings.
+
 3. _(c)_ Projection of Building Features into Setbacks.
     1. _(1)_ Certain architectural features may project from a main building
 into any setback a maximum distance of three feet. However, no such feature

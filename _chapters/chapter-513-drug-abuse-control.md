@@ -826,9 +826,11 @@ controlled substance.
 this section as long as any of the original contents remain.
 6. _(f)_ Every label for a schedule II, III or IV controlled substance shall
 contain the following warning:
-   “Caution: federal law prohibits the transfer of this drug to any person
-other than the patient for whom it was prescribed”.  
+
+“Caution: federal law prohibits the transfer of this drug to any person other
+than the patient for whom it was prescribed”.  
 (ORC 3719.08)
+
 7. _(g)_ Whoever violates this section is guilty of a misdemeanor of the first
 degree. If the offender has previously been convicted of a violation of this
 section, Ohio R.C. 3719.07 or 3719.08 or a drug abuse offense, such violation

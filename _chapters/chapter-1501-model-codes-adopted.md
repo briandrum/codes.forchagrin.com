@@ -77,13 +77,14 @@ asylums, hospitals, churches, halls, theaters and amphitheaters;
 connection with incinerators as provided in this chapter; and
     9. _(9)_ Educate the populace by fire prevention programs.
 
-The Bureau shall have such other powers and perform such other duties as are
-set forth in other sections of this Fire Prevention Code and other ordinances
-as may be conferred and imposed from time to time by law.
+    The Bureau shall have such other powers and perform such other duties as are
+    set forth in other sections of this Fire Prevention Code and other
+    ordinances as may be conferred and imposed from time to time by law.
 
-This delegation of duty shall not relieve any other department, officer or
-employee of the Municipality of any power or duty conferred upon it or him by
-law or ordinances.
+    This delegation of duty shall not relieve any other department, officer or
+    employee of the Municipality of any power or duty conferred upon it or him
+    by law or ordinances.
+
 3. _(c)_ The Fire Chief or Officer in Charge of the Bureau of Fire Prevention
 or Inspector may, at all reasonable hours, enter any building, premises, or
 vehicle within his jurisdiction for the purposes of examining the same as
@@ -112,17 +113,18 @@ fires, bombings, and explosions, examine witnesses, compel the attendance of
 witnesses and the production of books and papers and to do and perform all
 other acts necessary to the effective discharge of such duties.
 
-The Chief or his representative may administer oaths and enter, for the
-purpose of examination, any building, premises or vehicle which, in their
-opinion, is in danger from fire and they shall report their proceedings to the
-Mayor or legislative authority at such times as are required. Failure of any
-person, firm or corporation to comply with any order of the Chief or his
-representative, under the provisions of this section shall constitute an
-unlawful act and subject such person, firm or corporation to penalties provided
-for in Section 1501.99. Whenever necessary, for the enforcement of any law
-pertaining to fire inspection or fire enforcement, the Chief or his designated
-representative shall apply for a search warrant in the form and manner provided
-by law.
+    The Chief or his representative may administer oaths and enter, for the
+    purpose of examination, any building, premises or vehicle which, in their
+    opinion, is in danger from fire and they shall report their proceedings to
+    the Mayor or legislative authority at such times as are required. Failure of
+    any person, firm or corporation to comply with any order of the Chief or his
+    representative, under the provisions of this section shall constitute an
+    unlawful act and subject such person, firm or corporation to penalties
+    provided for in Section 1501.99. Whenever necessary, for the enforcement of
+    any law pertaining to fire inspection or fire enforcement, the Chief or his
+    designated representative shall apply for a search warrant in the form and
+    manner provided by law.
+
 7. _(g)_ The Chief shall recommend to the Mayor the employment of technical
 inspectors who, when such authorization is granted by Council, shall be
 selected through an examination to determine their fitness for the position.
@@ -645,10 +647,10 @@ Fire Department connection located as near as practicable to the point where it
 joins the system. The pipe between the outside hose connection and the check
 valve shall be arranged to drain in an approved manner.
 
-Whenever in this Fire Prevention Code the approval of the Fire Chief is
-required for any equipment, appliance or plan, the Fire Chief shall approve
-such equipment, appliance or plan if he finds that the same is safe and
-adequate for its intended purpose; otherwise he shall disapprove the same.
+    Whenever in this Fire Prevention Code the approval of the Fire Chief is
+    required for any equipment, appliance or plan, the Fire Chief shall approve
+    such equipment, appliance or plan if he finds that the same is safe and
+    adequate for its intended purpose; otherwise he shall disapprove the same.
 
 All standpipe and sprinkler plans shall be approved by the Ohio Inspection
 Bureau.
@@ -712,6 +714,7 @@ such time limits for delays caused by factors beyond the control of the person
 or persons so ordered.
 
 Section 16.45 Storage Inside Buildings. (Amended):
+
 3. _(c)_ Dwellings and Apartment Houses Containing Not More Than Three Dwelling
 Units and Accompanying Attached and Detached Garages.
 Storage in excess of five gallons of flammable liquids shall be prohibited, not
@@ -808,15 +811,19 @@ educational occupancy for fifty or more occupants or which has a floor area of
 include any similar occupied connecting room or space in the same story, or in
 a story or stories above or below, where entrance is common to the rooms or
 spaces.
-      *    May be measured by folding a piece to five thicknesses and measuring
+
+/* May be measured by folding a piece to five thicknesses and measuring
 to see if the thickness of five layers exceeds one-eighth inch.
-Section 27.11 Number of Occupants Permitted. (Amended):
+
+Section 27.11   Number of Occupants Permitted. (Amended):
 
 Each place of assembly shall be posted with a legible sign in contrasting
 colors conspicuously located stating the maximum number of occupants permitted,
 the number shall be determined by the square feet of floor area or areas so
 occupied, and the exit ways provided.
-Section 27.14 Overcrowding Prohibited. (Added):
+
+Section 27.14   Overcrowding Prohibited. (Added):
+
 No person, being the owner, manager or person in charge or control of a place
 of assembly shall fail to comply with the posted regulation of the number of
 occupants allowable in such place of assembly; in the event of overcrowding in
@@ -835,8 +842,9 @@ Prevention is empowered and authorized to order the owner or occupant in
 writing to post “No Smoking” signs in each building, structure, room or place
 in which smoking shall be prohibited.
 
-The Officer in Charge shall designate specific safe locations, if necessary,
-in any building, structure or place in which smoking may be permitted.
+    The Officer in Charge shall designate specific safe locations, if necessary,
+    in any building, structure or place in which smoking may be permitted.
+
 3. _(c)_ "No Smoking" signs of approved sized lettering and locations required
 in accordance with Section 28.3 shall read "By Local Ordinance
 1501.13."
@@ -946,11 +954,12 @@ inches shall be maintained under sprinklers. Clearance of up to thirty-six
 inches may be required where the nature of the material stored required greater
 clearance.
 
-Where automatic sprinkler protection is not provided and reliance is placed
-upon hose streams for fire extinguishment there shall be a clearance of at
-least three feet between the top of material stored and the underside of the
-lowest beams, girders or other ceiling obstruction which might restrict the
-play of hose streams over the material.
+    Where automatic sprinkler protection is not provided and reliance is placed
+    upon hose streams for fire extinguishment there shall be a clearance of at
+    least three feet between the top of material stored and the underside of the
+    lowest beams, girders or other ceiling obstruction which might restrict the
+    play of hose streams over the material.
+
 4. _(d)_ No person shall be permitted to reside in any part of any retail or
 commercial establishment, except in apartments built, designed and intended to
 be used as dwelling units adjacent to or above such establishments, but in no
@@ -975,7 +984,8 @@ carrier as authorized by the law of this State and the United States relating
 to motor carriers.
 3. _(c)_ "Standard fire extinguisher" means a portable fire extinguisher which
 bears the label of a national testing laboratory acceptable to the Fire Chief.
-   "Service man" means a person qualified and trained in the proper inspection,
+
+"Service man" means a person qualified and trained in the proper inspection,
 repair, recharge or test of fire extinguishers. "Service," where used in
 reference to fire extinguisher, means the inspection, repair, recharging or
 testing of fire extinguishers.

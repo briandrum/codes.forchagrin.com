@@ -457,10 +457,10 @@ year and may be renewed while construction is diligently pursued.
 one year for nonresidential uses and for an indefinite period of time for
 residential uses.
 
-Each nonresidential occupancy permit shall be renewed by the occupant to become
-effective July 1, of each year. A renewal fee may be charged to cover filing and
-inspection costs.  
-(Ord. 2019-39. Passed 8-13-19.)
+    Each nonresidential occupancy permit shall be renewed by the occupant to
+    become effective July 1, of each year. A renewal fee may be charged to cover
+    filing and inspection costs.  
+    (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.07   Enforcement and penalty
 

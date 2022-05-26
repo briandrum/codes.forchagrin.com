@@ -101,7 +101,8 @@ designated, the active deposits shall be allocated among the eligible
 depositories from time to time at the sole discretion of the Director of
 Finance.
 
-The Director of Finance shall consider the following in making the designation:
+    The Director of Finance shall consider the following in making the
+    designation:
 
     1. _(1)_ The rate or rates of interest paid on active deposit;
 
@@ -294,9 +295,9 @@ percent (110%) of all public moneys on deposit with the eligible depository.
 this section shall be cause for its immediate suspension as an eligible
 depository for any public moneys.
 
-Collateral securities held in a pooled escrow account may be substituted and
-exchanged in the same manner as described in Section 125.04.  
-(Ord.1986-46. Passed 10-28-86.)
+    Collateral securities held in a pooled escrow account may be substituted and
+    exchanged in the same manner as described in Section 125.04.  
+    (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.07   Investment objectives
 

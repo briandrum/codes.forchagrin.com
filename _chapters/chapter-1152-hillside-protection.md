@@ -135,9 +135,9 @@ the Municipality. A hillside protection permit shall be issued in phases as
 determined by the Administrator and the Municipal Engineer before the next
 phase permit will be issued.
 
-Refer to Section 1152.06 for additional information on administration and
-enforcement.  
-(Ord. 2019-39. Passed 8-13-19.)
+    Refer to Section 1152.06 for additional information on administration and
+    enforcement.  
+    (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1152.04   Required hillside control measures, standards and plans
 

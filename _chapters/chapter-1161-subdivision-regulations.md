@@ -502,17 +502,18 @@ and involves no opening, widening or extension of any street or road;
 parcel has been completely subdivided;
     3. _(3)_ The proposed subdivision is not contrary to applicable subdivision
 or zoning regulations;
+
     4. _(4)_ The property has been surveyed and a sketch and legal description
-of the property is submitted with the application.
+    of the property is submitted with the application.
 
-All procedures in subsection (a) to (s) hereof, inclusive, shall be adhered
-to by the subdivider unless otherwise waived by the Village Administrator or
-Engineer.
+    All procedures in subsection (a) to (s) hereof, inclusive, shall be adhered
+    to by the subdivider unless otherwise waived by the Village Administrator or
+    Engineer.
 
-All minor subdivisions shall have final plat approval by the Planning and
-Zoning Commission and shall be filed by the subdivider with the County
-Recorder.  
-(Ord. 1988-25. Approved by voters 11-8-88.)
+    All minor subdivisions shall have final plat approval by the Planning and
+    Zoning Commission and shall be filed by the subdivider with the County
+    Recorder.  
+    (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.05   Design standards
 

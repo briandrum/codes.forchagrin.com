@@ -31,9 +31,9 @@ definitions:
 1. _(a)_ “State Code” shall mean the Residential Code of Ohio, adopted by rule
 at Ohio Administrative Code 4101:8 by the Ohio Board of Building Standards, or
 current equivalent if the title or rules are renamed or renumbered.
+
 2. _(b)_ “Village Code” shall mean the “Village of Chagrin Falls Residential
-Code for
-      One-, Two- and Three-Family Dwellings”, a chapter of the Codified
+Code for One-, Two- and Three-Family Dwellings”, a chapter of the Codified
 Ordinances of the Village of Chagrin Falls (the “Village”) which is enacted to
 govern construction of residential buildings within the Village. The Village
 Building Department will not be required to be certified by the Ohio Board of

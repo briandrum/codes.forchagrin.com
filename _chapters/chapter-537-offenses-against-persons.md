@@ -167,11 +167,12 @@ has been convicted of or pleaded guilty to a violation of this section or any
 traffic- related homicide, manslaughter, or assault offense, and shall be
 prosecuted under appropriate state law.
 
-In addition to any other sanctions imposed, the court shall impose upon the
-offender a class four suspension of the offender’s driver’s license, commercial
-driver’s license, temporary instruction permit, probationary license, or
-nonresident operating privilege from the range specified in division (A)(4) of
-Ohio R.C. 4510.02.
+    In addition to any other sanctions imposed, the court shall impose upon the
+    offender a class four suspension of the offender’s driver’s license,
+    commercial driver’s license, temporary instruction permit, probationary
+    license, or nonresident operating privilege from the range specified in
+    division (A)(4) of Ohio R.C. 4510.02.
+
 3. _(c)_ The court shall impose a mandatory jail term of at least seven days on
 an offender who is convicted of or pleads guilty to a violation of this section
 and may impose upon the offender a longer jail term as authorized pursuant to
@@ -1536,10 +1537,10 @@ third degree.
 
 ## 537.17   Reserved
 
-   (Editor’s note: This section was formerly 537.17 Criminal Child Enticement,
+(Editor’s note: This section was formerly 537.17 Criminal Child Enticement,
 based on Ohio R.C. 2905.05, Criminal Child Enticement. The Ohio Supreme Court
-held that Ohio R.C. 2905.05(A) was unconstitutionally overbroad in violation
-of the First Amendment. See State v. Romage, 138 Ohio St. 3d. 390 (2014).)
+held that Ohio R.C. 2905.05(A) was unconstitutionally overbroad in violation of
+the First Amendment. See State v. Romage, 138 Ohio St. 3d. 390 (2014).)
 
 ## 537.18   Contributing to unruliness or delinquency of a child
 

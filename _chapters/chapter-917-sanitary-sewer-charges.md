@@ -86,13 +86,16 @@ lot, parcel of land or premises, building or connection for the use of water
 service of the Municipality, or a minimum sewer charge of six times the stated
 rate, below, per one hundred cubic feet of water, whichever is greater:
 
-EFFECTIVE RATE CHANGE DATE RATE - MIN. CHARGE
-04/01/20                   $8.30/100 cf - $49.80
-01/01/21                   $8.80/100 cf - $52.80
-01/01/22                   $9.33/100 cf - $55.98
-01/01/23                   $9.70/100 cf - $58.20
-After the year 2023, the rates established for 2023 shall remain in effect
-until modified by Council.
+    | EFFECTIVE RATE CHANGE DATE |    RATE - MIN. CHARGE |
+    |---------------------------:|----------------------:|
+    |                   04/01/20 | $8.30/100 cf - $49.80 |
+    |                   01/01/21 | $8.80/100 cf - $52.80 |
+    |                   01/01/22 | $9.33/100 cf - $55.98 |
+    |                   01/01/23 | $9.70/100 cf - $58.20 |
+
+    After the year 2023, the rates established for 2023 shall remain in effect
+    until modified by Council.
+
 2. _(b)_ Premises located outside the corporate limits of the Municipality
 which are served by the system shall be charged at the rate contained in the
 chart below, per hundred cubic feet of water, which shall be levied against
@@ -100,18 +103,22 @@ such lot, parcel of land or premises, building or connection for the use of the
 water service of the Municipality, or a minimum sewer charge of six (6) times
 the rate per hundred cubic feet of water, whichever is greater.
 
-EFFECTIVE RATE CHANGE DATE RATE - MIN. CHARGE
-04/01/20                   $10.38/100 cf - $62.28
-01/01/21                   $11.00/100 cf - $66.00
-01/01/22                   $11.66/100 cf - $69.96
-01/01/23                   $12.13/100 cf - $72.78
-      After the year 2019, the rates established for 2019 shall remain in
-effect until modified by Council.  
-(Ord. 2020-08. Passed 3-9-20.)
+    | EFFECTIVE RATE CHANGE DATE |     RATE - MIN. CHARGE |
+    |---------------------------:|-----------------------:|
+    |                   04/01/20 | $10.38/100 cf - $62.28 |
+    |                   01/01/21 | $11.00/100 cf - $66.00 |
+    |                   01/01/22 | $11.66/100 cf - $69.96 |
+    |                   01/01/23 | $12.13/100 cf - $72.78 |
+
+    After the year 2019, the rates established for 2019 shall remain in effect
+    until modified by Council.  
+    (Ord. 2020-08. Passed 3-9-20.)
+
 3. _(c)_ Any sewage bill unpaid after January 30, April 30, July 30 or October
 30 of any year shall incur a penalty of ten percent (10%) of the total unpaid
 balance due.  
 (Ord. 1985-7. Passed 2-11-85.)
+
 4. _(d)_ On premises using water supplied from sources other than the water
 works system of the Municipality and not measured by a municipal water meter or
 other meter acceptable to the Superintendent of Services, the quantity of water
@@ -136,50 +143,59 @@ shall demonstrate to the satisfaction of the Superintendent of Services that
 portion of the water so consumed which is discharged into the system, and such
 portion shall be the basis for measuring the sewer charge under subsections (a)
 and (b) hereof, if applicable. (Ord. 1978-1115. Passed 7-10-78.)
+
 7. _(g)_  Connection or tap charge for initial connection to the sewerage
 system: one thousand dollars ($1,000) payable in advance in the Municipality,
 and two thousand dollars ($2,000) payable in advance outside the Municipality,
 except for those properties situated on Falls River Road as set forth in
-Ordinance No. 1971-819, adopted February 21, 1971. The charges for connection
-to the sewerage system shall be as follows, except for those properties on
-Falls River Road as set forth in Ordinance No. 1971-819:
-            For single-family residences, which will be charged for one
-residential single-family unit (RSFU) of 400 gallons per day, the following fee
-schedule shall apply unless and until amended by the Municipality:
+Ordinance No. 1971-819, adopted February 21, 1971. The charges for connection to
+the sewerage system shall be as follows, except for those properties on Falls
+River Road as set forth in Ordinance No. 1971-819:
 
-Period            Fee       Fee
-                  (Village) (Outside)
-1/1/14 - 12/31/18 3,900     7,800
-1/1/19 - 12/31/23 5,000     10,000
-For multi-family residential units, the charge shall be based on the following
-RSFU equivalents and applied to the above fee schedule:
+    For single-family residences, which will be charged for one residential
+    single-family unit (RSFU) of 400 gallons per day, the following fee schedule
+    shall apply unless and until amended by the Municipality:
 
-                         RSFU
-(1)   One-bedroom unit0.625
-(2)   Two-bedroom unit0.750
-(3)   Three-bedroom un0.875
-(4)   Four-bedroom uni1.000
-The charges for other buildings and structures shall be based on the RSFU
-equivalent of these buildings and structures determined from the sewerage flows
-as presented in the Ohio Environmental Protection Agency Sewerage Flow Guide,
-revised from time to time, and using 400 gallons per day (one RSFU) as a base.
-The amount of the charge shall be determined by applying the RSFU equivalent
-figure to the above fee schedule.  
-(Ord. 2018-80. Passed 12-11-18.)
+    |            Period | Fee (Village) | Fee (Outside) |
+    |------------------:|--------------:|--------------:|
+    | 1/1/14 - 12/31/18 |         3,900 |         7,800 |
+    | 1/1/19 - 12/31/23 |         5,000 |        10,000 |
+
+    For multi-family residential units, the charge shall be based on the following
+    RSFU equivalents and applied to the above fee schedule:
+
+    |                        |  RSFU |
+    |------------------------|------:|
+    | (1) One-bedroom unit   | 0.625 |
+    | (2) Two-bedroom unit   | 0.750 |
+    | (3) Three-bedroom unit | 0.875 |
+    | (4) Four-bedroom unit  | 1.000 |
+
+    The charges for other buildings and structures shall be based on the RSFU
+    equivalent of these buildings and structures determined from the sewerage flows
+    as presented in the Ohio Environmental Protection Agency Sewerage Flow Guide,
+    revised from time to time, and using 400 gallons per day (one RSFU) as a base.
+    The amount of the charge shall be determined by applying the RSFU equivalent
+    figure to the above fee schedule.  
+    (Ord. 2018-80. Passed 12-11-18.)
+
 8. _(h)_ In the event any premises are located outside the corporate limits of
 the Municipality and are served by the system but are unmetered for any reason
-whatsoever, such land or premises shall be charged at a rate equal to the
-amount stated in the chart below, which shall be charged and billed quarterly
-to each such lot, parcel of land or premises.
+whatsoever, such land or premises shall be charged at a rate equal to the amount
+stated in the chart below, which shall be charged and billed quarterly to each
+such lot, parcel of land or premises.
 
-EFFECTIVE RATE CHANGE DATE FLAT RATE
-04/01/20                   $332.08
-01/01/21                   $352.00
-01/01/22                   $373.12
-01/01/23                   $388.04
-      After the year 2023, the rates established for 2023 shall remain in
-effect until modified by Council.  
-(Ord. 2020-08. Passed 3-9-20.)
+    | EFFECTIVE RATE CHANGE DATE | FLAT RATE |
+    |---------------------------:|--------- :|
+    |                   04/01/20 |   $332.08 |
+    |                   01/01/21 |   $352.00 |
+    |                   01/01/22 |   $373.12 |
+    |                   01/01/23 |   $388.04 |
+
+    After the year 2023, the rates established for 2023 shall remain in effect
+    until modified by Council.  
+    (Ord. 2020-08. Passed 3-9-20.)
+
 9. _(i)_ In addition to any existing connection or tap charge paid pursuant to
 subsection (g) hereof or any other provision of law, before any connections are
 made to the Village waste water treatment facilities from outside the

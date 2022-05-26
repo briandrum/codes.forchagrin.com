@@ -259,12 +259,16 @@ removing the key from the ignition, effectively setting the parking brake, and,
 when the motor vehicle is standing upon any grade, turning the front wheels to
 the curb or side of the highway.
 
-The requirements of this section relating to the stopping of the engine,
-locking of the ignition and removing the key from the ignition of a motor
-vehicle do not apply to any of the following:
+    The requirements of this section relating to the stopping of the engine,
+    locking of the ignition and removing the key from the ignition of a motor
+    vehicle do not apply to any of the following:
+
     1. _(1)_ A motor vehicle that is parked on residential property;
+
     2. _(2)_ A motor vehicle that is locked, regardless of where it is parked;
+
     3. _(3)_ An emergency vehicle;
+
     4. _(4)_ A public safety vehicle.
 
 ## 351.08   Opening vehicle door on traffic side

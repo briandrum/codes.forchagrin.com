@@ -127,29 +127,29 @@ accordance with the setback regulations of subsection (b) hereof.
 1. _(a)_ Yards. The minimum setback from a lot
 line to a main building shall be as set forth below.
 
-Minimum Setback (Feet)
+    **Minimum Setback (Feet)**
 
-| Number of Stories In Main Building | To Street R.O.W. | To R1 District Line | To Other Lot Line |
-|-----------------------------------:|-----------------:|--------------------:|------------------:|
-|                                  1 |               35 |                  35 |                15 |
-|                                  2 |               35 |                  45 |                25 |
-|                                  3 |               35 |                  55 |                35 |
+    | Number of Stories In Main Building | To Street R.O.W. | To R1 District Line | To Other Lot Line |
+    |-----------------------------------:|-----------------:|--------------------:|------------------:|
+    |                                  1 |               35 |                  35 |                15 |
+    |                                  2 |               35 |                  45 |                25 |
+    |                                  3 |               35 |                  55 |                35 |
 
 2. _(b)_ Setbacks. The minimum setback from a lot line to an accessory
 structure or use shall be as set forth in the following table:
 
-**Minimum Setback (feet)**
+    **Minimum Setback (feet)**
 
-| Accessory Uses           | To Front Lot Line | To R1 District Line | To Other Lot Line |
-|--------------------------|------------------:|--------------------:|------------------:|
-| Buildings and Structures |                 * |                  35 |                15 |
-| Surface parking area     |                 * |                  10 |                 5 |
-| Private Roads            |                 * |                  10 |                 5 |
-| Recreation Facilities    |                 * |                  30 |                10 |
-| Walkways                 |                 0 |                   5 |                 5 |
+    | Accessory Uses           | To Front Lot Line | To R1 District Line | To Other Lot Line |
+    |--------------------------|------------------:|--------------------:|------------------:|
+    | Buildings and Structures |                 * |                  35 |                15 |
+    | Surface parking area     |                 * |                  10 |                 5 |
+    | Private Roads            |                 * |                  10 |                 5 |
+    | Recreation Facilities    |                 * |                  30 |                10 |
+    | Walkways                 |                 0 |                   5 |                 5 |
 
-\* Not permitted in front yards, except that private roads are permitted only as
-necessary in providing access to a public right of way.
+    \* Not permitted in front yards, except that private roads are permitted only as
+    necessary in providing access to a public right of way.
 
 3. _(c)_ Projection of Building Features into Setbacks.
     1. _(1)_ Certain architectural features may project from a main building

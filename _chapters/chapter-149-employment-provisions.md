@@ -290,10 +290,10 @@ absence from the respective duties for such time as they are on military duty in
 field training or active duty for periods not exceeding thirty-one days in any
 calendar year.
 
-If an employee’s military pay or compensation during such leave of absence is
-less than the employee’s pay would have been for the same period, the employee
-will be paid by the Village the difference in money between the Village pay and
-military pay for such period.
+    If an employee’s military pay or compensation during such leave of absence
+    is less than the employee’s pay would have been for the same period, the
+    employee will be paid by the Village the difference in money between the
+    Village pay and military pay for such period.
 
 3. _(c)_ In calculating an employee’s jury duty pay or military pay, allowances
 for travel, food or housing shall not be considered, but any other pay or

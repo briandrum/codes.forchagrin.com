@@ -340,15 +340,17 @@ fee may be paid by use of a major credit card unless the towing service uses a
 mobile credit card processor and mobile service is not available at the time of
 the transaction.
 
-Upon payment of the applicable fee, the towing service shall give the
-vehicle owner or operator a receipt showing both the full amount normally
-assessed and the actual amount received and shall release the motor vehicle to
-the owner or operator. Upon its release, the owner or operator immediately
-shall move it so that it is not on the private residential or private
-agricultural property without the permission of the person having the right to
-possession of the property, or is not at the garage or place of storage without
-the permission of the owner, whichever is applicable.
+    Upon payment of the applicable fee, the towing service shall give the
+    vehicle owner or operator a receipt showing both the full amount normally
+    assessed and the actual amount received and shall release the motor vehicle
+    to the owner or operator. Upon its release, the owner or operator
+    immediately shall move it so that it is not on the private residential or
+    private agricultural property without the permission of the person having
+    the right to possession of the property, or is not at the garage or place of
+    storage without the permission of the owner, whichever is applicable.
+
 3. _(c)_
+
     1. _(1)_ The Chief of Police shall maintain a record of motor vehicles
 that the Chief orders into storage pursuant to subsection (a)(1) of this
 section. The record shall include an entry for each such motor vehicle that

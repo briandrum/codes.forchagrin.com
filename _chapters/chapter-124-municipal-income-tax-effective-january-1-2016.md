@@ -3477,9 +3477,9 @@ to its net profit that was apportioned to the Municipality any amount other than
 the amount upon which the employee would be required to pay tax were the amount
 related to the stock option not exempted from taxation.
 
-This division applies solely for the purpose of making an adjustment to the
-amount of a taxpayer’s net profit that was apportioned to the Municipality under
-this section.
+    This division applies solely for the purpose of making an adjustment to the
+    amount of a taxpayer’s net profit that was apportioned to the Municipality
+    under this section.
 
 7. _(G)_ When calculating the ratios described in division (A) of this section
 for the purposes of that division or division (B) of this section, the owner of
@@ -4058,19 +4058,20 @@ assessment against the taxpayer for any deficiency for the period for which the
 return or tax is due, based upon any information in the Tax Commissioner’s
 possession.
 
-The Tax Commissioner shall not make or issue an assessment against a taxpayer
-more than three (3) years after the later of the date the return subject to
-assessment was required to be filed or the date the return was filed. Such time
-limit may be extended if both the taxpayer and the Tax Commissioner consent in
-writing to the extension. Any such extension shall extend the three-year time
-limit in section 124.38 of the Codified Ordinances for the same period of time.
-There shall be no bar or limit to an assessment against a taxpayer that fails to
-file a return subject to assessment as required by sections 124.27 to 124.41 of
-the Codified Ordinances, or that files a fraudulent return. The Tax Commissioner
-shall give the taxpayer assessed written notice of the assessment as provided in
-section 5703.37 of the Revised Code. With the notice, the Tax Commissioner shall
-provide instructions on how to petition for reassessment and request a hearing
-on the petition.
+    The Tax Commissioner shall not make or issue an assessment against a
+    taxpayer more than three (3) years after the later of the date the return
+    subject to assessment was required to be filed or the date the return was
+    filed. Such time limit may be extended if both the taxpayer and the Tax
+    Commissioner consent in writing to the extension. Any such extension shall
+    extend the three-year time limit in section 124.38 of the Codified
+    Ordinances for the same period of time. There shall be no bar or limit to an
+    assessment against a taxpayer that fails to file a return subject to
+    assessment as required by sections 124.27 to 124.41 of the Codified
+    Ordinances, or that files a fraudulent return. The Tax Commissioner shall
+    give the taxpayer assessed written notice of the assessment as provided in
+    section 5703.37 of the Revised Code. With the notice, the Tax Commissioner
+    shall provide instructions on how to petition for reassessment and request a
+    hearing on the petition.
 
 2. _(B)_ Unless the taxpayer assessed files with the Tax Commissioner within
 sixty (60) days after service of the notice of assessment, either personally or

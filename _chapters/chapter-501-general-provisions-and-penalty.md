@@ -494,10 +494,11 @@ aware that the person’s conduct will probably cause a certain result or will
 probably be of a certain nature. A person has knowledge of circumstances when
 the person is aware that such circumstances probably exist.
 
-When knowledge of the existence of a particular fact is an element of an
-offense, such knowledge is established if a person subjectively believes that
-there is a high probability of its existence and fails to make inquiry or acts
-with a conscious purpose to avoid learning the fact.
+    When knowledge of the existence of a particular fact is an element of an
+    offense, such knowledge is established if a person subjectively believes
+    that there is a high probability of its existence and fails to make inquiry
+    or acts with a conscious purpose to avoid learning the fact.
+
 3. _(c)_ A person acts recklessly when, with heedless indifference to the
 consequences, the person perversely disregards a substantial and unjustifiable
 risk that the person’s conduct is likely to cause a certain result or is likely
@@ -912,14 +913,15 @@ issued as described in subsection (b)(4)A.2. of this section.
 (a) and (b) hereof, an organization convicted of an offense pursuant to Section 501.11 shall be fined, in accordance with this section. The court shall fix
 the fine as follows:
 
-Type of Misdemeanor                           Maximum Fine
-First degree                                  $5,000.00
-Second degree                              4,000.00
-Third degree                                  3,000.00
-Fourth degree                                 2,000.00
-Minor                                         1,000.00
-Misdemeanor not specifically classified       2,000.00
-Minor misdemeanor not specifically classified 1,000.00
+    | Type of Misdemeanor                           | Maximum Fine |
+    |-----------------------------------------------|-------------:|
+    | First degree                                  |    $5,000.00 |
+    | Second degree                                 |     4,000.00 |
+    | Third degree                                  |     3,000.00 |
+    | Fourth degree                                 |     2,000.00 |
+    | Minor                                         |     1,000.00 |
+    | Misdemeanor not specifically classified       |     2,000.00 |
+    | Minor misdemeanor not specifically classified |     1,000.00 |
 
     1. _(1)_ When an organization is convicted of an offense that is not
 specifically classified, and the section defining the offense or penalty

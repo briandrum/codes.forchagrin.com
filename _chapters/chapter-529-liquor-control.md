@@ -118,8 +118,8 @@ and everything made use of in any way for such transportation.
 less than one-half of one percent (0.5%) of alcohol by volume and not more than
 twenty-one percent (21%) of alcohol by volume, which is made from the fermented
 juices of grapes, fruits, or other agricultural products. Except as provided in
-Ohio R.C. 4301.01(B)(3), the term does not include cider.
-      (ORC 4301.01, 4301.244)
+Ohio R.C. 4301.01(B)(3), the term does not include cider.  
+(ORC 4301.01, 4301.244)
 
 ## 529.02   Sales to and use by underage persons; securing public accommodations
 

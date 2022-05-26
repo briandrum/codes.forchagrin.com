@@ -130,7 +130,7 @@ following resources:
     5. _(5)_ Significant wildlife habitat areas.
     6. _(6)_ Historic, archaeological or cultural features.
     7. _(7)_ Scenic views into the property from existing public roads.
-     
+
 3. _(c)_ To the extent possible, designated open space shall be contiguous
 acreage. Except areas that by their nature have a linear configuration, such
 as buffers, waterbodies, or trail links, the length to width ratio of any

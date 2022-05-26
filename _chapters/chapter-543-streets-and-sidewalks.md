@@ -49,14 +49,15 @@ Municipality with the General Fund.
 
 ## 543.02   Removal of ice and snow from sidewalks
 
-It shall be the duty of the owner of each and every parcel of real estate in
-the Municipality abutting upon any sidewalk to keep such sidewalk abutting his
-premises free and clear of snow and ice and to remove therefrom all snow and
-ice accumulated thereon within a reasonable time.
-   "Reasonable time" means removal of the snow and ice within two hours after
-the most recent accumulation of ice or snow, or if during the night, two hours
-after sunrise, or, if notice by the Municipality, within two hours of such
-notice. Notice is adequate whether oral or written and served upon the owner or
+It shall be the duty of the owner of each and every parcel of real estate in the
+Municipality abutting upon any sidewalk to keep such sidewalk abutting his
+premises free and clear of snow and ice and to remove therefrom all snow and ice
+accumulated thereon within a reasonable time.
+
+"Reasonable time" means removal of the snow and ice within two hours after the
+most recent accumulation of ice or snow, or if during the night, two hours after
+sunrise, or, if notice by the Municipality, within two hours of such notice.
+Notice is adequate whether oral or written and served upon the owner or
 occupant, or posted in writing on the main entrance of the premises.  
 (Ord. 1987-44. Passed 10-26-87.)
 
