@@ -119,7 +119,7 @@ line to an accessory building, structure, or use shall be as set forth below:
 **Minimum Setback (feet)**
 
 | Accessory Uses        | To Front Lot Line | To R1 District Line | To Other Lot Line |
-|-----------------------|------------------:|--------------------:|-------------------|
+|-----------------------|------------------:|--------------------:|------------------:|
 | Buildings and         |                 * |                  35 |                15 |
 | Structures            |                   |                     |                   |
 | Surface Parking Area  |                 * |                  10 |                 5 |

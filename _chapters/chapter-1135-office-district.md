@@ -137,9 +137,9 @@ as set forth below:
 
 | Yard        | To Street R.O.W. | Line To Residential District Line | To Other Lot Line |
 |-------------|-----------------:|----------------------------------:|------------------:|
-| Front       | 30               | --                                | --                |
-| Side (each) | 20               | 10                                | 7                 |
-| Rear        | 20               | 40                                | 7                 |
+| Front       |               30 |                                -- |                -- |
+| Side (each) |               20 |                                10 |                 7 |
+| Rear        |               20 |                                40 |                 7 |
 
 2. _(b)_ Setbacks. The minimum setback from a lot line to an accessory structure
 or use shall be as set forth below:
@@ -148,10 +148,10 @@ or use shall be as set forth below:
 
 | Accessory Use        | To Street R.O.W. | Line To Residential District Line | To Other Lot Line |
 |----------------------|-----------------:|----------------------------------:|------------------:|
-| Structures           | *                | 10                                | 7                 |
-| Surface Parking Area | 15               | 10                                | 5                 |
-| Drives               | *                | 10                                | 5                 |
-| Lighting/Flag Poles  | 5                | 10                                | 5                 |
+| Structures           |                * |                                10 |                 7 |
+| Surface Parking Area |               15 |                                10 |                 5 |
+| Drives               |                * |                                10 |                 5 |
+| Lighting/Flag Poles  |                5 |                                10 |                 5 |
 
 \* Accessory structures and drives are not permitted in required yards except
 that drives are permitted only as necessary in providing access to a public

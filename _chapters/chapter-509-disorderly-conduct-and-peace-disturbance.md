@@ -364,7 +364,7 @@ minutes duration.
 degree.  
 (Ord. 2008-53. Passed 2-9-09.)
 
-## 509.09   Vagrants (Repealed)
+## 509.09   Vagrants
 
 (Editor’s note: Former Section 509.09 was repealed by Ordinance 2018-66.)
 
@@ -375,8 +375,8 @@ approved by a parent or guardian, shall enter or remain on any street,
 sidewalk, or other public place, either on foot or any type of vehicle, during
 the following hours:
     1. _(1)_ A child under the age of sixteen between 11:00 p.m. and 6:00 a.m.;
-    2. _(2)_ A child the age of sixteen or seventeen, between 1:00 a.m. and 6:
-00 a.m.
+    2. _(2)_ A child the age of sixteen or seventeen, between 1:00 a.m. and 6:00
+    a.m.
 2. _(b)_ A child who violates subsection (a) hereof shall be deemed unruly,
 neglected, dependent and/or a child without proper parental care and shall be
 subject to the jurisdiction of Juvenile Court.

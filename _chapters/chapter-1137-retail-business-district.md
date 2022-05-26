@@ -155,16 +155,17 @@ structure or use shall be as set forth below.
 
 **Minimum Setback Depth (feet)**
 
-Accessory Use         To Street R.O.W. Line To Residential To Other Lot Line
-                                            District Line
-Structures            *                     15             5
-Surface Parking Area  10                    10             5
-(main or accessory)
-Drives                *                     10             5
-Lighting, Flag Poles  5                     10             5
-* Accessory structures and drives are not permitted in required yards except
+| Accessory Use                            | To Street R.O.W. | Line To Residential District Line | To Other Lot Line |
+|------------------------------------------|-----------------:|----------------------------------:|------------------:|
+| Structures                               |                * |                                15 |                 5 |
+| Surface Parking Area (main or accessory) |               10 |                                10 |                 5 |
+| Drives                                   |                * |                                10 |                 5 |
+| Lighting, Flag Poles                     |                5 |                                10 |                 5 |
+
+\* Accessory structures and drives are not permitted in required yards except
 that drives are permitted only as necessary in providing access to a public
 right of way.
+
 3. _(c)_ Modifications to Yard and Setback Requirements.
     1. _(1)_ Front yards. The Planning and Zoning Commission may reduce the
 required front yard setback to permit proposed buildings in substantially

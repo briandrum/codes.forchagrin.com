@@ -342,9 +342,10 @@ motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.  
 (ORC 4511.99)
 
-## 313.06   Flashing traffic signals (Repealed)
+## 313.06   Flashing traffic signals
 
-(Former Ohio R.C. 4511.15 from which Section 313.06 was derived was repealed by House Bill 349, effective April 20, 2012.)
+(Former Ohio R.C. 4511.15 from which Section 313.06 was derived was repealed by
+House Bill 349, effective April 20, 2012.)
 
 ## 313.07   Unauthorized signs and signals, hiding from view, advertising
 

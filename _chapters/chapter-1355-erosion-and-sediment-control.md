@@ -613,7 +613,8 @@ Environmental Protection Agency and shall include the following information:
         9. _(I)_ List TMDLs applicable for the site and demonstrate that
         appropriate BMPs or stormwater control measures (SCMs) have been
         selected to address these TMDLs. [A TMDL identifier table for Northeast
-        Ohio communities is available at http://www.neohiostormwater.com/]
+        Ohio communities is available at
+        [http://www.neohiostormwater.com/](https://www.neohiostormwater.com/)]
 
         10. _(J)_ For subdivided developments a detail drawing of a typical
         individual lot showing standard individual lot erosion and sediment
@@ -970,13 +971,13 @@ Sediment control must meet the following requirements:
         The volume of the sediment storage zone shall be calculated by one of
         the following methods:
 
-            1. Method 1: The volume of the sediment storage zone shall be
-            1000ft3 per disturbed acre within the watershed of the basin.
+        * Method 1: The volume of the sediment storage zone shall be 1000ft3 per
+        disturbed acre within the watershed of the basin.
 
-            2. Method 2: The volume of the sediment storage zone shall be the
-            volume necessary to store the sediment as calculated with Revised
-            Universal Soil Loss Equation (RUSLE) or other generally accepted
-            erosion prediction model.
+        * Method 2: The volume of the sediment storage zone shall be the volume
+        necessary to store the sediment as calculated with Revised Universal
+        Soil Loss Equation (RUSLE) or other generally accepted erosion
+        prediction model.
 
         When determining the total contributing drainage area, off-site areas and areas
         which remain undisturbed by construction activity must be included unless
@@ -1318,27 +1319,27 @@ description of maintenance procedures needed to ensure the continued performance
 of control and shall ensure a responsible party and adequate funding to conduct
 this maintenance, all as determined by the Village of Chagrin Falls Engineer.
 
-When inspections reveal the need for repair, replacement, or installation of
-erosion and sediment control BMPs, the following procedures shall be followed:
+  When inspections reveal the need for repair, replacement, or installation of
+  erosion and sediment control BMPs, the following procedures shall be followed:
 
-    1. _(1)_ When BMPs require repair or maintenance. If an internal inspection
-    reveals that a BMP is in need of repair or maintenance, with the exception
-    of a sediment-settling pond, it must be repaired or maintained within three
-    (3) days of the inspection. Sediment settling ponds must be repaired or
-    maintained within ten (10) days of the inspection.
+  1. _(1)_ When BMPs require repair or maintenance. If an internal inspection
+  reveals that a BMP is in need of repair or maintenance, with the exception
+  of a sediment-settling pond, it must be repaired or maintained within three
+  (3) days of the inspection. Sediment settling ponds must be repaired or
+  maintained within ten (10) days of the inspection.
 
-    2. _(2)_ When BMPs fail to provide their intended function.  If an internal
-    inspection reveals that a BMP fails to perform its intended function as
-    detailed in the SWP3 and that another, more appropriate is required, the
-    SWP3 must be amended and the new BMP must be installed within ten (10) days
-    of notice from the Village Engineer.
+  2. _(2)_ When BMPs fail to provide their intended function.  If an internal
+  inspection reveals that a BMP fails to perform its intended function as
+  detailed in the SWP3 and that another, more appropriate is required, the
+  SWP3 must be amended and the new BMP must be installed within ten (10) days
+  of notice from the Village Engineer.
 
-    3. _(3)_ When BMPs depicted on the SWP3 are not installed. If an internal
-    inspection reveals that a BMP has not been implemented in accordance with
-    the schedule, the must be implemented within ten (10) days from the date of
-    the inspection. If the internal inspection reveals that the planned is not
-    needed, the record must contain a statement of explanation as to why the is
-    not needed.
+  3. _(3)_ When BMPs depicted on the SWP3 are not installed. If an internal
+  inspection reveals that a BMP has not been implemented in accordance with
+  the schedule, the must be implemented within ten (10) days from the date of
+  the inspection. If the internal inspection reveals that the planned is not
+  needed, the record must contain a statement of explanation as to why the is
+  not needed.
 
 10. _(j)_ Final Stablization. Final stabilization shall be determined by the
 Village of Chagrin Falls Engineer. Once a definable area has achieved final

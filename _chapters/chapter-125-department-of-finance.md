@@ -511,15 +511,15 @@ herein listed:
 
 |                                                                |                |
 |----------------------------------------------------------------|---------------:|
-| Complete Codified Ordinances                                   | $150.00        |
+| Complete Codified Ordinances                                   |        $150.00 |
 | Annual replacement pages for Codified Ordinances               | 25.00 per year |
-| Zoning Code                                                    | 75.00          |
+| Zoning Code                                                    |          75.00 |
 | Annual replacement pages for Zoning Code                       | 15.00 per year |
-| Zoning Map                                                     | 2.00           |
-| Copies of Police or Fire Reports (per page)                    | .05            |
-| Photographs (each print - sold in complete sets only)          | 5.00           |
-| Enlarged photographs (each print - sold in complete sets only) | 15.00          |
-| Miscellaneous copies (per page)                                | .05            |
+| Zoning Map                                                     |           2.00 |
+| Copies of Police or Fire Reports (per page)                    |            .05 |
+| Photographs (each print - sold in complete sets only)          |           5.00 |
+| Enlarged photographs (each print - sold in complete sets only) |          15.00 |
+| Miscellaneous copies (per page)                                |            .05 |
 
 (Ord. 1997-6. Passed 1-13-97; Ord. 2005-28. Passed 6-13-05.)
 

@@ -2462,12 +2462,12 @@ If a taxpayer has not submitted such a form, the Tax Administrator may accept
 other evidence, as the Tax Administrator considers appropriate, that a person is
 the authorized representative of a taxpayer.
 
-A taxpayer may refuse to answer any questions asked by the person conducting an
-audit until the taxpayer has an opportunity to consult with the taxpayer’s
-attorney, accountant, bookkeeper, or other tax practitioner.
+    A taxpayer may refuse to answer any questions asked by the person conducting
+    an audit until the taxpayer has an opportunity to consult with the
+    taxpayer’s attorney, accountant, bookkeeper, or other tax practitioner.
 
-This division does not authorize the practice of law by a person who is not an
-attorney.
+    This division does not authorize the practice of law by a person who is not
+    an attorney.
 
 4. _(D)_ A taxpayer may record, electronically or otherwise, the audit
 examination.
@@ -2535,20 +2535,21 @@ mail.
     shall show the date the Tax Administrator sends the assessment and include
     the following statement:
 
-    "This assessment is deemed to be served on the addressee under applicable
-    law ten (10) days from the date this assessment was mailed by the Tax
-    Administrator as shown on the assessment, and all periods within which an
-    appeal may be filed apply from and after that date."
+        "This assessment is deemed to be served on the addressee under
+        applicable law ten (10) days from the date this assessment was mailed by
+        the Tax Administrator as shown on the assessment, and all periods within
+        which an appeal may be filed apply from and after that date."
 
-    Unless the mailing is returned because of an undeliverable address, the
-    mailing of that information is prima facie evidence that delivery of the
-    assessment was completed ten (10) days after the Tax Administrator sent the
-    assessment by ordinary mail and that the assessment was served.
+        Unless the mailing is returned because of an undeliverable address, the
+        mailing of that information is prima facie evidence that delivery of the
+        assessment was completed ten (10) days after the Tax Administrator sent
+        the assessment by ordinary mail and that the assessment was served.
 
-    If the ordinary mail is subsequently returned because of an undeliverable
-    address, the Tax Administrator shall proceed under division (C)(1)(a) of
-    this section. A person may challenge the presumption of delivery and service
-    under this division in accordance with division (D) of this section.
+        If the ordinary mail is subsequently returned because of an
+        undeliverable address, the Tax Administrator shall proceed under
+        division (C)(1)(a) of this section. A person may challenge the
+        presumption of delivery and service under this division in accordance
+        with division (D) of this section.
 
 4. _(D)_
 

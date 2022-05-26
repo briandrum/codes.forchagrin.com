@@ -650,24 +650,24 @@ decides.
 
 ## Table A
 
-### Actions Requiring Various Types of Municipal Authorizations
+**Actions Requiring Various Types of Municipal Authorizations**
 
-| Proposed Action Regarding a Structure or Land | Zoning Certificate | Building Permit | Zoning Commission Approval | ABR Approval | Municipal Engineer Approval |
-|-----------------------------------------------|:------------------:|:---------------:|:--------------------------:|:------------:|:---------------------------:|
-| Land subdivision                              |                    |                 | &#x2718;                   |              | &#x2718;                    |
-| Change in use                                 | &#x2718;           |                 | &#x2718;[^1]               |              |                             |
-| Erection                                      | &#x2718;           | &#x2718;        | &#x2718;[^2]               | &#x2718;     | &#x2718;                    |
-| Enlargement                                   | &#x2718;           | &#x2718;        | &#x2718;[^1]               | &#x2718;     |                             |
-| Moving                                        | &#x2718;           | &#x2718;        | &#x2718;[^2]               | &#x2718;     |                             |
-| Demolition                                    |                    | &#x2718;        |                            | &#x2718;     |                             |
-| Alteration                                    | &#x2718;           | &#x2718;        |                            | &#x2718;     |                             |
-| Repair                                        |                    | &#x2718;        |                            | &#x2718;     |                             |
-| Outdoor Lighting                              |                    |                 | &#x2718;                   | &#x2718;[^3] | &#x2718;[^3]                |
+| Proposed Action Regarding a Structure or Land | Zoning Certificate | Building Permit | Zoning Commission Approval | ABR Approval         | Municipal Engineer Approval |
+|-----------------------------------------------|:------------------:|:---------------:|:--------------------------:|:--------------------:|:---------------------------:|
+| Land subdivision                              |                    |                 | &#x2718;                   |                      | &#x2718;                    |
+| Change in use                                 | &#x2718;           |                 | &#x2718;<sup>1</sup>       |                      |                             |
+| Erection                                      | &#x2718;           | &#x2718;        | &#x2718;<sup>2</sup>       | &#x2718;             | &#x2718;                    |
+| Enlargement                                   | &#x2718;           | &#x2718;        | &#x2718;<sup>1</sup>       | &#x2718;             |                             |
+| Moving                                        | &#x2718;           | &#x2718;        | &#x2718;<sup>2</sup>       | &#x2718;             |                             |
+| Demolition                                    |                    | &#x2718;        |                            | &#x2718;             |                             |
+| Alteration                                    | &#x2718;           | &#x2718;        |                            | &#x2718;             |                             |
+| Repair                                        |                    | &#x2718;        |                            | &#x2718;             |                             |
+| Outdoor Lighting                              |                    |                 | &#x2718;                   | &#x2718;<sup>3</sup> | &#x2718;<sup>3</sup>        |
 
-[^1]: _1._ Planning and Zoning Commission approval required only if a change in the number of required parking space is involved.
+<sup>1</sup> <small>Planning and Zoning Commission approval required only if a change in the number of required parking space is involved.</small>
 
-[^2]: _2._ For main buildings; except in R1 and R2F Districts.
+<sup>2</sup> <small>For main buildings; except in R1 and R2F Districts.</small>
 
-[^3]: _3._ Except in R1 and R2F Districts.  
+<sup>3</sup> <small>Except in R1 and R2F Districts.</small>
 
 (Ord. 2019-39. Passed 8-13-19.)

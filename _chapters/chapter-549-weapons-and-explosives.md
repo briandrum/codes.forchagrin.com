@@ -634,7 +634,7 @@ or instruction nor when otherwise lawfully authorized.
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
 degree.
 
-## 549.10   Reporting sale of firearms (Repealed)
+## 549.10   Reporting sale of firearms
 
 (Editor’s note: Former Section 549.10 was repealed by Ordinance 2019-50,
 passed October 14, 2019.)

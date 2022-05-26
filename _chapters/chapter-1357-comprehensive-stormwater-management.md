@@ -107,7 +107,8 @@ maintenance procedures, treatment requirements, and other management practices
 water resources and to control stormwater volume and rate. This includes
 practices to control runoff, spillage or leaks, sludge or waste disposal, or
 drainage from raw material storage. For guidance, please see U.S. EPA’s
-National Menu of BMPs at http://water.epa.gov/polwaste/npdes/swbmp/index.cfm.
+National Menu of BMPs at
+[http://water.epa.gov/polwaste/npdes/swbmp/index.cfm](https://water.epa.gov/polwaste/npdes/swbmp/index.cfm).
 4. _(d)_ Clean water act: Pub. L. 92-500, as amended Pub. L. 95-217, Pub. L.
 95-576, Pub. L. 96-483, Pub. L. 97-117, and Pub. L. 100-4, 33 U.S.C. 1251 et.
 seq. Referred to as the Federal Water Pollution Control Act or the Federal
@@ -248,7 +249,8 @@ maintenance procedures, treatment requirements, and other management practices
 water resources and to control stormwater volume and rate. This includes
 practices to control runoff, spillage or leaks, sludge or waste disposal, or
 drainage from raw material storage. For guidance, please see U.S. EPA’s
-National Menu of BMPs at http://water.epa.gov/polwaste/npdes/swbmp/index.cfm.
+National Menu of BMPs at
+[http://water.epa.gov/polwaste/npdes/swbmp/index.cfm](https://water.epa.gov/polwaste/npdes/swbmp/index.cfm).
 41. _(oo)_ STRUCTURAL STORM WATER MANAGEMENT PRACTICE OR STORMWATER CONTROL
 MEASURE (SCM): Any constructed facility, structure, or device that prevents or
 reduces the discharge of pollutants to water resources and controls stormwater
@@ -508,8 +510,9 @@ wetlands or other special aquatic sites at or near the site which will be
 disturbed or which will receive discharges from undisturbed areas of the
 project.
         11. _(K)_ TMDLs applicable for the site [refer to TMDL community
-identifier table at http://www.neohiostormwater.com/]; demonstrate that
-appropriate (SCMs) have been selected to address these TMDLs.
+identifier table at
+[http://www.neohiostormwater.com/](https://www.neohiostormwater.com/)];
+demonstrate that appropriate (SCMs) have been selected to address these TMDLs.
         12. _(L)_ For each SCM, identify the drainage area, percent impervious
 cover within the drainage area, runoff coefficient for water quality volume,
 peak discharge, and the time of concentration for each subwatershed per
@@ -965,7 +968,7 @@ in flow velocities. This shall include but not be limited to:
 
             i = fraction of the drainage area that is impervious
 
-            Table 1: Runoff Coefficients Based on the Type of Land Use
+            **Table 1: Runoff Coefficients Based on the Type of Land Use**
 
             | Land Use                                           |Runoff Coefficient |
             |----------------------------------------------------|------------------:|
@@ -1003,20 +1006,20 @@ in flow velocities. This shall include but not be limited to:
         vegetation management, debris control, and other maintenance activities
         defined in the Inspection Plan and Maintenance Agreement for the site.
 
-        Table 2: Draw Down Times for Stormwater Control Measures
+        **Table 2: Draw Down Times for Stormwater Control Measures**
 
-        Stormwater Control Measure                      | Drain Time of WQv
-        ------------------------------------------------|------------------
-        Infiltration Basin or Trench<sup>1</sup>        | 48 hours
-        Permeable Pavement - Infiltration<sup>1</sup>   | 48 hours
-        Permeable Pavement - Extended Detention         | 24 hours
-        Extended Detention Facilities                   |         
-            Dry Extended Detention Basin<sup>2</sup>    | 48 hours
-            Wet Extended Detention Basin<sup>3</sup>    | 24 hours
-            Constructed Wetlands (above permanent pool) | 24 hours
-            Bioretention Area/Cell*<sup>5,6</sup>       | 24 hours
-            Sand and other Media Filtration<sup>5</sup> | 24 hours
-            Pocket Wetland<sup>7</sup>                  | 24 hours
+        | Stormwater Control Measure                      | Drain Time of WQv |
+        | ------------------------------------------------|-------------------|
+        | Infiltration Basin or Trench<sup>1</sup>        | 48 hours          |
+        | Permeable Pavement - Infiltration<sup>1</sup>   | 48 hours          |
+        | Permeable Pavement - Extended Detention         | 24 hours          |
+        | Extended Detention Facilities                   |                   |
+        |     Dry Extended Detention Basin<sup>2</sup>    | 48 hours          |
+        |     Wet Extended Detention Basin<sup>3</sup>    | 24 hours          |
+        |     Constructed Wetlands (above permanent pool) | 24 hours          |
+        |     Bioretention Area/Cell*<sup>5,6</sup>       | 24 hours          |
+        |     Sand and other Media Filtration<sup>5</sup> | 24 hours          |
+        |     Pocket Wetland<sup>7</sup>                  | 24 hours          |
 
         <sup>1</sup> <small>Practices designed to fully infiltrate the WQv shall
         empty within 48 hours to provide storage for subsequent storm
@@ -1154,8 +1157,8 @@ concentrations. Time of concentration shall also show the flow path and the
 separation in flow type.
                     5. _(5)_ Rainfall Depth - For the most accurate, up-to-date, location-
 specific rainfall data for stormwater design, use the Precipitation-Frequency
-Atlas of the United States, NOAA Atlas 14, Vol 2(3). [available online: http:/
-/hdsc.nws.noaa.gov/hdsc/pfds/.]
+Atlas of the United States, NOAA Atlas 14, Vol 2(3). [available online:
+[http://hdsc.nws.noaa.gov/hdsc/pfds/](https://hdsc.nws.noaa.gov/hdsc/pfds/).]
                     6. _(6)_ Temporal Distribution - Use the SCS Type II rainfall
 distribution for all design events with a recurrence interval greater than 1
 year. Include lot coverage assumptions used for full build out of the proposed
@@ -1186,32 +1189,40 @@ bioretention, or other LID SCMs may be subtracted from the post development
 stormwater volume. Volume reductions for these practices may be demonstrated
 using methods outlined in Rainwater and Land Development or a hydrologic model
 acceptable to the Village Engineer.
-                2. _(b)_ To account for future post-construction improvements to the site,
-calculations shall assume an impervious surface such as asphalt or concrete for
-all parking areas and driveways, regardless of the surface proposed in the site
-description except in instances of engineered permeable pavement systems. From
-the volume determined in Section 1357.09(d)(3) of this Chapter, determine the
-percent increase in volume of runoff due to development. Using the percentage,
-select the 24-hour Critical Storm from Table 3.
-Table 3: 24-Hour Critical Storm
-If the Percentage of Increase in Volume of Runoff is: The critical
-Equal to or   and Less Than:                          storm will be:
-Greater Than:
---            10                                      1 year
-10            20                                      2 year
-20            50                                      5 year
-50            100                                     10 year
-100           250                                     25 year
-250           500                                     50 year
-500           ---                                     100 year
-For example, if the percent increase between the pre- and post-development
-runoff volume for a 1-year storm is 35%, the Critical Storm is a 5-year
-storm. The peak discharge rate of runoff for all storms up to this frequency
-shall be controlled so as not to exceed the peak discharge rate from the 1-
-year frequency storm under pre-development conditions in the development
-drainage area. The post-development runoff from all less frequent storms need
-only be controlled to meet pre-development peak discharge rates for each of
-those same storms.
+                2. _(b)_ To account for future post-construction improvements to
+                the site, calculations shall assume an impervious surface such
+                as asphalt or concrete for all parking areas and driveways,
+                regardless of the surface proposed in the site description
+                except in instances of engineered permeable pavement systems.
+                From the volume determined in Section 1357.09(d)(3) of this
+                Chapter, determine the percent increase in volume of runoff due
+                to development. Using the percentage, select the 24-hour
+                Critical Storm from Table 3.
+
+                **Table 3: 24-Hour Critical Storm**
+
+                | If the Percentage of Increase in Volume of Runoff is: |                |                             |
+                |------------------------------------------------------:|---------------:|----------------------------:|
+                |                             Equal to or Greater Than: | and Less Than: | The critical storm will be: |
+                |                                                    -- |             10 |                      1 year |
+                |                                                    10 |             20 |                      2 year |
+                |                                                    20 |             50 |                      5 year |
+                |                                                    50 |            100 |                     10 year |
+                |                                                   100 |            250 |                     25 year |
+                |                                                   250 |            500 |                     50 year |
+                |                                                   500 |            --- |                    100 year |
+
+                For example, if the percent increase between the pre- and
+                post-development runoff volume for a 1-year storm is 35%, the
+                Critical Storm is a 5-year storm. The peak discharge rate of
+                runoff for all storms up to this frequency shall be controlled
+                so as not to exceed the peak discharge rate from the 1- year
+                frequency storm under pre-development conditions in the
+                development drainage area. The post-development runoff from all
+                less frequent storms need only be controlled to meet
+                pre-development peak discharge rates for each of those same
+                storms.
+
         5. _(E)_ Stormwater Management on Redevelopment Projects.
             1. _(1)_ Comprehensive Stormwater Management Plans for redevelopment
 projects shall reduce existing site impervious areas by at least 20 percent. A

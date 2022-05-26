@@ -31,7 +31,7 @@ to contact the Director of Finance for copies of relevant legislation.)
 * [149.18   Funeral leave](#14918-funeral-leave)
 * [149.19   Probation](#14919-probation)
 * [149.20   Employee contributions to OPERS AND OP&F](#14920-employee-contributions-to-opers-and-op&f)
-* [149.21   PFDPF pickup (Repealed)](#14921-pfdpf-pickup-repealed)
+* [149.21   PFDPF pickup](#14921-pfdpf-pickup) (Repealed)
 * [149.22   Pre-employment physical](#14922-pre-employment-physical)
 * [149.23   Payment of part-time police officers at construction projects; regulation of part- time employment of police officers](#14923-payment-of-part-time-police-officers-at-construction-projects-regulation-of-part-time-employment-of-police-officers)
 * [149.24   Purchase of grave sites](#14924-purchase-of-grave-sites)
@@ -555,7 +555,7 @@ the provisions of this plan and making applications to the appropriate State
 retirement boards.  
 (Ord. 2011-26. Passed 5-23-11.)
 
-## 149.21   PFDPF pickup (Repealed)
+## 149.21   PFDPF pickup
 
 Editor’s note: Former Section 149.21 was repealed by Ordinance 2011-26, passed
 May 23, 2011.

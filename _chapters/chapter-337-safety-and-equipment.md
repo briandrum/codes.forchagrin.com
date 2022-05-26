@@ -925,7 +925,7 @@ or reduced. In “Federal Motor Vehicle Safety Standard Number 205" (FMVSS 205)
 motor vehicles or motor vehicle equipment, including any person importing motor
 vehicles or motor vehicle equipment for resale. “Federal Motor Vehicle Safety
 Standard Number 205" (FMVSS), Code of Federal Regulations, Title 49, Part 571,
-can be obtained online at web site http://www.gpo.gov.
+can be obtained online at web site [http://www.gpo.gov](https://www.gpo.gov/).
         2. _(B)_ Any sunscreening material or other product or material applied to
 the windshield when used in conjunction with the safety glazing materials of
 such window, has a light transmittance of not less than seventy per cent plus
@@ -986,8 +986,8 @@ windshields that is otherwise in compliance with or permitted by "Federal Motor
 Vehicle Safety Standard Number 205" (FMVSS 205) in effect at the time of the
 manufacture of the motor vehicle as provided in subsection (a) hereof.
 “Federal Motor Vehicle Safety Standard Number 205" (FMVSS 205), Code of Federal
-Regulations, Title 49, Part 571, can be obtained online at web site http://
-www.gpo.gov.  
+Regulations, Title 49, Part 571, can be obtained online at web site
+[http://www.gpo.gov](https://www.gpo.gov/).  
 (OAC 4501-41-05)
 3. _(c)_ Definitions. As used in this section, certain terms are defined as
 follows:

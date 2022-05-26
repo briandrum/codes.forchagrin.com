@@ -165,23 +165,25 @@ Cemetery Trustees.
 and engraving.  
 (Ord. 2017-14. Passed 3-13-17.)
 5. _(e)_ Niche prices: Two cremations may be interred in each niche.  
-                       Resident            Non-Resident
-Columbarium 1
-(up to two cremations)
-Tier A                 $1,600.00           $2,400.00
-Tier B                 $1,500.00           $2,300.00
-Tier C                 $1,400.00           $2,200.00
-Tier D                 $1,300.00           $2,100.00
-Columbarium 3
-(up to two cremations)
-Tier A                 $3,500.00           $6,000.00
-Tier B                 $3,000.00           $5,000.00
-Tier C                 $2,500.00           $4,000.00
-Tier D                 $2,000.00           $3,000.00
-Engraving
-                       $350.00 (one name)  $350.00 (one name)
-Two Names              $525.00 (two names) $525.00 (two names)  
+
+|                                          | Resident  | Non-Resident |
+|------------------------------------------|----------:|-------------:|
+| **Columbarium 1 (up to two cremations)** |           |              |
+| Tier A                                   | $1,600.00 |    $2,400.00 |
+| Tier B                                   | $1,500.00 |    $2,300.00 |
+| Tier C                                   | $1,400.00 |    $2,200.00 |
+| Tier D                                   | $1,300.00 |    $2,100.00 |
+| **Columbarium 3 (up to two cremations)** |           |              |
+| Tier A                                   | $3,500.00 |    $6,000.00 |
+| Tier B                                   | $3,000.00 |    $5,000.00 |
+| Tier C                                   | $2,500.00 |    $4,000.00 |
+| Tier D                                   | $2,000.00 |    $3,000.00 |
+| **Engraving**                            |           |              |
+| One Name                                 |   $350.00 |      $350.00 |
+| Two Names                                |   $525.00 |      $525.00 |
+
 (Ord. 2020-40. Passed 9-14-20.)
+
 6. _(f)_ NICHE BURIAL PROCEDURES & COSTS (OPENING & CLOSING): After 3:00 PM on
 a weekday is $500.00.
 7. _(g)_ The cost for a niche interment before 2:00 PM Monday through Saturday
