@@ -13,47 +13,47 @@ Committees are made up of three council members and all meet on an as-needed bas
 
 ### Administration & Compensation Committee
 
-- Jack Subel (Chair)
+- Jack Subel, Chairman
 - Angie DeBernardo
 - Mike Corkran
 
 ### Facilities & Services Committee
 
-- Angie DeBernardo (Chair)
+- Angie DeBernardo, Chairwoman
 - Brian Drum
 - Andrew Rockey
 
 ### Finance Committee
 
-- Erinn Grube (Chair)
+- Erinn Grube, Chairwoman
 - Mike Corkran
 - Nancy Rogoff
 
 ### Safety Committee
 
-- Andrew Rockey (Chair)
+- Andrew Rockey, Chairman
 - Jack Subel
 - Nancy Rogoff
 
 ### Streets & Sidewalks Committee
 
-- Erin Grubbe (Chair)
+- Erin Grubbe, Chairwoman
 - Jack Subel
 - Andrew Rockey
 
 ### Utilities Committee
 
-- Mike Corkran (Chair)
+- Mike Corkran, Chairman
 - Erinn Grube
 - Brian Drum
 
 ## Boards
 
-These groups act on behalf of the Village to make decisions regarding zoning and architecture.
+These groups act on behalf of the Village to make decisions regarding architecture and zoning.
 
 ### Architectural Board of Review (ABR)
 
- - No council representative.
+ - No council representative
 
 ### Board of Zoning Appeals (BZA)
 
@@ -71,9 +71,13 @@ These are groups made up primarily of residents with one member of council as a 
 
 - Erinn Grube
 
+### Grove Hill Park Commission
+
+- Nancy Rogoff
+
 ### Parking Commission
 
-- Currently inactive
+- Mike Corkran
 
 ### Parks Commission
 

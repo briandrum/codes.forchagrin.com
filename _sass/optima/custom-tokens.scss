@@ -16,8 +16,15 @@
   --Markdown-h2-color: inherit;
   --Markdown-h2-fontSize: 1.5em;
   --Markdown-h2-fontWeight: 500;
-  --Markdown-h2-lineHeight: calc(48 / 45);
-  --Markdown-h2-marginTop: calc((48 / 45) * 1em);
+  --Markdown-h2-lineHeight: calc(24 / 22.5);
+  --Markdown-h2-marginTop: calc((24 / 22.5) * 1em);
+
+  --Markdown-h3-fontFamily: "Oswald", sans-serif;
+  --Markdown-h3-color: inherit;
+  --Markdown-h3-fontSize: 1.2em;
+  --Markdown-h3-fontWeight: 500;
+  --Markdown-h3-lineHeight: calc(24 / 18);
+  --Markdown-h3-marginTop: calc((24 / 18) * 1em);
 
   /* Page */
   --Page-fontFmaily: var(--font-sans);
