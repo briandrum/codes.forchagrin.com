@@ -967,13 +967,13 @@ in flow velocities. This shall include but not be limited to:
 
             Table 1: Runoff Coefficients Based on the Type of Land Use
 
-            Land Use                                          |Runoff Coefficient
-            --------------------------------------------------|------------------
-            Industrial & Commercial                           |0.8
-            High Density Residential (>8 dwellings/acre)      |0.5
-            Medium Density Residential (4 to 8 dwellings/acre)|0.4
-            Low Density Residential (<4 dwellings/acre)       |0.3
-            Open Space and Recreational Areas                 |0.2
+            | Land Use                                           |Runoff Coefficient |
+            |----------------------------------------------------|------------------:|
+            | Industrial & Commercial                            |               0.8 |
+            | High Density Residential (>8 dwellings/acre)       |               0.5 |
+            | Medium Density Residential (4 to 8 dwellings/acre) |               0.4 |
+            | Low Density Residential (<4 dwellings/acre)        |               0.3 |
+            | Open Space and Recreational Areas                  |               0.2 |
 
             Where land use will be mixed, the runoff coefficient should be
             calculated using a weighted average. For example, if 60% of the
