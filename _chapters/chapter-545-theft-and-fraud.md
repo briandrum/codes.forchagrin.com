@@ -33,14 +33,11 @@ title: "Chapter 545: Theft and Fraud"
 
 ## Cross references
 
-        See sectional histories for similar State law
-        Property defined - see GEN. OFF.
-501.01(j)
-        Cheating - see GEN. OFF. 517.05
-        Falsification - see GEN. OFF.
-525.02
-        Impersonating a public servant - see GEN. OFF.
-525.03
+* See sectional histories for similar State law
+* Property defined - see GEN. OFF. 501.01(j)
+* Cheating - see GEN. OFF. 517.05
+* Falsification - see GEN. OFF. 525.02
+* Impersonating a public servant - see GEN. OFF. 525.03
 
 ## 545.01   Definitions
 

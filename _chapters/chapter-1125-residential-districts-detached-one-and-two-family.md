@@ -59,29 +59,28 @@ Lots in R1 and R2F Districts shall be occupied by no more than one (1) main
 building per lot, and further, shall be developed and maintained in accordance
 with the following regulations.
 
-                                              R1-100 R1-60 R1-50 R2F
-                                                                 1F/2F
-(a)   Lot size, minimum (sq. ft.)          20,000 9,000 6,000 6,000/8,000
-(b)   Lot width at building line, minimum  100    60    50    50/60
-(ft)
-(c)   Street frontage: minimum (ft.)*      100    60    50    50/60
-(d)   Lot depth: minimum (ft.)             160    120   100   100/120
-(e)   Coverage by main building, maximum   18%    20%   24%   24%/27%
-(f)   Front yard setback, minimum (ft.)    50     35    30    30/30
-(g)   Side yard setback, minimum (ft.)
-w/attached garage: each side                  10     5     3     3/5
-total                                         24     12    8     8/12
-w/detached garage: each side                  14     5     3     3/5
-total                                         28     15    12    13/15
-corner lots, from side street **              10     10    10    10/10
-(h)   Rear yard setback, minimum (ft.)     50     40    30    30/30
-                                              (or 30% of depth, whichever is
-                                              less)
-(i)   Dwelling unit area, minimum (sq. ft.)
-1 - story building                            1,200  950   800   750/950
-2 - 2 1/2 story building                      1,500  1,250 1,100 800/1,100
-*except as permitted in subsection (m) hereof
-** except as regulated in subsection (n) hereof
+|                                                                     |                               R1-100 | R1-60 | R1-50 |   R2F 1F/2F |
+|---------------------------------------------------------------------|-------------------------------------:|------:|------:|------------:|
+| (a) Lot size, minimum (sq. ft.)                                     |                               20,000 | 9,000 | 6,000 | 6,000/8,000 |
+| (b) Lot width at building line, minimum (ft)                        |                                  100 |    60 |    50 |       50/60 |
+| (c) Street frontage: minimum (ft.)*                                 |                                  100 |    60 |    50 |       50/60 |
+| (d) Lot depth: minimum (ft.)                                        |                                  160 |   120 |   100 |     100/120 |
+| (e) Coverage by main building, maximum                              |                                  18% |   20% |   24% |     24%/27% |
+| (f) Front yard setback, minimum (ft.)                               |                                   50 |    35 |    30 |       30/30 |
+| (g) Side yard setback, minimum (ft.) w/attached garage: each side |                                   10 |     5 |     3 |         3/5 |
+| total                                                               |                                   24 |    12 |     8 |        8/12 |
+| w/detached garage: each side                                        |                                   14 |     5 |     3 |         3/5 |
+| total                                                               |                                   28 |    15 |    12 |       13/15 |
+| corner lots, from side street **                                    |                                   10 |    10 |    10 |       10/10 |
+| (h) Rear yard setback, minimum (ft.)                                |                                   50 |    40 |    30 |       30/30 |
+|                                                                     | (or 30% of depth, whichever is less) |       |       |             |
+| (i) Dwelling unit area, minimum (sq. ft.)                           |                                      |       |       |             |
+| 1 - story building                                                  |                                1,200 |   950 |   800 |     750/950 |
+| 2 - 2 1/2 story building                                            |                                1,500 | 1,250 | 1,100 |   800/1,100 |
+
+\*except as permitted in subsection (m) hereof  
+\** except as regulated in subsection (n) hereof
+
 10. _(j)_ Height. The height of a dwelling shall not exceed thirty- five feet
 above finished grade. The Architectural Board of Review shall determine
 finished grade. Chimneys and antennae located on the dwelling may exceed this

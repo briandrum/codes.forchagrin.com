@@ -181,44 +181,54 @@ Homo sapiens from fertilization until live birth.
             2. _(2)_ “Viable” means the stage of development of a human fetus at
 which there is a realistic possibility of maintaining and nourishing of a life
 outside the womb with or without temporary artificial life-sustaining support.
+
     2. _(2)_ Notwithstanding subsection (o)(1)A. hereof, in no case shall the
-portion of the definition of the term “person” that is set forth in subsection
-(o)(1)A.2. hereof be applied or construed in any section contained in Part Five
-- General Offenses Code that sets forth a criminal offense in any of the
-following manners:
-        1. _(A)_ Except as otherwise provided in subsection (o)(2)A. hereof, in a
-manner so that the offense prohibits or is construed as prohibiting any
-pregnant woman or her physician from performing an abortion with the consent of
-the pregnant woman, with the consent of the pregnant woman implied by law in a
-medical emergency, or with the approval of one otherwise authorized by law to
-consent to medical treatment on behalf of the pregnant woman. An abortion that
-violates the conditions described in the immediately preceding sentence may be
-punished as a violation of Ohio R.C. 2903.01, 2903.02, 2903.03, 2903.04,
-2903.05, 2903.06, 2903.08, 2903.11, 2903.12, 2903.13, 2903.14, 2903.21, or
-2903.22, as applicable. An abortion that does not violate the conditions
-described in the second immediately preceding sentence, but that does violate
-Ohio R.C. 2919.12, division (B) of Ohio R.C. 2919.13, or Ohio R.C. 2919.151,
-2919.17 or 2919.18, may be punished as a violation of Ohio R.C. 2919.12,
-division (B) of Ohio R.C. 2919.13, or Ohio R.C. 2919.151, 2919.17 or 2919.18,
-as applicable. Consent is sufficient under this subsection if it is of the
-type otherwise adequate to permit medical treatment to the pregnant woman, even
-if it does not comply with Ohio R.C. 2919.12.
+    portion of the definition of the term “person” that is set forth in
+    subsection (o)(1)A.2. hereof be applied or construed in any section
+    contained in Part Five - General Offenses Code that sets forth a criminal
+    offense in any of the following manners:
+
+        1. _(A)_ Except as otherwise provided in subsection (o)(2)A. hereof, in
+        a manner so that the offense prohibits or is construed as prohibiting
+        any pregnant woman or her physician from performing an abortion with the
+        consent of the pregnant woman, with the consent of the pregnant woman
+        implied by law in a medical emergency, or with the approval of one
+        otherwise authorized by law to consent to medical treatment on behalf of
+        the pregnant woman. An abortion that violates the conditions described
+        in the immediately preceding sentence may be punished as a violation of
+        Ohio R.C. 2903.01, 2903.02, 2903.03, 2903.04, 2903.05, 2903.06, 2903.08,
+        2903.11, 2903.12, 2903.13, 2903.14, 2903.21, or 2903.22, as applicable.
+        An abortion that does not violate the conditions described in the second
+        immediately preceding sentence, but that does violate Ohio R.C. 2919.12,
+        division (B) of Ohio R.C. 2919.13, or Ohio R.C. 2919.151, 2919.17 or
+        2919.18, may be punished as a violation of Ohio R.C. 2919.12, division
+        (B) of Ohio R.C. 2919.13, or Ohio R.C. 2919.151, 2919.17 or 2919.18, as
+        applicable. Consent is sufficient under this subsection if it is of the
+        type otherwise adequate to permit medical treatment to the pregnant
+        woman, even if it does not comply with Ohio R.C. 2919.12.
+
         2. _(B)_ In a manner so that the offense is applied or is construed as
-applying to a woman based on an act or omission of the woman that occurs while
-she is or was pregnant and that results in any of the following:
+        applying to a woman based on an act or omission of the woman that occurs
+        while she is or was pregnant and that results in any of the following:
+
             1. _(1)_ Her delivery of a stillborn baby;
+
             2. _(2)_ Her causing, in any other manner, the death in utero of a
-viable, unborn human that she is carrying;
-            3. _(3)_ Her causing the death of her child who is born alive but who
-dies from one or more injuries that are sustained while the child is a viable,
-unborn human;
-            4. _(4)_ Her causing her child who is born alive to sustain one or more
-injuries while the child is a viable, unborn human;
-            5. _(5)_ Her causing, threatening to cause, or attempting to cause, in
-any other manner, an injury, illness or other physiological impairment,
-regardless of its duration or gravity, or a mental illness or condition,
-regardless of its duration or gravity, to a viable, unborn human that she is
-carrying.
+            viable, unborn human that she is carrying;
+
+            3. _(3)_ Her causing the death of her child who is born alive but
+            who dies from one or more injuries that are sustained while the
+            child is a viable, unborn human;
+
+            4. _(4)_ Her causing her child who is born alive to sustain one or
+            more injuries while the child is a viable, unborn human;
+
+            5. _(5)_ Her causing, threatening to cause, or attempting to cause,
+            in any other manner, an injury, illness or other physiological
+            impairment, regardless of its duration or gravity, or a mental
+            illness or condition, regardless of its duration or gravity, to a
+            viable, unborn human that she is carrying.
+
 16. _(p)_ “School safety zone” consists of a school, school building, school
 premises, school activity, and school bus.
 17. _(q)_ “School”, “school building” and “school premises” have the same

@@ -804,28 +804,41 @@ charitable organization with bingo game operators, security personnel,
 concessions, bingo supplies, or any other type of service;
     10. _(10)_ Purchase or lease bingo supplies from any person except a
 distributor issued a license under Ohio R.C. 2915.081;
-    11. _(11)_ A.   Use or permit the use of electronic bingo aids except under
-the following circumstances:
-            1. _(1)_ For any single participant, not more than ninety bingo faces
-can be played using an electronic bingo aid or aids.
-            2. _(2)_ The charitable organization shall provide a participant using
-an electronic bingo aid with corresponding paper bingo cards or sheets.
-            3. _(3)_ The total price of bingo faces played with an electronic bingo
-aid shall be equal to the total price of the same number of bingo faces played
-with a paper bingo card or sheet sold at the same bingo session but without an
-electronic bingo aid.
+
+    11. _(11)_
+    
+        1. _(A)_ Use or permit the use of electronic bingo aids except under the
+        following circumstances:
+
+            1. _(1)_ For any single participant, not more than ninety bingo
+            faces can be played using an electronic bingo aid or aids.
+
+            2. _(2)_ The charitable organization shall provide a participant
+            using an electronic bingo aid with corresponding paper bingo cards
+            or sheets.
+
+            3. _(3)_ The total price of bingo faces played with an electronic
+            bingo aid shall be equal to the total price of the same number of
+            bingo faces played with a paper bingo card or sheet sold at the same
+            bingo session but without an electronic bingo aid.
+
             4. _(4)_ An electronic bingo aid cannot be part of an electronic
-network other than a network that includes only bingo aids and devices that are
-located on the premises at which the bingo is being conducted or be interactive
-with any device not located on the premises at which the bingo is being
-conducted.
-            5. _(5)_ An electronic bingo aid cannot be used to participate in bingo
-that is conducted at a location other than the location at which the bingo
-session is conducted and at which the electronic bingo aid is used.
+            network other than a network that includes only bingo aids and
+            devices that are located on the premises at which the bingo is being
+            conducted or be interactive with any device not located on the
+            premises at which the bingo is being conducted.
+
+            5. _(5)_ An electronic bingo aid cannot be used to participate in
+            bingo that is conducted at a location other than the location at
+            which the bingo session is conducted and at which the electronic
+            bingo aid is used.
+
             6. _(6)_ An electronic bingo aid cannot be used to provide for the
-input of numbers and letters announced by a bingo caller other than the bingo
-caller who physically calls the numbers and letters at the location at which
-the bingo session is conducted and at which the electronic bingo aid is used.
+            input of numbers and letters announced by a bingo caller other than
+            the bingo caller who physically calls the numbers and letters at the
+            location at which the bingo session is conducted and at which the
+            electronic bingo aid is used.
+
         2. _(B)_ The Attorney General may adopt rules in accordance with Ohio R.C.
 Chapter 119 that govern the use of electronic bingo aids. The rules may
 include a requirement that an electronic bingo aid be capable of being audited
@@ -935,33 +948,44 @@ serve the food or beverages;
 an instant bingo game, except as provided in Section 517.09(d);
     11. _(11)_ Pay fees to any person who provides refreshments to the
 participants in an instant bingo game;
-    12. _(12)_ A.   Allow instant bingo tickets or cards to be sold to bingo game
-operators at a premises at which the organization sells instant bingo tickets
-or cards or to be sold to employees of a D permit holder who are working at a
-premises at which instant bingo tickets or cards are sold;
-        2. _(B)_ Subsection (a)(12)A. of this section does not prohibit a licensed
-charitable organization or a bingo game operator from giving any person an
-instant bingo ticket as a prize in place of a cash prize won by a participant
-in an instant bingo game. In no case shall an instant bingo ticket or card be
-sold or provided for a price different from the price printed on it by the
-manufacturer on either the instant bingo ticket or card or on the game flare.
+
+    12. _(12)_
+    
+        _(A)_ Allow instant bingo tickets or cards to be sold to bingo game
+        operators at a premises at which the organization sells instant bingo
+        tickets or cards or to be sold to employees of a D permit holder who are
+        working at a premises at which instant bingo tickets or cards are sold;
+
+        2. _(B)_ Subsection (a)(12)A. of this section does not prohibit a
+        licensed charitable organization or a bingo game operator from giving
+        any person an instant bingo ticket as a prize in place of a cash prize
+        won by a participant in an instant bingo game. In no case shall an
+        instant bingo ticket or card be sold or provided for a price different
+        from the price printed on it by the manufacturer on either the instant
+        bingo ticket or card or on the game flare.
+
     13. _(13)_ Fail to display its bingo license, and the serial numbers of the
-deal of instant bingo tickets or cards to be sold, conspicuously at each
-premises at which it sells instant bingo tickets or cards;
+    deal of instant bingo tickets or cards to be sold, conspicuously at each
+    premises at which it sells instant bingo tickets or cards;
+
     14. _(14)_ Possess a deal of instant bingo tickets or cards that was not
-purchased from a distributor licensed under Ohio R.C. 2915.081 as reflected on
-an invoice issued by the distributor that contains all of the information
-required by Section 517.11(f);
+    purchased from a distributor licensed under Ohio R.C. 2915.081 as reflected
+    on an invoice issued by the distributor that contains all of the information
+    required by Section 517.11(f);
+
     15. _(15)_ Fail, once it opens a deal of instant bingo tickets or cards, to
-continue to sell the tickets or cards in that deal until the tickets or cards
-with the top two highest tiers of prizes in that deal are sold;
+    continue to sell the tickets or cards in that deal until the tickets or
+    cards with the top two highest tiers of prizes in that deal are sold;
+
     16. _(16)_ Possess bingo supplies that were not obtained in accordance with
-Ohio R.C. 2915.01 to 2915.13.
+    Ohio R.C. 2915.01 to 2915.13.
+
 2. _(b)_ A charitable organization may purchase, lease, or use instant bingo
 ticket dispensers to sell instant bingo tickets or cards.
-3. _(c)_ Whoever violates subsection (a) of this section or a rule adopted
-under Ohio R.C. 2915.091(C) is guilty of illegal instant bingo conduct. Except
-as otherwise provided in this subsection, illegal instant bingo conduct is a
+
+3. _(c)_ Whoever violates subsection (a) of this section or a rule adopted under
+Ohio R.C. 2915.091(C) is guilty of illegal instant bingo conduct. Except as
+otherwise provided in this subsection, illegal instant bingo conduct is a
 misdemeanor of the first degree. If the offender previously has been convicted
 of a violation of subsection (a) of this section or of such a rule, illegal
 instant bingo conduct is a felony and shall be prosecuted under appropriate

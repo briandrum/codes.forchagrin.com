@@ -105,32 +105,42 @@ The following limitations are to apply for emissions from any stack or vent
 within the Municipality:
 
 1. _(a)_ Smoke.
-Ringleman                  Combustion Devices
-Chart No.   Incinerators   Other Than Incinerators
-1           No limitations No limitations
-2           Not allowed    10 minutes any 1 hour period
-3           Not allowed    5 minutes any 8 hour period
-4 & 5       Not allowed    Not allowed
-Exceptions:
+
+    | Ringleman Chart No. | Incinerators   | Combustion Devices Other Than Incinerators |
+    |---------------------|----------------|--------------------------------------------|
+    | 1                   | No limitations | No limitations                             |
+    | 2                   | Not allowed    | 10 minutes any 1 hour period               |
+    | 3                   | Not allowed    | 5 minutes any 8 hour period                |
+    | 4 & 5               | Not allowed    | Not allowed                                |
+
+    Exceptions:
+
     1. _(1)_ During equipment breakdown.
+
     2. _(2)_ During initial firing from complete shutdown.
+
 2. _(b)_ Gases, Fumes and Other Pollution. No emission of poisonous, obnoxious,
-pungent or ill-smelling gases, fumes or other air pollutants are permitted
-from any stack or from any other source in the Municipality so as to cause a
-nuisance or create a health hazard.
+pungent or ill-smelling gases, fumes or other air pollutants are permitted from
+any stack or from any other source in the Municipality so as to cause a nuisance
+or create a health hazard.
+
 3. _(c)_ Dust or Fumes. No emission with color other than black is to be
-discharged in excess of a No. 2 Ringleman Chart density or opacity. An
-exception is in the event the emission represents water vapor in its pure form.
-4. _(d)_ Settleable Particulates. This includes materials classified as fly
-ash, soot, dust or other unclassified particulate matter. The maximum allowable
+discharged in excess of a No. 2 Ringleman Chart density or opacity. An exception
+is in the event the emission represents water vapor in its pure form.
+
+4. _(d)_ Settleable Particulates. This includes materials classified as fly ash,
+soot, dust or other unclassified particulate matter. The maximum allowable
 discharge from combustion devices shall be:
 
-Incinerators            0.20 lbs./1,000 lbs. stack gas
-Other than incinerators 0.65 lbs./1,000 lbs. stack gas
-The foregoing requirements are to be calculated in accordance with American
-Society of Mechanical Engineers PTC-21-1941 procedure. In each case stack gases
-are to be adjusted to fifty percent excess air.  
-(Ord. 1968-740. Passed 10-1-68.)
+    |                         |                                |
+    |-------------------------|--------------------------------|
+    | Incinerators            | 0.20 lbs./1,000 lbs. stack gas |
+    | Other than incinerators | 0.65 lbs./1,000 lbs. stack gas |
+
+    The foregoing requirements are to be calculated in accordance with American
+    Society of Mechanical Engineers PTC-21-1941 procedure. In each case stack
+    gases are to be adjusted to fifty percent excess air.  
+    (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.06   Nuisances other than stack emissions
 

@@ -44,6 +44,7 @@ with the requirements of this Building Code and other ordinances or regulations
 of the Municipality and not in violation of other regulations applicable
 thereto, the Inspector shall issue a written permit and collect therefor the
 fees specified in this chapter.
+
 2. _(b)_ Any owner, occupant, architect, builder, plumber, carpenter, mason,
 electrician or other artisan, who performs work for which a permit is necessary
 prior to the issuance of said permit, shall pay a permit fee that is twice the
@@ -54,18 +55,21 @@ amount of the permit fee which would ordinarily be charged for such work.
 
 The fees for new single-family dwellings shall be as follows:
 
-(a) Building permit                                            $ 500.00
-    An additional fee per 100 square feet of floor area or
-    fraction thereof, (floor area shall be measured by using
-    outside building dimensions and shall include all floors,
-    including the basement, but shall only include one-half of
-    any attic floor)
-                                                                     10.00
-(b) Plumbing permit                                                100.00
-(c) Electrical permit                                            150.00
-(d) Heating permit                                                 100.00
-(e) Water permit - see Water Regulations, Part Nine, Streets and Public
-    Services Code For water utilized during construction.  
+1. _(a)_ Building permit: $ 500.00
+
+* An additional fee per 100 square feet of floor area or fraction thereof,
+(floor area shall be measured by using outside building dimensions and shall
+include all floors, including the basement, but shall only include one-half of
+any attic floor): $10.00
+
+2. _(b)_ Plumbing permit: $100.00
+
+3. _(c)_ Electrical permit: $150.00
+
+4. _(d)_ Heating permit: $100.00
+
+5. _(e)_ Water permit - see Water Regulations, Part Nine, Streets and Public
+Services Code For water utilized during construction.  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.03   Additions to single-family dwellings, alterations and repairs
@@ -73,168 +77,211 @@ The fees for new single-family dwellings shall be as follows:
 The fees for additions to single-family dwellings, alterations and repairs,
 shall be as follows:
 
-(a)     Building permit
-        (1) Not exceeding 200 square feet                       $ 100.00
-        (2) Each additional 100 square feet or fraction thereof       5.00
-(b)         Plumbing permit                                         50.00
-(c)         Electrical permit                                       75.00
-(d)      Heating permit                                          50.00  
+1. _(a)_ Building permit
+
+    1. _(1)_ Not exceeding 200 square feet: $100.00
+
+    2. _(2)_ Each additional 100 square feet or fraction thereof: $5.00
+
+2. _(b)_     Plumbing permit: $50.00
+
+4. _(c)_     Electrical permit: $75.00
+
+5. _(d)_ Heating permit: $50.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.04   New garages and accessory buildings
 
-The fee for new garages and accessory buildings shall be $50.00 plus $1.00
-for each 100 square feet of building ground coverage.  
+The fee for new garages and accessory buildings shall be $50.00 plus $1.00 for
+each 100 square feet of building ground coverage.  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.05   Additions to garages
 
 The fee for additions to garages shall be as follows:
 
-Building permit $ 50.00  
+* Building permit $ 50.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.06   Demolition and moving
 
 The fees for demolishing and moving buildings shall be as follows:
 
-(a) Permit
-    (1) Demolition of any building                                $ 150.00
-        Moving any building on a public street or highway,
-    (2) excepting open buildings or sheds across a property line,
-        initial fee
-                                                                      150.00
-        In addition to the initial fee, there shall be a charge
-    (3) per hour while the building is on a public street or
-        highway, as follows:
-        During the first 24 hours                                     30.00
-        After the first 24 hours                                      60.00  
-(Ord. 2014-06. Passed 1-27-14.)
+1. _(a)_ Permit
+
+    1. _(1)_ Demolition of any building: $150.00
+
+    2. _(2)_ Moving any building on a public street or highway, excepting open
+    buildings or sheds across a property line, initial fee: $150.00
+
+    3. _(3)_ In addition to the initial fee, there shall be a charge per hour
+    while the building is on a public street or highway, as follows:
+
+        * During the first 24 hours: $30.00
+        * After the first 24 hours: $60.00
+        (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.07   New apartments or multiple dwellings
 
 The fees for new apartments or multiple dwellings, if no State permit is
 required, shall be as follows:
-(a) Building permit
-    (1) Two-family dwelling, per dwelling unit                     $500.00
-    (2) Apartment house containing more than two dwelling units, 200.00
-        per unit
-    (3) Motels or hotels, per dwelling unit                      200.00
 
-        An additional fee per 100 square feet of floor area or
-        fraction thereof, (floor area shall be measured by using
-    (4) outside building dimensions and shall include all
-        floors, including the basement, but shall include only
-        one-half of any attic floor)
-                                                                        5.00
-(b) Plumbing permit for each dwelling unit                           100.00
-(c) Electrical permit for each dwelling unit                         150.00
-(d) Heating permit for each dwelling unit                            100.00
-(e) Water permit for water utilized during construction-see
-    Water Regulations, Part Nine, Streets & Public Services Code  
+1. _(a)_ Building permit
+
+    1. _(1)_ Two-family dwelling, per dwelling unit: $500.00
+
+    2. _(2)_ Apartment house containing more than two dwelling units, per unit:
+    $200.00
+
+    3. _(3)_ Motels or hotels, per dwelling unit: $200.00
+
+    4. _(4)_ An additional fee per 100 square feet of floor area or fraction
+    thereof, (floor area shall be measured by using outside building dimensions
+    and shall include all floors, including the basement, but shall include only
+    one-half of any attic floor): $5.00
+
+2. _(b)_ Plumbing permit for each dwelling unit: $100.00
+
+3. _(c)_ Electrical permit for each dwelling unit: $150.00
+
+4. _(d)_ Heating permit for each dwelling unit: $100.00
+
+5. _(e)_ Water permit for water utilized during construction-see Water
+Regulations, Part Nine, Streets & Public Services Code  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.08   Additions or alterations to apartments or multiple dwellings
 
-The fees for additions or alterations to apartments or multiple dwellings,
-if no State permit is required, shall be as follows:
+The fees for additions or alterations to apartments or multiple dwellings, if no
+State permit is required, shall be as follows:
 
-(a) Building permit
-    (1) Apartment or multiple dwellings, motels or hotels
-                                                               $ 130.00
+1. _(a)_ Building permit
 
-        An additional fee per 100 square feet or fraction
-        thereof of total floor area on all floors in excess of
-    (2) 600 square feet, (floor area shall be measured by
-        using outside building dimensions and shall include
-        all floors, including basement, but shall include only
-        one-half of any attic floor)
-                                                                       5.00
-(b) Plumbing permit                                            100.00
-(c) Electrical permit                                          150.00
-(d) Heating permit                                             100.00  
+    1. _(1)_ Apartment or multiple dwellings, motels or hotels: $130.00
+
+    2. _(2)_ An additional fee per 100 square feet or fraction thereof of total
+    floor area on all floors in excess of 600 square feet, (floor area shall be
+    measured by using outside building dimensions and shall include all floors,
+    including basement, but shall include only one-half of any attic floor):
+    $5.00
+
+2. _(b)_ Plumbing permit: $100.00
+
+3. _(c)_ Electrical permit: $150.00
+
+4. _(d)_ Heating permit: $100.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.09   Industrial or commercial buildings
 
-The fees for industrial or commercial building, if no State permit is
-required, shall be as follows:
-(a) Building permit
-    (1) Initial fee per floor or story                             $ 125.00
-    (2) An additional fee, per 100 square feet or fraction thereof         7.50
-(b) Plumbing permit                                                75.00
-(c) Electrical permit                                              125.00
-(d) Heating permit                                                 75.00
-(e) Storage tanks (not including septic tanks)
-    (1) Up to 2,000 gallons capacity                               65.00
-    (2) 2,001 gallons up to 4,999 gallons capacity                 95.00
-    (3) 5,000 gallons or more capacity                                   125.00
-(f) Water permit
+The fees for industrial or commercial building, if no State permit is required,
+shall be as follows:
+
+1. _(a)_ Building permit
+
+    1. _(1)_ Initial fee per floor or story: $ 125.00
+
+    2. _(2)_ An additional fee, per 100 square feet or fraction thereof: $7.50
+
+2. _(b)_ Plumbing permit: $75.00
+
+3. _(c)_ Electrical permit: $125.00
+
+4. _(d)_ Heating permit: $75.00
+
+5. _(e)_ Storage tanks (not including septic tanks)
+
+    1. _(1)_ Up to 2,000 gallons capacity: $65.00
+
+    2. _(2)_ 2,001 gallons up to 4,999 gallons capacity: $95.00
+
+    3. _(3)_ 5,000 gallons or more capacity: $125.00
+
+6. _(f)_ Water permit
+
     For water utilized during construction - see Water Regulations, Part Nine,
     Streets and Public Services Code  
-(Ord. 2014-06. Passed 1-27-14.)
+    (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.10   Additions to industrial or commercial buildings, alterations and repairs
 
 The fees for additions to industrial or commercial buildings, alterations
 and repairs, if no State permit is required, shall be as follows:
 
-(a) Building permit
-    (1) Initial fee per floor or story                           $ 200.00
-        Additional fee per 100 square feet or fraction thereof,
-        (floor area shall be measured by using outside building
-    (2) dimensions and shall include all floors, including the
-        basement)
-                                                                     5.00
-(b) Plumbing permit                                              100.00
-(c) Electrical permit                                            100.00
-(d) Heating permit                                               100.00  
+1. _(a)_ Building permit
+
+    1. _(1)_ Initial fee per floor or story: $200.00
+
+        Additional fee per 100 square feet or fraction thereof, (floor area
+        shall be measured by using outside building
+
+    2. _(2)_ dimensions and shall include all floors, including the basement):
+    $5.00
+
+2. _(b)_ Plumbing permit: $100.00
+
+3. _(c)_ Electrical permit: $100.00
+
+4. _(d)_ Heating permit: $100.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.11   Architectural review fees
 
 The following permit fees shall be charged:
-(a) Detached/attached garage - 500 to 700 sq. ft.                    $ 50.00
-    Detached/attached garage - 499 sq. ft. or less                 50.00
-         attached garage - over 700 sq. ft.                    45.00
-(b) Residential additions and/or interior remodeling (nearest room
-    size)
-    500 sq. ft. and over                                           55.00
-    499 sq. ft. and under                                          30.00
-(c) Any new residence - including three-family                     120.00
-(d) Any new or remodeled commercial, industrial or multi-family
-    building                                                           150.00
-(e) Re-submission of plan for review
-    Revisions by owner                                             25.00
-                                                      (at discretion of Board)  
+
+1. _(a)_
+
+    * Detached/attached garage - 500 to 700 sq. ft.: $50.00
+
+    * Detached/attached garage - 499 sq. ft. or less: $50.00
+
+    * attached garage - over 700 sq. ft.: $45.00
+
+2. _(b)_ Residential additions and/or interior remodeling (nearest room size)
+
+    * 500 sq. ft. and over: $55.00
+
+    * 499 sq. ft. and under: $30.00
+
+3. _(c)_ Any new residence - including three-family: $120.00
+
+4. _(d)_ Any new or remodeled commercial, industrial or multi-family building:
+$150.00
+
+5. _(e)_ Re-submission of plan for review
+
+    * Revisions by owner: $25.00
+
+    * (at discretion of Board)
+
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.12   Sign fees
 
 The fees for signs shall be as follows:
 
- Nonilluminated, per sign $ 50.00  
+* Nonilluminated, per sign: $50.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.13   Swimming pools
 
 The fee for a swimming pool shall be as follows:
 
-Building permit $ 100.00  
+* Building permit $ 100.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.14   Fence or wall near property line
 
 The fee for a fence or wall near a property line shall be as follows:
 
-Building permit, if height exceeds three feet $ 40.00  
+* Building permit, if height exceeds three feet: $40.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.15   Minor permit where no inspection
 
 The fee for minor permits where there is no inspection shall be:
 
-Minor building permit $ 20.00  
+* Minor building permit $ 20.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.16   Special inspection fees
@@ -242,18 +289,15 @@ Minor building permit $ 20.00
 There shall be no additional fees for inspections covered in the preceding
 sections except as hereafter provided:
 
-    Whenever an inspection has been requested and the work is found
-    incomplete or not ready for inspection, or in need of
-(a) correction, and a reinspection is necessary, there shall be a
-    reinspection fee of
-                                                                       $ 30.00
-    Whenever a special inspection, not a routine inspection of work
-(b) being done under a permit, is requested, there shall be an
-    inspection fee of
-                                                                     30.00
-    Whenever a sanitary sewer inspection of any kind is requested or
-(c) required there shall be a fee of
-                                                                     75.00  
+1. _(a)_ Whenever an inspection has been requested and the work is found
+incomplete or not ready for inspection, or in need of correction, and a
+reinspection is necessary, there shall be a reinspection fee of: $30.00
+
+2. _(b)_ Whenever a special inspection, not a routine inspection of work being
+done under a permit, is requested, there shall be an inspection fee of: $30.00
+
+3. _(c)_ Whenever a sanitary sewer inspection of any kind is requested or
+required there shall be a fee of: $75.00  
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.17   Fees for central air conditioning units in residential dwellings

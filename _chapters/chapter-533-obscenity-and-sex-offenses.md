@@ -664,32 +664,47 @@ solely as a result of an image or other information provided by another person:
 5. _(e)_ Any conduct that is a violation of this section and any other section
 of the General Offenses Code, or the Revised Code may be prosecuted under this
 section, the other section, or both sections.
+
 6. _(f)_
-    1. _(1)_ A.   Except as otherwise provided in subsection (f)(1)B., C., or
-D. of this section, whoever violates this section is guilty of nonconsensual
-dissemination of private sexual images, a misdemeanor of the third degree.
+
+    1. _(1)_
+
+        1. _(A)_ Except as otherwise provided in subsection (f)(1)B., C., or D.
+        of this section, whoever violates this section is guilty of
+        nonconsensual dissemination of private sexual images, a misdemeanor of
+        the third degree.
+
         2. _(B)_ If the offender previously has been convicted of or pleaded
-guilty to a violation of this section, nonconsensual dissemination of private
-sexual images is a misdemeanor of the second degree.
+        guilty to a violation of this section, nonconsensual dissemination of
+        private sexual images is a misdemeanor of the second degree.
+
         3. _(C)_ If the offender previously has been convicted of or pleaded
-guilty to two or more violations of this section, nonconsensual dissemination
-of private sexual images is a misdemeanor of the first degree.
-        4. _(D)_ If the offender is under eighteen years of age and the person in
-the image is not more than five years older than the offender, the offender
-shall not be prosecuted under this section.
+        guilty to two or more violations of this section, nonconsensual
+        dissemination of private sexual images is a misdemeanor of the first
+        degree.
+
+        4. _(D)_ If the offender is under eighteen years of age and the person
+        in the image is not more than five years older than the offender, the
+        offender shall not be prosecuted under this section.
+
     2. _(2)_ In addition to any other penalty or disposition authorized or
-required by law, the court may order any person who is convicted of a violation
-of this section or who is adjudicated delinquent by reason of a violation of
-this section to criminally forfeit all of the following property to the state
-under Ohio R.C. Chapter 2981.
-        1. _(A)_ Any profits or proceeds and any property the person has acquired
-or maintained in violation of this section that the sentencing court determines
-to have been acquired or maintained as a result of the violation;
+    required by law, the court may order any person who is convicted of a
+    violation of this section or who is adjudicated delinquent by reason of a
+    violation of this section to criminally forfeit all of the following
+    property to the state under Ohio R.C. Chapter 2981.
+
+        1. _(A)_ Any profits or proceeds and any property the person has
+        acquired or maintained in violation of this section that the sentencing
+        court determines to have been acquired or maintained as a result of the
+        violation;
+
         2. _(B)_ Any interest in, securities of, claim against, or property or
-contractual right of any kind affording a source of influence over any
-enterprise that the person has established, operated, controlled or conducted
-in violation of this section that the sentencing court determines to have been
-acquired or maintained as a result of the violation.
+        contractual right of any kind affording a source of influence over any
+        enterprise that the person has established, operated, controlled or
+        conducted in violation of this section that the sentencing court
+        determines to have been acquired or maintained as a result of the
+        violation.
+
 7. _(g)_ A victim of a violation of this section may commence a civil cause of
 action against the offender, as described in Ohio R.C. 2307.66.  
 (ORC 2917.211)

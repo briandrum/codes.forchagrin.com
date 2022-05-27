@@ -33,3 +33,11 @@
 .Markdown li > ol {
   margin-top: 0;
 }
+
+.Markdown table {
+  min-width: 100%;
+}
+
+.Markdown td strong {
+  font-weight: var(--Markdown-table-th-fontWeight);
+}

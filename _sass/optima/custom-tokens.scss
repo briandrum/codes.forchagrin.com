@@ -26,6 +26,16 @@
   --Markdown-h3-lineHeight: calc(24 / 18);
   --Markdown-h3-marginTop: calc((24 / 18) * 1em);
 
+  --Markdown-table-td-fontFamily: "Oswald", sans-serif;
+  --Markdown-table-td-fontSize: 1.2em;
+  --Markdown-table-td-fontWeight: 300;
+  --Markdown-table-td-lineHeight: calc(24 / 18);
+
+  --Markdown-table-th-fontFamily: "Oswald", sans-serif;
+  --Markdown-table-th-fontSize: 1.2em;
+  --Markdown-table-th-fontWeight: 500;
+  --Markdown-table-th-lineHeight: calc(24 / 18);
+
   /* Page */
   --Page-fontFmaily: var(--font-sans);
 

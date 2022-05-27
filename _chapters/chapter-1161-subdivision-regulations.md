@@ -578,13 +578,14 @@ underground utilities can be located outside of pavement areas.
 
     3. _(3)_ Street right-of-way widths and grades.
 
-                                                Minimum  Grades
-                                              Right-of-Wayby Percent
-    Classification                          Width in Feet  Maximum Minimum
-    Major arterial thoroughfare             60*            6       0.5
-    Collector, commercial and local streets 60*            12      0.5
-    *  Indicates a minimum ten-foot easement to be adjacent to the proposed
-    right-of-way lines on both sides of the streets.
+        |                                         | Minimum Right-of-Way | Grades by Percent |         |
+        |-----------------------------------------|---------------------:|------------------:|---------|
+        | Classification                          |        Width in Feet |           Maximum | Minimum |
+        | Major arterial thoroughfare             |                  60* |                 6 |     0.5 |
+        | Collector, commercial and local streets |                  60* |                12 |     0.5 |
+
+        \*Indicates a minimum ten-foot easement to be adjacent to the proposed
+        right-of-way lines on both sides of the streets.
 
     4. _(4)_ Half streets. Half streets shall be prohibited except where there
     is an existing half street adjacent to the subdivision, in which case the

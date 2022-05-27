@@ -29,15 +29,12 @@ title: "Chapter 525: Law Enforcement and Public Office"
 
 ## Cross references
 
-          See sectional histories for similar State law
-        Law enforcement officer defined - see GEN. OFF.
-501.01(k)
-        Misconduct at an emergency - see GEN. OFF.
-509.05
-        Making false alarms - see GEN. OFF.
-509.07
-        Personating an officer to defraud - see GEN. OFF.
-545.16
+See sectional histories for similar State law
+
+* Law enforcement officer defined - see GEN. OFF. 501.01(k)
+* Misconduct at an emergency - see GEN. OFF. 509.05
+* Making false alarms - see GEN. OFF. 509.07
+* Personating an officer to defraud - see GEN. OFF. 545.16
 
 ## 525.01   Definitions
 

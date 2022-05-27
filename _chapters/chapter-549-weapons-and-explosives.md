@@ -506,59 +506,80 @@ contraband, the officer shall return the firearm to the person at the
 termination of the stop. If a court orders a law enforcement officer to return
 a firearm to a person pursuant to the requirement set forth in this subsection,
 division (B) of Ohio R.C. 2923.163 applies.
+
 8. _(h)_ As used in this section:
+
     1. _(1)_ “Motor vehicle”, “street” and “highway” have the same meanings as
-in Ohio R.C. 4511.01.
-    2. _(2)_ A.    “Unloaded” means:
+    in Ohio R.C. 4511.01.
+
+    2. _(2)_
+
+        1. _(A)_ “Unloaded” means:
+
             1. _(1)_ With respect to a firearm other than a firearm described in
-subsection (h)(2)B. of this section, that no ammunition is in the firearm in
-question, no magazine or speed loader containing ammunition is inserted into
-the firearm in question and one of the following applies:
-                1. _(a)_ There is no ammunition in a magazine or speed loader that
-is in the vehicle in question and that may be used with the firearm in
-question.
-                2. _(b)_ Any magazine or speed loader that contains ammunition and
-that may be used with the firearm in question is stored in a compartment within
-the vehicle in question that cannot be accessed without leaving the vehicle or
-is stored in a container that provides complete and separate enclosure.
-            2. _(2)_ For the purposes of subsection (h)(2)A.1.b. of this section, a
-“container that provides complete and separate enclosure” includes, but is not
-limited to, any of the following:
-                1. _(a)_ A package, box or case with multiple compartments, as long
-as the loaded magazine or speed loader and the firearm in question either are
-in separate compartments within the package, box, or case, or, if they are in
-the same compartment, the magazine or speed loader is contained within a
-separate enclosure in that compartment that does not contain the firearm and
-that closes using a snap, button, buckle, zipper, hook and loop closing
-mechanism, or other fastener that must be opened to access the contents or the
-firearm is contained within a separate enclosure of that nature in that
-compartment that does not contain the magazine or speed loader;
-                2. _(b)_ A pocket or other enclosure on the person of the person in
-question that closes using a snap, button, buckle, zipper, hook and loop
-closing mechanism, or other fastener that must be opened to access the
-contents.     
+            subsection (h)(2)B. of this section, that no ammunition is in the
+            firearm in question, no magazine or speed loader containing
+            ammunition is inserted into the firearm in question and one of the
+            following applies:
+
+                1. _(a)_ There is no ammunition in a magazine or speed loader
+                that is in the vehicle in question and that may be used with the
+                firearm in question.
+
+                2. _(b)_ Any magazine or speed loader that contains ammunition
+                and that may be used with the firearm in question is stored in a
+                compartment within the vehicle in question that cannot be
+                accessed without leaving the vehicle or is stored in a container
+                that provides complete and separate enclosure.
+
+            2. _(2)_ For the purposes of subsection (h)(2)A.1.b. of this
+            section, a “container that provides complete and separate enclosure”
+            includes, but is not limited to, any of the following:
+
+                1. _(a)_ A package, box or case with multiple compartments, as
+                long as the loaded magazine or speed loader and the firearm in
+                question either are in separate compartments within the package,
+                box, or case, or, if they are in the same compartment, the
+                magazine or speed loader is contained within a separate
+                enclosure in that compartment that does not contain the firearm
+                and that closes using a snap, button, buckle, zipper, hook and
+                loop closing mechanism, or other fastener that must be opened to
+                access the contents or the firearm is contained within a
+                separate enclosure of that nature in that compartment that does
+                not contain the magazine or speed loader;
+
+                2. _(b)_ A pocket or other enclosure on the person of the person
+                in question that closes using a snap, button, buckle, zipper,
+                hook and loop closing mechanism, or other fastener that must be
+                opened to access the contents.
+
             3. _(3)_ For the purposes of subsection (h)(2)A. of this section,
-ammunition held in stripper-clips or in en-bloc clips is not considered
-ammunition that is loaded into a magazine or speed loader.
+            ammunition held in stripper-clips or in en-bloc clips is not
+            considered ammunition that is loaded into a magazine or speed
+            loader.
+
         2. _(B)_ “Unloaded” means, with respect to a firearm employing a
-percussion cap, flintlock, or other obsolete ignition system, when the weapon
-is uncapped or when the priming charge is removed from the pan.
+        percussion cap, flintlock, or other obsolete ignition system, when the
+        weapon is uncapped or when the priming charge is removed from the pan.
+
     3. _(3)_ “Commercial motor vehicle” has the same meaning as in Ohio R.C.
-4506.25(A).
+    4506.25(A).
+
     4. _(4)_ “Motor carrier enforcement unit” means the motor carrier
-enforcement unit in the Department of Public Safety, Division of State Highway
-Patrol, that is created by Ohio R.C. 5503.34.
+    enforcement unit in the Department of Public Safety, Division of State
+    Highway Patrol, that is created by Ohio R.C. 5503.34.
+
 9. _(i)_ Subsection (h)(2) of this section does not affect the authority of a
 person who is carrying a valid concealed handgun license to have one or more
 magazines or speed loaders containing ammunition anywhere in a vehicle, without
 being transported as described in that subsection, as long as no ammunition is
-in a firearm, other than a handgun, in the vehicle other than as permitted
-under any other provision of this chapter or Ohio R.C. Chapter 2923. A person
-who is carrying a valid concealed handgun license may have one or more
-magazines or speed loaders containing ammunition anywhere in a vehicle without
-further restriction, as long as no ammunition is in a firearm, other than a
-handgun, in the vehicle other than as permitted under any provision of this
-chapter or Ohio R.C. Chapter 2923.  
+in a firearm, other than a handgun, in the vehicle other than as permitted under
+any other provision of this chapter or Ohio R.C. Chapter 2923. A person who is
+carrying a valid concealed handgun license may have one or more magazines or
+speed loaders containing ammunition anywhere in a vehicle without further
+restriction, as long as no ammunition is in a firearm, other than a handgun, in
+the vehicle other than as permitted under any provision of this chapter or Ohio
+R.C. Chapter 2923.  
 (ORC 2923.16)
 
 ## 549.05   Failure to secure dangerous ordnance

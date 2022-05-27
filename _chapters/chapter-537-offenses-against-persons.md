@@ -380,29 +380,39 @@ record of this State and who has the powers and may perform the functions
 specified in Civil Rule 53, Criminal Rule 19, or Juvenile Rule 40, or an
 individual who is appointed by a United States court located in this State who
 has similar powers and functions.
+
     18. _(18)_ “Prosecutor” has the same meaning as in Ohio R.C. 2935.01.
-    19. _(19)_ A.   “Hospital” means, subject to subsection (d)(19)B. of this
-section, an institution classified as a hospital under Ohio R.C. 3701.01 in
-which are provided to patients diagnostic, medical, surgical, obstetrical,
-psychiatric, or rehabilitation care or a hospital operated by a health
-maintenance organization.
+
+    19. _(19)_
+
+        _(A)_ “Hospital” means, subject to subsection (d)(19)B. of this section,
+        an institution classified as a hospital under Ohio R.C. 3701.01 in which
+        are provided to patients diagnostic, medical, surgical, obstetrical,
+        psychiatric, or rehabilitation care or a hospital operated by a health
+        maintenance organization.
+
         2. _(B)_ “Hospital” does not include any of the following:
+
             1. _(1)_ A facility licensed under Ohio R.C. Chapter 3721, a health
-care facility operated by the Department of Mental Health or the Department of
-Developmental Disabilities, a health maintenance organization that does not
-operate a hospital, or the office of any private, licensed health care
-professional, whether organized for individual or group practice;
-            2. _(2)_ An institution for the sick that is operated exclusively for
-patients who use spiritual means for healing and for whom the acceptance of
-medical care is inconsistent with their religious beliefs, accredited by a
-national accrediting organization, exempt from federal income taxation under
-Section 501 of the “Internal Revenue Code of 1986", 100 Stat. 2085, 26 U.S.C.
-1, as amended, and providing twenty-four-hour nursing care pursuant to the
-exemption in division (E) of Ohio R.C. 4723.32 from the licensing requirements
-of Ohio R.C. Chapter 4723.
+            care facility operated by the Department of Mental Health or the
+            Department of Developmental Disabilities, a health maintenance
+            organization that does not operate a hospital, or the office of any
+            private, licensed health care professional, whether organized for
+            individual or group practice;
+
+            2. _(2)_ An institution for the sick that is operated exclusively
+            for patients who use spiritual means for healing and for whom the
+            acceptance of medical care is inconsistent with their religious
+            beliefs, accredited by a national accrediting organization, exempt
+            from federal income taxation under Section 501 of the “Internal
+            Revenue Code of 1986", 100 Stat. 2085, 26 U.S.C. 1, as amended, and
+            providing twenty-four-hour nursing care pursuant to the exemption in
+            division (E) of Ohio R.C. 4723.32 from the licensing requirements of
+            Ohio R.C. Chapter 4723.
+
     20. _(20)_ “Health maintenance organization” has the same meaning as in Ohio
-R.C. 3727.01.  
-(ORC 2903.13)
+    R.C. 3727.01.  
+    (ORC 2903.13)
 
 ## 537.04   Negligent assault
 
