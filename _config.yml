@@ -29,6 +29,8 @@ header_pages:
  - committees-boards-and-commissions.md
 
 collections:
+  articles:
+    output: true
   chapters:
     output: true
   parts:

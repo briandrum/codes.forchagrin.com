@@ -971,12 +971,12 @@ Sediment control must meet the following requirements:
         The volume of the sediment storage zone shall be calculated by one of
         the following methods:
 
-        * Method 1: The volume of the sediment storage zone shall be 1000ft3 per
-        disturbed acre within the watershed of the basin.
+        * **Method 1:** The volume of the sediment storage zone shall be 1000ft³
+        per disturbed acre within the watershed of the basin.
 
-        * Method 2: The volume of the sediment storage zone shall be the volume
-        necessary to store the sediment as calculated with Revised Universal
-        Soil Loss Equation (RUSLE) or other generally accepted erosion
+        * **Method 2:** The volume of the sediment storage zone shall be the
+        volume necessary to store the sediment as calculated with Revised
+        Universal Soil Loss Equation (RUSLE) or other generally accepted erosion
         prediction model.
 
         When determining the total contributing drainage area, off-site areas and areas
