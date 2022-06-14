@@ -19,8 +19,8 @@ title: "Chapter 915: Storm Sewers, Culverts and Roadside Ditches"
 
 ## Cross references
 
-* Storm sewer waste prohibited in sanitary sewer - see S. & P.S. 911.04
-* Street openings and excavations - see S. & P.S. Ch. 901
+* Storm sewer waste prohibited in sanitary sewer - see [Streets & Public Services 911.04]({% link _chapters/chapter-911-sewers-generally.md %})
+* Street openings and excavations - see [Streets & Public Services Ch. 901]({% link _chapters/chapter-901-street-openings-and-excavations.md %})
 
 ## 915.01   Necessity to construct before street improvements
 

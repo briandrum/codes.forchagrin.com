@@ -16,7 +16,7 @@ title: "Chapter 919: Private Sewage Disposal Systems"
 
 ## Cross references
 
-* *Power to license sewer tappers and vault cleaners - see Ohio R. C. 715.27
+* Power to license sewer tappers and vault cleaners - see Ohio R. C. 715.27
 
 ## 919.01   Permit required; installation; standards
 

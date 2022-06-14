@@ -17,10 +17,10 @@ title: "Chapter 1137: Retail Business District"
 
 ## Cross references
 
-* *Garbage or refuse outside eating establishments - see GEN. OFF. 521.10
-* *Off-street parking - see P. & Z. 1141.05
-* *Signs permitted - see P. & Z. 1143.06
-* *Special use designations - see P. & Z. App. A
+* Garbage or refuse outside eating establishments - see GEN. OFF. 521.10
+* Off-street parking - see P. & Z. 1141.05
+* Signs permitted - see P. & Z. 1143.06
+* Special use designations - see P. & Z. App. A
 
 ## 1137.01   Intent
 

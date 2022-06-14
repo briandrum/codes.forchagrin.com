@@ -22,7 +22,7 @@ all municipal police and fire relief and pension funds as of January 1, 1967.
 * Department establishment - see CHTR. Art. VII, Sec. 1
 * Appointment and removal of officers - see CHTR. Art. VII, Sec. 2
 * Volunteer Firemen’s Dependents Fund - see Ohio R.C. Ch. 146
-* *Fire protection contracts - see Ohio R.C. 307.05, 505.44, 717.02
+* Fire protection contracts - see Ohio R.C. 307.05, 505.44, 717.02
 * Traffic direction at fires - see TRAF. 303.02
 * Following and parking near emergency or safety vehicle - see TRAF. 331.27
 * Driving over fire hose - see TRAF. 331.28

@@ -39,8 +39,8 @@ title: "Chapter 1107: Definitions"
 
 ## Cross references
 
-* *General Codified Ordinance definitions - see ADM. 101.02
-* *Off-street parking facilities defined - see P. & Z. 1141.04
+* General Codified Ordinance definitions - see ADM. 101.02
+* Off-street parking facilities defined - see P. & Z. 1141.04
 
 ## 1107.01   Intent
 

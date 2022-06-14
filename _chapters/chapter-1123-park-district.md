@@ -15,7 +15,7 @@ title: "Chapter 1123: Park District"
 
 ## Cross references
 
-* Parks - see S. & P.S. Ch. 951
+* Parks - see [Streets & Public Services Ch. 951](({% link _chapters/chapter-951-parks.md %}))
 
 ## 1123.01   Intent
 
