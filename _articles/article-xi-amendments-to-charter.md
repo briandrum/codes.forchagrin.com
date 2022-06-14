@@ -2,7 +2,7 @@
 layout: page
 part_no: 0
 article_no: 11
-title: "Article XI: Amendments to charter"
+title: "Article XI: Amendments to Charter"
 ---
 
 ## Section XI-1: Procedure

@@ -2,7 +2,7 @@
 layout: page
 part_no: 0
 article_no: 2
-title: "Article II: Powers of the municipality"
+title: "Article II: Powers of the Municipality"
 ---
 
 ## Section II-1: Powers

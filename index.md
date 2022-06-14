@@ -1,4 +1,4 @@
 ---
 layout: home
-title: "Codified ordinances"
+title: "Codified Ordinances"
 ---

@@ -2,7 +2,7 @@
 layout: page
 part_no: 0
 article_no: 9
-title: "Article IX: Nominations and elections"
+title: "Article IX: Nominations and Elections"
 ---
 
 ## Section IX-1: Municipal elections

@@ -2,7 +2,7 @@
 layout: page
 part_no: 0
 article_no: 1
-title: "Article I: The municipality"
+title: "Article I: The Municipality"
 ---
 
 ## Section I-1: Name

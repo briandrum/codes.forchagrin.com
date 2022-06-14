@@ -2,7 +2,7 @@
 layout: page
 part_no: 0
 article_no: 10
-title: "Article X: Initiative, referendum and recall"
+title: "Article X: Initiative, Referendum and Recall"
 ---
 
 ## Section X-1: Initiative and referendum

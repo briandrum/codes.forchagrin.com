@@ -2,7 +2,7 @@
 layout: page
 part_no: 0
 article_no: 8
-title: "Article VIII: Finances and taxation"
+title: "Article VIII: Finances and Taxation"
 ---
 
 ## Section VIII-1: General

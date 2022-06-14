@@ -2,7 +2,7 @@
 layout: page
 part_no: 0
 article_no: 12
-title: "Article XII: General provisions"
+title: "Article XII: General Provisions"
 ---
 
 ## Section XII-1: effective date of charter

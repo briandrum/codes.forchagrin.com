@@ -2,7 +2,7 @@
 layout: page
 part_no: 0
 article_no: 6
-title: "Article VI: Chief administrative officer"
+title: "Article VI: Chief Administrative Officer"
 ---
 
 ## Section VI-1: Appointment and term

@@ -2,7 +2,7 @@
 layout: page
 part_no: 0
 article_no: 5
-title: "Article V: Director of finance"
+title: "Article V: Director of Finance"
 ---
 
 ## Section V-1: Appointment and term

@@ -2,7 +2,7 @@
 layout: page
 part_no: 0
 article_no: 7
-title: "Article VII: Administrative officers, departments, boards and commissions"
+title: "Article VII: Administrative Officers, Departments, Boards and Commissions"
 ---
 
 ## Section VII-1: General provisions

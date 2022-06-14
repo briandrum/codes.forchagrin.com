@@ -141,7 +141,7 @@ No person shall bring intoxicating liquor or beer into a park or drink alcoholic
 beverages or beer in a park at any time.  
 (Ord. 1988-36. Passed 4-25-88.)
 
-## 951.06   Newspaper distribution in riverside park
+## 951.06   Newspaper distribution in Riverside Park
 
 1. _(a)_ As used in this section:
 
