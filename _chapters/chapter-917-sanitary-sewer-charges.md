@@ -26,30 +26,33 @@ title: "Chapter 917: Sanitary Sewer Charges"
 
 For the purpose of this chapter the following definitions shall apply:
 
-1. _(a)_ "Sewerage system" or "system" means the sanitary sewerage system of
-the Municipality as now existing or as hereafter extended and improved, and
-shall include sewers, pumping stations, sewage or waste water treatment works
-and any and all other appurtenances common to such systems.  
+1. _(a)_ "Sewerage system" or "system" means the sanitary sewerage system of the
+Municipality as now existing or as hereafter extended and improved, and shall
+include sewers, pumping stations, sewage or waste water treatment works and any
+and all other appurtenances common to such systems.  
 (Ord. 1957-420. Passed 12-28-57.)
+
 2. _(b)_ "Sanitary sewage" means the waste from water closets, urinals,
-lavatories, sinks, bath tubs, showers, household laundries, cellar floor
-drains, garage floor drains, bars, soda fountains, cuspidors, refrigerator
-drips and drinking fountains, and any other water-borne waste not constituting
-an industrial waste.
-3. _(c)_ "Acceptable industrial wastes" means liquid organic waste materials
-not containing toxic or explosive elements or other substances injurious to
-sewers or sewage treatment processes, which result from any commercial,
-manufacturing or industrial operation or process.
+lavatories, sinks, bath tubs, showers, household laundries, cellar floor drains,
+garage floor drains, bars, soda fountains, cuspidors, refrigerator drips and
+drinking fountains, and any other water-borne waste not constituting an
+industrial waste.
+
+3. _(c)_ "Acceptable industrial wastes" means liquid organic waste materials not
+containing toxic or explosive elements or other substances injurious to sewers
+or sewage treatment processes, which result from any commercial, manufacturing
+or industrial operation or process.
+
 4. _(d)_ "Nonacceptable industrial wastes" means liquid wastes in which are
 incorporated minerals, oil, acid, toxic, metallic or chemical substances,
-resulting from any commercial, manufacturing or industrial operation or
-process.  
+resulting from any commercial, manufacturing or industrial operation or process.
+ 
 (Ord. 1968-729. Passed 6-18-68.)
 
 ## 917.02   Declaration of necessity
 
-It is hereby determined and declared to be necessary for the due protection
-of the public health, safety and welfare of the Municipality to establish and
+It is hereby determined and declared to be necessary for the due protection of
+the public health, safety and welfare of the Municipality to establish and
 collect the charges herein provided for the use of the system upon all lots,
 lands and premises served by or having connection with the system.  
 (Ord. 1968-729. Passed 6-18-68.)
@@ -60,9 +63,9 @@ The funds received from the collection of the rates and charges hereinafter
 provided shall be deposited as received with the Director of Finance who shall
 keep the same in a separate fund designated "Sewage Service Fund". Subject to
 the provisions of this chapter, moneys in such Fund shall be used for the
-payment of the cost and expense of operation, maintenance, repair and
-management of the sewerage system and any surplus in such Fund over and above
-the requirements hereinbefore mentioned may be used for enlargements of and
+payment of the cost and expense of operation, maintenance, repair and management
+of the sewerage system and any surplus in such Fund over and above the
+requirements hereinbefore mentioned may be used for enlargements of and
 replacements and improvements to the sewerage system and parts thereof, but
 shall not be used for the extension of the sewerage system to serve unsewered
 areas or for any other purpose whatsoever.  
@@ -72,11 +75,11 @@ areas or for any other purpose whatsoever.
 
 For the purpose of establishing rates to be charged for the service of the
 municipal sanitary sewerage system utility of the Municipality and prescribing
-regulations with respect thereto, the following rates and regulations are
-hereby adopted:
+regulations with respect thereto, the following rates and regulations are hereby
+adopted:
 
-1. _(a)_ The charge to be made shall be computed on the basis of the quantity
-of water consumed upon the lot, parcel of land or premises, or connection as
+1. _(a)_ The charge to be made shall be computed on the basis of the quantity of
+water consumed upon the lot, parcel of land or premises, or connection as
 measured by the municipal water meter in use, or other meter installed or
 approved by the Superintendent of Services during the applicable sewer charge
 billing period. Such charge shall be billed quarterly as to each such lot,
@@ -96,12 +99,12 @@ rate, below, per one hundred cubic feet of water, whichever is greater:
     After the year 2023, the rates established for 2023 shall remain in effect
     until modified by Council.
 
-2. _(b)_ Premises located outside the corporate limits of the Municipality
-which are served by the system shall be charged at the rate contained in the
-chart below, per hundred cubic feet of water, which shall be levied against
-such lot, parcel of land or premises, building or connection for the use of the
-water service of the Municipality, or a minimum sewer charge of six (6) times
-the rate per hundred cubic feet of water, whichever is greater.
+2. _(b)_ Premises located outside the corporate limits of the Municipality which
+are served by the system shall be charged at the rate contained in the chart
+below, per hundred cubic feet of water, which shall be levied against such lot,
+parcel of land or premises, building or connection for the use of the water
+service of the Municipality, or a minimum sewer charge of six (6) times the rate
+per hundred cubic feet of water, whichever is greater.
 
     | EFFECTIVE RATE CHANGE DATE |     RATE - MIN. CHARGE |
     |---------------------------:|-----------------------:|
@@ -126,15 +129,17 @@ consumed shall be measured by a meter installed and maintained for such purpose
 at the expense of the owner or other interested party and acceptable to the
 Superintendent of Services; or the owner or other interested party may, at his
 option, request the Superintendent of Services to determine the amount of water
-consumed on such premises in accordance with accepted engineering practices,
-and the quantity of water consumed on such premises shall be the amount so
-measured by such meter or so determined by the Superintendent of Services.
+consumed on such premises in accordance with accepted engineering practices, and
+the quantity of water consumed on such premises shall be the amount so measured
+by such meter or so determined by the Superintendent of Services.
+
 5. _(e)_ In the event that any premises discharges industrial waste either
 directly or indirectly into the system and the Superintendent of Services finds
 that it is impractical to measure such wastes by meter, such wastes shall be
 measured in such manner and by such method as the Superintendent of Services
-shall find practicable in order to determine the sewer service charge based
-upon the rate provided in subsections (a) and (b) hereof.
+shall find practicable in order to determine the sewer service charge based upon
+the rate provided in subsections (a) and (b) hereof.
+
 6. _(f)_ In the event the Superintendent of Services shall be satisfied that a
 portion of the water from any source consumed upon any premises does not and
 cannot enter the system, then in such case the owner or other interested party
@@ -161,8 +166,8 @@ River Road as set forth in Ordinance No. 1971-819:
     | 1/1/14 - 12/31/18 |         3,900 |         7,800 |
     | 1/1/19 - 12/31/23 |         5,000 |        10,000 |
 
-    For multi-family residential units, the charge shall be based on the following
-    RSFU equivalents and applied to the above fee schedule:
+    For multi-family residential units, the charge shall be based on the
+    following RSFU equivalents and applied to the above fee schedule:
 
     |                        |  RSFU |
     |------------------------|------:|
@@ -172,11 +177,11 @@ River Road as set forth in Ordinance No. 1971-819:
     | (4) Four-bedroom unit  | 1.000 |
 
     The charges for other buildings and structures shall be based on the RSFU
-    equivalent of these buildings and structures determined from the sewerage flows
-    as presented in the Ohio Environmental Protection Agency Sewerage Flow Guide,
-    revised from time to time, and using 400 gallons per day (one RSFU) as a base.
-    The amount of the charge shall be determined by applying the RSFU equivalent
-    figure to the above fee schedule.  
+    equivalent of these buildings and structures determined from the sewerage
+    flows as presented in the Ohio Environmental Protection Agency Sewerage Flow
+    Guide, revised from time to time, and using 400 gallons per day (one RSFU)
+    as a base. The amount of the charge shall be determined by applying the RSFU
+    equivalent figure to the above fee schedule.  
     (Ord. 2018-80. Passed 12-11-18.)
 
 8. _(h)_ In the event any premises are located outside the corporate limits of
@@ -204,50 +209,52 @@ forth in Ordinance No. 1971- 819, adopted February 21, 1971, an impact fee of
 sixteen thousand dollars ($16,000) per residential unit shall be paid to the
 Village.  
 (Ord. 2018-80. Passed 12-11-18.)
+
 10. _(j)_ Owners of property always remain responsible to the Municipality to
-pay for any sewer charges related to the property, and the owner is not
-relieved of the responsibility or obligation for payment of charges assessed to
-correct errors made by reason of inadvertence, oversight, or faulty
-calculation. The Municipality hereby empowers itself to recover for sewer
-charges even when the result of inadvertence, oversight, or faulty calculation
-or failure to send a bill to the owner of the property with the correct
-charges.  
+pay for any sewer charges related to the property, and the owner is not relieved
+of the responsibility or obligation for payment of charges assessed to correct
+errors made by reason of inadvertence, oversight, or faulty calculation. The
+Municipality hereby empowers itself to recover for sewer charges even when the
+result of inadvertence, oversight, or faulty calculation or failure to send a
+bill to the owner of the property with the correct charges.  
 (Ord. 2017-20. Passed 4-24-17.)
 
 ## 917.05   Additional charges for industrial wastes
 
-Over and above the rates and charges established by Section 917.04, there may be established in special instances and upon special
-agreement between the Municipality and the owner of any premises served by the
-system, such additional charges for industrial wastes of unusual strength of
-composition which are accepted by the Municipality for treatment as may be
-determined to be fair and equitable. Each such special agreement and the
-charges established thereby shall not become effective until ratified by
-ordinance duly passed by Council.  
+Over and above the rates and charges established by Section 917.04, there may be
+established in special instances and upon special agreement between the
+Municipality and the owner of any premises served by the system, such additional
+charges for industrial wastes of unusual strength of composition which are
+accepted by the Municipality for treatment as may be determined to be fair and
+equitable. Each such special agreement and the charges established thereby shall
+not become effective until ratified by ordinance duly passed by Council.  
 (Ord. 1968-729. Passed 6-18-68.)
 
 ## 917.06   Collection of charges; leased lots
 
-1. _(a)_ Collection of Unpaid Charges. Such sewer charge levied pursuant to
+1. _(a)_ **Collection of Unpaid Charges.** Such sewer charge levied pursuant to
 this chapter is hereby made a lien upon the premises charged therewith, and if
-the same is not paid within thirty days after it is due and payable, it shall
-be certified to the Auditor of Cuyahoga County or to the Auditor of Geauga
-County, if outside the Municipality, who shall place the same on the tax
-duplicate, with the interest and penalties allowed by law, and be collected as
-other municipal taxes are collected. The Municipality shall also have the
-right, in the event of nonpayment as aforesaid, to discontinue service to such
-premises of water supplied by the Municipality’s waterworks system until such
-unpaid sewer charges have been duly paid.
-2. _(b)_ Leased Lots. In the case of leased lots, parcels of land or premises
-having a connection with the system, the lessor and lessee shall both be liable
-for the payment of the sewer charges herein provided, and the Municipality may
-proceed to collect such charges from either the lessor or the lessee, or it may
-certify delinquent charges to the Auditor of Cuyahoga County, or Geauga County,
-as provided in subsection (a) hereof.  
+the same is not paid within thirty days after it is due and payable, it shall be
+certified to the Auditor of Cuyahoga County or to the Auditor of Geauga County,
+if outside the Municipality, who shall place the same on the tax duplicate, with
+the interest and penalties allowed by law, and be collected as other municipal
+taxes are collected. The Municipality shall also have the right, in the event of
+nonpayment as aforesaid, to discontinue service to such premises of water
+supplied by the Municipality’s waterworks system until such unpaid sewer charges
+have been duly paid.
+
+2. _(b)_ **Leased Lots.** In the case of leased lots, parcels of land or
+premises having a connection with the system, the lessor and lessee shall both
+be liable for the payment of the sewer charges herein provided, and the
+Municipality may proceed to collect such charges from either the lessor or the
+lessee, or it may certify delinquent charges to the Auditor of Cuyahoga County,
+or Geauga County, as provided in subsection (a) hereof.  
 (Ord. 1968-729. Passed 6-18-68.)
 
 ## 917.07   Treatment of certain wastes required
 
-The discharge of nonacceptable industrial wastes, as defined in Section 917.01(d), into the system, whether directly or indirectly, is hereby
+The discharge of nonacceptable industrial wastes, as defined in Section
+917.01(d), into the system, whether directly or indirectly, is hereby
 prohibited. Where investigation reveals the presence in the system of
 nonacceptable industrial wastes emanating from any lot, land, building or
 premises, located within or without the corporate limits of the Municipality,
@@ -259,7 +266,6 @@ order to convert the same into acceptable industrial wastes.
 
 ## 917.99   Penalty
 
-Whoever violates any of the provisions of this chapter shall be fined not
-more than five hundred dollars ($500.00) or imprisoned not more than six
-months, or both. Each day such violation continues shall constitute a separate
-offense.
+Whoever violates any of the provisions of this chapter shall be fined not more
+than five hundred dollars ($500.00) or imprisoned not more than six months, or
+both. Each day such violation continues shall constitute a separate offense.

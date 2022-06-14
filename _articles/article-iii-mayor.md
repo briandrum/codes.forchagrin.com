@@ -37,7 +37,7 @@ examine any witness appearing in support of the charge.
 
 ## Section III-4: Absence and vacancy
 
-1. _(a)_ Absence. When the Mayor is for any reason unable to perform Mayoral
+1. _(a)_ **Absence.** When the Mayor is for any reason unable to perform Mayoral
 duties, the President of Council shall become the acting Mayor, and while so
 acting shall have and exercise all of the powers of the Mayor, but shall not
 thereby cease to be the President of Council. In the event the President of
@@ -48,7 +48,7 @@ and while so acting shall have all the powers and duties of the Mayor, but shall
 not thereby cease to be President pro tem of Council.  
 (Amended 11-4-86)
 
-2. _(b)_ Vacancy. If the office of Mayor becomes vacant, the President of
+2. _(b)_ **Vacancy.** If the office of Mayor becomes vacant, the President of
 Council shall forthwith become Mayor, except as herein after set forth, and
 shall serve through the end of the calendar year of the next general election at
 which the office of Mayor can be determined by the electors of the Municipality,
@@ -70,8 +70,8 @@ one hundred twenty (120) days after the office of Mayor becomes vacant.
 
 ## Section III-5: Duties and powers
 
-1. _(a)_ Executive Powers. The Mayor shall be the chief executive officer of the
-Municipality, and shall:
+1. _(a)_ **Executive Powers.** The Mayor shall be the chief executive officer of
+the Municipality, and shall:
 
     1. _(1)_ Supervise the administration of the Municipality's affairs;
 
@@ -112,35 +112,34 @@ reduce, or remove any officer or employee of the Municipality except those
 required by this Charter to be elected, those whose terms of office may be
 fixed by this Charter and employees of Council.
 
-2. _(b)_ Legislative Powers. The Mayor shall attend Council meetings but
+2. _(b)_ **Legislative Powers.** The Mayor shall attend Council meetings but
 shall have no vote therein. The Mayor shall have the right to recommend and
-introduce legislation and to take part in the discussion of all matters
-coming before Council.
+introduce legislation and to take part in the discussion of all matters coming
+before Council.
 
-3. _(c)_ Veto Powers. Every ordinance or resolution adopted by Council shall
-be signed by the President of Council or other presiding officer, attested
-by the Clerk of Council and presented promptly to the Mayor. If the Mayor
-approves such ordinance or resolution, it shall be signed and returned to
-the Clerk of Council within ten days after its adoption by Council, but if
-the Mayor does not approve it, it shall be returned to Council within said
-ten days with the Mayor's written objections by delivery to the Clerk of
-Council, which objections shall be entered in full on the journal of the
-Council. If the Mayor does not sign or so return an ordinance or resolution
-within said ten-day period, it shall take effect in the same manner as if
-the Mayor had signed it. The Mayor may approve or disapprove the whole or
-any item of an ordinance or resolution appropriating money, but otherwise
-the Mayor's approval or disapproval shall be addressed to the entire
-ordinance or resolution. When the Mayor has disapproved an ordinance or
-resolution, or a part or item thereof as herein provided, the Council shall
-not later than its next regular meeting, proceed to reconsider it, and if
-upon reconsideration the ordinance or resolution or part or item thereof
+3. _(c)_ **Veto Powers.** Every ordinance or resolution adopted by Council shall
+be signed by the President of Council or other presiding officer, attested by
+the Clerk of Council and presented promptly to the Mayor. If the Mayor approves
+such ordinance or resolution, it shall be signed and returned to the Clerk of
+Council within ten days after its adoption by Council, but if the Mayor does not
+approve it, it shall be returned to Council within said ten days with the
+Mayor's written objections by delivery to the Clerk of Council, which objections
+shall be entered in full on the journal of the Council. If the Mayor does not
+sign or so return an ordinance or resolution within said ten-day period, it
+shall take effect in the same manner as if the Mayor had signed it. The Mayor
+may approve or disapprove the whole or any item of an ordinance or resolution
+appropriating money, but otherwise the Mayor's approval or disapproval shall be
+addressed to the entire ordinance or resolution. When the Mayor has disapproved
+an ordinance or resolution, or a part or item thereof as herein provided, the
+Council shall not later than its next regular meeting, proceed to reconsider it,
+and if upon reconsideration the ordinance or resolution or part or item thereof
 disapproved by the Mayor be approved by the affirmative vote of at least
 two-thirds of the members of Council, it shall then take effect without the
-signature of the Mayor in the same manner as if the Mayor had signed it. In
-all such cases, the votes shall be taken by yeas and nays and entered upon
-the journal.
+signature of the Mayor in the same manner as if the Mayor had signed it. In all
+such cases, the votes shall be taken by yeas and nays and entered upon the
+journal.
 
-4. _(d)_ Judicial Powers. The Mayor shall have all the judicial powers
-granted from time to time by the general laws of the State of Ohio to mayors
-of municipalities of the class of this Municipality.  
+4. _(d)_ **Judicial Powers.** The Mayor shall have all the judicial powers
+granted from time to time by the general laws of the State of Ohio to mayors of
+municipalities of the class of this Municipality.  
 (Amended 11-2-76; 11-8-11)

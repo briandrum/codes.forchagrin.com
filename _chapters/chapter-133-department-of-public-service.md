@@ -84,38 +84,38 @@ Council.
 
 ## 133.05   Streets and services division and street superintendent
 
-1. _(a)_ Streets and Services Division. There is hereby established a Streets
-and Services Division in the Department of Public Service, which shall be
-administered and controlled by a Street Superintendent, subject to the
+1. _(a)_ **Streets and Services Division.** There is hereby established a
+Streets and Services Division in the Department of Public Service, which shall
+be administered and controlled by a Street Superintendent, subject to the
 provisions of the Charter and ordinances of the Village, and to the direction of
 the Chief Administrative Officer.
 
-2. _(b)_ Street Superintendent. The Street Superintendent shall be appointed by
-and serve at the pleasure of the Mayor. The Street Superintendent is under the
-direct supervision of the Chief Administrative Officer and is responsible for
-all public streets and alleys and such other duties as may be directed by the
-Chief Administrative Officer. The Street Superintendent may also be referred to
-as the Superintendent of Streets in the Codified Ordinances.  
+2. _(b)_ **Street Superintendent.** The Street Superintendent shall be appointed
+by and serve at the pleasure of the Mayor. The Street Superintendent is under
+the direct supervision of the Chief Administrative Officer and is responsible
+for all public streets and alleys and such other duties as may be directed by
+the Chief Administrative Officer. The Street Superintendent may also be referred
+to as the Superintendent of Streets in the Codified Ordinances.  
 (Ord. 2008-65. Passed 12-8-08.)
 
 ## 133.06   Utilities division, water department, wastewater department, and superintendent of utilities
 
-1. _(a)_ Utilities Division. There is hereby established a Utilities Division in
-the Department of Public Service, which shall be administered and controlled by
-a Superintendent of Utilities, subject to the provisions of the Charter and the
-ordinances of the Village, and to the direction of the Chief Administrative
-Officer.
+1. _(a)_ **Utilities Division.** There is hereby established a Utilities
+Division in the Department of Public Service, which shall be administered and
+controlled by a Superintendent of Utilities, subject to the provisions of the
+Charter and the ordinances of the Village, and to the direction of the Chief
+Administrative Officer.
 
-2. _(b)_ Water Department. There is hereby established a Water Department in the
-Utilities Division. The Water Department shall be administered and controlled by
-the Superintendent of Utilities.
+2. _(b)_ **Water Department.** There is hereby established a Water Department in
+the Utilities Division. The Water Department shall be administered and
+controlled by the Superintendent of Utilities.
 
-3. _(c)_ Wastewater Department. There is hereby established a Wastewater
+3. _(c)_ **Wastewater Department.** There is hereby established a Wastewater
 Department in the Utilities Division. The Wastewater Department shall be
 administered and controlled by the Superintendent of Utilities.
 
-4. _(d)_ Superintendent of Utilities. The Superintendent of Utilities shall be
-appointed by and serve at the pleasure of the Mayor. The Superintendent of
+4. _(d)_ **Superintendent of Utilities.** The Superintendent of Utilities shall
+be appointed by and serve at the pleasure of the Mayor. The Superintendent of
 Utilities is under the direct supervision of the Chief Administrative Office and
 is responsible for the operation of the Water Department and the Wastewater
 Department and such other duties as may be directed by the Chief Administrative

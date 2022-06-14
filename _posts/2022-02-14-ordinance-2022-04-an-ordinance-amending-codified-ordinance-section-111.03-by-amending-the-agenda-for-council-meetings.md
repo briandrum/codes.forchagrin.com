@@ -39,8 +39,6 @@ officer.
 
 Date/Regular, Special or Adjourned Meeting/Time
 
-<p class="Markdown-list--1-A"></p>
-
 1. _(1)_ Moment of Silence/Pledge of Allegiance.
 2. _(2)_ Roll Call (Action Concerning Absentees).
 3. _(3)_ Reading and Disposal of Minutes.

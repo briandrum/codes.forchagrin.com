@@ -818,7 +818,7 @@ effectively to minimize the discharge of pollutants during the course of earth
 disturbing activities. The controls shall include the following minimum
 components:
 
-1. _(a)_ Non-structural Preservation Measures: The SWP3 must make use of
+1. _(a)_ **Non-structural Preservation Measures:** The SWP3 must make use of
 measures that preserve the existing natural condition to the maximum extent
 practicable. Such may include preserving riparian areas, preserving existing
 vegetation and vegetative buffer strips, phasing of construction operations in
@@ -837,8 +837,8 @@ disturbance of natural vegetation shall occur within the riparian or wetland
 setback unless a variance of the riparian or wetland setback regulation has been
 granted.]
 
-2. _(b)_ Erosion Control: The SWP3 must make use of erosion controls that are
-capable of providing cover over disturbed soils. The amount of soil exposed
+2. _(b)_ **Erosion Control:** The SWP3 must make use of erosion controls that
+are capable of providing cover over disturbed soils. The amount of soil exposed
 during construction activity shall be minimized. A description of control
 designed to restabilize disturbed areas after grading or construction shall be
 included in the SWP3. The SWP3 must provide specifications for stabilization of
@@ -849,8 +849,8 @@ vegetative buffer strips, phasing of construction operations, the use of
 construction entrances, and the use of alternative ground cover. Erosion control
 must meet the following requirements:
 
-    1. _(1)_ Stabilization. Disturbed areas must be stabilized as specified in
-    Tables 1 and 2 below.
+    1. _(1)_ **Stabilization.** Disturbed areas must be stabilized as specified
+    in Tables 1 and 2 below.
 
     **Table 1: Permanent Stabilization**
 
@@ -872,16 +872,16 @@ must meet the following requirements:
     instability or are otherwise unobtainable, alternative stabilization
     techniques must be employed.
 
-    2. _(2)_ Permanent stabilization of conveyance channels. Applicants shall
-    undertake special measures to stabilize channels and outfalls and prevent
-    erosive flows. Measures may include seeding, dormant seeding, mulching,
-    erosion control matting, sodding, riprap, natural channel design with
-    bioengineering techniques, or rock check dams, all as defined in the most
-    recent edition of Rainwater and Land Development or the Field Office
+    2. _(2)_ **Permanent stabilization of conveyance channels.** Applicants
+    shall undertake special measures to stabilize channels and outfalls and
+    prevent erosive flows. Measures may include seeding, dormant seeding,
+    mulching, erosion control matting, sodding, riprap, natural channel design
+    with bioengineering techniques, or rock check dams, all as defined in the
+    most recent edition of Rainwater and Land Development or the Field Office
     Technical Guide available at
     [www.nrcs.usda.gov/technical/efotg/](www.nrcs.usda.gov/technical/efotg/).
 
-3. _(c)_ Runoff Control. The SWP3 shall incorporate measures that control the
+3. _(c)_ **Runoff Control.** The SWP3 shall incorporate measures that control the
 volume and velocity of stormwater runoff within the site to prevent erosion.
 Peak flow rates and total stormwater volume shall be controlled to minimize
 erosion and outlets, downstream channel and streambank erosion. Such may include
@@ -893,7 +893,7 @@ provide non-erosive flow velocity from the structure to a water course so that
 the natural physical and biological characteristics and functions are maintained
 and protected.
 
-4. _(d)_ Sediment Control Practices. The SWP3 shall include a description of,
+4. _(d)_ **Sediment Control Practices.** The SWP3 shall include a description of,
 and detailed drawings for, all structural practices that shall store runoff,
 allowing sediments to settle and/or divert flows away from exposed soils or
 otherwise limit runoff from exposed areas to minimize sediment discharges from
@@ -912,7 +912,7 @@ considered functional. Earth diversion dikes or channels alone are not
 considered a sediment unless used in conjunction with a sediment settling pond.
 Sediment control must meet the following requirements:
 
-    1. _(1)_ Timing. Sediment control structures shall be functional throughout
+    1. _(1)_ **Timing.** Sediment control structures shall be functional throughout
     the course of earth disturbing activity. Sediment basins and perimeter
     sediment barriers shall be implemented prior to grading and within seven (7)
     days from the start of grubbing. They shall continue to function until the
@@ -920,10 +920,10 @@ Sediment control must meet the following requirements:
     the topography is altered, appropriate controls must be constructed or
     existing controls altered to address the changing drainage patterns.
 
-    2. _(2)_ Sediment settling ponds. A sediment settling pond, or equivalent
-    best management practice upon approval from the Village of Chagrin Falls
-    Engineer and/or the Cuyahoga SWCD, is required for any one of the following
-    conditions:
+    2. _(2)_ **Sediment settling ponds.** A sediment settling pond, or
+    equivalent best management practice upon approval from the Village of
+    Chagrin Falls Engineer and/or the Cuyahoga SWCD, is required for any one of
+    the following conditions:
 
         1. _(A)_ Concentrated stormwater runoff.
 
@@ -997,7 +997,7 @@ Sediment control must meet the following requirements:
         use of a combination of sediment and erosion control measures in order to
         achieve maximum pollutant removal is encouraged.
 
-    3. _(3)_ Silt fence and diversions. Sheet flow runoff from denuded areas
+    3. _(3)_ **Silt fence and diversions.** Sheet flow runoff from denuded areas
     shall be intercepted by silt fence or diversions to protect adjacent
     properties and water resources from sediment transported via sheet flow.
     Where intended to provide sediment control, silt fence shall be placed on a
@@ -1024,14 +1024,14 @@ Sediment control must meet the following requirements:
     disturbed areas and steep slopes. Such devices, which include swales, dikes
     or berms, may receive storm water runoff from areas up to 10 acres.
 
-    6. _(6)_ Inlet protection. Erosion and sediment control, such as boxed inlet
-    protection, shall be installed to minimize sediment-laden water entering
-    active storm drain systems. All inlets receiving runoff from drainage areas
-    of one or more acres will require a sediment settling pond. Straw or hay
-    bales and filter socks around catch basins are not acceptable forms of inlet
-    protection.
+    6. _(6)_ **Inlet protection.** Erosion and sediment control, such as boxed
+    inlet protection, shall be installed to minimize sediment-laden water
+    entering active storm drain systems. All inlets receiving runoff from
+    drainage areas of one or more acres will require a sediment settling pond.
+    Straw or hay bales and filter socks around catch basins are not acceptable
+    forms of inlet protection.
 
-    7. _(7)_ Off-site tracking of sediment and dust control. Best Management
+    7. _(7)_ **Off-site tracking of sediment and dust control.** Best Management
     Practices must be implemented to ensure sediment is not tracked off-site and
     that dust is controlled. These best management must include, but are not
     limited to, the following:
@@ -1075,7 +1075,7 @@ Sediment control must meet the following requirements:
         stockpiles, temporary stabilization of disturbed areas, and regulation
         of the speed of vehicles on the site.
 
-    3. _(3)_ Surface Waters of the State protection.  Construction vehicles
+    3. _(3)_ **Surface Waters of the State protection.** Construction vehicles
     shall avoid water resources. A 50 foot undisturbed natural buffer shall be
     provided around surface waters of the state unless infeasible. If it is
     infeasible to provide and maintain an undisturbed 50-foot natural buffer,
@@ -1127,14 +1127,14 @@ Sediment control must meet the following requirements:
         spreaders may need to be placed in series to ensure non-erosive
         velocities.
 
-    4. _(4)_ Modifying controls. If periodic inspections or other information
-    indicates a control has been used inappropriately or incorrectly, the
-    applicant shall replace or modify the control for site conditions.
-    Non-sediment pollutant controls: No solid or liquid waste, including
-    building materials, shall be discharged in stormwater runoff. The applicant
-    must implement site best management to prevent toxic materials, hazardous
-    materials, or other debris from entering water resources, wetlands or the
-    MS4. These shall include but are not limited to the following:
+    4. _(4)_ **Modifying controls.** If periodic inspections or other
+    information indicates a control has been used inappropriately or
+    incorrectly, the applicant shall replace or modify the control for site
+    conditions. Non-sediment pollutant controls: No solid or liquid waste,
+    including building materials, shall be discharged in stormwater runoff. The
+    applicant must implement site best management to prevent toxic materials,
+    hazardous materials, or other debris from entering water resources, wetlands
+    or the MS4. These shall include but are not limited to the following:
 
         1. _(A)_ Waste Materials: A covered dumpster shall be made available for
         the proper disposal of garbage, plaster, drywall, grout, gypsum, and
@@ -1204,14 +1204,14 @@ Sediment control must meet the following requirements:
             provided that such plan addresses this requirement and a copy of
             such plan is maintained on site.
 
-6. _(f)_ Compliance with Other Requirements. The SWP3 shall be consistent with
-applicable State and/or local waste disposal, sanitary sewer, or septic system
-regulations, including provisions prohibiting waste disposal by open burning,
-and shall provide for the proper disposal of contaminated soils located within
-the development area.
+6. _(f)_ **Compliance with Other Requirements.** The SWP3 shall be consistent
+with applicable State and/or local waste disposal, sanitary sewer, or septic
+system regulations, including provisions prohibiting waste disposal by open
+burning, and shall provide for the proper disposal of contaminated soils located
+within the development area.
 
-7. _(g)_ Trench and Ground Water Control. There shall be no sediment-laden or
-turbid discharges to water resources or wetlands resulting from dewatering
+7. _(g)_ **Trench and Ground Water Control.** There shall be no sediment-laden
+or turbid discharges to water resources or wetlands resulting from dewatering
 activities. If trench or ground water contains sediment, it must pass through a
 sediment-settling pond or other equally effective sediment control device, prior
 to being discharged from the construction site. Alternatively, sediment may be
@@ -1221,12 +1221,12 @@ other pollutants is not required to be treated prior to discharge. However, care
 must be taken when discharging ground water to ensure that it does not become
 pollutant-laden by traversing over disturbed soils or other pollutant sources.
 
-8. _(h)_ Internal Inspections. All controls on the site shall be inspected at
-least once every seven calendar days and within 24 hours after any storm event
-greater than one-half inch of rain per 24 hour period. The inspection frequency
-may be reduced to at least once every month if the entire site is temporarily
-stabilized or runoff is unlikely due to weather conditions (e.g., site is
-covered with snow, ice, or the ground is frozen). A waiver of inspection
+8. _(h)_ **Internal Inspections.** All controls on the site shall be inspected
+at least once every seven calendar days and within 24 hours after any storm
+event greater than one-half inch of rain per 24 hour period. The inspection
+frequency may be reduced to at least once every month if the entire site is
+temporarily stabilized or runoff is unlikely due to weather conditions (e.g.,
+site is covered with snow, ice, or the ground is frozen). A waiver of inspection
 requirements is available until one month before thawing conditions are expected
 to result in a discharge if prior written approval has been attained from the
 Village of Chagrin Falls Engineer and/or the Cuyahoga SWCD and all of the
@@ -1242,21 +1242,22 @@ following conditions are met:
     3. _(C)_ The beginning date and ending dates of the waiver period are
     documented in the SWP3.
 
-    For sites where final sediment controls will not be completed by October 1,
-    a Pre-Winter Stabilization Meeting may be required at the discretion of the
-    Village Engineer, with the landowner and the developer, engineer and
-    contractor of the project and the Village Engineer prior to October 1, in
-    order to plan and approve winter erosion and sediment controls as defined in
-    the most current online edition of Rainwater and Land Development. The
-    applicant shall assign qualified inspection personnel to conduct these
-    inspections to ensure that the controls are functional and to evaluate
-    whether the SWP3 is adequate, or whether additional control measures are
-    required. Qualified inspection personnel are individuals with knowledge and
-    experience in the installation and maintenance of sediment and erosion
-    controls. Certified inspection reports shall be submitted to the Village
-    Engineer within seven (7) working days from the inspection and retained at
-    the development site. These inspections shall meet the following
-    requirements:
+        For sites where final sediment controls will not be completed by October 1,
+        a Pre-Winter Stabilization Meeting may be required at the discretion of the
+        Village Engineer, with the landowner and the developer, engineer and
+        contractor of the project and the Village Engineer prior to October 1, in
+        order to plan and approve winter erosion and sediment controls as defined in
+        the most current online edition of Rainwater and Land Development.
+        
+        The applicant shall assign qualified inspection personnel to conduct
+        these inspections to ensure that the controls are functional and to
+        evaluate whether the SWP3 is adequate, or whether additional control
+        measures are required. Qualified inspection personnel are individuals
+        with knowledge and experience in the installation and maintenance of
+        sediment and erosion controls. Certified inspection reports shall be
+        submitted to the Village Engineer within seven (7) working days from the
+        inspection and retained at the development site. These inspections shall
+        meet the following requirements:
 
     1. _(1)_ Disturbed areas and areas used for storage of materials that are
     exposed to precipitation shall be inspected for evidence of or the potential
@@ -1310,7 +1311,7 @@ following conditions are met:
     to whether the facility is in compliance with the SWP3, and information on
     any incidents of non-compliance determined by these inspections.
 
-9. _(i)_ Maintenance. The SWP3 shall be designed to minimize maintenance
+9. _(i)_ **Maintenance.** The SWP3 shall be designed to minimize maintenance
 requirements. All BMPs shall be maintained and repaired as needed to ensure
 continued performance of their intended function until final stabilization. All
 sediment control must be maintained in a functional condition until all up slope
@@ -1329,7 +1330,7 @@ this maintenance, all as determined by the Village of Chagrin Falls Engineer.
     (3) days of the inspection. Sediment settling ponds must be repaired or
     maintained within ten (10) days of the inspection.
 
-    2. _(2)_ When BMPs fail to provide their intended function.  If an internal
+    2. _(2)_ When BMPs fail to provide their intended function. If an internal
     inspection reveals that a BMP fails to perform its intended function as
     detailed in the SWP3 and that another, more appropriate is required, the
     SWP3 must be amended and the new BMP must be installed within ten (10) days
@@ -1342,7 +1343,7 @@ this maintenance, all as determined by the Village of Chagrin Falls Engineer.
     needed, the record must contain a statement of explanation as to why the is
     not needed.
 
-10. _(j)_ Final Stablization. Final stabilization shall be determined by the
+10. _(j)_ **Final Stablization.** Final stabilization shall be determined by the
 Village of Chagrin Falls Engineer. Once a definable area has achieved final
 stabilization, the applicant may note this on the SWP3 and no further inspection
 requirement applies to that portion of the site. Final stabilization also
@@ -1363,54 +1364,54 @@ specialist, or a registered landscape architect.
 3. _(c)_ The Abbreviated SWP3 shall include a minimum of the following BMPs.
 Village of Chagrin Falls may require other BMPs as site conditions warrant.
 
-    1. _(1)_ Construction Entrances: Construction entrances shall be built and
-    shall serve as the only permitted points of ingress and egress to the
+    1. _(1)_ **Construction Entrances:** Construction entrances shall be built
+    and shall serve as the only permitted points of ingress and egress to the
     development area. These entrances shall be built of a stabilized pad of
     aggregate stone or recycled concrete or cement sized greater than 2" in
     diameter, placed over a geotextile fabric, and constructed in conformance
     with specifications in the most recent edition of Rainwater and Land
-    Development .
+    Development.
 
-    2. _(2)_ Concrete Truck Wash Out: The washing of concrete material into a
-    street, catch basin, or other public facility or natural resource is
+    2. _(2)_ **Concrete Truck Wash Out:** The washing of concrete material into
+    a street, catch basin, or other public facility or natural resource is
     prohibited. A designated area for concrete washout shall be indicated on the
     plan. Use for other waste and wastewater is prohibited.
 
-    3. _(3)_ Street Sweeping: Streets directly adjacent to construction
+    3. _(3)_ **Street Sweeping:** Streets directly adjacent to construction
     entrances and receiving traffic from the development area, shall be cleaned
     daily to remove sediment tracked off-site. If applicable, the catch basins
     on these streets nearest to the construction entrances shall be cleaned
     weekly.
 
-    4. _(4)_ Stabilization. The development area shall be stabilized as detailed
+    4. _(4)_ **Stabilization.** The development area shall be stabilized as detailed
     in Table 4.
 
-    **Table 4: Stabilization**
+        **Table 4: Stabilization**
 
-    | Area requiring stabilization                                                                                                                                                           | Time frame to apply erosion controls                                                             |
-    |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-    | Any disturbed area within 50 feet of a surface water of the state and not at final grade.                                                                                              | Within 2 days of the most recent disturbance if that area will remain idle for more than 14 days |
-    | For all construction activities, any disturbed area, including soil stockpiles, that will be dormant for more than 14 days but less than one year, and not within 50 feet of a stream. | Within 7 days of the most recent disturbance within the area                                     |
-    | Disturbed areas that will be idle over winter                                                                                                                                          | Prior to November 1                                                                              |
+        | Area requiring stabilization                                                                                                                                                           | Time frame to apply erosion controls                                                             |
+        |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+        | Any disturbed area within 50 feet of a surface water of the state and not at final grade.                                                                                              | Within 2 days of the most recent disturbance if that area will remain idle for more than 14 days |
+        | For all construction activities, any disturbed area, including soil stockpiles, that will be dormant for more than 14 days but less than one year, and not within 50 feet of a stream. | Within 7 days of the most recent disturbance within the area                                     |
+        | Disturbed areas that will be idle over winter                                                                                                                                          | Prior to November 1                                                                              |
 
-    Note: Where vegetative stabilization techniques may cause structural
-    instability or are otherwise unobtainable, alternative stabilization
-    techniques must be employed. These techniques may include mulching or
-    erosion matting.
+        Note: Where vegetative stabilization techniques may cause structural
+        instability or are otherwise unobtainable, alternative stabilization
+        techniques must be employed. These techniques may include mulching or
+        erosion matting.
 
-    5. _(5)_ Inlet Protection. Erosion and sediment control , such as boxed
+    5. _(5)_ **Inlet Protection.** Erosion and sediment control , such as boxed
     inlet protection, shall be installed to minimize sediment-laden water
     entering active storm drain systems, including rear yard inlets. Straw, hay
     bales, and filter socks are not acceptable forms of inlet protection.
 
-    6. _(6)_ Silt Fence and Other Perimeter Controls. Silt fence and other
+    6. _(6)_ **Silt Fence and Other Perimeter Controls.** Silt fence and other
     perimeter controls approved by the Village of Chagrin Falls shall be used to
     protect adjacent properties and water resources from sediment discharged via
     sheet (diffused) flow. Silt fence shall be placed along level contours and
     the permissible drainage area is limited to those indicated in Table 3 in
     Section 1355.09 of these regulations.
 
-    7. _(7)_ Internal Inspection and Maintenance. All controls on the
+    7. _(7)_ **Internal Inspection and Maintenance.** All controls on the
     development area shall be inspected at least once every seven calendar days
     and within 24 hours after any storm event greater than one-half inch of rain
     per 24 hour period. Maintenance shall occur as detailed below:
@@ -1493,21 +1494,22 @@ of this regulation.
 5. _(e)_ Failure to maintain and repair erosion and sediment controls per the
 approved SWP3 or swp3 plan may result in the following escalation:
 
-    1. _(1)_ First Violation: The Village Engineer will issue a Notice of
+    1. _(1)_ **First Violation:** The Village Engineer will issue a Notice of
     Deficiency to the owner or operator. All controls are to be repaired or
     maintained per the SWP3 plan within three (3) days of the notification. If
     controls have not been corrected after this time, the Village Engineer may
     issue a Stop Work Order for all activities until corrections have been made.
 
-    2. _(2)_ Second Violation: The Village Engineer may issue a formal Notice of
-    Violation which includes a $250 administrative fee against the SWP3 Bond or
-    site plan deposit. All controls are to be repaired or maintained per the
-    approved SWP3 plan within three (3) days of the Notice of Violation. If
-    controls have not been corrected after this time, the Village Engineer may
-    issue a Stop Work Order for all activities until corrections have been made.
+    2. _(2)_ **Second Violation:** The Village Engineer may issue a formal
+    Notice of Violation which includes a $250 administrative fee against the
+    SWP3 Bond or site plan deposit. All controls are to be repaired or
+    maintained per the approved SWP3 plan within three (3) days of the Notice of
+    Violation. If controls have not been corrected after this time, the Village
+    Engineer may issue a Stop Work Order for all activities until corrections
+    have been made.
 
-    3. _(3)_ Third and subsequent violations: The Village Engineer may issue a
-    Stop Work Order for all construction activities and charge a $250
+    3. _(3)_ **Third and subsequent violations:** The Village Engineer may issue
+    a Stop Work Order for all construction activities and charge a $250
     administrative fee against the SWP3 bond or site plan deposit. The Stop Work
     Order will be lifted once all controls are in compliance with the approved
     SWP3 plan.

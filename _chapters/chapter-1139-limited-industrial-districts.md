@@ -19,7 +19,7 @@ title: "Chapter 1139: Limited Industrial Districts"
 * Noxious or offensive odors - see GEN. OFF. 521.09
 * Off-street parking - see P. & Z. 1141.05
 * Signs permitted - see P. & Z. 1143.06
-* Similar use designations - see P. & Z.  App. A
+* Similar use designations - see P. & Z. App. A
 
 ## 1139.01   Intent
 
@@ -43,17 +43,17 @@ predominantly small-scale, residential character of the community.
 
 ## 1139.02   Permitted uses
 
-In Limited Industrial Districts, more than one (1) main building may be
-grouped on a lot provided that such grouping shall comply with the requirements
-of this District Buildings and land shall be used by right for only the main
-and accessory uses set forth below.
+In Limited Industrial Districts, more than one (1) main building may be grouped
+on a lot provided that such grouping shall comply with the requirements of this
+District Buildings and land shall be used by right for only the main and
+accessory uses set forth below.
 
-1. _(a)_ Main Uses.
+1. _(a)_ **Main Uses.**
 
-    1. _(1)_ Research laboratories. Research laboratories for basic and applied
-    research, experiment and testing.
+    1. _(1)_ **Research laboratories.** Research laboratories for basic and
+    applied research, experiment and testing.
 
-    2. _(2)_ Service, storage and limited sales. Service and storage uses as
+    2. _(2)_ **Service, storage and limited sales.** Service and storage uses as
     listed below, with retail sales limited to the sale of building materials at
     such establishments as lumber yards and plumbing supply distributors.
 
@@ -73,9 +73,9 @@ and accessory uses set forth below.
         fence sufficient to conceal all such materials when viewed by a person
         standing at ground level.
 
-    3. _(3)_ Manufacture: precision products. Manufacturing processes limited to
-    cutting, grinding, assembling, extrusion, finishing, polishing and
-    incidental stamping and welding of precision products and others which
+    3. _(3)_ **Manufacture: precision products.** Manufacturing processes
+    limited to cutting, grinding, assembling, extrusion, finishing, polishing
+    and incidental stamping and welding of precision products and others which
     normally have a high value in relation to bulk, such as the following:
 
         1. _(A)_ Cameras and other photographic equipment, clocks, jewelry,
@@ -93,7 +93,7 @@ and accessory uses set forth below.
 
         6. _(F)_ Toys, sporting goods and athletic equipment.
 
-    4. _(4)_ Manufacture: nonmetal products. Manufacture of textile, wood,
+    4. _(4)_ **Manufacture: nonmetal products.** Manufacture of textile, wood,
     plastic and other nonmetal products such as the following:
 
         1. _(A)_ Furniture, cabinets and other wood products.
@@ -108,9 +108,10 @@ and accessory uses set forth below.
         5. _(E)_ Plastic including extrusion, molding and fabricating of panels,
         sheets, tubes and rods.
 
-    5. _(5)_ Office uses. Main and accessory uses as regulated in Chapter 1135.
+    5. _(5)_ **Office uses.** Main and accessory uses as regulated in Chapter
+    1135.
 
-    6. _(6)_ Mixed Use Development.   Development that permits a variety of
+    6. _(6)_ **Mixed Use Development.** Development that permits a variety of
     complementary and integrated uses within a single structure or in multiple
     structures in the same Development Area in accordance with the following
     requirements of this section and all other applicable ordinances of the
@@ -175,11 +176,11 @@ and accessory uses set forth below.
         3. _(C)_ Off-street parking and loading facilities shall be permitted in
         accordance with the requirements of Chapter 1141.
 
-    7. _(7)_ Fitness Centers.
+    7. _(7)_ **Fitness Centers.**
 
-    8. _(8)_ Similar uses.  As regulated in Chapter 1113.
+    8. _(8)_ **Similar uses.**  As regulated in Chapter 1113.
 
-2. _(b)_ Accessory Uses.
+2. _(b)_ **Accessory Uses.**
 
     1. _(1)_ Accessory uses, buildings, or structures customarily incidental to
     a permitted use.
@@ -217,15 +218,15 @@ and accessory uses set forth below.
 In a Limited Industrial District, land and structures shall be developed and
 maintained in accordance with the following area and height regulations.
 
-1. _(a)_ Lot Size. One acre minimum, except 10,000 square feet minimum for
+1. _(a)_ **Lot Size.** One acre minimum, except 10,000 square feet minimum for
 automotive service stations, repair garages and auto washes.
 
-2. _(b)_ Lot Width. 100 feet minimum for street and building lines.
+2. _(b)_ **Lot Width.** 100 feet minimum for street and building lines.
 
-3. _(c)_ Building Coverage. Forty percent (40%) of lot area, maximum, for all
-main and accessory buildings.
+3. _(c)_ **Building Coverage.** Forty percent (40%) of lot area, maximum, for
+all main and accessory buildings.
 
-4. _(d)_ Height.
+4. _(d)_ **Height.**
 
     1. _(1)_ Main buildings: Three stories maximum and not exceeding forty feet.
 
@@ -248,35 +249,35 @@ provided that such uses conform to applicable regulations of this code. Other
 accessory uses are permitted in setbacks only in accordance with the setback
 regulations of subsection (b) hereof.
 
-1. _(a)_ Yards. The minimum setback from a lot line to a main building shall be
-as set forth below.
+1. _(a)_ **Yards.** The minimum setback from a lot line to a main building shall
+be as set forth below.
 
-**Minimum Setback (feet)**
+    **Minimum Setback (feet)**
 
-| Yard  | To Street R.O.W. Line* | To Residential District Line | To Other Lot Line |
-|-------|-----------------------:|-----------------------------:|------------------:|
-| Front |                     30 |                           -- |                -- |
-| Side  |                     20 |                           40 |                15 |
-| Rear  |                     20 |                           50 |                25 |
+    | Yard  | To Street R.O.W. Line* | To Residential District Line | To Other Lot Line |
+    |-------|-----------------------:|-----------------------------:|------------------:|
+    | Front |                     30 |                           -- |                -- |
+    | Side  |                     20 |                           40 |                15 |
+    | Rear  |                     20 |                           50 |                25 |
 
-\* For private roads, such distance shall be measured to the road pavement edge.
+    \* For private roads, such distance shall be measured to the road pavement edge.
 
-2. _(b)_ Setbacks. The minimum setback depth from a lot line to an accessory
+2. _(b)_ **Setbacks.** The minimum setback depth from a lot line to an accessory
 structure or use shall be as set forth below.
 
-**Minimum Setback Depth (feet)**
+    **Minimum Setback Depth (feet)**
 
-| Accessory Use                   | To Street R.O.W. Line | To Residential District Line | To Other Lot Line |
-|---------------------------------|----------------------:|-----------------------------:|------------------:|
-| Structures                      |                     * |                           40 |                15 |
-| Surface Parking or Loading Area |                     5 |                           15 |                 5 |
-| Drives                          |                     * |                           15 |                 5 |
-| Light/Flagpoles                 |                     5 |                           15 |                 5 |
+    | Accessory Use                   | To Street R.O.W. Line | To Residential District Line | To Other Lot Line |
+    |---------------------------------|----------------------:|-----------------------------:|------------------:|
+    | Structures                      |                     * |                           40 |                15 |
+    | Surface Parking or Loading Area |                     5 |                           15 |                 5 |
+    | Drives                          |                     * |                           15 |                 5 |
+    | Light/Flagpoles                 |                     5 |                           15 |                 5 |
 
-\*  Accessory structures and drives are not permitted in required yards except
-that drives are permitted only as necessary in providing access to a public
-right of way.  
-(Ord. 2019-39. Passed 8-13-19.)
+    \* Accessory structures and drives are not permitted in required yards
+    except that drives are permitted only as necessary in providing access to a
+    public right of way.  
+    (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1139.05   Supplemental regulations
 

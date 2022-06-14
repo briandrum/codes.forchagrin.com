@@ -34,24 +34,24 @@ certificates, building permits and occupancy permits, as further regulated in
 the Building Code. Specifically, the purposes and relationships of these
 Municipal authorizations are as set forth below:
 
-1. _(a)_ Subdivision Approvals. Subdivision approvals are required in order to
-certify that proposed lots comply with the Planning and Zoning Code and other
+1. _(a)_ **Subdivision Approvals.** Subdivision approvals are required in order
+to certify that proposed lots comply with the Planning and Zoning Code and other
 applicable Municipal ordinances and requirements prior to consideration of an
 application for a Zoning Certificate.
 
-2. _(b)_ Zoning Certificates. Zoning Certificates are established to certify
+2. _(b)_ **Zoning Certificates.** Zoning Certificates are established to certify
 compliance with this Planning and Zoning Code prior to issuance of a building
 permit or occupancy permit.
 
-3. _(c)_ Building Permit. Building permits are established to authorize proposed
-construction or similar activity in compliance with the Building Code and other
-applicable municipal ordinances and requirements.
+3. _(c)_ **Building Permit.** Building permits are established to authorize
+proposed construction or similar activity in compliance with the Building Code
+and other applicable municipal ordinances and requirements.
 
-4. _(d)_ Occupancy Permits. Occupancy permits are established to authorize
+4. _(d)_ **Occupancy Permits.** Occupancy permits are established to authorize
 initial or replacement occupancy of a building, or part thereof, or land
 subsequent to completion of activity in compliance with the Planning and Zoning
-Code, Building Code and other applicable municipal ordinances and
-requirements.  
+Code, Building Code and other applicable municipal ordinances and requirements. 
+
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.02   Applicability
@@ -62,14 +62,14 @@ grading and excavation in preparation for such activity shall be commenced prior
 to the granting of the required authorization. Questions regarding applicability
 should be directed to the Administrator prior to commencement of activity.
 
-1. _(a)_ Subdivision Approval Required. Subdivision of land to create one or
+1. _(a)_ **Subdivision Approval Required.** Subdivision of land to create one or
 more additional recorded lots or to alter lot lines.
 
-2. _(b)_ Zoning Certificate Required. Erection, enlargement or moving of a
+2. _(b)_ **Zoning Certificate Required.** Erection, enlargement or moving of a
 building or other structure; also, a change in the use of a building, structure
 or land.
 
-3. _(c)_ Building Permit.
+3. _(c)_ **Building Permit.**
 
     1. _(1)_ Required: Erection, enlargement, alteration, repair, demolition or
     moving of a building, retaining wall or other structure, and the excavation
@@ -80,7 +80,7 @@ or land.
     do not affect basic structural elements and do not materially alter exterior
     appearance.
 
-4. _(d)_ Occupancy Permit Required. Initial occupancy of a building or land,
+4. _(d)_ **Occupancy Permit Required.** Initial occupancy of a building or land,
 completion of an activity requiring a building permit, and for nonresidential
 uses, occupancy which commences with a change in use, tenancy, business
 ownership or termination of a vacancy of six months or more.  
@@ -93,7 +93,7 @@ full compliance with the Planning and Zoning Code, Building Code and other
 applicable municipal ordinances and requirements. Furthermore, permits and
 certificates shall be issued in accordance with the following conditions:
 
-1. _(a)_ Actions by Municipality. No zoning certificate, building permit or
+1. _(a)_ **Actions by Municipality.** No zoning certificate, building permit or
 occupancy permit shall be issued prior to granting of required variances by the
 Board of Zoning Appeals (see Chapter 1111 ), determinations of similar use, as
 applicable, by the Planning and Zoning Commission (see Chapter 1147), and
@@ -101,7 +101,7 @@ approvals by the Planning and Zoning Commission, Architectural Board of Review
 and other municipal officers as required below and by other provisions of the
 Codified Ordinances.
 
-2. _(b)_ Actions by Applicant. No zoning certificate, building permit or
+2. _(b)_ **Actions by Applicant.** No zoning certificate, building permit or
 occupancy permit shall be issued for a building on a lot which is not located in
 a duly recorded subdivision, is not located on a public or private street, or
 for which improvements required by the Municipality have not been installed or
@@ -117,7 +117,7 @@ along with two paper copies and an electronic copy, unless otherwise required by
 the Administrator. Each application for a Zoning Certificate shall contain the
 elements listed below.
 
-1. _(a)_ Narrative Information.
+1. _(a)_ **Narrative Information.**
 
     1. _(1)_ Name, mailing address electronic mail address and telephone number
     of applicant and property owner.
@@ -135,9 +135,9 @@ elements listed below.
     6. _(6)_ Certification of compliance with environmental performance
     regulations as required in Section 1144.03.
 
-2. _(b)_ Site Plans. Plans drawn at a scale of one-inch equals forty feet, or as
-otherwise required by the Administrator, indicating the following information in
-a clear and legible manner.
+2. _(b)_ **Site Plans.** Plans drawn at a scale of one-inch equals forty feet,
+or as otherwise required by the Administrator, indicating the following
+information in a clear and legible manner.
 
     1. _(1)_ Existing and proposed property lines of the subject parcel(s),
     documented by a professional survey, with all dimensions indicated.
@@ -171,12 +171,12 @@ a clear and legible manner.
     10. _(10)_ Proposed and existing signs, shown in accordance with the
     application requirements of Section 1143.05 (b).
 
-3. _(c)_ Exceptions. The Administrator may waive any of the above requirements
-which he determines to be inapplicable in specific instances.
+3. _(c)_ **Exceptions.** The Administrator may waive any of the above
+requirements which he determines to be inapplicable in specific instances.
 
-4. _(d)_ Building Permit Applications. Applications which incorporate building
-permit applications shall also contain all information required for building
-permits in Part Thirteen - Building Code.  
+4. _(d)_ **Building Permit Applications.** Applications which incorporate
+building permit applications shall also contain all information required for
+building permits in Part Thirteen - Building Code.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.05   Review and approval procedures
@@ -185,32 +185,32 @@ The following procedures are established to govern the review and approval
 process regarding applications for subdivision approvals, zoning certificates,
 building permits and occupancy permits.
 
-1. _(a)_ Acceptance by Administrator. The Administrator shall promptly review
-each application submitted to determine whether all required information has
-been provided. If the application is deemed insufficient, the Administrator
+1. _(a)_ **Acceptance by Administrator.** The Administrator shall promptly
+review each application submitted to determine whether all required information
+has been provided. If the application is deemed insufficient, the Administrator
 shall promptly notify the applicant and reject acceptance of the application for
 processing. If the application is deemed sufficient in terms of required
 information and the applicable fee has been paid, the Administrator shall
 officially accept the application on that date for consideration of the
 action(s) requested.
 
-2. _(b)_ Transmittal for Review.  Upon official acceptance of an application,
-the Administrator shall transmit copies to the Municipal bodies and officers
-responsible for review or approval, as stated below. The Administrator shall
-issue no permits or certificates prior to required approvals.
+2. _(b)_ **Transmittal for Review.**  Upon official acceptance of an
+application, the Administrator shall transmit copies to the Municipal bodies and
+officers responsible for review or approval, as stated below. The Administrator
+shall issue no permits or certificates prior to required approvals.
 
-    1. _(1)_ Architectural Board of Review. The Architectural Board of Review
-    shall approve or disapprove all building permit applications.
+    1. _(1)_ **Architectural Board of Review.** The Architectural Board of
+    Review shall approve or disapprove all building permit applications.
 
-        1. _(A)_ Compliance. The Architectural Board of Review shall review such
-        applications for compliance with the Building Code, general design
+        1. _(A)_ **Compliance.** The Architectural Board of Review shall review
+        such applications for compliance with the Building Code, general design
         standards, and design standards established in this Planning and Zoning
         Code for buildings, signs and other uses and grade changes of three
         inches or more as required by Chapter 1146. The Architectural Board of
         Review shall conduct its review in accordance with Chapters 1115 and
         1146 as applicable.
 
-        2. _(B)_ Meeting Notice. Ten days prior to the initial review of an
+        2. _(B)_ **Meeting Notice.** Ten days prior to the initial review of an
         application that allows for the exercise of discretion, the
         Architectural Board of Review shall notify by first class mail owners of
         property abutting, and directly across the street from, the location of
@@ -227,14 +227,14 @@ issue no permits or certificates prior to required approvals.
 
             3. _(3)_ Section 1146.06 Demolition and moving.
 
-        3. _(C)_ Meetings. All meetings of the Architectural Board of Review
+        3. _(C)_ **Meetings.** All meetings of the Architectural Board of Review
         shall be open to the public unless otherwise allowed by law. The
         Architectural Board of Review shall receive and consider public comment
         and information relevant to an application during the review process.
         The Architectural Board of Review may establish such rules as may be
         necessary for the effective proceeding of any meeting.
 
-        4. _(D)_ Review Process. Except for those applications subject to
+        4. _(D)_ **Review Process.** Except for those applications subject to
         Concurrent Review as set forth herein, the review process for an
         application shall be in two phases: the preliminary plan review and the
         final plan review. However, the applicant is also encouraged to meet
@@ -244,7 +244,7 @@ issue no permits or certificates prior to required approvals.
         the requirements of the Planning and Zoning Code and the Design
         Guidelines.
 
-            1. _(1)_ Preliminary plan. The application shall submit a
+            1. _(1)_ **Preliminary plan.** The application shall submit a
             preliminary plan of the proposed design that shall conform with the
             requirements set forth in Section 1109.04.
 
@@ -275,7 +275,7 @@ issue no permits or certificates prior to required approvals.
                 consideration for any variances or modifications if applicable
                 in order for the applicant to obtain a building permit.
 
-            2. _(2)_ Final. The applicant, having received approval of the
+            2. _(2)_ **Final.** The applicant, having received approval of the
             preliminary plan of the proposed design, and any necessary variances
             from the Board of Zoning Appeals or modifications from the Planning
             and Zoning Commission in order to obtain a building permit for the
@@ -284,31 +284,31 @@ issue no permits or certificates prior to required approvals.
             plan if it determines that the design is in accordance with the
             approved preliminary plan, and any variances granted by the Board.
 
-            3. _(3)_ Concurrent review. The Architectural Board of Review may
-            accept a concurrent submission of a Preliminary Plan and a Final
+            3. _(3)_ **Concurrent review.** The Architectural Board of Review
+            may accept a concurrent submission of a Preliminary Plan and a Final
             Plan, provided that such submission satisfies the submittal
             requirements of this chapter, and no variances from the Board of
             Zoning Appeals or modifications from the Planning and Zoning
             Commission will be requested for the project.
 
-        5. _(E)_ Approval/Disapproval. The Architectural Board of Review shall
-        either approve, approve with modification or disapprove the final plan
-        in accordance with the review and approval procedures set forth in
+        5. _(E)_ **Approval/Disapproval.** The Architectural Board of Review
+        shall either approve, approve with modification or disapprove the final
+        plan in accordance with the review and approval procedures set forth in
         Section 1109.05 and the standards of Chapters 1115 and 1146, as
         applicable. In conjunction with a motion on the final plan, the
         Architectural Board of Review shall state the reasons that support the
         decision.
 
-    2. _(2)_ Planning and Zoning Commission.
+    2. _(2)_ **Planning and Zoning Commission.**
 
-        1. _(A)_ Subdivisions. The Planning and Zoning Commission shall approve
-        or disapprove all subdivision applications based on the Subdivision
-        Regulations and Improvement Standards in Chapter 1161 of the Codified
-        Ordinances.  
+        1. _(A)_ **Subdivisions.** The Planning and Zoning Commission shall
+        approve or disapprove all subdivision applications based on the
+        Subdivision Regulations and Improvement Standards in Chapter 1161 of the
+        Codified Ordinances.
 
-        2. _(B)_ Zoning Certificates. The Planning and Zoning Commission shall
-        also approve or disapprove Zoning Certificate applications which propose
-        an action as follows:
+        2. _(B)_ **Zoning Certificates.** The Planning and Zoning Commission
+        shall also approve or disapprove Zoning Certificate applications which
+        propose an action as follows:
 
             1. _(1)_ A change of use or enlargement of a use which affects the
             number of parking spaces; and any change in the number or
@@ -317,16 +317,16 @@ issue no permits or certificates prior to required approvals.
             2. _(2)_ Erection or moving of any main building in all zoning
             districts except R1 and R2F Districts.
 
-        3. _(C)_ Meeting Notice. The Planning and Zoning Commission shall review
-        such applications for compliance with the Planning and Zoning Code. Ten
-        days prior to the initial review of an application that allows for the
-        exercise of discretion, the Planning and Zoning Commission shall notify
-        by first class mail owners of property abutting, and directly across the
-        street from, the location of the property involved in the application
-        request. The notification shall set forth the time and place of the
-        meeting and a summary of the proposed application request. Applicable
-        sections of the code where discretion is given to the Planning and
-        Zoning Commission and meeting notice is required are:
+        3. _(C)_ **Meeting Notice.** The Planning and Zoning Commission shall
+        review such applications for compliance with the Planning and Zoning
+        Code. Ten days prior to the initial review of an application that allows
+        for the exercise of discretion, the Planning and Zoning Commission shall
+        notify by first class mail owners of property abutting, and directly
+        across the street from, the location of the property involved in the
+        application request. The notification shall set forth the time and place
+        of the meeting and a summary of the proposed application request.
+        Applicable sections of the code where discretion is given to the
+        Planning and Zoning Commission and meeting notice is required are:
 
             1. _(1)_ Section 1125.03(l) Modifications to front yard setback.
 
@@ -344,20 +344,20 @@ issue no permits or certificates prior to required approvals.
 
             8. _(8)_ Chapter 1126, Cluster Development plans.
 
-    3. _(3)_ Municipal Engineer. The Municipal Engineer shall approve or
+    3. _(3)_ **Municipal Engineer.** The Municipal Engineer shall approve or
     disapprove all subdivision approval applications and any building permit
     applications which propose construction requiring a grade change of three
     inches or more, and may require grading plans to be submitted, in addition
     to any plan required by the Planning and Zoning Code or Subdivision
     Regulations if necessary to determine the impact on the drainage shed.
 
-    4. _(4)_ Bureau of Fire Prevention. Approval by the Bureau of Fire
+    4. _(4)_ **Bureau of Fire Prevention.** Approval by the Bureau of Fire
     Prevention shall be required for all building permits authorizing erection,
     enlargement or repair of structures and for the installation of Solar Energy
     Systems in accordance with Chapter 1153.  
     (See Section 1501.13 of the Fire Prevention Code.)
 
-    5. _(5)_ Council. Council approval shall be required for all subdivision
+    5. _(5)_ **Council.** Council approval shall be required for all subdivision
     approval applications proposing the creation of five or more additional lots
     and for any application which proposes the widening, extension or opening of
     public or private roads (with the exception of a single access driveway
@@ -366,25 +366,25 @@ issue no permits or certificates prior to required approvals.
     Planning and Zoning Commission or Municipal Engineer, where such approval is
     required, except as referred to in Chapter 1111.
 
-    6. _(6)_ Other Municipal officers. The Administrator shall also submit
+    6. _(6)_ **Other Municipal Officers.** The Administrator shall also submit
     applications for review and recommendation to the Police Chief and other
     municipal officers, as applicable.
 
-    7. _(7)_ Board of Zoning Appeals.  The Board of Zoning Appeals shall hear
-    any questions or disputes involving interpretation of this Planning and
+    7. _(7)_ **Board of Zoning Appeals.**  The Board of Zoning Appeals shall
+    hear any questions or disputes involving interpretation of this Planning and
     Zoning Code and shall determine whether or not to grant variances or render
     decisions on administrative appeals in accordance with Chapter 1111 of this
     Planning and Zoning Code.
 
-3. _(c)_ Time Limitations for Review. In order to ensure expeditious handling of
-applications, the following time limitations for review are established for
-applications which require approval of the Architectural Board of Review,
-Planning and Zoning Commission, Municipal Engineer or Council. Where various
-plans required as components of a building permit application are submitted
-separately, the time limitations shall apply to each separate submission from
-the date of its acceptance.
+3. _(c)_ **Time Limitations for Review.** In order to ensure expeditious
+handling of applications, the following time limitations for review are
+established for applications which require approval of the Architectural Board
+of Review, Planning and Zoning Commission, Municipal Engineer or Council. Where
+various plans required as components of a building permit application are
+submitted separately, the time limitations shall apply to each separate
+submission from the date of its acceptance.
 
-    1. _(1)_ Architectural Board of Review. Applications submitted to the
+    1. _(1)_ **Architectural Board of Review.** Applications submitted to the
     Architectural Board of Review shall be considered at the next regularly
     scheduled meeting which occurs twenty or more days after official acceptance
     of the application by the Administrator. Applications for the review of
@@ -393,7 +393,7 @@ the date of its acceptance.
     Architectural Board of Review shall make its final determination no later
     than forty-five days after the date of its required consideration.
 
-    2. _(2)_ Planning and Zoning Commission. Applications submitted to the
+    2. _(2)_ **Planning and Zoning Commission.** Applications submitted to the
     Planning and Zoning Commission shall be considered at the next regularly
     scheduled meeting which occurs ten or more days after official acceptance of
     the application by the Administrator and after the satisfaction of the
@@ -401,40 +401,40 @@ the date of its acceptance.
     Planning and Zoning Commission shall make its final determination no later
     than forty-five days after the date of its required consideration.
 
-    3. _(3)_ Board of Zoning Appeals.  Applications submitted to the Board of
-    Zoning Appeals shall be considered in accordance with the provisions of
+    3. _(3)_ **Board of Zoning Appeals.**  Applications submitted to the Board
+    of Zoning Appeals shall be considered in accordance with the provisions of
     Section 1111.04. The Board of Zoning Appeals shall make its final
     determination no later than forty-five days after the date of closure of the
     public hearing(s) on an application.
 
-    4. _(4)_ Bureau of Fire Prevention. Applications submitted for review and
-    recommendation to the Bureau of Fire Prevention shall be reviewed within
+    4. _(4)_ **Bureau of Fire Prevention.** Applications submitted for review
+    and recommendation to the Bureau of Fire Prevention shall be reviewed within
     thirty days after official acceptance by the Administrator.
 
-    5. _(5)_ Municipal Engineer.  Applications submitted to the Municipal
+    5. _(5)_ **Municipal Engineer.**  Applications submitted to the Municipal
     Engineer for review and consideration shall be reviewed within thirty days
     after official acceptance by the Administrator.
 
-    6. _(6)_ Council.  Applications submitted to Council shall be approved or
-    disapproved within forty-five days after all other required approvals have
-    been granted and closure of any required public hearing(s).
+    6. _(6)_ **Council.**  Applications submitted to Council shall be approved
+    or disapproved within forty-five days after all other required approvals
+    have been granted and closure of any required public hearing(s).
 
-    7. _(7)_ Extensions.  The applicant may agree to extensions of any of the
-    above time limitations in order to permit plan revisions or the continuation
-    of the review process.
+    7. _(7)_ **Extensions.**  The applicant may agree to extensions of any of
+    the above time limitations in order to permit plan revisions or the
+    continuation of the review process.
 
-4. _(d)_ Effective Approval. Except for administrative appeals or variances
+4. _(d)_ **Effective Approval.** Except for administrative appeals or variances
 granted by the Board of Zoning Appeals, approvals granted under this section
 shall expire within twelve months if the work authorized by the approval has not
 materially commenced. The permit expiration may be extended by the Administrator
 in the event of a change of circumstances, and for good cause shown, provided
 that there has been substantial progress on the work authorized.
 
-5. _(e)_ Final Action by Administrator. Subsequent to all required approvals,
-the Administrator shall promptly issue the appropriate permit or certificate. If
-an application has been disapproved by the Municipal bodies or officers
-responsible for that determination, the Administrator shall so notify the
-applicant in writing, providing copies of all written action taken by the
+5. _(e)_ **Final Action by Administrator.** Subsequent to all required
+approvals, the Administrator shall promptly issue the appropriate permit or
+certificate. If an application has been disapproved by the Municipal bodies or
+officers responsible for that determination, the Administrator shall so notify
+the applicant in writing, providing copies of all written action taken by the
 Council or any board or commission of the Municipality.  
 (Ord. 2019-39. Passed 8-13-19.)
 
@@ -444,17 +444,17 @@ In order to ensure that the intent of Municipal authorizations is not altered by
 changing circumstances, the following regulations are established governing the
 expiration of certificates and permits.
 
-1. _(a)_ Zoning Certificates. Zoning Certificates are issued as a prerequisite
-to issuance of a building permit or occupancy permit, as required. If neither
-the building permit nor occupancy permit, as required, has been issued within
-six months after the issuance of zoning certificate, such zoning certificate
-shall become null and void.
+1. _(a)_ **Zoning Certificates.** Zoning Certificates are issued as a
+prerequisite to issuance of a building permit or occupancy permit, as required.
+If neither the building permit nor occupancy permit, as required, has been
+issued within six months after the issuance of zoning certificate, such zoning
+certificate shall become null and void.
 
-2. _(b)_ Building Permits. Building permits shall be issued for a period of one
-year and may be renewed while construction is diligently pursued.
+2. _(b)_ **Building Permits.** Building permits shall be issued for a period of
+one year and may be renewed while construction is diligently pursued.
 
-3. _(c)_ Occupancy Permits. Occupancy permits shall be issued for a period of
-one year for nonresidential uses and for an indefinite period of time for
+3. _(c)_ **Occupancy Permits.** Occupancy permits shall be issued for a period
+of one year for nonresidential uses and for an indefinite period of time for
 residential uses.
 
     Each nonresidential occupancy permit shall be renewed by the occupant to
@@ -467,7 +467,7 @@ residential uses.
 The following regulations are established to ensure adequate and equitable
 enforcement of the provisions of this Planning and Zoning Code.
 
-1. _(a)_ Inspections.
+1. _(a)_ **Inspections.**
 
     1. _(1)_ Subsequent to the issuance of a building permit, the Administrator
     shall make periodic inspections as required in the Building Code to ensure
@@ -477,7 +477,7 @@ enforcement of the provisions of this Planning and Zoning Code.
     to certify the conforming or nonconforming status of all uses and
     structures.
 
-2. _(b)_ Order for Elimination of Violations.
+2. _(b)_ **Order for Elimination of Violations.**
 
     1. _(1)_ The Administrator shall record and investigate any report of an
     alleged violation of this Planning and Zoning Code or the Subdivision
@@ -567,11 +567,11 @@ services and the advertising, court reporting and transcribing costs and
 conducting of hearings. No application shall be officially accepted and dated
 until all required fees and deposits have been paid.
 
-1. _(a)_ Fees. Council may establish fees for applications for subdivisions,
+1. _(a)_ **Fees.** Council may establish fees for applications for subdivisions,
 zoning certificates, building permits, occupancy permits, variances,
 interpretations of the Code, and requests for rezoning.
 
-2. _(b)_ Deposits. For applications requiring approval by the Planning and
+2. _(b)_ **Deposits.** For applications requiring approval by the Planning and
 Zoning Commission or the Board of Zoning Appeals, the applicant shall be
 required to deposit a sum as specified by ordinance sufficient to cover expenses
 incurred by the Municipality for public hearing advertisements, for services
@@ -584,9 +584,9 @@ to the applicant.
 
 ## 1109.09   Public hearing notifications and hearings
 
-1. _(a)_ Notifications. Where required by the Ohio Revised Code or the Planning
-and Zoning Code, public hearings shall be scheduled, and notice provided of such
-public hearing in accordance with the following:
+1. _(a)_ **Notifications.** Where required by the Ohio Revised Code or the
+Planning and Zoning Code, public hearings shall be scheduled, and notice
+provided of such public hearing in accordance with the following:
 
     1. _(1)_ Written notice, whether by publication or mail shall:
 
@@ -639,7 +639,7 @@ Code prior to final action on the request. When the records of the Municipality
 document the publication or mailing of required notices, it shall be presumed
 that notice of a public hearing was given as required by this section.
 
-3. _(c)_ Hearings.  Hearings shall be conducted in the following manner.
+3. _(c)_ **Hearings.**  Hearings shall be conducted in the following manner.
 Hearings shall be public. Upon the day of a hearing the reviewing body may
 adjourn the hearing in order to permit the obtaining of additional information
 or to cause such further notice as it deems proper. In the case of an adjourned

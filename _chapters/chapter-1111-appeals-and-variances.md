@@ -121,15 +121,15 @@ Code.
 
 ## 1111.05   Meetings, quorum and vote
 
-1. _(a)_ Hearing of Appeals and Variances. The Board shall allow any interested
-party to submit admissible evidence or testimony to the Board, provided that all
-testimony shall be submitted under oath, and all interested parties shall be
-permitted to cross-examine witnesses and present their positions, arguments and
-contentions. In the event the Board determines that evidence or testimony is not
-admissible, the Board shall permit the proffer of such evidence in a manner
-which allows for the creation of a complete record.
+1. _(a)_ **Hearing of Appeals and Variances.** The Board shall allow any
+interested party to submit admissible evidence or testimony to the Board,
+provided that all testimony shall be submitted under oath, and all interested
+parties shall be permitted to cross-examine witnesses and present their
+positions, arguments and contentions. In the event the Board determines that
+evidence or testimony is not admissible, the Board shall permit the proffer of
+such evidence in a manner which allows for the creation of a complete record.
 
-2. _(b)_ Quorum and Vote. A majority of the members of the Board of Zoning
+2. _(b)_ **Quorum and Vote.** A majority of the members of the Board of Zoning
 Appeals shall constitute a quorum for the transaction of business. In each case
 a motion or motions shall be made to grant the relief requested. Such motions
 may be made and seconded by members who are opposed to the motion. The
@@ -143,11 +143,11 @@ the basis for Conclusions of Fact by the Board. Members may state their
 agreement with a prior articulation of facts and need not restate all facts
 supporting their decision prior to voting on the motion.
 
-3. _(c)_ Decisions and Conclusions of Fact. After the public hearing, the Board
-shall make its determination which shall include a decision and conclusions of
-fact. The Board shall also prepare its record in accordance with Section 1111.06
-of this Chapter, when the matter will be referred to Council for review of the
-decision of the Board of Zoning Appeals.  
+3. _(c)_ **Decisions and Conclusions of Fact.** After the public hearing, the
+Board shall make its determination which shall include a decision and
+conclusions of fact. The Board shall also prepare its record in accordance with
+Section 1111.06 of this Chapter, when the matter will be referred to Council for
+review of the decision of the Board of Zoning Appeals.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.06   Record of decision

@@ -2698,7 +2698,7 @@ intent to defraud the Municipality or the Tax Administrator.
     agent, or other payer is required to withhold from an employee’s qualifying
     wages.
 
-2. _(B)_ 
+2. _(B)_
 
     1. _(1)_ This section applies to the following:
 

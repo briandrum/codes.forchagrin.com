@@ -41,7 +41,7 @@ A Police Department is hereby established for the Municipality.
 1. _(a)_ The Police Department shall consist of a Chief of Police and such other
 positions as authorized by ordinance of Council, including:
 
-    1. _(1)_ Full-time Regular Patrol Officers. Full-time Regular Patrol
+    1. _(1)_ **Full-Time Regular Patrol Officers.** Full-time Regular Patrol
     Officers shall perform all duties enjoined upon them by the laws of the
     State and the ordinances of this Municipality, and such duties as may be
     directed or designated by the Chief of Police or the Mayor.
@@ -52,13 +52,13 @@ positions as authorized by ordinance of Council, including:
     officer of the Department. Part-Time Patrol Officers shall not be regularly
     scheduled to work for more than twenty-nine (29) hours per week.
 
-    3. _(3)_ Administrative Assistant. There is hereby created the position of
-    Administrative Assistant who shall be appointed by the Chief of Police.
+    3. _(3)_ **Administrative Assistant.** There is hereby created the position
+    of Administrative Assistant who shall be appointed by the Chief of Police.
 
-    4. _(4)_ Police Clerk. There is hereby created the part-time position of
+    4. _(4)_ **Police Clerk.** There is hereby created the part-time position of
     Police Clerk.
 
-    5. _(5)_ School Guards. There is hereby created the position of School
+    5. _(5)_ **School Guards.** There is hereby created the position of School
     Guard. The Chief of Police or the Chief’s designee may, as deemed necessary,
     appoint persons to serve as School Guards, which School Guards may be
     removed from that position at any time for any reason. Persons appointed as
@@ -68,19 +68,19 @@ positions as authorized by ordinance of Council, including:
     shall perform their services in such manner as the Chief of Police or the
     Chief’s designee may direct.
 
-    6. _(6)_ Parking Enforcement Official. There is hereby created the position
-    of Parking Enforcement Official, who shall serve as a member of the Parking
-    Enforcement Unit of the Police Department. The responsibilities of Parking
-    Enforcement Official and the Parking Enforcement Unit are more fully
+    6. _(6)_ **Parking Enforcement Official.** There is hereby created the
+    position of Parking Enforcement Official, who shall serve as a member of the
+    Parking Enforcement Unit of the Police Department. The responsibilities of
+    Parking Enforcement Official and the Parking Enforcement Unit are more fully
     described in Section 129.10 of this chapter.
 
-    7. _(7)_ Officer in Charge. The Chief of Police shall designate an Officer
-    in Charge of the Department during the absence, disability or incapacity of
-    the Chief. In the absence, disability or incapacity of the Chief where no
-    Officer in Charge has been designated by the Chief, the Mayor may designate
-    an Officer in Charge or an acting Chief of Police.
+    7. _(7)_ **Officer in Charge.** The Chief of Police shall designate an
+    Officer in Charge of the Department during the absence, disability or
+    incapacity of the Chief. In the absence, disability or incapacity of the
+    Chief where no Officer in Charge has been designated by the Chief, the Mayor
+    may designate an Officer in Charge or an acting Chief of Police.
 
-    8. _(8)_ Police Auxiliary. The Chief of Police may, as deemed necessary,
+    8. _(8)_ **Police Auxiliary.** The Chief of Police may, as deemed necessary,
     appoint persons to serve as non-sworn Auxiliary Officers. Persons appointed
     as Auxiliary Officers serve on a volunteer basis and provide support to
     sworn law enforcement officers. The supporting roles of Auxiliary Officers
@@ -150,8 +150,8 @@ shall create an Application for Appointment, and shall make such Application
 available to any individual seeking to apply for an open position within the
 Police Department.
 
-2. _(b)_ Guidelines. The Application drafted by the Chief of Police must compy
-with the following guidelines:
+2. _(b)_ **Guidelines.** The Application drafted by the Chief of Police must
+compy with the following guidelines:
 
     1. _(1)_ Applications must be filled out in ink and handwritten. Illegible
     applications shall be rejected.  
@@ -179,22 +179,22 @@ with the following guidelines:
         7. _(G)_ Perform any other background checks the Village deems
         appropriate.
 
-3. _(c)_ Written Examination for Certain Positions within the Police Department.
-The Chief of Police shall have discretion to determine whether a written
-examination is helpful in selecting a candidate for a particular position within
-the Police Department. Where the Chief of Police has determined that a written
-examination will be helpful, the Chief shall create and administer a written
-examination to all individuals who have timely completed an Application for
-Appointment.
+3. _(c)_ **Written Examination for Certain Positions within the Police
+Department.** The Chief of Police shall have discretion to determine whether a
+written examination is helpful in selecting a candidate for a particular
+position within the Police Department. Where the Chief of Police has determined
+that a written examination will be helpful, the Chief shall create and
+administer a written examination to all individuals who have timely completed an
+Application for Appointment.
 
-4. _(d)_ Service Credit. An Applicant for any position may receive extra credit
-if, at the time an Application is submitted, the Applicant also submits proof of
-Past Military Service, as established with a copy of a DD Form 214 discharge
-report.
+4. _(d)_ **Service Credit.** An Applicant for any position may receive extra
+credit if, at the time an Application is submitted, the Applicant also submits
+proof of Past Military Service, as established with a copy of a DD Form 214
+discharge report.
 
-5. _(e)_ Interviews. Applicants may be selected for face-to-face or telephone
-interviews. An Applicant’s performance during such interviews may be considered
-by the Village when appointing any individual to serve in the Police
+5. _(e)_ **Interviews.** Applicants may be selected for face-to-face or
+telephone interviews. An Applicant’s performance during such interviews may be
+considered by the Village when appointing any individual to serve in the Police
 Department.  
 (Ord. 2015-21. Passed 7-27-15.)
 
@@ -249,13 +249,13 @@ property.
 
 ## 129.08   Parking enforcement unit
 
-1. _(a)_ Composition. The Parking Enforcement Unit within the Police Department
-is hereby established. The Parking Enforcement Unit shall be comprised of the
-Fire Prevention Officer and any other individuals appointed to the Parking
-Enforcement Unit by the Mayor and confirmed by Council. Such individuals shall
-serve as Parking Enforcement Officers.
+1. _(a)_ **Composition.** The Parking Enforcement Unit within the Police
+Department is hereby established. The Parking Enforcement Unit shall be
+comprised of the Fire Prevention Officer and any other individuals appointed to
+the Parking Enforcement Unit by the Mayor and confirmed by Council. Such
+individuals shall serve as Parking Enforcement Officers.
 
-2. _(b)_ Head of the Parking Enforcement Unit. The Mayor, pursuant to his
+2. _(b)_ **Head of the Parking Enforcement Unit.** The Mayor, pursuant to his
 authority under the Charter of Chagrin Falls and consistent with Ohio R.C.
 737.161, shall be the executive head of the Parking Enforcement Unit and shall
 make all appointments and removals of Parking Enforcement Officers, subject to
@@ -263,10 +263,11 @@ any general rules prescribed by the Village Council by ordinance. The Mayor
 shall prescribe rules for the organization, training, administration, control,
 and conduct of the Parking Enforcement Unit.
 
-3. _(c)_ Enforcement Authority. The authority of Parking Enforcement Officers is
-limited to the enforcement of all parking violations listed in Chapter 351. The
-Fire Prevention Officer is also authorized to enforce Chapter 1503.
+3. _(c)_ **Enforcement Authority.** The authority of Parking Enforcement
+Officers is limited to the enforcement of all parking violations listed in
+Chapter 351. The Fire Prevention Officer is also authorized to enforce Chapter
+1503.
 
-4. _(d)_ Training. Parking Enforcement Officers shall receive training as
+4. _(d)_ **Training.** Parking Enforcement Officers shall receive training as
 directed by Ohio R.C. 737.161.  
 (Ord. 2015-21. Passed 7-27-15.)

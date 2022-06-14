@@ -57,7 +57,7 @@ office, institutional, residential, retail business, industrial buildings and
 uses, and provided in conformance with the other provisions of this chapter as a
 condition precedent to the occupancy of such building or use.
 
-1. _(a)_ Central Shopping District.
+1. _(a)_ **Central Shopping District.**
 
     1. _(1)_ A change of one permitted use to another permitted use occupying
     the existing floor area of a building shall not require parking greater than
@@ -74,7 +74,7 @@ condition precedent to the occupancy of such building or use.
     3. _(3)_ Parking facilities shall be provided for the entire building
     whenever a new building is constructed.
 
-2. _(b)_ All Other Districts.
+2. _(b)_ **All Other Districts.**
 
     1. _(1)_ Parking facilities shall be provided for the entire building or use
     whenever a building is constructed or a new use established,
@@ -303,7 +303,6 @@ loading or unloading process. Such spaces may be open or enclosed. They shall
 not be located in any setback or less than fifty feet from a residential
 district.  
 (Ord. 2019-39. Passed 8-13-19.)
- 
 
 ## 1141.12   Size of loading space
 

@@ -403,135 +403,178 @@ means an implicit or explicit agreement to provide sexual activity in exchange
 for anything of value paid to the person engaging in such sexual activity, to
 any person trafficking that person, or to any person associated with either
 such person.
-4. _(d)_ (1)    Whoever violates subsection (a) of this section is guilty of
-soliciting. Soliciting is a misdemeanor of the third degree.
+4. _(d)_
+
+    1. _(1)_ Whoever violates subsection (a) of this section is guilty of
+    soliciting. Soliciting is a misdemeanor of the third degree.
+
     2. _(2)_ Whoever violates subsection (b) of this section is guilty of
-engaging in solicitation after a positive HIV test, a felony to be prosecuted
-under appropriate state law.  
-(ORC 2907.24)
+    engaging in solicitation after a positive HIV test, a felony to be
+    prosecuted under appropriate state law.  
+    (ORC 2907.24)
 
 ### 533.091   Loitering to engage in solicitation
 
-1. _(a)_ No person, with purpose to solicit another to engage in sexual
-activity for hire and while in or near a public place, shall do any of the
-following:
+1. _(a)_ No person, with purpose to solicit another to engage in sexual activity
+for hire and while in or near a public place, shall do any of the following:
+
     1. _(1)_ Beckon to, stop or attempt to stop another;
+
     2. _(2)_ Engage or attempt to engage another in conversation;
+
     3. _(3)_ Stop or attempt to stop the operator of a vehicle or approach a
-stationary vehicle;
+    stationary vehicle;
+
     4. _(4)_ If the offender is the operator of or a passenger in a vehicle,
-stop, attempt to stop, beckon to, attempt to beckon to, or entice another to
-approach or enter the vehicle of which the offender is the operator or in which
-the offender is the passenger;
+    stop, attempt to stop, beckon to, attempt to beckon to, or entice another to
+    approach or enter the vehicle of which the offender is the operator or in
+    which the offender is the passenger;
+
     5. _(5)_ Interfere with the free passage of another.
+
 2. _(b)_ No person, with knowledge that the person has tested positive as a
 carrier of a virus that causes acquired immunodeficiency syndrome, shall engage
 in conduct in violation of subsection (a) of this section.
+
 3. _(c)_ As used in subsection (a) of this section:
+
     1. _(1)_ “Public Place”. Means any of the following:
+
         1. _(A)_ A street, road, highway, thoroughfare, bikeway, walkway,
-sidewalk, bridge, alley, alleyway, plaza, park, driveway, parking lot or
-transportation facility.
+        sidewalk, bridge, alley, alleyway, plaza, park, driveway, parking lot or
+        transportation facility.
+
         2. _(B)_ A doorway or entrance way to a building that fronts on a place
-described in subsection (c)(1)A. of this definition.
+        described in subsection (c)(1)A. of this definition.
+
         3. _(C)_ A place not described in subsection (c)(1)A. or B. of this
-definition that is open to the public.
+        definition that is open to the public.
+
     2. _(2)_ “Vehicle”. Has the same meaning as in Ohio R.C. 4501.01.
+
 4. _(d)_
+
     1. _(1)_ Whoever violates subsection (a) of this section is guilty of
-loitering to engage in solicitation, a misdemeanor of the third degree.
+    loitering to engage in solicitation, a misdemeanor of the third degree.
+
     2. _(2)_ Whoever violates subsection (b) of this section is guilty of
-loitering to engage in solicitation after a positive HIV test, a felony to be
-prosecuted under appropriate state law.  
-(ORC 2907.24, 2907.241)
+    loitering to engage in solicitation after a positive HIV test, a felony to
+    be prosecuted under appropriate state law.  
+    (ORC 2907.24, 2907.241)
 
 ## 533.10   Prostitution
 
 1. _(a)_ No person shall engage in sexual activity for hire.
+
 2. _(b)_ No person, with knowledge that the person has tested positive as a
 carrier of a virus that causes acquired immunodeficiency syndrome, shall engage
 in sexual activity for hire.
+
 3. _(c)_
+
     1. _(1)_ Whoever violates subsection (a) of this section is guilty of
-prostitution, a misdemeanor of the third degree.
+    prostitution, a misdemeanor of the third degree.
+
     2. _(2)_ Whoever violates subsection (b) of this section is guilty of
-engaging in prostitution after a positive HIV test, a felony to be prosecuted
-under appropriate state law.  
-(ORC 2907.25)
+    engaging in prostitution after a positive HIV test, a felony to be
+    prosecuted under appropriate state law.  
+    (ORC 2907.25)
 
 ## 533.11   Disseminating matter harmful to juveniles
 
-1. _(a)_ No person, with knowledge of its character or content, shall
-recklessly do any of the following:
+1. _(a)_ No person, with knowledge of its character or content, shall recklessly
+do any of the following:
+
     1. _(1)_ Directly sell, deliver, furnish, disseminate, provide, exhibit,
-rent or present to a juvenile, a group of juveniles, a law enforcement officer
-posing as a juvenile, or a group of law enforcement officers posing as
-juveniles any material or performance that is obscene or harmful to juveniles;
+    rent or present to a juvenile, a group of juveniles, a law enforcement
+    officer posing as a juvenile, or a group of law enforcement officers posing
+    as juveniles any material or performance that is obscene or harmful to
+    juveniles;
+
     2. _(2)_ Directly offer or agree to sell, deliver, furnish, disseminate,
-provide, exhibit, rent or present to a juvenile, a group of juveniles, a law
-enforcement officer posing as a juvenile, or a group of law enforcement
-officers posing as juveniles any material or performance that is obscene or
-harmful to juveniles;
+    provide, exhibit, rent or present to a juvenile, a group of juveniles, a law
+    enforcement officer posing as a juvenile, or a group of law enforcement
+    officers posing as juveniles any material or performance that is obscene or
+    harmful to juveniles;
+
     3. _(3)_ While in the physical proximity of the juvenile or law enforcement
-officer posing as a juvenile, allow any juvenile or law enforcement officer
-posing as a juvenile to review or peruse any material or view any live
-performance that is harmful to juveniles.
+    officer posing as a juvenile, allow any juvenile or law enforcement officer
+    posing as a juvenile to review or peruse any material or view any live
+    performance that is harmful to juveniles.
+
 2. _(b)_ The following are affirmative defenses to a charge under this section,
 that involves material or a performance that is harmful to juveniles but not
 obscene:
+
     1. _(1)_ The defendant is the parent, guardian or spouse of the juvenile
-involved.
+    involved.
+
     2. _(2)_ The juvenile involved, at the time of the conduct in question, was
-accompanied by the juvenile’s parent or guardian who, with knowledge of its
-character, consented to the material or performance being furnished or
-presented to the juvenile.
+    accompanied by the juvenile’s parent or guardian who, with knowledge of its
+    character, consented to the material or performance being furnished or
+    presented to the juvenile.
+
     3. _(3)_ The juvenile exhibited to the defendant or the defendant’s agent or
-employee a draft card, driver’s license, birth certificate, marriage license,
-or other official or apparently official document purporting to show that the
-juvenile was eighteen years of age or over or married, and the person to whom
-that document was exhibited did not otherwise have reasonable cause to believe
-that the juvenile was under the age of eighteen and unmarried.
+    employee a draft card, driver’s license, birth certificate, marriage
+    license, or other official or apparently official document purporting to
+    show that the juvenile was eighteen years of age or over or married, and the
+    person to whom that document was exhibited did not otherwise have reasonable
+    cause to believe that the juvenile was under the age of eighteen and
+    unmarried.
+
 3. _(c)_
+
     1. _(1)_ It is an affirmative defense to a charge under this section,
-involving material or a performance that is obscene or harmful to juveniles,
-that the material or performance was furnished or presented for a bona fide
-medical, scientific, educational, governmental, judicial or other proper
-purpose, by a physician, psychologist, sociologist, scientist, teacher,
-librarian, clergyman, prosecutor, judge or other proper person.
+    involving material or a performance that is obscene or harmful to juveniles,
+    that the material or performance was furnished or presented for a bona fide
+    medical, scientific, educational, governmental, judicial or other proper
+    purpose, by a physician, psychologist, sociologist, scientist, teacher,
+    librarian, clergyman, prosecutor, judge or other proper person.
+
     2. _(2)_ Except as provided in subsection (b)(3) hereof, mistake of age is
-not a defense to a charge under this section.
+    not a defense to a charge under this section.
+
 4. _(d)_
+
     1. _(1)_ A person directly sells, delivers, furnishes, disseminates,
-provides, exhibits, rents, or presents or directly offers or agrees to sell,
-deliver, furnish, disseminate, provide, exhibit, rent, or present material or a
-performance to a juvenile, a group of juveniles, a law enforcement officer
-posing as a juvenile, or a group of law enforcement officers posing as
-juveniles in violation of this section by means of an electronic method of
-remotely transmitting information if the person knows or has reason to believe
-that the person receiving the information is a juvenile or the group of persons
-receiving the information are juveniles.
+    provides, exhibits, rents, or presents or directly offers or agrees to sell,
+    deliver, furnish, disseminate, provide, exhibit, rent, or present material
+    or a performance to a juvenile, a group of juveniles, a law enforcement
+    officer posing as a juvenile, or a group of law enforcement officers posing
+    as juveniles in violation of this section by means of an electronic method
+    of remotely transmitting information if the person knows or has reason to
+    believe that the person receiving the information is a juvenile or the group
+    of persons receiving the information are juveniles.
+
     2. _(2)_ A person remotely transmitting information by means of a method of
-mass distribution does not directly sell, deliver, furnish, disseminate,
-provide, exhibit, rent, or present or directly offer or agree to sell, deliver,
-furnish, disseminate, provide, exhibit, rent, or present the material or
-performance in question to a juvenile, a group of juveniles, a law enforcement
-officer posing as a juvenile, or a group of law enforcement officers posing as
-juveniles in violation of this section if either of the following applies:
+    mass distribution does not directly sell, deliver, furnish, disseminate,
+    provide, exhibit, rent, or present or directly offer or agree to sell,
+    deliver, furnish, disseminate, provide, exhibit, rent, or present the
+    material or performance in question to a juvenile, a group of juveniles, a
+    law enforcement officer posing as a juvenile, or a group of law enforcement
+    officers posing as juveniles in violation of this section if either of the
+    following applies:
+
         1. _(A)_ The person has inadequate information to know or have reason to
-believe that a particular recipient of the information or offer is a juvenile.
+        believe that a particular recipient of the information or offer is a
+        juvenile.
+
         2. _(B)_ The method of mass distribution does not provide the person the
-ability to prevent a particular recipient from receiving the information.
+        ability to prevent a particular recipient from receiving the
+        information.
+
 5. _(e)_ If any provision of this section, or the application of any provision
 of this section to any person or circumstance, is held invalid, the invalidity
 does not affect other provisions or applications of this section or related
-sections that can be given effect without the invalid provision or
-application. To this end, the provisions are severable.
-6. _(f)_ Whoever violates this section is guilty of disseminating matter
-harmful to juveniles. If the material or performance involved is harmful to
-juveniles, except as otherwise provided in this subsection, a violation of this
-section is a misdemeanor of the first degree. If the material or performance
-involved is obscene, a violation of this section is a felony and shall be
-prosecuted under appropriate State law.  
+sections that can be given effect without the invalid provision or application.
+To this end, the provisions are severable.
+
+6. _(f)_ Whoever violates this section is guilty of disseminating matter harmful
+to juveniles. If the material or performance involved is harmful to juveniles,
+except as otherwise provided in this subsection, a violation of this section is
+a misdemeanor of the first degree. If the material or performance involved is
+obscene, a violation of this section is a felony and shall be prosecuted under
+appropriate State law.  
 (ORC 2907.31)
 
 ## 533.12   Deception to obtain matter harmful to juveniles
@@ -539,18 +582,24 @@ prosecuted under appropriate State law.
 1. _(a)_ No person, for the purpose of enabling a juvenile to obtain any
 material or gain admission to any performance which is harmful to juveniles
 shall do either of the following:
+
     1. _(1)_ Falsely represent that he is the parent, guardian or spouse of such
-juvenile;
+    juvenile;
+
     2. _(2)_ Furnish such juvenile with any identification or document
-purporting to show that such juvenile is eighteen years of age or over or
-married.
+    purporting to show that such juvenile is eighteen years of age or over or
+    married.
+
 2. _(b)_ No juvenile, for the purpose of obtaining any material or gaining
 admission to any performance which is harmful to juveniles, shall do either of
 the following:
+
     1. _(1)_ Falsely represent that he is eighteen years of age or over or
-married;
+    married;
+
     2. _(2)_ Exhibit any identification or document purporting to show that he
-is eighteen years of age or over or married.
+    is eighteen years of age or over or married.
+
 3. _(c)_ Whoever violates this section is guilty of deception to obtain matter
 harmful to juveniles, a misdemeanor of the second degree. A juvenile who
 violates subsection (b) hereof shall be adjudged an unruly child, with such
@@ -564,15 +613,17 @@ establishment, with knowledge of the character or content of the material
 involved, shall display at the establishment any material that is harmful to
 juveniles and that is open to view by juveniles as part of the invited general
 public.
+
 2. _(b)_ It is not a violation of subsection (a) hereof if the material in
 question is displayed by placing it behind "blinder racks" or similar devices
 that cover at least the lower two-thirds of the material, if the material in
-question is wrapped or placed behind the counter, or if the material in
-question otherwise is covered or located so that the portion that is harmful to
-juveniles is not open to the view of juveniles.
-3. _(c)_ Whoever violates this section is guilty of displaying matter harmful
-to juveniles, a misdemeanor of the first degree. Each day during which the
-offender is in violation of this section constitutes a separate offense.  
+question is wrapped or placed behind the counter, or if the material in question
+otherwise is covered or located so that the portion that is harmful to juveniles
+is not open to the view of juveniles.
+
+3. _(c)_ Whoever violates this section is guilty of displaying matter harmful to
+juveniles, a misdemeanor of the first degree. Each day during which the offender
+is in violation of this section constitutes a separate offense.  
 (ORC 2907.311)
 
 ## 533.14   Unlawful advertising of massage
@@ -582,8 +633,10 @@ or electronic publication, sign, placard, storefront display, or other medium,
 shall advertise massage, relaxation massage, any other massage technique or
 method, or any related service, with the suggestion or promise of sexual
 activity.
+
 2. _(b)_ Whoever violates this section is guilty of unlawful advertising of
 massage, a misdemeanor of the first degree.
+
 3. _(c)_ Nothing in this section prevents the legislative authority of a
 municipal corporation or township from enacting any regulation of the
 advertising of massage further than and in addition to the provisions of
@@ -593,74 +646,115 @@ subsections (a) and (b) of this section.
 ## 533.15   Dissemination of private sexual images
 
 1. _(a)_ As used in this section:
+
     1. _(1)_ “Disseminate” means to post, distribute, or publish on a computer
-device, computer network, web site, or other electronic device or medium of
-communication.
+    device, computer network, web site, or other electronic device or medium of
+    communication.
+
     2. _(2)_ “Image” means a photograph, film, videotape, digital recording or
-other depiction or portrayal of a person.
+    other depiction or portrayal of a person.
+
     3. _(3)_ “Interactive computer service” has the meaning defined in the
-“Telecommunications Act of 1996", 47 U.S.C. 230, as amended.
+    “Telecommunications Act of 1996", 47 U.S.C. 230, as amended.
+
     4. _(4)_ “Internet provider” means a provider of internet service, including
-all of the following:
+    all of the following:
+
         1. _(A)_ Broadband service, however defined or classified by the federal
-communications commission;
-        2. _(B)_ Information service or telecommunication service, both as defined
-in the “Telecommunications Act of 1996" 47 U.S.C. 153, as amended.
+        communications commission;
+
+        2. _(B)_ Information service or telecommunication service, both as
+        defined in the “Telecommunications Act of 1996" 47 U.S.C. 153, as
+        amended.
+
         3. _(C)_ Internet protocol-enabled services, as defined in Ohio R.C.
-4927.01.
+        4927.01.
+
     5. _(5)_ “Mobile service” and “telecommunications carrier” have the meanings
-defined in 47 U.S.C. 153, as amended.
+    defined in 47 U.S.C. 153, as amended.
+
     6. _(6)_ “Cable service provider” has the same meaning as in Ohio R.C.
-1332.01.
+    1332.01.
+
     7. _(7)_ “Direct-to-home satellite service” has the meaning defined in 47
-U.S.C. 303, as amended.
+    U.S.C. 303, as amended.
+
     8. _(8)_ “Video service provider” has the same meaning as in Ohio R.C.
-1332.21.
+    1332.21.
+
     9. _(9)_ “Sexual act” means any of the following:
+
         1. _(A)_ Sexual activity;
+
         2. _(B)_ Masturbation;
+
         3. _(C)_ An act involving a bodily substance that is performed for the
-purpose of sexual arousal or gratification;
+        purpose of sexual arousal or gratification;
+
         4. _(D)_ Sado-masochistic abuse.
-2. _(b)_ No person shall knowingly disseminate an image of another person if
-all of the following apply:
+
+2. _(b)_ No person shall knowingly disseminate an image of another person if all
+of the following apply:
+
     1. _(1)_ The person in the image is eighteen years of age or older;
+
     2. _(2)_ The person in the image can be identified from the image itself or
-from information displayed in connection with the image and the offender
-supplied the identifying information.
+    from information displayed in connection with the image and the offender
+    supplied the identifying information.
+
     3. _(3)_ The person in the image is in a state of nudity or is engaged in a
-sexual act;
+    sexual act;
+
     4. _(4)_ The image is disseminated without consent from the person in the
-image;
+    image;
+
     5. _(5)_ The image is disseminated with intent to harm the person in the
-image.
+    image.
+
 3. _(c)_ This section does not prohibit the dissemination of an image if any of
 the following apply:
+
     1. _(1)_ The image is disseminated for the purpose of a criminal
-investigation that is otherwise lawful.
+    investigation that is otherwise lawful.
+
     2. _(2)_ The image is disseminated for the purpose of, or in connection
-with, the reporting of unlawful conduct.
+    with, the reporting of unlawful conduct.
+
     3. _(3)_ The image is part of a news report or commentary or an artistic or
-expressive work, such as a performance, work of art, literary work, theatrical
-work, musical work, motion picture, film, or audiovisual work.
+    expressive work, such as a performance, work of art, literary work,
+    theatrical work, musical work, motion picture, film, or audiovisual work.
+
     4. _(4)_ The image is disseminated by a law enforcement officer, or a
-corrections officer or guard in a detention facility, acting within the scope
-of the person’s official duties.
+    corrections officer or guard in a detention facility, acting within the
+    scope of the person’s official duties.
+
     5. _(5)_ The image is disseminated for another lawful public purpose;
+
     6. _(6)_ The person in the image is knowingly and willingly in a state of
-nudity or engaged in a sexual act and is knowingly and willingly in a location
-in which the person does not have a reasonable expectation of privacy.
+    nudity or engaged in a sexual act and is knowingly and willingly in a
+    location in which the person does not have a reasonable expectation of
+    privacy.
+
     7. _(7)_ The image is disseminated for the purpose of medical treatment or
-examination.
+    examination.
+
 4. _(d)_ The following entities are not liable for a violation of this section
 solely as a result of an image or other information provided by another person:
+
     1. _(1)_ A provider of interactive computer service;
+
     2. _(2)_ A mobile service;
+
     3. _(3)_ A telecommunications carrier;
+
     4. _(4)_ An internet provider;
+
     5. _(5)_ A cable service provider;
+
     6. _(6)_ A direct-to-home satellite service;
+
     7. _(7)_ A video service provider.
+
 5. _(e)_ Any conduct that is a violation of this section and any other section
 of the General Offenses Code, or the Revised Code may be prosecuted under this
 section, the other section, or both sections.
@@ -711,4 +805,5 @@ action against the offender, as described in Ohio R.C. 2307.66.
 
 ## 533.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor classification.)
+(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+classification.)

@@ -1033,7 +1033,7 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     tort action to the extent that the claim for relief satisfies all of the
     following:
 
-        1. _(A)_   It seeks to recover damages for injury or death to the
+        1. _(A)_ It seeks to recover damages for injury or death to the
         occupant.
 
         2. _(B)_ The defendant in question is the manufacturer, designer,
@@ -1061,7 +1061,7 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
 
 ## 337.28   Use of sunscreening, nontransparent and reflectorized materials
 
-1. _(a)_ Requirements.
+1. _(a)_ **Requirements.**
 
     1. _(1)_ No person shall operate, on any highway or other public or private
     property open to the public for vehicular travel or parking, lease, or rent
@@ -1135,7 +1135,7 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     the vehicle window when viewed from the outside.  
     (OAC 4501-41-03)
 
-2. _(b)_ Exemptions. The provisions of this section do not apply to:
+2. _(b)_ **Exemptions.** The provisions of this section do not apply to:
 
     1. _(1)_ A motor vehicle registered in this State in the name of a person,
     or the person’s parent, legal guardian or spouse who has an affidavit signed
@@ -1164,7 +1164,7 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     site [http://www.gpo.gov](https://www.gpo.gov/).  
     (OAC 4501-41-05)
 
-3. _(c)_ Definitions. As used in this section, certain terms are defined as
+3. _(c)_ **Definitions.** As used in this section, certain terms are defined as
 follows:
 
     1. _(1)_ "Motor vehicle" has the same meaning as specified in Section 301.20.
@@ -1202,13 +1202,13 @@ follows:
     vehicle that is used exclusively in the business of funeral directing.  
     (OAC 4501-41-02)
 
-4. _(d)_ Penalty. Whoever violates this section is guilty of a minor
+4. _(d)_ **Penalty.** Whoever violates this section is guilty of a minor
 misdemeanor.  
 (ORC 4513.241)
 
 ## 337.29   Bumper heights
 
-1. _(a)_ Definitions.
+1. _(a)_ **Definitions.**
 
     1. _(1)_ "Passenger car" means any motor vehicle with motive power, designed
     for carrying ten persons or less, except a multipurpose passenger vehicle or
@@ -1248,7 +1248,7 @@ misdemeanor.
     tire tread on the opposite side.  
     (OAC 4501-43-02)
 
-2. _(b)_ Prohibitions; Application.
+2. _(b)_ **Prohibitions; Application.**
 
     1. _(1)_ No person shall operate upon a street or highway any passenger car,
     multipurpose passenger vehicle or truck registered in this State that does
@@ -1296,7 +1296,7 @@ misdemeanor.
     be operated on a street or highway.  
     (OAC 4501-43-03)
 
-3. _(c)_ Specifications.
+3. _(c)_ **Specifications.**
 
     1. _(1)_ The horizontal bumper shall be at least 4.5 inches in vertical
     height, centered on the vehicle’s centerline, and extend no less than the
