@@ -15,6 +15,7 @@ title: "Chapter 1105: Scope and Application"
 * [1105.05   Compliance with this Planning and Zoning Code](#110505-compliance-with-this-planning-and-zoning-code)
 * [1105.06   Relation to other regulations](#110506-relation-to-other-regulations)
 * [1105.07   Separability](#110507-separability)
+* [1105.08   Imposition of conditions](#110508-imposition-of-conditions)
 
 ## 1105.01   Title
 
@@ -166,3 +167,18 @@ shall be limited to that provision or provisions expressly stated to be invalid,
 and such determination shall not affect, impair or nullify this Planning and
 Zoning Code as amended as a whole or any other part thereof.  
 (Ord. 2019-39. Passed 8-13-19.)
+
+## 1105.08   Imposition of conditions
+
+Whenever the Council, any board, commission, Village Engineer, Chief
+Administrative Officer, Administrator, or Building Inspector (collectively
+“Approving Authority”) has been delegated the power to approve plans, issue
+permits, for improvements, development, construction, reconstruction, or
+renovation of land, buildings and structures as provided for in the Planning and
+Zoning Code, such Approving Authority may impose conditions, so long as such
+conditions are in compliance with any applicable statutes, ordinances and
+standards, on any such approval with such conditions the Approving Authority
+believes are necessary to impose in order that the public health, safety,
+convenience, comfort and general welfare of the residents and the Village may be
+safeguarded and substantial justice done.  
+(Ord. 2022-19. Passed 6-13-22.)

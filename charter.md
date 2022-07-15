@@ -1,4 +1,4 @@
 ---
 layout: articles
-title: "Charter"
+title: "Charter of the Village of Chagrin Falls"
 ---

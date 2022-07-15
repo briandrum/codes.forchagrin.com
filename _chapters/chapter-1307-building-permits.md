@@ -62,6 +62,17 @@ except as otherwise provided by ordinance or statute, which permit shall be
 effective for one year from the date of its issuance.  
 (Ord. 1955-350. Passed 10-10-55.)
 
+Whenever any board, commission, or official (collectively “Approving Authority”)
+has been delegated the power to approve plans, issue permits and/or to approve
+development, construction, reconstruction or renovation of land, buildings or
+structures within the Village, such Approving Authority may impose conditions,
+so long as such conditions are in compliance with any applicable statutes,
+ordinance and standards, on such approval with such conditions that the
+Approving Authority believes are necessary to impose in order that the public
+health, safety, convenience, comfort and general welfare of the resident and the
+Village may be safeguarded and substantial justice done.  
+(Ord. 2022-19. Passed 6-13-22.)
+
 ## 1307.02   Issuance of permit; certification of compliance with zoning code
 
 Before the issuance of a building permit, the Building Inspector shall certify

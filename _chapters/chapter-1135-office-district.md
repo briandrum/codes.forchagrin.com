@@ -46,13 +46,18 @@ Buildings and land shall be used by right for only the main and accessory uses
 set forth below.  
 (Ord. 2019-39. Passed 8-13-19.)
 
-1. _(a)_ Main Uses.
+1. _(a)_ **Main Uses.**
 
-    1. _(1)_ **Office Buildings.** Office buildings, accommodating accounting,
-    administrative, business, executive, government, insurance, investment,
-    professional, public or quasi-public, real estate or travel agency
-    establishments, except that no retails sales or retail services shall be
-    permitted as their main use.
+    1. _(1)_ **Office Buildings.**
+
+        1. _(A)_ Office buildings, accommodating accounting, administrative,
+        business, executive, governmental, insurance, investment, professional,
+        public or quasi-public, real estate or travel agency establishments.
+
+        2. _(B)_ Retail sales or retail services may occupy thirty percent (30%)
+        or less of the total square feet of a multi-tenant office building.
+        Access to such retail use shall be through the primary means of ingress
+        and egress to and from the principal building.
 
     2. _(2)_ **Medical offices.** Medical office buildings and outpatient
     clinics.

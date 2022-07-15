@@ -2,54 +2,59 @@
 layout: default
 ---
 
-<div class="Grid Grid--withGutter">
-  <div class="Grid-cell u-sm-sizeFull u-md-size2of3 u-lg-size2of3">
-    <div class="Markdown">
-      {%- if page.title -%}
-        <h1>{{ page.title }}</h1>
-      {%- endif -%}
+<div class="Markdown">
+  {% assign parts = site.parts | sort: 'part_no'  %}
 
-      {% assign parts = site.parts | sort: 'part_no'  %}
-      <ul>
-        <li><a href="./charter/">Charter</a></li>
-      {% for part in parts %}
-        <li><a href="{{ part.url }}">{{ part.title }}</a></li>
-      {% endfor %}
-      </ul>
-    </div>
-  </div>
-  <div class="Grid-cell u-sm-sizeFull u-md-size1of3 u-lg-size1of3">
-    <div class="Markdown">
-      {% if site.paginate %}
-        {% assign posts = paginator.posts %}
-      {% else %}
-        {% assign posts = site.posts %}
-      {% endif %}
+  {%- if page.title -%}
+    <h2>{{ page.title }}</h2>
+  {%- endif -%}
 
-      {%- if posts.size > 0 -%}
-        {%- if page.list_title -%}
-          <h1>{{ page.list_title }}</h1>
-        {%- endif -%}
+  <section>
+    <h2>Village</h2>
+    <h1><a href="./charter/">Charter</a></h1>
+  </section>
 
-        {%- assign date_format = site.optima.date_format | default: "%b %-d, %Y" -%}
-        {%- for post in posts limit:3 -%}
-        <section>
-          <h2>
-            <a href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h2>
-          <p>{{ post.date | date: date_format }}</p>
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </section>
-        {%- endfor -%}
-
-        <p>
-         <a href="./posts/">All posts</a>
-       </p>
-      {%- endif -%}
-    </div>
-  </div>
+  {% for part in parts %}
+  <section>
+    <h2>Part {{ part.part_no_word }}</h2>
+    <h1><a href="{{ part.url }}">{{ part.title }}</a></h1>
+  </section>
+  {% endfor %}
 </div>
+
+{% if site.paginate %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{%- if posts.size > 0 -%}
+  <div class="Markdown">
+
+    {%- if page.list_title -%}
+      <h2>{{ page.list_title }}</h2>
+    {%- endif -%}
+  
+    {%- assign date_format = site.optima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in posts limit:3 -%}
+    <article>
+      <h4>
+        <a href="{{ post.url | relative_url }}">
+          Ordinance {{ post.ordinance_no | escape }}: An Ordinance {{ post.title | escape }}
+        </a>
+      </h4>
+      <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ post.date | date: date_format }}
+      </time>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </article>
+    {%- endfor -%}
+
+    <p>
+     <a href="./posts/">All updates</a>
+    </p>
+
+  </div>
+{%- endif -%}

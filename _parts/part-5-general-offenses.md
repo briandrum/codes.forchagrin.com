@@ -1,5 +1,6 @@
 ---
 layout: part
 part_no: 5
-title: "Part Five: General Offenses Code"
+part_no_word: "Five"
+title: "General Offenses Code"
 ---

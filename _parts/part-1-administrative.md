@@ -1,5 +1,6 @@
 ---
 layout: part
 part_no: 1
-title: "Part One: Administrative Code"
+part_no_word: "One"
+title: "Administrative Code"
 ---

@@ -1,0 +1,88 @@
+---
+layout: post
+title: "Amending the Planning and Zoning Code of the Village of Chagrin Falls by Adding Section 1105.08 of the Planning and Zoning Code, and Amending Section 1307.01 of the Building Code and Amending Section 1501.05 of the Fire Prevention Code"
+ordinance_no: "2022-19"
+---
+
+- Introduced by: Rogoff
+- 1st Reading (04/25/2022)
+- 2nd Reading (05/09/2022)
+- 3rd Reading (05/23/2022)
+- Public Hearing (06/13/2022)
+
+_Whereas,_ the Planning and Zoning Commission at its April 18, 2022 meeting
+recommended to Council to amend the Planning and Zoning Code Section to add a
+new Section 1105.08, regarding conditions to be imposed upon issuing approvals
+and permits in accordance with the Planning and Zoning Code of the Village;
+
+_Whereas,_ the Council has also determined that the Building Code and Fire
+Prevention Code should also be amended to provide for the imposition of
+conditions when plans or permits are approved;
+
+_Whereas,_ Council desires to enact the foregoing amendment to the Planning and
+Zoning Code by adding Section 1105.08, and amending Building Code Section
+1307.01 and Fire Prevention Code Section 1501.05, based, in part, on the
+recommendations of the Planning and Zoning Commission.
+
+**_Now Therefore, Be It Ordained by the Council of the Village of Chagrin Falls,
+Cuyahoga County, State of Ohio:_**
+
+**Section 1.** The Planning and Zoning Code of the Village of Chagrin Falls is
+hereby amended by adding new Section 1105.08 which reads, in its entirety, as
+follows:
+
+> Whenever the Council, any board, commission, Village Engineer, Chief
+> Administrative Officer, Administrator, or Building Inspector (collectively
+> “Approving Authority”) has been delegated the power to approve plans, issue
+> permits, for improvements, development, construction, reconstruction, or
+> renovation of land, buildings and structures as provided for in the Planning
+> and Zoning Code, such Approving Authority may impose conditions, so long as
+> such conditions are in compliance with any applicable statutes, ordinances and
+> standards, on any such approval with such conditions the Approving Authority
+> believes are necessary to impose in order that the public health, safety,
+> convenience, comfort and general welfare of the residents and the Village may
+> be safeguarded and substantial justice done.
+
+**Section 2.** The Building Code is hereby amended, by adding the following
+language to 1307.01 of the Building Code as follows:
+
+> Whenever any board, commission, or official (collectively “Approving
+> Authority”) has been delegated the power to approve plans, issue permits
+> and/or to approve development, construction, reconstruction or renovation of
+> land, buildings or structures within the Village, such Approving Authority may
+> impose conditions, so long as such conditions are in compliance with any
+> applicable statutes, ordinance and standards, on such approval with such
+> conditions that the Approving Authority believes are necessary to impose in
+> order that the public health, safety, convenience, comfort and general welfare
+> of the resident and the Village may be safeguarded and substantial justice
+> done.
+
+**Section 3.** The Fire Prevention Code is hereby amended by adding the
+following language to Section 1501.05 of the Fire Prevention Code which reads as
+follows:
+
+> Whenever any board, commission, or official (collectively “Approving
+> Authority”) has been delegated the power to approve plans, issue permits
+> and/or to approve development, construction, reconstruction or renovation of
+> land, buildings or structures within the Village, such Approving Authority may
+> impose conditions, so long as such conditions are in compliance with any
+> applicable statutes, ordinance and standards, on such approval with such
+> conditions that the Approving Authority believes are necessary to impose in
+> order that the public health, safety, convenience, comfort and general welfare
+> of the resident and the Village may be safeguarded and substantial justice
+> done.
+
+**Section 4.** That actions of this Council concerning and relating to the
+passage of this legislation were adopted in lawful meetings of this Council and
+that all deliberations of this Council and of any of its committees that
+resulted in such formal action were in compliance with all legal requirements,
+including Chapter 114 of the Codified Ordinances of the Village of Chagrin
+Falls.
+
+**Section 5.** That in accordance with Section 113.01 of the Codified Ordinances
+of the Village of Chagrin Falls, public notice of this Ordinance shall be given
+by posting a copy thereof for not less than fifteen (15) days in the Village
+Hall.
+
+**Section 6.** That this Ordinance shall take effect and be in force after the
+earliest period allowed by law.

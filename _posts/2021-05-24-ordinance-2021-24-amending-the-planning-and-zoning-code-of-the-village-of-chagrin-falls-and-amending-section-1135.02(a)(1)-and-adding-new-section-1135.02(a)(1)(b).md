@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Amending the Planning and Zoning Code of the Village of Chagrin Falls and Amending Section 1135.02(a)(1) and Adding New Section 1135.02(a)(1)(B)"
+ordinance_no: "2021-24"
+---
+
+- Introduced by: Rogoff
+- 1st Reading (05/24/2021)
+- Public Hearing (06/28/2021)
+- Passed (06/28/2021)
+
+_Whereas,_ the Planning and Zoning Commission, at their May 17, 2021 meeting
+recommended to Council to amend Planning and Zoning Code Section 1135.02(a)(1)
+to permit limited retail sales or services within office buildings and to
+further amend Section 1335.02(a)(1) and add a new subsection (B) to limit the
+amount of retail sales or retail services permitted in a multi-tenant office
+buildings; and
+
+_Whereas,_ Council has held a public hearing on June 28, 2021 on this Ordinance;
+and
+
+_Whereas,_ Council desires to enact the foregoing amendments to the Planning and
+Zoning Code by amending and re-lettering Section 1135.02(a)(1)(A) and adding (B)
+based, in part, on the recommendations of the Planning and Zoning Commission.
+
+**_Now Therefore, Be It Ordained by the Council of the Village of Chagrin Falls,
+Cuyahoga County, State of Ohio:_**
+
+**Section 1.** Planning and Zoning Code Section 1135.02(a)(1) is hereby amended
+and re-lettered in its entirety as follows:
+
+> 1. _(1)_ **Office Buildings.**
+> 
+>     1. _(A)_ Office buildings, accommodating accounting, administrative,
+>     business, executive, governmental, insurance, investment, professional,
+>     public or quasi-public, real estate or travel agency establishments.
+
+Current Section 1135.02(a)(1), the full text which files is hereby repealed:
+
+> 1. _(a)_ **Main Uses.**
+> 
+>     1. _(1)_ **Office Buildings.** Office buildings, accommodating accounting,
+>     administrative, business, executive, government, insurance, investment,
+>     professional, public or quasi-public, real estate or travel agency
+>     establishments, except that no retails sales or retail services shall be
+>     permitted as their main use.
+
+**Section 2.** As amended, Planning and Zoning Code Section 1135.02(a)(1) with
+strikeouts for deletions and underlining for additions, reads in its entirety as
+follows:
+
+> 1. _(a)_ **Main Uses.**
+> 
+>     1. _(1)_ **Office Buildings.**
+> 
+>         1. _(A)_ Office buildings, accommodating accounting, administrative,
+>         business, executive, government, insurance, investment, professional,
+>         public or quasi-public, real estate or travel agency
+>         establishments<del>, except that no retails sales or retail services
+>         shall be permitted as a main use</del>.
+
+**Section 3.** Planning and Zoning Code Section 1135.02 is hereby amended to add
+subsection (a)(1)(B) to read as follows:
+
+> 2. _(B)_ Retail sales or retail services may occupy thirty percent (30%) or
+> less of the total square feet of a multi-tenant office building. Access to
+> such retail use shall be through the primary means of ingress and egress to
+> and from the principal building.
+
+**Section 4.** The existing Section 1135.02(a)(1), to the extent inconsistent
+with the newly enacted provisions herein and any other Ordinance in conflict
+with this Ordinance are hereby repealed, except to the extent such code sections
+are the subject of an enforcement action they shall be considered effective for
+the purposes of enforcement for any violations that occurred prior to repeal.
+
+**Section 5.** That actions of this Council concerning and relating to the
+passage of this legislation were adopted in lawful meetings of this Council and
+that all deliberations of this Council and of any of its committees that
+resulted in such formal action were in compliance with all legal requirements,
+including Chapter 114 of the Codified Ordinances of the Village of Chagrin
+Falls.
+
+**Section 6.** That in accordance with Section 113.01 of the Codified Ordinances
+of the Village of Chagrin Falls, public notice of this Ordinance shall be given
+by posting a copy thereof for not less than fifteen (15) days in the Village
+Hall.
+
+**Section 7.** That this Ordinance shall take effect and be in force after the
+earliest period allow by law.

@@ -1,5 +1,6 @@
 ---
 layout: part
 part_no: 15
-title: "Part Fifteen: Fire Prevention Code"
+part_no_word: "Fifteen"
+title: "Fire Prevention Code"
 ---

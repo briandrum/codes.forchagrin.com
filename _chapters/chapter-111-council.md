@@ -10,7 +10,7 @@ title: "Chapter 111: Council"
 
 * [111.01   Regular meetings](#11101-regular-meetings)
 * [111.02   Special meetings](#11102-special-meetings)
-* [111.03   Agenda for Council meetings](#11103-agenda-for-council-meetings)
+* [111.03   Agenda for council meetings](#11103-agenda-for-council-meetings)
 
 ## Cross references
 
@@ -31,17 +31,18 @@ title: "Chapter 111: Council"
 
 ## 111.01   Regular meetings
 
-Regular meetings of Council shall be held in the Village Hall at such time as
-established by Council, on the second and fourth Mondays of each and every
-calendar month, except that Council may cancel one of the monthly meetings, in
-its discretion. In the event there is no business to be considered by Council at
-the next regular meeting, the President of Council, upon notice to all other
-members of Council, the Mayor, Clerk of Council, Law Director and the Chief
-Administrative Officer, may cancel such meeting. Cancellation by the Council
-President shall be made no later than 4:00 p.m. on the Friday prior to the
-regularly scheduled Council meeting if cancellation was not declared at the last
-regular Council meeting.  
-(Ord. 2016-20. Passed 5-23-16.)
+Regular meetings of Council shall be either held in the Village Hall, or held
+virtually, when determined by Council or the Council President to hold a virtual
+meeting, at such time as established by Council, on the second and fourth
+Mondays of each and every calendar month, except that Council may cancel one of
+the monthly meetings, at its discretion. In the event there is no business to be
+considered by Council at the next regular meeting, the President of Council,
+upon notice to all other members of Council, the Mayor, Clerk of Council, Law
+Director and the Chief Administrative Officer, may cancel such meeting.
+Cancellation by the Council President shall be made no later than 4:00 p.m. on
+the Friday prior to the regularly scheduled Council meeting if cancellation was
+not declared at the last regular Council meeting.  
+(Ord. 2022-01. Passed 1-3-22.)
 
 ## 111.02   Special meetings
 
@@ -55,70 +56,84 @@ meeting.
 
 ## 111.03   Agenda for council meetings
 
-The agenda for regular Council meetings of Council shall be set by the presiding
-officer conducting the meeting. The agenda shall be created by the Clerk of
-Council, at the direction of the President of Council, and Mayor, and
-distributed to the Mayor, Council, Chief Administrative Officer, and Law
-Director, along with any new legislation on the Friday preceding the regular
-meeting of Council. Upon the direction of the President of Council or the Mayor,
-an agenda for any special meeting of Council shall be set and delivered to all
-officials required to receive agendas for regular meetings of Council, and as
-soon as possible before any emergency meeting of Council. Members of the public
-wishing to speak to agenda items must advise the Clerk of Council of their
-intent to do so by noon on the day of the Council Meeting, and members of the
-public shall also be permitted to speak to any matter not to exceed five (5)
-minutes. Reports of the Mayor, Finance Director, Law Director, Chief
-Administrative Officer, Village Engineer, Police Chief and Fire Chief shall be
-presented at regular meetings of Council unless excused by the presiding
-officer.  
-(Ord. 2016-76. Passed 1-23-17.)
+1. _(1)_ **Regular Meetings:**
 
----
+    1. _(a)_ The agenda for regular Council meetings of Council shall be set by
+    the presiding officer conducting the meeting.
 
-## Agenda - Chagrin Falls Council
+    2. _(b)_ The agenda shall be created by the Clerk of Council, at the
+    direction of the President of Council, and Mayor, and distributed to the
+    Mayor, Council, Chief Administrative Officer, and Law Director, along with
+    any new legislation on the Friday preceding the regular meeting of Council.
 
-Date/Regular, Special or Adjourned Meeting/Time
+    3. _(c)_ Members of the public wishing to speak to agenda items must advise
+    the Clerk of Council of their intent to do so by noon on the day of the
+    Council Meeting.
 
-1. _(1)_ Moment of Silence/Pledge of Allegiance.
+    4. _(d)_ Members of the public shall be permitted to speak to any matter not
+    to exceed five (5) minutes.
 
-2. _(2)_ Roll Call (Action Concerning Absentees).
+    5. _(e)_ Reports of the Mayor, Finance Director, Law Director, Chief
+    Administrative Officer, Village Engineer, Police Chief and Fire Chief shall
+    be presented at regular meetings of Council unless excused by the presiding
+    officer.
 
-3. _(3)_ Reading and Disposal of Minutes.
+2. _(2)_ **Special Meetings:**
 
-4. _(4)_ Mayor’s Report.
+    1. _(a)_ Upon the direction of the President of Council or the Mayor, an
+    agenda for any special meeting of Council shall be set and delivered to all
+    officials required to receive agendas for regular meetings of Council, and
+    as soon as possible before any emergency meeting of Council.
 
-5. _(5)_ Finance Director’s Report.
+3. _(3)_ **Agenda for Council Meetings:**
 
-6. _(6)_ Members of Public Speak to Agenda Items. (Not to Exceed Two (2) Minutes
-Per Person.)
+    Agenda for Chagrin Falls Council Meetings  
+    Date / Regular, Special or Adjourned Meeting / Time
 
-7. _(7)_ Law Directors’ Report
+    1. _(1)_ Moment of Silence/Pledge of Allegiance
 
-   1. _(A)_ Legislative Docket  
-   Disposition of Legislation, Including Any Public Hearings on Legislation.
+    2. _(2)_ Roll Call (action concerning absentees)
 
-   2. _(B)_ Administrative Docket  
-   Actions to Be Taken Upon Recommendations From the Board of Zoning Appeals.
+    3. _(3)_ Reading and Disposal of Minutes
 
-8. _(8)_ Council Committee Reports.
+    4. _(4)_ Administrative Reports
 
-9. _(9)_ Chief Administrative Officer’s Report.
+        1. _(a)_ Mayor’s Report
 
-10. _(10)_ Engineer’s Report.
+        2. _(b)_ Finance Director’s Report
 
-11. _(11)_ Police Chief’s Report.
+        3. _(c)_ Law Director’s Report
 
-12. _(12)_ Fire Chief’s Report.
+        4. _(d)_ Chief Administrative Officer’s Report
 
-13. _(13)_ Members of Public Speak to Any Matter (Not to Exceed Five (5)
-Minutes).
+        5. _(e)_ Engineer’s Report
 
-14. _(14)_ Miscellaneous.
+        6. _(f)_ Police Chief’s Report
 
-15. _(15)_ Adjournment.
+        7. _(g)_ Fire Chief’s Report
 
-Time ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    5. _(5)_ Council Reports
 
----
-  
-(Ord. 2008-01. Passed 3-24-08.)
+        1. _(a)_ Council Committee Reports
+
+        2. _(b)_ Commission Reports
+
+    6. _(6)_ Presentations to Council (when applicable)
+
+    7. _(7)_ Public Hearings (when applicable)
+
+    8. _(8)_ Members of the Public to Speak to Agenda Items (not to exceed 5
+    minutes per speaker)
+
+    9. _(9)_ Legislative Docket
+
+    10. _(10)_ Members of the Public to Speak to Any Matter (not to exceed 5
+    minutes per speaker)
+
+    11. _(11)_ Miscellaneous
+
+    12. _(12)_ Adjournment
+
+        Time
+
+(Ord. 2022-04. Passed 2-14-22.)

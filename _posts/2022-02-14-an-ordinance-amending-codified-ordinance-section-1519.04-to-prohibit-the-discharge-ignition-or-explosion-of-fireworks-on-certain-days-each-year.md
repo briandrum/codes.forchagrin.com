@@ -1,0 +1,142 @@
+---
+layout: post
+title: "Amending Codified Ordinance Section 1519.04 to Prohibit the Discharge, Ignition or Explosion of Fireworks on Certain Days Each Year"
+ordinance_no: "2022-05"
+---
+
+- Introduced by: Rockey
+- 1st Reading (02/14/2022)
+- 2nd Reading (02/28/2022)
+- 3rd Reading (03/14/2022)
+
+_Whereas,_ Substitute House Bill 172 was recently adopted by the Ohio General
+Assembly; and
+
+_Whereas,_ Section 3743.45 of the Ohio Revised Code was amended by Substitute
+House Bill 172 to provide that any person authorized to possess 1.4. G fireworks
+in Ohio could discharge, ignite or explode those fireworks on private property
+on ten (10) specific days of the year and Substitute House Bill 172 provided
+that a municipal corporation may restrict or ban the discharge, ignition or
+explosion of fireworks purchased pursuant to Section 3743.45 of the Ohio Revised
+Code; and
+
+_Whereas,_ the Village Council and its Committees, and the Village Fire Marshal
+have determined that the Village should continue to prohibit the discharge,
+ignition or explosion of fireworks in the Village of Chagrin Falls except for
+licensed exhibitors of fireworks authorized to conduct a fireworks exhibition
+pursuant to Ohio Revised Code Sections 3743.50 to 3743.55.
+
+**_Now Therefore, Be It Ordained by the Council of the Village of Chagrin Falls,
+Cuyahoga County, State of Ohio:_**
+
+**Section 1.** Section 1519.04 (a) of the Codified Ordinances is hereby amended
+in its entirety to read as follows:
+
+> 1. _(a)_ No person shall possess fireworks in this Municipality or shall
+> possess for sale or sell fireworks in this Municipality, except a licensed
+> manufacturer of fireworks as authorized by Ohio R.C. 3743.02 to 3743.08, a
+> licensed wholesaler of fireworks as authorized by Ohio R.C. 3743.15 to
+> 3743.21, a shipping permit holder as authorized by Ohio R.C. 3743.40, an
+> out-of-state resident as authorized by Ohio R.C. 3743.44, a resident of this
+> State as authorized by Ohio R.C. 3743.45, or a licensed exhibitor of fireworks
+> as authorized by Ohio R.C. 3743.50 to 3743.55 and Section 1519.02 of this
+> Chapter 1519 and except as provided in Section 1519.05 of this Chapter 1519.
+
+**Section 2.** Section 1519.04 (a) of the Codified Ordinances, the full text of
+which follows, is hereby repealed.
+
+> 1. _(a)_ No person shall possess fireworks in this Municipality or shall
+> possess for sale or sell fireworks in this Municipality, except a licensed
+> manufacturer of fireworks as authorized by Ohio R.C. 3743.02 to 3743.08, a
+> licensed wholesaler of fireworks as authorized by Ohio R.C. 3743.15 to
+> 3743.21, a shipping permit holder as authorized by Ohio R.C. 3743.40, an
+> out-of-state resident as authorized by Ohio R.C. 3743.44, a resident of this
+> State as authorized by Ohio R.C. 3743.45, or a licensed exhibitor of fireworks
+> as authorized by Ohio R.C. 3743.50 to 3743.55 and Section 1519.02 and except
+> as provided in Section 1519.05.
+
+**Section 3.** As amended herein, by indicating underlining for additions and
+strikeouts for deletions, Section 1519.04(a) of the Codified Ordinances reads as
+follows:
+
+> 1. _(a)_ No person shall possess fireworks in this Municipality or shall
+> possess for sale or sell fireworks in this Municipality, except a licensed
+> manufacturer of fireworks as authorized by Ohio R.C. 3743.02 to 3743.08, a
+> licensed wholesaler of fireworks as authorized by Ohio R.C. 3743.15 to
+> 3743.21, a shipping permit holder as authorized by Ohio R.C. 3743.40, an
+> out-of-state resident as authorized by Ohio R.C. 3743.44, a resident of this
+> State as authorized by Ohio R.C. 3743.45, or a licensed exhibitor of fireworks
+> as authorized by Ohio R.C. 3743.50 to 3743.55 and Section 1519.02 <ins>of this
+> Chapter 1519</ins> and except as provided in Section 1519.05 <ins>of this
+> Chapter 1519</ins>.
+
+**Section 4.** Section 1519.04(b) of the Codified Ordinances is hereby amended
+in its entirety to read as follows:
+
+> 2. _(b)_ Except as provided in Section 1519.05 and except for licensed
+> exhibitors of fireworks authorized to conduct a fireworks exhibition pursuant
+> to Ohio R.C. 3743.50 to 3743.55 and Section 1519.02 of this Chapter 1519, no
+> person shall discharge, ignite or explode any fireworks in this Municipality,
+> including a prohibition of the discharge, ignition or explosion of fireworks
+> purchased pursuant to Section R. C. 3743.45, intending to prohibit the
+> discharge, ignition or explosion of fireworks on private property on any of
+> the days set forth in Ohio R.C. 3743.45(b).
+
+**Section 5.** Section 1519.04 (b) of the Codified Ordinances the full text of
+which follows is hereby repealed.
+
+> 2. _(b)_ Except as provided in Section 1519.05 and except for licensed
+> exhibitors of fireworks authorized to conduct a fireworks exhibition pursuant
+> to Ohio R.C. 3743.50 to 3743.55 and Section 1519.02, no person shall
+> discharge, ignite or explode any fireworks in this Municipality.
+
+**Section 6.** As amended herein, by indicating underlining for additions and
+strikeouts for deletions, Section 1519.04(b) of the Codified Ordinances reads as
+follows:
+
+> 2. _(b)_ Except as provided in Section 1519.05 and except for licensed
+> exhibitors of fireworks authorized to conduct a fireworks exhibition pursuant
+> to Ohio R.C. 3743.50 to 3743.55 and Section 1519.02 <ins>of this Chapter
+> 1519</ins>, no person shall discharge, ignite or explode any fireworks in this
+> Municipality<ins>, including a prohibition of the discharge, ignition or
+> explosion of fireworks purchases pursuant to Section R. C. 3743.45, intending
+> to prohibit the discharge, ignition or explosion of fireworks on private
+> property on any of the days set forth in Ohio R.C. 3743.45(b)</ins>.
+
+**Section 7.** Section 1519.04(e) of the Codified Ordinances is hereby amended
+in its entirety to read as follows:
+
+> 5. _(e)_ Except as otherwise provided in Ohio R.C. 3743.44, no person, other
+> than a licensed manufacturer, licensed wholesaler, licensed exhibitor, or
+> shipping permit holder, shall possess 1.3 G fireworks or 1.4 G fireworks.
+
+**Section 8.** Section 1519.04 (e) of the Codified Ordinances, the full text of
+which follows, is hereby repealed.
+
+> 5. _(e)_ Except as otherwise provided in Ohio R.C. 3743.44, no person, other
+> than a licensed manufacturer, licensed wholesaler, licensed exhibitor, or
+> shipping permit holder, shall possess 1.3 G fireworks.
+
+**Section 9.** As amended herein, by indicating underlining for additions and
+strikeouts for deletions, Section 1519.04(e) of the Codified Ordinances reads as
+follows:
+
+> 5. _(e)_ Except as otherwise provided in Ohio R.C. 3743.44, no person, other
+> than a licensed manufacturer, licensed wholesaler, licensed exhibitor, or
+> shipping permit holder, shall possess 1.3 G fireworks<ins> or 1.4 G
+> fireworks</ins>.
+
+**Section 10.** That actions of this Council concerning and relating to the
+passage of this legislation were adopted in lawful meetings of this Council and
+that all deliberations of this Council and of any of its committees that
+resulted in such formal action were in compliance with all legal requirements,
+including Chapter 114 of the Codified Ordinances of the Village of Chagrin
+Falls.
+
+**Section 11.** That in accordance with Section 113.01 of the Codified
+Ordinances of the Village of Chagrin Falls, public notice of this Ordinance
+shall be given by posting a copy thereof for not less than fifteen (15) days in
+the Village Hall.
+
+**Section 12.** That this Ordinance shall take effect and be in force after the
+earliest period allowed by law.

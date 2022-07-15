@@ -1,5 +1,6 @@
 ---
 layout: part
 part_no: 7
-title: "Part Seven: Business Regulation Code"
+part_no_word: "Seven"
+title: "Business Regulation Code"
 ---

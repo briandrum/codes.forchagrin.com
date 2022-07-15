@@ -198,6 +198,17 @@ and a signed copy shall be furnished the applicant, Mayor and Bureau of Fire
 Prevention.  
 (Ord. 1975-970. Passed 4-15-75.)
 
+Whenever any board, commission, or official (collectively “Approving Authority”)
+has been delegated the power to approve plans, issue permits and/or to approve
+development, construction, reconstruction or renovation of land, buildings or
+structures within the Village, such Approving Authority may impose conditions,
+so long as such conditions are in compliance with any applicable statutes,
+ordinance and standards, on such approval with such conditions that the
+Approving Authority believes are necessary to impose in order that the public
+health, safety, convenience, comfort and general welfare of the resident and the
+Village may be safeguarded and substantial justice done.  
+(Ord. 2022-19. Passed 6-13-22.)
+
 ## 1501.06   Appeals
 
 Whenever the Bureau of Fire Prevention shall disapprove an application or refuse

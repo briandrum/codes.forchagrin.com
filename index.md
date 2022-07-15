@@ -1,4 +1,4 @@
 ---
 layout: home
-title: "Codified Ordinances"
+list_title: "Updates"
 ---

@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="Markdown">
+  {%- if page.title -%}
+    <h1>{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+  {%- if posts.size > 0 -%}
+
+    {%- assign date_format = site.optima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in posts -%}
+    <article>
+      <h4>
+        <a href="{{ post.url | relative_url }}">
+          Ordinance {{ post.ordinance_no | escape }}: An Ordinance {{ post.title | escape }}
+        </a>
+      </h4>
+      <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ post.date | date: date_format }}
+      </time>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </article>
+    {%- endfor -%}
+
+    {% if site.paginate %}
+      <div>
+        <ul>
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div>•</div></li>
+        {%- endif %}
+          <li><div>{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div>•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+
+  {%- endif -%}
+
+</div>

@@ -1,3 +1,8 @@
+.Markdown em {
+  font-style: normal;
+  text-transform: uppercase;
+}
+
 .Markdown strong {
   font-weight: 700;
 }
@@ -21,13 +26,25 @@
 //   margin-top: 0;
 // }
 
+.Markdown ol > li > del > em:first-child,
+.Markdown ol > li > ins > em:first-child,
 .Markdown ol > li > p > em:first-child,
+.Markdown ol > li > p > del > em:first-child,
+.Markdown ol > li > p > ins > em:first-child,
 .Markdown ol > li > em:first-child {
   font-style: normal;
   left: -4em;
   position: absolute;
   text-align: right;
+  text-decoration-color: inherit;
+  text-decoration-line: inherit;
+  text-decoration-thickness: inherit;
+  text-underline-offset: inherit;
   width: 5.8em;
+}
+
+.Markdown h2 + h1 {
+  margin-top: 0 !important;
 }
 
 .Markdown li > ol {

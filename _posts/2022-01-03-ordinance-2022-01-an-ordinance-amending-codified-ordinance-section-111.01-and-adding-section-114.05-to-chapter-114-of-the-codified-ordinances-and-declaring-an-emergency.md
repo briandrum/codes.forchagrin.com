@@ -1,0 +1,180 @@
+---
+layout: post
+title: "Amending Codified Ordinance Section 111.01 and Adding Section 114.05 to Chapter 114 of the Codified Ordinances and Declaring an Emergency"
+ordinance_no: "2022-01"
+---
+
+- Introduced by: Grube
+- 1st Reading (01/03/2022)
+- Passed (01/03/2022)
+
+_Whereas,_ Ordinance 2021-37 was adopted by Council and approved by the voters to
+amend the Charter of the Village of Chagrin Falls to authorize virtual meetings;
+
+_Whereas,_ Council has now determined that it should adopt this Ordinance in order
+to provide for virtual meetings by electronic means by all public bodies of the
+Village of Chagrin Falls;
+
+_Whereas,_ due to the rapid spread of variants of the Covid-19 virus, it has
+become necessary for Council to immediately establish the ability for all public
+bodies within the Village to have virtual meetings.
+
+**_Now Therefore, Be It Ordained by the Council of the Village of Chagrin Falls,
+Cuyahoga County, State of Ohio:_**
+
+**Section 1.** Section 111.01 of the Codified Ordinances is hereby amended by
+revising the first sentence of such section to read as follows:
+
+> Regular meetings of Council shall be either held in the Village Hall, or held
+> virtually, when determined by Council or the Council President to hold a
+> virtual meeting, at such time as established by Council, on the second and
+> fourth Mondays of each and every calendar month, except that Council may
+> cancel one of the monthly meetings, at its discretion.
+
+**Section 2.** The existing first sentence of Section 111.01 of the Codified
+Ordinances, full text of which follows is hereby repealed:
+
+> Regular meetings of Council shall be held in the Village Hall at such time as
+> established by Council, on the second and fourth Mondays of each and every
+> calendar month, except that Council may cancel one of the monthly meetings, at
+> its discretion.
+
+**Section 3.** The first sentence of Section 111.01 of the Codified Ordinances,
+with strikeouts for deletions and underlining for additions, reads as follows:
+
+> Regular meetings of Council shall be <ins>either</ins> held in the Village
+> Hall<ins>, or held virtually, when determined by Council or the Council
+> President to hold a virtual meeting,</ins> at such time as established by
+> Council, on the second and fourth Mondays of each and every calendar month,
+> except that Council may cancel one of the monthly meetings, at its discretion.
+
+**Section 4.** Chapter 114 of the Codified Ordinances is hereby amended to add
+Section 114.05 which reads in its entirety as follows:
+
+> ## <ins>114.05   Virtual public meetings and hearings</ins>
+> 
+> 1. <ins>_(a)_ **Definitions.** As used in this section:</ins>
+> 
+>     1. <ins>_(1)_ "Council" shall mean the Council referenced.in Article 4 of
+>     the Charter of the Village of Chagrin Falls.</ins>
+> 
+>     2. <ins>_(2)_ "Electronically" means by way of electronic equipment or
+>     devices, including but not limited to, live-streaming by means of
+>     internet, local radio, television, cable public access channels; call in
+>     information for a teleconference; or by means of any other similar
+>     electronic technology.</ins>
+> 
+>     3. <ins>_(3)_ "Open to the public" means that a public meeting, or hearing
+>     conducted in-person, virtually, or any combination thereof, to which the
+>     public has access to the deliberations and official actions of the public
+>     body in-person, virtually, electronically, or any combination
+>     thereof.</ins>
+> 
+>     4. <ins>_(4)_ "Public body" shall have the same meaning as defined in RC
+>     121.22.</ins>
+> 
+>     5. <ins>_(5)_ "Virtually" means by way of teleconference, video
+>     conference, or any other similar electronic technology.</ins>
+> 
+> 2. <ins>_(b)_ **Attendance.** Each public body may permit its members to
+> attend its public meetings or hearings in-person, virtually, or a combination
+> of the two. The following shall apply if any or all of the members are
+> permitted to attend virtually:</ins>
+> 
+>     1. <ins>_(1)_ Each member attending virtually shall be considered present
+>     as if the member is in-person at the public meeting or hearing, shall be
+>     permitted to vote, and shall be counted for purposes of determining
+>     whether a quorum is present at the public meeting or hearing;</ins>
+> 
+>     2. <ins>_(2)_ Any vote on a resolution, ordinance or formal action of any
+>     kind cast by a member attending virtually shall have the same effect as if
+>     member is in-person at the public meeting or hearing; and</ins>
+> 
+>     3. <ins>_(3)_ The public body shall ensure that the public can observe and
+>     hear the discussions and deliberations of all the members of the public
+>     body, whether members are attending in-person or virtually.</ins>
+> 
+> 3. <ins>_(c)_ **Open to the Public.** Except as set forth in this Ordinance,
+> each public body shall determine the method by which its meetings, or hearings
+> are open to the public. For public hearings conducted virtually, the public
+> body must also establish a means, through the use of electronic equipment that
+> is widely available to the general public, to communicate with witnesses and
+> to receive documentary testimony and physical evidence. All participants,
+> parties and proposed witnesses, when appearing virtually, must be shown using
+> their full name or name on record while in the virtual meeting or hearing.
+> Each witness shall enable and use both video and audio at all times during
+> their testimony, unless they do not have the capability of using video
+> technology where they may be at the time of the meeting or hearing. All
+> participants shall insure that there will be no interruptions or distractions
+> for the duration of their appearance at the meeting or hearing.</ins>
+> 
+> 4. <ins>_(d)_ All participants at a meeting or hearing who intend to submit
+> exhibits shall pre-file the proposed exhibits at least three (3) business days
+> in advance of any virtual hearing or meeting by submitting such documents in
+> PDF format and submitting them to the Chief Administrative Officer of the
+> Village, or other such person as the Chief Administrative Officer may
+> designate. The Chair of each public body may allow exhibits not submitted
+> prior to a meeting or hearing to be used at the meeting or hearing, such as
+> documents used to impeach a witness or for rebuttal purposes. At the Chair’s
+> discretion, the Chair may permit a party to transmit an exhibit to the public
+> body during the meeting or hearing by email or other method approved by the
+> Chair. Upon conclusion of the meeting or hearing, the Village will not be
+> obligated to maintain any proposed exhibits or other documents that were not
+> made a part of the record during the meeting or hearing and may delete them
+> from an email inbox, virtual drop box, or other virtual storage folder at the
+> convenience of the Village Administration.</ins>
+> 
+> 5. <ins>_(e)_ **Notice to the Public.** Each public body shall provide at
+> least twelve (12) hours’ prior notification of the time, place, agenda items,
+> and the manner by which the meeting or hearing will be held and where possible
+> or convenient, an email address to submit proposed exhibits or other documents
+> for a meeting or hearing.</ins>
+> 
+> 6. <ins>_(f)_ **Authority.** The Council, by motion, may determine when
+> virtual meetings or hearings will be utilized, and which public bodies shall
+> hold virtual meetings or hearings. Whenever there is a public health
+> emergency, or other emergency or a clear and present danger to the safety or
+> health of the public and Council has not determined that public bodies shall
+> meet virtually, the President of Council may, by email notice to all members
+> of Council, the Mayor, the Chief Administrative Officer, and the Law Director,
+> declare that one or more meetings or hearings be held virtually until the next
+> regularly scheduled Council meeting at which time the Council will determine
+> if virtual meetings shall continue for one or more public bodies of the
+> Village.</ins>
+
+**Section 5.** During the month of January 2022 all meetings or hearings of
+every public body in the Village shall be held virtually. The Chief
+Administrative Officer shall provide for notice of all meetings and hearings to
+be held virtually on the Village website and shall, when possible, provide for a
+method to receive exhibits and other documents to be used at meetings and
+hearings. Any meeting or hearing to be held within seven (7) days of the
+effective date of this Ordinance shall be exempt from the obligation to submit
+proposed exhibits and other documents at least three (3) business days before
+the meeting or hearing but shall provide, by email, such exhibits or documents
+to the Chief Administrative Officer or his designee as soon as they receive
+notice that a meeting or hearing where they plan to submit exhibits or documents
+is to be held virtually.
+
+**Section 6.** That actions of this Council concerning and relating to the
+passage of this legislation were adopted in lawful meetings of this Council and
+that all deliberations of this Council and of any of its committees that
+resulted in such formal action were in compliance with all legal requirements,
+including Chapter 114 of the Codified Ordinances of the Village of Chagrin
+Falls.
+
+**Section 7.** That in accordance with Section 113.01 of the Codified Ordinances
+of the Village of Chagrin Falls, public notice of this Ordinance shall be given
+by posting a copy thereof for not less than fifteen (15) days in the Village
+Hall.
+
+**Section 8.** This Ordinance is hereby declared to be an emergency measure
+immediately necessary for the preservation of the public peace, health and
+safety of the inhabitants of the Village and for the further reason that virtual
+meetings need to be established as soon as possible due to the number of people
+contacting Covid-19 virus variants and the overcrowding of hospitals in the
+State of Ohio and in order to promote the health and safety of Village Officials
+and participants at public meetings and hearings; wherefore, provided it
+receives the affirmative vote of at least two-thirds (2/3) of all members
+elected to Council, this Ordinance shall be in full force and effect from and
+immediately upon its passage and approval by the Mayor, otherwise it shall take
+effect and be in force after the earliest period allowed by law.
