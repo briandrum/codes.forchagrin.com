@@ -47,12 +47,14 @@ amendment, either in whole or in part, and submit its recommendation to Council.
 
 ## 1113.04   Action by council
 
-1. _(a)_ Upon receiving the recommendation of the Planning and Zoning
-Commission on a proposed amendment, or in the event no action is taken by the
-Commission on the proposed amendment within 45 days after (i) the referral by
-Council, or (ii) 60 days after a complete rezoning application is received from
-a property owner, Council shall hold a public hearing. For all proposed text or
-Map amendments, notice shall conform to the requirements of Section 1109.09 of the Planning and Zoning Code.
+1. _(a)_ Upon receiving the recommendation of the Planning and Zoning Commission
+on a proposed amendment, or in the event no action is taken by the Commission on
+the proposed amendment within 45 days after (i) the referral by Council, or (ii)
+60 days after a complete rezoning application is received from a property owner,
+Council shall hold a public hearing. For all proposed text or Map amendments,
+notice shall conform to the requirements of Section 1109.09 of the Planning and
+Zoning Code.
+
 2. _(b)_ After the public hearing, Council may adopt the proposal whether it is
 recommended or not recommended by the Commission by majority vote of those
 elected to Council. If Council modifies the proposal, it may resubmit the
@@ -74,18 +76,23 @@ listed in any of the permitted building or use classifications in any of the
 districts, or on its own initiative, additions or clarifications thereto may be
 made by the Planning and Zoning Commission, in compliance with the following
 standards:
+
     1. _(1)_ Such use is not listed in any other classification of permitted
-buildings or uses and is not specifically prohibited in this Planning and
-Zoning Code;
+    buildings or uses and is not specifically prohibited in this Planning and
+    Zoning Code;
+
     2. _(2)_ Such use is more appropriate to, and conforms more closely to the
-basic characteristics of the classification to which it is to be added than to
-any other classification;
+    basic characteristics of the classification to which it is to be added than
+    to any other classification;
+
     3. _(3)_ Such use does not create dangers to health and safety, and does not
-create offensive noise, vibration, dust, heat, smoke, odor, glare or other
-objectionable influences to an extent greater than the other uses listed in the
-classification to which it is to be added; and
+    create offensive noise, vibration, dust, heat, smoke, odor, glare or other
+    objectionable influences to an extent greater than the other uses listed in
+    the classification to which it is to be added; and
+
     4. _(4)_ Such use does not generate traffic to a greater extent than the
-other uses listed in the classification to which it is to be added.
+    other uses listed in the classification to which it is to be added.
+
 2. _(b)_ The Planning and Zoning Commission may recommend such additions or
 clarifications to Council. If Council, by a majority vote of its members,
 concurs with the recommendation of the Commission, such use shall be deemed to

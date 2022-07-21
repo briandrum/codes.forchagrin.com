@@ -659,6 +659,7 @@ any posted parking condition or regulation.
     storage facility is not eligible to obtain title under Ohio R.C. 4505.101,
     the towing service or storage facility need only comply with the initial
     notice required under subsection (f)(1)A. of this section.
+
 7. _(g)_
 
     1. _(1)_ The owner or lienholder of a vehicle that is removed under

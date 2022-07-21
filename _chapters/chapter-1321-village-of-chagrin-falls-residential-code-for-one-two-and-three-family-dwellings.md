@@ -115,6 +115,7 @@ Village Council.
 conduit of the rigid type, rigid nonmetallic conduit or other suitable raceway,
 at a minimum burial depth of twenty- four inches below finished grade, for all
 electric service laterals.
+
 2. _(b)_ The electrical contractor shall provide permanently installed ground-
 fault circuit- interrupter of the Class A Group I Type for personnel
 protection, for any installation of temporary electric power.  

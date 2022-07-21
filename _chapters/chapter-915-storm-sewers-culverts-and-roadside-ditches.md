@@ -80,6 +80,7 @@ dedicated street or highway within the Village. If the Village Engineer
 determines that it is not in the best interest of the Village to make any such
 changes, then no permit shall be issued nor shall any changes or alterations be
 allowed.
+
 2. _(b)_ Notwithstanding any other provision of this chapter, no storm sewer
 and basin installation shall be allowed without the Village Engineer
 determining the appropriate number and size of inlet basins and storm sewers

@@ -1578,6 +1578,7 @@ person to whom any of the following applies:
     securely attach the information required under subsection (a)(1) of this
     section, in writing, to a conspicuous place in or on the unoccupied or
     unattended motor vehicle.
+
 2. _(b)_
 
     1. _(1)_ Whoever violates subsection (a) of this section is guilty of

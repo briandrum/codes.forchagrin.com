@@ -49,6 +49,7 @@ the same and the street or sidewalk is maintained.
 2. _(b)_ Such owner shall trim or remove, as the case may require, every dead,
 decayed or broken tree, plant or shrubbery, or part thereof, so that the same
 shall not fall to the street or sidewalk.
+
 3. _(c)_ Such owner shall cut down and remove any tree, plant or shrubbery, or
 any part thereof, as may be necessary to provide a clear and unobstructed view
 of traffic from all directions at any street intersection, or to abate any

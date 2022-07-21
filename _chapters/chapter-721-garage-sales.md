@@ -29,12 +29,14 @@ For the purposes of this chapter, certain words are defined as follows:
 1. _(a)_ "Person" means individuals, associations of individuals, partnerships
 or corporations who or which conduct sales for a commission or other
 remuneration.
-2. _(b)_ "Public sale" means any sale and delivery or offer of sale and
-delivery of any household furniture, furnishings, equipment, goods, wares or
-merchandise from, in, about or upon any premises, property or residence zoned
-for residential use within this Municipality to which the general public is
-invited pursuant to any advertisement or notice by newspaper, mail or
-individual flyer or otherwise.
+
+2. _(b)_ "Public sale" means any sale and delivery or offer of sale and delivery
+of any household furniture, furnishings, equipment, goods, wares or merchandise
+from, in, about or upon any premises, property or residence zoned for
+residential use within this Municipality to which the general public is invited
+pursuant to any advertisement or notice by newspaper, mail or individual flyer
+or otherwise.
+
 3. _(c)_ "Garage sale" means a sale of household goods, equipment, utensils,
 appliances, personal clothing or effects, or other similar personal property
 including such sales commonly termed "basement sales", "house sales" or "lawn
@@ -43,21 +45,23 @@ sales".
 
 ## 721.02   License required
 
-No person shall conduct, hold or permit a public sale or garage sale within
-a residential district of this Municipality without having an unrevoked valid
+No person shall conduct, hold or permit a public sale or garage sale within a
+residential district of this Municipality without having an unrevoked valid
 license from the Village for such purpose, in effect at the time, and issued
 pursuant to the provisions of this chapter.  
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.03   Application and issuance
 
-Licenses shall be issued by the Chief Administrative Officer or a person
-acting and authorized to act on his behalf upon the applicants complying with
-the following provisions, giving:
+Licenses shall be issued by the Chief Administrative Officer or a person acting
+and authorized to act on his behalf upon the applicants complying with the
+following provisions, giving:
 
 1. _(a)_ His name and permanent address;
+
 2. _(b)_ The name and address of all persons who will be associated or engaged
 in such public sale.
+
 3. _(c)_ The name and address of the party for whom the sale is being held.  
 (Ord. 1981-3. Passed 3-9-81.)
 
@@ -65,8 +69,9 @@ in such public sale.
 
 1. _(a)_ Licenses shall be valid only for the period of the sale indicated
 thereon, not to exceed three consecutive days.
-2. _(b)_ No more than one sale per year shall be permitted at the same
-location.  
+
+2. _(b)_ No more than one sale per year shall be permitted at the same location.
+ 
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.05   Display of license upon demand
@@ -80,8 +85,8 @@ sale.
 
 ## 721.06   Sale hours
 
-No person shall conduct a public sale or garage sale, before 9:00 a.m. of
-any day or after 9:00 p.m. of any day.  
+No person shall conduct a public sale or garage sale, before 9:00 a.m. of any
+day or after 9:00 p.m. of any day.  
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.07   License revocation
@@ -92,14 +97,18 @@ reasons:
 
 1. _(a)_ Fraud, misrepresentation or any false statement made to the Police
 Department in furnishing the information required by Section 721.03.
+
 2. _(b)_ Fraud, misrepresentation or any false statement contained in the
 application for a license.
+
 3. _(c)_ A conviction of the licensee for violation of any provisions of this
 chapter.
+
 4. _(d)_ Conviction of the licensee of any felony or crime involving moral
 turpitude.
-5. _(e)_ Conducting a public sale in any unlawful manner or in such manner as
-to constitute a breach of the peace.  
+
+5. _(e)_ Conducting a public sale in any unlawful manner or in such manner as to
+constitute a breach of the peace.  
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.08   Exceptions
@@ -112,7 +121,7 @@ required.
 
 ## 721.99   Penalty
 
-Whoever violates any provision of this chapter is guilty of a minor
-misdemeanor. A separate offense shall be deemed committed upon each day during
-or on which the violation occurs or continues.  
+Whoever violates any provision of this chapter is guilty of a minor misdemeanor.
+A separate offense shall be deemed committed upon each day during or on which
+the violation occurs or continues.  
 (Ord. 1981-3. Passed 3-9-81.)

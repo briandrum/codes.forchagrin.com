@@ -257,6 +257,7 @@ References to downtown areas shall include the following streets:
     lawns, either within the limits of the excavation or contiguous to the work,
     shall be replaced or restored to a condition at least as good as at the time
     of the commencement of the work.
+
 5. _(e)_ Construction Methods (Sandstone Flagging).
 
     1. _(1)_ **Excavation.** All the provisions of section 3.01 (Portland Cement

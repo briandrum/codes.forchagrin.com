@@ -39,6 +39,7 @@ following scale:
 1. _(a)_ When the lot shown is less than 100 feet in its narrowest dimensions
 and 200 feet in length, the scale may be one-sixteenth or one-twentieth of an
 inch per foot;
+
 2. _(b)_ When the lot exceeds either of the above dimensions, the scale may be
 one thirty- second or one-fortieth of an inch per foot.  
 (Ord. 1940-276. Passed 9-9-40)
@@ -47,6 +48,7 @@ one thirty- second or one-fortieth of an inch per foot.
 
 1. _(a)_ No building plans except those for minor alterations shall be approved
 unless such plans have been prepared by an architect.
+
 2. _(b)_ All plans shall be neatly and legibly prepared in such a manner as to
 permit legible and serviceable copies to be made therefrom. Triplicate sets of
 such reproductions shall be submitted as part of each application for a
@@ -61,12 +63,14 @@ kept on the job for which a permit is issued from the beginning of construction
 until final acceptance of the work by the Inspector. If so requested at the
 time the triplicate reproductions of drawings are submitted, the Inspector
 shall stamp and approve a fourth set of drawings for the applicant.
+
 3. _(c)_ No plans shall be approved unless all essential floor plans,
 elevations, cross-sections and details of construction are accurately shown,
 including horizontal and vertical dimensions, thickness of walls, dimensions
 and materials of supporting members and such other information as may be
 essential to illustrate completely the work covered by the application.  
 (Ord. 1965-616. Passed 6-14-65.)
+
 4. _(d)_ Whenever, in the opinion of the Inspector, the plans submitted include
 structural members, the size, proportions or design of which necessitate
 approval by a qualified structural engineer, he may require the applicant to
@@ -74,6 +78,7 @@ furnish certification as to the sufficiency of the design by a registered
 structural engineer. The form of certification shall be subject to the approval
 of the Inspector.  
 (Ord. 1980-5. Passed 1-28-80.)
+
 5. _(e)_ The Inspector may waive the requirements as to certification when, in
 his opinion, such separate certification is unnecessary. The originals of all
 certifications and copies of all waivers of certification shall be made a part

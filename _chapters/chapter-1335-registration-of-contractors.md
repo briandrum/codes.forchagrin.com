@@ -37,39 +37,42 @@ Village. The purposes of such registration are:
 some measure of protection that the contractor will perform the work in
 accordance with approved plans and specifications, and follows all applicable
 laws; and
-2. _(b)_ Registration allows the Village to ensure that contractors withhold
-and pay income taxes on behalf of their employees for work performed in the
-Village.  
+
+2. _(b)_ Registration allows the Village to ensure that contractors withhold and
+pay income taxes on behalf of their employees for work performed in the
+Village.   
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.02   Registration required
 
-No plumbing or sewer work shall be performed, or heating or electrical
-equipment shall be installed, in any building or structure or upon any property
-or within the boundaries of any street within the Municipality unless the same
-is done by a person registered to perform plumbing or sewer work, or install
-heating or electrical equipment, or by a firm or corporation employing a person
-registered pursuant to the terms of this chapter. No general contracting shall
-be done within the Municipality unless the same is done by a person registered
-to do general contracting, except where the work is of a minor nature and
-pursuant to Section 1307.18.  
+No plumbing or sewer work shall be performed, or heating or electrical equipment
+shall be installed, in any building or structure or upon any property or within
+the boundaries of any street within the Municipality unless the same is done by
+a person registered to perform plumbing or sewer work, or install heating or
+electrical equipment, or by a firm or corporation employing a person registered
+pursuant to the terms of this chapter. No general contracting shall be done
+within the Municipality unless the same is done by a person registered to do
+general contracting, except where the work is of a minor nature and pursuant to
+Section 1307.18.  
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.03   Holders of Ohio qualification certificate; exception
 
 1. _(a)_ Except as provided in subsection (b) hereof, and upon the payment of
-the appropriate fee provided in Section 1335.10, any person having a qualification certificate to install or perform
-plumbing, sewer work, heating or electrical equipment, which qualification
-certificate has been issued by the State pursuant to Ohio R.C. Chapter 4740
-and is in full force and effect, upon presentation of such certificate to the
-Chief Administrative Officer shall have issued to such person by the Chief
-Administrative Officer, upon such evidence and without examination, the
-certificate of registration provided for herein.
-2. _(b)_ No person who has recklessly or intentionally violated any provision
-of the Ohio Revised Code or the Codified Ordinances of the Village shall be
+the appropriate fee provided in Section 1335.10, any person having a
+qualification certificate to install or perform plumbing, sewer work, heating or
+electrical equipment, which qualification certificate has been issued by the
+State pursuant to Ohio R.C. Chapter 4740 and is in full force and effect, upon
+presentation of such certificate to the Chief Administrative Officer shall have
+issued to such person by the Chief Administrative Officer, upon such evidence
+and without examination, the certificate of registration provided for herein.
+
+2. _(b)_ No person who has recklessly or intentionally violated any provision of
+the Ohio Revised Code or the Codified Ordinances of the Village shall be
 eligible to obtain or renew a certificate of registration under this chapter.
 The Chief Administrative Officer shall determine whether a violation has been
-committed recklessly or intentionally, as those terms are defined in Section 501.08 of the General Offenses Code.  
+committed recklessly or intentionally, as those terms are defined in
+Section 501.08 of the General Offenses Code.  
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.04   Registration denial; appeal
@@ -101,8 +104,8 @@ prescribe.
 
 1. _(a)_ As a condition for the issuance of a certificate of registration to a
 general contractor or a contractor doing heating, plumbing sewer or electrical
-work as herein provided, such contractor shall give bond to the Municipality,
-in the principal sum of thirty thousand dollars ($30,000) conditioned that such
+work as herein provided, such contractor shall give bond to the Municipality, in
+the principal sum of thirty thousand dollars ($30,000) conditioned that such
 contractor performs all work to be done by the contractor under the respective
 trade in conformity with all approved plans and specifications, and all of the
 laws of the State and the ordinances of the Municipality and that upon default
@@ -110,6 +113,7 @@ of such performance the obligation of the bond becomes effective. The form of
 the bond shall be such as the Chief Administrative Officer prescribes, and no
 certificate of registration shall become effective until the bond as herein
 prescribed has been filed with the Municipality.
+
 2. _(b)_ Each contractor and general contractor registered by the Municipality
 shall provide proof of liability insurance in the form of a certificate of
 insurance with limits no less than five hundred thousand dollars ($500,000) per
@@ -121,13 +125,13 @@ provided to the Chief Administrative Officer as a condition of registration.
 
 ## 1335.07   Revocation of certificate of registration
 
-The certificate of registration of any person shall be revoked at any time
-by the Chief Administrative Officer if that person recklessly or intentionally
+The certificate of registration of any person shall be revoked at any time by
+the Chief Administrative Officer if that person recklessly or intentionally
 violates the Ohio Revised Code, the Codified Ordinances of the Village, or any
-other provision of state or federal law. The Chief Administrative Officer
-shall determine whether a violation has been committed recklessly or
-intentionally, as those terms are defined in Section 501.08 of the General Offenses Code. The order of revocation may be appealed
-pursuant to Section 1335.04.  
+other provision of state or federal law. The Chief Administrative Officer shall
+determine whether a violation has been committed recklessly or intentionally, as
+those terms are defined in Section 501.08 of the General Offenses Code. The
+order of revocation may be appealed pursuant to Section 1335.04.  
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.08   Homeowner’s exception
@@ -153,11 +157,11 @@ specifications and contracts are approved by the Village.
 
 ## 1335.10   Fees
 
-The fee to be paid by any person, whether a general contractor, or a
-contractor or journeyman required to become registered for heating, plumbing,
-electrical, sewer, or any construction work, under the provisions of this
-chapter, shall be one hundred twenty dollars ($120.00) for the original
-registration, as herein provided. The registration shall be renewable from
-year to year thereafter from January 1 to January 1, upon payment of the
-further sum of sixty dollars ($60.00) for each year’s renewal.  
+The fee to be paid by any person, whether a general contractor, or a contractor
+or journeyman required to become registered for heating, plumbing, electrical,
+sewer, or any construction work, under the provisions of this chapter, shall be
+one hundred twenty dollars ($120.00) for the original registration, as herein
+provided. The registration shall be renewable from year to year thereafter from
+January 1 to January 1, upon payment of the further sum of sixty dollars
+($60.00) for each year’s renewal.  
 (Ord. 2006-48. Passed 7-24-06.)

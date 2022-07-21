@@ -44,79 +44,105 @@ and, without privilege to do so, the insertion, however slight, of any part of
 the body or any instrument, apparatus or other object into the vaginal or anal
 opening of another. Penetration, however slight, is sufficient to complete
 vaginal or anal intercourse.
+
 2. _(b)_ "Sexual contact" means any touching of an erogenous zone of another,
 including without limitation the thigh, genitals, buttock, pubic region, or, if
 such person is a female, a breast, for the purpose of sexually arousing or
 gratifying either person.
+
 3. _(c)_ "Sexual activity" means sexual conduct or sexual contact, or both.
-4. _(d)_ "Prostitute" means a male or female who promiscuously engages in
-sexual activity for hire, regardless of whether the hire is paid to the
-prostitute or to another.
+
+4. _(d)_ "Prostitute" means a male or female who promiscuously engages in sexual
+activity for hire, regardless of whether the hire is paid to the prostitute or
+to another.
+
 5. _(e)_ “Harmful to juveniles” means that quality of any material or
 performance describing or representing nudity, sexual conduct, sexual
-excitement, or sado- masochistic abuse in any form to which all of the
-following apply:
+excitement, or sado- masochistic abuse in any form to which all of the following
+apply:
+
     1. _(1)_ The material or performance, when considered as a whole, appeals to
-the prurient interest of juveniles in sex.
+    the prurient interest of juveniles in sex.
+
     2. _(2)_ The material or performance is patently offensive to prevailing
-standards in the adult community as a whole with respect to what is suitable
-for juveniles.
+    standards in the adult community as a whole with respect to what is suitable
+    for juveniles.
+
     3. _(3)_ The material or performance, when considered as a whole, lacks
-serious literary, artistic, political and scientific value for juveniles.
+    serious literary, artistic, political and scientific value for juveniles.
+
 6. _(f)_ When considered as a whole, and judged with reference to ordinary
-adults, or, if it is designed for sexual deviates or other specially
-susceptible group, judged with reference to such group, any material or
-performance is "obscene" if any of the following apply:
+adults, or, if it is designed for sexual deviates or other specially susceptible
+group, judged with reference to such group, any material or performance is
+"obscene" if any of the following apply:
+
     1. _(1)_ Its dominant appeal is to prurient interest;
+
     2. _(2)_ Its dominant tendency is to arouse lust by displaying or depicting
-sexual activity, masturbation, sexual excitement or nudity in a way which tends
-to represent human beings as mere objects of sexual appetite;
+    sexual activity, masturbation, sexual excitement or nudity in a way which
+    tends to represent human beings as mere objects of sexual appetite;
+
     3. _(3)_ Its dominant tendency is to arouse lust by displaying or depicting
-bestiality or extreme or bizarre violence, cruelty or brutality;
+    bestiality or extreme or bizarre violence, cruelty or brutality;
+
     4. _(4)_ Its dominant tendency is to appeal to scatological interest by
-displaying or depicting human bodily functions of elimination in a way which
-inspires disgust or revulsion in persons with ordinary sensibilities, without
-serving any genuine scientific, educational, sociological, moral or artistic
-purpose;
+    displaying or depicting human bodily functions of elimination in a way which
+    inspires disgust or revulsion in persons with ordinary sensibilities,
+    without serving any genuine scientific, educational, sociological, moral or
+    artistic purpose;
+
     5. _(5)_ It contains a series of displays or descriptions of sexual
-activity, masturbation, sexual excitement, nudity, bestiality, extreme or
-bizarre violence, cruelty or brutality, or human bodily functions of
-elimination, the cumulative effect of which is a dominant tendency to appeal to
-prurient or scatological interest, when the appeal to such interest is
-primarily for its own sake or for commercial exploitation, rather than
-primarily for a genuine scientific, educational, sociological, moral or
-artistic purpose.
+    activity, masturbation, sexual excitement, nudity, bestiality, extreme or
+    bizarre violence, cruelty or brutality, or human bodily functions of
+    elimination, the cumulative effect of which is a dominant tendency to appeal
+    to prurient or scatological interest, when the appeal to such interest is
+    primarily for its own sake or for commercial exploitation, rather than
+    primarily for a genuine scientific, educational, sociological, moral or
+    artistic purpose.
+
 7. _(g)_ "Sexual excitement" means the condition of human male or female
 genitals when in a state of sexual stimulation or arousal.
+
 8. _(h)_ "Nudity" means the showing, representation or depiction of human male
 or female genitals, pubic area or buttocks with less than a full, opaque
 covering, or of a female breast with less than a full, opaque covering of any
 portion thereof below the top of the nipple, or of covered male genitals in a
 discernibly turgid state.
+
 9. _(i)_ "Juvenile" means an unmarried person under the age of eighteen.
+
 10. _(j)_ "Material" means any book, magazine, newspaper, pamphlet, poster,
 print, picture, figure, image, description, motion picture film, phonographic
 record, or tape, or other tangible thing capable of arousing interest through
 sight, sound, or touch and includes an image or text appearing on a computer
-monitor, television screen, liquid crystal display, or similar display device
-or an image or text recorded on a computer hard disk, computer floppy disk,
-compact disk, magnetic tape or similar data storage device.
+monitor, television screen, liquid crystal display, or similar display device or
+an image or text recorded on a computer hard disk, computer floppy disk, compact
+disk, magnetic tape or similar data storage device.
+
 11. _(k)_ "Performance" means any motion picture, preview, trailer, play, show,
 skit, dance or other exhibition performed before an audience.
+
 12. _(l)_ "Spouse" means a person married to an offender at the time of an
-alleged offense, except that such person shall not be considered the spouse
-when any of the following apply:
+alleged offense, except that such person shall not be considered the spouse when
+any of the following apply:
+
     1. _(1)_ When the parties have entered into a written separation agreement
-authorized by Ohio R.C. 3103.06;
+    authorized by Ohio R.C. 3103.06;
+
     2. _(2)_ During the pendency of an action between the parties for annulment,
-divorce, dissolution of marriage or legal separation;
+    divorce, dissolution of marriage or legal separation;
+
     3. _(3)_ In the case of an action for legal separation, after the effective
-date of the judgment for legal separation.
+    date of the judgment for legal separation.
+
 13. _(m)_ "Minor" means a person under the age of eighteen years.
+
 14. _(n)_ “Mental health client or patient” has the same meaning as in Ohio R.C.
 2305.51.
+
 15. _(o)_ “Mental health professional” has the same meaning as in Ohio R.C.
 2305.115.
+
 16. _(p)_ “Sado-masochistic abuse” means flagellation or torture by or upon a
 person or the condition of being fettered, bound, or otherwise physically
 restrained.  
@@ -127,65 +153,73 @@ restrained.
 1. _(a)_ An owner or manager, or agent or employee of an owner or manager, of a
 bookstore, newsstand, theater, or other commercial establishment engaged in
 selling materials or exhibiting performances, who, in the course of business
-does any of the acts prohibited by Section 533.11, is presumed to have knowledge of the character of the material or
-performance involved, if the owner, manager, or agent or employee of the owner
-or manager has actual notice of the nature of such material or performance,
-whether or not the owner, manager, or agent or employee of the owner or manager
-has precise knowledge of its contents.
+does any of the acts prohibited by Section 533.11, is presumed to have knowledge
+of the character of the material or performance involved, if the owner, manager,
+or agent or employee of the owner or manager has actual notice of the nature of
+such material or performance, whether or not the owner, manager, or agent or
+employee of the owner or manager has precise knowledge of its contents.
+
 2. _(b)_ Without limitation on the manner in which such notice may be given,
 actual notice of the character of material or a performance may be given in
 writing by the chief legal officer of the jurisdiction in which the person to
-whom the notice is directed does business. Such notice, regardless of the
-manner in which it is given, shall identify the sender, identify the material
-or performance involved, state whether it is obscene or harmful to juveniles
-and bear the date of such notice.
-3. _(c)_ Section 533.11 does not apply to a motion picture operator or projectionist acting
-within the scope of employment as an employee of the owner or manager of a
-theater or other place for the showing of motion pictures to the general
-public, and having no managerial responsibility or financial interest in the
-operator’s or projectionist’s place of employment, other than wages.
+whom the notice is directed does business. Such notice, regardless of the manner
+in which it is given, shall identify the sender, identify the material or
+performance involved, state whether it is obscene or harmful to juveniles and
+bear the date of such notice.
+
+3. _(c)_ Section 533.11 does not apply to a motion picture operator or
+projectionist acting within the scope of employment as an employee of the owner
+or manager of a theater or other place for the showing of motion pictures to the
+general public, and having no managerial responsibility or financial interest in
+the operator’s or projectionist’s place of employment, other than wages.
+
 4. _(d)_
-    1. _(1)_ Sections 533.11, 533.12(a) and 533.13 do not apply to a person solely because the person provided access or
-connection to or from an electronic method of remotely transferring information
-not under that person’s control, including having provided capabilities that
-are incidental to providing access or connection to or from the electronic
-method of remotely transferring the information, and that do not include the
-creation of the content of the material that is the subject of the access or
-connection.
+
+    1. _(1)_ Sections 533.11, 533.12(a) and 533.13 do not apply to a person
+    solely because the person provided access or connection to or from an
+    electronic method of remotely transferring information not under that
+    person’s control, including having provided capabilities that are incidental
+    to providing access or connection to or from the electronic method of
+    remotely transferring the information, and that do not include the creation
+    of the content of the material that is the subject of the access or
+    connection.
+
     2. _(2)_ Subsection (d)(1) of this section does not apply to a person who
-conspires with an entity actively involved in the creation or knowing
-distribution of material in violation of Section 533.11,
-533.12 or
- 533.13, or who knowingly advertises the availability of material of that
-nature.
+    conspires with an entity actively involved in the creation or knowing
+    distribution of material in violation of Section 533.11, 533.12 or 533.13,
+    or who knowingly advertises the availability of material of that nature.
+
     3. _(3)_ Subsection (d)(1) of this section does not apply to a person who
-provides access or connection to an electronic method of remotely transferring
-information that is engaged in the violation of Section 533.11,
-533.12 or
-533.13, and that contains content that person has selected and introduced into
-the electronic method of remotely transferring information or content over
-which that person exercises editorial control.
-5. _(e)_ An employer is not guilty of a violation of Section 533.11,
-533.12, or
+    provides access or connection to an electronic method of remotely
+    transferring information that is engaged in the violation of Section 533.11,
+    533.12 or 533.13, and that contains content that person has selected and
+    introduced into the electronic method of remotely transferring information
+    or content over which that person exercises editorial control.
+
+5. _(e)_ An employer is not guilty of a violation of Section 533.11, 533.12, or
 533.13 based on the actions of an employee or agent of the employer unless the
 employee’s or agent’s conduct is within the scope of employee’s or agent’s
 employment or agency, and the employer does either of the following:
+
     1. _(1)_ With knowledge of the employee’s or agent’s conduct, the employer
-authorizes or ratifies the conduct.
+    authorizes or ratifies the conduct.
+
     2. _(2)_ The employer recklessly disregards the employee’s or agent’s
-conduct.
-6. _(f)_ It is an affirmative defense to a charge under Section 533.11 or
-533.13 as the section applies to an image transmitted through the internet or
-another electronic method of remotely transmitting information that the person
-charged with violating the section has taken, in good faith, reasonable,
-effective, and appropriate actions under the circumstances to restrict or
-prevent access by juveniles to material that is harmful to juveniles, including
-any method that is feasible under available technology.
+    conduct.
+
+6. _(f)_ It is an affirmative defense to a charge under Section 533.11 or 533.13
+as the section applies to an image transmitted through the internet or another
+electronic method of remotely transmitting information that the person charged
+with violating the section has taken, in good faith, reasonable, effective, and
+appropriate actions under the circumstances to restrict or prevent access by
+juveniles to material that is harmful to juveniles, including any method that is
+feasible under available technology.
+
 7. _(g)_ If any provision of this section, or the application of any provision
 of this section to any person or circumstance, is held invalid, the invalidity
 does not affect other provisions or applications of this section or related
-sections that can be given effect without the invalid provision or
-application. To this end, the provisions are severable.  
+sections that can be given effect without the invalid provision or application.
+To this end, the provisions are severable.  
 (ORC 2907.35)
 
 ## 533.03   Unlawful sexual conduct with a minor
@@ -194,172 +228,214 @@ application. To this end, the provisions are severable.
 sexual conduct with another, who is not the spouse of the offender, when the
 offender knows the other person is thirteen years of age or older but less than
 sixteen years of age, or the offender is reckless in that regard.
-2. _(b)_ Whoever violates this section is guilty of unlawful sexual conduct
-with a minor, a misdemeanor of the first degree. If the offender is four years
-older or more than the other person, or if the offender has previously been
-convicted of or pleaded guilty to a violation of Ohio R.C. 2907.02, 2907.03 or
-2907.04, or former Ohio R.C. 2907.12, unlawful sexual conduct with a minor is a
-felony and shall be prosecuted under appropriate State law.  
+
+2. _(b)_ Whoever violates this section is guilty of unlawful sexual conduct with
+a minor, a misdemeanor of the first degree. If the offender is four years older
+or more than the other person, or if the offender has previously been convicted
+of or pleaded guilty to a violation of Ohio R.C. 2907.02, 2907.03 or 2907.04, or
+former Ohio R.C. 2907.12, unlawful sexual conduct with a minor is a felony and
+shall be prosecuted under appropriate State law.  
 (ORC 2907.04)
 
 ## 533.04   Sexual imposition
 
-1. _(a)_ No person shall have sexual contact with another, not the spouse of
-the offender; cause another, not the spouse of the offender, to have sexual
-contact with the offender; or cause two or more persons to have sexual contact
-when any of the following applies:
+1. _(a)_ No person shall have sexual contact with another, not the spouse of the
+offender; cause another, not the spouse of the offender, to have sexual contact
+with the offender; or cause two or more persons to have sexual contact when any
+of the following applies:
+
     1. _(1)_ The offender knows that the sexual contact is offensive to the
-other person, or one of the other persons, or is reckless in that regard.
+    other person, or one of the other persons, or is reckless in that regard.
+
     2. _(2)_ The offender knows that the other person’s or one of the other
-person’s ability to appraise the nature of or control the offender’s or
-touching person’s conduct is substantially impaired.
+    person’s ability to appraise the nature of or control the offender’s or
+    touching person’s conduct is substantially impaired.
+
     3. _(3)_ The offender knows that the other person or one of the other
-persons submits because of being unaware of the sexual contact.
+    persons submits because of being unaware of the sexual contact.
+
     4. _(4)_ The other person or one of the other persons is thirteen years of
-age or older but less than sixteen years of age, whether or not the offender
-knows the age of such person, and the offender is at least eighteen years of
-age and four or more years older than such other person.
+    age or older but less than sixteen years of age, whether or not the offender
+    knows the age of such person, and the offender is at least eighteen years of
+    age and four or more years older than such other person.
+
     5. _(5)_ The offender is a mental health professional, the other person or
-one of the other persons is a mental health client or patient of the offender,
-and the offender induces the other person who is the client or patient to
-submit by falsely representing to the other person who is the client or patient
-that the sexual contact is necessary for mental health treatment purposes.
-2. _(b)_ No person shall be convicted of a violation of this section solely
-upon the victim’s testimony unsupported by other evidence.
+    one of the other persons is a mental health client or patient of the
+    offender, and the offender induces the other person who is the client or
+    patient to submit by falsely representing to the other person who is the
+    client or patient that the sexual contact is necessary for mental health
+    treatment purposes.
+
+2. _(b)_ No person shall be convicted of a violation of this section solely upon
+the victim’s testimony unsupported by other evidence.
+
 3. _(c)_ Whoever violates this section is guilty of sexual imposition, a
 misdemeanor of the third degree. If the offender previously has been convicted
 of or pleaded guilty to a violation of Ohio R.C. 2907.02, 2907.03, 2907.04,
-2907.05, 2907.06 or former Section 2907.12, or a substantially similar
-municipal ordinance, a violation of this section is a misdemeanor of the first
-degree. If the offender previously has been convicted of or pleaded guilty to
-three or more violations of Ohio R.C. 2907.02, 2907.03, 2907.04 or 2907.05,
-2907.06 or former Section 2907.12 or of any combination of those sections, a
-violation of this section is a misdemeanor of the first degree and,
-notwithstanding the range of jail terms prescribed in Ohio R.C. 2929.24, the
-court may impose on the offender a definite jail term of not more than one
-year.  
+2907.05, 2907.06 or former Section 2907.12, or a substantially similar municipal
+ordinance, a violation of this section is a misdemeanor of the first degree. If
+the offender previously has been convicted of or pleaded guilty to three or more
+violations of Ohio R.C. 2907.02, 2907.03, 2907.04 or 2907.05, 2907.06 or former
+Section 2907.12 or of any combination of those sections, a violation of this
+section is a misdemeanor of the first degree and, notwithstanding the range of
+jail terms prescribed in Ohio R.C. 2929.24, the court may impose on the offender
+a definite jail term of not more than one year.  
 (ORC 2907.06)
 
 ## 533.05   Importuning
 
 (Editor’s note: Former Section 533.05 has been deleted from the Codified
-Ordinances. Section 533.05 was identical to Ohio R.C. 2907.07(B) which the
-Ohio Supreme Court held to be unconstitutional in State v. Thompson, 95 Ohio
-St. 3rd 264 (2002).)
+Ordinances. Section 533.05 was identical to Ohio R.C. 2907.07(B) which the Ohio
+Supreme Court held to be unconstitutional in State v. Thompson, 95 Ohio St. 3rd
+264 (2002).)
 
 ## 533.06   Voyeurism
 
 1. _(a)_ No person, for the purpose of sexually arousing or gratifying the
 person’s self, shall commit trespass or otherwise surreptitiously invade the
 privacy of another, to spy or eavesdrop upon another.
+
 2. _(b)_ No person, for the purpose of sexually arousing or gratifying the
 person’s self, shall commit trespass or otherwise surreptitiously invade the
-privacy of another to videotape, film, photograph, or otherwise record the
-other person in a state of nudity.
+privacy of another to videotape, film, photograph, or otherwise record the other
+person in a state of nudity.
+
 3. _(c)_ No person shall secretly or surreptitiously videotape, film,
 photograph, or otherwise record another person under or through the clothing
 being worn by that other person for the purpose of viewing the body of, or the
 undergarments worn by, that other person.
+
 4. _(d)_
+
     1. _(1)_ Whoever violates this section is guilty of voyeurism.
+
     2. _(2)_ A violation of subsection (a) hereof is a misdemeanor of the third
-degree.
+    degree.
+
     3. _(3)_ A violation of subsection (b) hereof is a misdemeanor of the second
-degree.
+    degree.
+
     4. _(4)_ A violation of subsection (c) hereof is a misdemeanor of the first
-degree.  
-(ORC 2907.08)
+    degree.  
+    (ORC 2907.08)
 
 ## 533.07   Public indecency
 
-1. _(a)_ No person shall recklessly do any of the following, under
-circumstances in which the person’s conduct is likely to be viewed by and
-affront others, who are in the person’s physical proximity and who are not
-members of the person’s household:
+1. _(a)_ No person shall recklessly do any of the following, under circumstances
+in which the person’s conduct is likely to be viewed by and affront others, who
+are in the person’s physical proximity and who are not members of the person’s
+household:
+
     1. _(1)_ Expose the person’s private parts;
+
     2. _(2)_ Engage in sexual conduct or masturbation;
+
     3. _(3)_ Engage in conduct that to an ordinary observer would appear to be
-sexual conduct or masturbation.
+    sexual conduct or masturbation.
+
 2. _(b)_ No person shall knowingly do any of the following, under circumstances
 in which the person’s conduct is likely to be viewed by and affront another
-person who is in the person’s physical proximity, who is a minor, and who is
-not the spouse of the offender:
+person who is in the person’s physical proximity, who is a minor, and who is not
+the spouse of the offender:
+
     1. _(1)_ Engage in masturbation;
+
     2. _(2)_ Engage in sexual conduct;
+
     3. _(3)_ Engage in conduct that to an ordinary observer would appear to be
-sexual conduct or masturbation;
+    sexual conduct or masturbation;
+
     4. _(4)_ Expose the person’s private parts with the purpose of personal
-sexual arousal or gratification or to lure the minor into sexual activity.
+    sexual arousal or gratification or to lure the minor into sexual activity.
+
 3. _(c)_
+
     1. _(1)_ Whoever violates this section is guilty of public indecency and
-shall be punished as provided in subsections (c)(2), (3), (4) and (5) of this
-section.
+    shall be punished as provided in subsections (c)(2), (3), (4) and (5) of
+    this section.
+
     2. _(2)_ Except as otherwise provided in subsection (c)(2) of this section,
-a violation of subsection (a)(1) of this section is a misdemeanor of the fourth
-degree. If the offender previously has been convicted of or pleaded guilty to
-one violation of this section, a violation of subsection (a)(1) of this section
-is a misdemeanor of the third degree or, if any person who was likely to view
-and be affronted by the offender’s conduct was a minor, a misdemeanor of the
-second degree. If the offender previously has been convicted of or pleaded
-guilty to two violations of this section, a violation of subsection (a)(1) of
-this section is a misdemeanor of the second degree or, if any person who was
-likely to view and be affronted by the offender’s conduct was a minor, a
-misdemeanor of the first degree. If the offender previously has been convicted
-of or pleaded guilty to three or more violations of this section, a violation
-of subsection (a)(1) of this section is a misdemeanor of the first degree or,
-if any person who was likely to view and be affronted by the offender’s conduct
-was a minor, a felony which shall be prosecuted under appropriate state law.
+    a violation of subsection (a)(1) of this section is a misdemeanor of the
+    fourth degree. If the offender previously has been convicted of or pleaded
+    guilty to one violation of this section, a violation of subsection (a)(1) of
+    this section is a misdemeanor of the third degree or, if any person who was
+    likely to view and be affronted by the offender’s conduct was a minor, a
+    misdemeanor of the second degree. If the offender previously has been
+    convicted of or pleaded guilty to two violations of this section, a
+    violation of subsection (a)(1) of this section is a misdemeanor of the
+    second degree or, if any person who was likely to view and be affronted by
+    the offender’s conduct was a minor, a misdemeanor of the first degree. If
+    the offender previously has been convicted of or pleaded guilty to three or
+    more violations of this section, a violation of subsection (a)(1) of this
+    section is a misdemeanor of the first degree or, if any person who was
+    likely to view and be affronted by the offender’s conduct was a minor, a
+    felony which shall be prosecuted under appropriate state law.
+
     3. _(3)_ Except as otherwise provided in subsection (c)(3) of this section,
-a violation of subsection (a)(2) or (3) of this section is a misdemeanor of the
-third degree. If the offender previously has been convicted of or pleaded
-guilty to one violation of this section, a violation of subsection (a)(2) or
-(3) of this section is a misdemeanor of the second degree or, if any person who
-was likely to view and be affronted by the offender’s conduct was a minor, a
-misdemeanor of the first degree. If the offender previously has beenconvicted
-of or pleaded guilty to two or more violations of this section, a violation of
-subsection (a)(2) or (3) of this section is a misdemeanor of the first degree
-or, if any person who was likely to view and be affronted by the offender’s
-conduct was a minor, a felony which shall be prosecuted under appropriate state
-law.
+    a violation of subsection (a)(2) or (3) of this section is a misdemeanor of
+    the third degree. If the offender previously has been convicted of or
+    pleaded guilty to one violation of this section, a violation of subsection
+    (a)(2) or (3) of this section is a misdemeanor of the second degree or, if
+    any person who was likely to view and be affronted by the offender’s conduct
+    was a minor, a misdemeanor of the first degree. If the offender previously
+    has beenconvicted of or pleaded guilty to two or more violations of this
+    section, a violation of subsection (a)(2) or (3) of this section is a
+    misdemeanor of the first degree or, if any person who was likely to view and
+    be affronted by the offender’s conduct was a minor, a felony which shall be
+    prosecuted under appropriate state law.
+
     4. _(4)_ Except as otherwise provided in subsection (c)(4) of this section,
-a violation of subsection (b)(1), (2) or (3) of this section is a misdemeanor
-of the second degree. If the offender previously has been convicted of or
-pleaded guilty to one violation of this section, a violation of subsection (b)
-(1), (2) or (3) of this section is a misdemeanor of the first degree. If the
-offender previously has been convicted of or pleaded guilty to two or more
-violations of this section, a violation of subsection (b)(1), (2) or (3) of
-this section is a felony and shall be prosecuted under appropriate state law.
+    a violation of subsection (b)(1), (2) or (3) of this section is a
+    misdemeanor of the second degree. If the offender previously has been
+    convicted of or pleaded guilty to one violation of this section, a violation
+    of subsection (b) (1), (2) or (3) of this section is a misdemeanor of the
+    first degree. If the offender previously has been convicted of or pleaded
+    guilty to two or more violations of this section, a violation of subsection
+    (b)(1), (2) or (3) of this section is a felony and shall be prosecuted under
+    appropriate state law.
+
     5. _(5)_ A violation of subsection (b)(4) of this section is a misdemeanor
-of the first degree unless the offender previously has been convicted of or
-pleaded guilty to any violation of this section in which case the violation is
-a felony and shall be prosecuted under appropriate state law.
+    of the first degree unless the offender previously has been convicted of or
+    pleaded guilty to any violation of this section in which case the violation
+    is a felony and shall be prosecuted under appropriate state law.
+
 4. _(d)_
-    1. _(1)_ If either of the following applies, the court may determine at
-the time of sentencing whether to classify the offender as a tier I sex
-offender/child-victim offender for a violation of subsection (b)(4) of this
-section:
-        1. _(A)_ The offender is less than ten years older than the other person.
-        2. _(B)_ The offender is ten or more years older than the other person and
-the offender has not previously been convicted of or pleaded guilty to any
-violation of this section.
+
+    1. _(1)_ If either of the following applies, the court may determine at the
+    time of sentencing whether to classify the offender as a tier I sex
+    offender/child-victim offender for a violation of subsection (b)(4) of this
+    section:
+
+        1. _(A)_ The offender is less than ten years older than the other
+        person.
+
+        2. _(B)_ The offender is ten or more years older than the other person
+        and the offender has not previously been convicted of or pleaded guilty
+        to any violation of this section.
+
     2. _(2)_ If the offender is convicted of or pleads guilty to a violation of
-subsection (b)(4) of this section, is ten or more years older than the other
-person, and previously has been convicted of or pleaded guilty to any violation
-of this section, the court shall issue an order at the time of sentencing that
-classifies the offender as a tier I sex offender/child-victim offender subject
-to registration under Ohio R.C. 2950.04, 2950.041, 2950.05 and 2950.06.  
-(ORC 2907.09)
+    subsection (b)(4) of this section, is ten or more years older than the other
+    person, and previously has been convicted of or pleaded guilty to any
+    violation of this section, the court shall issue an order at the time of
+    sentencing that classifies the offender as a tier I sex
+    offender/child-victim offender subject to registration under Ohio R.C.
+    2950.04, 2950.041, 2950.05 and 2950.06.  
+    (ORC 2907.09)
 
 ## 533.08   Procuring; engagement in sexual activity for hire
 
 1. _(a)_ No person, knowingly and for gain, shall do either of the following:
+
     1. _(1)_ Entice or solicit another to patronize a prostitute or brothel;
+
     2. _(2)_ Procure a prostitute for another to patronize, or take or direct
-another at his or her request to any place for the purpose of patronizing a
-prostitute.
-2. _(b)_ No person, having authority or responsibility over the use of
-premises, shall knowingly permit such premises to be used for the purpose of
-engaging in sexual activity for hire.
+    another at his or her request to any place for the purpose of patronizing a
+    prostitute.
+
+2. _(b)_ No person, having authority or responsibility over the use of premises,
+shall knowingly permit such premises to be used for the purpose of engaging in
+sexual activity for hire.
+
 3. _(c)_ Whoever violates subsection (a) or (b) of this section is guilty of
 procuring. Except as otherwise provided in this subsection (c), procuring is a
 misdemeanor of the first degree. If the prostitute who is procured, patronized
@@ -371,23 +447,26 @@ premises used in violation of subsection (b) of this section is under eighteen
 years of age at the time of the violation, regardless of whether the offender
 who violates subsection (b) of this section knows the prostitute’s age,
 procuring is a felony and shall be prosecuted under appropriate state law.
-4. _(d)_ No person shall recklessly induce, entice, or procure another to
-engage in sexual activity for hire in exchange for the person giving anything
-of value to the other person.
+
+4. _(d)_ No person shall recklessly induce, entice, or procure another to engage
+in sexual activity for hire in exchange for the person giving anything of value
+to the other person.
+
 5. _(e)_ As used in subsection (d) of this section, “Sexual Activity for Hire”
 means an implicit or explicit agreement to provide sexual activity in exchange
 for anything of value paid to the person engaging in such sexual activity, to
-any person trafficking that person, or to any person associated with either
-such person.
+any person trafficking that person, or to any person associated with either such
+person.
+
 6. _(f)_ Whoever violates subsection (d) of this section is guilty of engaging
 in prostitution, a misdemeanor of the first degree. In sentencing the offender
 under this subsection, the court shall require the offender to attend an
 education or treatment program aimed at preventing persons from inducing,
-enticing, or procuring another to engage in sexual activity for hire in
-exchange for the person giving anything of value to the other person and,
-notwithstanding the fine specified in Ohio R.C. 2929.28(A)(2)(a) for a
-misdemeanor of the first degree, the court may impose upon the offender a fine
-of not more than one thousand five hundred dollars ($1,500).  
+enticing, or procuring another to engage in sexual activity for hire in exchange
+for the person giving anything of value to the other person and, notwithstanding
+the fine specified in Ohio R.C. 2929.28(A)(2)(a) for a misdemeanor of the first
+degree, the court may impose upon the offender a fine of not more than one
+thousand five hundred dollars ($1,500).  
 (ORC 2907.231)
 
 ## 533.09   Soliciting
@@ -395,14 +474,17 @@ of not more than one thousand five hundred dollars ($1,500).
 1. _(a)_ No person shall knowingly solicit another to engage in sexual activity
 for hire in exchange for the person receiving anything of value from the other
 person.
+
 2. _(b)_ No person, with knowledge that the person has tested positive as a
 carrier of a virus that causes acquired immunodeficiency syndrome, shall engage
 in conduct in violation of subsection (a) of this section.
+
 3. _(c)_ As used in subsection (a) of this section, “Sexual Activity for Hire”
 means an implicit or explicit agreement to provide sexual activity in exchange
 for anything of value paid to the person engaging in such sexual activity, to
-any person trafficking that person, or to any person associated with either
-such person.
+any person trafficking that person, or to any person associated with either such
+person.
+
 4. _(d)_
 
     1. _(1)_ Whoever violates subsection (a) of this section is guilty of

@@ -198,9 +198,11 @@ that location rather that at retail outlets located elsewhere.
 4. _(d)_ **Emergency Services.** In order not to interrupt the
 pedestrian-oriented commercial street frontage, police, fire and ambulance
 service uses shall be located on streets other than Main, or Franklin Streets.
+
 5. _(e)_ **Hotels.** Dwelling units in a hotel shall be limited to a maximum
 density of thirty units per acre and a minimum floor area of 300 square feet
 per unit.
+
 6. _(f)_ **Residential Use.** Residential uses shall be developed and maintained
 in accordance with the following:
 

@@ -52,21 +52,28 @@ rooms and condition of exterior and interior and sufficient structural
 information so that the C.A.O. may determine that the building, when moved,
 will comply with the Building Code. The C.A.O. may require a report from a
 structural engineer certifying that the building is structurally sound.
+
 2. _(b)_ A description of the lot from which the building is to be moved, if
 located in the Municipality, and a description of the lot to which it is
 proposed to be moved, if located within the Municipality. Written approvals of
 all owners within the Municipality shall also be required.
+
 3. _(c)_ A site and grade plan showing the proposed location of the building
 when moved, if the building is to be moved to a lot within the corporate limits
 of the Municipality. The grade plan shall be approved by the Village Engineer,
 the same as new construction.
+
 4. _(d)_ The highways, streets and alleys over, along or across which the
 building is proposed to be moved.
+
 5. _(e)_ The proposed moving date and hours, including the length of time
 estimated in the moving.
+
 6. _(f)_ Photographs of all the elevations of the building.
+
 7. _(g)_ A traffic and utilities control plan, indicating number of personnel,
 police or utility technicians required and arranged for.
+
 8. _(h)_ Any additional information which the C.A.O. finds necessary for a
 thorough inspection of the building and a fair determination of whether a
 permit should be issued.  
@@ -77,6 +84,7 @@ permit should be issued.
 1. _(a)_ The first part of the permit shall grant permission only to excavate
 and build a new foundation to receive the building or structure which is to be
 moved, if within the Municipality.
+
 2. _(b)_ The second part of the permit shall grant permission to move the
 building or structure only after the excavation and foundation have been
 completed to the point of receiving the building or structure and have been
@@ -100,18 +108,21 @@ chapter:
 or such larger amount as the C.A.O. may require as in his judgment being
 necessary for the protection of public and private property shall be deposited
 with the C.A.O.
-The deposit shall be refunded to the person making the deposit upon proof of
-his compliance with all of the ordinances of the Municipality and other laws
-applicable to the performance of such work and further, that he has compensated
-the Municipality and any other person entitled to such payment for all property
-damage caused by the person making the deposit in the performance of the work,
-and this applies to any public damage to public roads. Otherwise, the
-Municipality may deduct from the amount of the cash deposit the reasonable
-cost, as determined by the C.A.O., of repairing such damage and shall return to
-the permit holder any unexpended balance. If the cost of repairing the roads or
-property is in excess of the amount of the cash deposit, the permit holder
-performing the work shall nevertheless remain liable to the Municipality or the
-property owner, as the case may be, for any excess damage.
+
+    The deposit shall be refunded to the person making the deposit upon proof of
+    his compliance with all of the ordinances of the Municipality and other laws
+    applicable to the performance of such work and further, that he has
+    compensated the Municipality and any other person entitled to such payment
+    for all property damage caused by the person making the deposit in the
+    performance of the work, and this applies to any public damage to public
+    roads. Otherwise, the Municipality may deduct from the amount of the cash
+    deposit the reasonable cost, as determined by the C.A.O., of repairing such
+    damage and shall return to the permit holder any unexpended balance. If the
+    cost of repairing the roads or property is in excess of the amount of the
+    cash deposit, the permit holder performing the work shall nevertheless
+    remain liable to the Municipality or the property owner, as the case may be,
+    for any excess damage.
+
 2. _(b)_ The permit holder shall carry liability insurance, protecting the
 Municipality against liability in the minimum amount of one million dollars
 ($1,000,000) as to all persons by reason of personal injuries and death, and in
@@ -119,6 +130,7 @@ the amount of one hundred thousand dollars ($100,000) by reason of damage to
 property caused by the work authorized by the permit. The applicant shall
 deposit the policy or proof thereof with the C.A.O., and it shall name the
 Municipality as an additional insured.
+
 3. _(c)_ If the building is located within the Municipality, there shall be
 filed with the application for a permit sufficient evidence that the building
 and the lot from which it is to be removed are free from encumbrances and that
@@ -127,6 +139,7 @@ been paid in full. The applicant, if he is not the owner of the premises from
 which the building is to be moved, shall file with the application a written
 statement or bill of sale signed by the owner or other sufficient evidence that
 he is entitled to remove the building.
+
 4. _(d)_ Where utility companies supplying service to the Municipality will be
 affected, the applicant shall file with his application suitable letters of
 clearance of the utility companies consenting to the removal. It is deemed that
@@ -149,19 +162,25 @@ upon inspection, that all of the following requirements are met:
 1. _(a)_ The application requirements of the Building, Plumbing, Electrical,
 Heating and Zoning Codes will be met by the building in its proposed new
 location.
+
 2. _(b)_ The application requirements and the necessary fee or deposit
 requirements have been complied with.
+
 3. _(c)_ The building is of such physical dimensions and of such condition as
 to permit its movement without endangering persons or property, in the
 Municipality.
+
 4. _(d)_ The building is not in such a state of deterioration or disrepair or
 otherwise structurally unsafe so that it may be moved without endangering
 persons and property in the Municipality.
+
 5. _(e)_ If the removal location is in the Municipality, the building is
 structurally safe and fit for the purpose for its intended use upon the new
 location.
+
 6. _(f)_ The applicant’s equipment is safe and persons and property will not
 be endangered by its use.
+
 7. _(g)_ There exists no other condition which might endanger persons or
 property in the Municipality by moving of the building.  
 (Ord. 1988-26. Passed 4-11-88.)

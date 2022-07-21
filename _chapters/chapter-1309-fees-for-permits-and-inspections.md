@@ -325,9 +325,11 @@ in the dedicated streets of the Municipality.
 1. _(a)_ A fifty dollar ($50.00) fee shall be paid for any initial certificate
 of occupancy issued to business or commercial structures, which shall be the
 responsibility of the business or enterprise owner or operator.
+
 2. _(b)_ For any inspection for a certificate of occupancy conducted after
 occupancy in violation of the code, a one hundred fifty dollar ($150.00) fee
 shall be paid.
+
 3. _(c)_ There shall be no fee for any renewal of a certificate of occupancy.  
 (Ord. 2014-06. Passed 1-27-14.)
 
@@ -335,6 +337,7 @@ shall be paid.
 
 1. _(a)_ A two hundred fifty dollar ($250.00) fee shall be paid upon
 application for a minor subdivision.
+
 2. _(b)_ An eight hundred dollar ($800.00) fee shall be paid upon application
 for a major subdivision.  
 (Ord. 2014-06. Passed 1-27-14.)

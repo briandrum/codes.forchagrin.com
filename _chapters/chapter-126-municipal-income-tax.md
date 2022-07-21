@@ -8,120 +8,120 @@ title: "Chapter 126: Municipal Income Tax"
 
 ## Purpose
 
-* 126.0101.   Purpose of levy of income tax.
+* [126.0101   Purpose of levy of income tax](#1260101-purpose-of-levy-of-income-tax)
 
 ## Definitions
 
-* 126.0301.   Definitions.
-* 126.03011   Adjusted federal taxable income.
-* 126.0302.   Administrator.
-* 126.0303.   Association.
-* 126.0304.    Board of Review.
-* 126.0305.   Business.
-* 126.0306.   Corporation.
-* 126.0307.   Employee.
-* 126.0308.   Employer.
-* 126.0309.   Fiscal year.
-* 126.03091   Generic form.
-* 126.0310.   Gross receipts.
-* 126.0311.   Net profits.
-* 126.0312.   Nonresident.
-* 126.0313.   Nonresident unincorporated business entity.
-* 126.0314.   Person.
-* 126.0315.   Place of business.
-* 126.03151   Qualifying wage.
-* 126.0316.   Resident.
-* 126.0317.   Resident unincorporated business entity.
-* 126.0318.   Taxable income.
-* 126.0319.   Taxable year.
-* 126.0320.   Taxpayer.
-* 126.0321.   Manager.
-* 126.0322.   Fundamental change.
+* [126.0301   Definitions](#1260301-definitions)
+* [126.03011   Adjusted federal taxable income](#12603011-adjusted-federal-taxable-income)
+* [126.0302   Administrator](#1260302-administrator)
+* [126.0303   Association](#1260303-association)
+* [126.0304   Board of Review](#1260304-board-of-review)
+* [126.0305   Business](#1260305-business)
+* [126.0306   Corporation](#1260306-corporation)
+* [126.0307   Employee](#1260307-employee)
+* [126.0308   Employer](#1260308-employer)
+* [126.0309   Fiscal year](#1260309-fiscal-year)
+* [126.03091   Generic form](#12603091-generic-form)
+* [126.0310   Gross receipts](#1260310-gross-receipts)
+* [126.0311   Net profits](#1260311-net-profits)
+* [126.0312   Nonresident](#1260312-nonresident)
+* [126.0313   Nonresident unincorporated business entity](#1260313-nonresident-unincorporated-business-entity)
+* [126.0314   Person](#1260314-person)
+* [126.0315   Place of business](#1260315-place-of-business)
+* [126.03151   Qualifying wage](#12603151-qualifying-wage)
+* [126.0316   Resident](#1260316-resident)
+* [126.0317   Resident unincorporated business entity](#1260317-resident-unincorporated-business-entity)
+* [126.0318   Taxable income](#1260318-taxable-income)
+* [126.0319   Taxable year](#1260319-taxable-year)
+* [126.0320   Taxpayer](#1260320-taxpayer)
+* [126.0321   Manager](#1260321-manager)
+* [126.0322   Fundamental change](#1260322-fundamental-change)
 
 ## Imposition of income tax
 
-* 126.0501.   Rate and income taxable.
-* 126.0502.   Effective period.
+* [126.0501   Rate and income taxable](#1260501-rate-and-income-taxable)
+* [126.0502   Effective period](#1260502-effective-period)
 
 ## Determination of allocation of tax
 
-* 126.0701.   Method of determination.
-* 126.0702.   Sales made in the Municipality.
-* 126.0703.   Total allocation.
-* 126.0704.   Rentals.
-* 126.0705.   Operating loss-carry forward.
+* [126.0701   Method of determination](#1260701-method-of-determination)
+* [126.0702   Sales made in the Municipality](#1260702-sales-made-in-the-municipality)
+* [126.0703   Total allocation](#1260703-total-allocation)
+* [126.0704   Rentals](#1260704-rentals)
+* [126.0705   Operating loss-carry forward](#1260705-operating-loss-carry-forward)
 
 ## Exemptions
 
-* 126.1001.   Sources of income not taxed.
+* [126.1001   Sources of income not taxed](#1261001-sources-of-income-not-taxed)
 
 ## Returns
 
-* 126.1101.   When return required to be made.
-* 126.1102.   Form and content of return.
-* 126.1103.   Extension of time for filing returns.
-* 126.1104.   Consolidated returns.
-* 126.1105.   Amended returns.
+* [126.1101   When return required to be made](#1261101-when-return-required-to-be-made)
+* [126.1102   Form and content of return](#1261102-form-and-content-of-return)
+* [126.1103   Extension of time for filing returns](#1261103-extension-of-time-for-filing-returns)
+* [126.1104   Consolidated returns](#1261104-consolidated-returns)
+* [126.1105   Amended returns](#1261105-amended-returns)
 
 ## Payment of tax
 
-* 126.1301.   Payment of tax on filing of returns.
-* 126.1302.   Collection at source.
-* 126.1303.   Declaration of income.
-* 126.1304.   Filing of declaration.
-* 126.1305.   Form of declaration.
-* 126.1306.   Payment to accompany declaration.
-* 126.1307.   Annual return.
-* 126.1308.   Extensions.
+* [126.1301   Payment of tax on filing of returns](#1261301-payment-of-tax-on-filing-of-returns)
+* [126.1302   Collection at source](#1261302-collection-at-source)
+* [126.1303   Declaration of income](#1261303-declaration-of-income)
+* [126.1304   Filing of declaration](#1261304-filing-of-declaration)
+* [126.1305   Form of declaration](#1261305-form-of-declaration)
+* [126.1306   Payment to accompany declaration](#1261306-payment-to-accompany-declaration)
+* [126.1307   Annual return](#1261307-annual-return)
+* [126.1308   Extensions](#1261308-extensions)
 
 ## Interest and penalties
 
-* 126.1501.   Interest on unpaid tax.
-* 126.1502.   Penalties on unpaid tax.
-* 126.1503.   Exceptions.
-* 126.1504.   Abatement of interest and penalty.
-* 126.1505.   Violations.
-* 126.1506.   Limitation on prosecution.
-* 126.1507.   Failure to procure forms not excuse.
+* [126.1501   Interest on unpaid tax](#1261501-interest-on-unpaid-tax)
+* [126.1502   Penalties on unpaid tax](#1261502-penalties-on-unpaid-tax)
+* [126.1503   Exceptions](#1261503-exceptions)
+* [126.1504   Abatement of interest and penalty](#1261504-abatement-of-interest-and-penalty)
+* [126.1505   Violations](#1261505-violations)
+* [126.1506   Limitation on prosecution](#1261506-limitation-on-prosecution)
+* [126.1507   Failure to procure forms not excuse](#1261507-failure-to-procure-forms-not-excuse)
 
 ## Collection of unpaid taxes and refunds of over-payments
 
-* 126.1701.   Unpaid taxes recoverable as other debts.
-* 126.1702.   Refunds of taxes erroneously paid.
-* 126.1703.   Amounts of less than one dollar.
+* [126.1701   Unpaid taxes recoverable as other debts](#1261701-unpaid-taxes-recoverable-as-other-debts)
+* [126.1702   Refunds of taxes erroneously paid](#1261702-refunds-of-taxes-erroneously-paid)
+* [126.1703   Amounts of less than one dollar](#1261703-amounts-of-less-than-one-dollar)
 
 ## Taxpayer relief
 
-* 126.1902.   Tax credit.
+* [126.1902   Tax credit](#1261902-tax-credit)
 
 ## Disbursement of receipts of tax collection
 
-* 126.2101.   Disbursement of funds collected.
+* [126.2101   Disbursement of funds collected](#1262101-disbursement-of-funds-collected)
 
 ## Duties and authority of the administrator
 
-* 126.2301.   Duty to receive tax imposed.
-* 126.2302.   Duty to enforce collection.
-* 126.2303.   Authority to make and enforce regulations.
-* 126.2304.   Authority to arrange installment payments.
-* 126.2305.   Authority to determine amount of tax due.
-* 126.2306.   Authority to make investigations.
-* 126.2307.   Authority to compel productions of records.
-* 126.2308.   Refusal to produce records.
-* 126.2309.   Confidential nature of information obtained.
-* 126.2310.   Taxpayer required to retain records.
-* 126.2311.   Authority to contract for central collection facilities.
+* [126.2301   Duty to receive tax imposed](#1262301-duty-to-receive-tax-imposed)
+* [126.2302   Duty to enforce collection](#1262302-duty-to-enforce-collection)
+* [126.2303   Authority to make and enforce regulations](#1262303-authority-to-make-and-enforce-regulations)
+* [126.2304   Authority to arrange installment payments](#1262304-authority-to-arrange-installment-payments)
+* [126.2305   Authority to determine amount of tax due](#1262305-authority-to-determine-amount-of-tax-due)
+* [126.2306   Authority to make investigations](#1262306-authority-to-make-investigations)
+* [126.2307   Authority to compel productions of records](#1262307-authority-to-compel-productions-of-records)
+* [126.2308   Refusal to produce records](#1262308-refusal-to-produce-records)
+* [126.2309   Confidential nature of information obtained](#1262309-confidential-nature-of-information-obtained)
+* [126.2310   Taxpayer required to retain records](#1262310-taxpayer-required-to-retain-records)
+* [126.2311   Authority to contract for central collection facilities](#1262311-authority-to-contract-for-central-collection-facilities)
 
 ## Board of review
 
-* 126.2501.   Board of Review established.
-* 126.2502.   Duty to approve regulations and to hear appeals.
-* 126.2503.   Right of appeal.
+* [126.2501   Board of Review established](#1262501-board-of-review-established)
+* [126.2502   Duty to approve regulations and to hear appeals](#1262502-duty-to-approve-regulations-and-to-hear-appeals)
+* [126.2503   Right of appeal](#1262503-right-of-appeal)
 
 Other provisions
 
-* 126.2701.   Declaration of legislative intent.
-* 126.2702.   Collection of tax after termination of chapter.
+* [126.2701   Declaration of legislative intent](#1262701-declaration-of-legislative-intent)
+* [126.2702   Collection of tax after termination of chapter](#1262702-collection-of-tax-after-termination-of-chapter)
 
 ## Cross references
 

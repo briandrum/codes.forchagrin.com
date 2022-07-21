@@ -1307,6 +1307,7 @@ limits posted upon such signs.
     7. _(7)_ “Divided” means a roadway having two or more travel lanes for
     vehicles moving in opposite directions and that is separated by a median of
     more than four feet, excluding turn lanes.
+
 10. _(j)_
 
     1. _(1)_ A violation of any provision of this section is one of the
