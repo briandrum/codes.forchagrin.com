@@ -53,3 +53,118 @@
     </p>
   </div>
 </footer>
+<script>
+  function add() {
+    document.querySelectorAll(".Chapter p").forEach($p => {
+      let $headingText = "";
+      let $idx = 1;
+      let $str = "";
+
+      let $em = $p.querySelector("em");
+      let $parentListItem = $p.closest("li");
+      let $parentList = $p.closest("ol");
+      let $grandParentListItem;
+      if ($parentList) {
+        $grandParentListItem = $parentList.closest("li");
+      };
+      let $searchTarget;
+
+      if ((!$em && !$parentListItem)                                                      // paragraphs that are not part of a subsection
+          ||                                                                              // or
+          (!$em && $parentListItem && $parentListItem.querySelector("em"))                // paragraphs that are part of a non-subsection list
+          ||                                                                              // or
+          ($em && $em.nextSibling)) {                                                     // paragraphs with subsection number and content
+        $searchTarget = $p.previousElementSibling;                                        // get the previous sibling element
+        while ($searchTarget) {
+          if (($searchTarget.tagName === "H2") || ($searchTarget.tagName === "H3") || ($searchTarget.tagName === "H4")) {
+            $headingText = $searchTarget.id.match(/^(([\d\.])+)|(appendix-[\w]+)|(section-[ivx]+-[\d]+)/g);
+            break;
+          };
+          if ($searchTarget.tagName === "P") {                                            // check if it's also a paragraph
+            $idx = $idx + 1;                                                              // if so, increase the index
+          };
+          $searchTarget = $searchTarget.previousElementSibling;                           // get the next previous sibling element and repeat
+        };
+        $str = "¶" + $idx;                                                                // add a paragraph symbol to the string
+        if ($parentListItem) {
+          $em = $parentListItem.querySelector("em");                                      // find the current subsection number
+          $str = $em.innerText + $str;                                                    // add the current subsection number to the string
+        };
+        while ($grandParentListItem) {
+          $str = $grandParentListItem.querySelector("em").innerText + $str;
+          $parentList = $grandParentListItem.closest("ol");
+          $grandParentListItem = $parentList.closest("li");
+        };
+        if ($parentList) {
+          $searchTarget = $parentList.previousElementSibling;
+          while ($searchTarget) {
+            if (($searchTarget.tagName === "H2") || ($searchTarget.tagName === "H3") || ($searchTarget.tagName === "H4")) {
+              $headingText = $searchTarget.id.match(/^(([\d\.])+)|(appendix-[\w]+)|(section-[ivx]+-[\d]+)/g);
+              break;
+            };
+            $searchTarget = $searchTarget.previousElementSibling;
+          };
+        };
+        if ($headingText) {
+          $str = $headingText + $str;
+        };
+        $anchor = document.createElement("a");
+        $anchor.href = "#" + $str;
+        $anchor.innerText = "¶";
+        $small = document.createElement("small");
+        $small.append($anchor);
+        $p.setAttribute("id", $str);
+        $p.append(" ", $small);
+      };
+    });
+    document.querySelectorAll(".Chapter ol > li").forEach($li => {
+      let $headingText = "";
+      let $str = "";
+
+      let $em = $li.querySelector("em");
+      let $parentList = $li.closest("ol");
+      let $grandParentListItem;
+      if ($parentList) {
+        $grandParentListItem = $parentList.closest("li");
+      };
+      let $searchTarget;
+
+      if ($em) {
+        $str = $em.innerText + $str;
+      };
+      while ($grandParentListItem) {
+        $str = $grandParentListItem.querySelector("em").innerText + $str;
+        $parentList = $grandParentListItem.closest("ol");
+        $grandParentListItem = $parentList.closest("li");
+      };
+      if ($parentList) {
+        $searchTarget = $parentList.previousElementSibling;
+        while ($searchTarget) {
+          if (($searchTarget.tagName === "H2") || ($searchTarget.tagName === "H3") || ($searchTarget.tagName === "H4")) {
+            $headingText = $searchTarget.id.match(/^(([\d\.])+)|(appendix-[\w]+)|(section-[ivx]+-[\d]+)/g);
+            break;
+          };
+          $searchTarget = $searchTarget.previousElementSibling;
+        };
+      };
+      if ($headingText) {
+        $str = $headingText + $str;
+      };
+      $anchor = document.createElement("a");
+      $anchor.href = "#" + $str;
+      $anchor.innerText = $em.innerText;
+      $em.innerText = "";
+      $li.setAttribute("id", $str);
+      $em.append($anchor);
+    });
+    document.querySelectorAll(".Chapter h2, .Chapter h3, .Chapter h4").forEach($h2 => {
+      if (/^(([\d\.])+)|(appendix-)|(section-)/.test($h2.id)) {
+        $anchor = document.createElement("a");
+        $anchor.href = "#" + $h2.id;
+        $anchor.innerText = "§ ";
+        $h2.prepend($anchor);
+      };
+    });
+  };
+  add();
+</script>

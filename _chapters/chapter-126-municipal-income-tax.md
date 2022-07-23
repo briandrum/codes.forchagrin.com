@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 1
 title_no: 5
 chapter_no: 126
@@ -118,7 +118,7 @@ title: "Chapter 126: Municipal Income Tax"
 * [126.2502   Duty to approve regulations and to hear appeals](#1262502-duty-to-approve-regulations-and-to-hear-appeals)
 * [126.2503   Right of appeal](#1262503-right-of-appeal)
 
-Other provisions
+## Other provisions
 
 * [126.2701   Declaration of legislative intent](#1262701-declaration-of-legislative-intent)
 * [126.2702   Collection of tax after termination of chapter](#1262702-collection-of-tax-after-termination-of-chapter)

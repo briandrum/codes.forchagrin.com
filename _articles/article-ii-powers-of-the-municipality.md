@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 0
 article_no: 2
 title: "Article II: Powers of the Municipality"

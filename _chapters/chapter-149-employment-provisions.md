@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 1
 title_no: 5
 chapter_no: 149
@@ -78,24 +78,24 @@ accordance with this section.
 
 1. _(a)_ Every regular members of the Police Department and every part-time
 member of the Police Department who works on a regularly scheduled basis shall
-wear such uniforms or clothing as directed and approved by the Chief of Police. 
-
+wear such uniforms or clothing as directed and approved by the Chief of
+Police.  
 (Ord. 2013-13. Passed 4-8-13.)
 
 2. _(b)_ Police and Fire Department maintenance and clothing allowances shall,
 beginning January 1, 2020, be as follows:
 
-| Position                                                                                                                                                                                                                                                                                                 |    Maintenance Allowance Per Year | Clothing Allowance Per Calendar Year |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------:|-------------------------------------:|
-| Full time police member employed with the Village for more than 1 year                                                                                                                                                                                                                                   |                           $100.00 |                              $600.00 |
-| New police hires (during first year of service)                                                                                                                                                                                                                                                          | Pursuant to subsection (e) below. |    Pursuant to subsection (e) below. |
-| Part time police members (working at least 24 hours per week regularly)                                                                                                                                                                                                                                  |                           $100.00 |                              $600.00 |
-| Part time police members (working less than 24 hours per week regularly after having served a minimum of 144 hours in the preceding 12 months, or if they have been working less than a year, at least a minimum of 12 hours per month for each month in which they have been employed less than a year) |                            $40.00 |                              $260.00 |
-| Part time police clerk                                                                                                                                                                                                                                                                                   |                            $40.00 |                              $150.00 |
-| Full time police clerk                                                                                                                                                                                                                                                                                   |                            $70.00 |                              $380.00 |
-| Fire Chief                                                                                                                                                                                                                                                                                               |                           $100.00 |                              $150.00 |
+    | Position                                                                                                                                                                                                                                                                                                 |    Maintenance Allowance Per Year | Clothing Allowance Per Calendar Year |
+    |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------:|-------------------------------------:|
+    | Full time police member employed with the Village for more than 1 year                                                                                                                                                                                                                                   |                           $100.00 |                              $600.00 |
+    | New police hires (during first year of service)                                                                                                                                                                                                                                                          | Pursuant to subsection (e) below. |    Pursuant to subsection (e) below. |
+    | Part time police members (working at least 24 hours per week regularly)                                                                                                                                                                                                                                  |                           $100.00 |                              $600.00 |
+    | Part time police members (working less than 24 hours per week regularly after having served a minimum of 144 hours in the preceding 12 months, or if they have been working less than a year, at least a minimum of 12 hours per month for each month in which they have been employed less than a year) |                            $40.00 |                              $260.00 |
+    | Part time police clerk                                                                                                                                                                                                                                                                                   |                            $40.00 |                              $150.00 |
+    | Full time police clerk                                                                                                                                                                                                                                                                                   |                            $70.00 |                              $380.00 |
+    | Fire Chief                                                                                                                                                                                                                                                                                               |                           $100.00 |                              $150.00 |
 
-(Ord. 2019-67. Passed 11-25-19.)
+    (Ord. 2019-67. Passed 11-25-19.)
 
 3. _(c)_ New hirees who separate from the service of the Police Department for
 any reason, except termination, within their first year, shall reimburse the
@@ -402,8 +402,8 @@ time of retirement and eliminates all sick leave credit accrued but unused by
 the employee at the time the payment is made. The unused sick leave credit that
 is paid to each employee shall not exceed the value of 30 days of accrued but
 unused sick leave. “Retirement” as used in this section, means disability or
-service retirement under any state or municipal retirement system in this State.
- 
+service retirement under any state or municipal retirement system in this
+State.  
 (Ord. 1996-87. Passed 12-9-96.)
 
 ## 149.13   Travel and other expense allowances

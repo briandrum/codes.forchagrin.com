@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 13
 title_no: 5
 chapter_no: 1353
@@ -81,8 +81,8 @@ to:
     soil erosion, provide aesthetic benefits and enhance community and economic
     development.
 
-4. _(d)_ Methods of Reducing Flood Losses. In order to accomplish its purposes,
-this chapter includes methods and provisions for:
+4. _(d)_ **Methods of Reducing Flood Losses.** In order to accomplish its
+purposes, this chapter includes methods and provisions for:
 
     1. _(1)_ Restricting or prohibiting uses which are dangerous to health,
     safety and property due to water hazards, or which result in damaging
@@ -533,22 +533,22 @@ required:
     5. _(5)_ Certification by a registered professional engineer, architect, or
     surveyor of the structure’s as-built lowest floor or floodproofed elevation.
 
-2. _(b)_ Exemption From Filing a Development Permit. An application for a
+2. _(b)_ **Exemption From Filing a Development Permit.** An application for a
 development permit shall not be required for maintenance work such as roofing,
 painting and basement sealing, or for small nonstructural development activities
 valued at less than one thousand dollars ($1,000). Any proposed action exempt
 from filing for a development permit is also exempt from the standards of this
 chapter.
 
-3. _(c)_ Designation of the Flood Damage Prevention Administrator. The Chief
+3. _(c)_ **Designation of the Flood Damage Prevention Administrator.** The Chief
 Administrative Officer is hereby appointed to enforce the provisions of these
 regulations, and, administer and implement this chapter by granting or denying
 development permit applications in accordance with its provisions.
 
-4. _(d)_ Administrator’s Duties. Duties and responsibilities of the Chief
+4. _(d)_ **Administrator’s Duties.** Duties and responsibilities of the Chief
 Administrative Officer shall include but are not limited to:
 
-    1. _(1)_ Determination of hydraulically connected areas.
+    1. _(1)_ **Determination of hydraulically connected areas.**
 
         1. _(A)_ The Administrator shall interpret floodplain boundaries and
         provide flood hazard and flood protection elevation information.
@@ -568,7 +568,7 @@ Administrative Officer shall include but are not limited to:
         connected, and the lowest floor is below the flood protection elevation,
         the area is subject to all provisions stated in this chapter.
 
-    2. _(2)_ Permit review.
+    2. _(2)_ **Permit review.**
 
         1. _(A)_ Review all development permit applications to determine that
         the permit requirements of this chapter have been satisfied.
@@ -590,16 +590,16 @@ Administrative Officer shall include but are not limited to:
         construction to ensure proper elevation of the structure and to ensure
         compliance with all provisions of this chapter.
 
-    3. _(3)_ Use of other base flood elevation and floodway data. Special flood
-    hazard areas where base flood elevation data have not been provided by the
-    Federal Emergency Management Agency in accordance with Section 1353.03(b),
-    are designated as Zone A on the Village’s Flood Insurance Rate Map. Within
-    these areas, the Chief Administrative Officer shall obtain, review and
-    reasonably utilize any base flood elevation and floodway data available from
-    a Federal State or other source, in order to administer Sections
-    1353.06(b)(1) and (2) and 1353.07.
+    3. _(3)_ **Use of other base flood elevation and floodway data.** Special
+    flood hazard areas where base flood elevation data have not been provided by
+    the Federal Emergency Management Agency in accordance with Section
+    1353.03(b), are designated as Zone A on the Village’s Flood Insurance Rate
+    Map. Within these areas, the Chief Administrative Officer shall obtain,
+    review and reasonably utilize any base flood elevation and floodway data
+    available from a Federal State or other source, in order to administer
+    Sections 1353.06(b)(1) and (2) and 1353.07.
 
-    4. _(4)_ Information to be obtained and maintained by the Village. Where
+    4. _(4)_ **Information to be obtained and maintained by the Village.** Where
     base flood elevation data are utilized within special flood hazard areas on
     the Village’s Flood Hazard Boundary Map or Flood Insurance Rate Map,
     regardless of the source of such data, the following provisions apply:
@@ -627,7 +627,7 @@ Administrative Officer shall include but are not limited to:
         elevation certificates, variances, and records of enforcement actions
         taken for violations of these regulations.
 
-    5. _(5)_ Alteration of watercourses.
+    5. _(5)_ **Alteration of watercourses.**
 
         1. _(A)_ Notify adjacent communities, the U.S. Army Corps of Engineers,
         and the State Department of Natural Resources, Division of Water, prior
@@ -644,7 +644,7 @@ Administrative Officer shall include but are not limited to:
         1353.04(a)(4) that the flood carrying capacity of the altered or
         relocated portion of said watercourse will not be diminished.
 
-    6. _(6)_ Interpretation and appeals.
+    6. _(6)_ **Interpretation and appeals.**
 
         1. _(A)_ Make interpretations, where needed, as to the exact location of
         the boundaries of the special flood hazard areas, for example, where
@@ -658,8 +658,8 @@ Administrative Officer shall include but are not limited to:
         2. _(B)_ Provide information, testimony or other evidence as needed
         during variance hearings.
 
-    7. _(7)_ Alteration of Village boundaries. Upon occurrence, notify FEMA in
-    writing whenever the boundaries of the Village of Chagrin Falls have been
+    7. _(7)_ **Alteration of Village boundaries.** Upon occurrence, notify FEMA
+    in writing whenever the boundaries of the Village of Chagrin Falls have been
     modified by annexation or the Village has assumed authority over an area, or
     no longer has authority to adopt and enforce floodplain management
     regulations for a particular area. In order that the Village of Chagrin
@@ -681,14 +681,14 @@ Administrative Officer shall include but are not limited to:
         areas identified by FEMA, must meet the development standards of these
         regulations.
 
-    9. _(9)_ Map maintenance activities. To meet National Flood Insurance
+    9. _(9)_ **Map maintenance activities.** To meet National Flood Insurance
     Program minimum requirements to have flood data reviewed and approved by
     FEMA, and to ensure that the Village of Chagrin Falls flood maps, studies
     and other data identified in Section 1353.03(b) accurately represent
     flooding conditions so appropriate floodplain management criteria are based
     on current data, the following map maintenance activities are identified:
 
-        1. _(A)_ Requirement to Submit New Technical Data.
+        1. _(A)_ **Requirement to Submit New Technical Data.**
 
             1. _(1)_ For all development proposals that impact floodway
             delineations or base flood elevations, the community shall ensure
@@ -734,7 +734,7 @@ Administrative Officer shall include but are not limited to:
             Letter of Map Revision from FEMA for any development proposal
             subject to Section 1353.04(d)(9)A.1.
 
-        2. _(B)_ Right to Submit New Technical Data. The Floodplain
+        2. _(B)_ **Right to Submit New Technical Data.** The Floodplain
         Administrator may request changes to any of the information shown on an
         effective map that does not impact floodplain or floodway delineations
         or base flood elevations, such as labeling or planimetric details. Such
@@ -760,7 +760,7 @@ Administrative Officer shall include but are not limited to:
 
 ## 1353.05   Variance procedure
 
-1. _(a)_ Appeal Board.
+1. _(a)_ **Appeal Board.**
 
     1. _(1)_ The Board of Zoning Appeals as established by the Village shall
     hear and decide appeals and requests for variances from the requirements of
@@ -951,12 +951,12 @@ Section 1353.04(d)(3), and in all areas that constitute flood protection
 elevations as determined by the Flood Damage Prevention Administrator, the
 following provisions are required:
 
-    1. _(1)_ Residential construction. New construction and substantial
+    1. _(1)_ **Residential construction.** New construction and substantial
     improvement of any residential structures, including manufactured homes,
     shall have the lowest floor, including basement, elevated to no less than
     eighteen (18) inches above the base flood elevation.
 
-    2. _(2)_ Nonresidential construction. New construction and substantial
+    2. _(2)_ **Nonresidential construction.** New construction and substantial
     improvement of any commercial, industrial or other nonresidential structure
     shall either have the lowest floor, including basement, elevated to no less
     than eighteen (18) inches above the level of the base flood elevation; or,
@@ -975,14 +975,14 @@ following provisions are required:
         subsection. Such certification shall be provided to the official as set
         forth in Section 1353.04(a)(3).
 
-    3. _(3)_ Accessory structures. New construction and substantial improvement
-    of any accessory structures shall have the lowest floor, including basement,
-    elevated to no less than eighteen (18) inches above the base flood elevation
-    An exemption to the elevation or dry floodproofing standards may be granted
-    for accessory structures (e.g., sheds, detached garages) containing 576
-    square feet or less in gross floor area. Such structures shall meet the
-    encroachment provisions of Section 1353.07(a) and the following additional
-    standards:
+    3. _(3)_ **Accessory structures.** New construction and substantial
+    improvement of any accessory structures shall have the lowest floor,
+    including basement, elevated to no less than eighteen (18) inches above the
+    base flood elevation An exemption to the elevation or dry floodproofing
+    standards may be granted for accessory structures (e.g., sheds, detached
+    garages) containing 576 square feet or less in gross floor area. Such
+    structures shall meet the encroachment provisions of Section 1353.07(a) and
+    the following additional standards:
 
         1. _(A)_ They shall not be used for human habitation;
 
@@ -1000,7 +1000,7 @@ following provisions are required:
         protection elevation; and, they shall meet the opening requirements of
         Section 1353.06(b)(4).
 
-    4. _(4)_ Enclosures below the lowest floor base flood elevation. The
+    4. _(4)_ **Enclosures below the lowest floor base flood elevation.** The
     following standards apply to all new and substantially improved residential
     and nonresidential nonbasement structures, including manufactured homes,
     which are elevated to or above flood protection elevation using pilings,
@@ -1031,11 +1031,12 @@ following provisions are required:
         3. _(C)_ Any enclosure which meets these criteria shall be considered as
         having met the requirements of subsection (a)(l) hereof.
 
-    5. _(5)_ Recreational vehicles. Recreational vehicles must meet at least one
-    of the following standards:
+    5. _(5)_ **Recreational vehicles.** Recreational vehicles must meet at least
+    one of the following standards:
 
         1. _(A)_ They shall not be located on sites in special flood hazard
         areas for more than 180 days, or
+
         2. _(B)_ They must be fully licensed and ready for highway use, or
 
         3. _(C)_ They must meet all standards of Section 1353.06.  

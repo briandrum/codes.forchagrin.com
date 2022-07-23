@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 5
 title_no: 0
 chapter_no: 553

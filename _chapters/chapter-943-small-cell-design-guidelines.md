@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 9
 title_no: 5
 chapter_no: 943
@@ -378,6 +378,7 @@ to be replaced unless otherwise approved by the Village.
 
     1. _(1)_ All luminaire mast arms shall be the same length, arch, and style
     as the original luminaire arm, unless otherwise specified by the Village.
+
     2. _(2)_ The Village may require the Facilities Operator to install a new
     metal Wireless Support Structure rather than a new wood support structure.
 

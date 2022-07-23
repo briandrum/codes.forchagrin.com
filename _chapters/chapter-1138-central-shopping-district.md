@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 11
 title_no: 3
 chapter_no: 1138
@@ -70,7 +70,7 @@ be conducted within completely enclosed buildings.
     traffic, shall occupy a ground floor space with frontage on a public street
     from which that space has access.
 
-    2. _(2)_ Retail sales. Establishments engaged primarily in the retail sale
+    2. _(2)_ **Retail sales.** Establishments engaged primarily in the retail sale
     of merchandise as delineated below.
 
         1. _(A)_ **Convenience stores.** Establishments engaged primarily in the
@@ -89,6 +89,7 @@ be conducted within completely enclosed buildings.
 
     3. _(3)_ **Retail services.** Establishments engaged primarily in the retail
     provision of services, as delineated below.
+
         1. _(A)_ Full-service restaurants, as regulated in Section 1138.05(a).
 
         2. _(B)_ Personal service establishments including tailor, shoe repair,
@@ -120,7 +121,7 @@ be conducted within completely enclosed buildings.
 
     7. _(7)_ **Residential use.** As regulated in Section 1138.05(g).
 
-    8. _(8)_ **Similar uses.** As regulated in Chapter 1113
+    8. _(8)_ **Similar uses.** As regulated in Chapter 1113.
 
 2. _(b)_ **Accessory Uses.**
 

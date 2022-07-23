@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 5
 title_no: 0
 chapter_no: 537
@@ -253,6 +253,7 @@ another’s unborn.
     by a person incarcerated in the State correctional institution or by a
     person institutionalized in the Department of Youth Services Institution
     pursuant to a commitment to the Department of Youth Services.
+
     4. _(4)_ If the offense is committed in any of the following circumstances:
 
         1. _(A)_ The offense occurs in or on the grounds of a local correctional
@@ -307,6 +308,7 @@ another’s unborn.
     of the Bureau of Criminal Identification and Investigation, a firefighter,
     or a person performing emergency medical service, while in the performance
     of their official duties.
+
     6. _(6)_ If the victim of the offense is a peace officer or an investigator
     of the Bureau of Criminal Identification and Investigation and if the victim
     suffered serious physical harm as a result of the commission of the offense.
@@ -463,11 +465,11 @@ another’s unborn.
 
     19. _(19)_
 
-        _(A)_ “Hospital” means, subject to subsection (d)(19)B. of this section,
-        an institution classified as a hospital under Ohio R.C. 3701.01 in which
-        are provided to patients diagnostic, medical, surgical, obstetrical,
-        psychiatric, or rehabilitation care or a hospital operated by a health
-        maintenance organization.
+        1. _(A)_ “Hospital” means, subject to subsection (d)(19)B. of this
+        section, an institution classified as a hospital under Ohio R.C. 3701.01
+        in which are provided to patients diagnostic, medical, surgical,
+        obstetrical, psychiatric, or rehabilitation care or a hospital operated
+        by a health maintenance organization.
 
         2. _(B)_ “Hospital” does not include any of the following:
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 5
 title_no: 0
 chapter_no: 517
@@ -1211,7 +1211,7 @@ the following:
 
     12. _(12)_
     
-        _(A)_ Allow instant bingo tickets or cards to be sold to bingo game
+        1. _(A)_ Allow instant bingo tickets or cards to be sold to bingo game
         operators at a premises at which the organization sells instant bingo
         tickets or cards or to be sold to employees of a D permit holder who are
         working at a premises at which instant bingo tickets or cards are sold;

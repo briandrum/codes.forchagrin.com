@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 13
 title_no: 5
 chapter_no: 1340
@@ -463,7 +463,7 @@ deteriorating influence on the value of adjacent properties.
 more it is either empty, or not occupied or maintained on a regular basis by an
 occupant, or at the direction of the owner or occupant.
 
-3. _(c)_ *Windows, Doors, or Other Openings.* In a vacant structure, the
+3. _(c)_ **Windows, Doors, or Other Openings.** In a vacant structure, the
 obstruction of any window, door or other opening by papering, soaping, or
 boarding up is prohibited.
 

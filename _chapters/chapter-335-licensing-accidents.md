@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 3
 title_no: 5
 chapter_no: 335
@@ -1292,6 +1292,7 @@ section.
     common pleas as provided in Ohio R.C. Chapter 4505 in case of the
     destruction or dismantling or change of a motor vehicle in such respect that
     it is not the motor vehicle described in the certificate of title;
+
     5. _(5)_ Violate any rules adopted pursuant to Ohio R.C. Chapter 4505;
 
     6. _(6)_ Except as otherwise provided in Ohio R.C. Chapter 4505 and Chapter

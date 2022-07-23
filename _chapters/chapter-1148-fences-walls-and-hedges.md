@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 11
 title_no: 5
 chapter_no: 1148
@@ -93,6 +93,7 @@ five percent (25%) open to light and air throughout its area.
 4. _(d)_ **Prohibited fences, walls and hedges.**
 
     1. _(1)_ Fences charged with electrical current.
+
     2. _(2)_ Barbed wire fences except as otherwise provided for in Section
     1148.06(b).
 
@@ -149,9 +150,9 @@ height band of two and one-half feet to six feet above curb level.
 
 4. _(d)_ **Recreational Uses.**
 
-    1. _(1)_ Swimming pools. Any swimming pool in which water may collect to a
-    depth in excess of one and one-half (1-1/2) feet shall be enclosed by a wall
-    or fence not less than five (5) feet in height. Such fence shall be
+    1. _(1)_ **Swimming pools.** Any swimming pool in which water may collect to
+    a depth in excess of one and one-half (1-1/2) feet shall be enclosed by a
+    wall or fence not less than five (5) feet in height. Such fence shall be
     constructed so that the horizontal members are on the pool side of the
     enclosure and vertical members shall not be spaced more than four (4) inches
     apart. The bottom horizontal member shall be four (4) inches or less from
@@ -161,12 +162,12 @@ height band of two and one-half feet to six feet above curb level.
     feet from ground level, shall be designed to permit locking and shall be
     kept locked when the pool is not in actual use or is unattended.
 
-    2. _(2)_ Tennis courts. Tennis courts shall be enclosed by a metal chain
+    2. _(2)_ **Tennis courts.** Tennis courts shall be enclosed by a metal chain
     link or mesh fence at least nine feet in height but no more than twelve feet
     in height above finished grade.  
     (Ord. 2019-39. Passed 8-13-19; Ord. 2019-56. Passed 11-25-19.)
 
-## 1148.06   Fences, walls, nd hedges permitted: non-residential districts
+## 1148.06   Fences, walls, and hedges permitted: non-residential districts
 
 1. _(a)_ **Height.** Fences, walls, and hedges shall not exceed eight feet in
 height. Any fence, wall, or hedge which restricts the visibility along a

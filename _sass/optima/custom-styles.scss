@@ -1,10 +1,19 @@
-.Markdown em {
+.Page-header {
+  position: static !important;
+  z-index: auto !important;
+}
+
+.Markdown.h-entry em {
   font-style: normal;
   text-transform: uppercase;
 }
 
 .Markdown strong {
   font-weight: 700;
+}
+
+.Markdown p {
+  position: relative;
 }
 
 .Markdown ol {
@@ -18,13 +27,58 @@
   margin-bottom: 8px;
   margin-left: 0;
   margin-top: 8px;
-  padding-left: 3em;
+  padding-left: 3em; // so the ::target highlight color extends under the numbers
   position: relative;
 }
 
-// .Markdown ol > li > p {
-//   margin-top: 0;
-// }
+.Markdown :is(h2, h3, h4):target,
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table),
+.Markdown :is(ol > li, p):target {
+  animation: target-fade 10s 1;
+  background-color: var(--yellow4);
+  outline-color: var(--yellow4);
+  outline-offset: 0;
+  outline-style: solid;
+  outline-width: 0.5rem;
+}
+
+@keyframes target-fade {
+  0% {
+    background-color: var(--yellow5);
+    outline-color: var(--yellow5);
+  }
+  100% {
+    background-color: var(--yellow4);
+    outline-color: var(--yellow4);
+  }
+}
+
+.Chapter :is(h2, h3, h4):target > a,
+.Chapter :is(h2, h3, h4):target > a:hover,
+.Chapter li:target > p > em > a,
+.Chapter li:target > p > em > a:hover,
+.Chapter li:target > em > a,
+.Chapter li:target > em > a:hover,
+.Chapter p:target > small > a,
+.Chapter p:target > small > a:hover {
+    color: var(--yellow11);
+}
+
+.Markdown :is(h2, h3, h4):target,
+.Markdown :is(ol > li, p):target {
+  border-radius: 0.01em;
+}
+
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table) {
+  border-bottom-left-radius: 0.01em;
+  border-bottom-right-radius: 0.01em;
+}
 
 .Markdown ol > li > del > em:first-child,
 .Markdown ol > li > ins > em:first-child,
@@ -33,18 +87,26 @@
 .Markdown ol > li > p > ins > em:first-child,
 .Markdown ol > li > em:first-child {
   font-style: normal;
-  left: -4em;
+  left: -4.2em;
   position: absolute;
   text-align: right;
   text-decoration-color: inherit;
   text-decoration-line: inherit;
   text-decoration-thickness: inherit;
   text-underline-offset: inherit;
-  width: 5.8em;
+  width: 3em;
+}
+
+.Markdown ol > li > em:first-child {
+  left: -1.2em; // workaround for lists with only one item where Markdown does not render a paragraph element
 }
 
 .Markdown h2 + h1 {
   margin-top: 0 !important;
+}
+
+.Markdown h2#sections + ul li::marker {
+  content: "§ ";
 }
 
 .Markdown li > ol {
@@ -57,4 +119,35 @@
 
 .Markdown td strong {
   font-weight: var(--Markdown-table-th-fontWeight);
+}
+
+.Chapter h4 {
+  font-family: var(--Markdown-h3-fontFamily);
+  color: var(--Markdown-h3-color);
+  font-size: var(--Markdown-h3-fontSize);
+  font-weight: var(--Markdown-h3-fontWeight);
+  line-height: var(--Markdown-h3-lineHeight);
+  margin-top: 1em;
+}
+
+.Chapter :is(h2, h3, h4) > a,
+.Chapter em > a,
+.Chapter p > em > a {
+  color: var(--blue12);
+  text-decoration: none;
+}
+
+.Chapter p > small > a {
+  color: var(--slateA8);
+  text-decoration: none;
+}
+
+.Chapter :is(h2, h3, h4) > a:hover,
+.Chapter em > a:hover,
+.Chapter p > em > a:hover {
+  color: var(--blue11);
+}
+
+.Chapter p > small > a:hover {
+  color: var(--blueA11);
 }

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 11
 title_no: 3
 chapter_no: 1129
@@ -105,17 +105,16 @@ required dwelling unit area.
 In RMF-10 and RMF-15 Districts, structures shall be developed and maintained in
 accordance with the following height regulations.
 
-    1. _(a)_ **Main Buildings.** 35 feet maximum
+1. _(a)_ **Main Buildings.** 35 feet maximum
 
-    2. _(b)_ **Accessory Structures.** Fifteen feet maximum.
+2. _(b)_ **Accessory Structures.** Fifteen feet maximum.
 
-    3. _(c)_ **Rooftop Equipment.** Rooftop mechanical equipment as permitted
-    under Section 1129.02(b)(6) may extend a maximum of ten feet above the
-    highest point of the building on which it is located, provided such
-    equipment conforms to Section 1129.07(f) and is set back from any building
-    face a distance at least equal to the height by which it exceeds the
-    building height.  
-    (Ord. 2019-39. Passed 8-13-19.)
+3. _(c)_ **Rooftop Equipment.** Rooftop mechanical equipment as permitted under
+Section 1129.02(b)(6) may extend a maximum of ten feet above the highest point
+of the building on which it is located, provided such equipment conforms to
+Section 1129.07(f) and is set back from any building face a distance at least
+equal to the height by which it exceeds the building height.  
+(Ord. 2019-39. Passed 8-13-19.)
 
 ## 1129.05   Yard and setback regulations
 

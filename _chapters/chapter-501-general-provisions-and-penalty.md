@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 5
 title_no: 0
 chapter_no: 501
@@ -968,7 +968,7 @@ discretion imposes one or more financial sanctions, the financial sanctions that
 may be imposed pursuant to this section include, but are not limited to, the
 following:
 
-    1. _(1)_ Restitution.
+    1. _(1)_ **Restitution.**
 
         1. _(A)_ Unless the misdemeanor offense is a minor misdemeanor or could
         be disposed of by the traffic violations bureau serving the court under

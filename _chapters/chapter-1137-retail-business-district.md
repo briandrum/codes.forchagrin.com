@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 11
 title_no: 3
 chapter_no: 1137
@@ -53,8 +53,8 @@ activities are further regulated in Section 1137.05(d).
 
 1. _(a)_ **Main Uses.**
 
-    1. _(1)_ Office uses. General and medical office uses as permitted in Office
-    Districts.
+    1. _(1)_ **Office uses.** General and medical office uses as permitted in
+    Office Districts.
 
     2. _(2)_ **Retail sales.** Establishments engaged primarily in the retail
     sale of merchandise as delineated below.
@@ -150,12 +150,12 @@ activities are further regulated in Section 1137.05(d).
 In a Retail Business District, land and structures shall be developed and
 maintained in accordance with the following height regulations,
 
-1. _(a)_ Main buildings. Forty feet maximum
+1. _(a)_ **Main buildings.** Forty feet maximum
 
-2. _(b)_ Accessory structures. Thirty-five feet maximum for garages and fifteen
-feet maximum for other structures.
+2. _(b)_ **Accessory structures.** Thirty-five feet maximum for garages and
+fifteen feet maximum for other structures.
 
-3. _(c)_ Exceptions to height limitations. Rooftop mechanical equipment as
+3. _(c)_ **Exceptions to height limitations.** Rooftop mechanical equipment as
 permitted under Section 1137.02(b)(4) may extend a maximum of ten feet above the
 highest point of the building on which it is located, provided that such
 equipment is set back from each building face a distance at least equal to the
@@ -205,9 +205,10 @@ structure or use shall be as set forth below.
     built-up blocks to meet prevailing setbacks if such alignment is deemed more
     appropriate by the Commission.
 
-    2. _(2)_ Side yards. Buildings on adjoining lots may be attached at side lot
-    lines if approved by the Planning and Zoning Commission and Architectural
-    Board of Review in consideration of planning and design standards.
+    2. _(2)_ **Side yards.** Buildings on adjoining lots may be attached at side
+    lot lines if approved by the Planning and Zoning Commission and
+    Architectural Board of Review in consideration of planning and design
+    standards.
 
     3. _(3)_ **Buffers.** The Planning and Zoning Commission may eliminate
     buffer requirements at side and rear lot lines joining nonresidential uses
@@ -276,8 +277,8 @@ on the same lot.
 density of thirty units per acre and a minimum floor area of 300 square feet per
 unit.
 
-7. _(g)_ Parking Lots as Main Uses. Landscaping and screening shall be provided
-as required in Section 1142.06.
+7. _(g)_ **Parking Lots as Main Uses.** Landscaping and screening shall be
+provided as required in Section 1142.06.
 
 8. _(h)_ **Residential Uses.** Residential uses shall be developed and
 maintained in accordance with the following:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 11
 title_no: 5
 chapter_no: 1146
@@ -88,26 +88,26 @@ accordance with the regulations of this chapter.
     The Architectural Board of Review shall apply the standards set forth in
     Section 1146.06 hereof to determine whether or not demolition is permitted.
 
-        1. _(A)_ Advice of Expert on Historic Significance. When an applicant
-        requests a permit to demolish a structure or portion thereof that is
-        more than fifty (50) years old, the Administrator shall engage the
-        assistance of an expert in the field of the history of architecture, who
-        shall make a recommendation to the Architectural Board of Review
+        1. _(A)_ **Advice of Expert on Historic Significance.** When an
+        applicant requests a permit to demolish a structure or portion thereof
+        that is more than fifty (50) years old, the Administrator shall engage
+        the assistance of an expert in the field of the history of architecture,
+        who shall make a recommendation to the Architectural Board of Review
         regarding whether or not the structure is an Historically Significant
         Property, as defined by Section 1146.05 of this Chapter. The expert
         shall be paid out of the deposit made pursuant to paragraph (a)(2)
         hereof, and the remaining funds from such deposit, if any, shall be
         returned to the applicant.
 
-        2. _(B)_ Advice of Expert on Economic Feasibility. If, in reviewing a
-        request for demolition, a majority of the Architectural Board of Review,
-        by motion, requests the advice of an expert to assist in the analysis of
-        determining whether or not the repair, rehabilitation or restoration of
-        an Historically Significant Property is Economically Feasible, the
-        Administrator shall determine whether the Municipality should engage an
-        expert at Municipality expense, to provide such advice.
+        2. _(B)_ **Advice of Expert on Economic Feasibility.** If, in reviewing
+        a request for demolition, a majority of the Architectural Board of
+        Review, by motion, requests the advice of an expert to assist in the
+        analysis of determining whether or not the repair, rehabilitation or
+        restoration of an Historically Significant Property is Economically
+        Feasible, the Administrator shall determine whether the Municipality
+        should engage an expert at Municipality expense, to provide such advice.
 
-        3. _(C)_ Advice of Expert on Additions and Alterations. When an
+        3. _(C)_ **Advice of Expert on Additions and Alterations.** When an
         applicant requests a permit to add to, or in any material way (other
         than painting) alter the exterior of, any structure that is more than
         fifty (50) but less than one hundred (100) years old, the Administrator
@@ -127,6 +127,7 @@ accordance with the regulations of this chapter.
         structure. The expert shall be paid out of the deposit made pursuant to
         paragraph (a)(2) hereof, and the remaining funds from such deposit shall
         be returned to the applicant.
+
     3. _(3)_ Where an applicant for a building permit proposes to change the
     existing grade of a lot by more than three (3) inches, the Architectural
     Board of Review shall review, in accordance with Section 1109.05 and this
@@ -218,6 +219,7 @@ buildings, signs and structures;
     Property shall be undertaken by the gentlest means possible. Sandblasting
     and other cleaning methods that will damage the historic building materials
     shall not be permitted.
+
     6. _(6)_ **Accessory structures.** Fences, walkways, street lights, and
     other accessory structures located in Proximity to structures more than (50)
     years old shall be compatible in design with the character of such

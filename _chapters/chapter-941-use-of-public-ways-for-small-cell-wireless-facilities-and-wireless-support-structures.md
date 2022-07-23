@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 9
 title_no: 5
 chapter_no: 941
@@ -81,6 +81,7 @@ otherwise:
     4. _(4)_ "Collocation" or "Collocate" means to install, mount, maintain,
     modify, operate, or replace wireless Facilities on a Wireless Support
     Structure.
+
     5. _(5)_ "Design Guidelines" means standards applicable to Small Cell
     Equipment and Wireless Support Structures in the Right-of-Way, established
     in Chapter 943.

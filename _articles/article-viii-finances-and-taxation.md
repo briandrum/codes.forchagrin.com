@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 0
 article_no: 8
 title: "Article VIII: Finances and Taxation"

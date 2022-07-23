@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 11
 title_no: 3
 chapter_no: 1127
@@ -144,14 +144,13 @@ below:
 
     **Minimum Setback (feet)**
 
-    | Accessory Uses        | To Front Lot Line | To R1 District Line | To Other Lot Line |
-    |-----------------------|------------------:|--------------------:|------------------:|
-    | Buildings and         |                 * |                  35 |                15 |
-    | Structures            |                   |                     |                   |
-    | Surface Parking Area  |                 * |                  10 |                 5 |
-    | Private Roads         |                 * |                  10 |                 5 |
-    | Recreation Facilities |                 * |                  30 |                10 |
-    | Walkways              |                 0 |                   5 |                 5 |
+    | Accessory Uses           | To Front Lot Line | To R1 District Line | To Other Lot Line |
+    |--------------------------|------------------:|--------------------:|------------------:|
+    | Buildings and Structures |                 * |                  35 |                15 |
+    | Surface Parking Area     |                 * |                  10 |                 5 |
+    | Private Roads            |                 * |                  10 |                 5 |
+    | Recreation Facilities    |                 * |                  30 |                10 |
+    | Walkways                 |                 0 |                   5 |                 5 |
 
     \*Not permitted in front yards, except that private roads are permitted only as
     necessary in providing access to a public right of way.

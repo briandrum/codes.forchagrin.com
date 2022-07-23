@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 5
 title_no: 0
 chapter_no: 544
@@ -31,7 +31,7 @@ title: "Chapter 544: Trees, Weeds and Grass"
 * Notice to cut noxious weeds - see Ohio R.C. 731.51
 * Destruction of weeds - see Ohio R.C. 971.33 et seq.
 * Injury or destruction of trees and growing products - see GEN. OFF. 541.06
-* Care of trees during street excavations - see [Streets & Public Services 901.03(q)]({% link _chapters/chapter-901-street-openings-and-excavations.md %})
+* Care of trees during street excavations - see [Streets & Public Services 901.03(q)]({% link _chapters/chapter-901-street-openings-and-excavations.md %}#90103-rules-and-regulations)
 
 ## 544.01   Trimming of trees, shrubbery
 
@@ -194,33 +194,33 @@ examination and diagnosis.
 permitted on Municipal property with an appropriate permit granted by the Chief
 Administrative Officer pursuant to Section 544.13.
 
-| Binomial name                          | Common name                 |
-|----------------------------------------------------------------------|
-| Acer Campestre                         | Hedge Maple                 |
-| Acer Platanoides                       | Norway Maple                |
-| Acer Rubrum                            | Red Maple                   |
-| Acer Saccharum                         | Sugar Maple                 |
-| Almus Cordata                          | Italian Alder               |
-| Carpinus Betulus Fastigian Pyramidalis | Pyramidal European Hornbeam |
-| Cercidiphyllum Japonicum               | Katsura Tree                |
-| Crateagus Phacnopyrum                  | Washington Hawthorn         |
-| Encommia Ulmoldes                      | Hardy Rubber Tree           |
-| Ginkgo Biloba                          | Maiden Hair Tree (Male)     |
-| Liquidambar Styraciflua                | Sweet Gum                   |
-| Nyssa Sylvatica                        | Sour Gum                    |
-| Ostrya Virginiana                      | Hop Hornbeam                |
-| Pyrus Calleryana                       | Callery Pear                |
-| Quercus Imbricarea                     | Shingle Oak                 |
-| Quercus Palustris                      | Pin Oak                     |
-| Quercus Phellos                        | Willow Oak                  |
-| Quercus Schumardi                      | Texas Red Oak               |
-| Sophora Japonica                       | Chinese Scholar Tree        |
-| Tilia Cordata                          | Littleleaf Linden           |
-| Tilia Tomentosa                        | Silver Linden               |
-| Ulmus Parvifolia                       | Chinese Elm                 |
-| Zelkova Serrata                        | Keaki Tree                  |
+    | Binomial name                          | Common name                 |
+    |----------------------------------------------------------------------|
+    | Acer Campestre                         | Hedge Maple                 |
+    | Acer Platanoides                       | Norway Maple                |
+    | Acer Rubrum                            | Red Maple                   |
+    | Acer Saccharum                         | Sugar Maple                 |
+    | Almus Cordata                          | Italian Alder               |
+    | Carpinus Betulus Fastigian Pyramidalis | Pyramidal European Hornbeam |
+    | Cercidiphyllum Japonicum               | Katsura Tree                |
+    | Crateagus Phacnopyrum                  | Washington Hawthorn         |
+    | Encommia Ulmoldes                      | Hardy Rubber Tree           |
+    | Ginkgo Biloba                          | Maiden Hair Tree (Male)     |
+    | Liquidambar Styraciflua                | Sweet Gum                   |
+    | Nyssa Sylvatica                        | Sour Gum                    |
+    | Ostrya Virginiana                      | Hop Hornbeam                |
+    | Pyrus Calleryana                       | Callery Pear                |
+    | Quercus Imbricarea                     | Shingle Oak                 |
+    | Quercus Palustris                      | Pin Oak                     |
+    | Quercus Phellos                        | Willow Oak                  |
+    | Quercus Schumardi                      | Texas Red Oak               |
+    | Sophora Japonica                       | Chinese Scholar Tree        |
+    | Tilia Cordata                          | Littleleaf Linden           |
+    | Tilia Tomentosa                        | Silver Linden               |
+    | Ulmus Parvifolia                       | Chinese Elm                 |
+    | Zelkova Serrata                        | Keaki Tree                  |
 
-(Ord. 1982-36. Passed 1-24-83; Ord. 2002-71. Passed 11-25-02.)
+    (Ord. 1982-36. Passed 1-24-83; Ord. 2002-71. Passed 11-25-02.)
 
 2. _(b)_ Wherever and whenever the Chief Administrative Officer determines that
 the planting of a tree by the Municipality on the tree lawn or other portion of

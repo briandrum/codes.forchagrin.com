@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 15
 title_no: 0
 chapter_no: 1519
@@ -11,7 +11,7 @@ title: "Chapter 1519: Fireworks"
 * [1519.01   Definitions](#151901-definitions)
 * [1519.02   Public exhibition permit required; fee; bond; records](#151902-public-exhibition-permit-required-fee-bond-records)
 * [1519.03   Unlawful conduct by exhibitor](#151903-unlawful-conduct-by-exhibitor)
-* [1519.04   Possession, sale ordischarge prohibited; exceptions](#151904-possession-sale-ordischarge-prohibited-exceptions)
+* [1519.04   Possession, sale or discharge prohibited; exceptions](#151904-possession-sale-or-discharge-prohibited-exceptions)
 * [1519.05   Application](#151905-application)
 * [1519.99   Penalty](#151999-penalty)
 
@@ -112,15 +112,16 @@ the exhibition to the Fire Chief and from the Police Chief or other similar
 chief law enforcement officer, or the designee of the Police Chief or similar
 chief law enforcement officer.  
 
-The required approval shall be evidenced by the Fire Chief or Fire Prevention
-Officer and by the Police Chief or other similar chief law enforcement officer,
-or the designee of the Police Chief or similar chief law enforcement officer,
-signing a permit for the exhibition, the form for which shall be prescribed by
-the State Fire Marshal. Any exhibitor of fireworks who wishes to conduct a
-public fireworks exhibition may obtain a copy of the form from the Fire Marshal
-or, if it is available, from the Fire Chief, Fire Prevention Officer, Police
-Chief or other similar chief law enforcement officer, or the designee of the
-Police Chief or similar chief law enforcement officer.
+    The required approval shall be evidenced by the Fire Chief or Fire
+    Prevention Officer and by the Police Chief or other similar chief law
+    enforcement officer, or the designee of the Police Chief or similar chief
+    law enforcement officer, signing a permit for the exhibition, the form for
+    which shall be prescribed by the State Fire Marshal. Any exhibitor of
+    fireworks who wishes to conduct a public fireworks exhibition may obtain a
+    copy of the form from the Fire Marshal or, if it is available, from the Fire
+    Chief, Fire Prevention Officer, Police Chief or other similar chief law
+    enforcement officer, or the designee of the Police Chief or similar chief
+    law enforcement officer.
 
 2. _(b)_ Before a permit is signed and issued to a licensed exhibitor of
 fireworks, the Fire Chief or Fire Prevention Officer in consultation with the
@@ -131,18 +132,19 @@ fact, the applicant for the permit is a licensed exhibitor of fireworks. Each
 applicant shall show the applicant’s license as an exhibitor of fireworks to the
 Fire Chief or Fire Prevention Officer.  
 
-The Fire Chief or Fire Prevention Officer and the Police Chief or other similar
-chief law enforcement officer, or a designee of such Police Chief or similar
-chief law enforcement officer, shall give approval to conduct a public fireworks
-exhibition only if satisfied, based on the inspection, that the premises on
-which the exhibition will be conducted allow the exhibitor to comply with the
-rules adopted by the Fire Marshal pursuant to Ohio R.C. 3743.53 (B) and (E) and
-that the applicant is, in fact, a licensed exhibitor of fireworks. The Fire
-Chief or Fire Prevention Officer in consultation with the Police Chief or other
-similar chief law enforcement officer, or a designee of such Police Chief or
-similar chief law enforcement officer, may inspect the premises immediately
-prior to the exhibition to determine if the exhibitor has complied with the
-rules, and may revoke the permit for noncompliance with the rules.
+    The Fire Chief or Fire Prevention Officer and the Police Chief or other
+    similar chief law enforcement officer, or a designee of such Police Chief or
+    similar chief law enforcement officer, shall give approval to conduct a
+    public fireworks exhibition only if satisfied, based on the inspection, that
+    the premises on which the exhibition will be conducted allow the exhibitor
+    to comply with the rules adopted by the Fire Marshal pursuant to Ohio R.C.
+    3743.53 (B) and (E) and that the applicant is, in fact, a licensed exhibitor
+    of fireworks. The Fire Chief or Fire Prevention Officer in consultation with
+    the Police Chief or other similar chief law enforcement officer, or a
+    designee of such Police Chief or similar chief law enforcement officer, may
+    inspect the premises immediately prior to the exhibition to determine if the
+    exhibitor has complied with the rules, and may revoke the permit for
+    noncompliance with the rules.
 
 3. _(c)_ The Fire Chief or Fire Prevention Officer and the Police Chief shall
 not issue a permit until the applicant pays a permit fee of one hundred twenty-
@@ -151,22 +153,22 @@ applicant and of inspecting the premises on which the exhibition will be
 conducted.  
 (Ord. 1990-79. Passed 10-8-90; Ord. 2005-28. Passed 6-13-05.)
 
-Each exhibitor shall provide an indemnity bond in the amount of at least one
-million dollars ($1,000,000), with surety satisfactory to the Fire Chief or Fire
-Prevention Officer and to Police Chief or other similar chief law enforcement
-officer, or a designee of such Police Chief or similar chief law enforcement
-officer, conditioned for the payment of all final judgments that may be rendered
-against the exhibitor on account of injury, death or loss to persons or property
-emanating from the fireworks exhibition, or proof of insurance coverage of at
-least one million dollars ($1,000,000) for liability arising from injury, death
-or loss to persons or property emanating from the fireworks exhibition. The
-Legislative Authority may require the exhibitor to provide an indemnity bond or
-proof of insurance coverage in amounts greater than those required by this
-subsection. The Fire Chief or Fire Prevention Officer and Police Chief or other
-similar chief law enforcement officer, or a designee of such Police Chief or
-similar chief law enforcement officer, shall not issue a permit until the
-exhibitor provides the bond or proof of the insurance coverage required by this
-subsection.
+    Each exhibitor shall provide an indemnity bond in the amount of at least one
+    million dollars ($1,000,000), with surety satisfactory to the Fire Chief or
+    Fire Prevention Officer and to Police Chief or other similar chief law
+    enforcement officer, or a designee of such Police Chief or similar chief law
+    enforcement officer, conditioned for the payment of all final judgments that
+    may be rendered against the exhibitor on account of injury, death or loss to
+    persons or property emanating from the fireworks exhibition, or proof of
+    insurance coverage of at least one million dollars ($1,000,000) for
+    liability arising from injury, death or loss to persons or property
+    emanating from the fireworks exhibition. The Legislative Authority may
+    require the exhibitor to provide an indemnity bond or proof of insurance
+    coverage in amounts greater than those required by this subsection. The Fire
+    Chief or Fire Prevention Officer and Police Chief or other similar chief law
+    enforcement officer, or a designee of such Police Chief or similar chief law
+    enforcement officer, shall not issue a permit until the exhibitor provides
+    the bond or proof of the insurance coverage required by this subsection.
 
 4. _(d)_
 
@@ -182,6 +184,7 @@ subsection.
     Police Chief or similar chief law enforcement officer, issuing it to the
     Fire Marshal, who shall keep a record of the permits received. A permit is
     not transferable or assignable.
+
     2. _(2)_ The Fire Chief, Fire Prevention Officer and Police Chief or other
     similar chief law enforcement officer, or a designee of such Police Chief or
     similar chief law enforcement officer, shall keep a record of issued permits
@@ -250,7 +253,7 @@ a prohibition of the discharge, ignition or explosion of fireworks purchased
 pursuant to Section R. C. 3743.45, intending to prohibit the discharge, ignition
 or explosion of fireworks on private property on any of the days set forth in
 Ohio R.C. 3743.45(b).  
-(Ord. 2022-05. Passed 3-14-22.)
+([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05-an-ordinance-amending-codified-ordinance-section-1519.04-to-prohibit-the-discharge-ignition-or-explosion-of-fireworks-on-certain-days-each-year.md %}))
 
 3. _(c)_ No person shall use in a theater or public hall, what is technically
 known as fireworks showers, or a mixture containing potassium chlorate and
@@ -263,12 +266,12 @@ other responsible adult. No person under eighteen years of age shall touch or
 possess fireworks on a licensed premises without the consent of the licensee. A
 licensee may eject any person from a licensed premises that is in any way
 disruptive to the safe operation of the premises.  
-(Ord. 2022-05. Passed 3-14-22.)
+([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05-an-ordinance-amending-codified-ordinance-section-1519.04-to-prohibit-the-discharge-ignition-or-explosion-of-fireworks-on-certain-days-each-year.md %}))
 
 5. _(e)_ Except as otherwise provided in Ohio R.C. 3743.44, no person, other
 than a licensed manufacturer, licensed wholesaler, licensed exhibitor, or
 shipping permit holder, shall possess 1.3 G fireworks or 1.4 G fireworks.  
-(Ord. 2022-05. Passed 3-14-22.)
+([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05-an-ordinance-amending-codified-ordinance-section-1519.04-to-prohibit-the-discharge-ignition-or-explosion-of-fireworks-on-certain-days-each-year.md %}))
 
 ## 1519.05   Application
 
@@ -314,6 +317,7 @@ exhibition complies with all of following:
 
     2. _(2)_ The exhibition is separated from spectators by not less than two
     hundred feet;
+
     3. _(3)_ The person conducting the exhibition complies with regulations of
     the Bureau of Alcohol, Tobacco and Firearms of the United States Department
     of the Treasury and the United States Department of Transportation with

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 9
 title_no: 5
 chapter_no: 931
@@ -55,6 +55,7 @@ Municipality’s water system. Such regulations shall have the same validity as
 an ordinance, and a current version shall be on file in the office of the
 Village Administrator.  
 (Ord. 2008-54. Passed 12-8-08.)
+
 2. _(b)_ Owners of property always remain responsible to the Municipality to
 pay for any water charges related to the property, and the owner is not
 relieved of the responsibility or obligation for payment of charges assessed to

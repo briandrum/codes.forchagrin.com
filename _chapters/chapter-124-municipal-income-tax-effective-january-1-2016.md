@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 1
 title_no: 5
 chapter_no: 124
@@ -186,6 +186,7 @@ the feminine and the gender-neutral.
         or accrued for purposes of federal self-employment tax.
 
     2. _(2)_
+
         1. _(a)_ "Assessment" means a written finding by the Tax Administrator
         that a person has underpaid municipal income tax, or owes penalty and
         interest, or any combination of tax, penalty, or interest, to the
@@ -1062,10 +1063,10 @@ telephone company that is subject to and required to file reports under Chapter
         used by the taxpayer in the business or profession during the same
         period, wherever situated.
 
-        As used in the preceding paragraph, tangible personal or real property
-        shall include property rented or leased by the taxpayer and the value of
-        such property shall be determined by multiplying the annual rental
-        thereon by eight;
+            As used in the preceding paragraph, tangible personal or real
+            property shall include property rented or leased by the taxpayer and
+            the value of such property shall be determined by multiplying the
+            annual rental thereon by eight;
 
         2. _(b)_ Wages, salaries, and other compensation paid during the taxable
         period to individuals employed in the business or profession for
@@ -1097,6 +1098,7 @@ telephone company that is subject to and required to file reports under Chapter
             3. _(iii)_ The inclusion of one or more additional factors that
             would provide for a more fair apportionment of the income of the
             taxpayer to the municipal corporation;
+
             4. _(iv)_ A modification of one or more of the factors.
 
         2. _(b)_ A taxpayer request to use an alternative apportionment method
@@ -1252,9 +1254,9 @@ the benefit of, the employee.
         Municipality in any month of the preceding calendar quarter exceeded
         $200.
 
-        Payments under division (B)(1)(a) of this section shall be made to the
-        Tax Administrator not later than fifteen (15) days after the last day of
-        each month for which the tax was withheld.
+            Payments under division (B)(1)(a) of this section shall be made to
+            the Tax Administrator not later than fifteen (15) days after the
+            last day of each month for which the tax was withheld.
 
         2. _(b)_ Any employer, agent of an employer, or other payer not required
         to make payments under division (B)(1)(a) of this section of taxes
@@ -1526,9 +1528,10 @@ the benefit of, the employee.
     Municipality, regardless of the number of days which the employee worked
     outside the corporate boundaries of the Municipality.
 
-    To determine whether an employer qualifies as a small employer for a taxable
-    year, the employer will be required to provide the Tax Administrator with
-    the employer’s federal income tax return for the preceding taxable year.
+        To determine whether an employer qualifies as a small employer for a
+        taxable year, the employer will be required to provide the Tax
+        Administrator with the employer’s federal income tax return for the
+        preceding taxable year.
 
     6. _(6)_ Divisions (C)(2)(a) and (4) of this section shall not apply to the
     extent that a Tax Administrator and an employer enter into an agreement
@@ -1575,6 +1578,7 @@ and filed by the fiduciary of the estate or trust.
 5. _(E)_ The Municipality shall permit spouses to file a joint return.
 
 6. _(F)_
+
     1. _(1)_ Each return required to be filed under this division shall contain
     the signature of the taxpayer or the taxpayer’s duly authorized agent and of
     the person who prepared the return for the taxpayer. The return shall
@@ -1605,12 +1609,12 @@ and filed by the fiduciary of the estate or trust.
     documentation necessary to support the refund request or the adjustments
     made in the amended return.
 
-    A taxpayer that is not an individual and that files an annual net profit
-    return electronically through the Ohio Business Gateway or in some other
-    manner shall either mail the documents required under this division to the
-    Tax Administrator at the time of filing or, if electronic submission is
-    available, submit the documents electronically through the Ohio Business
-    Gateway.
+        A taxpayer that is not an individual and that files an annual net profit
+        return electronically through the Ohio Business Gateway or in some other
+        manner shall either mail the documents required under this division to
+        the Tax Administrator at the time of filing or, if electronic submission
+        is available, submit the documents electronically through the Ohio
+        Business Gateway.
 
     4. _(4)_ After a taxpayer files a tax return, the Tax Administrator may
     request, and the taxpayer shall provide, any information, statements, or
@@ -1958,7 +1962,7 @@ affiliated group of which the taxpayer is a member.
     tax return shall do one of the following with respect to that pass-through
     entity’s net profit or loss for that taxable year:
 
-        1. (a) Exclude the pass-through entity’s net profit or loss from the
+        1. _(a)_ Exclude the pass-through entity’s net profit or loss from the
         consolidated federal taxable income of the affiliated group and, for the
         purpose of making the computations required in divisions (R) through (Y)
         of Section 124.05, exclude the property, payroll, and gross receipts of
@@ -2085,23 +2089,25 @@ municipality.
         than one date on the cover, the earliest date imprinted on the cover by
         the postal service.
 
-    2. _(2)_ Taxpayers filing joint returns shall file joint
-declarations of estimated taxes. A taxpayer may amend a declaration under rules
-prescribed by the Tax Administrator. A taxpayer having a taxable year of less
-than twelve months shall make a declaration under rules prescribed by the Tax
-Administrator.
-    3. _(3)_ The declaration of estimated taxes shall be filed on or
-before the date prescribed for the filing of municipal income tax returns under
-division (G) of Section 124.05 or on or before the fifteenth (15th) day of the fourth month after the
-taxpayer becomes subject to tax for the first time.
+    2. _(2)_ Taxpayers filing joint returns shall file joint declarations of
+    estimated taxes. A taxpayer may amend a declaration under rules prescribed
+    by the Tax Administrator. A taxpayer having a taxable year of less than
+    twelve months shall make a declaration under rules prescribed by the Tax
+    Administrator.
 
-    4. _(4)_ Taxpayers reporting on a fiscal year basis shall file a
-declaration on or before the fifteenth (15th) day of the fourth (4th) month
-after the beginning of each fiscal year or period.
+    3. _(3)_ The declaration of estimated taxes shall be filed on or before the
+    date prescribed for the filing of municipal income tax returns under
+    division (G) of Section 124.05 or on or before the fifteenth (15th) day of
+    the fourth month after the taxpayer becomes subject to tax for the first
+    time.
 
-    5. _(5)_ The original declaration or any subsequent amendment may
-be increased or decreased on or before any subsequent quarterly payment day as
-provided in this section.
+    4. _(4)_ Taxpayers reporting on a fiscal year basis shall file a declaration
+    on or before the fifteenth (15th) day of the fourth (4th) month after the
+    beginning of each fiscal year or period.
+
+    5. _(5)_ The original declaration or any subsequent amendment may be
+    increased or decreased on or before any subsequent quarterly payment day as
+    provided in this section.
 
 3. _(C)_
 
@@ -2413,10 +2419,12 @@ after the commission of the offense.
 3. _(C)_ A claim for a refund of municipal income taxes shall be brought within
 the time limitation provided in Section 124.09.
 
-4. _(D)_ (1) Notwithstanding the fact that an appeal is pending, the petitioner
-may pay all or a portion of the assessment that is the subject of the appeal.
-The acceptance of a payment by the Municipality does not prejudice any claim for
-refund upon final determination of the appeal.
+4. _(D)_
+
+    1. _(1)_ Notwithstanding the fact that an appeal is pending, the petitioner
+    may pay all or a portion of the assessment that is the subject of the
+    appeal. The acceptance of a payment by the Municipality does not prejudice
+    any claim for refund upon final determination of the appeal.
 
     2. _(2)_ If upon final determination of the appeal an error in the
     assessment is corrected by the Tax Administrator, upon an appeal so filed or
@@ -3270,30 +3278,32 @@ the Internal Revenue Code, adjusted as follows:
     group’s federal taxable income in accordance with division (E)(3)(b) of
     section 124.33 of the Codified Ordinances.
 
-    If the taxpayer is not a C corporation, is not a disregarded entity that has
-    made the election described in division (48)(b) of section 124.02 of the
-    Codified Ordinances, and is not a publicly traded partnership that has made
-    the election described in division (48)(b)of section 124.02 of the Codified
-    Ordinances, the taxpayer shall compute adjusted federal taxable income under
-    this section as if the taxpayer were a C corporation, except guaranteed
-    payments and other similar amounts paid or accrued to a partner, former
-    partner, shareholder, former shareholder, member, or former member shall not
-    be allowed as a deductible expense unless such payments are in consideration
-    for the use of capital and treated as payment of interest under section 469
-    of the Internal Revenue Code or United States treasury regulations.
+        If the taxpayer is not a C corporation, is not a disregarded entity that
+        has made the election described in division (48)(b) of section 124.02 of
+        the Codified Ordinances, and is not a publicly traded partnership that
+        has made the election described in division (48)(b)of section 124.02 of
+        the Codified Ordinances, the taxpayer shall compute adjusted federal
+        taxable income under this section as if the taxpayer were a C
+        corporation, except guaranteed payments and other similar amounts paid
+        or accrued to a partner, former partner, shareholder, former
+        shareholder, member, or former member shall not be allowed as a
+        deductible expense unless such payments are in consideration for the use
+        of capital and treated as payment of interest under section 469 of the
+        Internal Revenue Code or United States treasury regulations.
     
-    Amounts paid or accrued to a qualified self-employed retirement plan with
-    respect to a partner, former partner, shareholder, former shareholder,
-    member, or former member of the taxpayer, amounts paid or accrued to or for
-    health insurance for a partner, former partner, shareholder, former
-    shareholder, member, or former member, and amounts paid or accrued to or for
-    life insurance for a partner, former partner, shareholder, former
-    shareholder, member, or former member shall not be allowed as a deduction.
+        Amounts paid or accrued to a qualified self-employed retirement plan
+        with respect to a partner, former partner, shareholder, former
+        shareholder, member, or former member of the taxpayer, amounts paid or
+        accrued to or for health insurance for a partner, former partner,
+        shareholder, former shareholder, member, or former member, and amounts
+        paid or accrued to or for life insurance for a partner, former partner,
+        shareholder, former shareholder, member, or former member shall not be
+        allowed as a deduction.
     
-    Nothing in division (B) of this section shall be construed as allowing the
-    taxpayer to add or deduct any amount more than once or shall be construed as
-    allowing any taxpayer to deduct any amount paid to or accrued for purposes
-    of federal self-employment tax.
+        Nothing in division (B) of this section shall be construed as allowing
+        the taxpayer to add or deduct any amount more than once or shall be
+        construed as allowing any taxpayer to deduct any amount paid to or
+        accrued for purposes of federal self-employment tax.
 
 3. _(C)_ "Taxpayer" has the same meaning as in section 124.02 of the Codified
 Ordinances, except that "taxpayer" does not include natural persons or entities
@@ -3342,10 +3352,10 @@ proportion as the average ratio of the following:
     used by the taxpayer in the business or profession during the same period,
     wherever situated.
 
-    As used in the preceding paragraph, tangible personal or real property shall
-    include property rented or leased by the taxpayer and the value of such
-    property shall be determined by multiplying the annual rental thereon by
-    eight;
+        As used in the preceding paragraph, tangible personal or real property
+        shall include property rented or leased by the taxpayer and the value of
+        such property shall be determined by multiplying the annual rental
+        thereon by eight;
  
     2. _(2)_ Wages, salaries, and other compensation paid during the taxable
     period to individuals employed in the business or profession for services
@@ -4091,26 +4101,26 @@ the clerk of the court of common pleas in the county in which the taxpayer has
 an office or place of business in this state, the county in which the taxpayer’s
 statutory agent is located, or Franklin County.  
 
-Immediately upon the filing of the entry, the clerk shall enter a judgment
-against the taxpayer assessed in the amount shown on the entry. The judgment may
-be filed by the clerk in a loose-leaf book entitled "special judgments for
-municipal income taxes," and shall have the same effect as other judgments.
-Execution shall issue upon the judgment upon the request of the Tax
-Commissioner, and all laws applicable to sales on execution shall apply to sales
-made under the judgment.  
+    Immediately upon the filing of the entry, the clerk shall enter a judgment
+    against the taxpayer assessed in the amount shown on the entry. The judgment
+    may be filed by the clerk in a loose-leaf book entitled "special judgments
+    for municipal income taxes," and shall have the same effect as other
+    judgments. Execution shall issue upon the judgment upon the request of the
+    Tax Commissioner, and all laws applicable to sales on execution shall apply
+    to sales made under the judgment.  
 
-If the assessment is not paid in its entirety within sixty days after the day
-the assessment was issued, the portion of the assessment consisting of tax due
-shall bear interest at the rate per annum prescribed by section 5703.47 of the
-Revised Code from the day the Tax Commissioner issues the assessment until the
-assessment is paid or until it is certified to the attorney general for
-collection under section 131.02 of the Revised Code, whichever comes first. If
-the unpaid portion of the assessment is certified to the attorney general for
-collection, the entire unpaid portion of the assessment shall bear interest at
-the rate per annum prescribed by section 5703.47 of the Revised Code from the
-date of certification until the date it is paid in its entirety. Interest shall
-be paid in the same manner as the tax and may be collected by issuing an
-assessment under this section.
+    If the assessment is not paid in its entirety within sixty days after the
+    day the assessment was issued, the portion of the assessment consisting of
+    tax due shall bear interest at the rate per annum prescribed by section
+    5703.47 of the Revised Code from the day the Tax Commissioner issues the
+    assessment until the assessment is paid or until it is certified to the
+    attorney general for collection under section 131.02 of the Revised Code,
+    whichever comes first. If the unpaid portion of the assessment is certified
+    to the attorney general for collection, the entire unpaid portion of the
+    assessment shall bear interest at the rate per annum prescribed by section
+    5703.47 of the Revised Code from the date of certification until the date it
+    is paid in its entirety. Interest shall be paid in the same manner as the
+    tax and may be collected by issuing an assessment under this section.
 
 4. _(D)_ All money collected under this section shall be credited to the
 municipal income tax fund and distributed to the municipal corporation to which
@@ -4137,15 +4147,15 @@ the taxpayer may pay all or a portion of the assessment that is the subject of
 the petition. The acceptance of a payment by the treasurer of state does not
 prejudice any claim for refund upon final determination of the petition.  
 
-If upon final determination of the petition an error in the assessment is
-corrected by the Tax Commissioner, upon petition so filed or pursuant to a
-decision of the board of tax appeals or any court to which the determination or
-decision has been appealed, so that the amount due from the taxpayer under the
-corrected assessment is less than the portion paid, there shall be issued to the
-taxpayer, its assigns, or legal representative a refund in the amount of the
-overpayment as provided by section 124.38 of the Codified Ordinances, with
-interest on that amount as provided by that section.  
-(Ord. 2018-22. Passed 3-26-18.)
+    If upon final determination of the petition an error in the assessment is
+    corrected by the Tax Commissioner, upon petition so filed or pursuant to a
+    decision of the board of tax appeals or any court to which the determination
+    or decision has been appealed, so that the amount due from the taxpayer
+    under the corrected assessment is less than the portion paid, there shall be
+    issued to the taxpayer, its assigns, or legal representative a refund in the
+    amount of the overpayment as provided by section 124.38 of the Codified
+    Ordinances, with interest on that amount as provided by that section.  
+    (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.38   Refund applications
 
@@ -4266,8 +4276,7 @@ authorize the practice of law by a person who is not an attorney.
 
 4. _(D)_ No person issued written notice by the Tax Commissioner compelling
 attendance at a hearing or examination or the production of books, papers,
-records, or federal income tax returns under this section shall fail to comply. 
-
+records, or federal income tax returns under this section shall fail to comply.  
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.41   Reckless violations; penalties

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 0
 article_no: 7
 title: "Article VII: Administrative Officers, Departments, Boards and Commissions"

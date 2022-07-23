@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 11
 title_no: 5
 chapter_no: 1144
@@ -36,9 +36,9 @@ of this Planning and Zoning Code.
 
 2. _(b)_ **Noise.** No use shall emit noise in violation of Section 509.08.
 
-3. _(c)_ Fire, Explosive and Radioactive Hazards. Storage, handling and use of
-flammable and explosive material shall be conducted with adequate safeguards as
-set forth in the published NFPA Codes of the National Fire Protection
+3. _(c)_ **Fire, Explosive and Radioactive Hazards.** Storage, handling and use
+of flammable and explosive material shall be conducted with adequate safeguards
+as set forth in the published NFPA Codes of the National Fire Protection
 Association and as may hereafter be amended, supplemented or replaced, and in
 compliance with the regulations of the U. S. Department of Labor and Industry.
 Storage of other materials shall comply with fire protection codes of the
@@ -57,8 +57,8 @@ matter in such quantities as to produce a nuisance, as defined in Chapter 1340
 of the Codified Ordinances of the Municipality, or a health or safety hazard
 beyond the lot occupied by the use.
 
-6. _(f)_ Air-Borne Pollution. There shall be no emissions of noxious, toxic or
-corrosive fumes or gases and no emissions of dust or other particulate matter
+6. _(f)_ **Air-Borne Pollution.** There shall be no emissions of noxious, toxic
+or corrosive fumes or gases and no emissions of dust or other particulate matter
 injurious to health, vegetation or property beyond the lot occupied by the use.
 Stack and vent emissions are further regulated in Section 1331.05 of the
 Building Code.
@@ -100,7 +100,7 @@ are reasonable grounds for same, may request that the Municipal Engineer or
 other qualified professional determine the existence and nature of such
 violation.
 
-2. _(b)_ Payment of Costs of Determination. The cost of engineering services
+2. _(b)_ **Payment of Costs of Determination.** The cost of engineering services
 incurred by the Municipality in establishing a violation shall be paid by the
 violator if such violation is established. If no violation is established, the
 cost shall be borne by the Municipality.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 13
 title_no: 5
 chapter_no: 1355
@@ -710,8 +710,8 @@ Environmental Protection Agency and shall include the following information:
                 1. _(a)_ Storage volume provided below the elevation at which
                 the skimmer or other surface dewatering device is attached
 
-                2. (b Elevation at which the skimmer or other surface dewatering
-                device is attached
+                2. _(b)_ Elevation at which the skimmer or other surface
+                dewatering device is attached
 
                 3. _(c)_ Elevation at which the full dewatering zone is stored
                 above the skimmer invert
@@ -852,25 +852,25 @@ must meet the following requirements:
     1. _(1)_ **Stabilization.** Disturbed areas must be stabilized as specified
     in Tables 1 and 2 below.
 
-    **Table 1: Permanent Stabilization**
+        **Table 1: Permanent Stabilization**
 
-    | Area requiring permanent stabilization                                      | Time frame to apply erosion controls                    |
-    |-----------------------------------------------------------------------------|---------------------------------------------------------|
-    | Any area that will lie dormant for one year or more.                        | Within 7 days of the most recent disturbance.           |
-    | Any area within 50 feet of a surface water of the state and at final grade. | Within 2 days of reaching final grade.                  |
-    | Any other areas at final grade.                                             | Within 7 days of reaching final grade within that area. |
+        | Area requiring permanent stabilization                                      | Time frame to apply erosion controls                    |
+        |-----------------------------------------------------------------------------|---------------------------------------------------------|
+        | Any area that will lie dormant for one year or more.                        | Within 7 days of the most recent disturbance.           |
+        | Any area within 50 feet of a surface water of the state and at final grade. | Within 2 days of reaching final grade.                  |
+        | Any other areas at final grade.                                             | Within 7 days of reaching final grade within that area. |
 
-    **Table 2: Temporary Stabilization**
+        **Table 2: Temporary Stabilization**
 
-    | Area requiring temporary stabilization                                                                                                                                                                    | Time frame to apply erosion controls                                                                                                                            |
-    |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | Any disturbed area within 50 feet of a surface water of the state and not at final grade.                                                                                                                 | Within 2 days of the most recent disturbance if that area will remain idle for more than 14 days. Within 7 days of the most recent disturbance within the area. |
-    | For all construction activities, any disturbed area, including soil stockpiles that will be dormant for more than 14 days but less than one year, and not within 50 feet of a surface water of the state. | For residential subdivisions, disturbed areas must be stabilized at least 7 days prior to transfer of ownership or operational responsibility.                  |
-    | Disturbed areas that will be idle over winter.                                                                                                                                                            | Prior to November 1 or the onset of winter weather, whichever occurs first.                                                                                     |
+        | Area requiring temporary stabilization                                                                                                                                                                    | Time frame to apply erosion controls                                                                                                                            |
+        |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+        | Any disturbed area within 50 feet of a surface water of the state and not at final grade.                                                                                                                 | Within 2 days of the most recent disturbance if that area will remain idle for more than 14 days. Within 7 days of the most recent disturbance within the area. |
+        | For all construction activities, any disturbed area, including soil stockpiles that will be dormant for more than 14 days but less than one year, and not within 50 feet of a surface water of the state. | For residential subdivisions, disturbed areas must be stabilized at least 7 days prior to transfer of ownership or operational responsibility.                  |
+        | Disturbed areas that will be idle over winter.                                                                                                                                                            | Prior to November 1 or the onset of winter weather, whichever occurs first.                                                                                     |
 
-    Note: Where vegetative stabilization techniques may cause structural
-    instability or are otherwise unobtainable, alternative stabilization
-    techniques must be employed.
+        Note: Where vegetative stabilization techniques may cause structural
+        instability or are otherwise unobtainable, alternative stabilization
+        techniques must be employed.
 
     2. _(2)_ **Permanent stabilization of conveyance channels.** Applicants
     shall undertake special measures to stabilize channels and outfalls and
@@ -933,69 +933,74 @@ Sediment control must meet the following requirements:
         3. _(C)_ Runoff from common drainage locations with 10 or more acres of
         disturbed land.
 
-        Sediment settling ponds shall be provided in the form of a sediment trap
-        or sediment basin as defined in the latest edition of Rainwater and Land
-        Development. The maximum allowable contributing drainage area to a
-        sediment trap shall be limited to less than 5 acres. Contributing
-        drainage areas of 5 acres or more shall be treated with a sediment
-        basin. An equivalent best management practice may be utilized upon
-        approval from the Village of Chagrin Falls.
+            Sediment settling ponds shall be provided in the form of a sediment
+            trap or sediment basin as defined in the latest edition of Rainwater
+            and Land Development. The maximum allowable contributing drainage
+            area to a sediment trap shall be limited to less than 5 acres.
+            Contributing drainage areas of 5 acres or more shall be treated with
+            a sediment basin. An equivalent best management practice may be
+            utilized upon approval from the Village of Chagrin Falls.
 
-        The sediment-settling pond shall provide both a sediment storage zone
-        and a dewatering zone. The volume of the dewatering zone shall be at
-        least 1,800 cubic feet of storage per acre of total contributing
-        drainage area. The dewatering structure of sediment basins shall be
-        designed to have a minimum 48- hour drain time, and, unless infeasible,
-        be designed to always withdraw runoff from the surface of the pond
-        throughout the storm cycle. As such, a skimmer discharge device
-        consistent with Rainwater and Land Development shall be provided to
-        dewater sediment basins. Sediment traps shall also provide both a
-        sediment storage zone and dewatering zone, but the outlet structure
-        shall be constructed consistent with the specifications contained in the
-        latest edition of Rainwater and Land Development.
+            The sediment-settling pond shall provide both a sediment storage
+            zone and a dewatering zone. The volume of the dewatering zone shall
+            be at least 1,800 cubic feet of storage per acre of total
+            contributing drainage area. The dewatering structure of sediment
+            basins shall be designed to have a minimum 48- hour drain time, and,
+            unless infeasible, be designed to always withdraw runoff from the
+            surface of the pond throughout the storm cycle. As such, a skimmer
+            discharge device consistent with Rainwater and Land Development
+            shall be provided to dewater sediment basins. Sediment traps shall
+            also provide both a sediment storage zone and dewatering zone, but
+            the outlet structure shall be constructed consistent with the
+            specifications contained in the latest edition of Rainwater and Land
+            Development.
 
-        When post-construction detention/water quality ponds are to be used as
-        temporary sediment trapping BMPs, a skimmer discharge device consistent
-        with Rainwater and Land Development shall be utilized during
-        construction phase and until the site is deemed permanently stabilized
-        by the Village of Chagrin Falls.
+            When post-construction detention/water quality ponds are to be used
+            as temporary sediment trapping BMPs, a skimmer discharge device
+            consistent with Rainwater and Land Development shall be utilized
+            during construction phase and until the site is deemed permanently
+            stabilized by the Village of Chagrin Falls.
 
-        The skimmer shall be designed per the equivalent requirements of
-        sediment basins and the operator must ensure that the outlet structure
-        of the pond provides an equivalent or better sediment storage zone and
-        dewatering zone. As such, temporarily while the site is under
-        construction, there shall be no discharge of runoff below the elevation
-        required for the sediment storage zone and the discharge of stormwater
-        within the dewatering zone shall only occur through the skimmer.
+            The skimmer shall be designed per the equivalent requirements of
+            sediment basins and the operator must ensure that the outlet
+            structure of the pond provides an equivalent or better sediment
+            storage zone and dewatering zone. As such, temporarily while the
+            site is under construction, there shall be no discharge of runoff
+            below the elevation required for the sediment storage zone and the
+            discharge of stormwater within the dewatering zone shall only occur
+            through the skimmer.
 
-        The volume of the sediment storage zone shall be calculated by one of
-        the following methods:
+            The volume of the sediment storage zone shall be calculated by one
+            of the following methods:
 
-        * **Method 1:** The volume of the sediment storage zone shall be 1000ft³
-        per disturbed acre within the watershed of the basin.
+            * **Method 1:** The volume of the sediment storage zone shall be
+            1000ft³ per disturbed acre within the watershed of the basin.
 
-        * **Method 2:** The volume of the sediment storage zone shall be the
-        volume necessary to store the sediment as calculated with Revised
-        Universal Soil Loss Equation (RUSLE) or other generally accepted erosion
-        prediction model.
+            * **Method 2:** The volume of the sediment storage zone shall be the
+            volume necessary to store the sediment as calculated with Revised
+            Universal Soil Loss Equation (RUSLE) or other generally accepted
+            erosion prediction model.
 
-        When determining the total contributing drainage area, off-site areas and areas
-        which remain undisturbed by construction activity must be included unless
-        runoff from these areas is diverted away from the sediment settling pond and is
-        not co-mingled with sediment-laden runoff. The depth of the dewatering zone
-        must be less than or equal to five (5) feet. The configuration between the
-        inlets and the outlet of the sediment-settling pond must provide at least two
-        units of length for each one unit of width ? 2:1 length-to-width ratio;
-        however, a length to width ratio of ? 4:1 is recommended. Sediment must be
-        removed from the sediment-settling pond when the design capacity of the
-        sediment storage zone has been completely filled by sediment accumulations has
-        been reduced by 40 percent. This limit is typically reached when sediment
-        occupies one-half of the basin depth. When designing sediment settling ponds,
-        the applicant must consider public safety, especially as it relates to
-        children, as a design factor for the sediment basin and alternative sediment
-        controls must be used where site limitations would preclude a safe design. The
-        use of a combination of sediment and erosion control measures in order to
-        achieve maximum pollutant removal is encouraged.
+            When determining the total contributing drainage area, off-site
+            areas and areas which remain undisturbed by construction activity
+            must be included unless runoff from these areas is diverted away
+            from the sediment settling pond and is not co-mingled with
+            sediment-laden runoff. The depth of the dewatering zone must be less
+            than or equal to five (5) feet. The configuration between the inlets
+            and the outlet of the sediment-settling pond must provide at least
+            two units of length for each one unit of width (>2:1 length-to-width
+            ratio); however, a length to width ratio of > 4:1 is recommended.
+            Sediment must be removed from the sediment-settling pond when the
+            design capacity of the sediment storage zone has been completely
+            filled by sediment accumulations has been reduced by 40 percent.
+            This limit is typically reached when sediment occupies one-half of
+            the basin depth. When designing sediment settling ponds, the
+            applicant must consider public safety, especially as it relates to
+            children, as a design factor for the sediment basin and alternative
+            sediment controls must be used where site limitations would preclude
+            a safe design. The use of a combination of sediment and erosion
+            control measures in order to achieve maximum pollutant removal is
+            encouraged.
 
     3. _(3)_ **Silt fence and diversions.** Sheet flow runoff from denuded areas
     shall be intercepted by silt fence or diversions to protect adjacent
@@ -1006,13 +1011,13 @@ Sediment control must meet the following requirements:
     particular slope range is shown in Table 3 below. Placing silt fence in a
     parallel series does not extend the size of the permissible drainage area.
 
-    **Table 3: Maximum Drainage Area to Silt Fence Based on Slope**
+        **Table 3: Maximum Drainage Area to Silt Fence Based on Slope**
 
-    | Maximum Drainage Area (acres) to 100 linear feet of silt fence | Range of slope for a drainage area (%) |
-    |---------------------------------------------------------------:|---------------------------------------:|
-    |                                                            0.5 |                                    <2% |
-    |                                                           0.25 |                         > 2% but < 20% |
-    |                                                          0.125 |                        > 20% but < 50% |
+        | Maximum Drainage Area (acres) to 100 linear feet of silt fence | Range of slope for a drainage area (%) |
+        |---------------------------------------------------------------:|---------------------------------------:|
+        |                                                            0.5 |                                    <2% |
+        |                                                           0.25 |                         > 2% but < 20% |
+        |                                                          0.125 |                        > 20% but < 50% |
 
     4. _(4)_ Alternative perimeter controls for sheet flow discharges may be
     considered by the Village of Chagrin Falls, but their use shall not exceed
@@ -1053,9 +1058,9 @@ Sediment control must meet the following requirements:
         from sediment-laden runoff, if feasible without posing a public safety
         hazard.
 
-        Based on site conditions, Village of Chagrin Falls Engineer and/or the
-        Cuyahoga SWCD may require additional best management to control off site
-        tracking and dust. These additional BMPs may include:
+            Based on site conditions, Village of Chagrin Falls Engineer and/or
+            the Cuyahoga SWCD may require additional best management to control
+            off site tracking and dust. These additional BMPs may include:
 
         3. _(C)_ Fencing shall be installed around the perimeter of the
         development area to ensure that all vehicle traffic adheres to
@@ -1193,16 +1198,17 @@ Sediment control must meet the following requirements:
             other such methods to prevent storm water from coming into contact
             with contaminated materials.
 
-            The SWP3 must include methods to minimize the exposure of building
-            materials, building products, construction wastes, trash, landscape
-            materials, fertilizers, pesticides, herbicides, detergents, and
-            sanitary waste to precipitation, stormwater runoff, and snow melt.
-            The SWP3 shall include measures to prevent and respond to chemical
-            spills and leaks. Applicants may also reference the existence of
-            other plans (i.e., Spill Prevention Control and Countermeasure
-            (SPCC) plans, spill control programs, Safety Response Plans, etc.)
-            provided that such plan addresses this requirement and a copy of
-            such plan is maintained on site.
+                The SWP3 must include methods to minimize the exposure of
+                building materials, building products, construction wastes,
+                trash, landscape materials, fertilizers, pesticides, herbicides,
+                detergents, and sanitary waste to precipitation, stormwater
+                runoff, and snow melt. The SWP3 shall include measures to
+                prevent and respond to chemical spills and leaks. Applicants may
+                also reference the existence of other plans (i.e., Spill
+                Prevention Control and Countermeasure (SPCC) plans, spill
+                control programs, Safety Response Plans, etc.) provided that
+                such plan addresses this requirement and a copy of such plan is
+                maintained on site.
 
 6. _(f)_ **Compliance with Other Requirements.** The SWP3 shall be consistent
 with applicable State and/or local waste disposal, sanitary sewer, or septic

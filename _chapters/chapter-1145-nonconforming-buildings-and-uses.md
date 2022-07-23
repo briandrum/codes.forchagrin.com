@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 11
 title_no: 5
 chapter_no: 1145
@@ -142,11 +142,11 @@ required to provide additional parking for the increased parking requirement
 unless it results from an increase in the floor area due to an expansion of an
 existing building.
 
-6. _(f)_ Nonconforming as to Performance Standards. A building or use existing
-lawfully at the time this Code became effective, but which is nonconforming as
-to one or more of the performance standards shall not be required to conform
-therewith except at such times that the use is changed or the building is
-altered.  
+6. _(f)_ **Nonconforming as to Performance Standards.** A building or use
+existing lawfully at the time this Code became effective, but which is
+nonconforming as to one or more of the performance standards shall not be
+required to conform therewith except at such times that the use is changed or
+the building is altered.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1145.04   Nonconforming use of land
@@ -171,16 +171,16 @@ with the area and/or width requirements of the district in which it is located
 on the effective date of this Planning and Zoning Code or any amendment thereto
 may be used as follows:
 
-    1. _(1)_ Single lots. If a vacant nonconforming lot does not adjoin another
-    lot with continuous frontage and under common ownership on the effective
-    date of this Code or applicable amendment thereto, such lot may be developed
-    provided that such development complies with all regulations of this
-    Planning and Zoning Code except those pertaining to lot width and area.
+    1. _(1)_ **Single lots.** If a vacant nonconforming lot does not adjoin
+    another lot with continuous frontage and under common ownership on the
+    effective date of this Code or applicable amendment thereto, such lot may be
+    developed provided that such development complies with all regulations of
+    this Planning and Zoning Code except those pertaining to lot width and area.
 
-    2. _(2)_ Lots in combination. If a vacant nonconforming lot adjoins one or
-    more lots with continuous frontage and in common ownership on the effective
-    date of this Code or applicable amendment thereto, such lot shall be
-    replatted to create conforming lots as a prerequisite for development.
+    2. _(2)_ **Lots in combination.** If a vacant nonconforming lot adjoins one
+    or more lots with continuous frontage and in common ownership on the
+    effective date of this Code or applicable amendment thereto, such lot shall
+    be replatted to create conforming lots as a prerequisite for development.
     Transfer of one or more of such lots to a third party, in order to avoid the
     requirements of this paragraph, shall result in a determination that the
     lots remain in common ownership. However, if replatting of such lots cannot

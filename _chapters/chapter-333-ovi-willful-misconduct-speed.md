@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 3
 title_no: 5
 chapter_no: 333
@@ -586,18 +586,19 @@ wanton misconduct.
             addition to the ten-day mandatory jail term. The cumulative jail
             term imposed for the offense shall not exceed six months.
 
-            In addition to the jail term or the term of house arrest with
-            electronic monitoring or continuous alcohol monitoring or both types
-            of monitoring and jail term, the court shall require the offender to
-            be assessed by a community addiction services provider that is
-            authorized by Ohio R.C. 5119.21, subject to subsection (k) of this
-            section, and shall order the offender to follow the treatment
-            recommendations of the services provider. The purpose of the
-            assessment is to determine the degree of the offender’s alcohol
-            usage and to determine whether or not treatment is warranted. Upon
-            the request of the court, the services provider shall submit the
-            results of the assessment to the court, including all treatment
-            recommendations and clinical diagnoses related to alcohol use.
+                In addition to the jail term or the term of house arrest with
+                electronic monitoring or continuous alcohol monitoring or both
+                types of monitoring and jail term, the court shall require the
+                offender to be assessed by a community addiction services
+                provider that is authorized by Ohio R.C. 5119.21, subject to
+                subsection (k) of this section, and shall order the offender to
+                follow the treatment recommendations of the services provider.
+                The purpose of the assessment is to determine the degree of the
+                offender’s alcohol usage and to determine whether or not
+                treatment is warranted. Upon the request of the court, the
+                services provider shall submit the results of the assessment to
+                the court, including all treatment recommendations and clinical
+                diagnoses related to alcohol use.
 
             2. _(2)_ If the sentence is being imposed for a violation of
             subsection (a)(1)F., G., H. or I. or (a)(2) of this section, except

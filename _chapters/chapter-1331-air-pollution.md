@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 13
 title_no: 5
 chapter_no: 1331
@@ -114,7 +114,7 @@ family dwelling units.
 The following limitations are to apply for emissions from any stack or vent
 within the Municipality:
 
-1. _(a)_ Smoke.
+1. _(a)_ **Smoke.**
 
     | Ringleman Chart No. | Incinerators   | Combustion Devices Other Than Incinerators |
     |---------------------|----------------|--------------------------------------------|
@@ -129,10 +129,10 @@ within the Municipality:
 
     2. _(2)_ During initial firing from complete shutdown.
 
-2. _(b)_ Gases, Fumes and Other Pollution. No emission of poisonous, obnoxious,
-pungent or ill-smelling gases, fumes or other air pollutants are permitted from
-any stack or from any other source in the Municipality so as to cause a nuisance
-or create a health hazard.
+2. _(b)_ **Gases, Fumes and Other Pollution.** No emission of poisonous,
+obnoxious, pungent or ill-smelling gases, fumes or other air pollutants are
+permitted from any stack or from any other source in the Municipality so as to
+cause a nuisance or create a health hazard.
 
 3. _(c)_ **Dust or Fumes.** No emission with color other than black is to be
 discharged in excess of a No. 2 Ringleman Chart density or opacity. An exception
@@ -168,7 +168,7 @@ combustible refuse, waste material, motor vehicles or any part thereof, within
 the corporate limits of the Municipality in any open fire or any other device or
 manner except a wood-burning fireplace.
 
-3. _(c)_ Exceptions.
+3. _(c)_ **Exceptions.**
 
     1. _(1)_ Open fires shall be permitted for recreational purposes.
 

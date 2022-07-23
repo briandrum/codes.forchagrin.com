@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 11
 title_no: 5
 chapter_no: 1153
@@ -140,6 +140,7 @@ with the following:
     1. _(1)_ Solar panels shall not be visible from any street or sidewalk at
     the front elevation of the property unless approved in accordance with
     procedures set forth in subsection (d) herein.
+
     2. _(2)_ Solar panels shall not extend beyond the edge of the roof.
 
     3. _(3)_ For pitched roofs (sloped in excess of three (3) inches per foot),

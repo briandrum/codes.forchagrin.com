@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 3
 title_no: 1
 chapter_no: 303
@@ -774,15 +774,15 @@ of this Traffic Code shall be imprisoned for a definite term or fined, or both,
 which term of imprisonment and fine shall be fixed by the court as provided in
 this section.
 
-| Classification of Misdemeanor Maximum Term of Imprisonment |   Maximum Fine |
-|-----------------------------------------------------------:|---------------:|
-| First degree                                      180 days |      $1,000.00 |
-| Second degree                                      90 days |         750.00 |
-| Third degree                                       60 days |         500.00 |
-| Fourth degree                                      30 days |         250.00 |
-| Minor                                      No imprisonment |         150.00 |
+    | Classification of Misdemeanor Maximum Term of Imprisonment |   Maximum Fine |
+    |-----------------------------------------------------------:|---------------:|
+    | First degree                                      180 days |      $1,000.00 |
+    | Second degree                                      90 days |         750.00 |
+    | Third degree                                       60 days |         500.00 |
+    | Fourth degree                                      30 days |         250.00 |
+    | Minor                                      No imprisonment |         150.00 |
 
-(ORC 2929.24; 2929.28)
+    (ORC 2929.24; 2929.28)
 
 ### 303.991   Committing an offense while distracted penalty
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 3
 title_no: 5
 chapter_no: 337
@@ -1345,8 +1345,10 @@ misdemeanor.
         1. _(A)_ A motor vehicle is not equipped with a front and rear bumper.
 
         2. _(B)_ The bumper height relative to the frame rails has been altered.
+
         3. _(C)_ A supplemental bumper has been installed or an addition to the
-        original or replacement has been made. (OAC 4501-43-04)
+        original or replacement has been made.  
+        (OAC 4501-43-04)
 
 4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
 (ORC 4513.99)

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 5
 title_no: 0
 chapter_no: 513
@@ -706,6 +706,7 @@ or a controlled substance analog.
             the basis of the offense was obtained as a result of the qualified
             individual seeking the medical assistance or experiencing an
             overdose and needing medical assistance.
+
             2. _(2)_ Subject to subsection (b)(2)G. of this section, within
             thirty days after seeking or obtaining the medical assistance, the
             qualified individual seeks and obtains a screening and receives a
@@ -1067,9 +1068,9 @@ this section as long as any of the original contents remain.
 6. _(f)_ Every label for a schedule II, III or IV controlled substance shall
 contain the following warning:
 
-“Caution: federal law prohibits the transfer of this drug to any person other
-than the patient for whom it was prescribed”.  
-(ORC 3719.08)
+    “Caution: federal law prohibits the transfer of this drug to any person
+    other than the patient for whom it was prescribed”.  
+    (ORC 3719.08)
 
 7. _(g)_ Whoever violates this section is guilty of a misdemeanor of the first
 degree. If the offender has previously been convicted of a violation of this

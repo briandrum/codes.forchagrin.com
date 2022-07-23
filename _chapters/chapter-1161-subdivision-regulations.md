@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 11
 title_no: 7
 chapter_no: 1161
@@ -860,7 +860,7 @@ Material Specifications" of the State Department of Transportation and the
 requirements of the State EPA. All inspection costs shall be paid for by the
 subdivider.
 
-4. _(d)_ Performance Guarantee in Lieu of Installation.
+4. _(d)_ **Performance Guarantee in Lieu of Installation.**
 
     1. _(1)_ **Type of guarantees.** The developer may execute and file with the
     Village, financial guarantees in lieu of actual installation or completion
@@ -975,8 +975,8 @@ pavement shall be reinforced and have an overall thickness of ten inches of
 which three inches shall be Item 310 Subbase and seven inches of Item 451
 Reinforced Portland Cement Concrete Pavement.
 
-14. _(n)_ Full-Depth Asphalt Pavement. Full-depth asphalt pavement shall have an
-overall thickness of eight inches of which six inches shall be Item 301
+14. _(n)_ **Full-Depth Asphalt Pavement.** Full-depth asphalt pavement shall
+have an overall thickness of eight inches of which six inches shall be Item 301
 Bituminous Aggregate Base and two inches of Item 404 Asphalt Concrete.
 
 15. _(o)_ **Street Curbs and Gutters.** The reinforced concrete pavements shall
@@ -1099,11 +1099,11 @@ accepted by the City of Cleveland, Northeast Ohio Regional Sewer District,
 Cuyahoga County Sanitary Engineer and the Northeast Ohio Municipal Engineers
 Association.
 
-25. _(y)_ Storm Sewers and Storm Water Drainage. A storm sewer system meeting
-all requirements of the Uniform Rules, Regulations and Standards for the Design
-and Construction of Sewerage Improvements prepared and accepted by the City of
-Cleveland, the Northeast Ohio Regional Sewer District, the Cuyahoga County
-Engineer and the Northeast Ohio Municipal Engineers Association shall be
+25. _(y)_ **Storm Sewers and Storm Water Drainage.** A storm sewer system
+meeting all requirements of the Uniform Rules, Regulations and Standards for the
+Design and Construction of Sewerage Improvements prepared and accepted by the
+City of Cleveland, the Northeast Ohio Regional Sewer District, the Cuyahoga
+County Engineer and the Northeast Ohio Municipal Engineers Association shall be
 constructed within the proposed subdivision. The following additional
 requirements shall govern the provision of storm water drainage facilities and
 improvements not covered in the document referred to above.
@@ -1285,7 +1285,7 @@ the subdivider.
         for the purpose of study and recommendation. Review and make
         recommendations.
 
-    4. _(4)_ Planning and Zoning Commission.
+    4. _(4)_ Planning and Zoning Commission:
 
         1. _(A)_ After reviewing reports from officials, a presentation if
         desired, by the applicant subdivider, and open discussion, the
@@ -1329,7 +1329,7 @@ provide:
     shall not expire earlier than the effective period of any maintenance bond.
     A copy shall be filed and remain at the Village Clerk’s office.
 
-    4. _(4)_ Inspection of improvements during construction. The subdivider
+    4. _(4)_ **Inspection of improvements during construction.** The subdivider
     shall contact the Village Engineer at least forty-eight hours before any
     construction requiring inspection.
 

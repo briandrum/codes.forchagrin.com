@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 3
 title_no: 1
 chapter_no: 301
@@ -129,8 +129,8 @@ centimeters piston displacement that produces not more than one brake horsepower
 and is capable of propelling the vehicle at a speed of no greater than twenty
 miles per hour on a level surface.
 
-“Motorized bicycle” or “moped” does not include an electric bicycle.  
-(ORC 4511.01(H))
+    “Motorized bicycle” or “moped” does not include an electric bicycle.  
+    (ORC 4511.01(H))
 
 3. _(c)_ “Electric bicycle” means a “class 1 electric bicycle”, a “class 2
 electric bicycle”, or a “class 3 electric bicycle” as defined in this section.  

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 1
 title_no: 5
 chapter_no: 125
@@ -443,13 +443,13 @@ shall on the same day of the opening of the box or vault, be signed by the
 officer witnessing such opening and the Director of Finance, and such report
 shall be retained by the Director of Finance.  
 
-In lieu of such custody, the Director of Finance may deposit such securities,
-obligations or certificates of deposit with a qualified trustee as set forth in
-Ohio R.C. 135.18(I) or 135.181(F).  
+    In lieu of such custody, the Director of Finance may deposit such
+    securities, obligations or certificates of deposit with a qualified trustee
+    as set forth in Ohio R.C. 135.18(I) or 135.181(F).  
 
-Notwithstanding the two preceding paragraphs, the Director of Finance is not
-required to take custody or provide for the deposit of securities acquired under
-a repurchase agreement.
+    Notwithstanding the two preceding paragraphs, the Director of Finance is not
+    required to take custody or provide for the deposit of securities acquired
+    under a repurchase agreement.
 
 8. _(h)_ Upon the expiration of the term of office of the Director of Finance or
 in the event of a vacancy in the office of the Director of Finance by reason of
@@ -550,21 +550,21 @@ Passed 6-13- 05.)
 billing of recipients of ambulance service commencing June 13, 2005, within the
 Village upon the following basis:
 
-|                    |                   |
-|--------------------|-------------------|
-| Basic life support | $350.00 base rate |
-| plus               | $6.00 per mile    |
+    |                    |                   |
+    |--------------------|-------------------|
+    | Basic life support | $350.00 base rate |
+    | plus               | $6.00 per mile    |
 
-(Basic life support is a unit in compliance with state emergency medical
-standards)
+    (Basic life support is a unit in compliance with state emergency medical
+    standards)
 
-|                      |                   |
-|----------------------|-------------------|
-| Advance life support | $ 500.00 flat fee |
+    |                      |                   |
+    |----------------------|-------------------|
+    | Advance life support | $ 500.00 flat fee |
 
-(Advance life support to mean cardiac monitoring, anti-shock trousers, cardiac
-defibrillation, establishing an airway, relieving pneumothorax, and
-administering drugs.)
+    (Advance life support to mean cardiac monitoring, anti-shock trousers,
+    cardiac defibrillation, establishing an airway, relieving pneumothorax, and
+    administering drugs.)
 
 2. _(b)_ The Village reserves the right to change these charges at any time in
 the future. Such charges shall cover transportation, unless otherwise stated,

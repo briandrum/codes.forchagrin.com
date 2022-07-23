@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: chapter
 part_no: 3
 title_no: 7
 chapter_no: 351
@@ -71,11 +71,13 @@ the following places:
 
 4. _(d)_ Within ten feet of a fire hydrant;
 
-5. _(e)_ On a crosswalk; (Ord. 1973-904. Passed 5-1-73.)
+5. _(e)_ On a crosswalk;  
+(Ord. 1973-904. Passed 5-1-73.)
 
 6. _(f)_ Within twenty feet of a crosswalk at an intersection, except when
 expressly permitted by signage and/or street markings and when designated on the
-Traffic Control Map; (Ord. 2017-14. Passed 11-13-17.)
+Traffic Control Map;  
+(Ord. 2017-14. Passed 11-13-17.)
 
 7. _(g)_ Within thirty feet of, and upon the approach to, any flashing beacon,
 stop sign or traffic control device;
@@ -93,32 +95,33 @@ seventy-five feet of such entrance when properly posted with signs;
 11. _(k)_ Alongside or opposite any street excavation or obstruction when such
 standing or parking would obstruct traffic;
 
-    1. _(1)_ Alongside any vehicle stopped or parked at the edge or curb of a
-    street, except that commercial trucks may park alongside any such stopped or
-    parked vehicle when in front of a business establishment for the purpose of
-    loading or unloading merchandise; but only for so long as it takes to
-    perform such act, and not when there is parking space available within
-    reasonable distance of such establishment; or when there is an alley or
-    other facilities available in connection with a business or business
-    establishment for such purpose; and also, not when the operator of such
-    vehicle is performing some act in connection with his personal affairs;  
-    (Ord. 1973-904. Passed 5-1-73.)
+12. _(l)_ Alongside any vehicle stopped or parked at the edge or curb of a
+street, except that commercial trucks may park alongside any such stopped or
+parked vehicle when in front of a business establishment for the purpose of
+loading or unloading merchandise; but only for so long as it takes to
+perform such act, and not when there is parking space available within
+reasonable distance of such establishment; or when there is an alley or
+other facilities available in connection with a business or business
+establishment for such purpose; and also, not when the operator of such
+vehicle is performing some act in connection with his personal affairs;  
+(Ord. 1973-904. Passed 5-1-73.)
 
-12. _(m)_ Upon any bridge or other elevated structure upon a street, except when
+13. _(m)_ Upon any bridge or other elevated structure upon a street, except when
 expressly permitted by signage and/or street markings and when designated on the
-Traffic Control Map; (Ord. 2017-14. Passed 11-13-17.)
+Traffic Control Map;  
+(Ord. 2017-14. Passed 11-13-17.)
 
-13. _(n)_ At any place where signs prohibit or limit stopping, standing or
+14. _(n)_ At any place where signs prohibit or limit stopping, standing or
 parking;
 
-14. _(o)_ Within one foot of another parked vehicle.
+15. _(o)_ Within one foot of another parked vehicle.
 
-15. _(p)_ Within 500 feet of any fire apparatus at the scene of a fire or
+16. _(p)_ Within 500 feet of any fire apparatus at the scene of a fire or
 emergency;
 
-16. _(q)_ Upon any street or other areas designated as a fire lane;
+17. _(q)_ Upon any street or other areas designated as a fire lane;
 
-17. _(r)_ On the roadway portion of a freeway, expressway or thruway.  
+18. _(r)_ On the roadway portion of a freeway, expressway or thruway.  
 (Ord. 1973-904. Passed 5-1-73.)
 
 ## 351.04   Parking near curb; handicapped locations on public and private lots and garages
@@ -549,6 +552,7 @@ block when the fine is deposited, may be fined such amounts by the Court.
     vehicle cited until the fine is deposited if not deposited within sixty (60)
     days of the citation date, in which event the violator shall pay the cost,
     if any, to remove the registration block after the fine is paid.
+
     2. _(2)_ Whoever violates Section 351.04(f) may execute a waiver and deposit
     two hundred and fifty dollars ($250.00) with the Clerk or Deputy Clerk of
     the Bedford Municipal Court, who is on duty at the Village Police
@@ -569,6 +573,8 @@ block when the fine is deposited, may be fined such amounts by the Court.
     the citation date, and in which event the violator shall pay the cost, if
     any, to remove the registration block when the fine is paid.  
     (Ord. 2017-05. Passed 2-13-17.)
+
+3. _(c)_ .
 
 4. _(d)_ Payment of the sum of money required by subsection (b) hereof shall be
 paid exclusively by (i) United States legal tender notes, known as Federal
