@@ -43,7 +43,7 @@ As used in this chapter:
 1. _(a)_ "Public official" means any elected or appointed officer, or employee,
 or agent of the State or any political subdivision thereof, whether in a
 temporary or permanent capacity, and includes, but is not limited to,
-legislators, judges and law enforcement officers. “Public official” does not
+legislators, judges and law enforcement officers. "Public official" does not
 include an employee, officer, or governor-appointed member of the board of
 directors of the nonprofit corporation formed under Ohio R.C. 187.01.
 
@@ -60,9 +60,9 @@ directors of the nonprofit corporation formed under Ohio R.C. 187.01.
     candidate. A person is a candidate for purposes of this subsection if the
     person has been nominated according to law for election or appointment to
     public office, or if the person has filed a petition or petitions as
-    required by law to have the person’s name placed on the ballot in a primary,
+    required by law to have the person's name placed on the ballot in a primary,
     general or special election, or if the person campaigns as a write-in
-    candidate in any primary, general or special election. “Public servant” does
+    candidate in any primary, general or special election. "Public servant" does
     not include an employee, officer, or governor-appointed member of the board
     of directors of the nonprofit corporation formed under Ohio R.C. 187.01.
 
@@ -110,7 +110,7 @@ contribution. This inclusion does not indicate or imply that a contribution was
 not included in those terms before September 17, 1986.
 
 8. _(h)_ "Campaign committee," "contribution," "political action committee,"
-“legislative campaign fund,” and “political party” have the same meanings as in
+"legislative campaign fund," and "political party" have the same meanings as in
 Ohio R.C. 3517.01.
 
 9. _(i)_ "Provider agreement" has the same meaning as in Ohio R.C. 5164.01.  
@@ -127,7 +127,7 @@ applies:
     2. _(2)_ The statement is made with purpose to incriminate another.
 
     3. _(3)_ The statement is made with purpose to mislead a public official in
-    performing the public official’s official function.
+    performing the public official's official function.
 
     4. _(4)_ The statement is made with purpose to secure the payment of
     unemployment compensation; Ohio works first; prevention, retention and
@@ -152,7 +152,7 @@ applies:
     diploma, certificate of attainment, award of excellence or honor on the
     offender, or to extend to or bestow upon the offender any other valuable
     benefit or distinction, when the person to whom the statement is directed
-    relies upon it to that person’s detriment.
+    relies upon it to that person's detriment.
 
     9. _(9)_ The statement is made with purpose to commit or facilitate the
     commission of a theft offense.
@@ -172,7 +172,7 @@ applies:
     court of record.
 
     13. _(13)_ The statement is required under Ohio R.C. 5743.71 in connection
-    with the person’s purchase of cigarettes or tobacco products in a delivery
+    with the person's purchase of cigarettes or tobacco products in a delivery
     sale.
 
 2. _(b)_ It is no defense to a charge under subsection (a)(6) hereof that the
@@ -198,7 +198,7 @@ only that one or the other was false.
 5. _(e)_ A person who violates this section is liable in a civil action to any
 person harmed by the violation for injury, death, or loss to person or property
 incurred as a result of the commission of the offense and for reasonable
-attorney’s fees, court costs, and other expenses incurred as a result of
+attorney's fees, court costs, and other expenses incurred as a result of
 prosecuting the civil action commenced under this section. A civil action under
 this section is not the exclusive remedy of a person who incurs injury, death,
 or loss to person or property as a result of a violation of this section.  
@@ -214,7 +214,7 @@ or loss to person or property as a result of a violation of this section.
     of this State; a member of a police force employed by a metropolitan housing
     authority under Ohio R.C. 3735.31(D); a member of a police force employed by
     a regional transit authority under Ohio R.C. 306.35(Y), a State university
-    law enforcement officer appointed under Ohio R.C. 3345.04; a veterans’ home
+    law enforcement officer appointed under Ohio R.C. 3345.04; a veterans' home
     police officer appointed under Ohio R.C. 5907.02; a special police officer
     employed by a port authority under Ohio R.C. 4582.04 or 4582.28; an officer,
     agent, or employee of the State or any of its agencies, instrumentalities or
@@ -229,13 +229,13 @@ or loss to person or property as a result of a violation of this section.
     officer, private detective or other person who is privately employed in a
     police capacity.
 
-    3. _(3)_ “Federal law enforcement officer” means an employee of the United
+    3. _(3)_ "Federal law enforcement officer" means an employee of the United
     States who serves in a position the duties of which are primarily the
     investigation, apprehension or detention of individuals suspected or
     convicted of offenses under the criminal laws of the United States.
 
-    4. _(4)_ “Investigator of the Bureau of Criminal Identification and
-    Investigation” has the same meaning as in Ohio R.C. 2903.11.
+    4. _(4)_ "Investigator of the Bureau of Criminal Identification and
+    Investigation" has the same meaning as in Ohio R.C. 2903.11.
 
     5. _(5)_ "Impersonate" means to act the part of, assume the identity of,
     wear the uniform or any part of the uniform of or display the identification
@@ -322,18 +322,18 @@ deceased for a condition from which death at such time would not be unexpected,
 or to a law enforcement officer, an ambulance service, an emergency squad, or
 the coroner in a political subdivision in which the body is discovered, the
 death is believed to have occurred, or knowledge concerning the death is
-obtained. For purposes of this subsection (c), “advanced practice registered
-nurse” does not include a certified registered nurse anesthetist.
+obtained. For purposes of this subsection (c), "advanced practice registered
+nurse" does not include a certified registered nurse anesthetist.
 
 4. _(d)_ No person shall fail to provide upon request of the person to whom a
 report required by subsection (c) of this section was made, or to any law
 enforcement officer who has reasonable cause to assert the authority to
 investigate the circumstances surrounding the death, any facts within the
-person’s knowledge that may have a bearing on the investigation of the death.
+person's knowledge that may have a bearing on the investigation of the death.
 
 5. _(e)_
 
-    1. _(1)_ As used in this subsection, “burn injury” means any of the
+    1. _(1)_ As used in this subsection, "burn injury" means any of the
     following:
 
         1. _(A)_ Second or third degree burns;
@@ -379,7 +379,7 @@ person’s knowledge that may have a bearing on the investigation of the death.
     otherwise might be incurred or imposed as a result of such actions.
     Notwithstanding Ohio R.C. 4731.22, the physician-patient relationship or
     advanced practice registered nurse-patient relationship is not a ground for
-    excluding evidence regarding a person’s burn injury or the cause of the burn
+    excluding evidence regarding a person's burn injury or the cause of the burn
     injury in any judicial proceeding resulting from a report submitted under
     subsection (e) of this section.
 
@@ -392,7 +392,7 @@ person’s knowledge that may have a bearing on the investigation of the death.
     marriage and family therapist who knows or has reasonable cause to believe
     that a patient or client has been the victim of domestic violence, as
     defined in Ohio R.C. 3113.31, shall note that knowledge or belief and the
-    basis for it in the patient’s or client’s records.
+    basis for it in the patient's or client's records.
 
     2. _(2)_ Notwithstanding Ohio R.C. 4731.22, the physician-patient privilege
     or advanced practice registered nurse-patient privilege shall not be a
@@ -416,7 +416,7 @@ information, when any of the following applies:
     husband and wife; or a communications assistant and those who are a party to
     a telecommunications relay service call.
 
-    2. _(2)_ The information would tend to incriminate a member of the actor’s
+    2. _(2)_ The information would tend to incriminate a member of the actor's
     immediate family.
 
     3. _(3)_ Disclosure of the information would amount to revealing a news
@@ -425,11 +425,11 @@ information, when any of the following applies:
     4. _(4)_ Disclosure of the information would amount to disclosure by a
     member of the ordained clergy of an organized religious body of a
     confidential communication made to that member of the clergy in that
-    member’s capacity as a member of the clergy by a person seeking the aid or
+    member's capacity as a member of the clergy by a person seeking the aid or
     counsel of that member of the clergy.
 
     5. _(5)_ Disclosure would amount to revealing information acquired by the
-    actor in the course of the actor’s duties in connection with a bona fide
+    actor in the course of the actor's duties in connection with a bona fide
     program of treatment or services for drug dependent persons or persons in
     danger of drug dependence, which program is maintained or conducted by a
     hospital, clinic, person, agency, or community addiction services provider
@@ -437,11 +437,11 @@ information, when any of the following applies:
     R.C. 5119.36.
 
     6. _(6)_ Disclosure would amount to revealing information acquired by the
-    actor in the course of the actor’s duties in connection with a bona fide
+    actor in the course of the actor's duties in connection with a bona fide
     program for providing counseling services to victims of crimes that are
     violations of Ohio R.C. 2907.02 or 2907.05 or to victims of felonious sexual
     penetration in violation of former Ohio R.C. 2907.12. As used in this
-    subsection, “counseling services” include services provided in an informal
+    subsection, "counseling services" include services provided in an informal
     setting by a person who, by education or experience, is competent to provide
     those services.
 
@@ -464,7 +464,7 @@ failure to report knowledge of a death, a misdemeanor of the fourth degree.
     2. _(2)_ Whoever knowingly violates subsection (e) of this section is guilty
     of a misdemeanor of the second degree.
 
-12. _(l)_ As used in this section, “nurse” includes an advanced practice
+12. _(l)_ As used in this section, "nurse" includes an advanced practice
 registered nurse, registered nurse, and licensed practical nurse.  
 (ORC 2921.22)
 
@@ -483,8 +483,8 @@ enforcement officer, a minor misdemeanor.
 
 1. _(a)_ No person, without privilege to do so and with purpose to prevent,
 obstruct or delay the performance by a public official of any authorized act
-within the public official’s official capacity, shall do any act that hampers or
-impedes a public official in the performance of the public official’s lawful
+within the public official's official capacity, shall do any act that hampers or
+impedes a public official in the performance of the public official's lawful
 duties.
 
 2. _(b)_ Whoever violates this section is guilty of obstructing official
@@ -548,10 +548,10 @@ person or child aided committed.
 
 4. _(d)_ As used in this section:
 
-    1. _(1)_ “Adult” and “child” have the same meanings as in Ohio R.C.
+    1. _(1)_ "Adult" and "child" have the same meanings as in Ohio R.C.
     2151.011.
 
-    2. _(2)_ “Delinquent child” has the same meaning as in Ohio R.C. 2152.02.  
+    2. _(2)_ "Delinquent child" has the same meaning as in Ohio R.C. 2152.02.  
     (ORC 2921.32)
 
 ## 525.09   Resisting arrest
@@ -573,7 +573,7 @@ violation of subsection (b) hereof is a misdemeanor of the first degree.
 
 1. _(a)_ No public official shall knowingly do any of the following:
 
-    1. _(1)_ During the public official’s term of office or within one year
+    1. _(1)_ During the public official's term of office or within one year
     thereafter, occupy any position of profit in the prosecution of a public
     contract authorized by the public official or by a legislative body,
     commission or board of which the public official was a member at the time of
@@ -589,7 +589,7 @@ violation of subsection (b) hereof is a misdemeanor of the first degree.
     more than one hundred fifty dollars ($150.00).
 
 2. _(b)_ In the absence of bribery or a purpose to defraud, a public official,
-member of a public official’s family or any of a public official’s business
+member of a public official's family or any of a public official's business
 associates shall not be considered as having an interest in a public contract if
 all of the following apply:
 
@@ -605,11 +605,11 @@ all of the following apply:
 
     3. _(3)_ That person, prior to the time the public contract is entered into,
     files with the Municipality or governmental agency or instrumentality
-    involved, an affidavit giving that person’s exact status in connection with
+    involved, an affidavit giving that person's exact status in connection with
     the corporation or other organization.
 
 3. _(c)_ This section does not apply to a public contract in which a public
-official, member of a public official’s family, or one of a public official’s
+official, member of a public official's family, or one of a public official's
 business associates, has an interest, when all of the following apply:
 
     1. _(1)_ The subject of the public contract is necessary supplies or
@@ -619,24 +619,24 @@ business associates, has an interest, when all of the following apply:
     2. _(2)_ The supplies or services are unobtainable elsewhere for the same or
     lower cost, or are being furnished to the Municipality or governmental
     agency or instrumentality as part of a continuing course of dealing
-    established prior to the public official’s becoming associated with the
+    established prior to the public official's becoming associated with the
     Municipality or governmental agency or instrumentality involved;
 
     3. _(3)_ The treatment accorded the Municipality or governmental agency or
     instrumentality is either preferential to or the same as that accorded other
     customers or clients in similar transactions;
 
-    4. _(4)_ The entire transaction is conducted at arm’s length, with full
+    4. _(4)_ The entire transaction is conducted at arm's length, with full
     knowledge by the Municipality or governmental agency or instrumentality
     involved, of the interest of the public official, member of the public
-    official’s family or business associate, and the public official takes no
+    official's family or business associate, and the public official takes no
     part in the deliberations or decisions of the Municipality or governmental
     agency or instrumentality with respect to the public contract.
 
 4. _(d)_ Subsection (a)(4) does not prohibit participation by a public employee
 in any housing program funded by public moneys if the public employee otherwise
 qualifies for the program and does not use the authority or influence of the
-public employee’s office or employment to secure benefits from the program and
+public employee's office or employment to secure benefits from the program and
 if the moneys are to be used on the primary residence of the public employee.
 Such participation does not constitute an unlawful interest in a public contract
 in violation of this section.
@@ -652,10 +652,10 @@ designated as prosecutor in a municipal corporation to appoint assistants and
 employees in accordance with Ohio R.C. 733.621 and 2921.421.
 
 7. _(g)_ Any public contract in which a public official, a member of the public
-official’s family, or any of the public official’s business associates has an
+official's family, or any of the public official's business associates has an
 interest in violation of this section is void and unenforceable. Any contract
 securing the investment of public funds in which a public official, a member of
-the public official’s family, or any of the public official’s business
+the public official's family, or any of the public official's business
 associates has an interest, is an underwriter, or receives any brokerage,
 origination, or servicing fees and that was entered into in violation of this
 section is void and unenforceable.
@@ -683,17 +683,17 @@ section is void and unenforceable.
 knowingly promise or give to a public servant either of the following:
 
     1. _(1)_ Any compensation, other than is allowed by Ohio R.C. 102.03(G),
-    (H), and (I) or other provisions of law, to perform the public servant’s
-    official duties, to perform any other act or service in the public servant’s
+    (H), and (I) or other provisions of law, to perform the public servant's
+    official duties, to perform any other act or service in the public servant's
     public capacity, for the general performance of the duties of the public
-    servant’s public office or public employment, or as a supplement to the
-    public servant’s public compensation;
+    servant's public office or public employment, or as a supplement to the
+    public servant's public compensation;
 
     2. _(2)_ Additional or greater fees or costs than are allowed by law to
-    perform the public servant’s official duties.
+    perform the public servant's official duties.
 
-2. _(b)_ No public servant for the public servant’s own personal or business use
-and no person for the person’s own personal or business use or for the personal
+2. _(b)_ No public servant for the public servant's own personal or business use
+and no person for the person's own personal or business use or for the personal
 or business use of a public servant or party official, shall solicit or accept
 anything of value in consideration of either of the following:
 
@@ -736,7 +736,7 @@ committee from accepting voluntary contributions.
     1. _(1)_ Fail to serve a lawful warrant without delay;
 
     2. _(2)_ Fail to prevent or halt the commission of an offense or to
-    apprehend an offender, when it is in the law enforcement officer’s power to
+    apprehend an offender, when it is in the law enforcement officer's power to
     do so alone or with available assistance.
 
 2. _(b)_ No law enforcement, ministerial or judicial officer shall negligently
@@ -764,18 +764,18 @@ the legislative authority of the Municipality for the use in any one year of the
 department, agency or institution with which the public official is connected.
 
 5. _(e)_ No public servant shall recklessly fail to perform a duty expressly
-imposed by law with respect to the public servant’s office, or recklessly do any
-act expressly forbidden by law with respect to the public servant’s office.
+imposed by law with respect to the public servant's office, or recklessly do any
+act expressly forbidden by law with respect to the public servant's office.
 
 6. _(f)_ Whoever violates this section is guilty of dereliction of duty, a
 misdemeanor of the second degree.
 
-7. _(g)_ As used in this section, “public servant” includes an officer or
+7. _(g)_ As used in this section, "public servant" includes an officer or
 employee of a contractor as defined in Ohio R.C. 9.08.
 
 ## 525.13   Interfering with civil rights
 
-1. _(a)_ No public servant, under color of the public servant’s office,
+1. _(a)_ No public servant, under color of the public servant's office,
 employment, or authority, shall knowingly deprive, or conspire or attempt to
 deprive any person of a constitutional or statutory right.
 
@@ -800,11 +800,11 @@ officers, a minor misdemeanor.
 a police dog or horse in either of the following circumstances:
 
     1. _(1)_ The police dog or horse is assisting a law enforcement officer in
-    the performance of the officer’s official duties at the time the physical
+    the performance of the officer's official duties at the time the physical
     harm is caused or attempted.
 
     2. _(2)_ The police dog or horse is not assisting a law enforcement officer
-    in the performance of the officer’s official duties at the time the physical
+    in the performance of the officer's official duties at the time the physical
     harm is caused or attempted, but the offender has actual knowledge that the
     dog or horse is a police dog or horse.
 
@@ -818,7 +818,7 @@ a police dog or horse in either of the following circumstances:
     or obstruct a law enforcement officer who is being assisted by a police dog
     or horse, in a manner that does any of the following:
 
-        1. _(A)_ Inhibits or restricts the law enforcement officer’s control of
+        1. _(A)_ Inhibits or restricts the law enforcement officer's control of
         the police dog or horse;
 
         2. _(B)_ Deprives the law enforcement officer of control of the police
@@ -840,7 +840,7 @@ a police dog or horse in either of the following circumstances:
     reasonably restrain the dog from taunting, tormenting, chasing, approaching
     in a menacing fashion or apparent attitude of attack, or attempting to bite
     or otherwise endanger a police dog or horse that at the time of the conduct
-    is assisting a law enforcement officer in the performance of the officer’s
+    is assisting a law enforcement officer in the performance of the officer's
     duties or that the person knows is a police dog or horse.
 
 3. _(c)_ No person shall knowingly cause, or attempt to cause, physical harm to
@@ -866,7 +866,7 @@ an assistance dog in either of the following circumstances:
     is being assisted or served by an assistance dog, in a manner that does any
     of the following:
 
-        1. _(A)_ Inhibits or restricts the assisted or served person’s control
+        1. _(A)_ Inhibits or restricts the assisted or served person's control
         of the dog;
 
         2. _(B)_ Deprives the assisted or served person of control of the dog;
@@ -993,18 +993,18 @@ assistance dog.
         3. _(C)_ Any physical harm that causes acute pain of a duration that
         results in substantial suffering.
 
-    4. _(4)_ "Assistance dog”, "blind", and "mobility impaired person" have the
+    4. _(4)_ "Assistance dog", "blind", and "mobility impaired person" have the
     same meanings as in Ohio R.C. 955.011.  
     (ORC 2921.321)
 
 ## 525.16   False allegation of peace officer misconduct
 
-1. _(a)_ As used in this section, “peace officer” has the same meaning as in
+1. _(a)_ As used in this section, "peace officer" has the same meaning as in
 Ohio R.C. 2935.01.
 
 2. _(b)_ No person shall knowingly file a complaint against a peace officer that
 alleges that the peace officer engaged in misconduct in the performance of the
-officer’s duties if the person knows that the allegation is false.
+officer's duties if the person knows that the allegation is false.
 
 3. _(c)_ Whoever violates this section is guilty of making a false allegation of
 peace officer misconduct, a misdemeanor of the first degree.  
@@ -1013,7 +1013,7 @@ peace officer misconduct, a misdemeanor of the first degree.
 ## 525.17   Refusal to disclose personal information in public place
 
 1. _(a)_ No person who is in a public place shall refuse to disclose the
-person’s name, address, or date of birth, when requested by a law enforcement
+person's name, address, or date of birth, when requested by a law enforcement
 officer who reasonably suspects either of the following:
 
     1. _(1)_ The person is committing, has committed, or is about to commit a
@@ -1037,21 +1037,21 @@ officer who reasonably suspects either of the following:
         or complicity described in subsection (a)(2)C. of this section has been,
         is being, or is about to be committed.
 
-2. _(b)_ Whoever violates this section is guilty of failure to disclose one’s
+2. _(b)_ Whoever violates this section is guilty of failure to disclose one's
 personal information, a misdemeanor of the fourth degree.
 
 3. _(c)_ Nothing in this section requires a person to answer any questions
-beyond that person’s name, address, or date of birth. Nothing in this section
+beyond that person's name, address, or date of birth. Nothing in this section
 authorizes a law enforcement officer to arrest a person for not providing any
-information beyond that person’s name, address, or date of birth or for refusing
+information beyond that person's name, address, or date of birth or for refusing
 to describe the offense observed.
 
 4. _(d)_ It is not a violation of this section to refuse to answer a question
-that would reveal a person’s age or date of birth if age is an element of the
+that would reveal a person's age or date of birth if age is an element of the
 crime that the person is suspected of committing.  
 (ORC 2921.29)
 
 ## 525.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

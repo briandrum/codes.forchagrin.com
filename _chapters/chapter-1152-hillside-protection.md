@@ -23,7 +23,7 @@ title: "Chapter 1152: Hillside Protection"
 
 ## 1152.01   Intent
 
-Whereas the hillside areas of the Municipality differ from the Municipality’s
+Whereas the hillside areas of the Municipality differ from the Municipality's
 flatlands, hillsides necessitate different provisions for their development and
 their protection. The Hillside Protection Regulations are established to
 achieve, among others, the following objectives:
@@ -71,7 +71,7 @@ habitats in the Municipality.
 
     /* Calculations of average percent slope should be based upon accurate
     topographic surveys using a contour interval no greater than ten feet and a
-    horizontal map scale of 1": 200′ or larger. The area of the zoning lot shall
+    horizontal map scale of 1″: 200′ or larger. The area of the zoning lot shall
     be used in this calculation.
 
 1. _(a)_ "Cut" means a portion of land surface or areas from which the earth has

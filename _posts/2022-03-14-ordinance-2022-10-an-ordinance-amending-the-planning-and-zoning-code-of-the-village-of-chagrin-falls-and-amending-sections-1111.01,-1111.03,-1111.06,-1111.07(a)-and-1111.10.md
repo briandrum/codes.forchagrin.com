@@ -350,7 +350,7 @@ entirety to read as follows:
 > the exception, variance, interpretation or review of orders of administrative
 > officials, and which action(s) of the Board of Zoning Appeals will be reviewed
 > by Council, but the failure to include all such information shall not impair
-> Council’s review of the decision.
+> Council's review of the decision.
 > 
 > 6. _(f)_ The Clerk of Council shall give notice of the hearing of the request
 > for review by the three (3) or more Council members to the applicant, the law
@@ -451,7 +451,7 @@ follows:
 > the exception<ins>,</ins> <del>or </del>variance, <ins>interpretation or
 > review of orders of administrative officials, </ins>and which action(s) of the
 > Board of Zoning Appeals will be reviewed by Council<ins>, but the failure to
-> include all such information shall not impair Council’s review of the
+> include all such information shall not impair Council's review of the
 > decision.</ins>
 > 
 > 6. _(f)_ Clerk of Council shall give notice of the hearing of the request for
@@ -661,7 +661,7 @@ follows:
 >  
 > 8. <ins>_(h)_ The applicant or any interested party who appeared or was
 > represented at the Council meeting(s) where the matter was heard and was
-> harmed by the action of Council may appeal Council’s decision pursuant to Ohio
+> harmed by the action of Council may appeal Council's decision pursuant to Ohio
 > R.C. Chapter 2506.</ins>
 
 **Section 16.** The existing Sections 1111.01, 1111.03, 1111.06, 1111.07(a) and

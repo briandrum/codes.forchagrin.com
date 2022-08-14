@@ -8,7 +8,7 @@ title: "Chapter 931: Water"
 
 ## Sections
 
-* [931.01   Mayor’s authority to limit water use](#93101-mayors-authority-to-limit-water-use)
+* [931.01   Mayor's authority to limit water use](#93101-mayors-authority-to-limit-water-use)
 * [931.02   Water rates](#93102-water-rates)
 * [931.03   Water connection charges](#93103-water-connection-charges)
 * [931.04   Billing periods, surcharge for late payment](#93104-billing-periods-surcharge-for-late-payment)
@@ -30,7 +30,7 @@ R. C. 4933.22
 * Water permits - see BLDG. 1307.07
 * Approval of water connections - see BLDG. 1307.12
 
-## 931.01   Mayor’s authority to limit water use
+## 931.01   Mayor's authority to limit water use
 
 The Mayor is hereby authorized at any time to declare an emergency
 concerning the use of water in order to maintain an adequate and safe level in
@@ -46,12 +46,12 @@ provisions of such emergency ban.
 
 ## 931.02   Regulations of the water department, and water rates
 
-1. _(a)_ In order to provide for an orderly growth of the Municipality’s water
+1. _(a)_ In order to provide for an orderly growth of the Municipality's water
 system, and to assure equitable treatment for all users of the water system,
 the Chief Administrative Officer is authorized to promulgate regulations, not
 inconsistent with the Charter and Codified Ordinances, as may be necessary for
 the safe, economical, and efficient management and protection of the
-Municipality’s water system. Such regulations shall have the same validity as
+Municipality's water system. Such regulations shall have the same validity as
 an ordinance, and a current version shall be on file in the office of the
 Village Administrator.  
 (Ord. 2008-54. Passed 12-8-08.)
@@ -68,29 +68,29 @@ charges.
 
 ## 931.03   Water connection charges
 
-(Editor’s note: Water connection charges are now contained in "Regulations
+(Editor's note: Water connection charges are now contained in "Regulations
 of the Water Department" adopted under Section 931.02.)
 
 ## 931.04   Billing periods: surcharge for late payments
 
-(Editor’s note: Former Section 931.04 was repealed by Ordinance 1979-1154, passed April 9, 1979. Provisions
+(Editor's note: Former Section 931.04 was repealed by Ordinance 1979-1154, passed April 9, 1979. Provisions
 relative to billing periods and penalties for late payments are contained in
 "Regulations of the Water Department" adopted under Section 931.02.)
 
 ## 931.05   Meter rental charges
 
-(Editor’s note: Meter rental charges are now established in the "Regulations
+(Editor's note: Meter rental charges are now established in the "Regulations
 of the Water Department" adopted under Section 931.02 and no longer included in the Codified Ordinances.)
 
 ## 931.06   Miscellaneous charges
 
-(Editor’s note: Former Section 931.06 was repealed by Ordinance 1979-1154, passed April 9, 1979. Provisions
+(Editor's note: Former Section 931.06 was repealed by Ordinance 1979-1154, passed April 9, 1979. Provisions
 relative to miscellaneous charges are now contained in "Regulations of the
 Water Department" adopted under Section 931.02.)
 
 ## 931.07   Extensions outside municipality prohibited
 
-(Editor’s note: Former Section 931.07 was repealed by Ordinance 1988-39, passed May 9, l 988.)
+(Editor's note: Former Section 931.07 was repealed by Ordinance 1988-39, passed May 9, l 988.)
 
 ## 931.99   Penalty
 

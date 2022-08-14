@@ -150,7 +150,7 @@ street will be entered upon.
 
 ## 1337.06   Inspection of building and equipment
 
-The C.A.O. or his agent shall inspect the building and the applicant’s
+The C.A.O. or his agent shall inspect the building and the applicant's
 equipment to determine whether the standards for issuance of a permit are met.  
 (Ord. 1988-26. Passed 4-11-88.)
 
@@ -178,7 +178,7 @@ persons and property in the Municipality.
 structurally safe and fit for the purpose for its intended use upon the new
 location.
 
-6. _(f)_ The applicant’s equipment is safe and persons and property will not
+6. _(f)_ The applicant's equipment is safe and persons and property will not
 be endangered by its use.
 
 7. _(g)_ There exists no other condition which might endanger persons or
@@ -188,7 +188,7 @@ property in the Municipality by moving of the building.
 ## 1337.08   Approval of the architectural review board
 
 After the C.A.O. has determined that the proposed building to be moved and
-the applicant’s equipment meet the standards provided in this chapter, he shall
+the applicant's equipment meet the standards provided in this chapter, he shall
 refer the matter to the Architectural Review Board for its review as to design
 and historical impact, and the permit shall not be issued without the approval
 of the Board.  
@@ -209,7 +209,7 @@ than two hours during the daytime, unless an extension is granted by the C.A.O.
 upon the concurrence of the Police Chief and the Fire Chief. Such extension
 shall not be granted except in the case of extreme urgency. If the moving is to
 or along a dead-end street, all owners of property abutting the street shall be
-given not less than twenty-four hours’ notice in writing of such intention at
+given not less than twenty-four hours' notice in writing of such intention at
 their last known place of residence by the permit holder, advising them of the
 exact times of blockage on the street.  
 (Ord. 1988-26. Passed 4-11-88.)
@@ -225,6 +225,6 @@ the cash bond provided for in this chapter.
 ## 1337.99   Penalty
 
 Whoever violates any of the terms of this chapter shall be guilty of a
-misdemeanor of the first degree. Each days’ violation shall constitute a
+misdemeanor of the first degree. Each days' violation shall constitute a
 separate offense.  
 (Ord. 1988-26. Passed 4-11-88.)

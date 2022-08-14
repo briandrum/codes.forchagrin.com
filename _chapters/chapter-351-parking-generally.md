@@ -408,7 +408,7 @@ blockade or obstruct any street.
 ## 351.14   Night parking generally
 
 No person shall park or permit any vehicle to be parked on any street or
-municipal parking lot between the hours of 2:00 o’clock a.m. and 6:00 o’clock
+municipal parking lot between the hours of 2:00 o'clock a.m. and 6:00 o'clock
 a.m. on any day, except emergency and public safety vehicles and physicians on
 emergency calls.  
 (Ord. 1998-88. Passed 9-28-98.)
@@ -420,7 +420,7 @@ manner, a prohibition against parking on the property, or conditions and
 regulations under which parking is permitted, no person shall do either of the
 following:
 
-    1. _(1)_ Park a vehicle on the property without the owner’s consent; or
+    1. _(1)_ Park a vehicle on the property without the owner's consent; or
 
     2. _(2)_ Park a vehicle on the property in violation of any condition or
     regulation posted by the owner.
@@ -487,7 +487,7 @@ than in accordance with this section.
 6. _(f)_ If an owner of private property, or his or her authorized agent,
 removes or causes the removal of a vehicle from that property pursuant to this
 section, the owner or agent shall notify the Police Department of the removal
-and of the vehicle’s license plate number.  
+and of the vehicle's license plate number.  
 (ORC 4511.681)
 
 7. _(g)_ Whoever violates subsection (e) hereof is guilty of a minor misdemeanor
@@ -586,7 +586,7 @@ Payment using gold, silver and other coins is hereby prohibited and will not be
 accepted as payment by the Deputy Clerk of the Bedford Municipal Court and the
 Clerk of the Bedford Municipal Court shall be under no duty or obligation to
 accept payment by gold, silver and other coins that are intended to circulate as
-currency. If payment is tendered by a check that is not honored by the payor’s
+currency. If payment is tendered by a check that is not honored by the payor's
 bank, the violator shall pay all costs and expenses incurred by the Municipality
 resulting from the dishonor of the bank check.  
 (Ord. 2017-56. Passed 9-11-17.)
@@ -616,4 +616,4 @@ misdemeanor and subject to the penalties provided in Codified Ordinance Section
 
 ## 351.99   Penalty
 
-(Editor’s note: See Section 303.99 for general Traffic Code penalty.)
+(Editor's note: See Section 303.99 for general Traffic Code penalty.)

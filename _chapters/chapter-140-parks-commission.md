@@ -6,7 +6,7 @@ chapter_no: 140
 title: "Chapter 140: Parks Commission"
 ---
 
-Editor’s note: The Parks Commission was established by Ordinance 1987-17, passed
+Editor's note: The Parks Commission was established by Ordinance 1987-17, passed
 April 13, 1987.
 
 * [140.01   Creation](#14001-creation)
@@ -31,7 +31,7 @@ shall appoint its representative.
 ## 140.02   Term
 
 The term of the four resident members to be appointed shall be three years, with
-three of the four members’ terms staggered based on appointments made prior to
+three of the four members' terms staggered based on appointments made prior to
 the effective date of this Ordinance. In the event that a vacancy occurs during
 the term of any member, his or her successor shall be appointed for the
 unexpired portion of the term.  

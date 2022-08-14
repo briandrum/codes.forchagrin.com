@@ -49,7 +49,7 @@ a particular direction.
 5. _(e)_ Full Cut-off or Fully-Shielded Luminaire - a luminaire constructed or
 shielded in such a manner that all light emitted by the luminaire, either
 directly from the lamp or indirectly from the luminaire, is projected below the
-horizontal plane through the luminaire’s lowest light emitting part as certified
+horizontal plane through the luminaire's lowest light emitting part as certified
 by the manufacturer.
 
 6. _(f)_ Glare - light emitting from a luminaire with an intensity great enough

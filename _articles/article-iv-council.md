@@ -156,7 +156,7 @@ administrative officials or agencies governing zoning in the Municipality in
 such manner as it shall establish by ordinance, provided that no appeal shall be
 heard, or exception or variance granted by Council until the Board of Zoning
 Appeals shall have acted upon such request for an exception or variance and upon
-taking such action, the Board of Zoning Appeals’ secretary shall immediately
+taking such action, the Board of Zoning Appeals' secretary shall immediately
 notify in writing, the Clerk of Council of such action and within fifteen (15)
 days after receipt of said written notification by the Clerk, any three (3) or
 more Members of Council, may, in writing, request that the Clerk of Council set

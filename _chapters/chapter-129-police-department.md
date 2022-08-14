@@ -59,14 +59,14 @@ positions as authorized by ordinance of Council, including:
     Police Clerk.
 
     5. _(5)_ **School Guards.** There is hereby created the position of School
-    Guard. The Chief of Police or the Chief’s designee may, as deemed necessary,
+    Guard. The Chief of Police or the Chief's designee may, as deemed necessary,
     appoint persons to serve as School Guards, which School Guards may be
     removed from that position at any time for any reason. Persons appointed as
     School Guards shall perform their duties under the control and direction of
-    the Chief of Police or the Chief’s designee, shall work the hours designated
+    the Chief of Police or the Chief's designee, shall work the hours designated
     by either of these individuals on each day that school is in session and
     shall perform their services in such manner as the Chief of Police or the
-    Chief’s designee may direct.
+    Chief's designee may direct.
 
     6. _(6)_ **Parking Enforcement Official.** There is hereby created the
     position of Parking Enforcement Official, who shall serve as a member of the
@@ -100,11 +100,11 @@ appointment shall be deemed permanent until any such patrol officer has
 satisfactorily served his probationary period. The Chief of Police, in the
 exercise of reasonable discretion, may extend the probationary period for a
 Full-Time Regular Patrol Officer for an additional six month period. Part-Time
-Patrol Officer shall not be considered a “Permanent Appointment” or an “Original
-Appointment”.  
+Patrol Officer shall not be considered a "Permanent Appointment" or an "Original
+Appointment".  
 (Ord. 2015-21. Passed 7-27-15; Ord. 2019-04. Passed 1-14-19.)
 
-2. _(b)_ “Original Appointment” shall mean an individual’s appointment as a
+2. _(b)_ "Original Appointment" shall mean an individual's appointment as a
 Full-Time Regular Patrol Officer in the Village Police Department.
 
     1. _(1)_ Age Range for Original Appointment.
@@ -134,7 +134,7 @@ the pool of Applicants who:
 
     3. _(3)_ Have earned a high school diploma or general equivalency degree.
 
-    4. _(4)_ Have completed the Ohio Peace Officer’s Basic Training Academy at
+    4. _(4)_ Have completed the Ohio Peace Officer's Basic Training Academy at
     the time of appointment; and
 
     5. _(5)_ Have earned a Certificate of Completion of the Ohio Peace Officer
@@ -162,10 +162,10 @@ compy with the following guidelines:
 
     3. _(3)_ Applicants must authorize the Village to:
 
-        1. _(A)_ Access and review the Applicant’s arrest and conviction
+        1. _(A)_ Access and review the Applicant's arrest and conviction
         records;
 
-        2. _(B)_ Access and review any documents pertaining to the Applicant’s
+        2. _(B)_ Access and review any documents pertaining to the Applicant's
         employment history;
 
         3. _(C)_ Administer a polygraph test or Voice Stress Analysis (CVS);
@@ -193,7 +193,7 @@ proof of Past Military Service, as established with a copy of a DD Form 214
 discharge report.
 
 5. _(e)_ **Interviews.** Applicants may be selected for face-to-face or
-telephone interviews. An Applicant’s performance during such interviews may be
+telephone interviews. An Applicant's performance during such interviews may be
 considered by the Village when appointing any individual to serve in the Police
 Department.  
 (Ord. 2015-21. Passed 7-27-15.)
@@ -217,13 +217,13 @@ the following provisions:
 under control of the Police Chief, and shall at all times be considered as being
 on official police duty.
 
-2. _(b)_ Such patrol officers shall be paid by the Municipality at the officer’s
+2. _(b)_ Such patrol officers shall be paid by the Municipality at the officer's
 rate of pay set forth in Section 149.23.
 
 3. _(c)_ The Municipality shall be reimbursed by the private entity requesting
-such services at the patrol officer’s actual rate now or hereafter established
+such services at the patrol officer's actual rate now or hereafter established
 by Section 149.23, plus a fee for overhead amounting to forty percent (40%) of
-each patrol officer’s pay for such service. A minimum charge of four hours shall
+each patrol officer's pay for such service. A minimum charge of four hours shall
 be paid by the entity even if actual hours are less than four.
 
 4. _(d)_ Such duty shall be restricted to the limits of the Municipality and/or

@@ -27,7 +27,7 @@ connection with the most recent national, state and local elections. Members of
 the general public shall be afforded the opportunity to speak on these matters
 for up to five (5) minutes per person. The Village shall record the minutes of
 the meeting and make them available to the public by posting them on the
-Village’s website.  
+Village's website.  
 (Ord. 2021-08. Passed 2-8-21.)
 
 ## 171.02   Summary of public hearing
@@ -36,7 +36,7 @@ Within one (1) week following the biennial public hearing, the Clerk of Village
 Council shall send a letter to the leaders of the Ohio House and Senate, to our
 U.S. Congressional Representative, and to both Ohio Senators. The letter will
 include a brief summary of the public hearing and will state that the citizens
-of the Village of Chargin Falls in November 2014 voted in support of a Citizens’
+of the Village of Chargin Falls in November 2014 voted in support of a Citizens'
 Initiative calling for an amendment to the U.S. Constitution declaring:
 
 1. _(a)_ Only human beings, not corporations, are legal persons with

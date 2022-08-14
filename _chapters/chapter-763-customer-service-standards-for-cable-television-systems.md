@@ -27,7 +27,7 @@ resolve citizen complaints without delay and interference from the franchising
 authority.
 
 2. _(b)_ Where a given complaint is not addressed by the cable operator to the
-citizen’s satisfaction, the complaint officer should intervene as indicated in
+citizen's satisfaction, the complaint officer should intervene as indicated in
 Section 763.03(g).
 
 3. _(c)_ These standards are intended to be of general application; however, the
@@ -70,10 +70,10 @@ in all contacts with customers.
     convenient location with a telephone listing for the purpose of offering the
     following services to customers who come to the local business office: bill
     payment, faulty equipment exchange, processing of change of service requests
-    and response to customers’ inquiries. This local business office shall be
+    and response to customers' inquiries. This local business office shall be
     open Monday through Friday (holidays excluded) from 8:00 a.m. to 6:00 p.m.,
     and from 9:00 a.m. to 1:00 p.m. Saturday. The cable operator shall also
-    provide full exchanges of equipment at the customers’ premises. The cable
+    provide full exchanges of equipment at the customers' premises. The cable
     operator may, with the express written permission of the Village, provide an
     alternate means to address customer inquiries, exchange faulty equipment,
     process change of service requests and provide for bill payment other than
@@ -163,7 +163,7 @@ in all contacts with customers.
         the cable system or its operation of the cable system as well as all
         written complaints to either the cable operator or the grantor from
         subscribers, in a manner consistent with the privacy rights of
-        customers, and the cable operator’s actions in response to those
+        customers, and the cable operator's actions in response to those
         complaints. These files shall be available to the franchising authority
         during normal business hours upon request.
 
@@ -183,10 +183,10 @@ in all contacts with customers.
         and 6:00 a.m.
 
         2. _(B)_ If a customer experiences poor video or audio reception
-        attributable to the cable operator’s equipment, the cable operator shall
+        attributable to the cable operator's equipment, the cable operator shall
         repair the problem no later than the day following the customer call. If
         an appointment is necessary, customer may choose the same blocks of time
-        described in Section 763.03(c)(2)A. At the customer’s request, the cable
+        described in Section 763.03(c)(2)A. At the customer's request, the cable
         operator shall repair the problem at a later time convenient to the
         customer.
 
@@ -206,7 +206,7 @@ in all contacts with customers.
         restore any property to as good condition as before the work causing
         such disturbance was initiated. The cable operator shall repair, replace
         or compensate a property owner for any damage resulting from the cable
-        operator’s installation, construction, service or repair activities.
+        operator's installation, construction, service or repair activities.
 
         3. _(C)_ Except in the case of an emergency involving public safety or
         service interruption to a large number of subscribers, the cable
@@ -226,7 +226,7 @@ in all contacts with customers.
         property owner or legal tenant in person, and shall leave a door hanger
         notice in the event personal contact is not made.
 
-        4. _(D)_ The cable operator’s personnel shall clean all areas
+        4. _(D)_ The cable operator's personnel shall clean all areas
         surrounding any work site and ensure that all cable materials have been
         disposed of properly.
 
@@ -239,13 +239,13 @@ in all contacts with customers.
         1. _(A)_ Products and services offered by the cable operator, including
         its channel lineup;
 
-        2. _(B)_ The cable operator’s complete range of service options and the
+        2. _(B)_ The cable operator's complete range of service options and the
         prices for these services;
 
         3. _(C)_ Instruction on the use of cable TV service and on a standard
         VCR hookup;
 
-        4. _(D)_ The cable operator’s billing, collection and disconnection
+        4. _(D)_ The cable operator's billing, collection and disconnection
         policies;
 
         5. _(E)_ Customer privacy requirements;
@@ -304,14 +304,14 @@ in all contacts with customers.
     3. _(3)_ **Refunds.** Refund checks will be issued promptly, but no later
     than either:
 
-        1. _(A)_ The customer’s next billing cycle following resolution of the
+        1. _(A)_ The customer's next billing cycle following resolution of the
         request or 30 days, whichever is earlier, or
 
         2. _(B)_ The return of the equipment supplied by the cable operator if
         service is terminated.
 
     4. _(4)_ **Credits.** Credits for service will be issued no later than the
-    customer’s next billing cycle following the determination that a credit is
+    customer's next billing cycle following the determination that a credit is
     warranted.
 
 7. _(g)_ **Complaint Procedures.**
@@ -342,7 +342,7 @@ in all contacts with customers.
     complaints, identifying the subscriber, and describing the nature of the
     complaints and when and what action was taken by the cable operator in
     response thereto. Such records shall be kept for a period of three years at
-    cable operator’s local office, reflecting the operations to date subject to
+    cable operator's local office, reflecting the operations to date subject to
     applicable laws regarding subscriber privacy and shall be made available for
     inspection during regular business hours.
 
@@ -352,7 +352,7 @@ in all contacts with customers.
     interested person who has a complaint regarding the quality of cable
     television service, equipment malfunctions, billings or any other matter,
     which remains unsolved for 30 days after it has been brought to the cable
-    operator’s attention, may file a complaint, in writing, with the Complaint
+    operator's attention, may file a complaint, in writing, with the Complaint
     Officer. Upon the filing of such a complaint, said Complaint Offficer shall
     notify the cable operator and make an investigation to determine whether or
     not there is a probable cause to credit the allegations. If the Complaint

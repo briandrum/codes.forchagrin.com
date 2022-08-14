@@ -156,11 +156,11 @@ include the feminine and the neuter.
 
 #### 126.03011   Adjusted federal taxable income
 
-“Adjusted federal taxable income” means a “C” corporation’s federal taxable
+"Adjusted federal taxable income" means a "C" corporation's federal taxable
 income before net operating losses and special deductions as determined under
 the Internal Revenue Code, but including subsequent adjustments from required
-additions and deductions. Pass-through entities must compute “adjusted federal
-taxable income” as if the pass-through entity was a “C” corporation. This
+additions and deductions. Pass-through entities must compute "adjusted federal
+taxable income" as if the pass-through entity was a "C" corporation. This
 definition does not apply to any taxpayer required to file a return under Ohio
 R.C. 5745.03 or to the net profit from a sole proprietorship. This definition is
 effective for tax years beginning on or after January 1, 2005.  
@@ -168,26 +168,26 @@ effective for tax years beginning on or after January 1, 2005.
 
 ### 126.0302   Administrator
 
-“Administrator” means the Director of Finance of the Municipality who is
+"Administrator" means the Director of Finance of the Municipality who is
 designated to administer and enforce the provisions of the municipal income
 tax.  
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0303   Association
 
-“Association” means any partnership, limited partnership or any other form of
+"Association" means any partnership, limited partnership or any other form of
 unincorporated enterprise, owned by two or more persons.  
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0304   Board of review
 
-“Board of Review” means the Board created by and constituted as provided in
+"Board of Review" means the Board created by and constituted as provided in
 Section 126.2501 herein.  
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0305   Business
 
-“Business” means any enterprise, activity, profession or undertaking of any
+"Business" means any enterprise, activity, profession or undertaking of any
 nature conducted for profit or ordinarily conducted for profit, whether by an
 individual, partnership, association, corporation or any other entity, excluding
 however, all nonprofit corporations which are exempt from the payment of Federal
@@ -196,14 +196,14 @@ Income Tax.
 
 ### 126.0306   Corporation
 
-“Corporation” means a corporation or joint stock association organized under the
+"Corporation" means a corporation or joint stock association organized under the
 laws of the United States, the State of Ohio or any other state, territory or
 foreign country or dependency.  
 (Ord.1968-730. Passed 6-18-68. )
 
 ### 126.0307   Employee
 
-“Employee” means one who works for wages, salary, commission or other type of
+"Employee" means one who works for wages, salary, commission or other type of
 compensation in the service of an employer.  
 (Ord.1968-730. Passed 6-18-68.)
 
@@ -223,12 +223,12 @@ day other than December 31.
 
 #### 126.03091   Generic form
 
-“Generic form” means an electronic or paper form designated for reporting
+"Generic form" means an electronic or paper form designated for reporting
 estimated municipal taxes, and/or annual municipal income tax liability, and/or
 requests for refunds, which contains all the information required on the
-Municipality’s regular tax return, estimated payment forms, and request for
+Municipality's regular tax return, estimated payment forms, and request for
 refund forms, and is in a similar format that will allow processing of the
-generic forms without altering the Municipality’s procedures for processing
+generic forms without altering the Municipality's procedures for processing
 forms.  
 (Ord. 2005-44. Passed 7-11-05.)
 
@@ -239,7 +239,7 @@ forms.
 
 ### 126.0311   Net profits
 
-“Net profits” means, for taxable years prior to 2005, a net gain from the
+"Net profits" means, for taxable years prior to 2005, a net gain from the
 operation of a business, profession, enterprise, or other activity after
 provision for all ordinary and necessary expenses either paid or accrued in
 accordance with the accounting system used by the taxpayer for federal income
@@ -278,12 +278,12 @@ more of his regular employees regularly in attendance.
 
 #### 126.03151   Qualifying wage
 
-“Qualifying wage” means wages as defined in Section 3121(a) of the Internal
+"Qualifying wage" means wages as defined in Section 3121(a) of the Internal
 Revenue Code, without regard to any wage limitation, but including subsequent
-adjustments from required additions and deductions. “Qualifying wage” represents
-employees’ income including non- qualified deferred compensation and stock
+adjustments from required additions and deductions. "Qualifying wage" represents
+employees' income including non- qualified deferred compensation and stock
 options from which municipal tax shall be deducted by the employer, and any
-wages not considered a part of “qualifying wage” shall not be taxed by the
+wages not considered a part of "qualifying wage" shall not be taxed by the
 Municipality. This definition is effective January 1, 2005, for taxable years
 2005 and later.  
 (Ord. 2005-44. Passed 7-11-05.)
@@ -324,7 +324,7 @@ tax.
 
 ### 126.0321   Manager
 
-"Manager" means any of the employer’s officers, responsible persons, employees
+"Manager" means any of the employer's officers, responsible persons, employees
 having control or supervision, and employees charged with the responsibility of
 filing the return, paying taxes and otherwise complying with this chapter.  
 (Ord.1986-33. Passed 7-14-86.)
@@ -402,20 +402,20 @@ of this chapter and including:
         income was derived from a business activity of such taxpayer and the net
         income from such royalty interest shall be subject to tax.
 
-    2. _(2)_ **Employer’s income.** The employer’s income derived from finance
-    and carrying charges associated with his customers’ accounts receivable.
+    2. _(2)_ **Employer's income.** The employer's income derived from finance
+    and carrying charges associated with his customers' accounts receivable.
     (Ord. 1986-33. Passed 7-14-86; Ord. 2005-44. Passed 7-11-05. )
 
 7. _(g)_ **Occasional Entrant Rule.**
 
     1. _(1)_ A non-resident individual who works in the Municipality twelve or
     fewer days per year shall be considered an occasional entrant, and shall not
-    be subject to the Municipality’s income tax for those twelve days. For
+    be subject to the Municipality's income tax for those twelve days. For
     purposes of the twelve-day calculation, any portion of a day worked in the
     Municipality shall be counted as one day worked in the Municipality.
 
     2. _(2)_ Beginning with the thirteenth day, the employer of said individual
-    shall begin withholding the Municipality’s income tax from remuneration paid
+    shall begin withholding the Municipality's income tax from remuneration paid
     by the employer to the individual, and shall remit the withheld income tax
     to the Municipality in accordance with the requirements of this chapter.
     Since the individual can no longer be considered to have been an occasional
@@ -608,7 +608,7 @@ insurance or otherwise.
 9. _(i)_ Gains from involuntary conversion, cancellation of indebtedness,
 interest on federal obligations, items of income already taxed by the State of
 Ohio from which the Municipality is specifically prohibited from taxing, and
-income of a decedent’s estate during the period of administration (except such
+income of a decedent's estate during the period of administration (except such
 income from the operation of a business).
 
 10. _(j)_ Salaries, wages, commissions and other compensation and net profits,
@@ -622,7 +622,7 @@ any act of the Ohio General Assembly limiting the power of the Municipality to
 impose net income taxes.
 
 12. _(l)_ Parsonage allowance, to the extent of the rental allowance or rental
-value or a house provided as a part of an ordained minister’s compensation. The
+value or a house provided as a part of an ordained minister's compensation. The
 ordained minister must be duly ordained, commissioned, or licensed by a
 religious body constituting a church or church denomination, and must have
 authority to perform all sacraments of the church.  
@@ -671,8 +671,8 @@ tentative return, accompanied by payment of the amount of tax shown to be due
 thereon by the date the return is normally due. No penalty or interest shall be
 assessed in those cases in which the return is filed and the final tax paid
 within the period as extended. The extension request may be made by filing a
-copy of the taxpayer’s request for a federal filing extension, or by filing a
-written request. The Administrator may deny the extension if the taxpayer’s
+copy of the taxpayer's request for a federal filing extension, or by filing a
+written request. The Administrator may deny the extension if the taxpayer's
 income tax account with the Municipality is delinquent in any way.  
 (Ord. 1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
@@ -715,7 +715,7 @@ A taxpayer may not change the method of accounting or apportionment of net
 profits after the due date for filing the original return.
 
 2. _(b)_ Within three months from the final determination of any federal tax
-liability affecting the taxpayer’s municipal tax liability, such taxpayer shall
+liability affecting the taxpayer's municipal tax liability, such taxpayer shall
 make and file an amended municipal return showing income subject to the
 municipal tax based upon such final determination of federal tax liability, and
 pay any additional tax shown due thereon or make claim for refund of any
@@ -760,7 +760,7 @@ and penalty which the predecessor employer owes pursuant to this chapter. The
 successor employer shall make such withholding until such time that the
 predecessor employer has paid such taxes, interest and penalties. If the
 successor fails to withhold such amount, then the successor and, in a personal
-manner, the successor’s manager shall be jointly and severally liable for the
+manner, the successor's manager shall be jointly and severally liable for the
 payment of such taxes, interest and penalty.  
 (Ord.1986-33. Passed 7-14-86.)
 
@@ -795,11 +795,11 @@ trust fund in the hands of such employer.
 
 4. _(d)_ No person shall be required to withhold the tax on wages or other
 compensation paid domestic servants employed by him exclusively in or about such
-person’s residence, even though such residence is in the Municipality, but such
+person's residence, even though such residence is in the Municipality, but such
 employee shall be subject to all of the requirements of this chapter.  
 (Ord.1971-850. Passed 12-7-71.)
 
-5. _(e)_ Manager’s Obligation.
+5. _(e)_ Manager's Obligation.
 
     1. _(1)_ Every manager is deemed to be a trustee of the Municipality in
     collecting and holding the tax required under this chapter to be withheld
@@ -812,12 +812,12 @@ employee shall be subject to all of the requirements of this chapter.
 
     2. _(2)_ All managers shall be personally liable to the extent of the tax,
     interest and penalty, jointly and severally, for failure to file the
-    employer’s return or to pay the employer’s tax, interest and penalty as
+    employer's return or to pay the employer's tax, interest and penalty as
     required under this chapter.
 
     3. _(3)_ No change in structure by an employer, including a fundamental
-    change, discharges its managers from liability for the employees’ or
-    manager’s failure to remit funds held in trust, to file a tax return or to
+    change, discharges its managers from liability for the employees' or
+    manager's failure to remit funds held in trust, to file a tax return or to
     pay taxes.  
     (Ord.1986-33. Passed 7-14-86.)
 
@@ -926,7 +926,7 @@ dollars ($25.00).
 
 3. _(c)_ Notwithstanding the above, no penalties shall be assessed on estimated
 payments if the taxpayer has remitted an amount equal to one hundred percent
-(100%) of the previous year’s tax liability, provided that the previous year
+(100%) of the previous year's tax liability, provided that the previous year
 reflected a twelve- month period, or if ninety percent (90%) of the actual
 liability has been received.  
 (Ord.1980-12. Passed 2-25-80; Ord. 2005-44. Passed 7-11-05.)
@@ -1131,7 +1131,7 @@ otherwise.
 3. _(c)_ **Assessment of a Taxpayer by Administrator.** The Administrator may
 calculate and assess any taxpayer for the amount of tax, penalty and interest
 which is imposed by this chapter and which is due and owing. Such assessment
-shall be made by the Administrator’s issuing summary records to the last known
+shall be made by the Administrator's issuing summary records to the last known
 address of the taxpayer of the assessment. This summary shall include the
 identification of the taxpayer, the character of the liability assessed, the
 taxation period and the amount of the assessment.
@@ -1140,12 +1140,12 @@ taxation period and the amount of the assessment.
 or any assessment made by the Administrator pursuant to this chapter shall be
 prima-facie good and sufficient for all legal purposes. The Administrator may
 execute supplemental tax returns and may issue supplemental assessments whenever
-the Administrator has knowledge derived from any source including the taxpayer’s
+the Administrator has knowledge derived from any source including the taxpayer's
 financial data that any executed tax return or assessment is imperfect or
 incomplete in any material respect.
 
-5. _(e)_ **Limitation of Prosecutions.** Neither the Tax Administrator’s
-execution of a return nor the Tax Administrator’s assessment of a taxpayer shall
+5. _(e)_ **Limitation of Prosecutions.** Neither the Tax Administrator's
+execution of a return nor the Tax Administrator's assessment of a taxpayer shall
 start the running of the period of limitations on prosecutions set forth
 elsewhere in this chapter.  
 (Ord.1986-33. Passed 7-14-86.)
@@ -1227,15 +1227,15 @@ Section 126.1501 and Section 126.1502 hereunder.
 
 ### 126.2501   Board of review established
 
-1. _(a)_ A Board of Review, consisting of the Mayor, or the Mayor’s designee,
-the Director of Law, or the Director of Law’s designee, and one Village resident
+1. _(a)_ A Board of Review, consisting of the Mayor, or the Mayor's designee,
+the Director of Law, or the Director of Law's designee, and one Village resident
 who shall be appointed by the Mayor for a one-year term is hereby created. The
 Board shall select, each for a one-year term, one of its members to serve as
 Chairman and one to serve as Secretary. The majority of the members of the Board
 shall constitute a quorum. The Board shall adopt its own procedural rules and
 shall keep a record of its transactions. Any hearing by the Board may be
 conducted privately and the provisions of Section 126.2309 shall apply to such
-matters as may be heard before the Board. The Board’s records are not open to
+matters as may be heard before the Board. The Board's records are not open to
 public inspection nor are the meetings subject to the State open meeting law.
 
 2. _(b)_ Any person dissatisfied with any ruling or decision of the
@@ -1243,29 +1243,29 @@ Administrator which was made under the authority conferred by this chapter and
 who has filed the required returns or other documents pertaining to the
 contested issue, may appeal therefrom in writing to the Board of Review within
 thirty calendar days from the issuance of such ruling or decision by the
-Administrator. The appeal must state the alleged errors in the Administrator’s
+Administrator. The appeal must state the alleged errors in the Administrator's
 ruling or decision. The Board must schedule a hearing within forty-five calendar
 days of receiving the appeal unless the taxpayer expressly waives the hearing
 and chooses instead to permit the Board to render its decision on writings
 submitted by the taxpayer and the Administrator. If the taxpayer does not waive
 the hearing, the taxpayer is entitled to appear before the Board and bring
 representation of his choosing. The records of the hearing are not open to the
-public nor is the hearing subject to the State’s open meeting law. The Board
+public nor is the hearing subject to the State's open meeting law. The Board
 shall have jurisdiction to affirm, reverse or modify any such ruling or
 decision, or any part thereof. The Board must issue its written decision within
 thirty calendar days after the final hearing and send a notice of its decision
 by ordinary mail to the taxpayer/appellant within fifteen calendar days after
 issuing its decision. If the Board fails to comply with the provisions of this
-section, the taxpayer’s appeal will default in favor of the taxpayer but the
+section, the taxpayer's appeal will default in favor of the taxpayer but the
 default will not be on the merits of the issues.
 
 3. _(c)_ Any person dissatisfied with any ruling or decision of the Board of
 Review may appeal therefrom to a court of competent jurisdiction as provided by
-law within thirty (30) calendar days from the date of the Board’s ruling. For
+law within thirty (30) calendar days from the date of the Board's ruling. For
 matters relating to tax years beginning on or after January 1, 2004, any ruling
 or decision of the Board of Review may be appealed to a court of competent
 jurisdiction or to the State Board of Tax Appeals within thirty calendar days
-from the date of the Board’s ruling.  
+from the date of the Board's ruling.  
 (Ord. 2001-39. Passed 5-14-01; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.2502   Duty to approve regulations and to hear appeals

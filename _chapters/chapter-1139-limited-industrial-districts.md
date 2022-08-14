@@ -84,7 +84,7 @@ accessory uses set forth below.
         2. _(B)_ Electric equipment: household appliances, lighting fixtures,
         small motors not to exceed 25 pounds, radios, televisions.
 
-        3. _(C)_ Hand tools, builders’ hardware.
+        3. _(C)_ Hand tools, builders' hardware.
 
         4. _(D)_ Instruments: musical, medical and scientific.
 

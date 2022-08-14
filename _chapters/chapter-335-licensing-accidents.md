@@ -8,9 +8,9 @@ title: "Chapter 335: Licensing; Accidents"
 
 ## Sections
 
-* [335.01   Driver’s license or commercial driver’s license required](#33501-drivers-license-or-commercial-drivers-license-required)
+* [335.01   Driver's license or commercial driver's license required](#33501-drivers-license-or-commercial-drivers-license-required)
 * [335.02   Permitting operation without valid license; one license permitted](#33502-permitting-operation-without-valid-license-one-license-permitted)
-* [335.021   Ohio driver’s license required for in state residents](#335021-ohio-drivers-license-required-for-in-state-residents)
+* [335.021   Ohio driver's license required for in state residents](#335021-ohio-drivers-license-required-for-in-state-residents)
 * [335.03   Driving with temporary instruction permit; curfew](#33503-driving-with-temporary-instruction-permit-curfew)
 * [335.031   Driving with probationary license; curfew](#335031-driving-with-probationary-license-curfew)
 * [335.032   Use of electronic wireless communication device prohibited while driving](#335032-use-of-electronic-wireless-communication-device-prohibited-while-driving)
@@ -35,16 +35,16 @@ title: "Chapter 335: Licensing; Accidents"
 ## Cross references
 
 * See sectional histories for similar State law
-* Deposit of driver’s license as bond - see Ohio R.C. 2937.221
+* Deposit of driver's license as bond - see Ohio R.C. 2937.221
 * Motor vehicle licensing law - see Ohio R.C. Ch. 4503
-* Driver’s license law - see Ohio R.C. Ch. 4507
+* Driver's license law - see Ohio R.C. Ch. 4507
 * Power of trial court of record to suspend or revoke license for certain violations - see Ohio R.C. Ch. 4510
 * State point system suspension - see Ohio R.C. 4510.03.6
 * State accident reports - see Ohio R.C. 4509.01(J), 4509.06, 4509.74, 5502.11
-* Motorized bicycle operator’s license - see Ohio R.C. 4511.521
+* Motorized bicycle operator's license - see Ohio R.C. 4511.521
 * Glass removal from street after accident - see TRAF. 311.01
 
-## 335.01   Driver’s license or commercial driver’s license required
+## 335.01   Driver's license or commercial driver's license required
 
 1. _(a)_
 
@@ -52,8 +52,8 @@ title: "Chapter 335: Licensing; Accidents"
     4507.04, and 4507.05, shall operate any motor vehicle upon a public road or
     highway or any public or private property used by the public for purposes of
     vehicular travel or parking in this Municipality unless the person has a
-    valid driver’s license issued under Ohio R.C. Chapter 4507 or a commercial
-    driver’s license issued under Ohio R.C. Chapter 4506.
+    valid driver's license issued under Ohio R.C. Chapter 4507 or a commercial
+    driver's license issued under Ohio R.C. Chapter 4506.
 
     2. _(2)_ No person, except a person expressly exempted under Ohio R.C.
     4507.03, 4507.04, and 4507.05, shall operate any motorcycle upon a public
@@ -62,7 +62,7 @@ title: "Chapter 335: Licensing; Accidents"
     person has a valid license as a motorcycle operator that was issued upon
     application by the Registrar of Motor Vehicles under Ohio R.C. Chapter 4507.
     The license shall be in the form of an endorsement, as determined by the
-    Registrar, upon a driver’s or commercial driver’s license, if the person has
+    Registrar, upon a driver's or commercial driver's license, if the person has
     a valid license to operate a motor vehicle or commercial motor vehicle, or
     in the form of a restricted license as provided in Ohio R.C. 4507.14, if the
     person does not have a valid license to operate a motor vehicle or
@@ -73,10 +73,10 @@ copy of the law enforcement automated data system report or a noncertified copy
 of a record of the Registrar of Motor Vehicles that shows the name, date of
 birth, and social security number of a person charged with a violation of
 subsection (a)(1) or (2) of this section may be admitted into evidence as
-prima-facie evidence that the person did not have either a valid driver’s or
-commercial driver’s license at the time of the alleged violation of subsection
+prima-facie evidence that the person did not have either a valid driver's or
+commercial driver's license at the time of the alleged violation of subsection
 (a)(1) of this section or a valid license as a motorcycle operator either in the
-form of an endorsement upon a driver’s or commercial driver’s license or a
+form of an endorsement upon a driver's or commercial driver's license or a
 restricted license at the time of the alleged violation of subsection (a)(2) of
 this section. The person charged with a violation of subsection (a)(1) or (2) of
 this section may offer evidence to rebut this prima-facie evidence.
@@ -85,11 +85,11 @@ this section may offer evidence to rebut this prima-facie evidence.
 motorcycle without a valid license and shall be punished as follows:
 
     1. _(1)_ If the trier of fact finds that the offender never has held a valid
-    driver’s or commercial driver’s license issued by this state or any other
+    driver's or commercial driver's license issued by this state or any other
     jurisdiction, or, in a case involving the operation of a motorcycle by the
     offender, if the offender has never held a valid license as a motorcycle
-    operator, either in the form of an endorsement upon a driver’s or commercial
-    driver’s license or in the form of a restricted license, except as otherwise
+    operator, either in the form of an endorsement upon a driver's or commercial
+    driver's license or in the form of a restricted license, except as otherwise
     provided in this subsection, the offense is an unclassified misdemeanor.
     When the offense is an unclassified misdemeanor, the offender shall be
     sentenced pursuant to Ohio R.C. 2929.21 to 2929.28, except that the offender
@@ -106,10 +106,10 @@ motorcycle without a valid license and shall be punished as follows:
     guilty to any violation of Ohio R.C. 4510.12 or a substantially equivalent
     municipal ordinance, the offense is a misdemeanor of the first degree.
 
-    2. _(2)_ If the offender’s driver’s or commercial driver’s license or permit
+    2. _(2)_ If the offender's driver's or commercial driver's license or permit
     or, in a case involving the operation of a motorcycle by the offender, the
-    offender’s driver’s or commercial driver’s license bearing the motorcycle
-    endorsement or the offender’s restricted license was expired at the time of
+    offender's driver's or commercial driver's license bearing the motorcycle
+    endorsement or the offender's restricted license was expired at the time of
     the offense, except as otherwise provided in this subsection, the offense is
     a minor misdemeanor. If, within three years of the offense, the offender
     previously has been convicted of or pleaded guilty to two or more violations
@@ -117,16 +117,16 @@ motorcycle without a valid license and shall be punished as follows:
     offense is a misdemeanor of the first degree.
 
 4. _(d)_ The court shall not impose a license suspension for a first violation
-of this section or if more than three years have passed since the offender’s
+of this section or if more than three years have passed since the offender's
 last violation of Ohio R.C. 4510.12 or a substantially equivalent municipal
 ordinance.
 
 5. _(e)_ If the offender is sentenced under subsection (c)(2) hereof, if within
 three years of the offense the offender previously was convicted of or pleaded
 guilty to one or more violations of Ohio R.C. 4510.12 or a substantially
-equivalent municipal ordinance, and if the offender’s license was expired for
+equivalent municipal ordinance, and if the offender's license was expired for
 more than six months at the time of the offense, the court may impose a class
-seven suspension of the offender’s driver’s license, commercial driver’s
+seven suspension of the offender's driver's license, commercial driver's
 license, temporary instruction permit, probationary license, or nonresident
 operating privilege from the range specified in division (A)(7) of Ohio R.C.
 4510.02.  
@@ -136,15 +136,15 @@ operating privilege from the range specified in division (A)(7) of Ohio R.C.
 
 1. _(a)_ No person shall permit the operation of a motor vehicle upon any public
 or private property used by the public for purposes of vehicular travel or
-parking knowing the operator does not have a valid driver’s license issued to
+parking knowing the operator does not have a valid driver's license issued to
 the operator by the Registrar of Motor Vehicles or a Deputy Registrar under Ohio
-R.C. Chapter 4507 or a valid commercial driver’s license issued under Ohio R.C.
+R.C. Chapter 4507 or a valid commercial driver's license issued under Ohio R.C.
 Chapter 4506.
 
 2. _(b)_
 
-    1. _(1)_ No person shall receive a driver’s license, or a motorcycle
-    operator’s endorsement of a driver’s or commercial driver’s license,
+    1. _(1)_ No person shall receive a driver's license, or a motorcycle
+    operator's endorsement of a driver's or commercial driver's license,
     temporary instruction permit, or identification card unless and until the
     person surrenders to the Registrar or a deputy registrar all valid licenses,
     temporary instruction permits, and identification cards issued to the person
@@ -185,15 +185,15 @@ Chapter 4506.
     of the first degree.  
     (ORC 4507.02; 4507.99)
 
-### 335.021   Ohio driver’s license required for in state residents
+### 335.021   Ohio driver's license required for in state residents
 
 1. _(a)_ Any person who becomes a resident of this State, within thirty days of
-becoming a resident, shall surrender any driver’s license, temporary instruction
+becoming a resident, shall surrender any driver's license, temporary instruction
 permit, or identification card issued by another state to the Registrar of Motor
 Vehicles or a Deputy Registrar. If such a person intends to operate a motor
 vehicle upon the public roads or highways, the person shall apply for a
-temporary instruction permit or driver’s license in this State. If the person
-fails to apply for a driver’s license or temporary instruction permit within
+temporary instruction permit or driver's license in this State. If the person
+fails to apply for a driver's license or temporary instruction permit within
 thirty days of becoming a resident, the person shall not operate any motor
 vehicle in this municipality under a license or permit issued by another state.
 
@@ -209,11 +209,11 @@ vehicle in this municipality under a license or permit issued by another state.
     offense, for which there is no specified degree of culpability, is not a
     strict liability offense.
 
-3. _(c)_ For purposes of subsection (a) of this section, “resident” means any
+3. _(c)_ For purposes of subsection (a) of this section, "resident" means any
 person to whom any of the following applies:
 
     1. _(1)_ The person maintains their principal residence in this State and
-    does not reside in this State as a result of the person’s active service in
+    does not reside in this State as a result of the person's active service in
     the United States Armed Forces.
 
     2. _(2)_ The person is determined by the Registrar of Motor Vehicles to be a
@@ -231,7 +231,7 @@ violation of the following conditions:
     1. _(1)_ If the permit is issued to a person who is at least fifteen years
     six months of age, but less than sixteen years of age:
 
-        1. _(A)_ The permit and identification card are in the holder’s
+        1. _(A)_ The permit and identification card are in the holder's
         immediate possession;
 
         2. _(B)_ The holder is accompanied by an eligible adult who actually
@@ -248,7 +248,7 @@ violation of the following conditions:
     2. _(2)_ If the permit is issued to a person who is at least sixteen years
     of age:
 
-        1. _(A)_ The permit and identification card are in the holder’s
+        1. _(A)_ The permit and identification card are in the holder's
         immediate possession;
 
         2. _(B)_ The holder is accompanied by a licensed operator who is at
@@ -275,8 +275,8 @@ of midnight and six a.m.
     vehicle upon a highway or any public or private property used by the public
     for purposes of vehicular travel or parking between the hours of midnight
     and six a.m. if, at the time of such operation, the holder is accompanied by
-    the holder’s parent, guardian, or custodian, and the parent, guardian or
-    custodian holds a current valid driver’s or commercial driver’s license
+    the holder's parent, guardian, or custodian, and the parent, guardian or
+    custodian holds a current valid driver's or commercial driver's license
     issued by this State and is actually occupying a seat beside the permit
     holder, and does not have a prohibited concentration of alcohol in the whole
     blood, blood serum or plasma, breath, or urine as provided in Section
@@ -284,21 +284,21 @@ of midnight and six a.m.
 
 3. _(c)_ As used in this section:
 
-    1. _(1)_ “Eligible adult” means any of the following:
+    1. _(1)_ "Eligible adult" means any of the following:
 
         1. _(A)_ An instructor of a driver education course approved by the
         Department of Education or a driver training course approved by the
         Department of Public Safety;
 
-        2. _(B)_ Any of the following persons who holds a current valid driver’s
-        or commercial driver’s license issued by this State:
+        2. _(B)_ Any of the following persons who holds a current valid driver's
+        or commercial driver's license issued by this State:
 
             1. _(1)_ A parent, guardian or custodian of the permit holder;
 
             2. _(2)_ A person twenty-one years of age or older who acts in loco
             parentis of the permit holder.
 
-    2. _(2)_ “Occupant restraining device” has the same meaning as in Ohio R.C.
+    2. _(2)_ "Occupant restraining device" has the same meaning as in Ohio R.C.
     4513.263.
 
 4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
@@ -310,58 +310,58 @@ of midnight and six a.m.
 
     1. _(1)_
 
-        1. _(A)_ No holder of a probationary driver’s license who has held the
+        1. _(A)_ No holder of a probationary driver's license who has held the
         license for less than twelve months shall operate a motor vehicle upon a
         highway or any public or private property used by the public for
         purposes of vehicular travel or parking between the hours of midnight
-        and six a.m. unless the holder is accompanied by the holder’s parent or
+        and six a.m. unless the holder is accompanied by the holder's parent or
         guardian.
 
-        2. _(B)_ No holder of a probationary driver’s license who has held the
+        2. _(B)_ No holder of a probationary driver's license who has held the
         license for twelve months or longer shall operate a motor vehicle upon a
         highway or any public or private property used by the public for
         purposes of vehicular travel or parking between the hours of one a.m.
-        and five a.m. unless the holder is accompanied by the holder’s parent or
+        and five a.m. unless the holder is accompanied by the holder's parent or
         guardian.
 
     2. _(2)_
 
         1. _(A)_ Subject to subsection (c)(1) of this section, subsection (a)
         (1)A. of this section does not apply to the holder of a probationary
-        driver’s license who is doing either of the following:
+        driver's license who is doing either of the following:
 
             1. _(1)_ Traveling to or from work between the hours of midnight and
-            six a.m. provided that the holder has in the holder’s immediate
-            possession written documentation from the holder’s employer.
+            six a.m. provided that the holder has in the holder's immediate
+            possession written documentation from the holder's employer.
 
             2. _(2)_ Traveling to or from an official function sponsored by the
             school the holder attends between the hours of midnight and six
-            a.m., provided that the holder has in the holder’s immediate
+            a.m., provided that the holder has in the holder's immediate
             possession written documentation from an appropriate official of the
             school;
 
             3. _(3)_ Traveling to or from an official religious event between
             the hours of midnight and six a.m., provided that the holder has in
-            the holder’s immediate possession written documentation from an
+            the holder's immediate possession written documentation from an
             appropriate official affiliated with the event.
 
         2. _(B)_ Subsection (a)(1)B. of this section does not apply to the
-        holder of a probationary driver’s license who is doing either of the
+        holder of a probationary driver's license who is doing either of the
         following:
 
             1. _(1)_ Traveling to or from work between the hours of one a.m. and
-            five a.m., provided that the holder has in the holder’s immediate
-            possession written documentation from the holder’s employer.
+            five a.m., provided that the holder has in the holder's immediate
+            possession written documentation from the holder's employer.
 
             2. _(2)_ Traveling to or from an official function sponsored by the
             school the holder attends between the hours of one a.m. and five
-            a.m., provided that the holder has in the holder’s immediate
+            a.m., provided that the holder has in the holder's immediate
             possession written documentation from an appropriate official of the
             school;
 
             3. _(3)_ Traveling to or from an official religious event between
             the hours of one a.m. and five a.m., provided that the holder has in
-            the holder’s immediate possession written documentation from an
+            the holder's immediate possession written documentation from an
             appropriate official affiliated with the event.
 
     3. _(3)_ An employer, school official or official affiliated with a
@@ -369,37 +369,37 @@ of midnight and six a.m.
     death or loss to person or property that allegedly arises from, or is
     related to, the fact that the employer, school official, or official
     affiliated with a religious event provided the holder of a probationary
-    driver’s license with the written documentation described in subsection
+    driver's license with the written documentation described in subsection
     (a)(2) of this section. The Registrar of Motor Vehicles shall make available
     at no cost a form to serve as the written documentation described in
     subsection (a)(2) of this section, and employers, school officials,
     officials affiliated with religious events, and holders of probationary
-    driver’s licenses may utilize that form or may choose to utilize any other
+    driver's licenses may utilize that form or may choose to utilize any other
     written documentation to meet the requirements of that subsection.
 
-    4. _(4)_ No holder of a probationary driver’s license who has held the
+    4. _(4)_ No holder of a probationary driver's license who has held the
     license for less than twelve months shall operate a motor vehicle upon a
     highway or any public or private property used by the public for purposes of
     vehicular travel or parking with more than one person who is not a family
     member occupying the vehicle unless the probationary license holder is
-    accompanied by the probationary license holder’s parent, guardian or
+    accompanied by the probationary license holder's parent, guardian or
     custodian.
 
 2. _(b)_ It is an affirmative defense to a violation of subsection (a)(1)A. or
 B. of this section if, at the time of the violation, an emergency existed that
-required the holder of the probationary driver’s license to operate a motor
+required the holder of the probationary driver's license to operate a motor
 vehicle in violation of subsection (a)(1)A. or B. of this section; or the holder
 was an emancipated minor.
 
 3. _(c)_
 
-    1. _(1)_ If a person is issued a probationary driver’s license prior to
+    1. _(1)_ If a person is issued a probationary driver's license prior to
     attaining the age of seventeen years and the person pleads guilty to, is
     convicted of, or is adjudicated in juvenile court of having committed a
     moving violation during the six-month period commencing on the date on which
-    the person is issued the probationary driver’s license, the court with
+    the person is issued the probationary driver's license, the court with
     jurisdiction over the violation may order that the holder must be
-    accompanied by the holder’s parent or guardian whenever the holder is
+    accompanied by the holder's parent or guardian whenever the holder is
     operating a motor vehicle upon a highway or any public or private property
     used by the public for purposes of vehicular travel or parking for a period
     not to exceed six months or the date the holder attains the age of seventeen
@@ -408,7 +408,7 @@ was an emancipated minor.
     2. _(2)_ Any person who is subject to the operating restrictions established
     under subsection (c)(1) of this section as a result of a first moving
     violation may petition the court for driving privileges without being
-    accompanied by the holder’s parent or guardian during the period of time
+    accompanied by the holder's parent or guardian during the period of time
     determined by the court under that subsection. In granting the driving
     privileges, the court shall specify the purposes of the privileges and shall
     issue the person appropriate forms setting forth the privileges granted. If
@@ -448,10 +448,10 @@ prosecution of a person for such violation.
 
 7. _(g)_ As used in this section:
 
-    1. _(1)_ “Occupant restraining device” has the same meaning as in Ohio R.C.
+    1. _(1)_ "Occupant restraining device" has the same meaning as in Ohio R.C.
     4513.263.
 
-    2. _(2)_ “Family member” of a probationary license holder includes any of
+    2. _(2)_ "Family member" of a probationary license holder includes any of
     the following:
 
         1. _(A)_ A spouse;
@@ -465,15 +465,15 @@ prosecution of a person for such violation.
         5. _(E)_ A sibling, whether or the whole or half blood or by adoption, a
         brother-in-law or a sister-in-law;
 
-        6. _(F)_ A son or daughter of the probationary license holder’s
+        6. _(F)_ A son or daughter of the probationary license holder's
         stepparent if the stepparent has not adopted the probationary license
         holder;
 
         7. _(G)_ An eligible adult, as defined in Ohio R.C. 4507.05.
 
-    3. _(3)_ “Moving violation” means any violation of any statute or ordinance
+    3. _(3)_ "Moving violation" means any violation of any statute or ordinance
     that regulates the operation of vehicles, streetcars, or trackless trolleys
-    on the highways or streets. “Moving violation” does not include a violation
+    on the highways or streets. "Moving violation" does not include a violation
     of Ohio R.C. 4513.263 or a substantially equivalent municipal ordinance, or
     a violation of any statute or ordinance regulating pedestrians or the
     parking of vehicles, vehicle size or load limitations, vehicle fitness
@@ -485,7 +485,7 @@ prosecution of a person for such violation.
 ### 335.032   Use of electronic wireless communication device prohibited while driving
 
 1. _(a)_ No holder of a temporary instruction permit who has not attained the
-age of eighteen years and no holder of a probationary driver’s license shall
+age of eighteen years and no holder of a probationary driver's license shall
 drive a motor vehicle on any street, highway, or property used by the public for
 purposes of vehicular traffic or parking while using in any manner an electronic
 wireless communications device.
@@ -510,14 +510,14 @@ following:
     1. _(1)_ Except as provided in subsection (c)(2) of this section, whoever
     violates subsection (a) of this section shall be fined one hundred fifty
     dollars ($150.00). In addition, the court shall impose a class seven
-    suspension of the offender’s driver’s license or permit for a definite
+    suspension of the offender's driver's license or permit for a definite
     period of sixty days.
 
     2. _(2)_ If the person previously has been adjudicated a delinquent child or
     a juvenile traffic offender for a violation of this section, whoever
     violates this section shall be fined three hundred dollars ($300.00). In
-    addition, the court shall impose a class seven suspension of the person’s
-    driver’s license or permit for a definite period of one year.
+    addition, the court shall impose a class seven suspension of the person's
+    driver's license or permit for a definite period of one year.
 
 4. _(d)_ The filing of a sworn complaint against a person for a violation of
 Ohio R.C. 4511.205 does not preclude the filing of a sworn complaint for a
@@ -528,7 +528,7 @@ delinquent child or a juvenile traffic offender for a violation of a
 substantially equivalent municipal ordinance for the same conduct, the two
 offenses are allied offenses of similar import under Ohio R.C. 2941.25.
 
-5. _(e)_ As used in this section, “electronic wireless communications device”
+5. _(e)_ As used in this section, "electronic wireless communications device"
 includes any of the following:
 
     1. _(1)_ A wireless telephone;
@@ -548,32 +548,32 @@ includes any of the following:
 1. _(a)_ No person shall do any of the following:
 
     1. _(1)_ Display, or cause or permit to be displayed, or possess any
-    identification card, driver’s or commercial driver’s license, temporary
-    instruction permit or commercial driver’s license temporary instruction
+    identification card, driver's or commercial driver's license, temporary
+    instruction permit or commercial driver's license temporary instruction
     permit knowing the same to be fictitious, or to have been canceled,
     suspended or altered;
 
     2. _(2)_ Lend to a person not entitled thereto, or knowingly permit a person
-    not entitled thereto to use any identification card, driver’s or commercial
-    driver’s license, temporary instruction permit or commercial driver’s
+    not entitled thereto to use any identification card, driver's or commercial
+    driver's license, temporary instruction permit or commercial driver's
     license temporary instruction permit issued to the person so lending or
     permitting the use thereof;
 
-    3. _(3)_ Display or represent as one’s own, any identification card,
-    driver’s or commercial driver’s license, temporary instruction permit or
-    commercial driver’s license temporary instruction permit not issued to the
+    3. _(3)_ Display or represent as one's own, any identification card,
+    driver's or commercial driver's license, temporary instruction permit or
+    commercial driver's license temporary instruction permit not issued to the
     person so displaying the same;
 
     4. _(4)_ Fail to surrender to the Registrar of Motor Vehicles, upon the
-    Registrar’s demand, any identification card, driver’s or commercial driver’s
-    license, temporary instruction permit or commercial driver’s license
+    Registrar's demand, any identification card, driver's or commercial driver's
+    license, temporary instruction permit or commercial driver's license
     temporary instruction permit that has been suspended or canceled;
 
-    5. _(5)_ In any application for an identification card, driver’s or
-    commercial driver’s license, temporary instruction permit or commercial
-    driver’s license temporary instruction permit, or any renewal, reprint, or
+    5. _(5)_ In any application for an identification card, driver's or
+    commercial driver's license, temporary instruction permit or commercial
+    driver's license temporary instruction permit, or any renewal, reprint, or
     duplicate thereof, knowingly conceal a material fact, or present any
-    physician’s statement required under Ohio R.C. 4507.08 or 4507.081 when
+    physician's statement required under Ohio R.C. 4507.08 or 4507.081 when
     knowing the same to be false or fictitious.
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -583,24 +583,24 @@ degree.
 ## 335.05   Wrongful entrustment of a motor vehicle
 
 1. _(a)_ No person shall permit a motor vehicle owned by the person or under the
-person’s control to be driven by another if any of the following apply:
+person's control to be driven by another if any of the following apply:
 
     1. _(1)_ The offender knows or has reasonable cause to believe that the
-    other person does not have a valid driver’s or commercial driver’s license
+    other person does not have a valid driver's or commercial driver's license
     or permit or valid nonresident driving privileges.
 
     2. _(2)_ The offender knows or has reasonable cause to believe that the
-    other person’s driver’s or commercial driver’s license or permit or
+    other person's driver's or commercial driver's license or permit or
     nonresident operating privileges have been suspended or canceled under Ohio
     R.C. Chapter 4510, or any other provision of the Ohio Revised Code or this
     Traffic Code.
 
     3. _(3)_ The offender knows or has reasonable cause to believe that the
-    other person’s act of driving the motor vehicle would violate any
+    other person's act of driving the motor vehicle would violate any
     prohibition contained in Ohio R.C. Chapter 4509.
 
     4. _(4)_ The offender knows or has reasonable cause to believe that the
-    other person’s act of driving would violate Ohio R.C. 4511.19 or any
+    other person's act of driving would violate Ohio R.C. 4511.19 or any
     substantially equivalent municipal ordinance.
 
     5. _(5)_ The offender knows or has reasonable cause to believe that the
@@ -612,7 +612,7 @@ person’s control to be driven by another if any of the following apply:
 in determining whether a violation of subsection (a)(1), (2), (3), (4) or (5) of
 this section has occurred, it shall be prima-facie evidence that the offender
 knows or has reasonable cause to believe that the operator of the motor vehicle
-owned by the offender or under the offender’s control is in a category described
+owned by the offender or under the offender's control is in a category described
 in subsection (a)(1), (2), (3), (4) or (5) of this section if any of the
 following applies:
 
@@ -627,7 +627,7 @@ following applies:
     reasonable cause to believe that the operator has been charged with or
     convicted of any violation of law or ordinance, or has committed any other
     act or omission, that would or could result in the suspension or
-    cancellation of the operator’s license, permit or privilege.
+    cancellation of the operator's license, permit or privilege.
 
     3. _(3)_ Regarding an operator allegedly in the category described in
     subsection (a)(4) of this section, the offender and the operator of the
@@ -665,7 +665,7 @@ this section.
 
     3. _(3)_ For any violation of this section, in addition to the penalties
     imposed under Section 303.99, the court may impose a class seven suspension
-    of the offender’s driver’s license, commercial driver’s license, temporary
+    of the offender's driver's license, commercial driver's license, temporary
     instruction permit, probationary license or nonresident operating privilege
     from the range specified in division (A)(7) of Ohio R.C. 4510.02, and, if
     the vehicle involved in the offense is registered in the name of the
@@ -674,14 +674,14 @@ this section.
         1. _(A)_ Except as otherwise provided in subsection (c)(3)B. or C. of
         this section, the court may order, for thirty days, the immobilization
         of the vehicle involved in the offense and the impoundment of that
-        vehicle’s license plates. If issued, the order shall be issued and
+        vehicle's license plates. If issued, the order shall be issued and
         enforced under Ohio R.C. 4503.233.
 
         2. _(B)_ If the offender previously has been convicted of or pleaded
         guilty to one violation of Ohio R.C. 4511.203 or a substantially
         equivalent municipal ordinance, the court may order, for sixty days, the
         immobilization of the vehicle involved in the offense and the
-        impoundment of that vehicle’s license plates. If issued, the order shall
+        impoundment of that vehicle's license plates. If issued, the order shall
         be issued and enforced under Ohio R.C. 4503.233.
 
         3. _(C)_ If the offender previously has been convicted of or pleaded
@@ -694,7 +694,7 @@ this section.
         division (B)(2) or (3) of Ohio R.C. 4503.234 applies, in addition to or
         independent of any other penalty established by law, the court may fine
         the offender the value of the vehicle as determined by publications of
-        the national automobile dealer’s association. The proceeds from any fine
+        the national automobile dealer's association. The proceeds from any fine
         imposed under this subsection shall be distributed in accordance with
         division (C)(2) of Ohio R.C. 4503.234.
 
@@ -728,22 +728,22 @@ plea, or adjudication and that arises from the wrongful entrustment of a motor
 vehicle.
 
 8. _(h)_ For purposes of this section, a vehicle is owned by a person if, at the
-time of a violation of this section, the vehicle is registered in the person’s
+time of a violation of this section, the vehicle is registered in the person's
 name.  
 (ORC 4511.203)
 
 ## 335.06   Display of license
 
-1. _(a)_ The operator of a motor vehicle shall display the operator’s driver’s
-license, or furnish satisfactory proof that the operator has a driver’s license,
+1. _(a)_ The operator of a motor vehicle shall display the operator's driver's
+license, or furnish satisfactory proof that the operator has a driver's license,
 upon demand of any peace officer or of any person damaged or injured in any
 collision in which the licensee may be involved. When a demand is properly made
-and the operator has the operator’s driver’s license on or about the operator’s
-person, the operator shall not refuse to display the license. A person’s failure
+and the operator has the operator's driver's license on or about the operator's
+person, the operator shall not refuse to display the license. A person's failure
 to furnish satisfactory evidence that the person is licensed under Ohio R.C.
-Chapter 4507 when the person does not have the person’s license on or about the
-person’s person shall be prima- facie evidence of the person’s not having
-obtained a driver’s license.
+Chapter 4507 when the person does not have the person's license on or about the
+person's person shall be prima- facie evidence of the person's not having
+obtained a driver's license.
 
 2. _(b)_
 
@@ -770,10 +770,10 @@ obtained a driver’s license.
 ## 335.07   Driving under suspension or license restriction
 
 1. _(a)_ Except as provided under subsection (b) hereof and Sections 335.072 and
-335.074, no person whose driver’s or commercial driver’s license or permit or
+335.074, no person whose driver's or commercial driver's license or permit or
 nonresident operating privilege has been suspended under any provision of the
 Ohio Revised Code, other than Ohio R.C. Chapter 4509, or under any applicable
-law in any other jurisdiction in which the person’s license or permit was issued
+law in any other jurisdiction in which the person's license or permit was issued
 shall operate any motor vehicle upon the public roads and highways or upon any
 public or private property used by the public for purposes of vehicular travel
 or parking within this Municipality during the period of suspension unless the
@@ -782,8 +782,8 @@ accordance with the terms of the limited driving privileges.
 
 2. _(b)_ No person shall operate any motor vehicle upon a highway or any public
 or private property used by the public for purposes of vehicular travel or
-parking in this Municipality in violation of any restriction of the person’s
-driver’s or commercial driver’s license or permit imposed under division (D) of
+parking in this Municipality in violation of any restriction of the person's
+driver's or commercial driver's license or permit imposed under division (D) of
 Ohio R.C. 4506.10 or under Ohio R.C. 4507.14.
 
 3. _(c)_ Upon the request or motion of the prosecuting authority, a noncertified
@@ -802,8 +802,8 @@ this prima-facie evidence.
 
     1. _(1)_ Whoever violates subsection (a) or (b) hereof, is guilty of a
     misdemeanor of the first degree. The court may impose upon the offender a
-    class seven suspension of the offender’s driver’s license, commercial
-    driver’s license, temporary instruction permit, probationary license, or
+    class seven suspension of the offender's driver's license, commercial
+    driver's license, temporary instruction permit, probationary license, or
     nonresident operating privilege from the range specified in division (A)(7)
     of Ohio R.C. 4510.02.
 
@@ -811,27 +811,27 @@ this prima-facie evidence.
 
         1. _(A)_ Except as provided in subsection (d)(2)B. or C. of this
         section, the court, in addition to any other penalty that it imposes on
-        the offender and if the vehicle is registered in the offender’s name and
+        the offender and if the vehicle is registered in the offender's name and
         if, within three years of the offense, the offender previously has been
         convicted of or pleaded guilty to one violation of Ohio R.C. 4510.11 or
         Ohio R.C. 4510.111 or 4510.16, or a substantially equivalent municipal
         ordinance, the court, in addition to or independent of any other
         sentence that it imposes upon the offender, may order the immobilization
         of the vehicle involved in the offense for thirty days and the
-        impoundment of that vehicle’s license plates for thirty days in
+        impoundment of that vehicle's license plates for thirty days in
         accordance with Ohio R.C. 4503.233.
 
-        2. _(B)_ If the vehicle is registered in the offender’s name and if,
+        2. _(B)_ If the vehicle is registered in the offender's name and if,
         within three years of the offense, the offender previously has been
         convicted of or pleaded guilty to two violations of Ohio R.C. 4510.11 or
         any combination of two violations of Ohio R.C. 4510.11 or Ohio R.C.
         4510.111 or 4510.16, or of a substantially similar municipal ordinance,
         the court, in addition to any other sentence that it imposes on the
         offender may order the immobilization of the vehicle involved in the
-        offense for sixty days and the impoundment of that vehicle’s license
+        offense for sixty days and the impoundment of that vehicle's license
         plates for sixty days in accordance with Ohio R.C. 4503.233.
 
-        3. _(C)_ If the vehicle is registered in the offender’s name and if,
+        3. _(C)_ If the vehicle is registered in the offender's name and if,
         within three years of the offense, the offender previously has been
         convicted of or pleaded guilty to three or more violations of Ohio R.C.
         4510.11, or any combination of three or more violations of Ohio R.C.
@@ -864,11 +864,11 @@ that proof of financial responsibility, then, in addition to any other penalties
 provided by law, the court may order restitution pursuant to Ohio R.C. 2929.28
 in an amount not exceeding five thousand dollars ($5,000) for any economic loss
 arising from an accident or collision that was the direct and proximate result
-of the offender’s operation of the vehicle before, during, or after committing
+of the offender's operation of the vehicle before, during, or after committing
 the offense for which the offender is sentenced under this section.  
 (ORC 4510.11)
 
-8. _(h)_ Any person whose driver’s or commercial driver’s license or permit or
+8. _(h)_ Any person whose driver's or commercial driver's license or permit or
 nonresident operating privileges are suspended as a repeat traffic offender
 under this section and who, during the suspension, operates any motor vehicle
 upon any public roads and highways is guilty of driving under a twelve-point
@@ -879,7 +879,7 @@ first three days of jail time imposed pursuant to this subsection.
 
 ### 335.071   Driving under ovi suspension
 
-1. _(a)_ No person whose driver’s or commercial driver’s license or permit or
+1. _(a)_ No person whose driver's or commercial driver's license or permit or
 nonresident operating privilege has been suspended under Ohio R.C. 4511.19,
 4511.191, or 4511.196 or under Ohio R.C. 4510.07 for a conviction of a violation
 of a municipal OVI ordinance shall operate any motor vehicle upon the public
@@ -965,10 +965,10 @@ under the control of that court, as created by the county or municipal
 corporation pursuant to division (H) of Ohio R.C. 4511.191.
 
 5. _(e)_ In addition to or independent of all other penalties provided by law or
-ordinance, the trial judge of any court of record or the mayor of a mayor’s
+ordinance, the trial judge of any court of record or the mayor of a mayor's
 court shall impose on an offender who is convicted of or pleads guilty to a
-violation of this section a class seven suspension of the offender’s driver’s or
-commercial driver’s license or permit or nonresident operating privilege from
+violation of this section a class seven suspension of the offender's driver's or
+commercial driver's license or permit or nonresident operating privilege from
 the range specified in division (A)(7) of Ohio R.C. 4510.02.  
 
     When permitted as specified in Ohio R.C. 4510.021, if the court grants
@@ -978,14 +978,14 @@ the range specified in division (A)(7) of Ohio R.C. 4510.02.
     4503.231, on the vehicle driven subject to the privileges, except as
     provided in division (B) of that section.  
 
-    A suspension of a commercial driver’s license under this section shall be
+    A suspension of a commercial driver's license under this section shall be
     concurrent with any period of suspension or disqualification under Ohio R.C.
     3123.58 or 4506.16. No person who is disqualified for life from holding a
-    commercial driver’s license under Ohio R.C. 4506.16 shall be issued a
-    driver’s license under Ohio R.C. Chapter 4507 during the period for which
-    the commercial driver’s license was suspended under this section, and no
-    person whose commercial driver’s license is suspended under this section
-    shall be issued a driver’s license under Ohio R.C. Chapter 4507 during the
+    commercial driver's license under Ohio R.C. 4506.16 shall be issued a
+    driver's license under Ohio R.C. Chapter 4507 during the period for which
+    the commercial driver's license was suspended under this section, and no
+    person whose commercial driver's license is suspended under this section
+    shall be issued a driver's license under Ohio R.C. Chapter 4507 during the
     period of the suspension.
 
 6. _(f)_ The offender shall provide the court with proof of financial
@@ -994,7 +994,7 @@ that proof of financial responsibility, then, in addition to any other penalties
 provided by law, the court may order restitution pursuant to Ohio R.C. 2929.28
 in an amount not exceeding five thousand dollars ($5,000) for any economic loss
 arising from an accident or collision that was the direct and proximate result
-of the offender’s operation of the vehicle before, during, or after committing
+of the offender's operation of the vehicle before, during, or after committing
 the offense that is a misdemeanor of the first degree under this section for
 which the offender is sentenced.  
 (ORC 4510.14)
@@ -1005,7 +1005,7 @@ which the offender is sentenced.
     municipal ordinance that is substantially equivalent to Ohio R.C. 4510.14,
     the court, in addition to and independent of any sentence that it imposes
     upon the offender for the offense, if the vehicle the offender was operating
-    at the time of the offense is registered in the offender’s name, shall do
+    at the time of the offense is registered in the offender's name, shall do
     whichever of the following is applicable:
 
         1. _(A)_ If, within six years of the current offense, the offender has
@@ -1056,10 +1056,10 @@ which the offender is sentenced.
 
 8. _(h)_ As used in this section:
 
-    1. _(1)_ “Electronic monitoring” has the same meaning as in Ohio R.C.
+    1. _(1)_ "Electronic monitoring" has the same meaning as in Ohio R.C.
     2929.01.
 
-    2. _(2)_ “Equivalent offense” means any of the following:
+    2. _(2)_ "Equivalent offense" means any of the following:
 
         1. _(A)_ A violation of a municipal ordinance, law of another state, or
         law of the United States that is substantially equivalent to subsection
@@ -1068,9 +1068,9 @@ which the offender is sentenced.
         2. _(B)_ A violation of a former law of this State that was
         substantially equivalent to subsection (a) of this section.
 
-    3. _(3)_ “Jail” has the same meaning as in Ohio R.C. 2929.01.
+    3. _(3)_ "Jail" has the same meaning as in Ohio R.C. 2929.01.
 
-    4. _(4)_ “Mandatory jail term” means the mandatory term in jail of three,
+    4. _(4)_ "Mandatory jail term" means the mandatory term in jail of three,
     ten, or thirty consecutive days that must be imposed under subsection
     (b)(1), (2) or (3) of this section upon an offender convicted of a violation
     of subsection (a) of this section and in relation to which all of the
@@ -1086,8 +1086,8 @@ which the offender is sentenced.
 
 ### 335.072   Driving under financial responsibility law suspension or cancellation; driving under a nonpayment of judgment suspension
 
-1. _(a)_ No person, whose driver’s or commercial driver’s license or temporary
-instruction permit or nonresident’s operating privilege has been suspended or
+1. _(a)_ No person, whose driver's or commercial driver's license or temporary
+instruction permit or nonresident's operating privilege has been suspended or
 canceled pursuant to Ohio R.C. Chapter 4509, shall operate any motor vehicle
 within this Municipality, or knowingly permit any motor vehicle owned by the
 person to be operated by another person in the Municipality, during the period
@@ -1101,7 +1101,7 @@ responsibility is maintained with respect to that vehicle.
 
 2. _(b)_ No person shall operate any motor vehicle upon a highway or any public
 or private property used by the public for purposes of vehicular travel or
-parking in this Municipality if the person’s driver’s or commercial driver’s
+parking in this Municipality if the person's driver's or commercial driver's
 license or temporary instruction permit or nonresident operating privilege has
 been suspended pursuant to Ohio R.C. 4509.37 or 4509.40 for nonpayment of a
 judgment.
@@ -1150,7 +1150,7 @@ and shall be punished as provided in subsection (d) hereof.
     other penalties provided by law, the court may order restitution pursuant to
     Ohio R.C. 2929.28 in an amount not exceeding five thousand dollars ($5,000)
     for any economic loss arising from an accident or collision that was the
-    direct and proximate result of the offender’s operation of the vehicle
+    direct and proximate result of the offender's operation of the vehicle
     before, during or after committing the offense for which the offender is
     sentenced under this section.  
     (ORC 4510.16)
@@ -1166,8 +1166,8 @@ hereof is guilty of falsification, a misdemeanor of the first degree.
 
 ### 335.073   Driving without complying with license reinstatement requirements
 
-1. _(a)_ No person whose driver’s license, commercial driver’s license,
-temporary instruction permit, or nonresident’s operating privilege has been
+1. _(a)_ No person whose driver's license, commercial driver's license,
+temporary instruction permit, or nonresident's operating privilege has been
 suspended shall operate any motor vehicle upon a public road or highway or any
 public or private property after the suspension has expired unless the person
 has complied with all license reinstatement requirements imposed by the court,
@@ -1208,8 +1208,8 @@ license and shall be punished as follows:
     degree.
 
     3. _(3)_ In all cases, the court may impose upon the offender a class seven
-    suspension of the offender’s driver’s license, commercial driver’s license,
-    temporary instruction permit, probationary driver’s license, or nonresident
+    suspension of the offender's driver's license, commercial driver's license,
+    temporary instruction permit, probationary driver's license, or nonresident
     operating privilege from the range specified in division (A)(7) of Ohio R.C.
     4510.02.  
     (ORC 4510.21)
@@ -1218,7 +1218,7 @@ license and shall be punished as follows:
 
 1. _(a)_ No person shall operate any motor vehicle upon a highway or any public
 or private property used by the public for purposes of vehicular travel or
-parking in this Municipality whose driver’s or commercial driver’s license has
+parking in this Municipality whose driver's or commercial driver's license has
 been suspended pursuant to Ohio R.C. 2151.354, 2151.87, 2935.27, 3123.58,
 4301.99, 4510.032, 4510.22 or 4510.33.
 
@@ -1261,7 +1261,7 @@ section.
     any other penalties provided by law, the court may order restitution
     pursuant to Ohio R.C. 2929.28 in an amount not exceeding five thousand
     dollars ($5,000) for any economic loss arising from an accident or collision
-    that was the direct and proximate result of the offender’s operation of the
+    that was the direct and proximate result of the offender's operation of the
     vehicle before, during or after committing the offense for which the
     offender is sentenced under this section.  
     (ORC 4510.111)
@@ -1279,8 +1279,8 @@ section.
     clerk of a court of common pleas;
 
     2. _(2)_ Display or display for sale or sell as a dealer or acting on behalf
-    of a dealer, a motor vehicle without having obtained a manufacturer’s or
-    importer’s certificate, a certificate of title, or an assignment of a
+    of a dealer, a motor vehicle without having obtained a manufacturer's or
+    importer's certificate, a certificate of title, or an assignment of a
     certificate of title for it as provided in Ohio R.C. Chapter 4505;
 
     3. _(3)_ Fail to surrender any certificate of title or any certificate of
@@ -1298,11 +1298,11 @@ section.
     6. _(6)_ Except as otherwise provided in Ohio R.C. Chapter 4505 and Chapter
     4517, sell at wholesale a motor vehicle the ownership of which is not
     evidenced by an Ohio certificate of title, or the current certificate of
-    title issued for the motor vehicle, or the manufacturer’s certificate of
-    origin, and all title assignments that evidence the seller’s ownership of
+    title issued for the motor vehicle, or the manufacturer's certificate of
+    origin, and all title assignments that evidence the seller's ownership of
     the motor vehicle, and an odometer disclosure statement that complies with
-    Ohio R.C. 4505.06 and subchapter IV of the “Motor Vehicle Information and
-    Cost Savings Act”, 86 Stat. 961 (1972), 15 U.S.C. 1981;
+    Ohio R.C. 4505.06 and subchapter IV of the "Motor Vehicle Information and
+    Cost Savings Act", 86 Stat. 961 (1972), 15 U.S.C. 1981;
 
     7. _(7)_ Operate in this Municipality a motor vehicle knowing that the
     certificate of title to the vehicle or ownership of the vehicle as otherwise
@@ -1364,7 +1364,7 @@ Director of Public Safety that displays the registration number of its
 manufacturer or dealer.
 
 2. _(b)_ Whoever violates subsection (a) of this section is guilty of illegal
-operation of a manufacturer’s or dealer’s motor vehicle, a minor misdemeanor.  
+operation of a manufacturer's or dealer's motor vehicle, a minor misdemeanor.  
 (ORC 4549.10)
 
 ## 335.10   Expired or unlawful license plates
@@ -1471,11 +1471,11 @@ Municipality under a license issued by another state.
     offense, for which there is no specified degree of culpability, is not a
     strict liability offense.
 
-3. _(c)_ For purposes of subsection (a) of this section, “resident” means any
+3. _(c)_ For purposes of subsection (a) of this section, "resident" means any
 person to whom any of the following applies:
 
     1. _(1)_ The person maintains their principal residence in this State and
-    does not reside in this State as a result of the person’s active service in
+    does not reside in this State as a result of the person's active service in
     the United States Armed Forces.
 
     2. _(2)_ The person is determined by the Registrar of Motor Vehicles to be a
@@ -1490,9 +1490,9 @@ person to whom any of the following applies:
     1. _(1)_ In the case of a motor vehicle accident or collision with persons
     or property on a public road or highway, the operator of the motor vehicle,
     having knowledge of the accident or collision, immediately shall stop the
-    operator’s motor vehicle at the scene of the accident or collision. The
+    operator's motor vehicle at the scene of the accident or collision. The
     operator shall remain at the scene of the accident or collision until the
-    operator has given the operator’s name and address and, if the operator is
+    operator has given the operator's name and address and, if the operator is
     not the owner, the name and address of the owner of that motor vehicle,
     together with the registered number of that motor vehicle, to all of the
     following:
@@ -1508,7 +1508,7 @@ person to whom any of the following applies:
     the information required to be given under subsection (a)(1) of this
     section, the other operator involved in the accident or collision shall
     notify the nearest police authority concerning the location of the accident
-    or collision, and the operator’s name, address and the registered number of
+    or collision, and the operator's name, address and the registered number of
     the motor vehicle the operator was operating. The operator shall remain at
     the scene of the accident or collision until a police officer arrives,
     unless removed from the scene by an emergency vehicle operated by a
@@ -1537,10 +1537,10 @@ person to whom any of the following applies:
 
     4. _(4)_ In all cases, the court, in addition to any other penalties
     provided by law, shall impose upon the offender a class five suspension of
-    the offender’s driver’s license, commercial driver’s license, temporary
+    the offender's driver's license, commercial driver's license, temporary
     instruction permit, probationary license, or nonresident operating privilege
     from the range specified in division (A)(5) of Ohio R.C. 4510.02. No judge
-    shall suspend the first six months of suspension of an offender’s license,
+    shall suspend the first six months of suspension of an offender's license,
     permit, or privilege required by this subsection.  
 
         The offender shall provide the court with proof of financial
@@ -1549,7 +1549,7 @@ person to whom any of the following applies:
         other penalties provided by law, the court may order restitution
         pursuant to Ohio R.C. 2929.18 or 2929.28 in an amount not exceeding five
         thousand dollars ($5,000) for any economic loss arising from an accident
-        or collision that was the direct and proximate result of the offender’s
+        or collision that was the direct and proximate result of the offender's
         operation of the motor vehicle before, during or after committing the
         offense charged under this section.  
         (ORC 4549.02)
@@ -1564,10 +1564,10 @@ person to whom any of the following applies:
     having knowledge of the accident or collision, shall stop at the scene of
     the accident or collision. Upon request of any person who is injured or
     damaged, or any other person, the operator shall give that person the
-    operator’s name and address, and, if the operator is not the owner, the name
+    operator's name and address, and, if the operator is not the owner, the name
     and address of the owner of that motor vehicle, together with the registered
-    number of that motor vehicle, and, if available, exhibit the operator’s
-    driver’s or commercial driver’s license.
+    number of that motor vehicle, and, if available, exhibit the operator's
+    driver's or commercial driver's license.
 
     2. _(2)_ If the operator of the motor vehicle involved in the accident or
     collision does not provide the information specified in subsection (a)(1) of
@@ -1597,10 +1597,10 @@ person to whom any of the following applies:
 
     4. _(4)_ In all cases, the court, in addition to any other penalties
     provided by law, shall impose upon the offender a class five suspension of
-    the offender’s driver’s license, commercial driver’s license, temporary
+    the offender's driver's license, commercial driver's license, temporary
     instruction permit, probationary license, or nonresident operating privilege
     from the range specified in division (A)(5) of Ohio R.C. 4510.02. No judge
-    shall suspend the first six months of suspension of an offender’s license,
+    shall suspend the first six months of suspension of an offender's license,
     permit, or privilege required by this subsection.  
 
         The offender shall provide the court with proof of financial
@@ -1609,7 +1609,7 @@ person to whom any of the following applies:
         other penalties provided by law, the court may order restitution
         pursuant to Ohio R.C. 2929.18 or 2929.28 in an amount not exceeding five
         thousand dollars ($5,000) for any economic loss arising from an accident
-        or collision that was the direct and proximate result of the offender’s
+        or collision that was the direct and proximate result of the offender's
         operation of the motor vehicle before, during or after committing the
         offense charged under this section.  
         (ORC 4549.021)
@@ -1620,9 +1620,9 @@ person to whom any of the following applies:
 to real property, or personal property attached to real property, legally upon
 or adjacent to a public road or highway immediately shall stop and take
 reasonable steps to locate and notify the owner or person in charge of the
-property of that fact, of the driver’s name and address, and of the registration
+property of that fact, of the driver's name and address, and of the registration
 number of the vehicle the driver is driving and, upon request and if available,
-shall exhibit the driver’s or commercial driver’s license.  
+shall exhibit the driver's or commercial driver's license.  
 
     If the owner or person in charge of the property cannot be located after
     reasonable search, the driver of the vehicle involved in the accident
@@ -1643,6 +1643,6 @@ first degree.
     provided by law, the court may order restitution pursuant to Ohio R.C.
     2929.28 in an amount not exceeding five thousand dollars ($5,000) for any
     economic loss arising from an accident or collision that was the direct and
-    proximate result of the offender’s operation of the motor vehicle before,
+    proximate result of the offender's operation of the motor vehicle before,
     during or after committing the offense charged under this section.  
     (ORC 4549.03)

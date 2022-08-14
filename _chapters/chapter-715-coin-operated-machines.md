@@ -23,7 +23,7 @@ title: "Chapter 715: Coin-Operated Machines"
 ## 715.01   Amusement machine defined
 
 For the purposes of this chapter:  
-“Amusement machine” means any computer, individual computer terminal screen, or
+"Amusement machine" means any computer, individual computer terminal screen, or
 other interactive machine or mechanical or electrical device which, upon the
 payment or exchange of anything of value, permits a person or operator of such
 machine to play a game or try the skill of an operator or person using such

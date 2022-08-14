@@ -205,7 +205,7 @@ for definition.
 a use, building or group of buildings and their accessory uses and buildings as
 a unit, together with such open spaces and driveways as are provided and
 required. A parcel may contain more than one contiguous lot individually
-identified by a ‘Permanent Parcel Number’ assigned by the Cuyahoga County Fiscal
+identified by a 'Permanent Parcel Number' assigned by the Cuyahoga County Fiscal
 Officer.
 
 32. _(ff)_ Percent imperviousness: The impervious area created divided by the
@@ -250,7 +250,7 @@ quality and to assess the effectiveness of any sediment and erosion control
 measure selected to control the quality of stormwater discharges from the
 construction activity.
 
-41. _(oo)_ Rainwater and land development: Ohio’s standards for stormwater
+41. _(oo)_ Rainwater and land development: Ohio's standards for stormwater
 management, land development, and urban stream protection. The most current
 edition of these standards shall be used with this regulation.
 
@@ -286,7 +286,7 @@ regulation.
 
 50. _(xx)_ Soil disturbing activity: Clearing, grading, excavating, filling,
 grubbing or stump removal that occurs during clearing or timber activities, or
-other alteration of the earth’s surface where natural or human made ground cover
+other alteration of the earth's surface where natural or human made ground cover
 is destroyed and that may result in, or contribute to, erosion and sediment
 pollution.
 
@@ -496,8 +496,8 @@ federal regulations shall be submitted with SWP3s or Abbreviated SWP3s.
 
 1. _(a)_ Ohio EPA NPDES Permits authorizing stormwater discharges associated
 with construction activity or the most current version thereof: Proof of
-compliance with these requirements shall be the applicant’s Notice of Intent
-(NOI) number from Ohio EPA, a copy of the Ohio EPA Director’s Authorization
+compliance with these requirements shall be the applicant's Notice of Intent
+(NOI) number from Ohio EPA, a copy of the Ohio EPA Director's Authorization
 Letter for the NPDES Permit, or a letter from the site owner certifying and
 explaining why the NPDES Permit is not applicable.
 
@@ -510,9 +510,9 @@ States, shall be delineated by protocols accepted by the U.S. Army Corps of
 Engineers at the time an application is made under this regulation.
 
 3. _(c)_ Ohio EPA Isolated Wetland Permit: Proof of compliance shall be a copy
-of Ohio EPA’s Isolated Wetland Permit application tracking number, public
+of Ohio EPA's Isolated Wetland Permit application tracking number, public
 notice, project approval, or a letter from the site owner certifying that a
-qualified professional has surveyed the site and determined that Ohio EPA’s
+qualified professional has surveyed the site and determined that Ohio EPA's
 Isolated Wetlands Permit is not applicable. Isolated wetlands shall be
 delineated by protocols accepted by the U.S. Army Corps of Engineers at the time
 an application is made under this regulation.
@@ -521,7 +521,7 @@ an application is made under this regulation.
 of the U.S. Army Corps of Engineers Individual Permit application, public
 notice, or project approval, if an Individual Permit is required for the
 development project. If an Individual Permit is not required, the site owner
-shall submit proof of compliance with the U.S. Army Corps of Engineer’s
+shall submit proof of compliance with the U.S. Army Corps of Engineer's
 Nationwide Permit Program. This shall include one of the following:
 
     1. _(A)_ A letter from the site owner certifying that a qualified
@@ -803,7 +803,7 @@ soil-disturbing activity shall be protected from soil erosion and sediment
 run-off and damage, including, but not limited to, private properties, natural
 and artificial waterways, wetlands, storm sewers and public lands.
 
-It is the owner’s responsibility to maintain current records of contractor (s)
+It is the owner's responsibility to maintain current records of contractor (s)
 responsible for implementation the SWP3 and providing that information to the
 Village Engineer. The SWP3 shall identify all subcontractors engaged in
 activities that could impact stormwater runoff. The SWP3 shall contain
@@ -1044,7 +1044,7 @@ Sediment control must meet the following requirements:
         1. _(A)_ Construction entrances shall be built and shall serve as the
         only permitted points of ingress and egress to the development area.
         These entrances shall be built of a stabilized pad of aggregate stone or
-        recycled concrete or cement sized greater than 2" in diameter, placed
+        recycled concrete or cement sized greater than 2″ in diameter, placed
         over a geotextile fabric, and constructed in conformance with
         specifications in the most recent edition of Rainwater and Land
         Development.
@@ -1373,7 +1373,7 @@ Village of Chagrin Falls may require other BMPs as site conditions warrant.
     1. _(1)_ **Construction Entrances:** Construction entrances shall be built
     and shall serve as the only permitted points of ingress and egress to the
     development area. These entrances shall be built of a stabilized pad of
-    aggregate stone or recycled concrete or cement sized greater than 2" in
+    aggregate stone or recycled concrete or cement sized greater than 2″ in
     diameter, placed over a geotextile fabric, and constructed in conformance
     with specifications in the most recent edition of Rainwater and Land
     Development.
@@ -1526,7 +1526,7 @@ Rules.
 
 7. _(g)_ A final inspection will be made to determine if the criteria of this
 code has been satisfied and a report will be presented to the Village of Chagrin
-Falls on the site’s compliance status.
+Falls on the site's compliance status.
 
 8. _(h)_ The Village Engineer will monitor soil-disturbing activities for non-
 farm residential, commercial, industrial, or other non-farm purposes on land of

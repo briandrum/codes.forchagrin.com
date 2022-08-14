@@ -14,7 +14,7 @@ title: "Chapter 111: Council"
 
 ## Cross references
 
-* Mayor’s attendance at meetings - see CHTR. Art. III, Sec. 5(b)
+* Mayor's attendance at meetings - see CHTR. Art. III, Sec. 5(b)
 * Composition and term - see CHTR. Art. IV, Sec. 1
 * Qualifications - see CHTR. Art. IV, Sec. 2
 * Organizational meeting- see CHTR. Art. IV, Sec. 3
@@ -98,19 +98,19 @@ meeting.
 
     4. _(4)_ Administrative Reports
 
-        1. _(a)_ Mayor’s Report
+        1. _(a)_ Mayor's Report
 
-        2. _(b)_ Finance Director’s Report
+        2. _(b)_ Finance Director's Report
 
-        3. _(c)_ Law Director’s Report
+        3. _(c)_ Law Director's Report
 
-        4. _(d)_ Chief Administrative Officer’s Report
+        4. _(d)_ Chief Administrative Officer's Report
 
-        5. _(e)_ Engineer’s Report
+        5. _(e)_ Engineer's Report
 
-        6. _(f)_ Police Chief’s Report
+        6. _(f)_ Police Chief's Report
 
-        7. _(g)_ Fire Chief’s Report
+        7. _(g)_ Fire Chief's Report
 
     5. _(5)_ Council Reports
 

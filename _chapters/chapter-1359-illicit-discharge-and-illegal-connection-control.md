@@ -123,7 +123,7 @@ system.
 
 11. _(k)_ Owner/operator: Means any individual, association, organization,
 partnership, firm, corporation or other entity recognized by law and acting as
-either the owner or on the owner’s behalf.
+either the owner or on the owner's behalf.
 
 12. _(l)_ Pollutant: Means anything that causes or contributes to pollution.
 Pollutants may include, but are not limited to, paints, varnishes, solvents, oil
@@ -214,7 +214,7 @@ as described below:
     public health nuisance by the Cuyahoga County Board of Health. Discharges
     from new or replacement off-lot household sewage treatment systems installed
     after January 1, 2007 are not exempt from the requirements of this
-    regulation. In compliance with the Village’s Storm Water Management Program,
+    regulation. In compliance with the Village's Storm Water Management Program,
     discharges from all off-lot discharging household sewage treatment systems
     must either be eliminated or have coverage under an appropriate NPDES permit
     issued and approved by the Ohio Environmental Protection Agency. When such
@@ -257,19 +257,19 @@ Facilities.
 
     2. _(2)_ The Village of Chagrin Falls shall have the right to set up at
     facilities subject to this regulation such devices as are necessary to
-    conduct monitoring and/or sampling of the facility’s storm water discharge,
+    conduct monitoring and/or sampling of the facility's storm water discharge,
     as determined by the Village.
 
     3. _(3)_ The Village of Chagrin Falls shall have the right to require the
     facility owner/operator to install monitoring equipment as necessary. This
     sampling and monitoring equipment shall be maintained at all times in safe
     and proper operating condition by the facility owner/operator at the owner/
-    operator’s expense. All devices used to measure storm water flow and quality
+    operator's expense. All devices used to measure storm water flow and quality
     shall be calibrated by the Village to ensure their accuracy.
 
     4. _(4)_ Any temporary or permanent obstruction to safe and reasonable
     access to the facility to be inspected and/or sampled shall be promptly
-    removed by the facility’s owner/operator at the written or oral request of
+    removed by the facility's owner/operator at the written or oral request of
     the Village of Chagrin Falls and shall not be replaced. The costs of
     clearing such access shall be borne by the facility owner/operator.
 

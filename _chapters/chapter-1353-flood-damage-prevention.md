@@ -114,7 +114,7 @@ give this chapter its most reasonable application.
 nature customarily incidental and subordinate to, the principal structure.
 
 2. _(b)_ "Appeal" means a request for a review of the Chief Administrative
-Officer’s interpretation of any provision of this chapter or a request for a
+Officer's interpretation of any provision of this chapter or a request for a
 variance.
 
 3. _(c)_ "Base flood" means the flood having a one percent (1%) chance of being
@@ -128,7 +128,7 @@ National Geodetic Vertical Datum of 1929 or the North American Vertical Datum of
 base flood elevation is the natural grade elevation plus the depth number (from
 1 to 3 feet).
 
-5. _(e)_ “Basement" means any area of the building having its floor subgrade
+5. _(e)_ "Basement" means any area of the building having its floor subgrade
 (below ground level) on all sides.
 
 6. _(f)_ "Development" means any man-made change to improved or unimproved real
@@ -211,7 +211,7 @@ Emergency Management Agency has provided flood profiles, floodway boundaries and
 the water surface elevations of the base flood.
 
 15. _(o)_ "Flood protection elevation (FPE)" means the base flood elevation plus
-eighteen inches (18") of freeboard. In areas where no base flood elevations
+eighteen inches (18″) of freeboard. In areas where no base flood elevations
 exist from any authoritative source, the flood protection elevation can be
 historical flood elevations, or base flood elevations determined and/or approved
 by the floodplain administrator.
@@ -244,7 +244,7 @@ unpredictable effects such as those caused by ice or debris jams.
     historic district or a district preliminarily determined by the Secretary to
     qualify as a registered historic district; or
 
-    3. _(3)_ Individually listed on the State of Ohio’s inventory of historic
+    3. _(3)_ Individually listed on the State of Ohio's inventory of historic
     places maintained by the Ohio Historic Preservation Office.
 
 19. _(s)_ "Hydrologic and hydraulic engineering analysis" means an analysis
@@ -254,7 +254,7 @@ determine flood elevations and/or floodway boundaries.
 
 20. _(t)_ "Letter of Map Change" means an official FEMA determination, by
 letter, to amend or revise effective Flood Insurance Rate Maps, Flood Boundary
-and Floodway Maps, and Flood Insurance Studies. LOMC’s are broken down into the
+and Floodway Maps, and Flood Insurance Studies. LOMC's are broken down into the
 following categories:
 
     * Letter of Map Amendment (LOMA)
@@ -284,7 +284,7 @@ following categories:
 21. _(u)_ "Lowest floor" means the lowest floor of the lowest enclosed area,
 including basement. An unfinished or flood-resistant enclosure, usable solely
 for parking of vehicles, building access or storage, in an area other than a
-basement area, is not considered a building’s lowest floor, provided that such
+basement area, is not considered a building's lowest floor, provided that such
 enclosure is built in accordance with the applicable design requirements
 specified in this chapter for enclosures below the lowest floor.
 
@@ -329,7 +329,7 @@ Section 111.15 as any governmental entity of the State and includes, but is not
 limited to, any board, department, division, commission, bureau, society,
 council, institution, state college or university, community college district,
 technical college district, or state community college. "Agency" does not
-include the General Assembly, the Controlling Board, the Adjutant General’s
+include the General Assembly, the Controlling Board, the Adjutant General's
 Department, or any court.
 
 27. _(aa)_ "Recreational vehicle" means a vehicle which is:
@@ -419,7 +419,7 @@ damage occurred.
         conditions;
 
         2. _(B)_ Any alteration of a historic provided that the alteration will
-        not preclude the structure’s continued designation as a historic
+        not preclude the structure's continued designation as a historic
         structure.
 
 36. _(jj)_ "Variance" means a grant of relief from the standards of these
@@ -531,7 +531,7 @@ required:
     watercourse will not be diminished; and,
 
     5. _(5)_ Certification by a registered professional engineer, architect, or
-    surveyor of the structure’s as-built lowest floor or floodproofed elevation.
+    surveyor of the structure's as-built lowest floor or floodproofed elevation.
 
 2. _(b)_ **Exemption From Filing a Development Permit.** An application for a
 development permit shall not be required for maintenance work such as roofing,
@@ -545,7 +545,7 @@ Administrative Officer is hereby appointed to enforce the provisions of these
 regulations, and, administer and implement this chapter by granting or denying
 development permit applications in accordance with its provisions.
 
-4. _(d)_ **Administrator’s Duties.** Duties and responsibilities of the Chief
+4. _(d)_ **Administrator's Duties.** Duties and responsibilities of the Chief
 Administrative Officer shall include but are not limited to:
 
     1. _(1)_ **Determination of hydraulically connected areas.**
@@ -593,7 +593,7 @@ Administrative Officer shall include but are not limited to:
     3. _(3)_ **Use of other base flood elevation and floodway data.** Special
     flood hazard areas where base flood elevation data have not been provided by
     the Federal Emergency Management Agency in accordance with Section
-    1353.03(b), are designated as Zone A on the Village’s Flood Insurance Rate
+    1353.03(b), are designated as Zone A on the Village's Flood Insurance Rate
     Map. Within these areas, the Chief Administrative Officer shall obtain,
     review and reasonably utilize any base flood elevation and floodway data
     available from a Federal State or other source, in order to administer
@@ -601,7 +601,7 @@ Administrative Officer shall include but are not limited to:
 
     4. _(4)_ **Information to be obtained and maintained by the Village.** Where
     base flood elevation data are utilized within special flood hazard areas on
-    the Village’s Flood Hazard Boundary Map or Flood Insurance Rate Map,
+    the Village's Flood Hazard Boundary Map or Flood Insurance Rate Map,
     regardless of the source of such data, the following provisions apply:
 
         1. _(A)_ Obtain and record the actual elevation, in relation to mean sea
@@ -752,7 +752,7 @@ Administrative Officer shall include but are not limited to:
         completed by a registered surveyor to record as-built elevation data.
         For elevated structures in Zone A and Zone AO areas without a base flood
         elevation, the elevation certificate may be completed by the property
-        owner or owner’s representative.
+        owner or owner's representative.
 
         2. _(B)_ For all development activities subject to the standards of
         Section 1353.04(d)(4), a Letter of Map Revision.  
@@ -855,7 +855,7 @@ Administrative Officer shall include but are not limited to:
     3. _(3)_ Notwithstanding the other provisions of this section, variances may
     be issued for the reconstruction, rehabilitation or restoration of historic
     structures upon a determination that the proposed repair or rehabilitation
-    will not preclude the structure’s continued designation as a historic
+    will not preclude the structure's continued designation as a historic
     structure and the variance is the minimum necessary to preserve the historic
     character and design of the structure.
 
@@ -876,9 +876,9 @@ Administrative Officer shall include but are not limited to:
 year subject to the requirements of Section 1111.10 of the Zoning Code.
 
 4. _(d)_ **Action by Council.** Following a decision by the Board, each case
-shall be referred to Council. After reviewing the Board’s decision, Council may
+shall be referred to Council. After reviewing the Board's decision, Council may
 confirm, amend, or reverse, the decision by a majority vote of its membership.
-Immediately following Council’s decision, a record of such decision, including
+Immediately following Council's decision, a record of such decision, including
 notice of the expiration date of an approved variance, shall be mailed to the
 applicant.  
 (Ord. 2005-22. Passed 4-11-05.)

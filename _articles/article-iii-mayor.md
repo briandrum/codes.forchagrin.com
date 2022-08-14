@@ -31,7 +31,7 @@ adjudicated legally incompetent or for a violation of the oath of office;
 provided, however, that such removal shall not take place without the
 affirmative vote of three-fourths of the members of Council nor until the Mayor
 shall have been notified in writing of the charge at least ten days in advance
-of a public hearing upon such charge, and the Mayor or the Mayor’s counsel has
+of a public hearing upon such charge, and the Mayor or the Mayor's counsel has
 been given an opportunity at such hearing to be heard, present evidence, or
 examine any witness appearing in support of the charge.
 

@@ -39,7 +39,7 @@ resources and protecting the community assets which support current retail
 activity;
 
 3. _(c)_ To protect property values within the Municipality by preventing
-environmental changes which diminish the area’s unique historic character;
+environmental changes which diminish the area's unique historic character;
 
 4. _(d)_ To recognize the importance of preserving structures that contribute to
 the traditional village land use pattern; and
@@ -291,7 +291,7 @@ years old and:
         contribution to the broad patterns of Municipality history; or
 
         2. _(B)_ Is associated with the lives of persons significant in the
-        Municipality’s past; or
+        Municipality's past; or
 
         3. _(C)_ Is a structure which:
 
@@ -344,7 +344,7 @@ undergoing restoration.
 
 8. _(h)_ "Rehabilitation" means the renovation of a building, in its present
 condition, for continued use, or its adaptation to a new use. To meet the
-Secretary of the Interior’s Standards for Rehabilitation, the owner must retain
+Secretary of the Interior's Standards for Rehabilitation, the owner must retain
 the surviving historically-important, character-defining components of the
 building but is not required to restore it to its original historical appearance
 or configuration, which may have changed over the years.
@@ -357,9 +357,9 @@ used and is usually confined to archaeological sites.
 10. _(j)_ "Master" means a figure of generally recognized greatness in a field,
 a known craftsman of consummate skill, or an anonymous craftsman whose work is
 distinguishable from others by its characteristic style and quality. The
-property must express a particular phase in the development of the master’s
-career, an aspect of the master’s work, or a particular idea or theme in the
-master’s craft.  
+property must express a particular phase in the development of the master's
+career, an aspect of the master's work, or a particular idea or theme in the
+master's craft.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1146.06   Demolition and moving
@@ -374,12 +374,12 @@ conditions exist:
     2. _(2)_ The owner demonstrates that the Historically Significant Property
     is either not habitable or otherwise not safe; or the Repair or
     Rehabilitation of the structure is not Economically Feasible and the
-    property’s condition did not result from damage which has been purposefully
+    property's condition did not result from damage which has been purposefully
     caused to the property, or allowed to occur due to the neglect of the owner
     or previous owners with the likely intention of making the Repair or
     Rehabilitation of the structure not Economically Feasible. No permit to
     demolish will be permitted under this paragraph (a)(2) or (3) hereof unless
-    the owner or owner’s representative obtains final approval from the
+    the owner or owner's representative obtains final approval from the
     Architectural Board of Review for the structure (s) which will replace the
     structure to be demolished.
 

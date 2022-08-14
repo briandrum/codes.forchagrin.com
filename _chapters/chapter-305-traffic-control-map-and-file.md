@@ -21,7 +21,7 @@ title: "Chapter 305: Traffic Control Map and File"
 ## 305.01   Traffic control map
 
 There is hereby established a Traffic Control Map to show at all times the
-Municipality’s current:
+Municipality's current:
 
 1. _(a)_ Through streets.
 

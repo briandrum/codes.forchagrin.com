@@ -30,7 +30,7 @@ title: "Chapter 505: Animals and Fowl"
 * [505.19   Impoundment of dogs involved in biting/attacking incidents](#50519-impoundment-of-dogs-involved-in-biting-attacking-incidents)
 * [505.20   Dangerous and vicious dog impounding procedure; redemption or disposition](#50520-dangerous-and-vicious-dog-impounding-procedure-redemption-or-disposition)
 * [505.21   Court order to remove or destroy animal](#50521-court-order-to-remove-or-destroy-animal)
-* [505.22   Designation of dog as “dangerous” and “vicious”]($50522-designation-of-dog-as-dangerous-and-vicious)
+* [505.22   Designation of dog as "dangerous" and "vicious"]($50522-designation-of-dog-as-dangerous-and-vicious)
 * [505.23   Dangerous and vicious dog appeal](#50523-dangerous-and-vicious-dog-appeal)
 * [505.99   Penalty](#50599-penalty)
 
@@ -73,7 +73,7 @@ a domestic animal is attacked or bitten.
 
 ## 505.02   Impounding of dogs; disposal
 
-(Editor’s note: Former Section 505.02 was repealed by Ordinance 2005-28, passed
+(Editor's note: Former Section 505.02 was repealed by Ordinance 2005-28, passed
 June 13, 2005.)
 
 ## 505.03   Annual registration of dogs; tags required
@@ -156,7 +156,7 @@ degree.
     become sick or in some other way suffer. This subsection (a)(2) does not
     apply to animals impounded or confined prior to slaughter. For the purpose
     of this section, "shelter" means a man-made enclosure, windbreak, sunshade
-    or natural windbreak or sunshade that is developed from the earth’s contour,
+    or natural windbreak or sunshade that is developed from the earth's contour,
     tree development or vegetation;
 
     3. _(3)_ Carry or convey an animal in a cruel or inhuman manner;
@@ -192,31 +192,31 @@ from the sale, if any, shall be paid to the former owner of the animal.
 
 1. _(a)_ As used in this section:
 
-    1. _(1)_ “Companion animal” means any animal that is kept inside a
+    1. _(1)_ "Companion animal" means any animal that is kept inside a
     residential dwelling and any dog or cat regardless of where it is kept,
-    including a pet store as defined in Ohio R.C. 956.01. “Companion animal”
+    including a pet store as defined in Ohio R.C. 956.01. "Companion animal"
     does not include livestock or any wild animal.
 
-    2. _(2)_ “Cruelty”, “torment” and “torture” have the same meanings as in
+    2. _(2)_ "Cruelty", "torment" and "torture" have the same meanings as in
     Ohio R.C. 1717.01.
 
-    3. _(3)_ “Residential dwelling” means a structure or shelter or the portion
+    3. _(3)_ "Residential dwelling" means a structure or shelter or the portion
     of a structure or shelter that is used by one or more humans for the purpose
     of a habitation.
 
-    4. _(4)_ “Practice of veterinary medicine” has the same meaning as in Ohio
+    4. _(4)_ "Practice of veterinary medicine" has the same meaning as in Ohio
     R.C. 4741.01.
 
-    5. _(5)_ “Wild animal” has the same meaning as in Ohio R.C. 1531.01.
+    5. _(5)_ "Wild animal" has the same meaning as in Ohio R.C. 1531.01.
 
-    6. _(6)_ “Federal animal welfare act” means the “Laboratory Animal Act of
+    6. _(6)_ "Federal animal welfare act" means the "Laboratory Animal Act of
     1966", Pub. L. No. 89-544, 80 Stat. 350 (1966), 7 U.S.C.A. 2131 et seq., as
-    amended by the “Animal Welfare Act of 1970", Pub. L. No. 91-579, 84 Stat.
-    1560 (1970), the “Animal Welfare Act Amendments of 1976", Pub. L. No.
-    94-279, 90 Stat. 417 (1976), and the “Food Security Act of 1985", Pub. L.
+    amended by the "Animal Welfare Act of 1970", Pub. L. No. 91-579, 84 Stat.
+    1560 (1970), the "Animal Welfare Act Amendments of 1976", Pub. L. No.
+    94-279, 90 Stat. 417 (1976), and the "Food Security Act of 1985", Pub. L.
     No. 99- 198, 99 Stat. 1354 (1985), and as it may be subsequently amended.
 
-    7. _(7)_ “Dog kennel” means an animal rescue for dogs that is registered
+    7. _(7)_ "Dog kennel" means an animal rescue for dogs that is registered
     under Ohio R.C. 956.06, a boarding kennel or a training kennel.
 
 2. _(b)_ No person shall knowingly torture, torment, needlessly mutilate or
@@ -317,8 +317,8 @@ agents.
         1. _(A)_ A court may order a person who is convicted of or pleads guilty
         to a violation of this section to forfeit to an impounding agency, as
         defined in Ohio R.C. 959.132, any or all of the companion animals in
-        that person’s ownership or care. The court also may prohibit or place
-        limitations on the person’s ability to own or care for any companion
+        that person's ownership or care. The court also may prohibit or place
+        limitations on the person's ability to own or care for any companion
         animals for a specified or indefinite period of time.
 
         2. _(B)_ A court may order a person who is convicted of or pleads guilty
@@ -390,7 +390,7 @@ veterinarian and results of such examination shall be reported to the Health
 Commission within twenty-four hours. At the direction of the Health
 Commissioner, the dog or other animal shall either be confined by its owner or
 harborer to his premises away from the public at large, or be placed under
-supervision of a veterinarian at the owner’s or harborer’s expense. The
+supervision of a veterinarian at the owner's or harborer's expense. The
 isolation or observation period shall not be less than ten days from the date
 the person was bitten at which time report of the condition of the animal shall
 be made to the Health Commissioner.  
@@ -479,7 +479,7 @@ Passed 6-13-05.)
 1. _(a)_ No person shall harbor, maintain or control a wild, dangerous or
 undomesticated animal within the Village.
 
-2. _(b)_ “Wild, dangerous or undomesticated animal” means an animal whose
+2. _(b)_ "Wild, dangerous or undomesticated animal" means an animal whose
 natural habitat is the wilderness and which, when maintained in human society,
 is usually confined to a zoological park or exotic animal farm and which:
 
@@ -509,7 +509,7 @@ is usually confined to a zoological park or exotic animal farm and which:
 except that chickens may be kept on parcels zoned R1-100, One-Family Residential
 as set forth in Section 1125.09.
 
-4. _(d)_ “Farm animal” means:
+4. _(d)_ "Farm animal" means:
 
     1. _(1)_ Chickens, ducks, geese or any other fowl; and
 
@@ -804,7 +804,7 @@ no contest plea to any and all charges arising out of the biting/ attack
 incident, and until such further time as the Court enters sentence, unless
 otherwise ordered by the Court. The Chief of Police may permit the owner,
 harborer or person having custody or control of the dog to place the dog in a
-ten (10) day quarantine in a kennel they select, with the Chief of Police’s
+ten (10) day quarantine in a kennel they select, with the Chief of Police's
 consent as to the kennel placement and so long as the kennel provides the Chief
 of Police with a certificate they kept the dog quarantined for ten consecutive
 days.
@@ -824,7 +824,7 @@ chapter:
 3. _(c)_ Any person aggrieved by an order of the Chief of Police pursuant to
 subsection (a) herein may appeal such order to the Bedford Municipal Court as
 established in Section 505.23. Any such appeal should be heard within five (5)
-working days of the date the notice of appeal is filed, subject to the court’s
+working days of the date the notice of appeal is filed, subject to the court's
 schedule or matters that take priority by law or court policy. Notice of such
 hearing shall be given to the person(s) who has allegedly been bitten or
 attacked by the dog, the parent(s) or guardian(s) of any minor(s) who has
@@ -856,12 +856,12 @@ assessed against the animal to cover the cost of taking it up, plus such
 additional costs as may be incurred by the Village for impounding the animal.  
 
     Such release payment shall be tendered within five (5) days of receipt of
-    notice by the animal’s owner; however, no period of holding by the Village
+    notice by the animal's owner; however, no period of holding by the Village
     shall exceed seven (7) days unless the seventh (7th) days falls on a
     weekend. Any animal not reclaimed within the respective time periods may be
     destroyed or otherwise disposed of at the discretion of the Chief of Police.
     "Otherwise disposed of" shall include the right to sell these animals to
-    suitable individuals for the cost to the Village of the animal’s boarding.
+    suitable individuals for the cost to the Village of the animal's boarding.
     When such a sale does occur, the Village shall not charge the buyer with the
     impounding fee. No sale will be transacted until a valid registration tag,
     if required, is obtained.
@@ -872,7 +872,7 @@ impoundment of such animal for its seizure, shelter, food, and any veterinary
 care found necessary during impoundment. Such costs may include the cost to have
 the animal spayed or neutered and vaccinated.
 
-3. _(c)_ The Chief of Police’s Office may keep a register of people interested
+3. _(c)_ The Chief of Police's Office may keep a register of people interested
 in obtaining an animal impounded by the Village. Such register may be
 categorized by the breed desired and should be set up to give the person who has
 been registered the longest period of time the first chance to obtain the
@@ -886,11 +886,11 @@ animal, on one or more occasions, has bitten or attacked any person or domestic
 animal without provocation, or if the court determines that the owner of the
 animal has habitually permitted such animal to run at large, or violated this
 chapter on one or more occasions, the court may, in order to protect the health,
-welfare, safety and property of the Village’s inhabitants, order that such
+welfare, safety and property of the Village's inhabitants, order that such
 animal be destroyed or permanently banished from the Village.  
 (Ord. 2020-36. Passed 10-12-20.)
 
-## 505.22   Designation of dog as "dangerous” and "vicious"
+## 505.22   Designation of dog as "dangerous" and "vicious"
 
 1. _(a)_ A dog may be determined to be "dangerous" or "vicious", as defined in
 Section 505.17 and subject to the requirements of Section 505.18 in one of the
@@ -928,5 +928,5 @@ or for violations of provisions of this chapter other than Section 505.18.
 
 ## 505.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

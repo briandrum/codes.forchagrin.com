@@ -73,7 +73,7 @@ cooking and dispensing of food that have been shredded to such a degree that all
 particles will be carried freely under the flow conditions normally prevailing
 in public sewers, with no particle greater than one-half inch in any dimension.
 
-10. _(j)_ “Public sewer” means a sewer in which all owners of abutting
+10. _(j)_ "Public sewer" means a sewer in which all owners of abutting
 properties have equal rights and is controlled by public authority.
 
 11. _(k)_ "Sanitary sewer" means a sewer which carries sewage and to which
@@ -103,7 +103,7 @@ carries storm and surface waters and drainage, but excludes sewage and
 industrial wastes, other than unpolluted cooling water.  
 (Ord. 1968-738. Passed 9-17-68.)
 
-19. _(s)_ "Superintendent" and “Superintendent of Services” means the
+19. _(s)_ "Superintendent" and "Superintendent of Services" means the
 Superintendent of Utilities or his or her authorized deputy, agent or
 representative.  
 (Ord. 2008-65. Passed 12-8-08.)
@@ -331,7 +331,7 @@ applicable State or Federal regulations.
 9. _(i)_ Materials which exert or cause:
 
     1. _(1)_ Unusual concentrations of inert, suspended solids such as, but not
-    limited to, fuller’s earth, lime slurries and lime residues, or of dissolved
+    limited to, fuller's earth, lime slurries and lime residues, or of dissolved
     solids such as, but not limited to, sodium chloride and sodium sulfate.
 
     2. _(2)_ Excessive discoloration such as, but not limited to, dye wastes and

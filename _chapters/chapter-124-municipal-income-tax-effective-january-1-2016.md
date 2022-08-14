@@ -98,7 +98,7 @@ the feminine and the gender-neutral.
 
     1. _(1)_ "Adjusted federal taxable income," for a person required to file as
     a C corporation, or for a person that has elected to be taxed as a C
-    corporation under (C)(24)(e) of this division, means a C corporation’s
+    corporation under (C)(24)(e) of this division, means a C corporation's
     federal taxable income before net operating losses and special deductions as
     determined under the Internal Revenue Code, adjusted as follows:
 
@@ -148,15 +148,15 @@ the feminine and the gender-neutral.
         excluded in computing adjusted federal income tax.
 
         9. _(i)_ Deduct any net profit of a pass-through entity owned directly
-        or indirectly by the taxpayer and included in the taxpayer’s federal
+        or indirectly by the taxpayer and included in the taxpayer's federal
         taxable income unless an affiliated group of corporations includes that
-        net profit in the group’s federal taxable income in accordance with
+        net profit in the group's federal taxable income in accordance with
         division (V)(3)(b) of Section 124.05.
 
         10. _(j)_ Add any loss incurred by a pass-through entity owned directly
-        or indirectly by the taxpayer and included in the taxpayer’s federal
+        or indirectly by the taxpayer and included in the taxpayer's federal
         taxable income unless an affiliated group of corporations includes that
-        loss in the group’s federal taxable income in accordance with division
+        loss in the group's federal taxable income in accordance with division
         (V)(3) (b) of Section 124.05.
 
         If the taxpayer is not a C corporation, is not a disregarded entity that
@@ -190,7 +190,7 @@ the feminine and the gender-neutral.
         1. _(a)_ "Assessment" means a written finding by the Tax Administrator
         that a person has underpaid municipal income tax, or owes penalty and
         interest, or any combination of tax, penalty, or interest, to the
-        municipal corporation that commences the person’s time limitation for
+        municipal corporation that commences the person's time limitation for
         making an appeal to the Board of Tax Review pursuant to Section 124.21,
         and has "ASSESSMENT" written in all capital letters at the top of such
         finding.
@@ -198,9 +198,9 @@ the feminine and the gender-neutral.
         2. _(b)_ "Assessment" does not include a notice denying a request for
         refund issued under division (C)(3) of Section 124.09, a billing
         statement notifying a taxpayer of current or past-due balances owed to
-        the municipal corporation, a Tax Administrator’s request for additional
+        the municipal corporation, a Tax Administrator's request for additional
         information, a notification to the taxpayer of mathematical errors, or a
-        Tax Administrator’s other written correspondence to a person or taxpayer
+        Tax Administrator's other written correspondence to a person or taxpayer
         that does not meet the criteria prescribed by division (C)(2)(a) of this
         section.
 
@@ -289,7 +289,7 @@ the feminine and the gender-neutral.
         10. _(j)_ Gains from involuntary conversions, interest on federal
         obligations, items of income subject to a tax levied by the state and
         that a municipal corporation is specifically prohibited by law from
-        taxing, and income of a decedent’s estate during the period of
+        taxing, and income of a decedent's estate during the period of
         administration except such income from the operation of a trade or
         business.
 
@@ -335,13 +335,13 @@ the feminine and the gender-neutral.
             conditions apply:
 
                 1. _(a)_ For qualifying wages described in division (C) (2) of
-                Section 124.04, the employee’s employer withholds and remits tax
+                Section 124.04, the employee's employer withholds and remits tax
                 on the qualifying wages to the municipal corporation in which
-                the employee’s principal place of work is situated, or, for
+                the employee's principal place of work is situated, or, for
                 qualifying wages described in division (C)(5) of Section 124.04,
-                the employee’s employer withholds and remits tax on the
+                the employee's employer withholds and remits tax on the
                 qualifying wages to the municipal corporation in which the
-                employer’s fixed location is located;
+                employer's fixed location is located;
 
                 2. _(b)_ The employee receives a refund of the tax described in
                 division (C)(12)(p)(iv)(a) of this section on the basis of the
@@ -357,19 +357,19 @@ the feminine and the gender-neutral.
             2. _(ii)_ The exemption provided in division (C)(12)(q)(ii) of this
             section does not apply under either of the following circumstances:
 
-                1. _(a)_ The individual’s base of operation is located in the
+                1. _(a)_ The individual's base of operation is located in the
                 municipal corporation.
 
                 2. _(b)_ The individual is a professional athlete, professional
                 entertainer, or public figure, and the compensation is paid for
-                the performance of services in the individual’s capacity as a
+                the performance of services in the individual's capacity as a
                 professional athlete, professional entertainer, or public
                 figure. For purposes of division (C)(12)(q)(ii)(b) of this
                 section, "professional athlete," "professional entertainer," and
                 "public figure" have the same meanings as in Section 124.04 (C).
 
             3. _(iii)_ Compensation to which division (C)(12)(q) of this section
-            applies shall be treated as earned or received at the individual’s
+            applies shall be treated as earned or received at the individual's
             base of operation. If the individual does not have a base of
             operation, the compensation shall be treated as earned or received
             where the individual is domiciled.
@@ -396,7 +396,7 @@ the feminine and the gender-neutral.
         or laws of the United States. Any item of income that is exempt income
         of a pass-through entity under division (C) of this section is exempt
         income of each owner of the pass-through entity to the extent of that
-        owner’s distributive or proportionate share of that item of the entity’s
+        owner's distributive or proportionate share of that item of the entity's
         income.
 
     13. _(13)_ "Form 2106" means internal revenue service form 2106 filed by a
@@ -417,7 +417,7 @@ the feminine and the gender-neutral.
 
             1. _(i)_ For residents, all income, salaries, qualifying wages,
             commissions, and other compensation from whatever source earned or
-            received by the resident, including the resident’s distributive
+            received by the resident, including the resident's distributive
             share of the net profit of pass-through entities owned directly or
             indirectly by the resident and any net profit of the resident,
             except as provided in (C)(24)(e) of this division.
@@ -426,35 +426,35 @@ the feminine and the gender-neutral.
             section:
 
                 1. _(a)_ Any net operating loss of the resident incurred in the
-                taxable year and the resident’s distributive share of any net
+                taxable year and the resident's distributive share of any net
                 operating loss generated in the same taxable year and
-                attributable to the resident’s ownership interest in a
+                attributable to the resident's ownership interest in a
                 pass-through entity shall be allowed as a deduction, for that
                 taxable year and the following five taxable years, against any
-                other net profit of the resident or the resident’s distributive
-                share of any net profit attributable to the resident’s ownership
+                other net profit of the resident or the resident's distributive
+                share of any net profit attributable to the resident's ownership
                 interest in a pass- through entity until fully utilized, subject
                 to division (C)(16)(a)(iv) of this section;
 
-                2. _(b)_ The resident’s distributive share of the net profit of
+                2. _(b)_ The resident's distributive share of the net profit of
                 each pass-through entity owned directly or indirectly by the
                 resident shall be calculated without regard to any net operating
                 loss that is carried forward by that entity from a prior taxable
-                year and applied to reduce the entity’s net profit for the
+                year and applied to reduce the entity's net profit for the
                 current taxable year.
 
             3. _(iii)_ Division (C)(16)(a)(ii) of this section does not apply
             with respect to any net profit or net operating loss attributable to
-            an ownership interest in an S corporation unless shareholders’
+            an ownership interest in an S corporation unless shareholders'
             shares of net profits from S corporations are subject to tax in the
             municipal corporation as provided in division (C)(16)(e) of this
             section.
 
             4. _(iv)_ Any amount of a net operating loss used to reduce a
-            taxpayer’s net profit for a taxable year shall reduce the amount of
+            taxpayer's net profit for a taxable year shall reduce the amount of
             net operating loss that may be carried forward to any subsequent
             year for use by that taxpayer. In no event shall the cumulative
-            deductions for all taxable years with respect to a taxpayer’s net
+            deductions for all taxable years with respect to a taxpayer's net
             operating loss exceed the original amount of that net operating loss
             available to that taxpayer.
 
@@ -463,7 +463,7 @@ the feminine and the gender-neutral.
         or received by the nonresident for work done, services performed or
         rendered, or activities conducted in the municipal corporation,
         including any net profit of the nonresident, but excluding the
-        nonresident’s distributive share of the net profit or loss of only
+        nonresident's distributive share of the net profit or loss of only
         pass-through entities owned directly or indirectly by the nonresident.
 
         3. _(c)_ For taxpayers that are not individuals, net profit of the
@@ -477,7 +477,7 @@ the feminine and the gender-neutral.
 
         5. _(e)_ In accordance with a ballot issue, regarding S corporation
         language, approved by the voters in the election on November 2, 2004, a
-        shareholder’s share of net profits of an S corporation are taxable to
+        shareholder's share of net profits of an S corporation are taxable to
         the Municipality to the extent such shares would be so allocated or
         apportioned to this state.
 
@@ -532,7 +532,7 @@ the feminine and the gender-neutral.
         2. _(b)_ In computing the Municipal Taxable Income of a taxpayer who is
         an individual, the taxpayer may subtract, as provided in division
         (C)(21)(a)(ii)(a) or (C)(21)(b) of this section, the amount of the
-        individual’s employee business expenses reported on the individual’s
+        individual's employee business expenses reported on the individual's
         form 2106 that the individual deducted for federal income tax purposes
         for the taxable year, subject to the limitation imposed by Section 67 of
         the Internal Revenue Code. For the municipal corporation in which the
@@ -540,7 +540,7 @@ the feminine and the gender-neutral.
         allowed for federal income tax purposes, but to the extent the expenses
         do not relate to exempt income. For a municipal corporation in which the
         taxpayer is not a resident, the taxpayer may deduct such expenses only
-        to the extent the expenses are related to the taxpayer’s performance of
+        to the extent the expenses are related to the taxpayer's performance of
         personal services in that nonresident municipal corporation and are not
         related to exempt income.
 
@@ -557,7 +557,7 @@ the feminine and the gender-neutral.
     24. _(24)_
 
         1. _(a)_ "Net profit" for a person who is an individual means the
-        individual’s net profit required to be reported on schedule C, schedule
+        individual's net profit required to be reported on schedule C, schedule
         E, or schedule F reduced by any net operating loss carried forward. For
         the purposes of division (C)(24)(a) of this section, the net operating
         loss carried forward shall be calculated and deducted in the same manner
@@ -630,8 +630,8 @@ the feminine and the gender-neutral.
     electronically file business reply forms with state agencies and includes
     any successor electronic filing and payment system.
 
-    27. _(27)_ "Other payer" means any person, other than an individual’s
-    employer or the employer’s agent, that pays an individual any amount
+    27. _(27)_ "Other payer" means any person, other than an individual's
+    employer or the employer's agent, that pays an individual any amount
     included in the federal gross income of the individual. "Other payer"
     includes casino operators and video lottery terminal sales agents.
 
@@ -663,7 +663,7 @@ the feminine and the gender-neutral.
 
     33. _(33)_
 
-        1. _(a)_ “Pre-2017 net operating loss carryforward" means any net
+        1. _(a)_ "Pre-2017 net operating loss carryforward" means any net
         operating loss incurred in a taxable year beginning before January 1,
         2017, to the extent such loss was permitted, by a resolution or
         ordinance of the Municipality that was adopted by the Municipality
@@ -732,9 +732,9 @@ the feminine and the gender-neutral.
 
                 1. _(a)_ For the taxable year the amount is employee
                 compensation that is earned outside the United States and that
-                either is included in the taxpayer’s gross income for federal
+                either is included in the taxpayer's gross income for federal
                 income tax purposes or would have been included in the
-                taxpayer’s gross income for such purposes if the taxpayer did
+                taxpayer's gross income for such purposes if the taxpayer did
                 not elect to exclude the income under Section 911 of the
                 Internal Revenue Code;
 
@@ -753,24 +753,24 @@ the feminine and the gender-neutral.
 
     36. _(36)_ "Related entity" means any of the following:
 
-        1. _(a)_ An individual stockholder, or a member of the stockholder’s
+        1. _(a)_ An individual stockholder, or a member of the stockholder's
         family enumerated in Section 318 of the Internal Revenue Code, if the
-        stockholder and the members of the stockholder’s family own directly,
+        stockholder and the members of the stockholder's family own directly,
         indirectly, beneficially, or constructively, in the aggregate, at least
-        fifty percent (50%) of the value of the taxpayer’s outstanding stock;
+        fifty percent (50%) of the value of the taxpayer's outstanding stock;
 
-        2. _(b)_ A stockholder, or a stockholder’s partnership, estate, trust,
-        or corporation, if the stockholder and the stockholder’s partnerships,
+        2. _(b)_ A stockholder, or a stockholder's partnership, estate, trust,
+        or corporation, if the stockholder and the stockholder's partnerships,
         estates, trusts, or corporations own directly, indirectly, beneficially,
         or constructively, in the aggregate, at least fifty percent (50%) of the
-        value of the taxpayer’s outstanding stock;
+        value of the taxpayer's outstanding stock;
 
         3. _(c)_ A corporation, or a party related to the corporation in a
         manner that would require an attribution of stock from the corporation
         to the party or from the party to the corporation under division
         (C)(36)(d) of this section, provided the taxpayer owns directly,
         indirectly, beneficially, or constructively, at least fifty percent of
-        the value of the corporation’s outstanding stock;
+        the value of the corporation's outstanding stock;
 
         4. _(d)_ The attribution rules described in Section 318 of the Internal
         Revenue Code apply for the purpose of determining whether the ownership
@@ -853,7 +853,7 @@ the feminine and the gender-neutral.
             its taxable year ending in 2003, if all of the following conditions
             are met:
 
-                1. _(a)_ The limited liability company’s single member is also a
+                1. _(a)_ The limited liability company's single member is also a
                 limited liability company.
 
                 2. _(b)_ The limited liability company and its single member
@@ -876,13 +876,13 @@ the feminine and the gender-neutral.
 
             2. _(ii)_ For purposes of division (C)(48)(b)(ii) of this section, a
             municipal corporation was the primary place of business of a limited
-            liability company if, for the limited liability company’s taxable
+            liability company if, for the limited liability company's taxable
             year ending in 2003, its income tax liability was greater in that
             municipal corporation than in any other municipal corporation in
             Ohio, and that tax liability to that municipal corporation for its
             taxable year ending in 2003 was at least $400,000.
 
-    49. _(49)_ "Taxpayers’ rights and responsibilities" means the rights
+    49. _(49)_ "Taxpayers' rights and responsibilities" means the rights
     provided to taxpayers in Sections 124.09, 124.12, 124.13, 124.19(B), 124.20,
     124.21, and Sections 5717.011 and 5717.03 of the ORC, and the
     responsibilities of taxpayers to file, report, withhold, remit, and pay
@@ -910,7 +910,7 @@ person residing in and/or earning and/or receiving income in the Municipality.
 1. _(A)_ For residents of the Municipality, the income tax levied herein shall
 be on all income, salaries, qualifying wages, commissions, and other
 compensation from whatever source earned or received by the resident, including
-the resident’s distributive share of the net profit of pass-through entities
+the resident's distributive share of the net profit of pass-through entities
 owned directly or indirectly by the resident and any net profit of the resident.
 This is further detailed in the definition of income (Section 124.02 (C)(16)).
 
@@ -918,7 +918,7 @@ This is further detailed in the definition of income (Section 124.02 (C)(16)).
 and other compensation from whatever source earned or received by the
 nonresident for work done, services performed or rendered, or activities
 conducted in the municipal corporation, including any net profit of the
-nonresident, but excluding the nonresident’s distributive share of the net
+nonresident, but excluding the nonresident's distributive share of the net
 profit or loss of only pass-through entities owned directly or indirectly by the
 nonresident.
 
@@ -935,7 +935,7 @@ Deferred Compensation Plan.
         plan described in Section 3121(v)(2)(C) of the Internal Revenue Code.
 
         2. _(b)_ "Qualifying loss" means the amount of compensation attributable
-        to a taxpayer’s nonqualified deferred compensation plan, less the
+        to a taxpayer's nonqualified deferred compensation plan, less the
         receipt of money and property attributable to distributions from the
         nonqualified deferred compensation plan. Full loss is sustained if no
         distribution of money and property is made by the nonqualified deferred
@@ -966,7 +966,7 @@ Deferred Compensation Plan.
     other municipal corporations with respect to the nonqualified deferred
     compensation plan, the amount of the credit that a taxpayer may claim from
     each municipal corporation shall be calculated on the basis of each
-    municipal corporation’s proportionate share of the total municipal
+    municipal corporation's proportionate share of the total municipal
     corporation income tax paid by the taxpayer to all municipal corporations
     with respect to the nonqualified deferred compensation plan.
 
@@ -976,13 +976,13 @@ Deferred Compensation Plan.
     compensation plan.
 
     4. _(4)_ The credit allowed under this division is allowed only to the
-    extent the taxpayer’s qualifying loss is attributable to:
+    extent the taxpayer's qualifying loss is attributable to:
 
         1. _(a)_ The insolvency or bankruptcy of the employer who had
         established the nonqualified deferred compensation plan; or
 
-        2. _(b)_ The employee’s failure or inability to satisfy all of the
-        employer’s terms and conditions necessary to receive the nonqualified
+        2. _(b)_ The employee's failure or inability to satisfy all of the
+        employer's terms and conditions necessary to receive the nonqualified
         deferred compensation.
 
 ### Domicile.
@@ -1006,35 +1006,35 @@ Deferred Compensation Plan.
     in the Municipality for all or part of a taxable year, factors that may be
     considered include, but are not limited to, the following:
 
-        1. _(a)_ The individual’s domicile in other taxable years;
+        1. _(a)_ The individual's domicile in other taxable years;
 
         2. _(b)_ The location at which the individual is registered to vote;
 
-        3. _(c)_ The address on the individual’s driver’s license;
+        3. _(c)_ The address on the individual's driver's license;
 
         4. _(d)_ The location of real estate for which the individual claimed a
         property tax exemption or reduction allowed on the basis of the
-        individual’s residence or domicile;
+        individual's residence or domicile;
 
         5. _(e)_ The location and value of abodes owned or leased by the
         individual;
 
         6. _(f)_ Declarations, written or oral, made by the individual regarding
-        the individual’s residency;
+        the individual's residency;
 
         7. _(g)_ The primary location at which the individual is employed.
 
         8. _(h)_ The location of educational institutions attended by the
-        individual’s dependents as defined in Section 152 of the Internal
+        individual's dependents as defined in Section 152 of the Internal
         Revenue Code, to the extent that tuition paid to such educational
         institution is based on the residency of the individual or the
-        individual’s spouse in the municipal corporation where the educational
+        individual's spouse in the municipal corporation where the educational
         institution is located;
 
         9. _(i)_ The number of contact periods the individual has with the
         Municipality. For the purposes of this division, an individual has one
         "contact period" with the Municipality if the individual is away
-        overnight from the individual’s abode located outside of the
+        overnight from the individual's abode located outside of the
         Municipality and while away overnight from that abode spends at least
         some portion, however minimal, of each of two consecutive days in the
         Municipality.
@@ -1072,7 +1072,7 @@ telephone company that is subject to and required to file reports under Chapter
         period to individuals employed in the business or profession for
         services performed in the Municipality to wages, salaries, and other
         compensation paid during the same period to individuals employed in the
-        business or profession, wherever the individual’s services are
+        business or profession, wherever the individual's services are
         performed, excluding compensation from which taxes are not required to
         be withheld under Section 124.04 (C);
 
@@ -1085,7 +1085,7 @@ telephone company that is subject to and required to file reports under Chapter
     2. _(2)_
 
         1. _(a)_ If the apportionment factors described in division (F)(1) of
-        this section do not fairly represent the extent of a taxpayer’s business
+        this section do not fairly represent the extent of a taxpayer's business
         activity in the Municipality, the taxpayer may request, or the Tax
         Administrator of the Municipality may require, that the taxpayer use,
         with respect to all or any portion of the income of the taxpayer, an
@@ -1139,17 +1139,17 @@ telephone company that is subject to and required to file reports under Chapter
         inquiry, review, court-martial, or similar administrative, judicial, or
         legislative matter or proceeding is being conducted, provided that the
         compensation is paid for services performed for, or on behalf of, the
-        employer or that the employee’s presence at the location directly or
+        employer or that the employee's presence at the location directly or
         indirectly benefits the employer;
 
         3. _(c)_ Any other location, if the Tax Administrator determines that
         the employer directed the employee to perform the services at the other
         location in lieu of a location described in division (F)(3)(a) or (b) of
-        this section solely in order to avoid or reduce the employer’s municipal
+        this section solely in order to avoid or reduce the employer's municipal
         income tax liability. If the Tax Administrator makes such a
         determination, the employer may dispute the determination by
         establishing, by a preponderance of the evidence, that the Tax
-        Administrator’s determination was unreasonable.
+        Administrator's determination was unreasonable.
 
     4. _(4)_ For the purposes of division (F)(1)(c) of this section, receipts
     from sales and rentals made and services performed shall be sitused to a
@@ -1186,7 +1186,7 @@ telephone company that is subject to and required to file reports under Chapter
 
     5. _(5)_ The net profit received by an individual taxpayer from the rental
     of real estate owned directly by the individual, or by a disregarded entity
-    owned by the individual, shall be subject to the Municipality’s tax only if
+    owned by the individual, shall be subject to the Municipality's tax only if
     the property generating the net profit is located in the Municipality or if
     the individual taxpayer that receives the net profit is a resident of the
     Municipality. The Municipality shall allow such taxpayers to elect to use
@@ -1205,15 +1205,15 @@ telephone company that is subject to and required to file reports under Chapter
         sale, purchase, or lease of real estate everywhere in the taxable year.
 
         2. _(b)_ An individual who is a resident of the Municipality shall
-        report the individual’s net profit from all real estate activity on the
-        individual’s annual tax return for the Municipality. The individual may
+        report the individual's net profit from all real estate activity on the
+        individual's annual tax return for the Municipality. The individual may
         claim a credit for taxes the individual paid on such net profit to
         another municipal corporation to the extent that such a credit is
-        allowed under the Municipality’s income tax ordinance.
+        allowed under the Municipality's income tax ordinance.
 
     7. _(7)_ When calculating the ratios described in division (F)(1) of this
     section for the purposes of that division or division (F)(2) of this
-    section, the owner of a disregarded entity shall include in the owner’s
+    section, the owner of a disregarded entity shall include in the owner's
     ratios the property, payroll, and gross receipts of such disregarded entity.
 
     8. _(8)_ Intentionally left blank.
@@ -1273,7 +1273,7 @@ the benefit of, the employee.
     payment shall be made by electronic funds transfer to the Tax Administrator
     of all taxes deducted and withheld on behalf of the Municipality. The
     payment of tax by electronic funds transfer under this division does not
-    affect an employer’s, agent’s, or other payer’s obligation to file any
+    affect an employer's, agent's, or other payer's obligation to file any
     return as required under this section.
 
     3. _(3)_ An employer, agent of an employer, or other payer shall make and
@@ -1283,21 +1283,21 @@ the benefit of, the employee.
     under this division shall be accepted by Tax Administrator and the
     Municipality as the return required of a non-resident employee whose sole
     income subject to the tax under this Chapter is the qualifying wages
-    reported by the employee’s employer, agent of an employer, or other payer.
+    reported by the employee's employer, agent of an employer, or other payer.
 
     4. _(4)_ An employer, agent of an employer, or other payer is not required
-    to withhold Municipal Income Tax with respect to an individual’s
+    to withhold Municipal Income Tax with respect to an individual's
     disqualifying disposition of an incentive stock option if, at the time of
     the disqualifying disposition, the individual is not an employee of either
     the corporation with respect to whose stock the option has been issued or of
-    such corporation’s successor entity.
+    such corporation's successor entity.
     
     5. _(5)_
     
         1. _(a)_ An employee is not relieved from liability for a tax by the
         failure of the employer, agent of an employer, or other payer to
-        withhold the tax as required under this Chapter or by the employer’s,
-        agent’s, or other payer’s exemption from the requirement to withhold the
+        withhold the tax as required under this Chapter or by the employer's,
+        agent's, or other payer's exemption from the requirement to withhold the
         tax.
 
         2. _(b)_ The failure of an employer, agent of an employer, or other
@@ -1345,15 +1345,15 @@ the benefit of, the employee.
     payments as required by this section, shall be personally liable for a
     failure to file a report or pay the tax due as required by this section. The
     dissolution of an employer, agent of an employer, or other payer does not
-    discharge the officer’s or employee’s liability for a failure of the
+    discharge the officer's or employee's liability for a failure of the
     employer, agent of an employer, or other payer to file returns or pay any
     tax due.
 
     10. _(10)_ An employer is required to deduct and withhold Municipal income
-    tax on tips and gratuities received by the employer’s employees and
+    tax on tips and gratuities received by the employer's employees and
     constituting qualifying wages, but only to the extent that the tips and
-    gratuities are under the employer’s control. For the purposes of this
-    division, a tip or gratuity is under the employer’s control if the tip or
+    gratuities are under the employer's control. For the purposes of this
+    division, a tip or gratuity is under the employer's control if the tip or
     gratuity is paid by the customer to the employer for subsequent remittance
     to the employee, or if the customer pays the tip or gratuity by credit card,
     debit card, or other electronic means.
@@ -1386,7 +1386,7 @@ the benefit of, the employee.
         duties on a regular and ordinary basis to a fixed location or worksite
         location, "principal place of work" means the location in this state at
         which the employee spends the greatest number of days in a calendar year
-        performing services for or on behalf of the employee’s employer.
+        performing services for or on behalf of the employee's employer.
 
         If there is not a single municipal corporation in which the employee
         spent the "greatest number of days in a calendar year" performing
@@ -1394,14 +1394,14 @@ the benefit of, the employee.
         more municipal corporations in which the employee spent an identical
         number of days that is greater than the number of days the employee
         spent in any other municipal corporation, the employer shall allocate
-        any of the employee’s qualifying wages subject to division (C)(2)(a)(i)
+        any of the employee's qualifying wages subject to division (C)(2)(a)(i)
         of this section among those two or more municipal corporations. The
         allocation shall be made using any fair and reasonable method,
         including, but not limited to, an equal allocation among such municipal
         corporations or an allocation based upon the time spent or sales made by
         the employee in each such municipal corporation. A municipal corporation
         to which qualifying wages are allocated under this division shall be the
-        employee’s "principal place of work" with respect to those qualifying
+        employee's "principal place of work" with respect to those qualifying
         wages for the purposes of this section.
 
         For the purposes of this division, the location at which an employee
@@ -1435,7 +1435,7 @@ the benefit of, the employee.
         Municipality on twenty (20) or fewer days in a calendar year, unless one
         of the following conditions applies:
 
-            1. _(i)_ The employee’s principal place of work is located in the
+            1. _(i)_ The employee's principal place of work is located in the
             Municipality.
 
             2. _(ii)_ The employee performed services at one or more presumed
@@ -1457,12 +1457,12 @@ the benefit of, the employee.
                 the services at the location for more than twenty (20) days.
 
             3. _(iii)_ The employee is a resident of the Municipality and has
-            requested that the employer withhold tax from the employee’s
+            requested that the employer withhold tax from the employee's
             qualifying wages as provided in Section 124.04.
 
             4. _(iv)_ The employee is a professional athlete, professional
             entertainer, or public figure, and the qualifying wages are paid for
-            the performance of services in the employee’s capacity as a
+            the performance of services in the employee's capacity as a
             professional athlete, professional entertainer, or public figure.
 
         2. _(b)_ For the purposes of division (C)(2)(a) of this section, an
@@ -1472,7 +1472,7 @@ the benefit of, the employee.
         any other municipal corporation on that day. For the purposes of
         determining the amount of time an employee spent in a particular
         location, the time spent performing one or more of the following
-        activities shall be considered to have been spent at the employee’s
+        activities shall be considered to have been spent at the employee's
         principal place of work:
 
             1. _(i)_ Traveling to the location at which the employee will first
@@ -1485,23 +1485,23 @@ the benefit of, the employee.
             to pick up or load, for the purpose of transportation or delivery,
             property that has been purchased, sold, assembled, fabricated,
             repaired, refurbished, processed, remanufactured, or improved by the
-            employee’s employer;
+            employee's employer;
 
             4. _(iv)_ Transporting or delivering property described in division
             (C)(2)(b)(iii) of this section, provided that, upon delivery of the
             property, the employee does not temporarily or permanently affix the
             property to real estate owned, used, or controlled by a person other
-            than the employee’s employer;
+            than the employee's employer;
 
             5. _(v)_ Traveling from the location at which the employee makes the
-            employee’s final delivery or pick-up for the day to either the
-            employee’s principal place of work or a location at which the
+            employee's final delivery or pick-up for the day to either the
+            employee's principal place of work or a location at which the
             employee will not perform services for the employer.
 
     3. _(3)_ If the principal place of work of an employee is located in another
     Ohio municipal corporation that imposes an income tax, the exception from
     withholding requirements described in division (C)(2)(a) of this section
-    shall apply only if, with respect to the employee’s qualifying wages
+    shall apply only if, with respect to the employee's qualifying wages
     described in that division, the employer withholds and remits tax on such
     qualifying wages to that municipal corporation.
 
@@ -1521,16 +1521,16 @@ the benefit of, the employee.
         which the employer paid qualifying wages to the employee for personal
         services performed in the Municipality.
 
-    5. _(5)_ If an employer’s fixed location is the Municipality and the
+    5. _(5)_ If an employer's fixed location is the Municipality and the
     employer qualifies as a small employer as defined in Section 124.02, the
-    employer shall withhold Municipal income tax on all of the employee’s
+    employer shall withhold Municipal income tax on all of the employee's
     qualifying wages for a taxable year and remit that tax only to the
     Municipality, regardless of the number of days which the employee worked
     outside the corporate boundaries of the Municipality.
 
         To determine whether an employer qualifies as a small employer for a
         taxable year, the employer will be required to provide the Tax
-        Administrator with the employer’s federal income tax return for the
+        Administrator with the employer's federal income tax return for the
         preceding taxable year.
 
     6. _(6)_ Divisions (C)(2)(a) and (4) of this section shall not apply to the
@@ -1549,7 +1549,7 @@ subject to the tax, whether or not a tax is due thereon.
     1. _(1)_ The Tax Administrator may accept on behalf of all nonresident
     individual taxpayers a return filed by an employer, agent of an employer, or
     other payer under Section 124.05 of this Chapter when the nonresident
-    individual taxpayer’s sole income subject to the tax is the qualifying wages
+    individual taxpayer's sole income subject to the tax is the qualifying wages
     reported by the employer, agent of an employer, or other payer, and no
     additional tax is due the Municipality.
 
@@ -1563,12 +1563,12 @@ subject to the tax, whether or not a tax is due thereon.
     provisions of this Chapter.
 
 2. _(B)_ If an individual is deceased, any return or notice required of that
-individual shall be completed and filed by that decedent’s executor,
+individual shall be completed and filed by that decedent's executor,
 administrator, or other person charged with the property of that decedent.
 
 3. _(C)_ If an individual is unable to complete and file a return or notice
 required by the Municipality, the return or notice required of that individual
-shall be completed and filed by the individual’s duly authorized agent,
+shall be completed and filed by the individual's duly authorized agent,
 guardian, conservator, fiduciary, or other person charged with the care of the
 person or property of that individual.
 
@@ -1580,18 +1580,18 @@ and filed by the fiduciary of the estate or trust.
 6. _(F)_
 
     1. _(1)_ Each return required to be filed under this division shall contain
-    the signature of the taxpayer or the taxpayer’s duly authorized agent and of
+    the signature of the taxpayer or the taxpayer's duly authorized agent and of
     the person who prepared the return for the taxpayer. The return shall
-    include the taxpayer’s social security number or taxpayer identification
+    include the taxpayer's social security number or taxpayer identification
     number. Each return shall be verified by a declaration under penalty of
     perjury.
 
     2. _(2)_ The Tax Administrator shall require a taxpayer who is an individual
     to include, with each annual return and amended return, copies of the
-    following documents: all of the taxpayer’s Internal Revenue Service form W-
+    following documents: all of the taxpayer's Internal Revenue Service form W-
     2, "Wage and Tax Statements," including all information reported on the
-    taxpayer’s federal W-2, as well as taxable wages reported or withheld for
-    any municipal corporation; the taxpayer’s Internal Revenue Service form 1040
+    taxpayer's federal W-2, as well as taxable wages reported or withheld for
+    any municipal corporation; the taxpayer's Internal Revenue Service form 1040
     or in the case of a return or a request required by a qualified municipal
     corporation, Ohio Form IT-1040; and, with respect to an amended tax return,
     any other documentation necessary to support the adjustments made in the
@@ -1603,7 +1603,7 @@ and filed by the fiduciary of the estate or trust.
     3. _(3)_ The Tax Administrator may require a taxpayer that is not an
     individual to include, with each annual net profit return, amended net
     profit return, or request for refund required under this section, copies of
-    only the following documents: the taxpayer’s Internal Revenue Service form
+    only the following documents: the taxpayer's Internal Revenue Service form
     1041, form 1065, form 1120, form 1120-REIT, form 1120F, or form 1120S, and,
     with respect to an amended tax return or refund request, any other
     documentation necessary to support the refund request or the adjustments
@@ -1619,7 +1619,7 @@ and filed by the fiduciary of the estate or trust.
     4. _(4)_ After a taxpayer files a tax return, the Tax Administrator may
     request, and the taxpayer shall provide, any information, statements, or
     documents required by the Municipality to determine and verify the
-    taxpayer’s municipal income tax liability. The requirements imposed under
+    taxpayer's municipal income tax liability. The requirements imposed under
     division (F) of this section apply regardless of whether the taxpayer files
     on a generic form or on a form prescribed by the Tax Administrator.
 
@@ -1631,7 +1631,7 @@ and filed by the fiduciary of the estate or trust.
         income tax return required to be filed under this section shall be
         completed and filed as required by the Tax Administrator on or before
         the fifteenth (15th) day of the fourth (4th) month following the end of
-        the taxpayer’s taxable year. The taxpayer shall complete and file the
+        the taxpayer's taxable year. The taxpayer shall complete and file the
         return or notice on forms prescribed by the Tax Administrator or on
         generic forms, together with remittance made payable to the
         Municipality. No remittance is required if the net amount due is ten
@@ -1641,37 +1641,37 @@ and filed by the fiduciary of the estate or trust.
         profit return required to be filed under this section by a taxpayer that
         is not an individual shall be completed and filed as required by the Tax
         Administrator on or before the fifteenth (15th) day of the fourth (4th)
-        month following the end of the taxpayer’s taxable year. The taxpayer
+        month following the end of the taxpayer's taxable year. The taxpayer
         shall complete and file the return or notice on forms prescribed by the
         Tax Administrator or on generic forms, together with remittance made
         payable to the Municipality. No remittance is required if the net
         amount due is ten dollars ($10.00) or less.
 
     2. _(2)_ Any taxpayer that has duly requested an automatic six-month
-    extension for filing the taxpayer’s federal income tax return shall
-    automatically receive an extension for the filing of the Municipality’s
-    income tax return. The extended due date of the Municipality’s income tax
+    extension for filing the taxpayer's federal income tax return shall
+    automatically receive an extension for the filing of the Municipality's
+    income tax return. The extended due date of the Municipality's income tax
     return shall be the fifteenth (15th) day of the tenth (10th) month after the
     last day of the taxable year to which the return relates. An extension of
     time to file under this division is not an extension of the time to pay any
     tax due unless the Tax Administrator grants an extension of that date.
 
         1. _(a)_ A copy of the federal extension request shall be included with
-        the filing of the Municipality’s income tax return.
+        the filing of the Municipality's income tax return.
 
         2. _(b)_ A taxpayer that has not requested or received a six- month
-        extension for filing the taxpayer’s federal income tax return may submit
+        extension for filing the taxpayer's federal income tax return may submit
         a written request that the Tax Administrator grant the taxpayer a
-        six-month extension of the date for filing the taxpayer’s Municipal
+        six-month extension of the date for filing the taxpayer's Municipal
         income tax return. If the request is received by the Tax Administrator
         on or before the date the Municipal income tax return is due, the Tax
-        Administrator shall grant the taxpayer’s requested extension.
+        Administrator shall grant the taxpayer's requested extension.
 
     3. _(3)_ If the Tax Commissioner extends for all taxpayers the date for
     filing state income tax returns under division (G) of Section 5747.08 of the
     ORC, a taxpayer shall automatically receive an extension for the filing of
-    the Municipality’s income tax return. The extended due date of the
-    Municipality’s income tax return shall be the same as the extended due date
+    the Municipality's income tax return. The extended due date of the
+    Municipality's income tax return shall be the same as the extended due date
     of the state income tax return.
 
     4. _(4)_ If the Tax Administrator considers it necessary in order to ensure
@@ -1711,7 +1711,7 @@ and filed by the fiduciary of the estate or trust.
             taxable year.
 
         2. _(b)_ The person shall provide the notice in a signed affidavit that
-        briefly explains the person’s circumstances, including the location of
+        briefly explains the person's circumstances, including the location of
         the previous worksite location and the last date on which the person
         performed services or made any sales within Municipality. The affidavit
         shall also include the following statement: "The affiant has no plans to
@@ -1757,7 +1757,7 @@ that the generic form, once completed and filed, contains all of the information
 required by ordinance, resolution, or rules and regulations adopted by the
 Municipality or the Tax Administrator, and provided that the taxpayer or tax
 return preparer filing the generic form otherwise complies with the provisions
-of this Chapter and any of the Municipality’s ordinances, resolutions, or rules
+of this Chapter and any of the Municipality's ordinances, resolutions, or rules
 and regulations governing the filing of returns, reports, or documents.
 
 ### Filing via Ohio Business Gateway.
@@ -1765,7 +1765,7 @@ and regulations governing the filing of returns, reports, or documents.
 13. _(M)_
 
     1. _(1)_ Any taxpayer subject to Municipal income taxation with respect to
-    the taxpayer’s net profit from a business or profession may file a Municipal
+    the taxpayer's net profit from a business or profession may file a Municipal
     income tax return, estimated Municipal income tax return, or extension for
     filing a Municipal income tax return, and may make payment of amounts shown
     to be due on such returns, by using the Ohio Business Gateway.
@@ -1786,10 +1786,10 @@ an act of the congress of the United States, and each civilian serving as
 support personnel in a combat zone or contingency operation in support of the
 armed forces, may apply to the Tax Administrator of the Municipality for both an
 extension of time for filing of the return and an extension of time for payment
-of taxes required by the Municipality during the period of the member’s or
-civilian’s duty service, and for one hundred eighty (180) days thereafter. The
+of taxes required by the Municipality during the period of the member's or
+civilian's duty service, and for one hundred eighty (180) days thereafter. The
 application shall be filed on or before the one hundred eightieth (180th) day
-after the member’s or civilian’s duty terminates. An applicant shall provide
+after the member's or civilian's duty terminates. An applicant shall provide
 such evidence as the Tax Administrator considers necessary to demonstrate
 eligibility for the extension.
 
@@ -1798,7 +1798,7 @@ eligibility for the extension.
     1. _(1)_ If the Tax Administrator ascertains that an applicant is qualified
     for an extension under this section, the Tax Administrator shall enter into
     a contract with the applicant for the payment of the tax in installments
-    that begin on the one hundred eighty-first (181st) day after the applicant’s
+    that begin on the one hundred eighty-first (181st) day after the applicant's
     active duty or service terminates. The Tax Administrator may prescribe such
     contract terms as the Tax Administrator considers appropriate. However,
     taxes pursuant to a contract entered into under this division are not
@@ -1810,7 +1810,7 @@ eligibility for the extension.
     for an extension under this section, the applicant shall neither be required
     to file any return, report, or other tax document nor be required to pay any
     tax otherwise due to the municipal corporation before the one hundred
-    eighty-first (181st) day after the applicant’s active duty or service
+    eighty-first (181st) day after the applicant's active duty or service
     terminates.
 
     3. _(3)_ Taxes paid pursuant to a contract entered into under (O) (1) of
@@ -1887,7 +1887,7 @@ Consolidated Municipal income tax return.
     that is a member of an affiliated group of corporations may elect to file a
     consolidated municipal income tax return for a taxable year if at least one
     member of the affiliated group of corporations is subject to the
-    Municipality’s income tax in that taxable year, and if the affiliated group
+    Municipality's income tax in that taxable year, and if the affiliated group
     of corporations filed a consolidated federal income tax return with respect
     to that taxable year. The election is binding for a five (5) year period
     beginning with the first taxable year of the initial election unless a
@@ -1924,7 +1924,7 @@ Consolidated Municipal income tax return.
 that filed a consolidated federal income tax return for a taxable year shall
 file a consolidated Municipal income tax return for that taxable year if the Tax
 Administrator determines, by a preponderance of the evidence, that intercompany
-transactions have not been conducted at arm’s length and that there has been a
+transactions have not been conducted at arm's length and that there has been a
 distortive shifting of income or expenses with regard to allocation of net
 profits to the Municipality. A taxpayer that is required to file a consolidated
 Municipal income tax return for a taxable year shall file a consolidated
@@ -1945,8 +1945,8 @@ affiliated group of which the taxpayer is a member.
     return shall compute adjusted federal taxable income, as defined in Section
     124.02, by substituting "consolidated federal taxable income" for "federal
     taxable income" wherever "federal taxable income" appears in that division
-    and by substituting "an affiliated group of corporation’s" for "a C
-    corporation’s" wherever "a C corporation’s" appears in that division.
+    and by substituting "an affiliated group of corporation's" for "a C
+    corporation's" wherever "a C corporation's" appears in that division.
 
     2. _(2)_ No corporation filing a consolidated Municipal income tax return
     shall make any adjustment otherwise required under Section 124.02(C)(1) to
@@ -1957,49 +1957,49 @@ affiliated group of which the taxpayer is a member.
     3. _(3)_ If the net profit or loss of a pass-through entity having at least
     eighty percent (80%) of the value of its ownership interest owned or
     controlled, directly or indirectly, by an affiliated group of corporations
-    is included in that affiliated group’s consolidated federal taxable income
+    is included in that affiliated group's consolidated federal taxable income
     for a taxable year, the corporation filing a consolidated Municipal income
     tax return shall do one of the following with respect to that pass-through
-    entity’s net profit or loss for that taxable year:
+    entity's net profit or loss for that taxable year:
 
-        1. _(a)_ Exclude the pass-through entity’s net profit or loss from the
+        1. _(a)_ Exclude the pass-through entity's net profit or loss from the
         consolidated federal taxable income of the affiliated group and, for the
         purpose of making the computations required in divisions (R) through (Y)
         of Section 124.05, exclude the property, payroll, and gross receipts of
-        the pass-through entity in the computation of the affiliated group’s net
-        profit sitused to the Municipality. If the entity’s net profit or loss
+        the pass-through entity in the computation of the affiliated group's net
+        profit sitused to the Municipality. If the entity's net profit or loss
         is so excluded, the entity shall be subject to taxation as a separate
-        taxpayer on the basis of the entity’s net profits that would otherwise
+        taxpayer on the basis of the entity's net profits that would otherwise
         be included in the consolidated federal taxable income of the affiliated
         group.
 
-        2. _(b)_ Include the pass-through entity’s net profit or loss in the
+        2. _(b)_ Include the pass-through entity's net profit or loss in the
         consolidated federal taxable income of the affiliated group and, for the
         purpose of making the computations required in divisions (R) through (Y)
         of Section 124.05, include the property, payroll, and gross receipts of
-        the pass-through entity in the computation of the affiliated group’s net
-        profit sitused to the Municipality. If the entity’s net profit or loss
+        the pass-through entity in the computation of the affiliated group's net
+        profit sitused to the Municipality. If the entity's net profit or loss
         is so included, the entity shall not be subject to taxation as a
-        separate taxpayer on the basis of the entity’s net profits that are
+        separate taxpayer on the basis of the entity's net profits that are
         included in the consolidated federal taxable income of the affiliated
         group.
     4. _(4)_ If the net profit or loss of a pass-through entity having less than
     eighty percent of the value of its ownership interest owned or controlled,
     directly or indirectly, by an affiliated group of corporations is included
-    in that affiliated group’s consolidated federal taxable income for a taxable
+    in that affiliated group's consolidated federal taxable income for a taxable
     year, all of the following shall apply:
 
         1. _(a)_ The corporation filing the consolidated municipal income tax
-        return shall exclude the pass-through entity’s net profit or loss from
+        return shall exclude the pass-through entity's net profit or loss from
         the consolidated federal taxable income of the affiliated group and, for
         the purposes of making the computations required in divisions (R)
         through (Y) of Section 124.05, exclude the property, payroll, and gross
         receipts of the pass-through entity in the computation of the affiliated
-        group’s net profit sitused to the Municipality;
+        group's net profit sitused to the Municipality;
 
         2. _(b)_ The pass-through entity shall be subject to Municipal income
         taxation as a separate taxpayer in accordance with this Chapter on the
-        basis of the entity’s net profits that would otherwise be included in
+        basis of the entity's net profits that would otherwise be included in
         the consolidated federal taxable income of the affiliated group.
 
 23. _(W)_ Corporations filing a consolidated Municipal income tax return shall
@@ -2060,7 +2060,7 @@ municipality.
 1. _(A)_ As used in this section:
 
     1. _(1)_ "Estimated taxes" means the amount that the taxpayer reasonably
-    estimates to be the taxpayer’s tax liability for the Municipality’s income
+    estimates to be the taxpayer's tax liability for the Municipality's income
     tax for the current taxable year.
 
     2. _(2)_ "Tax liability" means the total taxes due to the Municipality for
@@ -2228,7 +2228,7 @@ by the municipal corporation:
     shall be filed with the Tax Administrator, on the form prescribed by the Tax
     Administrator within three (3) years after the tax was due or paid,
     whichever is later. The Tax Administrator may require the requestor to file
-    with the request any documentation that substantiates the requestor’s claim
+    with the request any documentation that substantiates the requestor's claim
     for a refund.
 
     2. _(2)_ On filing of the refund request, the Tax Administrator shall
@@ -2240,7 +2240,7 @@ by the municipal corporation:
     the reasons for the denial, and instructions for appealing the assessment.
 
     3. _(3)_ If a Tax Administrator denies in whole or in part a refund request
-    included within the taxpayer’s originally filed annual income tax return,
+    included within the taxpayer's originally filed annual income tax return,
     the Tax Administrator shall notify the taxpayer, in writing, of the amount
     of the refund that was denied, the reasons for the denial, and instructions
     for requesting an assessment that may be appealed under Section 124.21.
@@ -2285,16 +2285,16 @@ as a refund but is subject to the three (3) year limitation on refunds.
 
 2. _(B)_ Income tax that was deposited with another municipality but should have
 been deposited with the Municipality is subject to recovery by Municipality. If
-the Municipality’s tax on that income is imposed after the time period allowed
+the Municipality's tax on that income is imposed after the time period allowed
 for a refund of the tax or withholding paid to the other municipality, the
 Municipality shall allow a nonrefundable credit against the tax or withholding
 the Municipality claims is due with respect to such income or wages, equal to
 the tax or withholding paid to the first municipality with respect to such
 income or wages.
 
-3. _(C)_ If the Municipality’s tax rate is less than the tax rate in the other
+3. _(C)_ If the Municipality's tax rate is less than the tax rate in the other
 municipality, then the nonrefundable credit shall be calculated using the
-Municipality’s tax rate. However, if the Municipality’s tax rate is greater than
+Municipality's tax rate. However, if the Municipality's tax rate is greater than
 the tax rate in the other municipality, the tax due in excess of the
 nonrefundable credit is to be paid to the Municipality, along with any penalty
 and interest that accrued during the period of nonpayment.
@@ -2306,15 +2306,15 @@ and interest that accrued during the period of nonpayment.
 
 1. _(A)_
 
-    1. _(1)_ If a taxpayer’s tax liability shown on the annual tax return for
-    the Municipality changes as a result of an adjustment to the taxpayer’s
+    1. _(1)_ If a taxpayer's tax liability shown on the annual tax return for
+    the Municipality changes as a result of an adjustment to the taxpayer's
     federal or state income tax return, the taxpayer shall file an amended
     return with the Municipality. The amended return shall be filed on a form
     required by the Tax Administrator.
 
     2. _(2)_ If a taxpayer intends to file an amended consolidated municipal
     income tax return, or to amend its type of return from a separate return to
-    a consolidated return, based on the taxpayer’s consolidated federal income
+    a consolidated return, based on the taxpayer's consolidated federal income
     tax return, the taxpayer shall notify the Tax Administrator before filing
     the amended return.
 
@@ -2326,7 +2326,7 @@ and interest that accrued during the period of nonpayment.
     dollars or less, no payment need be made. The amended return shall reopen
     those facts, figures, computations, or attachments from a previously filed
     return that are not affected, either directly or indirectly, by the
-    adjustment to the taxpayer’s federal or state income tax return only:
+    adjustment to the taxpayer's federal or state income tax return only:
 
         1. _(i)_ To determine the amount of tax that would be due if all facts,
         figures, computations, and attachments were reopened; or,
@@ -2348,9 +2348,9 @@ and interest that accrued during the period of nonpayment.
     that division. If the amount of the refund is less than ten dollars, no
     refund need be paid by the Municipality. A request filed under this division
     shall claim refund of overpayments resulting from alterations only to those
-    facts, figures, computations, or attachments required in the taxpayer’s
+    facts, figures, computations, or attachments required in the taxpayer's
     annual return that are affected, either directly or indirectly, by the
-    adjustment to the taxpayer’s federal or state income tax return, unless it
+    adjustment to the taxpayer's federal or state income tax return, unless it
     is also filed within the time prescribed in Section 124.09.
 
     2. _(2)_ The amount to be refunded shall not exceed the amount of refund
@@ -2360,7 +2360,7 @@ and interest that accrued during the period of nonpayment.
     computations, and attachments.
 
 4. _(D)_ Within sixty (60) days after the final determination of any federal or
-state tax liability affecting the taxpayer’s Municipal income tax liability,
+state tax liability affecting the taxpayer's Municipal income tax liability,
 that taxpayer shall make and file an amended Municipal income tax return showing
 income subject to Municipal income tax based upon such final determination of
 federal or state tax liability. The taxpayer shall pay any additional Municipal
@@ -2450,7 +2450,7 @@ interest shall be brought during either of the following time periods:
 1. _(A)_ At or before the commencement of an audit, the Tax Administrator shall
 provide to the taxpayer a written description of the roles of the Tax
 Administrator and of the taxpayer during the audit and a statement of the
-taxpayer’s rights, including any right to obtain a refund of an overpayment of a
+taxpayer's rights, including any right to obtain a refund of an overpayment of a
 tax. At or before the commencement of an audit, the Tax Administrator shall
 inform the taxpayer when the audit is considered to have commenced.
 
@@ -2472,7 +2472,7 @@ the authorized representative of a taxpayer.
 
     A taxpayer may refuse to answer any questions asked by the person conducting
     an audit until the taxpayer has an opportunity to consult with the
-    taxpayer’s attorney, accountant, bookkeeper, or other tax practitioner.
+    taxpayer's attorney, accountant, bookkeeper, or other tax practitioner.
 
     This division does not authorize the practice of law by a person who is not
     an attorney.
@@ -2482,7 +2482,7 @@ examination.
 
 5. _(E)_ The failure of the Tax Administrator to comply with a provision of this
 section shall neither excuse a taxpayer from payment of any taxes owed by the
-taxpayer nor cure any procedural defect in a taxpayer’s case.
+taxpayer nor cure any procedural defect in a taxpayer's case.
 
 6. _(F)_ If the Tax Administrator fails to substantially comply with the
 provisions of this section, the Tax Administrator, upon application by the
@@ -2526,7 +2526,7 @@ mail.
         ordinary mail and considered served. If the ordinary mail is
         subsequently returned because of an undeliverable address, the
         assessment remains appealable within sixty (60) days after the
-        assessment’s postmark.
+        assessment's postmark.
 
         2. _(b)_ Once the Tax Administrator or other Municipal official, or the
         designee of either, serves an assessment on the person to whom the
@@ -2570,11 +2570,11 @@ mail.
     the Tax Administrator originally mailed the assessment if, at that time, the
     person was residing, receiving legal documents, or conducting business at
     the address; or if, before that time, the person had conducted business at
-    the address and, when the assessment was mailed, the person’s agent or the
-    person’s affiliate was conducting business at the address. For the purposes
-    of this section, a person’s affiliate is any other person that, at the time
+    the address and, when the assessment was mailed, the person's agent or the
+    person's affiliate was conducting business at the address. For the purposes
+    of this section, a person's affiliate is any other person that, at the time
     the assessment was mailed, owned or controlled at least twenty (20%)
-    percent, as determined by voting rights, of the addressee’s business.
+    percent, as determined by voting rights, of the addressee's business.
 
     2. _(2)_ If a person elects to appeal an assessment on the basis described
     in division (D)(1) of this section, and if that assessment is subject to
@@ -2586,7 +2586,7 @@ mail.
     an appeal with the local Board of Tax Review.
 
 5. _(E)_ Nothing in this section prohibits the Tax Administrator or the Tax
-Administrator’s designee from delivering an assessment by a Tax Administrator by
+Administrator's designee from delivering an assessment by a Tax Administrator by
 personal service.
 
 6. _(F)_ Collection actions taken upon any assessment being appealed under
@@ -2601,7 +2601,7 @@ apply.
 ## 124.15   Administration of claims
 
 1. _(A)_ As used in this section, "claim" means a claim for an amount payable to
-the Municipality that arises pursuant to the Municipality’s income tax imposed
+the Municipality that arises pursuant to the Municipality's income tax imposed
 in accordance with this Chapter.
 
 2. _(B)_ Nothing in this Chapter prohibits a Tax Administrator from doing either
@@ -2612,7 +2612,7 @@ of the following if such action is in the best interests of the Municipality:
     2. _(2)_ Extend for a reasonable period the time for payment of a claim by
     agreeing to accept monthly or other periodic payments.
 
-3. _(C)_ The Tax Administrator’s rejection of a compromise or payment-over-time
+3. _(C)_ The Tax Administrator's rejection of a compromise or payment-over-time
 agreement proposed by a person with respect to a claim shall not be appealable.
 
 4. _(D)_ A compromise or payment-over-time agreement with respect to a claim
@@ -2635,7 +2635,7 @@ and be due.
 hearings, or verifications required or authorized by this Chapter is
 confidential, and no person shall access or disclose such information except in
 accordance with a proper judicial order or in connection with the performance of
-that person’s official duties or the official business of the Municipality as
+that person's official duties or the official business of the Municipality as
 authorized by this Chapter. The Tax Administrator or a designee thereof may
 furnish copies of returns filed or otherwise received under this Chapter and
 other related tax information to the internal revenue service, the tax
@@ -2702,8 +2702,8 @@ intent to defraud the Municipality or the Tax Administrator.
 
     9. _(9)_ "Withholding tax" includes amounts an employer, any agent of an
     employer, or any other payer did not withhold in whole or in part from an
-    employee’s qualifying wages, but that, under applicable law, the employer,
-    agent, or other payer is required to withhold from an employee’s qualifying
+    employee's qualifying wages, but that, under applicable law, the employer,
+    agent, or other payer is required to withhold from an employee's qualifying
     wages.
 
 2. _(B)_
@@ -2757,7 +2757,7 @@ Municipality has properly imposed or collected before January 1, 2016.
 
 5. _(E)_ Nothing in this section limits the authority of the Municipality to
 abate or partially abate penalties or interest imposed under this section when
-the Tax Administrator determines, in the Tax Administrator’s sole discretion,
+the Tax Administrator determines, in the Tax Administrator's sole discretion,
 that such abatement is appropriate.
 
 6. _(F)_ By the 31st day of October of each year the Municipality shall publish
@@ -2765,8 +2765,8 @@ the rate described in division (A) of this section applicable to the next
 succeeding calendar year.
 
 7. _(G)_ The Municipality may impose on the taxpayer, employer, any agent of the
-employer, or any other payer the Municipality’s post-judgment collection costs
-and fees, including attorney’s fees.  
+employer, or any other payer the Municipality's post-judgment collection costs
+and fees, including attorney's fees.  
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.19   Authority of tax administrator; verification of information
@@ -2792,7 +2792,7 @@ the ORC:
         2. _(b)_ The powers referred to in this division of this section shall
         be exercised by the Tax Administrator only in connection with the
         performance of the duties respectively assigned to the Tax Administrator
-        under the Municipality’s income tax ordinance;
+        under the Municipality's income tax ordinance;
 
     2. _(2)_ Appoint agents and prescribe their powers and duties;
 
@@ -2805,8 +2805,8 @@ the ORC:
     penalties and interest thereon, for any reason overpaid. In addition, the
     Tax Administrator may investigate any claim of overpayment and, if the Tax
     Administrator finds that there has been an overpayment, make a written
-    statement of the Tax Administrator’s findings, and approve and issue a
-    refund payable to the taxpayer, the taxpayer’s assigns, or legal
+    statement of the Tax Administrator's findings, and approve and issue a
+    refund payable to the taxpayer, the taxpayer's assigns, or legal
     representative as provided in this Chapter;
 
     5. _(5)_ Exercise the authority provided by law relative to consenting to
@@ -2820,7 +2820,7 @@ the ORC:
 
         1. _(a)_ Make all tax findings, determinations, computations, and orders
         the Tax Administrator is by law authorized and required to make and,
-        pursuant to time limitations provided by law, on the Tax Administrator’s
+        pursuant to time limitations provided by law, on the Tax Administrator's
         own motion, review, re-determine, or correct any tax findings,
         determinations, computations, or orders the Tax Administrator has made.
 
@@ -2855,7 +2855,7 @@ the ORC:
 
     2. _(2)_ The records and other documents of any taxpayer, employer, or other
     person that is subject to, or that a Tax Administrator believes is subject
-    to, the provisions of this Chapter shall be open to the Tax Administrator’s
+    to, the provisions of this Chapter shall be open to the Tax Administrator's
     inspection during business hours and shall be preserved for a period of six
     (6) years following the end of the taxable year to which the records or
     documents relate, unless the Tax Administrator, in writing, consents to
@@ -2871,7 +2871,7 @@ the ORC:
     that was or would have been returned for taxation or any transaction tending
     to affect such income. The Tax Administrator may, for this purpose, compel
     any such person to attend a hearing or examination and to produce any books,
-    papers, records, and federal and state income tax returns in such person’s
+    papers, records, and federal and state income tax returns in such person's
     possession or control. The person may be assisted or represented by an
     attorney, accountant, bookkeeper, or other tax practitioner at any such
     hearing or examination. This division does not authorize the practice of law
@@ -2888,7 +2888,7 @@ the ORC:
 
     1. _(1)_ Nothing in this Chapter prohibits the Tax Administrator from
     requiring any person filing a tax document with the Tax Administrator to
-    provide identifying information, which may include the person’s social
+    provide identifying information, which may include the person's social
     security number, federal employer identification number, or other
     identification number requested by the Tax Administrator. A person required
     by the Tax Administrator to provide identifying information that has
@@ -2974,8 +2974,8 @@ subject to appeal.
     malfeasance, misfeasance, or nonfeasance in office. To remove such a member,
     the legislative authority must give the member a copy of the charges against
     the member and afford the member an opportunity to be publicly heard in
-    person or by counsel in the member’s own defense upon not less than ten (10)
-    days’ notice. The decision by the legislative authority on the charges is
+    person or by counsel in the member's own defense upon not less than ten (10)
+    days' notice. The decision by the legislative authority on the charges is
     final and not appealable.
 
     4. _(4)_ A member of the Board of Tax Review who, for any reason, ceases to
@@ -2985,7 +2985,7 @@ subject to appeal.
     5. _(5)_ A vacancy in an unexpired term shall be filled in the same manner
     as the original appointment within sixty (60) days of when the vacancy was
     created. Any member appointed to fill a vacancy occurring prior to the
-    expiration of the term for which the member’s predecessor was appointed
+    expiration of the term for which the member's predecessor was appointed
     shall hold office for the remainder of such term. No vacancy on the Board of
     Tax Review shall impair the power and authority of the remaining members to
     exercise all the powers of the Board of Tax Review.
@@ -2994,13 +2994,13 @@ subject to appeal.
     Review due to a conflict of interest, illness, absence, or similar reason,
     the legislative authority or top administrative official that appointed the
     member shall appoint another individual to temporarily serve on the Board of
-    Tax Review in the member’s place. The appointment of such an individual
+    Tax Review in the member's place. The appointment of such an individual
     shall be subject to the same requirements and limitations as are applicable
     to the appointment of the member temporarily unable to serve.
 
 2. _(B)_ Whenever a Tax Administrator issues an assessment, the Tax
 Administrator shall notify the taxpayer in writing at the same time of the
-taxpayer’s right to appeal the assessment, the manner in which the taxpayer may
+taxpayer's right to appeal the assessment, the manner in which the taxpayer may
 appeal the assessment, and the address to which the appeal should be directed.
 
 3. _(C)_ Any person who has been issued an assessment may appeal the assessment
@@ -3020,12 +3020,12 @@ a case, the hearing must be completed within one hundred twenty (120) days after
 the first (1st) day of the hearing unless the parties agree otherwise.
 
 5. _(E)_ The Board of Tax Review may affirm, reverse, or modify the Tax
-Administrator’s assessment or any part of that assessment. The Board of Tax
+Administrator's assessment or any part of that assessment. The Board of Tax
 Review shall issue a final determination on the appeal within ninety (90) days
-after the Board of Tax Review’s final hearing on the appeal, and send a copy of
+after the Board of Tax Review's final hearing on the appeal, and send a copy of
 its final determination by ordinary mail to all of the parties to the appeal
 within fifteen (15) days after issuing the final determination. The taxpayer or
-the Tax Administrator may appeal the Board of Tax Review’s final determination
+the Tax Administrator may appeal the Board of Tax Review's final determination
 as provided in Section 5717.011 of the ORC.
 
 6. _(F)_ The Board of Tax Review created pursuant to this section shall adopt
@@ -3128,7 +3128,7 @@ this ordinance shall be due on the date provided in Sections 124.05 and Section
 
 The Municipality hereby adopts the Regional Income Tax Agency (RITA) Rules &
 Regulations, including amendments that may be made from time to time, for use as
-the Municipality’s Income Tax Rules and Regulations. In the event of a conflict
+the Municipality's Income Tax Rules and Regulations. In the event of a conflict
 with any provision(s) of this Chapter and the RITA Rules & Regulations, this
 Chapter will supersede. Until and if the contractual relationship between the
 Municipality and RITA ceases, Section 124.26 will supersede all other provisions
@@ -3141,7 +3141,7 @@ Administrator.
 1. _(A)_ A taxpayer may elect to be subject to sections 124.27 to 124.41 of the
 Codified Ordinances in lieu of the provisions set forth in the remainder of this
 chapter. Notwithstanding any other provision of this chapter, upon the
-taxpayer’s election, both of the following shall apply:
+taxpayer's election, both of the following shall apply:
 
     1. _(1)_ The state Tax Commissioner shall serve as the sole administrator of
     the municipal net profit tax for which the taxpayer as defined in 124.28(C)
@@ -3155,7 +3155,7 @@ taxpayer’s election, both of the following shall apply:
 2. _(B)_
 
     1. _(1)_ A taxpayer shall make the initial election on or before the first
-    day of the third month after the beginning of the taxpayer’s taxable year by
+    day of the third month after the beginning of the taxpayer's taxable year by
     notifying the Tax Commissioner and the Municipality, on a form prescribed by
     the Tax Commissioner.
 
@@ -3217,7 +3217,7 @@ the person for the municipal corporation.
 2. _(B)_ "Adjusted federal taxable income," for a person required to file as a C
 corporation, or for a person that has elected to be taxed as a C corporation as
 described in division (D)(5) of section 718.01 of the Revised Code and section
-124.02 of the Codified Ordinances, means a C corporation’s federal taxable
+124.02 of the Codified Ordinances, means a C corporation's federal taxable
 income before net operating losses and special deductions as determined under
 the Internal Revenue Code, adjusted as follows:
 
@@ -3267,15 +3267,15 @@ the Internal Revenue Code, adjusted as follows:
     excluded in computing adjusted federal taxable income.
 
     9. _(9)_ Deduct any net profit of a pass-through entity owned directly or
-    indirectly by the taxpayer and included in the taxpayer’s federal taxable
+    indirectly by the taxpayer and included in the taxpayer's federal taxable
     income unless an affiliated group of corporations includes that net profit
-    in the group’s federal taxable income in accordance with division (E)(3)
+    in the group's federal taxable income in accordance with division (E)(3)
     (b) of section 124.33 of the Codified Ordinances.
 
     10. _(10)_ Add any loss incurred by a pass-through entity owned directly or
-    indirectly by the taxpayer and included in the taxpayer’s federal taxable
+    indirectly by the taxpayer and included in the taxpayer's federal taxable
     income unless an affiliated group of corporations includes that loss in the
-    group’s federal taxable income in accordance with division (E)(3)(b) of
+    group's federal taxable income in accordance with division (E)(3)(b) of
     section 124.33 of the Codified Ordinances.
 
         If the taxpayer is not a C corporation, is not a disregarded entity that
@@ -3316,10 +3316,10 @@ to be filed pursuant to sections 124.27 to 124.41 of the Codified Ordinances for
 the purpose of reporting municipal income taxes, and includes declarations of
 estimated tax.
 
-5. _(E)_ "Taxable year" means the calendar year or the taxpayer’s fiscal year
+5. _(E)_ "Taxable year" means the calendar year or the taxpayer's fiscal year
 ending during the calendar year, or fractional part thereof, upon which the
-calculation of the taxpayer’s adjusted federal taxable income is based pursuant
-to this chapter. If a taxpayer’s taxable year is changed for federal income tax
+calculation of the taxpayer's adjusted federal taxable income is based pursuant
+to this chapter. If a taxpayer's taxable year is changed for federal income tax
 purposes, the taxable year for purposes of sections 124.27 to 124.41 of the
 Codified Ordinances is changed accordingly but may consist of an aggregation of
 more than one taxable year for federal income tax purposes. The Tax Commissioner
@@ -3361,7 +3361,7 @@ proportion as the average ratio of the following:
     period to individuals employed in the business or profession for services
     performed in the Municipality to wages, salaries, and other compensation
     paid during the same period to individuals employed in the business or
-    profession, wherever the individual’s services are performed, excluding
+    profession, wherever the individual's services are performed, excluding
     compensation from which taxes are not required to be withheld under section
     124.04(C) of the Codified Ordinances;
 
@@ -3374,7 +3374,7 @@ proportion as the average ratio of the following:
 2. _(B)_
 
     1. _(1)_ If the apportionment factors described in division (A) of this
-    section do not fairly represent the extent of a taxpayer’s business activity
+    section do not fairly represent the extent of a taxpayer's business activity
     in the Municipality, the taxpayer may request, or the Tax Commissioner may
     require, that the taxpayer use, with respect to all or any portion of the
     income of the taxpayer, an alternative apportionment method involving one or
@@ -3422,16 +3422,16 @@ employee for services performed at any of the following locations:
     inquiry, review, court-martial, or similar administrative, judicial, or
     legislative matter or proceeding is being conducted, provided that the
     compensation is paid for services performed for, or on behalf of, the
-    employer or that the employee’s presence at the location directly or
+    employer or that the employee's presence at the location directly or
     indirectly benefits the employer;
 
     3. _(3)_ Any other location, if the Tax Commissioner determines that the
     employer directed the employee to perform the services at the other location
     in lieu of a location described in division (C)(1) or (2) of this section
-    solely in order to avoid or reduce the employer’s municipal income tax
+    solely in order to avoid or reduce the employer's municipal income tax
     liability. If the Tax Commissioner makes such a determination, the employer
     may dispute the determination by establishing, by a preponderance of the
-    evidence, that the Tax Commissioner’s determination was unreasonable.
+    evidence, that the Tax Commissioner's determination was unreasonable.
 
 4. _(D)_ For the purposes of division (A)(3) of this section, receipts from
 sales and rentals made and services performed shall be sitused to the
@@ -3474,26 +3474,26 @@ commissions the agent or broker received from the sale, purchase, or lease of
 real estate located in the Municipality to the commissions received from the
 sale, purchase, or lease of real estate everywhere in the taxable year.
 
-6. _(F)_ If, in computing a taxpayer’s adjusted federal taxable income, the
+6. _(F)_ If, in computing a taxpayer's adjusted federal taxable income, the
 taxpayer deducted any amount with respect to a stock option granted to an
-employee, and if the employee is not required to include in the employee’s
+employee, and if the employee is not required to include in the employee's
 income any such amount or a portion thereof because it is exempted from taxation
 under divisions (C)(12) and (R)(1)(d) of section 124.02 of the Codified
 Ordinances by the Municipality or substantially similar provision of the
 codified ordinances of another municipal corporation, the taxpayer shall add the
-amount that is exempt from taxation to the taxpayer’s net profit that was
+amount that is exempt from taxation to the taxpayer's net profit that was
 apportioned to the Municipality. In no case shall a taxpayer be required to add
 to its net profit that was apportioned to the Municipality any amount other than
 the amount upon which the employee would be required to pay tax were the amount
 related to the stock option not exempted from taxation.
 
     This division applies solely for the purpose of making an adjustment to the
-    amount of a taxpayer’s net profit that was apportioned to the Municipality
+    amount of a taxpayer's net profit that was apportioned to the Municipality
     under this section.
 
 7. _(G)_ When calculating the ratios described in division (A) of this section
 for the purposes of that division or division (B) of this section, the owner of
-a disregarded entity shall include in the owner’s ratios the property, payroll,
+a disregarded entity shall include in the owner's ratios the property, payroll,
 and gross receipts of such disregarded entity.  
 (Ord. 2018-22. Passed 3-26-18.)
 
@@ -3514,10 +3514,10 @@ taxpayer that filed tax returns with the Tax Commissioner under sections 124.27
 to 124.41 of the Codified Ordinances and that had municipal taxable income
 apportionable to the Municipality under this chapter for any prior year:
 
-    1. _(1)_ The taxpayer’s name, address, and federal employer identification
+    1. _(1)_ The taxpayer's name, address, and federal employer identification
     number;
 
-    2. _(2)_ The taxpayer’s apportionment ratio for, and amount of municipal
+    2. _(2)_ The taxpayer's apportionment ratio for, and amount of municipal
     taxable income apportionable to, the Municipality pursuant to section 124.29
     of the Codified Ordinances;
 
@@ -3534,7 +3534,7 @@ apportionable to the Municipality under this chapter for any prior year:
 corporations under section 718.83 of the Revised Code, the Tax Commissioner
 shall provide to the Municipality a report stating the name and federal
 identification number of every taxpayer that made estimated payments that are
-attributable to the Municipality and the amount of each such taxpayer’s
+attributable to the Municipality and the amount of each such taxpayer's
 estimated payment.
 
 4. _(D)_ The information described under divisions (B) and (C) of this section
@@ -3570,7 +3570,7 @@ Municipality Tax Administrator under section 718.83(D) of the Revised Code.
     the amount paid for the taxable year under section 124.35 of the Codified
     Ordinances, shall be submitted to the Tax Commissioner, on a form and in the
     manner prescribed by the Tax Commissioner, on or before the fifteenth day of
-    the fourth month following the end of the taxpayer’s taxable year.
+    the fourth month following the end of the taxpayer's taxable year.
 
     2. _(2)_ If a taxpayer has multiple taxable years ending within one calendar
     year, the taxpayer shall aggregate the facts and figures necessary to
@@ -3585,9 +3585,9 @@ Municipality Tax Administrator under section 718.83(D) of the Revised Code.
 2. _(B)_
 
     1. _(1)_ Each return required to be filed under this section shall contain
-    the signature of the taxpayer or the taxpayer’s duly authorized agent and of
+    the signature of the taxpayer or the taxpayer's duly authorized agent and of
     the person who prepared the return for the taxpayer, and shall include the
-    taxpayer’s identification number. Each return shall be verified by a
+    taxpayer's identification number. Each return shall be verified by a
     declaration under penalty of perjury.
 
     2. _(2)_
@@ -3608,7 +3608,7 @@ Municipality Tax Administrator under section 718.83(D) of the Revised Code.
 
     3. _(3)_ After a taxpayer files a tax return, the Tax Commissioner may
     request, and the taxpayer shall provide, any information, statements, or
-    documents required to determine and verify the taxpayer’s municipal income
+    documents required to determine and verify the taxpayer's municipal income
     tax.
 
 4. _(D)_
@@ -3616,19 +3616,19 @@ Municipality Tax Administrator under section 718.83(D) of the Revised Code.
     1. _(1)_
     
         1. _(a)_ Any taxpayer that has duly requested an automatic extension for
-        filing the taxpayer’s federal income tax return shall automatically
+        filing the taxpayer's federal income tax return shall automatically
         receive an extension for the filing of a tax return with the Tax
         Commissioner under this section. The extended due date of the return
         shall be the fifteenth day of the tenth month after the last day of the
         taxable year to which the return relates.
 
         2. _(b)_ A taxpayer that has not requested or received a six- month
-        extension for filing the taxpayer’s federal income tax return may
+        extension for filing the taxpayer's federal income tax return may
         request that the Tax Commissioner grant the taxpayer a six-month
-        extension of the date for filing the taxpayer’s municipal income tax
+        extension of the date for filing the taxpayer's municipal income tax
         return. If the Tax Commissioner receives the request on or before the
         date the municipal income tax return is due, the Tax Commissioner shall
-        grant the taxpayer’s extension request.
+        grant the taxpayer's extension request.
 
         3. _(c)_ An extension of time to file under division (D)(1) of this
         section is not an extension of the time to pay any tax due unless the
@@ -3650,7 +3650,7 @@ concerning questions that arise during the examination or other review of the
 return and authorizes the preparer or other person only to provide the Tax
 Commissioner with information that is missing from the return, to contact the
 Tax Commissioner for information about the examination or other review of the
-return or the status of the taxpayer’s refund or payments, and to respond to
+return or the status of the taxpayer's refund or payments, and to respond to
 notices about mathematical errors, offsets, or return preparation that the
 taxpayer has received from the Tax Commissioner and has shown to the preparer or
 other person.
@@ -3752,7 +3752,7 @@ returns or make the payments by nonelectronic means.
 filed a consolidated federal income tax return for a taxable year shall file a
 consolidated tax return for that taxable year if the Tax Commissioner
 determines, by a preponderance of the evidence, that intercompany transactions
-have not been conducted at arm’s length and that there has been a distortive
+have not been conducted at arm's length and that there has been a distortive
 shifting of income or expenses with regard to allocation of net profits to a
 municipal corporation. A taxpayer that is required to file a consolidated tax
 return for a taxable year shall file a consolidated tax return for all
@@ -3773,8 +3773,8 @@ which the taxpayer is a member.
     adjusted federal taxable income, as defined in section 124.28 of the
     Codified Ordinances, by substituting "consolidated federal taxable income"
     for "federal taxable income" wherever "federal taxable income" appears in
-    that division and by substituting "an affiliated group of corporation’s" for
-    "a C corporation’s" wherever "a C corporation’s" appears in that division.
+    that division and by substituting "an affiliated group of corporation's" for
+    "a C corporation's" wherever "a C corporation's" appears in that division.
 
     2. _(2)_ No corporation filing a consolidated tax return shall make any
     adjustment otherwise required under division (B) of section 124.28 of the
@@ -3785,50 +3785,50 @@ which the taxpayer is a member.
     3. _(3)_ If the net profit or loss of a pass-through entity having at least
     eighty per cent of the value of its ownership interest owned or controlled,
     directly or indirectly, by an affiliated group of corporations is included
-    in that affiliated group’s consolidated federal taxable income for a taxable
+    in that affiliated group's consolidated federal taxable income for a taxable
     year, the corporation filing a consolidated tax return shall do one of the
-    following with respect to that pass-through entity’s net profit or loss for
+    following with respect to that pass-through entity's net profit or loss for
     that taxable year:
 
-        1. _(a)_ Exclude the pass-through entity’s net profit or loss from the
+        1. _(a)_ Exclude the pass-through entity's net profit or loss from the
         consolidated federal taxable income of the affiliated group and, for the
         purpose of making the computations required in section 124.29 of the
         Codified Ordinances, exclude the property, payroll, and gross receipts
-        of the pass-through entity in the computation of the affiliated group’s
-        net profit sitused to a municipal corporation. If the entity’s net
+        of the pass-through entity in the computation of the affiliated group's
+        net profit sitused to a municipal corporation. If the entity's net
         profit or loss is so excluded, the entity shall be subject to taxation
-        as a separate taxpayer on the basis of the entity’s net profits that
+        as a separate taxpayer on the basis of the entity's net profits that
         would otherwise be included in the consolidated federal taxable income
         of the affiliated group.
 
-        2. _(b)_ Include the pass-through entity’s net profit or loss in the
+        2. _(b)_ Include the pass-through entity's net profit or loss in the
         consolidated federal taxable income of the affiliated group and, for the
         purpose of making the computations required in section 124.29 of the
         Codified Ordinances, include the property, payroll, and gross receipts
-        of the pass-through entity in the computation of the affiliated group’s
-        net profit sitused to a municipal corporation. If the entity’s net
+        of the pass-through entity in the computation of the affiliated group's
+        net profit sitused to a municipal corporation. If the entity's net
         profit or loss is so included, the entity shall not be subject to
-        taxation as a separate taxpayer on the basis of the entity’s net profits
+        taxation as a separate taxpayer on the basis of the entity's net profits
         that are included in the consolidated federal taxable income of the
         affiliated group.
 
     4. _(4)_ If the net profit or loss of a pass-through entity having less than
     eighty per cent of the value of its ownership interest owned or controlled,
     directly or indirectly, by an affiliated group of corporations is included
-    in that affiliated group’s consolidated federal taxable income for a taxable
+    in that affiliated group's consolidated federal taxable income for a taxable
     year, all of the following shall apply:
 
         1. _(a)_ The corporation filing the consolidated tax return shall
-        exclude the pass-through entity’s net profit or loss from the
+        exclude the pass-through entity's net profit or loss from the
         consolidated federal taxable income of the affiliated group and, for the
         purposes of making the computations required in section 124.29 of the
         Codified Ordinances, exclude the property, payroll, and gross receipts
-        of the pass-through entity in the computation of the affiliated group’s
+        of the pass-through entity in the computation of the affiliated group's
         net profit sitused to a municipal corporation;
 
         2. _(b)_ The pass-through entity shall be subject to municipal income
         taxation as a separate taxpayer in accordance with sections 124.27 to
-        124.41 of the Codified Ordinances on the basis of the entity’s net
+        124.41 of the Codified Ordinances on the basis of the entity's net
         profits that would otherwise be included in the consolidated federal
         taxable income of the affiliated group.
 
@@ -3863,12 +3863,12 @@ section 124.37 of the Codified Ordinances, whichever occurs first.
 
 1. _(A)_ As used in this section:
 
-    1. _(1)_ "Combined tax liability" means the total amount of a taxpayer’s
+    1. _(1)_ "Combined tax liability" means the total amount of a taxpayer's
     income tax liabilities to all municipal corporations in this state for a
     taxable year.
 
     2. _(2)_ "Estimated taxes" means the amount that the taxpayer reasonably
-    estimates to be the taxpayer’s combined tax liability for the current
+    estimates to be the taxpayer's combined tax liability for the current
     taxable year.
 
 2. _(B)_
@@ -3917,7 +3917,7 @@ payable to the treasurer of state.
         taxable year.
 
     2. _(2)_ If the taxpayer determines that its declaration of estimated taxes
-    will not accurately reflect the taxpayer’s tax liability for the taxable
+    will not accurately reflect the taxpayer's tax liability for the taxable
     year, the taxpayer shall increase or decrease, as appropriate, its
     subsequent payments in equal installments to result in a more accurate
     payment of estimated taxes.
@@ -4065,7 +4065,7 @@ corporations under section 718.83 of the Revised Code.
 prescribed, files an incorrect return, or fails to remit the full amount of the
 tax due for the period covered by the return, the Tax Commissioner may make an
 assessment against the taxpayer for any deficiency for the period for which the
-return or tax is due, based upon any information in the Tax Commissioner’s
+return or tax is due, based upon any information in the Tax Commissioner's
 possession.
 
     The Tax Commissioner shall not make or issue an assessment against a
@@ -4088,7 +4088,7 @@ sixty (60) days after service of the notice of assessment, either personally or
 by certified mail, a written petition for reassessment signed by the authorized
 agent of the taxpayer assessed having knowledge of the facts, the assessment
 becomes final, and the amount of the assessment is due and payable from the
-taxpayer to the treasurer of state. The petition shall indicate the taxpayer’s
+taxpayer to the treasurer of state. The petition shall indicate the taxpayer's
 objections, but additional objections may be raised in writing if received by
 the Tax Commissioner prior to the date shown on the final determination. If the
 petition has been properly filed, the Tax Commissioner shall proceed under
@@ -4096,9 +4096,9 @@ section 5703.60 of the Revised Code.
 
 3. _(C)_ After an assessment becomes final, if any portion of the assessment
 remains unpaid, including accrued interest, a certified copy of the Tax
-Commissioner’s entry making the assessment final may be filed in the office of
+Commissioner's entry making the assessment final may be filed in the office of
 the clerk of the court of common pleas in the county in which the taxpayer has
-an office or place of business in this state, the county in which the taxpayer’s
+an office or place of business in this state, the county in which the taxpayer's
 statutory agent is located, or Franklin County.  
 
     Immediately upon the filing of the entry, the clerk shall enter a judgment
@@ -4133,14 +4133,14 @@ against the taxpayer liable for the tax. Immediately upon the issuance of the
 jeopardy assessment, the Tax Commissioner shall file an entry with the clerk of
 the court of common pleas in the manner prescribed by division (C) of this
 section. Notice of the jeopardy assessment shall be served on the taxpayer
-assessed or the taxpayer’s legal representative in the manner provided in
+assessed or the taxpayer's legal representative in the manner provided in
 section 5703.37 of the Revised Code within five days of the filing of the entry
 with the clerk. The total amount assessed is immediately due and payable, unless
 the taxpayer assessed files a petition for reassessment in accordance with
 division (B) of this section and provides security in a form satisfactory to the
 Tax Commissioner and in an amount sufficient to satisfy the unpaid balance of
 the assessment. Full or partial payment of the assessment does not prejudice the
-Tax Commissioner’s consideration of the petition for reassessment.
+Tax Commissioner's consideration of the petition for reassessment.
 
 6. _(F)_ Notwithstanding the fact that a petition for reassessment is pending,
 the taxpayer may pay all or a portion of the assessment that is the subject of
@@ -4182,7 +4182,7 @@ be filed in the form prescribed by the Tax Commissioner.
     2. _(2)_ Upon issuance of a refund under this section, the Tax Commissioner
     shall notify each municipal corporation of the amount refunded to the
     taxpayer attributable to that municipal corporation, which shall be deducted
-    from the municipal corporation’s next distribution under section 718.83 of
+    from the municipal corporation's next distribution under section 718.83 of
     the Revised Code.
 
 3. _(C)_ Any portion of a refund determined under division (B) of this section
@@ -4200,9 +4200,9 @@ until the day the refund is paid or credited.
 an annual return filed by a taxpayer that has made the election allowed under
 section 124.27 of the Codified Ordinances and used to determine the tax due
 under sections 124.27 to 124.41 of the Codified Ordinances must be altered as
-the result of an adjustment to the taxpayer’s federal income tax return, whether
+the result of an adjustment to the taxpayer's federal income tax return, whether
 initiated by the taxpayer or the internal revenue service, and such alteration
-affects the taxpayer’s tax liability under those sections, the taxpayer shall
+affects the taxpayer's tax liability under those sections, the taxpayer shall
 file an amended return with the Tax Commissioner in such form as the Tax
 Commissioner requires. The amended return shall be filed not later than sixty
 days after the adjustment is agreed upon or finally determined for federal
@@ -4210,7 +4210,7 @@ income tax purposes or after any federal income tax deficiency or refund, or the
 abatement or credit resulting therefrom, has been assessed or paid, whichever
 occurs first. If a taxpayer intends to file an amended consolidated municipal
 income tax return, or to amend its type of return from a separate return to a
-consolidated return, based on the taxpayer’s consolidated federal income tax
+consolidated return, based on the taxpayer's consolidated federal income tax
 return, the taxpayer shall notify the Tax Commissioner before filing the amended
 return.
 
@@ -4222,7 +4222,7 @@ assessing any additional tax due under this section, together with any
 applicable penalty and interest. The amended return shall not reopen those
 facts, figures, computations, or attachments from a previously filed return no
 longer subject to assessment that are not affected, either directly or
-indirectly, by the adjustment to the taxpayer’s federal tax return.
+indirectly, by the adjustment to the taxpayer's federal tax return.
 
 3. _(C)_ In the case of an overpayment, an application for refund may be filed
 under this division within the sixty-day period prescribed for filing the
@@ -4230,12 +4230,12 @@ amended return, even if that period extends beyond the period prescribed in
 section 124.38 of the Codified Ordinances, if the application otherwise conforms
 to the requirements of that section. An application filed under this division
 shall claim refund of overpayments resulting from alterations to only those
-facts, figures, computations, or attachments required in the taxpayer’s annual
+facts, figures, computations, or attachments required in the taxpayer's annual
 return that are affected, either directly or indirectly, by the adjustment to
-the taxpayer’s federal income tax return unless it is also filed within the time
+the taxpayer's federal income tax return unless it is also filed within the time
 prescribed in section 124.38 of the Codified Ordinances. The application shall
 not reopen those facts, figures, computations, or attachments that are not
-affected, either directly or indirectly, by the adjustment to the taxpayer’s
+affected, either directly or indirectly, by the adjustment to the taxpayer's
 federal income tax return.  
 (Ord. 2018-22. Passed 3-26-18.)
 
@@ -4255,7 +4255,7 @@ designated in the request.
 
 2. _(B)_ The records and other documents of any taxpayer or other person that is
 subject to sections 124.27 to 124.41 of the Codified Ordinances shall be open to
-the Tax Commissioner’s inspection during business hours and shall be preserved
+the Tax Commissioner's inspection during business hours and shall be preserved
 for a period of six years following the end of the taxable year to which the
 records or documents relate, unless the Tax Commissioner, in writing, consents
 to their destruction within that period, or by order requires that they be kept
@@ -4269,7 +4269,7 @@ Commissioner reasonably believes has knowledge concerning any income that was or
 would have been returned for taxation or any transaction tending to affect such
 income. The Tax Commissioner may, for this purpose, compel any such person to
 attend a hearing or examination and to produce any books, papers, records, and
-federal income tax returns in such person’s possession or control. The person
+federal income tax returns in such person's possession or control. The person
 may be assisted or represented by an attorney, accountant, bookkeeper, or other
 tax practitioner at any such hearing or examination. This division does not
 authorize the practice of law by a person who is not an attorney.

@@ -164,7 +164,7 @@ another, and for a specified purpose, of any designated part of his property.
 engineering by the State Board of Registration as specified in Ohio R.C.
 4733.14.
 
-19. _(19)_ "Final plat" means the drawing on which the applicant’s plan of
+19. _(19)_ "Final plat" means the drawing on which the applicant's plan of
 subdivision is presented to the Planning and Zoning Commission for approval.
 
 20. _(20)_ "Halfstreet" means a street where one side is improved and developed
@@ -219,7 +219,7 @@ subdivider with the County for the amount of the estimated construction cost
 guaranteeing the completion of physical improvements required by these
 Regulations.
 
-33. _(33)_ "Plat" means the map, drawing or chart on which the developer’s plan
+33. _(33)_ "Plat" means the map, drawing or chart on which the developer's plan
 of subdivision (preliminary) is presented to the Planning and Zoning Commission
 for approval and, after such approval, to the County Recorder (final) for
 recording.
@@ -477,13 +477,13 @@ stamped by the Village Administrator and dated.
 
 8. _(h)_ **Notification of Abutting Property Owners.**
 
-    1. _(1)_ Ten days prior to the Planning and Zoning Commission’s initial
+    1. _(1)_ Ten days prior to the Planning and Zoning Commission's initial
     review of the preliminary plat, the Administrator shall notify by first
     class mail all persons who own land which at any point abuts any land within
     the proposed subdivision. The notice shall advise the landowners that a plat
     has been submitted to the Village for development of land which abuts
     theirs, that details of the proposal and its status may be obtained from the
-    Village Administrator’s office and that the landowner may submit comments to
+    Village Administrator's office and that the landowner may submit comments to
     the Planning and Zoning Commission concerning the proposal.
 
     2. _(2)_ A notice not received by an abutting property owner shall not
@@ -852,7 +852,7 @@ the improvements herein.
 3. _(c)_ **Improvements.** The improvements required shall be designed by an
 Ohio registered professional engineer and constructed by the subdivider in
 accordance with the standards outlined in these Regulations. The work shall be
-done under the Village Administrator’s and Engineer’s supervision and inspection
+done under the Village Administrator's and Engineer's supervision and inspection
 and shall be completed within the time fixed or agreed upon by the Village
 Engineer and Administrator. The minimum requirements for materials shall be in
 accordance with the standards of the current volume of "Construction and
@@ -1053,9 +1053,9 @@ trees in subdivisions:
 
     3. _(3)_ All trees shall be properly guyed, wrapped and mulched.
 
-    4. _(4)_ A certification of the date of the tree’s planting shall be
+    4. _(4)_ A certification of the date of the tree's planting shall be
     provided to the Shade Tree Commission. If a tree dies within two years of
-    the planting date, it shall be replaced at the developer’s expanse.
+    the planting date, it shall be replaced at the developer's expanse.
 
     5. _(5)_ All trees in subdivisions shall be referred to Chapter 544 of the
     General Offenses Code.
@@ -1163,7 +1163,7 @@ culverts are required, the following minimum requirements shall be observed:
 telephone and cable service shall be provided to all lots within each
 subdivision. All wires, conduits and cables associated with such service shall
 be placed underground. All utilities shall be inspected by the Village Engineer
-at the developer’s expense.
+at the developer's expense.
 
 28. _(bb)_ **Extension to Boundaries.** All improvements and utilities are to be
 extended to the boundaries of a subdivision so that a harmonious connection can
@@ -1171,7 +1171,7 @@ be made with developments existing or proposed.
 
 29. _(cc)_ **Inspection of Improvements During Construction.** All improvements
 required herein shall be constructed under the supervision of the Village
-Engineer. It shall be the applicant’s responsibility to contact the Engineer at
+Engineer. It shall be the applicant's responsibility to contact the Engineer at
 least forty-eight hours before any construction requiring inspection is to take
 place. All inspection costs shall be borne by the subdivider. The developer
 shall post a cash bond equal to two percent (2%) of the construction cost for
@@ -1188,7 +1188,7 @@ inspections shall include an internal pipe inspection of sanitary and storm
 sewers, two photography, television and hydrostatic tests, the first immediately
 following installation and the second internal pipe inspection at the discretion
 of the Village Engineer. With respect to sewer improvements, these inspections
-shall be completed at the developer’s expense.  
+shall be completed at the developer's expense.  
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.07   Revisions; enforcement
@@ -1321,13 +1321,13 @@ provide:
     initial maintenance of all improvements in lieu of actual installation. The
     terms of the guarantee shall be set by Council. The Village Administrator
     and Village Engineer shall approve the payment as set by the Village
-    Engineer. (Section 1161.06) File with the Village Clerk’s office.
+    Engineer. (Section 1161.06) File with the Village Clerk's office.
 
     3. _(3)_ **Insurance.** As deemed necessary by the Law Director; which has a
     minimum equal coverage to the insurance the Municipality carries. It shall
     be of the duration, amount and form as determined by the Law Director, but
     shall not expire earlier than the effective period of any maintenance bond.
-    A copy shall be filed and remain at the Village Clerk’s office.
+    A copy shall be filed and remain at the Village Clerk's office.
 
     4. _(4)_ **Inspection of improvements during construction.** The subdivider
     shall contact the Village Engineer at least forty-eight hours before any
@@ -1360,7 +1360,7 @@ provide:
         date of its required initial consideration.
 
         2. _(B)_ If disapproved, the reasons shall be forwarded to the
-        subdivider and stated in the Commission’s record. The subdivider shall
+        subdivider and stated in the Commission's record. The subdivider shall
         make the necessary corrections and resubmit the final plat within thirty
         days to the Commission for its final approval.
 
@@ -1371,8 +1371,8 @@ provide:
 5. _(e)_ Recording of Plat: After approval by the Commission and Council,
 signed, stamped and dated and all necessary certifications received, the
 original tracing shall be returned to the subdivider for filing with the County
-Recorder’s office. The original tracing is then permanently filed with the
-Village Clerk’s office.
+Recorder's office. The original tracing is then permanently filed with the
+Village Clerk's office.
 
 6. _(f)_ Sale of land within the subdivision is prohibited until the final
 subdivision plat has been approved by the Commission and recorded with the

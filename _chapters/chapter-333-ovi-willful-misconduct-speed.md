@@ -41,138 +41,138 @@ title: "Chapter 333: OVI; Willful Misconduct; Speed"
 
         2. _(B)_ The person has a concentration of eight-hundredths of one per
         cent or more but less than seventeen-hundredths of one per cent by
-        weight per unit volume of alcohol in the person’s whole blood.
+        weight per unit volume of alcohol in the person's whole blood.
 
         3. _(C)_ The person has a concentration of ninety-six-thousandths of one
         per cent or more but less than two hundred four-thousandths of one per
-        cent by weight per unit volume of alcohol in the person’s blood serum or
+        cent by weight per unit volume of alcohol in the person's blood serum or
         plasma.
 
         4. _(D)_ The person has a concentration of eight-hundredths of one gram
         or more but less than seventeen-hundredths of one gram by weight of
-        alcohol per two hundred ten liters of the person’s breath.
+        alcohol per two hundred ten liters of the person's breath.
 
         5. _(E)_ The person has a concentration of eleven-hundredths of one gram
         or more but less than two hundred thirty-eight-thousandths of one gram
-        by weight of alcohol per one hundred milliliters of the person’s urine.
+        by weight of alcohol per one hundred milliliters of the person's urine.
 
         6. _(F)_ The person has a concentration of seventeen-hundredths of one
-        per cent or more by weight per unit volume of alcohol in the person’s
+        per cent or more by weight per unit volume of alcohol in the person's
         whole blood.
 
         7. _(G)_ The person has a concentration of two hundred four-thousandths
         of one per cent or more by weight per unit volume of alcohol in the
-        person’s blood serum or plasma.
+        person's blood serum or plasma.
 
         8. _(H)_ The person has a concentration of seventeen-hundredths of one
         gram or more by weight of alcohol per two hundred ten liters of the
-        person’s breath.
+        person's breath.
 
         9. _(I)_ The person has a concentration of two hundred thirty-eight-
         thousandths of one gram or more by weight of alcohol per one hundred
-        milliliters of the person’s urine.
+        milliliters of the person's urine.
 
         10. _(J)_ Except as provided in subsection (m) of this section, the
         person has a concentration of any of the following controlled substances
-        or metabolites of a controlled substance in the person’s whole blood,
+        or metabolites of a controlled substance in the person's whole blood,
         blood serum or plasma, or urine that equals or exceeds any of the
         following:
 
             1. _(1)_ The person has a concentration of amphetamine in the
-            person’s urine of at least five hundred nanograms of amphetamine per
-            milliliter of the person’s urine or has a concentration of
-            amphetamine in the person’s whole blood or blood serum or plasma of
+            person's urine of at least five hundred nanograms of amphetamine per
+            milliliter of the person's urine or has a concentration of
+            amphetamine in the person's whole blood or blood serum or plasma of
             at least one hundred nanograms of amphetamine per milliliter of the
-            person’s whole blood or blood serum or plasma.
+            person's whole blood or blood serum or plasma.
 
-            2. _(2)_ The person has a concentration of cocaine in the person’s
+            2. _(2)_ The person has a concentration of cocaine in the person's
             urine of at least one hundred fifty nanograms of cocaine per
-            milliliter of the person’s urine or has a concentration of cocaine
-            in the person’s whole blood or blood serum or plasma of at least
-            fifty nanograms of cocaine per milliliter of the person’s whole
+            milliliter of the person's urine or has a concentration of cocaine
+            in the person's whole blood or blood serum or plasma of at least
+            fifty nanograms of cocaine per milliliter of the person's whole
             blood or blood serum or plasma.
 
             3. _(3)_ The person has a concentration of cocaine metabolite in the
-            person’s urine of at least one hundred fifty nanograms of cocaine
-            metabolite per milliliter of the person’s urine or has a
-            concentration of cocaine metabolite in the person’s whole blood or
+            person's urine of at least one hundred fifty nanograms of cocaine
+            metabolite per milliliter of the person's urine or has a
+            concentration of cocaine metabolite in the person's whole blood or
             blood serum or plasma of at least fifty nanograms of cocaine
-            metabolite per milliliter of the person’s whole blood or blood serum
+            metabolite per milliliter of the person's whole blood or blood serum
             or plasma.
 
-            4. _(4)_ The person has a concentration of heroin in the person’s
+            4. _(4)_ The person has a concentration of heroin in the person's
             urine of at least two thousand nanograms of heroin per milliliter of
-            the person’s urine or has a concentration of heroin in the person’s
+            the person's urine or has a concentration of heroin in the person's
             whole blood or blood serum or plasma of at least fifty nanograms of
-            heroin per milliliter of the person’s whole blood or blood serum or
+            heroin per milliliter of the person's whole blood or blood serum or
             plasma.
 
             5. _(5)_ The person has a concentration of heroin metabolite (6-
-            monoacetyl morphine) in the person’s urine of at least ten nanograms
+            monoacetyl morphine) in the person's urine of at least ten nanograms
             of heroin metabolite (6-monoacetyl morphine) per milliliter of the
-            person’s urine or has a concentration of heroin metabolite
-            (6-monoacetyl morphine) in the person’s whole blood or blood serum
+            person's urine or has a concentration of heroin metabolite
+            (6-monoacetyl morphine) in the person's whole blood or blood serum
             or plasma of at least ten nanograms of heroin metabolite
-            (6-monoacetyl morphine) per milliliter of the person’s whole blood
+            (6-monoacetyl morphine) per milliliter of the person's whole blood
             or blood serum or plasma.
 
-            6. _(6)_ The person has a concentration of L.S.D. in the person’s
+            6. _(6)_ The person has a concentration of L.S.D. in the person's
             urine of at least twenty-five nanograms of L.S.D. per milliliter of
-            the person’s urine or a concentration of L.S.D. in the person’s
+            the person's urine or a concentration of L.S.D. in the person's
             whole blood or blood serum or plasma of at least ten nanograms of
-            L.S.D. per milliliter of the person’s whole blood or blood serum or
+            L.S.D. per milliliter of the person's whole blood or blood serum or
             plasma.
 
-            7. _(7)_ The person has a concentration of marihuana in the person’s
+            7. _(7)_ The person has a concentration of marihuana in the person's
             urine of at least ten nanograms of marihuana per milliliter of the
-            person’s urine or has a concentration of marihuana in the person’s
+            person's urine or has a concentration of marihuana in the person's
             whole blood or blood serum or plasma of at least two nanograms of
-            marihuana per milliliter of the person’s whole blood or blood serum
+            marihuana per milliliter of the person's whole blood or blood serum
             or plasma.
 
             8. _(8)_ Either of the following applies:
 
                 1. _(a)_ The person is under the influence of alcohol, a drug of
                 abuse or a combination of them, and the person has a
-                concentration of marihuana metabolite in the person’s urine of
+                concentration of marihuana metabolite in the person's urine of
                 at least fifteen nanograms of marihuana metabolite per
-                milliliter of the person’s urine or has a concentration of
-                marihuana metabolite in the person’s whole blood or blood serum
+                milliliter of the person's urine or has a concentration of
+                marihuana metabolite in the person's whole blood or blood serum
                 or plasma of at least five nanograms of marihuana metabolite per
-                milliliter of the person’s whole blood or blood serum or plasma.
+                milliliter of the person's whole blood or blood serum or plasma.
 
                 2. _(b)_ The person has a concentration of marihuana metabolite
-                in the person’s urine of at least thirty-five nanograms of
-                marihuana metabolite per milliliter of the person’s urine or has
-                a concentration of marihuana metabolite in the person’s whole
+                in the person's urine of at least thirty-five nanograms of
+                marihuana metabolite per milliliter of the person's urine or has
+                a concentration of marihuana metabolite in the person's whole
                 blood or blood serum or plasma of at least fifty nanograms of
-                marihuana metabolite per milliliter of the person’s whole blood
+                marihuana metabolite per milliliter of the person's whole blood
                 or blood serum or plasma.
 
             9. _(9)_ The person has a concentration of methamphetamine in the
-            person’s urine of at least five hundred nanograms of methamphetamine
-            per milliliter of the person’s urine or has a concentration of
-            methamphetamine in the person’s whole blood or blood serum or plasma
+            person's urine of at least five hundred nanograms of methamphetamine
+            per milliliter of the person's urine or has a concentration of
+            methamphetamine in the person's whole blood or blood serum or plasma
             of at least one hundred nanograms of methamphetamine per milliliter
-            of the person’s whole blood or blood serum or plasma.
+            of the person's whole blood or blood serum or plasma.
 
             10. _(10)_ The person has a concentration of phencyclidine in the
-            person’s urine of at least twenty-five nanograms of phencyclidine
-            per milliliter of the person’s urine or has a concentration of
-            phencyclidine in the person’s whole blood or blood serum or plasma
+            person's urine of at least twenty-five nanograms of phencyclidine
+            per milliliter of the person's urine or has a concentration of
+            phencyclidine in the person's whole blood or blood serum or plasma
             of at least ten nanograms of phencyclidine per milliliter of the
-            person’s whole blood or blood serum or plasma.
+            person's whole blood or blood serum or plasma.
 
             11. _(11)_ The State Board of Pharmacy has adopted a rule pursuant
             to Ohio R.C. 4729.041 that specifies the amount of salvia divinorum
             and the amount of salvinorin A that constitute concentrations of
-            salvia divinorum and salvinorin A in a person’s urine, in a person’s
-            whole blood, or in a person’s blood serum or plasma at or above
+            salvia divinorum and salvinorin A in a person's urine, in a person's
+            whole blood, or in a person's blood serum or plasma at or above
             which the person is impaired for purposes of operating any vehicle
             within this Municipality, the rule is in effect, and the person has
             a concentration of salvia divinorum or salvinorin A of at least that
-            amount so specified by rule in the person’s urine, in the person’s
-            whole blood, or in the person’s blood serum or plasma.
+            amount so specified by rule in the person's urine, in the person's
+            whole blood, or in the person's blood serum or plasma.
 
     2. _(2)_ No person who, within twenty years of the conduct described in
     subsection (a)(2)A. of this section, previously has been convicted of or
@@ -186,7 +186,7 @@ title: "Chapter 333: OVI; Willful Misconduct; Speed"
         described in subsection (a)(2)A. of this section, being asked by a law
         enforcement officer to submit to a chemical test or tests under Ohio
         R.C. 4511.191, and being advised by the officer in accordance with Ohio
-        R.C. 4511.192 of the consequences of the person’s refusal or submission
+        R.C. 4511.192 of the consequences of the person's refusal or submission
         to the test or tests, refuse to submit to the test or tests.
 
 2. _(b)_ **Operation After Under-Age Consumption.** No person under twenty-one
@@ -195,19 +195,19 @@ of the operation, any of the following apply:
 
     1. _(1)_ The person has a concentration of at least two-hundredths of one
     per cent but less than eight-hundredths of one per cent by weight per unit
-    volume of alcohol in the person’s whole blood.
+    volume of alcohol in the person's whole blood.
 
     2. _(2)_ The person has a concentration of at least three-hundredths of one
     per cent but less than ninety-six-thousandths of one per cent by weight per
-    unit volume of alcohol in the person’s blood serum or plasma.
+    unit volume of alcohol in the person's blood serum or plasma.
 
     3. _(3)_ The person has a concentration of at least two-hundredths of one
     gram but less than eight-hundredths of one gram by weight of alcohol per two
-    hundred ten liters of the person’s breath.
+    hundred ten liters of the person's breath.
 
     4. _(4)_ The person has a concentration of at least twenty-eight one-
     thousandths of one gram but less than eleven-hundredths of one gram by
-    weight of alcohol per one hundred milliliters of the person’s urine.
+    weight of alcohol per one hundred milliliters of the person's urine.
 
 3. _(c)_ **One Conviction Limitation.** In any proceeding arising out of one
 incident, a person may be charged with a violation of subsection (a)(1)A. or
@@ -217,9 +217,9 @@ person may not be convicted of more than one violation of these subsections.
 
 4. _(d)_ **Physical Control.**
 
-    1. _(1)_ As used in this subsection, “physical control” means being in the
-    driver’s position of the front seat of a vehicle and having possession of
-    the vehicle’s ignition key or other ignition device.
+    1. _(1)_ As used in this subsection, "physical control" means being in the
+    driver's position of the front seat of a vehicle and having possession of
+    the vehicle's ignition key or other ignition device.
 
     2. _(2)_
 
@@ -229,26 +229,26 @@ person may not be convicted of more than one violation of these subsections.
             1. _(1)_ The person is under the influence of alcohol, a drug of
             abuse, or a combination of them.
 
-            2. _(2)_ The person’s whole blood, blood serum or plasma, breath, or
+            2. _(2)_ The person's whole blood, blood serum or plasma, breath, or
             urine contains at least the concentration of alcohol specified in
             subsection (a)(1)B., C., D. or E. hereof.
 
             3. _(3)_ Except as provided in subsection (d)(3) of this section,
             the person has a concentration of a listed controlled substance or a
-            listed metabolite of a controlled substance in the person’s whole
+            listed metabolite of a controlled substance in the person's whole
             blood, blood serum or plasma, or urine that equals or exceeds the
             concentration specified in subsection (a)(1)J. hereof.
 
         2. _(B)_ No person under twenty-one years of age shall be in physical
         control of a vehicle while under the influence of alcohol, a drug of
-        abuse, or a combination of them or while the person’s whole blood, blood
+        abuse, or a combination of them or while the person's whole blood, blood
         serum or plasma, breath, or urine contains at least the concentration of
         alcohol specified in subsection (b)(1) to (4) hereof.
 
     3. _(3)_ Subsection (d)(2)A.3. of this section does not apply to a person
     who is in physical control of a vehicle while the person has a concentration
     of a listed controlled substance or a listed metabolite of a controlled
-    substance in the person’s whole blood, blood serum or plasma, or urine that
+    substance in the person's whole blood, blood serum or plasma, or urine that
     equals or exceeds the amount specified in subsection (a)(1)J. hereof, if
     both of the following apply:
 
@@ -257,7 +257,7 @@ person may not be convicted of more than one violation of these subsections.
         prescribe drugs.
 
         2. _(B)_ The person injected, ingested, or inhaled the controlled
-        substance in accordance with the health professional’s directions.
+        substance in accordance with the health professional's directions.
 
 5. _(e)_ Evidence; Tests.
 
@@ -276,7 +276,7 @@ person may not be convicted of more than one violation of these subsections.
         offense that is vehicle related, the court may admit evidence on the
         concentration of alcohol, drugs of abuse, controlled substances,
         metabolites of a controlled substance, or a combination of them in the
-        defendant’s whole blood, blood serum or plasma, breath, urine or other
+        defendant's whole blood, blood serum or plasma, breath, urine or other
         bodily substance at the time of the alleged violation as shown by
         chemical analysis of the substance withdrawn within three hours of the
         time of the alleged violation. The three-hour time limit specified in
@@ -299,7 +299,7 @@ person may not be convicted of more than one violation of these subsections.
             blood serum, or blood plasma. This limitation does not apply to the
             taking of breath or urine specimens. A person authorized to withdraw
             blood under this subsection may refuse to withdraw blood under this
-            subsection, if in that person’s opinion, the physical welfare of the
+            subsection, if in that person's opinion, the physical welfare of the
             person would be endangered by the withdrawing of blood. The bodily
             substance withdrawn under subsection (e)(1)B. hereof shall be
             analyzed in accordance with methods approved by the Director of
@@ -324,20 +324,20 @@ person may not be convicted of more than one violation of these subsections.
     equivalent offense that is substantially equivalent to that subsection.
 
     3. _(3)_ Upon the request of the person who was tested, the results of the
-    chemical test shall be made available to the person or the person’s
+    chemical test shall be made available to the person or the person's
     attorney, immediately upon the completion of the chemical test analysis. If
     the chemical test was obtained pursuant to subsection (e)(1)B. hereof, the
     person tested may have a physician, a registered nurse, or a qualified
-    technician, chemist or phlebotomist of the person’s own choosing administer
-    a chemical test or tests, at the person’s expense, in addition to any
+    technician, chemist or phlebotomist of the person's own choosing administer
+    a chemical test or tests, at the person's expense, in addition to any
     administered at the request of a law enforcement officer. If the person was
     under arrest as described in division (A)(5) of Ohio R.C. 4511.191, the
     arresting officer shall advise the person at the time of the arrest that the
-    person may have an independent chemical test taken at the person’s own
+    person may have an independent chemical test taken at the person's own
     expense. If the person was under arrest other than described in division (A)
     (5) of Ohio R.C. 4511.191, the form to be read to the person to be tested,
     as required under Ohio R.C. 4511.192, shall state that the person may have
-    an independent test performed at the person’s expense. The failure or
+    an independent test performed at the person's expense. The failure or
     inability to obtain an additional chemical test by a person shall not
     preclude the admission of evidence relating to the chemical test or tests
     taken at the request of a law enforcement officer.
@@ -345,7 +345,7 @@ person may not be convicted of more than one violation of these subsections.
     4. _(4)_
 
         1. _(A)_ As used in subsections (e)(4)B. and C. of this section,
-        “national highway traffic safety administration” means the National
+        "national highway traffic safety administration" means the National
         Traffic Highway Safety Administration established as an administration
         of the United States Department of Transportation under 96 Stat. 2415
         (1983), 49 U.S.C.A. 105.
@@ -411,12 +411,12 @@ person may not be convicted of more than one violation of these subsections.
 
         3. _(C)_ A copy of a notarized statement by the laboratory director or a
         designee of the director that contains the name of each certified
-        analyst or test performer involved with the report, the analyst’s or
-        test performer’s employment relationship with the laboratory that issued
+        analyst or test performer involved with the report, the analyst's or
+        test performer's employment relationship with the laboratory that issued
         the report, and a notation that performing an analysis of the type
-        involved is part of the analyst’s or test performer’s regular duties;
+        involved is part of the analyst's or test performer's regular duties;
 
-        4. _(D)_ An outline of the analyst’s or test performer’s education,
+        4. _(D)_ An outline of the analyst's or test performer's education,
         training, and experience in performing the type of analysis involved and
         a certification that the laboratory satisfies appropriate quality
         control standards in general and, in this particular analysis, under
@@ -426,14 +426,14 @@ person may not be convicted of more than one violation of these subsections.
     of evidence, a report of the type described in subsection (f)(1) of this
     section is not admissible against the defendant to whom it pertains in any
     proceeding, other than a preliminary hearing or a grand jury proceeding,
-    unless the prosecutor has served a copy of the report on the defendant’s
+    unless the prosecutor has served a copy of the report on the defendant's
     attorney or, if the defendant has no attorney, on the defendant.
 
     3. _(3)_ A report of the type described in subsection (f)(1) of this section
     shall not be prima-facie evidence of the contents, identity, or amount of
     any substance if, within seven days after the defendant to whom the report
-    pertains or the defendant’s attorney receives a copy of the report, the
-    defendant or the defendant’s attorney demands the testimony of the person
+    pertains or the defendant's attorney receives a copy of the report, the
+    defendant or the defendant's attorney demands the testimony of the person
     who signed the report. The judge in the case may extend the seven-day time
     limit in the interest of justice.
 
@@ -488,26 +488,26 @@ wanton misconduct.
                 under this subsection if the court, in lieu of that suspended
                 term, places the offender under a community control sanction
                 pursuant to Ohio R.C. 2929.25 and requires the offender to
-                attend, for three consecutive days, a drivers’ intervention
+                attend, for three consecutive days, a drivers' intervention
                 program certified under Ohio R.C. 5119.38.
 
                 The court also may suspend the execution of any part of the
                 three-day jail term under this subsection if it places the
                 offender under a community control sanction pursuant to Ohio
                 R.C. 2929.25 for part of the three days, requires the offender
-                to attend for the suspended part of the term a drivers’
+                to attend for the suspended part of the term a drivers'
                 intervention program so certified, and sentences the offender to
                 a jail term equal to the remainder of the three consecutive days
                 that the offender does not spend attending the program. The
                 court may require the offender, as a condition of community
-                control and in addition to the required attendance at a drivers’
+                control and in addition to the required attendance at a drivers'
                 intervention program, to attend and satisfactorily complete any
                 treatment or education programs that comply with the minimum
                 standards adopted pursuant to Ohio R.C. Chapter 5119 by the
                 Director of Mental Health and Addiction Services that the
-                operators of the drivers’ intervention program determine that
+                operators of the drivers' intervention program determine that
                 the offender should attend and to report periodically to the
-                court on the offender’s progress in the programs. The court also
+                court on the offender's progress in the programs. The court also
                 may impose on the offender any other conditions of community
                 control that it considers necessary. If the court grants
                 unlimited driving privileges to a first-time offender under Ohio
@@ -522,14 +522,14 @@ wanton misconduct.
             subsection (a)(1)F., G., H. or I. or (a)(2) of this section, except
             as otherwise provided in this subsection, a mandatory jail term of
             at least three consecutive days and a requirement that the offender
-            attend, for three consecutive days, a drivers’ intervention program
+            attend, for three consecutive days, a drivers' intervention program
             that is certified pursuant to Ohio R.C. 5119.38. As used in this
             subsection, three consecutive days means seventy-two consecutive
             hours. If the court determines that the offender is not conducive to
-            treatment in a drivers’ intervention program, if the offender
-            refuses to attend a drivers’ intervention program, or if the jail at
+            treatment in a drivers' intervention program, if the offender
+            refuses to attend a drivers' intervention program, or if the jail at
             which the offender is to serve the jail term imposed can provide a
-            drivers’ intervention program, the court shall sentence the offender
+            drivers' intervention program, the court shall sentence the offender
             to a mandatory jail term of at least six consecutive days.
 
                 If the court grants unlimited driving privileges to a first-time
@@ -546,10 +546,10 @@ wanton misconduct.
                 satisfactorily complete any treatment or education programs that
                 comply with the minimum standards adopted pursuant to Ohio R.C.
                 Chapter 5119 by the Director of Mental Health and Addiction
-                Services, in addition to the required attendance at drivers’
-                intervention program, that the operators of the drivers’
+                Services, in addition to the required attendance at drivers'
+                intervention program, that the operators of the drivers'
                 intervention program determine that the offender should attend
-                and to report periodically to the court on the offender’s
+                and to report periodically to the court on the offender's
                 progress in the programs. The court also may impose any other
                 conditions of community control on the offender that it
                 considers necessary.
@@ -558,8 +558,8 @@ wanton misconduct.
             seventy- five dollars ($375.00) and not more than one thousand
             seventy-five dollars ($1,075).
 
-            4. _(4)_ In all cases, a suspension of the offender’s driver’s or
-            commercial driver’s license or permit or nonresident operating
+            4. _(4)_ In all cases, a suspension of the offender's driver's or
+            commercial driver's license or permit or nonresident operating
             privilege for a definite period of one to three years. The court may
             grant limited driving privileges relative to the suspension under
             Ohio R.C. 4510.021 and 4510.13. The court may grant unlimited
@@ -594,7 +594,7 @@ wanton misconduct.
                 subsection (k) of this section, and shall order the offender to
                 follow the treatment recommendations of the services provider.
                 The purpose of the assessment is to determine the degree of the
-                offender’s alcohol usage and to determine whether or not
+                offender's alcohol usage and to determine whether or not
                 treatment is warranted. Upon the request of the court, the
                 services provider shall submit the results of the assessment to
                 the court, including all treatment recommendations and clinical
@@ -621,7 +621,7 @@ wanton misconduct.
                 subsection (k) of this section, and shall order the offender to
                 follow the treatment recommendations of the services provider.
                 The purpose of the assessment is to determine the degree of the
-                offender’s alcohol usage and to determine whether or not
+                offender's alcohol usage and to determine whether or not
                 treatment is warranted. Upon the request of the court, the
                 services provider shall submit the results of the assessment to
                 the court, including all treatment recommendations and clinical
@@ -632,8 +632,8 @@ wanton misconduct.
             dollars ($525.00) and not more than one thousand six hundred
             twenty-five dollars ($1,625).
 
-            4. _(4)_ In all cases, a suspension of the offender’s driver’s
-            license, commercial driver’s license, temporary instruction permit,
+            4. _(4)_ In all cases, a suspension of the offender's driver's
+            license, commercial driver's license, temporary instruction permit,
             probationary license, or nonresident operating privilege for a
             definite period of one to seven years. The court may grant limited
             driving privileges relative to the suspension under Ohio R.C.
@@ -641,7 +641,7 @@ wanton misconduct.
             (ORC 4511.19)
 
             5. _(5)_ In all cases, if the vehicle is registered in the
-            offender’s name, immobilization of the vehicle involved in the
+            offender's name, immobilization of the vehicle involved in the
             offense for ninety days in accordance with Ohio R.C. 4503.233 and
             impoundment of the license plates of that vehicle for ninety days.  
             (ORC 4511.193)
@@ -686,8 +686,8 @@ wanton misconduct.
             ($850.00) and not more than two thousand seven hundred fifty dollars
             ($2,750).
 
-            4. _(4)_ In all cases, a suspension of the offender’s driver’s
-            license, commercial driver’s license, temporary instruction permit,
+            4. _(4)_ In all cases, a suspension of the offender's driver's
+            license, commercial driver's license, temporary instruction permit,
             probationary license, or nonresident operating privilege for a
             definite period of two to twelve years. The court may grant limited
             driving privileges relative to the suspension under Ohio R.C.
@@ -695,7 +695,7 @@ wanton misconduct.
             (ORC 4511.19)
 
             5. _(5)_ In all cases, if the vehicle is registered in the
-            offender’s name, criminal forfeiture of the vehicle involved in the
+            offender's name, criminal forfeiture of the vehicle involved in the
             offense in accordance with Ohio R.C. 4503.234. Subsection (h)(5) of
             this section applies regarding any vehicle that is subject to an
             order of criminal forfeiture under this subsection.  
@@ -706,7 +706,7 @@ wanton misconduct.
             by Ohio R.C. 5119.21, subject to subsection (k) of this section, and
             shall order the offender to follow the treatment recommendations of
             the services provider. The operator of the services provider shall
-            determine and assess the degree of the offender’s alcohol dependency
+            determine and assess the degree of the offender's alcohol dependency
             and shall make recommendations for treatment. Upon the request of
             the court, the services provider shall submit the results of the
             assessment to the court, including all treatment recommendations and
@@ -729,7 +729,7 @@ wanton misconduct.
 
     2. _(2)_ An offender who is convicted of or pleads guilty to a violation of
     subsection (a) of this section and who subsequently seeks reinstatement of
-    the driver’s or occupational driver’s license or permit or nonresident
+    the driver's or occupational driver's license or permit or nonresident
     operating privilege suspended under this section as a result of the
     conviction or guilty plea shall pay a reinstatement fee as provided in
     division (F)(2) of Ohio R.C. 4511.191.
@@ -793,7 +793,7 @@ wanton misconduct.
         consecutive days in jail do not have to be served prior to or
         consecutively to the period of house arrest.
 
-    4. _(4)_ If an offender’s driver’s or occupational driver’s license or
+    4. _(4)_ If an offender's driver's or occupational driver's license or
     permit or nonresident operating privilege is suspended under subsection (h)
     of this section and if Ohio R.C. 4510.13 permits the court to grant limited
     driving privileges, the court may grant the limited driving privileges in
@@ -820,7 +820,7 @@ wanton misconduct.
     addition to any other penalties provided by law, may order restitution
     pursuant to Ohio R.C. 2929.18 or 2929.28 in an amount not exceeding five
     thousand dollars ($5,000) for any economic loss arising from an accident or
-    collision that was the direct and proximate result of the offender’s
+    collision that was the direct and proximate result of the offender's
     operation of the vehicle before, during or after committing the offense for
     which the offender is sentenced under subsection (h) of this section.
 
@@ -831,16 +831,16 @@ wanton misconduct.
         1. _(A)_ The offender is convicted of or pleads guilty to a violation of
         subsection (a) of this section.
 
-        2. _(B)_ The test or tests were of the offender’s whole blood, blood
+        2. _(B)_ The test or tests were of the offender's whole blood, blood
         serum or plasma, or urine.
 
         3. _(C)_ The test or tests indicated that the offender had a prohibited
         concentration of a controlled substance or a metabolite of a controlled
-        substance in the offender’s whole blood, blood serum or plasma, or urine
+        substance in the offender's whole blood, blood serum or plasma, or urine
         at the time of the offense.
 
-    8. _(8)_ As used in subsection (h) of this section, “electronic monitoring”,
-    “mandatory prison term” and “mandatory term of local incarceration” have the
+    8. _(8)_ As used in subsection (h) of this section, "electronic monitoring",
+    "mandatory prison term" and "mandatory term of local incarceration" have the
     same meanings as in Ohio R.C. 2929.01.
 
 9. _(i)_ Vehicle Operation After Underage Alcohol Consumption Penalty. Whoever
@@ -850,7 +850,7 @@ underage alcohol consumption and shall be punished as follows:
     1. _(1)_ Except as otherwise provided in subsection (i)(2) of this section,
     the offender is guilty of a misdemeanor of the fourth degree. In addition to
     any other sanction imposed for the offense, the court shall impose a class
-    six suspension of the offender’s driver’s license, commercial driver’s
+    six suspension of the offender's driver's license, commercial driver's
     license, temporary instruction permit, probationary license, or nonresident
     operating privilege from the range specified in division (A)(6) of Ohio R.C.
     4510.02. The court may grant limited driving privileges relative to the
@@ -866,7 +866,7 @@ underage alcohol consumption and shall be punished as follows:
     (a) or (b) of this section or other equivalent offenses, the offender is
     guilty of a misdemeanor of the third degree. In addition to any other
     sanction imposed for the offense, the court shall impose a class four
-    suspension of the offender’s driver’s license, commercial driver’s license,
+    suspension of the offender's driver's license, commercial driver's license,
     temporary instruction permit, probationary license, or nonresident operating
     privilege from the range specified in division (A)(4) of Ohio R.C. 4510.02.
     The court may grant limited driving privileges relative to the suspension
@@ -884,7 +884,7 @@ underage alcohol consumption and shall be punished as follows:
     other penalties provided by law, the court may order restitution pursuant to
     Ohio R.C. 2929.28, in an amount not exceeding five thousand dollars ($5,000)
     for any economic loss arising from an accident or collision that was the
-    direct and proximate result of the offender’s operation of the vehicle
+    direct and proximate result of the offender's operation of the vehicle
     before, during or after committing the violation of subsection (b) of this
     section.  
     (ORC 4511.19)
@@ -892,8 +892,8 @@ underage alcohol consumption and shall be punished as follows:
 10. _(j)_ **Physical Control Penalty.** Whoever violates subsection (d) hereof
 is guilty of having physical control of a vehicle while under the influence, a
 misdemeanor of the first degree. In addition to other sanctions imposed, the
-court may impose on the offender a class seven suspension of the offender’s
-driver’s license, commercial driver’s license, temporary instruction permit,
+court may impose on the offender a class seven suspension of the offender's
+driver's license, commercial driver's license, temporary instruction permit,
 probationary license, or nonresident operating privilege from the range
 specified in division (A)(7) of Ohio R.C. 4510.02.  
 (ORC 4511.194)
@@ -905,23 +905,23 @@ specified in division (A)(7) of Ohio R.C. 4510.02.
     standards for alcohol treatment programs adopted under Ohio R.C. Chapter
     5119 by the Director of Mental Health and Addiction Services.
 
-    2. _(2)_ An offender who stays in a driver’s intervention program or in an
+    2. _(2)_ An offender who stays in a driver's intervention program or in an
     alcohol treatment program under an order issued under this section shall pay
     the cost of the stay in the program. However, if the court determines that
     an offender who stays in an alcohol treatment program under an order issued
     under this section is unable to pay the cost of the stay in the program, the
-    court may order that the cost be paid from the court’s indigent drivers’
+    court may order that the cost be paid from the court's indigent drivers'
     alcohol treatment fund.
 
 12. _(l)_ Appeal Does Not Stay Operation of License Suspension. If a person
-whose driver’s or commercial driver’s license or permit or nonresident operating
+whose driver's or commercial driver's license or permit or nonresident operating
 privilege is suspended under this section files an appeal regarding any aspect
-of the person’s trial or sentence, the appeal itself does not stay the operation
+of the person's trial or sentence, the appeal itself does not stay the operation
 of the suspension.
 
 13. _(m)_ Subsection (a)(1)J. of this section does not apply to a person who
 operates a vehicle while the person has a concentration of a listed controlled
-substance or a listed metabolite of a controlled substance in the person’s whole
+substance or a listed metabolite of a controlled substance in the person's whole
 blood, blood serum or plasma, or urine that equals or exceeds the amount
 specified in that subsection, if both of the following apply:
 
@@ -930,7 +930,7 @@ specified in that subsection, if both of the following apply:
     prescribe drugs.
 
     2. _(2)_ The person injected, ingested, or inhaled the controlled substance
-    in accordance with the health professional’s directions.
+    in accordance with the health professional's directions.
 
 14. _(n)_ The prohibited concentrations of a controlled substance or a
 metabolite of a controlled substance listed in subsection (a)(1)J. of this
@@ -953,7 +953,7 @@ Ohio R.C. 4511.193.
 
 17. _(q)_ **Definitions.** As used in this section:
 
-    1. _(1)_ “Equivalent offense” means any of the following:
+    1. _(1)_ "Equivalent offense" means any of the following:
 
         1. _(A)_ A violation of division (A) or (B) of Ohio R.C. 4511.19;
 
@@ -996,7 +996,7 @@ Ohio R.C. 4511.193.
         substantially equivalent to division (A) or (B) of Ohio R.C. 4511.19 or
         division (A) or (B) of Ohio R.C. 1547.11;
 
-    2. _(2)_ “Mandatory jail term” means the mandatory term in jail of three,
+    2. _(2)_ "Mandatory jail term" means the mandatory term in jail of three,
     six, ten, twenty, thirty, or sixty days that must be imposed under
     subsection (h)(1)A., B. or C. upon an offender convicted of a violation of
     subsection (a) hereof and in relation to which all of the following apply:
@@ -1008,7 +1008,7 @@ Ohio R.C. 4511.193.
         cannot be suspended, reduced or otherwise modified pursuant to Ohio R.C.
         2929.21 to 2929.28, or any other provision of the Ohio Revised Code.
 
-    3. _(3)_ “Municipal OVI ordinance” and “municipal OVI offense” mean any
+    3. _(3)_ "Municipal OVI ordinance" and "municipal OVI offense" mean any
     municipal ordinance prohibiting a person from operating a vehicle while
     under the influence of alcohol, a drug of abuse, or a combination of them or
     prohibiting a person from operating a vehicle with a prohibited
@@ -1016,13 +1016,13 @@ Ohio R.C. 4511.193.
     controlled substance in the whole blood, blood serum, or plasma, breath or
     urine.
 
-    4. _(4)_ “Community residential sanction”, “continuous alcohol monitoring”,
-    “jail”, “mandatory prison term”, “mandatory term of local incarceration”,
-    “sanction” and “prison term” have the same meanings as in Ohio R.C. 2929.01.
+    4. _(4)_ "Community residential sanction", "continuous alcohol monitoring",
+    "jail", "mandatory prison term", "mandatory term of local incarceration",
+    "sanction" and "prison term" have the same meanings as in Ohio R.C. 2929.01.
 
-    5. _(5)_ “Drug of abuse” has the same meaning as in Ohio R.C. 4506.01.
+    5. _(5)_ "Drug of abuse" has the same meaning as in Ohio R.C. 4506.01.
 
-    6. _(6)_ “Equivalent offense that is vehicle-related” means an equivalent
+    6. _(6)_ "Equivalent offense that is vehicle-related" means an equivalent
     offense that is any of the following:
 
         1. _(A)_ A violation described in subsection (q)(1), (2), (3), (4) or
@@ -1074,8 +1074,8 @@ the third degree.
 6. _(f)_ Whenever a person is found guilty under this section of operating a
 motor vehicle in violation of this section relating to reckless operation, the
 trial court of any court of record, in addition to or independent of all other
-penalties provided by law, may impose a class five suspension of the offender’s
-driver’s or commercial driver’s license or permit or nonresident operating
+penalties provided by law, may impose a class five suspension of the offender's
+driver's or commercial driver's license or permit or nonresident operating
 privilege from the range specified in division (A)(5) of Ohio R.C. 4510.02.  
 (ORC 4510.15)
 
@@ -1109,14 +1109,14 @@ not exceeding the following:
         flashing or other lights, or giving other special notice of the hours in
         which the school zone speed limit is in effect.
 
-        2. _(B)_ As used in this section, “school” means all of the following:
+        2. _(B)_ As used in this section, "school" means all of the following:
 
             1. _(1)_ Any school chartered under Ohio R.C. 3301.16;
 
             2. _(2)_ Any nonchartered school that during the preceding year
             filed with the Department of Education in compliance with O.A.C. §
-            3301-35-08, a copy of the school’s report for the parents of the
-            school’s pupils certifying that the school meets state minimum
+            3301-35-08, a copy of the school's report for the parents of the
+            school's pupils certifying that the school meets state minimum
             standards for nonchartered, nontax-supported schools and presents
             evidence of this filing to the jurisdiction from which it is
             requesting the establishment of a school zone;
@@ -1159,7 +1159,7 @@ not exceeding the following:
             300 feet on each approach direction of highway;
 
                 Nothing in this section shall be construed to invalidate the
-                Director’s initial action on August 9, 1976, establishing all
+                Director's initial action on August 9, 1976, establishing all
                 school zones at the traditional school zone boundaries defined
                 by projecting school property lines, except when those
                 boundaries are extended as provided in subsections (b)(1)A. and
@@ -1293,19 +1293,19 @@ limits posted upon such signs.
     a motor vehicle operated solely for the transportation of persons associated
     with a charitable or nonprofit organization.
 
-    4. _(4)_ “Outerbelt” means a portion of a freeway that is part of the
+    4. _(4)_ "Outerbelt" means a portion of a freeway that is part of the
     interstate system and is located in the outer vicinity of a major municipal
     corporation or group of municipal corporations, as designated by the
     Director.
 
-    5. _(5)_ “Rural” means an area outside urbanized areas and outside of a
+    5. _(5)_ "Rural" means an area outside urbanized areas and outside of a
     business or urban district, and areas that extend within urbanized areas
     where the roadway characteristics remain mostly unchanged from those outside
     the urbanized areas.
 
-    6. _(6)_ “Urbanized area” has the same meaning as in 23 U.S.C. 101.
+    6. _(6)_ "Urbanized area" has the same meaning as in 23 U.S.C. 101.
 
-    7. _(7)_ “Divided” means a roadway having two or more travel lanes for
+    7. _(7)_ "Divided" means a roadway having two or more travel lanes for
     vehicles moving in opposite directions and that is separated by a median of
     more than four feet, excluding turn lanes.
 
@@ -1336,7 +1336,7 @@ limits posted upon such signs.
     hour in a business district of a municipal corporation, faster than fifty
     miles an hour in other portions of a municipal corporation, or faster than
     thirty-five miles an hour in a school zone during recess or while children
-    are going to or leaving school during the school’s opening or closing hours,
+    are going to or leaving school during the school's opening or closing hours,
     a misdemeanor of the fourth degree.
 
     3. _(3)_ Notwithstanding subsection (j)(1) of this section, if the offender
@@ -1346,7 +1346,7 @@ limits posted upon such signs.
     times the usual amount imposed for the violation. No court shall impose a
     fine of two times the usual amount imposed for the violation upon an
     offender if the offender alleges, in an affidavit filed with the court prior
-    to the offender’s sentencing, that the offender is indigent and is unable to
+    to the offender's sentencing, that the offender is indigent and is unable to
     pay the fine imposed pursuant to this subsection and if the court determines
     that the offender is an indigent person and unable to pay the fine.
 
@@ -1368,7 +1368,7 @@ means of flashing, oscillating or rotating lights, as prescribed in Section
 
     1. _(1)_ If the driver of the motor vehicle is traveling on a street or
     highway that consists of at least two lanes that carry traffic in the same
-    direction of travel as that of the driver’s motor vehicle, the driver shall
+    direction of travel as that of the driver's motor vehicle, the driver shall
     proceed with due caution and, if possible with due regard to the road,
     weather, and traffic conditions, shall change lanes into a lane that is not
     adjacent to that of the stationary public safety vehicle, emergency vehicle,
@@ -1500,7 +1500,7 @@ highway.
 
 ## 333.07   Street racing prohibited
 
-1. _(a)_ As used in this section, “street racing” means the operation of two or
+1. _(a)_ As used in this section, "street racing" means the operation of two or
 more vehicles from a point side by side at accelerating speeds in a competitive
 attempt to out-distance each other or the operation of one or more vehicles over
 a common selected course, from the same point to the same point, wherein timing
@@ -1519,10 +1519,10 @@ street or highway in this Municipality.
 
 3. _(c)_ Whoever violates this section is guilty of street racing, a misdemeanor
 of the first degree. In addition to any other sanctions, the court shall suspend
-the offender’s driver’s license, commercial driver’s license, temporary
+the offender's driver's license, commercial driver's license, temporary
 instruction permit, probationary license or nonresident operating privilege for
 not less than thirty days or more than three years. No judge shall suspend the
-first thirty days of any suspension of an offender’s license, permit, or
+first thirty days of any suspension of an offender's license, permit, or
 privilege imposed under this subsection.  
 (ORC 4511.251)
 
@@ -1546,17 +1546,17 @@ degree.
 
 1. _(a)_ **Definitions.** As used in this section:
 
-    1. _(1)_ “Electronic wireless communications device” means a portable
+    1. _(1)_ "Electronic wireless communications device" means a portable
     electronic device capable of transmitting and/or receiving data and includes
     the following: a wireless telephone; a text-messaging device; a personal
     digital assistant; and a computer, including a laptop computer and a
     computer tablet.
 
-    2. _(2)_ “Text message” means a message sent or received via a process using
+    2. _(2)_ "Text message" means a message sent or received via a process using
     wireless handsets. For the purposes of this section, an e-mail shall be
-    considered a “text message”.
+    considered a "text message".
 
-    3. _(3)_ “Voice operated or hands-free device” means a device that allows
+    3. _(3)_ "Voice operated or hands-free device" means a device that allows
     the user to vocally compose or send, or listen to a text-based communication
     without the use of either hand except to activate or deactivate a feature or
     function.
@@ -1581,7 +1581,7 @@ section shall not apply when:
     rules, and is stopped due to the inoperability of such vehicle;
 
     3. _(3)_ A driver is using a voice operated or hands-free device which
-    allows the driver to maintain both hands on the vehicle’s steering device
+    allows the driver to maintain both hands on the vehicle's steering device
     while the vehicle is operating; or
 
     4. _(4)_ Safety and public service personnel, employed by a governmental

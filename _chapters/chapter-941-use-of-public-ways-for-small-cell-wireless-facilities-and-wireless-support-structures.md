@@ -40,10 +40,10 @@ title: "Chapter 941: Use of Public Ways for Small Cell Wireless Facilities and W
 
     1. _(1)_ Provide standards for the construction, installation, modification,
     operation, and removal of Facilities and Wireless Support Structures in the
-    Village’s Right-of-Way to protect the health, safety, and welfare of the
+    Village's Right-of-Way to protect the health, safety, and welfare of the
     citizens of the Village;
 
-    2. _(2)_ Preserve the character of the Village, including the Village’s
+    2. _(2)_ Preserve the character of the Village, including the Village's
     neighborhoods, downtown, other business districts and historic districts;
 
     3. _(3)_ Give guidance to wireless telecommunications providers to assist
@@ -179,7 +179,7 @@ otherwise:
         percent taller than adjacent structures, or (c) is not extended in
         height by more than 10 percent or to a height exceeding 50 feet,
         whichever is greater, and (iii) the definition of "Small Wireless
-        Facilities" found in the FCC’s Small Cell order is also otherwise
+        Facilities" found in the FCC's Small Cell order is also otherwise
         satisfied.
 
     12. _(12)_ "Small Cell Equipment" means a Small Cell Facility and all
@@ -373,11 +373,11 @@ licensed and registered by the State of Ohio showing that the Wireless Support
 Structure can accommodate the weight of the proposed small cell equipment.
 
 8. _(h)_ Analysis demonstrating that the proposed Facilities do not interfere
-with the Village’s public safety radio system, traffic and emergency signal
+with the Village's public safety radio system, traffic and emergency signal
 light system, or other Village safety communications components. It shall be the
 responsibility of the Applicant to evaluate, prior to making the Application for
 a Small Cell Use Permit, the compatibility between the existing Village
-infrastructure and Applicant’s proposed Facilities.
+infrastructure and Applicant's proposed Facilities.
 
 9. _(i)_ A landscape plan that demonstrates screening of proposed small cell
 equipment.
@@ -385,7 +385,7 @@ equipment.
 10. _(j)_ Drawings of the proposed Facilities. For all equipment depicted, the
 Applicant must also include, if applicable:
 
-    1. _(1)_ The manufacturer’s name and model number;
+    1. _(1)_ The manufacturer's name and model number;
 
     2. _(2)_ Physical dimensions, including, without limitation, height, width,
     depth and weight with mounts and other necessary hardware; and
@@ -432,7 +432,7 @@ made complete, as described below:
 
     2. _(2)_ The time period set forth in subsection (a) will begin to run again
     when the Applicant provides a supplemental submission in response to the
-    Village’s notice of incompleteness, but may be tolled again if the Village
+    Village's notice of incompleteness, but may be tolled again if the Village
     notifies the applicant in writing, within ten (10) days of receiving a
     supplemental submission, that the Application remains incomplete and
     identifies which items specified in the original notice of incompleteness
@@ -501,7 +501,7 @@ longer than ten (10) years. Permits may be renewed for five (5) year terms.
 
 3. _(c)_ A Small Cell Use Permit issued to a Facilities Operator who is not an
 Operator shall have a term or ten (10) years or the duration of the Facilities
-Operator’s agreement with a wireless service provider provided pursuant to
+Operator's agreement with a wireless service provider provided pursuant to
 Section 941.07(k), whichever is shorter.
 
 4. _(d)_ A Small Cell Use Permit shall not be renewed if the Facilities Operator
@@ -559,9 +559,9 @@ an Annual Registration for next calendar year.
 
 2. _(b)_ The purpose of registration under this Section is to:
 
-    1. _(1)_ Compile, update and supplement the Village’s database so that the
+    1. _(1)_ Compile, update and supplement the Village's database so that the
     Village has accurate and current information concerning the Facilities
-    Operators that own or operate Facilities in the Village/Village’s public
+    Operators that own or operate Facilities in the Village/Village's public
     Right- of-Way;
 
     2. _(2)_ Assist the Village in monitoring the usage of the public Right-of-
@@ -587,7 +587,7 @@ the following information:
 
         2. _(ii)_ The name, address and telephone number of the local officer,
         agent or employee responsible for the accuracy of the Facilities
-        Operator’s registration statement and available at all reasonable times
+        Operator's registration statement and available at all reasonable times
         to be notified in case of emergency.
 
         3. _(iii)_ Evidence that the Facilities Operator is in compliance with
@@ -640,7 +640,7 @@ may repair or remove the Facilities at the expense of the Facilities Operator.
 
 ## 941.13   Insurance requirements
 
-1. _(a)_ As a condition of the Village’s consent to occupy the Right-of-Way, a
+1. _(a)_ As a condition of the Village's consent to occupy the Right-of-Way, a
 Facilities Operator must secure and maintain the following liability insurance
 policies insuring both the Facilities Operator and the Village, and its elected
 and appointed officers, officials, agents and employees as additional insureds:
@@ -661,7 +661,7 @@ and appointed officers, officials, agents and employees as additional insureds:
     limit of Three Million Dollars ($3,000,000.00) for each person and Three
     Million Dollars ($3,000,000.00) for each accident.
 
-    3. _(3)_ Worker’s compensation within statutory limits and employer’s
+    3. _(3)_ Worker's compensation within statutory limits and employer's
     liability insurance with limits of not less than One Million Dollars
     ($1,000,000.00).
 
@@ -683,14 +683,14 @@ insurance policies meeting the requirements of this subsection.
 4. _(d)_ Upon written application to, and written approval by the Chief
 Administrative Officer, a Facilities Operator may be self-insured to provide all
 of the same coverages as listed in this section; except that all coverages for
-Worker’s Compensation shall be in compliance with State law. No approval for
-self-insurance shall be given until the Village’s Chief Administrative Officer
-has made a complete review of the Facilities Operator’s financial ability to
+Worker's Compensation shall be in compliance with State law. No approval for
+self-insurance shall be given until the Village's Chief Administrative Officer
+has made a complete review of the Facilities Operator's financial ability to
 provide such self-insurance and notifies the Chief Administrative Officer that
 such review has been completed. As part of the review process, the Chief
 Administrative Officer may require, and the self-insurance applicant shall
 provide, any and all financial documents necessary to make a valid determination
-of the applicant’s ability to meet the needs of this Chapter.  
+of the applicant's ability to meet the needs of this Chapter.  
 (Ord. 2019-10. Passed 1-14-19.)
 
 ## 941.14   Indemnification
@@ -743,7 +743,7 @@ and maintenance activities. The Facilities Operator shall remove or relocate the
 Facilities at no cost to the Village. If the Facilities Operator fails to remove
 or relocate the Facilities within ninety (90) days of receiving a request to do
 so from the Village, then the Village may remove the Facilities at Facilities
-Operator’s sole cost and expense, without further notice to the Facilities
+Operator's sole cost and expense, without further notice to the Facilities
 Operator.
 
 2. _(b)_ If the Facilities are placed in a location other than the location
@@ -773,7 +773,7 @@ pursuant to Section 901.01.
 It is within the reasonable discretion of the Chief Administrative Officer to
 waive any portion or portions of this Chapter, as permitted or warranted under
 state and federal law, where such requirements, in the Chief Administrative
-Officer’s judgment, are not necessary or appropriate to protect the Village’s
+Officer's judgment, are not necessary or appropriate to protect the Village's
 interests and the purposes and intent of this Chapter.  
 (Ord. 2019-10. Passed 1-14-19.)
 

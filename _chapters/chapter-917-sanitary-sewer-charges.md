@@ -240,7 +240,7 @@ if outside the Municipality, who shall place the same on the tax duplicate, with
 the interest and penalties allowed by law, and be collected as other municipal
 taxes are collected. The Municipality shall also have the right, in the event of
 nonpayment as aforesaid, to discontinue service to such premises of water
-supplied by the Municipality’s waterworks system until such unpaid sewer charges
+supplied by the Municipality's waterworks system until such unpaid sewer charges
 have been duly paid.
 
 2. _(b)_ **Leased Lots.** In the case of leased lots, parcels of land or

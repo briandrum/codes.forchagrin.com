@@ -19,11 +19,11 @@ title: "Chapter 959: Volunteer Senior Citizens Help Line"
 
 ## 959.01   Creation and staffing
 
-There is hereby created a Volunteer Senior Citizens Help Line (“Help Line”),
+There is hereby created a Volunteer Senior Citizens Help Line ("Help Line"),
 which shall utilize Village telephone lines and equipment and shall be staffed
-by “Volunteers” appointed by the Mayor and confirmed by Council. The Mayor,
-subject to confirmation by Council, shall also appoint one or more “Volunteer
-Supervisors,” who shall perform such duties as are provided for herein or as
+by "Volunteers" appointed by the Mayor and confirmed by Council. The Mayor,
+subject to confirmation by Council, shall also appoint one or more "Volunteer
+Supervisors," who shall perform such duties as are provided for herein or as
 directed by the Mayor. Volunteers and Volunteer Supervisors shall serve at the
 pleasure of the Mayor.  
 (Ord. 2008-45. Passed 9-22-08.)

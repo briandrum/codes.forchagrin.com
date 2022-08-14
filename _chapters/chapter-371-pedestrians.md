@@ -214,7 +214,7 @@ public agency.
 
 5. _(e)_ No driver of a truck, trailer or semitrailer shall knowingly permit any
 person who has not attained the age of sixteen years to ride in the unenclosed
-or unroofed cargo storage area of the driver’s vehicle if the vehicle is
+or unroofed cargo storage area of the driver's vehicle if the vehicle is
 traveling faster than twenty-five miles per hour, unless either of the following
 applies:
 
@@ -232,7 +232,7 @@ applies:
 6. _(f)_ No driver of a truck, trailer or semitrailer shall permit any person,
 except for those workers performing specialized highway or street maintenance or
 construction under authority of a public agency to ride in the cargo storage
-area or on a tailgate of the driver’s vehicle while the tailgate is unlatched.
+area or on a tailgate of the driver's vehicle while the tailgate is unlatched.
 
 7. _(g)_
 
@@ -385,7 +385,7 @@ any of the following:
     of the specialized use is posted on the path;
 
     6. _(6)_ If under eighteen years of age, operate the device unless wearing a
-    protective helmet on the person’s head with the chin strap properly
+    protective helmet on the person's head with the chin strap properly
     fastened;
 
     7. _(7)_ If under sixteen years of age, operate the device unless, during
@@ -398,12 +398,12 @@ personal assistive mobility device.
 
 4. _(d)_ No person shall distribute or sell an electric personal assistive
 mobility device unless the device is accompanied by a written statement that is
-substantially equivalent to the following: “WARNING: TO REDUCE THE RISK OF
+substantially equivalent to the following: "WARNING: TO REDUCE THE RISK OF
 SERIOUS INJURY, USE ONLY WHILE WEARING FULL PROTECTIVE EQUIPMENT - HELMET, WRIST
-GUARDS, ELBOW PADS, AND KNEE PADS”.  
+GUARDS, ELBOW PADS, AND KNEE PADS".  
 (ORC 4511.512)
 
-5. _(e)_ “Electric personal assistive mobility device” means a self-balancing
+5. _(e)_ "Electric personal assistive mobility device" means a self-balancing
 two non-tandem wheeled device that is designed to transport only one person, has
 an electric propulsion system of an average of seven hundred fifty watts, and
 when ridden on a paved level surface by an operator who weighs one hundred
@@ -428,7 +428,7 @@ misdemeanor and shall be punished as follows:
         the court and may assess storage fees of not more than five dollars
         ($5.00) per day, provided the total storage, processing, and release
         fees assessed against the offender or the device in connection with the
-        device’s impoundment or subsequent release shall not exceed fifty
+        device's impoundment or subsequent release shall not exceed fifty
         dollars ($50.00).
 
         2. _(B)_ If the court does not issue an impoundment order pursuant to
@@ -446,10 +446,10 @@ misdemeanor.
 
 1. _(a)_ As used in this section:
 
-    1. _(1)_ “Eligible entity” means a corporation, partnership, association,
+    1. _(1)_ "Eligible entity" means a corporation, partnership, association,
     firm, sole proprietorship, or other entity engaged in business.
 
-    2. _(2)_ “Personal delivery device” means an electrically powered device to
+    2. _(2)_ "Personal delivery device" means an electrically powered device to
     which all of the following apply:
 
         1. _(A)_ The device is intended primarily to transport property and
@@ -465,7 +465,7 @@ misdemeanor.
         without active control or monitoring by a person, or both with or
         without active control or monitoring by a person.
 
-    3. _(3)_ “Personal delivery device operator” means an agent of an eligible
+    3. _(3)_ "Personal delivery device operator" means an agent of an eligible
     entity who exercises direct physical control over, or monitoring of, the
     navigation and operation of a personal delivery device. The phrase does not
     include, with respect to a delivery or other service rendered by a personal

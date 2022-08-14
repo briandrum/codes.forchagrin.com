@@ -6,7 +6,7 @@ chapter_no: 131
 title: "Chapter 131: Fire Department"
 ---
 
-Editor’s note: House Bill 642, enacted by the 1965 session of the 106th Ohio
+Editor's note: House Bill 642, enacted by the 1965 session of the 106th Ohio
 General Assembly, established Ohio Revised Code Chapter 742 which created a
 Statewide disability and pension fund for policemen and firemen and abolished
 all municipal police and fire relief and pension funds as of January 1, 1967.
@@ -21,7 +21,7 @@ all municipal police and fire relief and pension funds as of January 1, 1967.
 
 * Department establishment - see CHTR. Art. VII, Sec. 1
 * Appointment and removal of officers - see CHTR. Art. VII, Sec. 2
-* Volunteer Firemen’s Dependents Fund - see Ohio R.C. Ch. 146
+* Volunteer Firemen's Dependents Fund - see Ohio R.C. Ch. 146
 * Fire protection contracts - see Ohio R.C. 307.05, 505.44, 717.02
 * Traffic direction at fires - see TRAF. 303.02
 * Following and parking near emergency or safety vehicle - see TRAF. 331.27

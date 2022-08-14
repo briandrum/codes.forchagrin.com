@@ -157,7 +157,7 @@ transferred in accordance with the rules and regulations of the Commission.
 
 ## Section VII-7: Board of cemetery trustees.
 
-(Editor’s note: Former Section VII-7 was repealed by the voters on November 8,
+(Editor's note: Former Section VII-7 was repealed by the voters on November 8,
 2016.)
 
 ## Section VII-8: Municipal engineer

@@ -24,7 +24,7 @@ with FCC policy.
 
 ## 761.02   File and distribution of copies
 
-A complete copy of the Federal Communications Commission’s basic cable
+A complete copy of the Federal Communications Commission's basic cable
 service rate regulations adopted pursuant to 47 U.S.C. 543(b) is on file with
 the Clerk of Council for inspection by the public and is also on file in the
 County Law Library. The Clerk of Council shall provide copies for distribution

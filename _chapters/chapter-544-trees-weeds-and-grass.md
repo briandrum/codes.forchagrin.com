@@ -16,11 +16,11 @@ title: "Chapter 544: Trees, Weeds and Grass"
 * [544.06   Trimming hedges or growths at intersections](#54406-trimming-hedges-or-growths-at-intersections)
 * [544.07   Trimming hedges along public ways](#54407-trimming-hedges-along-public-ways)
 * [544.08   Certain trees prohibited](#54408-certain-trees-prohibited)
-* [544.09   Dutch elm disease and “elm blight”](#54409-dutch-elm-disease-and-elm-blight)
+* [544.09   Dutch elm disease and "elm blight"](#54409-dutch-elm-disease-and-elm-blight)
 * [544.10   Inspection and removal of diseased trees](#54410-inspection-and-removal-of-diseased-trees)
 * [544.11   Examination and diagnosis of suspected infected trees](#54411-examination-and-diagnosis-of-suspected-infected-trees)
 * [544.12   Trees permitted to be planted on Municipal property](#54412-trees-permitted-to-be-planted-on-municipal-property)
-* [544.13   Permit; bond; contractor’s license](#54413-permit-bond-contractors-license)
+* [544.13   Permit; bond; contractor's license](#54413-permit-bond-contractors-license)
 * [544.14   Establishment and powers of Shade Tree Commission](#54414-establishment-and-powers-of-shade-tree-commission)
 * [544.99   Penalty](#54499-penalty)
 
@@ -80,7 +80,7 @@ owner where the tree is located, or the abutting residential property owner if
 the tree is on public property, shall be given notice of the pending removal and
 will have ten days to obtain another opinion as to the health or stability of
 the tree. In any event, the final decision to remove will be the Chief
-Administrative Officer’s.  
+Administrative Officer's.  
 (Ord. 1983-34. Passed 9-26-83.)
 
 ## 544.04   Assessment of costs by municipality
@@ -236,11 +236,11 @@ the construction, the site to be approved by the Chief Administrative Officer,
 if the same is a single-family residential dwelling, or one tree per unit for
 multi-family construction, in a location to be determined by the Chief
 Administrative Officer, and which tree shall be one of those varieties contained
-in the foregoing list. The trees shall be a minimum of 3" in diameter measured
-at a point 12" above ground level.  
+in the foregoing list. The trees shall be a minimum of 3″ in diameter measured
+at a point 12″ above ground level.  
 (Ord. 1982-36. Passed 1-24-83 )
 
-## 544.13   Permit; bond; contractors’ license
+## 544.13   Permit; bond; contractors' license
 
 1. _(a)_ No person shall hereafter plant any tree in a public place or street
 right of way without first obtaining a written permit from the Chief
@@ -267,13 +267,13 @@ permit fee and providing proof of the required insurance or bond.
 
 ## 544.14   Establishment and powers of shade tree commission
 
-(Editor’s note: The Shade Tree Commission was established on October 1, 1950, by
+(Editor's note: The Shade Tree Commission was established on October 1, 1950, by
 Resolution 1950-632.)
 
 1. _(a)_
 
-    1. _(1)_ There is hereby created a commission to be known as the “Shade Tree
-    Commission” composed of six (6) members appointed by the Mayor, and one (1)
+    1. _(1)_ There is hereby created a commission to be known as the "Shade Tree
+    Commission" composed of six (6) members appointed by the Mayor, and one (1)
     Council person. Council shall appoint its representative. Two (2) of the six
     (6) of the Mayoral appointees shall not be required to be residents of the
     Village.

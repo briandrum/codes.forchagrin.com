@@ -191,7 +191,7 @@ Complete compliance with the bond deposit requirement set forth herein is a
 condition precedent to the issuance of either the initial or a subsequent street
 opening or excavation permit.
 
-16. _(p)_ **Village’s Right to Restore Surface.** If the permittee has failed to
+16. _(p)_ **Village's Right to Restore Surface.** If the permittee has failed to
 restore the surface of the work area to its original and proper condition upon
 the expiration of the time fixed by the Village or otherwise has failed to
 complete the excavation work covered by such permit, the Chief Administrative
@@ -202,7 +202,7 @@ twenty-five percent (25%) of such cost in addition for general overhead and
 administrative expenses. The Village shall have a cause of action for all fees,
 expenses and amounts paid out and due it for such work and shall apply in
 payment of the amount due it any funds of the permittee deposited as herein
-provided and the Village shall also enforce its rights under the permittee’s
+provided and the Village shall also enforce its rights under the permittee's
 surety bond provided pursuant to this chapter.
 
 17. _(q)_ **Trees; Backfills.** In the making of any such excavation or opening,
@@ -236,7 +236,7 @@ lines.
 ## 901.99   Penalty
 
 Whoever violates any provision of this chapter is guilty of a misdemeanor of the
-third degree. Each day’s violation shall constitute a separate offense.  
+third degree. Each day's violation shall constitute a separate offense.  
 (Ord. 1985-8. Passed 2-25-85.)
 
 ### Exhibit A

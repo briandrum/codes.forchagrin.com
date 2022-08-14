@@ -13,7 +13,7 @@ title: "Chapter 113: Ordinances and Resolutions"
 ## Cross references
 
 * Mayor may introduce legislation - see CHTR. Art. III, Sec. 5(b)
-* Mayor’s power to sign or veto - see CHTR. Art. III, Sec. 5(c)
+* Mayor's power to sign or veto - see CHTR. Art. III, Sec. 5(c)
 * Legislative power of Council - see CHTR. Art. IV, Sec. 8
 * Effective date; emergency measures - see CHTR. Art. IV, Sec. 9
 * Initiative and referendum - see CHTR. Art. X, Sec. 1, 3

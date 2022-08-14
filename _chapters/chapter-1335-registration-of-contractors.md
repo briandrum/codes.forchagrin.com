@@ -15,7 +15,7 @@ title: "Chapter 1335: Registration of Contractors"
 * [1335.05   Form of registration](#133505-form-of-registration)
 * [1335.06   Bond; liability insurance](#133506-bond-liability-insurance)
 * [1335.07   Revocation of certificate of registration](#133507-revocation-of-certificate-of-registration)
-* [1335.08   Homeowner’s exception](#133508-homeowners-exception)
+* [1335.08   Homeowner's exception](#133508-homeowners-exception)
 * [1335.09   Public works exception](#133509-public-works-exception)
 * [1335.10   Fees](#133510-fees)
 
@@ -134,7 +134,7 @@ those terms are defined in Section 501.08 of the General Offenses Code. The
 order of revocation may be appealed pursuant to Section 1335.04.  
 (Ord. 2006-48. Passed 7-24-06.)
 
-## 1335.08   Homeowner’s exception
+## 1335.08   Homeowner's exception
 
 The provisions of this chapter shall not apply to a homeowner desiring to
 perform work on his or her own premises, or a homeowner who desires to assume
@@ -163,5 +163,5 @@ sewer, or any construction work, under the provisions of this chapter, shall be
 one hundred twenty dollars ($120.00) for the original registration, as herein
 provided. The registration shall be renewable from year to year thereafter from
 January 1 to January 1, upon payment of the further sum of sixty dollars
-($60.00) for each year’s renewal.  
+($60.00) for each year's renewal.  
 (Ord. 2006-48. Passed 7-24-06.)

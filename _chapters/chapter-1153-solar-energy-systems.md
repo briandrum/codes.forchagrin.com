@@ -79,7 +79,7 @@ without first obtaining a permit.
 In addition to the application requirements set forth in Section 1109.04, an
 application for a solar energy system shall include:
 
-1. _(a)_ The manufacturer’s specifications.
+1. _(a)_ The manufacturer's specifications.
 
 2. _(b)_ Complete architectural and engineering drawings, adequately scaled and
 dimensioned depicting the location, installation, mounting, anchorage details,
@@ -112,7 +112,7 @@ building is designed to handle all structural loads including those imposed by
 the proposed solar panel system.
 
 7. _(g)_ Evidence that the local public electric utility company approves the
-applicant’s intent to install an interconnected customer-owned system if the
+applicant's intent to install an interconnected customer-owned system if the
 proposed system is to interconnect to a local utility grid.
 
 8. _(h)_ A description of the location and type of any required screening.
@@ -165,7 +165,7 @@ applicant has demonstrated to the Architectural Board of Review that:
     3. _(3)_ The size and location of any structure is the minimum necessary to
     serve the needs of the building(s) on the property.
 
-5. _(e)_ When locating a solar panel, it is the property owner’s responsibility
+5. _(e)_ When locating a solar panel, it is the property owner's responsibility
 to consider current and future development, growth of trees and vegetation, and
 other obstructions that might interfere with solar access. Nothing in this
 section shall prohibit the owner of the solar energy system from requesting or
@@ -176,7 +176,7 @@ which sets forth the requirements for solar access. In order to ensure adequate
 access of solar energy collection devices to sunlight, any person may grant a
 solar access easement. Such easements shall be in writing and subject to the
 same conveyance and recording requirements as other easements. Any instrument
-creating a solar easement shall be recorded in the Cuyahoga County Recorder’s
+creating a solar easement shall be recorded in the Cuyahoga County Recorder's
 Office.
 
 7. _(g)_ Solar panels and related equipment shall be located, oriented or
@@ -193,7 +193,7 @@ within a screened enclosure behind the main building, or are hidden from view
 behind the parapet wall of buildings with flat roofs.
 
 10. _(j)_ Solar energy systems shall be properly maintained at all times in
-compliance with all manufacturers’ specifications.  
+compliance with all manufacturers' specifications.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1153.06   Abandonment

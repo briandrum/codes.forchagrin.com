@@ -107,7 +107,7 @@ shall submit:
     supply service within a quarter mile of the proposed facility. The applicant
     shall inquire about potential collocation opportunities at all technically
     feasible locations. The contacted providers shall be requested to respond in
-    writing to the inquiry within thirty days. The applicant’s letter(s) as well
+    writing to the inquiry within thirty days. The applicant's letter(s) as well
     as response(s) shall be presented to the Planning Commission as a means of
     demonstrating the need for a new tower.
 
@@ -117,7 +117,7 @@ shall submit:
 
     8. _(8)_ Aerial photos and/or renderings may augment the plot plan.
 
-    9. _(9)_ Evidence that demonstrates the applicant’s ability to furnish a
+    9. _(9)_ Evidence that demonstrates the applicant's ability to furnish a
     financial guarantee for the estimated amount of removal of the facility.
     Such guarantees may be in the form of a performance or surety bond, a
     certified check, or any other type of surety approved by the Municipality.
@@ -132,7 +132,7 @@ shall submit:
     of coverages when made available to the wireless telecommunications
     industry, or to cover those amounts and types of coverages a wireless
     telecommunications tower owner in Cuyahoga County customarily requires
-    carriers to provide for the owner’s benefit.
+    carriers to provide for the owner's benefit.
 
 2. _(b)_ The Administrator may waive any of the above requirements which he
 determines to be inapplicable in specific instances.
@@ -143,12 +143,12 @@ be subject to the following:
 
     1. _(1)_ Upon receiving the completed application, the Planning and Zoning
     Commission shall hold a public hearing. Such application request shall be
-    posted on the Municipality’s website at least thirty days prior to the date
+    posted on the Municipality's website at least thirty days prior to the date
     of the hearing. Notice of the hearing shall also be mailed, by first class
     mail, at least fifteen days before the hearing date, to owners of property
     within 300 feet of the subject property. The addresses of such owner shall
-    be obtained from the addresses appearing on the County Auditor’s tax list or
-    the County Treasurer’s mailing list. The failure to mail notice to owners
+    be obtained from the addresses appearing on the County Auditor's tax list or
+    the County Treasurer's mailing list. The failure to mail notice to owners
     whose names do not appear on such lists, as well as the failure of delivery
     of such notice, shall not invalidate any subsequent Planning and Zoning
     Commission action. The mailed and website notification shall set forth the
@@ -284,12 +284,12 @@ notifying them of any tower facility located in the Municipality whose use will
 be discontinued and the date this use will cease. If at any time the use of the
 facility is discontinued for 180 days, the Administrator may declare the
 facility abandoned. This excludes any dormancy period between construction and
-the initial use of the facility. The facility’s owner/operator will receive
+the initial use of the facility. The facility's owner/operator will receive
 written notice from the Administrator and will be instructed to either
-reactivate the facility’s use within 180 days or dismantle and remove the
+reactivate the facility's use within 180 days or dismantle and remove the
 facility. If reactivation or dismantling does not timely occur, the Municipality
 may remove or will contract to have removed the tower facility and related
-structures and equipment at the owner/operator’s cost. If the owner/ operator
+structures and equipment at the owner/operator's cost. If the owner/ operator
 does not pay for removal, the Municipality shall have a lien on the tower
 facility and related equipment and structures until paid and may record the lien
 with the Cuyahoga County Recorder.  

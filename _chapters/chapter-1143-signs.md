@@ -145,8 +145,8 @@ product.
 
 20. _(t)_ "Sign panel" means a structural object or portion of a structural
 object, including painted surfaces, designed to form a distinct background area
-or frame for display of a sign’s copy or information. However, an architectural
-frame or space integral to a building’s design and not differentiated from the
+or frame for display of a sign's copy or information. However, an architectural
+frame or space integral to a building's design and not differentiated from the
 wall by color shall not be considered a sign panel.
 
 21. _(u)_ "Temporary sign" means a sign constructed of cloth, paper, wood,
@@ -567,7 +567,7 @@ installed and attached to or on the same lot as a historically significant
 structure are considered to be of historic significance and are exempt from the
 requirements of this sub-section.
 
-4. _(d)_ **Unsafe and Unlawful Signs.** If the Administrator’s inspection finds
+4. _(d)_ **Unsafe and Unlawful Signs.** If the Administrator's inspection finds
 that any sign regulated herein is unsafe or insecure or is a menace to the
 public, or has been constructed or erected or is being maintained in violation
 of any of the provisions of this chapter, notice shall be given in writing by

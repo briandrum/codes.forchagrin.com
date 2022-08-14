@@ -31,7 +31,7 @@ title: "Chapter 711: Peddlers and Canvassers"
 
 This Chapter is intended to balance the First Amendment rights of individuals
 wishing to engage in door-to-door peddling and canvassing activities in the
-Village with the privacy, health, safety and welfare of the Village’s
+Village with the privacy, health, safety and welfare of the Village's
 residents.  
 (Ord. 2016-03. Passed 1-25-16.)
 
@@ -79,7 +79,7 @@ whether the Village is aware that such activity is occurring.
 
 ## 711.04   Application for license
 
-Each applicant for a Peddler’s license shall furnish the Chief of Police with
+Each applicant for a Peddler's license shall furnish the Chief of Police with
 the following information on forms provided by the Village:
 
 1. _(a)_ Name, age and physical description of the applicant and provide a valid
@@ -203,7 +203,7 @@ required to be provided by Section 711.04(c). The applicant or licensee shall
 have ten (10) days after the receipt of such notice to appeal such refusal or
 revocation. Such appeals shall be perfected by filing a written notice of the
 appeal with the Mayor; thereupon, the applicant shall have not less than ten
-(10) days’ notice of the date and place of the hearing. The Mayor shall have the
+(10) days' notice of the date and place of the hearing. The Mayor shall have the
 power, after such hearing, to either affirm or overrule the decision of the
 Chief of Police. The Mayor shall cause notice of the decision to be transmitted
 to the applicant or licensee by certified mail within thirty (30) days of the

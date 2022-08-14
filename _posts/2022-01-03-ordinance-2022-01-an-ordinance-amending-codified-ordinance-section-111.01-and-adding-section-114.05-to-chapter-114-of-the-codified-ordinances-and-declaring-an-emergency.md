@@ -115,7 +115,7 @@ Section 114.05 which reads in its entirety as follows:
 > Village, or other such person as the Chief Administrative Officer may
 > designate. The Chair of each public body may allow exhibits not submitted
 > prior to a meeting or hearing to be used at the meeting or hearing, such as
-> documents used to impeach a witness or for rebuttal purposes. At the Chair’s
+> documents used to impeach a witness or for rebuttal purposes. At the Chair's
 > discretion, the Chair may permit a party to transmit an exhibit to the public
 > body during the meeting or hearing by email or other method approved by the
 > Chair. Upon conclusion of the meeting or hearing, the Village will not be
@@ -125,7 +125,7 @@ Section 114.05 which reads in its entirety as follows:
 > convenience of the Village Administration.</ins>
 > 
 > 5. <ins>_(e)_ **Notice to the Public.** Each public body shall provide at
-> least twelve (12) hours’ prior notification of the time, place, agenda items,
+> least twelve (12) hours' prior notification of the time, place, agenda items,
 > and the manner by which the meeting or hearing will be held and where possible
 > or convenient, an email address to submit proposed exhibits or other documents
 > for a meeting or hearing.</ins>

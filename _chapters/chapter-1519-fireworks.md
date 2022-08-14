@@ -20,7 +20,7 @@ title: "Chapter 1519: Fireworks"
 * Manufacturers to comply with building and zoning ordinances - see Ohio R.C. 3743.06(F)
 * Wholesalers to comply with building and zoning ordinances - see Ohio R.C. 3743.19(G)
 * Arrests, seizure of fireworks by certified fire safety inspector - see Ohio R.C. 3743.68
-* Conflict of Fire Marshal’s rules with rules of Ohio Board of Building Standards - see Ohio R.C. 3781.11(D)
+* Conflict of Fire Marshal's rules with rules of Ohio Board of Building Standards - see Ohio R.C. 3781.11(D)
 
 ## 1519.01   Definitions
 
@@ -38,13 +38,13 @@ quantity of explosive composition and that is ignited in a cigarette.
 
 4. _(d)_
 
-    1. _(1)_ “1.3 G fireworks” means display fireworks consistent with regulations of
+    1. _(1)_ "1.3 G fireworks" means display fireworks consistent with regulations of
     the United States Department of Transportation as expressed using the
-    designation “Division 1.3" in Title 49, Code of Federal Regulations.
+    designation "Division 1.3" in Title 49, Code of Federal Regulations.
 
-    2. _(2)_ “1.4 G fireworks” means consumer fireworks consistent with
+    2. _(2)_ "1.4 G fireworks" means consumer fireworks consistent with
     regulations of the United States Department of Transportation as expressed
-    using the designation “Division 1.4" in Title 49, Code of Federal
+    using the designation "Division 1.4" in Title 49, Code of Federal
     Regulations.
 
 5. _(e)_ "Controlled substance" has the same meaning as in Ohio R.C. 3719.01.
@@ -99,7 +99,7 @@ dropped, implodes.
 small quantity of explosive composition and that, upon ignition, produces a
 small report or a shower of sparks.
 
-17. _(q)_ “Wire sparkler” means a sparkler consisting of a wire or stick coated
+17. _(q)_ "Wire sparkler" means a sparkler consisting of a wire or stick coated
 with a non-explosive pyrotechnic mixture that produces a shower of sparks upon
 ignition and that contains no more than one hundred grams of this mixture.  
 (ORC 3743.01)
@@ -129,7 +129,7 @@ Police Chief or other similar chief law enforcement officer, or a designee of
 such Police Chief or similar chief law enforcement officer, shall inspect the
 premises on which the exhibition will take place and shall determine that, in
 fact, the applicant for the permit is a licensed exhibitor of fireworks. Each
-applicant shall show the applicant’s license as an exhibitor of fireworks to the
+applicant shall show the applicant's license as an exhibitor of fireworks to the
 Fire Chief or Fire Prevention Officer.  
 
     The Fire Chief or Fire Prevention Officer and the Police Chief or other
@@ -191,7 +191,7 @@ conducted.
     for fireworks exhibitions. In this list, the Fire Chief, Fire Prevention
     Officer, Police Chief or other similar chief law enforcement officer, or a
     designee of such Police Chief or similar chief law enforcement officer,
-    shall list the name of the exhibitor, the exhibitor’s license number, the
+    shall list the name of the exhibitor, the exhibitor's license number, the
     premises on which the exhibition will be conducted, the date and time of the
     exhibition and the number of the permit issued to the exhibitor for the
     exhibition.

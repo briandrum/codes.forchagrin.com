@@ -6,7 +6,7 @@ chapter_no: 135
 title: "Chapter 135: Planning and Zoning Commission"
 ---
 
-Editor’s note: The Planning and Zoning Commission was established May 1,
+Editor's note: The Planning and Zoning Commission was established May 1,
 1935.
 
 * [135.01   Commission to act as Board of Zoning Appeals](#13501-commission-to-act-as-board-of-zoning-appeals) (Repealed)
@@ -19,6 +19,6 @@ Editor’s note: The Planning and Zoning Commission was established May 1,
 
 ## 135.01   Commission to act as board of zoning appeals
 
-(Editor’s note: Former Section 135.01 was repealed by Ordinance 1979-1172,
+(Editor's note: Former Section 135.01 was repealed by Ordinance 1979-1172,
 passed October 8, 1979, which established a Board of Zoning Appeals under
 Chapter 136.)

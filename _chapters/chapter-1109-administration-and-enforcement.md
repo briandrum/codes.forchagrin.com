@@ -488,10 +488,10 @@ enforcement of the provisions of this Planning and Zoning Code.
     notify in writing the person responsible for such violation, indicating the
     nature of the violation and actions necessary to correct it. Such notice
     shall be served on the responsible person personally, or by certified mail
-    and regular mail to the person’s residence, regular place of business or
+    and regular mail to the person's residence, regular place of business or
     last known address. If the certified and regular mail is returned
     undelivered, a copy shall be posted in a conspicuous place in or on the
-    person’s residence, regular place of business, last known address, or the
+    person's residence, regular place of business, last known address, or the
     building affected.
 
     3. _(3)_ The Administrator shall order the cessation, removal or other
@@ -531,7 +531,7 @@ enforcement of the provisions of this Planning and Zoning Code.
 
             2. _(2)_ Each day such violation is committed or continued shall
             constitute a separate offense, commencing one day after the
-            Administrator’s order is served on the owner, his employee, tenant
+            Administrator's order is served on the owner, his employee, tenant
             or other agent or any other person who is responsible for the
             violation.
 
@@ -618,8 +618,8 @@ provided of such public hearing in accordance with the following:
     property involved in the application request, as well as to all owners of
     property within three hundred (300) feet of the location of the property
     involved in the application request. The addresses of such owners shall be
-    obtained from the addresses appearing on the County Auditor’s tax list or
-    the County Treasurer’s mailing list. The failure to mail notices to owners
+    obtained from the addresses appearing on the County Auditor's tax list or
+    the County Treasurer's mailing list. The failure to mail notices to owners
     whose names do not appear on such lists, as well as the failure of delivery
     of such notice, shall not invalidate any such action by the Board.
 

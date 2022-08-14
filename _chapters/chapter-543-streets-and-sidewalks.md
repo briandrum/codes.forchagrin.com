@@ -22,7 +22,7 @@ title: "Chapter 543: Streets and Sidewalks"
 
 ## Cross references
 
-* Construction or repair of sidewalk at owner’s expense - see Ohio R.C. 729.01 et seq.
+* Construction or repair of sidewalk at owner's expense - see Ohio R.C. 729.01 et seq.
 * Notice to construct or repair sidewalks - see Ohio R.C. 729.03 et seq.
 * Unlawful congregation on sidewalks - see GEN. OFF. 509.03(a)(4)
 * Streets and sidewalks - see Title One - Streets and Public Services Code
@@ -95,12 +95,12 @@ immediately cleaned and left in a passable condition.
 
 ## 543.06   Sale of goods and merchandise upon sidewalks or tree lawns
 
-(Editor’s note: Former Section 543.06 was repealed by Ordinance 1982-22, passed
+(Editor's note: Former Section 543.06 was repealed by Ordinance 1982-22, passed
 May 24, 1982.)
 
 ## 543.07   Purchaser of goods on sidewalk or tree lawn
 
-(Editor’s note: Former Section 543.07 was repealed by Ordinance 1982-22, passed
+(Editor's note: Former Section 543.07 was repealed by Ordinance 1982-22, passed
 May 24, 1982.)
 
 ## 543.08   Skateboards, roller blades and roller skates
@@ -129,9 +129,9 @@ the sidewalks.
     resulting from any action or inaction on the part of the Village related in
     any manner to the adoption and/or enforcement of this section of the Code.
 
-2. _(b)_ “Skateboard” means any platform device designed and intended to move or
+2. _(b)_ "Skateboard" means any platform device designed and intended to move or
 propel one or more riders over a hard surface by means of roller wheels
-utilizing gravity or human impetus. “Roller skates” and “roller blades” means
+utilizing gravity or human impetus. "Roller skates" and "roller blades" means
 any device fitted upon the human foot designed and intended to propel persons
 over hard surfaces by means of roller wheels utilizing gravity or human impetus.
 
@@ -173,7 +173,7 @@ minor misdemeanor.
 
 ## 543.09   Use of streets for recreational purposes
 
-(Editor’s note: Former Section 543.09 was repealed by Ordinance 1995-78, passed
+(Editor's note: Former Section 543.09 was repealed by Ordinance 1995-78, passed
 October 9, 1995.)
 
 ## 543.10   Manhole covers; obstructions in sewers

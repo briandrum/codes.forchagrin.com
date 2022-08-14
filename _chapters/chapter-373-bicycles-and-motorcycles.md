@@ -8,7 +8,7 @@ title: "Chapter 373: Bicycles and Motorcycles"
 
 ## Sections
 
-* [373.01   Parent’s responsibility](#37301-parents-responsibility)
+* [373.01   Parent's responsibility](#37301-parents-responsibility)
 * [373.02   Motorized bicycle](#37302-motorized-bicycle)
 * [373.03   Traffic Code application to bicycles](#37303-traffic-code-application-to-bicycles)
 * [373.04   Obedience to traffic control devices](#37304-obedience-to-traffic-control-devices)
@@ -32,11 +32,11 @@ title: "Chapter 373: Bicycles and Motorcycles"
 
 * Bicycle; motorized bicycle defined - see TRAF. 301.04
 * Motorcycle defined - see TRAF. 301.19
-* Motorcycle operator’s license required - see TRAF. 335.01(a)
+* Motorcycle operator's license required - see TRAF. 335.01(a)
 * Motorcycle headlight - see TRAF. 337.03
 * Motorcycle brakes - see TRAF. 337.18
 
-## 373.01   Parent’s responsibility
+## 373.01   Parent's responsibility
 
 The parent of any child and the guardian of any ward shall not authorize or
 knowingly permit any such child or ward to violate any of the provisions of this
@@ -66,7 +66,7 @@ or electric bicycles may be issued a ticket, citation or summons by a law
 enforcement officer for the violation in the same manner as the operator of a
 motor vehicle would be cited for the same violation. A person who commits any
 such violation while operating a bicycle or electric bicycle shall not have any
-points assessed against the person’s driver’s license, commercial driver’s
+points assessed against the person's driver's license, commercial driver's
 license, temporary instruction permit, or probationary license under Ohio R.C.
 4510.036.
 
@@ -148,7 +148,7 @@ hand upon the handlebars.
 7. _(g)_ No bicycle, electric bicycle, or motorcycle shall be used to carry more
 persons at one time than the number for which it is designed and equipped. No
 motorcycle shall be operated on a highway when the handlebars rise higher than
-the shoulders of the operator when the operator is seated in the operator’s seat
+the shoulders of the operator when the operator is seated in the operator's seat
 or saddle.
 
 8. _(h)_
@@ -157,11 +157,11 @@ or saddle.
     shall operate or be a passenger on a snowmobile or motorcycle without using
     safety glasses or other protective eye device. Except as provided in
     subsection (i)(3) of this section, no person who is under the age of
-    eighteen years, or who holds a motorcycle operator’s endorsement or license
+    eighteen years, or who holds a motorcycle operator's endorsement or license
     bearing "novice" designation that is currently in effect as provided in Ohio
     R.C. 4507.13, shall operate a motorcycle on a highway, or be a passenger on
     a motorcycle, unless wearing a United States Department of Transportation-
-    approved protective helmet on the person’s head, and no other person shall
+    approved protective helmet on the person's head, and no other person shall
     be a passenger on a motorcycle operated by such a person unless similarly
     wearing a protective helmet. The helmet, safety glasses or other protective
     eye device shall conform with rules adopted by the Ohio Director of Public
@@ -177,7 +177,7 @@ or saddle.
     1. _(1)_ No person shall operate a motorcycle with a valid temporary permit
     and temporary instruction permit identification card issued by the Ohio
     Registrar of Motor Vehicles pursuant to Ohio R.C. 4507.05 unless the person,
-    at the time of such operation, is wearing on the person’s head a protective
+    at the time of such operation, is wearing on the person's head a protective
     helmet that has been approved by the United States Department of
     Transportation that conforms with rules adopted by the Director.
 
@@ -396,8 +396,8 @@ travel or parking, unless all of the following conditions are met:
     1. _(1)_ The person is fourteen or fifteen years of age and holds a valid
     probationary motorized bicycle license issued after the person has passed
     the test provided for in Ohio R.C. 4511.521, or the person is sixteen years
-    of age or older and holds either a valid commercial driver’s license issued
-    under Ohio R.C. Chapter 4506, or a driver’s license issued under Ohio R.C.
+    of age or older and holds either a valid commercial driver's license issued
+    under Ohio R.C. Chapter 4506, or a driver's license issued under Ohio R.C.
     Chapter 4507, or a valid motorized bicycle license issued after the person
     has passed the test provided for in Ohio R.C. 4511.521, except that if a
     person is sixteen years of age, has a valid probationary motorized bicycle
@@ -408,7 +408,7 @@ travel or parking, unless all of the following conditions are met:
     by the Ohio Director of Public Safety and is in proper working order;
 
     3. _(3)_ The person, if under eighteen years of age, is wearing a protective
-    helmet on the person’s head with the chin strap properly fastened, and the
+    helmet on the person's head with the chin strap properly fastened, and the
     motorized bicycle is equipped with a rear-view mirror; and
 
     4. _(4)_ The person operates the motorized bicycle when practicable within
@@ -429,7 +429,7 @@ vehicle upon any path set aside for the exclusive use of bicycles, when an
 appropriate sign giving notice of such use is posted on the path. Nothing in
 this section shall be construed to affect any rule of the Ohio Director of
 Natural Resources governing the operation of motor vehicles, snowmobiles,
-all-purpose vehicles, and bicycles on lands under the Director’s jurisdiction.
+all-purpose vehicles, and bicycles on lands under the Director's jurisdiction.
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
@@ -474,7 +474,7 @@ the third degree.
     4. _(4)_ Subsections (a)(2) and (a)(3) of this section do not apply to a law
     enforcement officer, or other person sworn to enforce the criminal and
     traffic laws of the state, using an electric bicycle while in the
-    performance of the officer’s duties.
+    performance of the officer's duties.
 
 2. _(b)_
 

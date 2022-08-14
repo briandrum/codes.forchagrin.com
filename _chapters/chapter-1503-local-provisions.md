@@ -188,7 +188,7 @@ Two-and Three-family Dwellings, which is incorporated herein by reference:
     as to emit an alarm signal at all smoke alarm locations within the dwelling
     unit upon activation of any single smoke alarm. All smoke alarms shall be UL
     Listed and installed in accordance with the household fire warning
-    provisions of NFPA 72 and the manufacturer’s instructions. No occupancy
+    provisions of NFPA 72 and the manufacturer's instructions. No occupancy
     permit shall be granted until compliance with this section is determined by
     the Fire Chief of the Fire Department, the Officer in Charge of the Bureau
     of Fire Prevention, any member of the Bureau of Fire Prevention, the
@@ -295,6 +295,6 @@ obtain an occupancy permit.
 
 ## 1503.99   Penalty
 
-(Editor’s note: See Section 1501.99 for general Code penalty if no specific
+(Editor's note: See Section 1501.99 for general Code penalty if no specific
 penalty is provided.)  
 (Ord. 1975-970. Passed 4-15-75.)

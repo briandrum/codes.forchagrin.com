@@ -6,7 +6,7 @@ chapter_no: 145
 title: "Chapter 145: Chagrin Falls Arts Commission"
 ---
 
-Editor’s note: The Chagrin Falls Arts Commission was established by Ordinance
+Editor's note: The Chagrin Falls Arts Commission was established by Ordinance
 2006-53, passed August 28, 2006.
 
 * [145.01   Creation and composition](#14501-creation-and-composition)
@@ -23,8 +23,8 @@ Editor’s note: The Chagrin Falls Arts Commission was established by Ordinance
 
 ## 145.01   Creation and composition
 
-There is hereby created a commission to be known and designated as the “Chagrin
-Falls Arts Commission”, composed of three residents of the Municipality and one
+There is hereby created a commission to be known and designated as the "Chagrin
+Falls Arts Commission", composed of three residents of the Municipality and one
 member of Council. Resident members shall be appointed by the Mayor, subject to
 the confirmation of Council. Council shall appoint its representative annually
 at its organizational meeting.  
@@ -37,7 +37,7 @@ commencing January 1, provided that the term of the first commissioner appointed
 in 2006 shall expire December 31, 2007, the term of the second commissioner
 appointed in 2006 shall expire December 31, 2008, and the term of the third
 commissioner in 2006 shall expire December 31, 2009. In the event that a vacancy
-occurs during the term of any member, that member’s successor shall be appointed
+occurs during the term of any member, that member's successor shall be appointed
 for the unexpired term.  
 (Ord. 2006-53. Passed 8-28-06.)
 

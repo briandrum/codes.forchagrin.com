@@ -105,11 +105,11 @@ declared an "alley" by Council.
 
 ### 301.031   Beacon; hybrid beacon
 
-1. _(a)_ “Beacon” means a highway traffic signal with one or more signal
+1. _(a)_ "Beacon" means a highway traffic signal with one or more signal
 sections that operate in a flashing mode.  
 (ORC 4511.01(KKK))
 
-2. _(b)_ “Hybrid beacon” means a type of beacon that is intentionally placed in
+2. _(b)_ "Hybrid beacon" means a type of beacon that is intentionally placed in
 a dark mode between periods of operation where no indications are displayed and,
 when in operation, displays both steady and flashing traffic control signal
 indications.  
@@ -122,35 +122,35 @@ solely for use as a play vehicle by a child, that is propelled solely by human
 power upon which a person may ride, and that has two or more wheels, any of
 which is more than fourteen inches in diameter. (ORC 4511.01(G))
 
-2. _(b)_ "Motorized bicycle" or “moped” means any vehicle having either two
+2. _(b)_ "Motorized bicycle" or "moped" means any vehicle having either two
 tandem wheels or one wheel in the front and two wheels in the rear, that may be
 pedaled, and that is equipped with a helper motor of not more than fifty cubic
 centimeters piston displacement that produces not more than one brake horsepower
 and is capable of propelling the vehicle at a speed of no greater than twenty
 miles per hour on a level surface.
 
-    “Motorized bicycle” or “moped” does not include an electric bicycle.  
+    "Motorized bicycle" or "moped" does not include an electric bicycle.  
     (ORC 4511.01(H))
 
-3. _(c)_ “Electric bicycle” means a “class 1 electric bicycle”, a “class 2
-electric bicycle”, or a “class 3 electric bicycle” as defined in this section.  
+3. _(c)_ "Electric bicycle" means a "class 1 electric bicycle", a "class 2
+electric bicycle", or a "class 3 electric bicycle" as defined in this section.  
 (ORC 4511.01(RRR))
 
-    1. _(1)_ “Class 1 electric bicycle” means a bicycle that is equipped with
+    1. _(1)_ "Class 1 electric bicycle" means a bicycle that is equipped with
     fully operable pedals and an electric motor of less than seven hundred fifty
     watts that provides assistance only when the rider is pedaling and ceases to
     provide assistance when the bicycle reaches the speed of twenty miles per
     hour.  
     (ORC 4511.01(SSS))
 
-    2. _(2)_ “Class 2 electric bicycle” means a bicycle that is equipped with
+    2. _(2)_ "Class 2 electric bicycle" means a bicycle that is equipped with
     fully operable pedals and an electric motor of less than seven hundred fifty
     watts that may provide assistance regardless of whether the rider is
     pedaling and is not capable of providing assistance when the bicycle reaches
     the speed of twenty miles per hour.  
     (ORC 4511.01(TTT))
 
-    3. _(3)_ “Class 3 electric bicycle” means a bicycle that is equipped with
+    3. _(3)_ "Class 3 electric bicycle" means a bicycle that is equipped with
     fully operable pedals and an electric motor of less than seven hundred fifty
     watts that provides assistance only when the rider is pedaling and ceases to
     provide assistance when the bicycle reaches the speed of twenty-eight miles
@@ -271,7 +271,7 @@ thereon.
 
 ### 301.161   Highway maintenance vehicle
 
-“Highway maintenance vehicle” means a vehicle used in snow and ice removal or
+"Highway maintenance vehicle" means a vehicle used in snow and ice removal or
 road surface maintenance, including a snow plow, traffic line striper, road
 sweeper, mowing machine, asphalt distributing vehicle, or other such vehicle
 designed for use in specific highway maintenance activities.  
@@ -279,9 +279,9 @@ designed for use in specific highway maintenance activities.
 
 ### 301.162   Highway traffic signal
 
-“Highway traffic signal”means a power-operated traffic control device by which
-traffic is warned or directed to take some specific action. “Highway traffic
-signal” does not include a power-operated sign, steadily illuminated pavement
+"Highway traffic signal"means a power-operated traffic control device by which
+traffic is warned or directed to take some specific action. "Highway traffic
+signal" does not include a power-operated sign, steadily illuminated pavement
 markers, warning light, or steady burning electric lamp.  
 (ORC 4511.01(MMM))
 
@@ -329,7 +329,7 @@ divided into two or more clearly marked lanes for vehicular traffic.
 
 ### 301.183   Low-speed micromobility device
 
-“Low-speed micromobility device” means a device weighing less than 100 pounds
+"Low-speed micromobility device" means a device weighing less than 100 pounds
 that has handlebars, is propelled by an electric motor or human power, and has
 an attainable speed on a paved level surface of not more than twenty miles per
 hour when propelled by the electric motor.  
@@ -337,7 +337,7 @@ hour when propelled by the electric motor.
 
 ### 301.185   Median
 
-“Median” means the area between two roadways of a divided highway, measured from
+"Median" means the area between two roadways of a divided highway, measured from
 edge of traveled way to edge of traveled way, but excluding turn lanes. The
 width of a median may be different between intersections, between interchanges,
 and at opposite approaches of the same intersection.  
@@ -348,8 +348,8 @@ and at opposite approaches of the same intersection.
 "Motorcycle" means every motor vehicle, other than a tractor, having a seat or
 saddle for the use of the operator and designed to travel on not more than three
 wheels in contact with the ground, including but not limited to, motor vehicles
-known as "motor-driven cycle," "motor scooter," “autocycle,”,“cab- enclosed
-motorcycle” or "motorcycle" without regard to weight or brake horsepower.  
+known as "motor-driven cycle," "motor scooter," "autocycle,","cab-enclosed
+motorcycle" or "motorcycle" without regard to weight or brake horsepower.  
 (ORC 4511.01(C))
 
 ## 301.20   Motor vehicle
@@ -367,7 +367,7 @@ than ten miles and at a speed of twenty-five miles per hour or less.
 
 ### 301.201   Operate
 
-“Operate” means to cause or have caused movement of a vehicle.  
+"Operate" means to cause or have caused movement of a vehicle.  
 (ORC 4511.01(HHH))
 
 ## 301.21   Park or parking
@@ -406,7 +406,7 @@ or to make arrests for violations of traffic regulations.
 
 ### 301.251   Predicate motor vehicle or traffic offense
 
-“Predicate motor vehicle or traffic offense” means any of the following:
+"Predicate motor vehicle or traffic offense" means any of the following:
 
 1. _(a)_ A violation of Ohio R.C. 4511.03, 4511.051, 4511.12, 4511.132, 4511.16,
 4511.20, 4511.201, 4511.21, 4511.211, 4511.213, 4511.22, 4511.23, 4511.25,
@@ -439,11 +439,11 @@ ownership used for vehicular travel by the owner and those having express or
 implied permission from the owner but not by other persons.  
 (ORC 4511.01(DD))
 
-2. _(b)_ “Private road open to public travel” means a private toll road or road,
+2. _(b)_ "Private road open to public travel" means a private toll road or road,
 including any adjacent sidewalks that generally run parallel to the road, within
 a shopping center, airport, sports arena, or other similar business or
 recreation facility that is privately owned but where the public is allowed to
-travel without access restrictions. “Private road open to public travel”
+travel without access restrictions. "Private road open to public travel"
 includes a gated toll road but does not include a road within a private gated
 property where access is restricted at all times, a parking area, a driving
 aisle within a parking area, or a private grade crossing.  
@@ -516,7 +516,7 @@ residences and buildings in use for business.
 1. _(a)_ The right of a vehicle or pedestrian to proceed uninterruptedly in a
 lawful manner in the direction in which it or the individual is moving in
 preference to another vehicle or pedestrian approaching from a different
-direction into its or the individual’s path;
+direction into its or the individual's path;
 
 2. _(b)_ A general term denoting land, property or the interest therein, usually
 in the configuration of a strip, acquired for or devoted to transportation
@@ -527,7 +527,7 @@ the control of the State or local authority.
 
 ### 301.321   Road service vehicle
 
-“Road service vehicle” means wreckers, utility repair vehicles, and state,
+"Road service vehicle" means wreckers, utility repair vehicles, and state,
 county, and municipal service vehicles equipped with visual signals by means of
 flashing, rotating, or oscillating lights.  
 (ORC 4511.01(JJJ))
@@ -579,7 +579,7 @@ another vehicle.
 
 ### 301.361   Shared-use path
 
-“Shared-use path” means a bikeway outside the traveled way and physically
+"Shared-use path" means a bikeway outside the traveled way and physically
 separate from motorized vehicular traffic by an open space or barrier and either
 within the highway right-of-way or within an independent alignment. A shared-use
 path also may be used by pedestrians, including skaters, joggers, users of
@@ -658,7 +658,7 @@ street or highway or private road open to public travel.
 
 ## 301.46   Traffic control devices
 
-“Traffic control device” means a flagger, sign, signal, marking, or other device
+"Traffic control device" means a flagger, sign, signal, marking, or other device
 used to regulate, warn or guide traffic, placed on, over, or adjacent to a
 street, highway, private road open to public travel, pedestrian facility, or
 shared-use path by authority of a public agency or official having jurisdiction,
@@ -706,7 +706,7 @@ official traffic control devices.
 
 "Vehicle" means every device, including a motorized bicycle and an electric
 bicycle, in, upon or by which any person or property may be transported or drawn
-upon a street or highway, except that “vehicle” does not include any motorized
+upon a street or highway, except that "vehicle" does not include any motorized
 wheelchair, any electric personal assistive mobility device, any low- speed
 micromobility device, or any device, other than a bicycle, that is moved by
 human power.  
@@ -721,6 +721,6 @@ miles per hour.
 
 ## 301.53   Waste collection vehicle
 
-“Waste collection vehicle” means a vehicle used in the collection of garbage,
+"Waste collection vehicle" means a vehicle used in the collection of garbage,
 refuse, trash or recyclable materials.  
 (ORC 4511.01(RRR))

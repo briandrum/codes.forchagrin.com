@@ -58,81 +58,81 @@ thereof, within the municipal limits.
 
 For the purpose of this chapter, certain terms and words are hereby defined.
 Words used in the present tense shall include the future; the singular number
-shall include the plural and the plural, the singular; the word “building” shall
-include the word “structure”; and the word “shall” is mandatory. When not
+shall include the plural and the plural, the singular; the word "building" shall
+include the word "structure"; and the word "shall" is mandatory. When not
 defined in this chapter, words shall have the meanings ascribed to them in the
 Village of Chagrin Falls Zoning Code, Building Code, or model code adopted by
 the Village. If not otherwise defined, words have their ordinarily accepted
 meanings.
 
-1. _(a)_ “Approved” means authorized by the Building Inspector, Officer of the
+1. _(a)_ "Approved" means authorized by the Building Inspector, Officer of the
 Fire Prevention Bureau, the Chief Administrative Officer or the Board of Zoning
 Appeals as designated by the Codified Ordinances of the Village of Chagrin Falls
 to give approval to the matter in question.
 
-2. _(b)_ “Blighting or deteriorating influence” means a condition where a
+2. _(b)_ "Blighting or deteriorating influence" means a condition where a
 building, structure or premises is so poorly maintained that its condition,
 directly or indirectly, represents a threat to the health or safety of the
 general public or to persons living on adjoining property or in the area; or
 constitutes an unsanitary condition; lends itself to habitation or infestation
 by rodents, termites or other vermin.
 
-3. _(c)_ “Building or Structure” means buildings or structure as defined by
+3. _(c)_ "Building or Structure" means buildings or structure as defined by
 Section 1107.06 of the Codified Ordinances of the Village of Chagrin Falls.
 
-4. _(d)_ “Demolish” or “Demolition” means any act or process that destroys in
+4. _(d)_ "Demolish" or "Demolition" means any act or process that destroys in
 whole or in part any building or structure.
 
-5. _(e)_ “Deterioration” means the condition or appearance of the exterior of a
+5. _(e)_ "Deterioration" means the condition or appearance of the exterior of a
 building or part thereof, characterized by holes, breaks, rot, crumbling, or
 cracking, peeling or flaking of paint or other protective coating, rusting or
 other evidence of physical decay, neglect, excessive use, loss of effectiveness
 or lack of maintenance.
 
-6. _(f)_ “Exterior surface” means those portions of a building which may be
+6. _(f)_ "Exterior surface" means those portions of a building which may be
 viewed from public property or from any adjoining or other property in proximity
 to such building.
 
-7. _(g)_ “Exterior property area” means the open space on any premises.
+7. _(g)_ "Exterior property area" means the open space on any premises.
 
-8. _(h)_ “Good repair” or “good condition” means that a premises, structure or
+8. _(h)_ "Good repair" or "good condition" means that a premises, structure or
 parts thereof is structurally sound so as to resist decay or deterioration and
 capable of performing the function for which it was designed for or intended to
 be used.
 
-9. _(i)_ “Garbage” means animal, vegetable, fruit or mineral waste resulting
+9. _(i)_ "Garbage" means animal, vegetable, fruit or mineral waste resulting
 from the handling, preparation, cooking and consumption of food.
 
-10. _(j)_ “Hazard, fire” means any material, condition or act which causes,
+10. _(j)_ "Hazard, fire" means any material, condition or act which causes,
 contributes to or increases the risk of fire to a greater degree than that
 customarily recognized as normal by the Officer of the Fire Prevention Bureau,
 or that which may reduce, obstruct, hinder, or delay fire protection, fire
 prevention, suppression or extinguishment.
 
-11. _(k)_ “Hazard, public safety” means any condition that places a person’s
+11. _(k)_ "Hazard, public safety" means any condition that places a person's
 life, health, or property in immediate, impending peril, or could cause serious
 life-threatening illness, injury or death at any time.
 
-12. _(l)_ “Infestation” means the presence of insects, rodents, vermin or other
+12. _(l)_ "Infestation" means the presence of insects, rodents, vermin or other
 pests on the premises which constitutes a health hazard.
 
-13. _(m)_ “Landscaping” means the decorative and functional alteration and
+13. _(m)_ "Landscaping" means the decorative and functional alteration and
 planting of grounds as part of a developed building site with grass, vegetation
 and other materials customarily used in residential landscaping, including, but
 not limited to, mulch, topsoil, sand, gravel, stone, landscape timbers or any
 other similar material.
 
-14. _(n)_ “Local agent or representative” means a company, person or designated
+14. _(n)_ "Local agent or representative" means a company, person or designated
 agent who can be called if emergencies occur and who may provide inspection
 access or make immediate repairs to windows, doors, alarm systems, or other
 facilities or utilities. The company, person, or designated agent shall be at
 least 18 years of age.
 
-15. _(o)_ “Maintenance” or “maintained” means any act of servicing or repair to
+15. _(o)_ "Maintenance" or "maintained" means any act of servicing or repair to
 any building, structure or service equipment, or to the exterior property areas,
 to continue or improve its conditions so as to be free from nuisance.
 
-16. _(p)_ “Nuisance” means and includes:
+16. _(p)_ "Nuisance" means and includes:
 
     1. _(1)_ That which is defined by the statutes of the State of Ohio, or the
     ordinances of the Village and thereby declared to be a nuisance;
@@ -146,58 +146,58 @@ to continue or improve its conditions so as to be free from nuisance.
 
     5. _(5)_ Fire hazards.
 
-17. _(q)_ “Occupant” means a person occupying a dwelling unit for residential
+17. _(q)_ "Occupant" means a person occupying a dwelling unit for residential
 purposes or having actual possession of such a dwelling unit, or occupying space
 on a premises for the conduct of a trade, service, profession, business,
 industry, civic or non- profit, or other similar nonresidential purpose.
 
-18. _(r)_ “Operator” means a person who has charge, care or control of any
+18. _(r)_ "Operator" means a person who has charge, care or control of any
 building, structure, premises or part thereof.
 
-19. _(s)_ “Owner” means the owner of the premises or one of the owners of the
+19. _(s)_ "Owner" means the owner of the premises or one of the owners of the
 premises if owned by more than one person, including the holder of title thereto
 subject to contract of purchase, a vendee in possession, a mortgagee or receiver
 in possession, a lessee or joint lessees of the whole thereof, or an agent or
 any other person, firm, corporation or fiduciary directly in control of the
 premises.
 
-20. _(t)_ “Person” means an individual, firm, partnership, limited liability
+20. _(t)_ "Person" means an individual, firm, partnership, limited liability
 company, limited liability partnership, association, joint venture, corporation,
 trust, or any other legal entity, including his or its agents.
 
-21. _(u)_ “Premises” means a lot, parcel of plot of land including the buildings
+21. _(u)_ "Premises" means a lot, parcel of plot of land including the buildings
 or structures thereon.
 
-22. _(v)_ “Repair” means the renewal, replacement or reinforcement of an
+22. _(v)_ "Repair" means the renewal, replacement or reinforcement of an
 existing part of a building, in keeping with its existing type of construction,
 arrangement of parts and occupancy, for maintenance purposes, including
 replacements and reinforcement because of fire damage, damage caused by the
 force of objects and the elements, acts of nature against a building, and
 failure to maintain a building in good condition.
 
-23. _(w)_ “Rubbish” means combustible and noncombustible waste materials, except
+23. _(w)_ "Rubbish" means combustible and noncombustible waste materials, except
 garbage, such as residue from the burning of any combustible material, paper,
 rags, rubber, leather, tree branches, yard trimmings, tin cans, metal, glass,
 crockery, tires, construction debris and similar materials.
 
-24. _(x)_ “Sanitation” means a condition of cleanliness including the removal of
+24. _(x)_ "Sanitation" means a condition of cleanliness including the removal of
 dirt and waste materials, which precludes the probability of infestation or
 disease transmission.
 
-25. _(y)_ “Secondary or appurtenant structure” means a structure, the use of
+25. _(y)_ "Secondary or appurtenant structure" means a structure, the use of
 which is incidental or accessory to that of the main building and which is
 attached to the main building or located on the same premises with it, including
 sheds, barns, garages, retaining walls, fences, exterior walks, rails and steps.
 
-26. _(z)_ “Substantial repair” means construction work on a main building or
+26. _(z)_ "Substantial repair" means construction work on a main building or
 portion thereof the cost of which equals or exceeds fifty percent of its current
 replacement value.
 
-27. _(aa)_ “Weathertight” means the protection of a structure from exposure to
+27. _(aa)_ "Weathertight" means the protection of a structure from exposure to
 the elements so as not to show signs of deterioration, decay or damage as a
 result of such exposure.
 
-28. _(bb)_ “Workmanlike” means executed in a skilled manner with a quality of
+28. _(bb)_ "Workmanlike" means executed in a skilled manner with a quality of
 construction that is generally plumb, level, square in line, undamaged and
 without marring adjacent work or materials.  
 (Ord. 2016-61. Passed 10-24-16.)
@@ -654,9 +654,9 @@ also require that the building, structure or a portion of those be vacated, not
 be reoccupied, or used until the specified repairs and improvements are
 completed, inspected, and approved by the Building Inspector. The Building
 Inspector may cause to be posted at each entrance to the building or structure a
-notice as follows: ”THIS STRUCTURE IS IN A DANGEROUS CONDITION AND HAS BEEN
+notice as follows: "THIS STRUCTURE IS IN A DANGEROUS CONDITION AND HAS BEEN
 CONDEMNED AND ITS USE HAS BEEN PROHIBITED BY THE BUILDING INSPECTOR FOR THE
-VILLAGE OF CHAGRIN FALLS.” The notice shall remain posted until the required
+VILLAGE OF CHAGRIN FALLS." The notice shall remain posted until the required
 corrections are made or demolition is completed. No person shall remove the
 notice without written permission of the Building Inspector, nor shall any
 person use or enter the building or structure except for the purpose of making
@@ -702,7 +702,7 @@ structure.
 
 5. _(e)_ Except as otherwise provided in this section, the Building Inspector
 shall give written notice informing the owner, agent, or person in control,
-mortgagee of record and lien holders of record of the Village’s intention to
+mortgagee of record and lien holders of record of the Village's intention to
 demolish and remove the unsafe building or structure at least thirty (30) days
 before the intended action by the Village. The notice may be effective
 concurrently with the violation notice.
@@ -719,7 +719,7 @@ the excavation remaining on the property on which the demolished dwelling was
 located pursuant to the requirements of the Codified Ordinances including, but
 not limited to the requirements of Chapter 901.
 
-8. _(h)_ Any and all expenses or costs, including but not limited to attorney’s
+8. _(h)_ Any and all expenses or costs, including but not limited to attorney's
 fees, costs of inspection, administrative staff and support staff, property
 maintenance costs, court costs, title search fees, process server fees, skip
 tracing expenses, and costs of collection or prosecution, including discovery
@@ -735,7 +735,7 @@ expenses of prosecution or collection related thereto.
 
 10. _(j)_ If within thirty (30) days from the date the Building Inspector sends
 a statement of charges and costs incurred to the last known address of the
-property owner or the tax mailing address listed at the Fiscal Officer’s office
+property owner or the tax mailing address listed at the Fiscal Officer's office
 as the custodian of the real property tax records for Cuyahoga County, the owner
 fails to pay for the costs of removal, repair, alteration, securing or boarding
 or of inspections of violations that have not been remedied, including, but not
@@ -751,7 +751,7 @@ cost of all abatement activity as defined in Revised Code Section 715.261.
 making expenses and costs a lien upon the lands, to be collected as other taxes
 and returned to the Village with the General Fund, with special accounting under
 Revised Code Section 715.261. Notwithstanding the method of collection set forth
-in this division, the Director of Law, in the Director’s sole discretion, may
+in this division, the Director of Law, in the Director's sole discretion, may
 take any action necessary to collect the costs of demolition, boarding, or other
 nuisance abatement from the owner or other responsible party, including but not
 limited to filing of legal proceedings, referring the amount due for collection

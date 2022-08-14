@@ -6,7 +6,7 @@ chapter_no: 955
 title: "Chapter 955: Public Library"
 ---
 
-Editor’s note: There are no sections in Chapter 955. This chapter has been established to provide a place for cross references
+Editor's note: There are no sections in Chapter 955. This chapter has been established to provide a place for cross references
 and any future legislation.
 
 ## Cross references

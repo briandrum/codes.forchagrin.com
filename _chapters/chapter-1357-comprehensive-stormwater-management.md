@@ -74,7 +74,7 @@ property within the Village of Chagrin Falls to:
 
     9. _(9)_ Design sites to minimize the number of stream crossings and the
     width of associated disturbance in order to minimize the Village of Chagrin
-    Falls’ future expenses related to the maintenance and repair of stream
+    Falls' future expenses related to the maintenance and repair of stream
     crossings.
 
     10. _(10)_ Maintain, promote, and re-establish conditions necessary for
@@ -124,7 +124,7 @@ maintenance procedures, treatment requirements, and other management practices
 (both structural and non-structural) to prevent or reduce the pollution of water
 resources and to control stormwater volume and rate. This includes practices to
 control runoff, spillage or leaks, sludge or waste disposal, or drainage from
-raw material storage. For guidance, please see U.S. EPA’s National Menu of BMPs
+raw material storage. For guidance, please see U.S. EPA's National Menu of BMPs
 at
 [http://water.epa.gov/polwaste/npdes/swbmp/index.cfm](https://water.epa.gov/polwaste/npdes/swbmp/index.cfm).
 
@@ -202,7 +202,7 @@ times on different schedules under one plan.
 21. _(u)_ Low impact development: Low-impact development (LID) is a site design
 approach, which seeks to integrate hydrologically functional design with
 pollution prevention measures to compensate for land development impacts on
-hydrology and water quality. LID’s goal is to mimic natural hydrology and
+hydrology and water quality. LID's goal is to mimic natural hydrology and
 processes by using small-scale, decentralized practices that infiltrate,
 evaporate, detain, and transpire stormwater. LID stormwater control measures
 (SCMs) are uniformly and strategically located throughout the site.
@@ -288,7 +288,7 @@ federal government, other legal entity, or an agent thereof that is responsible
 for the overall construction site.
 
 37. _(kk)_ Soil disturbing activity: Clearing, grading, excavating, filling, or
-other alteration of the earth’s surface where natural or human made ground cover
+other alteration of the earth's surface where natural or human made ground cover
 is destroyed that may result in, or contribute to, increased stormwater quantity
 and/or decreased stormwater quality.
 
@@ -305,7 +305,7 @@ maintenance procedures, treatment requirements, and other management practices
 (both structural and non-structural) to prevent or reduce the pollution of water
 resources and to control stormwater volume and rate. This includes practices to
 control runoff, spillage or leaks, sludge or waste disposal, or drainage from
-raw material storage. For guidance, please see U.S. EPA’s National Menu of BMPs
+raw material storage. For guidance, please see U.S. EPA's National Menu of BMPs
 at
 [http://water.epa.gov/polwaste/npdes/swbmp/index.cfm](https://water.epa.gov/polwaste/npdes/swbmp/index.cfm).
 
@@ -479,8 +479,8 @@ zoning permit.
 1. _(a)_ Ohio Environmental Protection Agency (Ohio EPA) National Pollutant
 Discharge Elimination System (NPDES) Permits authorizing stormwater discharges
 associated with construction activity or the most current version thereof: Proof
-of compliance with these requirements shall be the applicant’s Notice of Intent
-(NOI) number from Ohio EPA, a copy of the Ohio EPA Director’s Authorization
+of compliance with these requirements shall be the applicant's Notice of Intent
+(NOI) number from Ohio EPA, a copy of the Ohio EPA Director's Authorization
 Letter for the NPDES Permit, or a letter from the site owner certifying and
 explaining why the NPDES Permit is not applicable.
 
@@ -493,9 +493,9 @@ States, shall be delineated by protocols accepted by the U.S. Army Corps of
 Engineers at the time of application of this regulation.
 
 3. _(c)_ Ohio EPA Isolated Wetland Permit: Proof of compliance shall be a copy
-of Ohio EPA’s Isolated Wetland Permit application tracking number, public
+of Ohio EPA's Isolated Wetland Permit application tracking number, public
 notice, project approval, or a letter from the site owner certifying that a
-qualified professional has surveyed the site and determined that Ohio EPA’s
+qualified professional has surveyed the site and determined that Ohio EPA's
 Isolated Wetlands Permit is not applicable. Isolated wetlands shall be
 delineated by protocols accepted by the U.S. Army Corps of Engineers at the time
 of application of this regulation.
@@ -504,7 +504,7 @@ of application of this regulation.
 of the U.S. Army Corps of Engineers Individual Permit application, public
 notice, or project approval, if an Individual Permit is required for the
 development project. If an Individual Permit is not required, the site owner
-shall submit proof of compliance with the U.S. Army Corps of Engineer’s
+shall submit proof of compliance with the U.S. Army Corps of Engineer's
 Nationwide Permit Program. This shall include one of the following:
 
     1. _(1)_ A letter from the site owner certifying that a qualified
@@ -619,7 +619,7 @@ information provided:
         12. _(L)_ For each SCM, identify the drainage area, percent impervious
         cover within the drainage area, runoff coefficient for water quality
         volume, peak discharge, and the time of concentration for each
-        subwatershed per Appendix 1 of Ohio’s stormwater manual, Rainwater and
+        subwatershed per Appendix 1 of Ohio's stormwater manual, Rainwater and
         Land Development. Pervious and impervious areas should be treated as
         separate subwatersheds unless allowed at the discretion of the community
         engineer. Identify the SCM surface area, discharge and dewatering time,
@@ -908,7 +908,7 @@ runoff patterns, flows, and volumes; and to meet the following criteria:
     clearing and grubbing practices; and maintaining unconcentrated stormwater
     runoff to and through these areas. Post-construction stormwater practices
     shall provide perpetual management of runoff quality and quantity so that a
-    receiving stream’s physical, chemical and biological characteristics are
+    receiving stream's physical, chemical and biological characteristics are
     protected and ecological functions are maintained.
 
     10. _(10)_ Preservation of Wetland Hydrology: Concentrated stormwater runoff
@@ -958,7 +958,7 @@ in flow velocities. This shall include but not be limited to:
     property.
 
     2. _(2)_ Off-site Stormwater Discharges: Off-site stormwater runoff that
-    discharges to or across the applicant’s development site shall be conveyed
+    discharges to or across the applicant's development site shall be conveyed
     through the stormwater conveyance system planned for the development site at
     its existing peak flow rates during each design storm. Off-site flows shall
     be diverted around stormwater quality control facilities or, if this is not
@@ -1026,7 +1026,7 @@ in flow velocities. This shall include but not be limited to:
     Falls:
 
         1. _(A)_ Water resource crossings other than bridges shall be designed
-        to convey the stream’s flow for the minimum 25 year, 24 hour storm.
+        to convey the stream's flow for the minimum 25 year, 24 hour storm.
 
         2. _(B)_ Bridges, open bottom arch or spans are the preferred crossing
         technique and shall be considered in the planning phase of the
@@ -1074,7 +1074,7 @@ in flow velocities. This shall include but not be limited to:
     flooding of buildings or related structures. The peak 100-year water surface
     elevation along flood routing paths shall be at least one foot below the
     finished grade elevation of all structures. When designing the flood routing
-    paths, the conveyance capacity of the site’s storm sewers shall be taken
+    paths, the conveyance capacity of the site's storm sewers shall be taken
     into consideration.
 
     8. _(8)_ Compensatory Flood Storage Mitigation: In order to preserve
@@ -1118,13 +1118,13 @@ in flow velocities. This shall include but not be limited to:
         For sites less than five (5) acres, but required to create a
         comprehensive stormwater management plan, the Village Engineer may
         approve other SCMs if the applicant demonstrates to the Village
-        Engineer’s satisfaction that these SCMs meet the objectives of this
+        Engineer's satisfaction that these SCMs meet the objectives of this
         regulation as stated in Section 1357.09(c)(6) of this Chapter.
 
         3. _(C)_ For sites greater than five (5) acres, or less than five (5)
         acres but part of a larger common plan of development or sale which will
         disturb five (5) or more acres, the Village Engineer may approve other
-        SCMs if the applicant demonstrates to the [community engineer’s]
+        SCMs if the applicant demonstrates to the [community engineer's]
         satisfaction that these SCMs meet the objectives of this regulation as
         stated in Section 1357.09(c)(6) of this Chapter, and has prior written
         approval from the Ohio EPA.
@@ -1571,7 +1571,7 @@ obstruct the free flow of stormwater and the passage of inspectors and
 maintenance equipment; and against the changing of final grade from that
 described by the final grading plan approved by the Village of Chagrin Falls.
 Any re-grading and/or obstruction placed within a maintenance easement may be
-removed by the Village of Chagrin Falls at the property owners’ expense.  
+removed by the Village of Chagrin Falls at the property owners' expense.  
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.12   Maintenance and final inspection approval 

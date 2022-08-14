@@ -277,7 +277,7 @@ and heat pumps shall be:
     2. _(2)_ Screened from view with evergreen plant material or decorative
     fencing;
 
-    3. _(3)_ Installed in conformance with the manufacturer’s specifications;
+    3. _(3)_ Installed in conformance with the manufacturer's specifications;
 
     4. _(4)_ Fueled by natural gas;
 
@@ -303,7 +303,7 @@ are permitted only if in conformance with the following standards:
 
     2. _(2)_ **Area.**  The occupation is conducted within a completely enclosed
     dwelling unit and any space used for sales, service or production occupies
-    no more than twenty-five percent (25%) of the dwelling unit’s floor area nor
+    no more than twenty-five percent (25%) of the dwelling unit's floor area nor
     more than 150 square feet.
 
     3. _(3)_ **Sales.** All merchandise sold on the premises is produced on the
@@ -320,7 +320,7 @@ are permitted only if in conformance with the following standards:
     in which the activity occurs is not diminished.
 
     6. _(6)_ **Parking.** The occupation does not necessitate the parking of
-    more automobiles than can be accommodated in the dwelling’s driveway.
+    more automobiles than can be accommodated in the dwelling's driveway.
 
     7. _(7)_ **Nursery schools/group instruction.** No class session exceeds an
     enrollment of twelve students, and no session begins before 9:00 a.m. nor

@@ -56,4 +56,4 @@ sufficient to prevent the accumulation of mud on the wheels of such vehicles.
 
 ## 1351.99   Penalty
 
-(Editor’s note: See Section 1303.99 for general Code penalty if no specific penalty is provided.)
+(Editor's note: See Section 1303.99 for general Code penalty if no specific penalty is provided.)

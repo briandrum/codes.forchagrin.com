@@ -12,7 +12,7 @@ title: "Chapter 303: Enforcement, Impounding and Penalty"
 * [303.02   Traffic direction in emergencies; obedience to school guard](#30302-traffic-direction-in-emergencies-obedience-to-school-guard)
 * [303.03   Officer may remove ignition key](#30303-officer-may-remove-ignition-key)
 * [303.04   Road workers, motor vehicles and equipment excepted](#30304-road-workers-motor-vehicles-and-equipment-excepted)
-* [303.041   Emergency, public safety and coroner’s vehicles exempt](#303041-emergency-public-safety-and-coroners-vehicles-exempt)
+* [303.041   Emergency, public safety and coroner's vehicles exempt](#303041-emergency-public-safety-and-coroners-vehicles-exempt)
 * [303.05   Application to persons riding, driving animals upon roadway](#30305-application-to-persons-riding-driving-animals-upon-roadway)
 * [303.06   Freeway use prohibited by pedestrians, bicycles and animals](#30306-freeway-use-prohibited-by-pedestrians-bicycles-and-animals)
 * [303.07   Application to drivers ofgovernment vehicles](#30307-application-to-drivers-ofgovernment-vehicles)
@@ -44,7 +44,7 @@ traffic.
 
 2. _(b)_ No person shall operate a motor vehicle so as willfully to elude or
 flee a police officer after receiving a visible or audible signal from a police
-officer to bring the person’s motor vehicle to a stop. (Editor’s note: Refer to
+officer to bring the person's motor vehicle to a stop. (Editor's note: Refer to
 Ohio R.C. 2921.331 for filing charges under subsection (b) hereof since the jury
 or judge as trier of fact may determine the violation to be a felony.)
 
@@ -73,9 +73,9 @@ offense, the court shall impose a class one suspension as described in division
 (A)(1) of that section. The court may grant limited driving privileges to the
 offender on a suspension imposed for a misdemeanor violation of this section as
 set forth in Ohio R.C. 4510.021. No judge shall suspend the first three years of
-suspension under a class two suspension of an offender’s license, permit or
+suspension under a class two suspension of an offender's license, permit or
 privilege required by this division on any portion of the suspension under a
-class one suspension of an offender’s license, permit, or privilege required by
+class one suspension of an offender's license, permit, or privilege required by
 this subsection.  
 (ORC 2921.331)
 
@@ -142,13 +142,13 @@ R.C. 4511.66 and 5577.01 to 5577.09.
     equipment from criminal liability for a violation of Ohio R.C. 5577.01 to
     5577.09.
 
-4. _(d)_ As used in this section, “engaged in the performance of official
-duties” includes driving a highway maintenance vehicle to and from the
+4. _(d)_ As used in this section, "engaged in the performance of official
+duties" includes driving a highway maintenance vehicle to and from the
 manufacturer or vehicle maintenance provider and transporting a highway
 maintenance vehicle, equipment, or materials to and from a work location.  
 (ORC 4511.04)
 
-### 303.041   Emergency, public safety and coroner’s vehicles exempt
+### 303.041   Emergency, public safety and coroner's vehicles exempt
 
 1. _(a)_ Ohio R.C. 4511.12, 4511.13, 4511.131, 4511.132, 4511.14, 4511.202,
 4511.21, 4511.211, 4511.22, 4511.23, 4511.25, 4511.26, 4511.27, 4511.28,
@@ -172,9 +172,9 @@ property upon the highway.
 4511.31, 4511.32, 4511.33, 4511.35, 4511.36, 4511.37, 4511.38 and 4511.66, and
 all sections of this Traffic Code or other municipal ordinances that are
 substantially equivalent to the sections listed above, do not apply to a
-coroner, deputy coroner, or coroner’s investigator operating a motor vehicle in
+coroner, deputy coroner, or coroner's investigator operating a motor vehicle in
 accordance with Ohio R.C. 4513.171. This section does not relieve a coroner,
-deputy coroner, or coroner’s investigator operating a motor vehicle from the
+deputy coroner, or coroner's investigator operating a motor vehicle from the
 duty to drive with due regard for the safety of all persons and property upon
 the highway.  
 (ORC 4511.042)
@@ -382,7 +382,7 @@ the transaction.
     1. _(1)_ The Chief of Police shall maintain a record of motor vehicles that
     the Chief orders into storage pursuant to subsection (a)(1) of this section.
     The record shall include an entry for each such motor vehicle that
-    identifies the motor vehicle’s license number, make, model and color, the
+    identifies the motor vehicle's license number, make, model and color, the
     location from which it was removed, the date and time of the removal, the
     telephone number of the person from whom it may be recovered, and the
     address of the place to which it has been taken and from which it may be
@@ -393,7 +393,7 @@ the transaction.
     location.
 
     2. _(2)_ Any person who registers a complaint that is the basis of the
-    Police Chief’s order for the removal and storage of a motor vehicle under
+    Police Chief's order for the removal and storage of a motor vehicle under
     subsection (a)(1) of this section shall provide the identity of the law
     enforcement agency with which the complaint was registered to any person who
     identifies self as the owner or operator of the motor vehicle and requests
@@ -438,8 +438,8 @@ the transaction.
 
         2. _(B)_ Retrieve any personal item from a vehicle if it would endanger
         the safety of the owner unless the owner agrees to sign a waiver of
-        liability. For purposes of subsection (d)(2) of this section, “personal
-        items” do not include any items that are attached to the motor vehicle.
+        liability. For purposes of subsection (d)(2) of this section, "personal
+        items" do not include any items that are attached to the motor vehicle.
 
     3. _(3)_ If a motor vehicle that is ordered into storage pursuant to
     subsection (a)(1) of this section remains unclaimed by the owner for thirty
@@ -595,7 +595,7 @@ any posted parking condition or regulation.
     vehicle, shall provide notice to the Police Department concerning all of the
     following:
 
-        1. _(A)_ The vehicle’s license number, make, model and color;
+        1. _(A)_ The vehicle's license number, make, model and color;
 
         2. _(B)_ The location from which the vehicle was removed;
 
@@ -608,7 +608,7 @@ any posted parking condition or regulation.
         recovered.
 
     2. _(2)_ The Chief of Police shall maintain a record of any vehicle removed
-    from private property in the Chief’s jurisdiction that is established as a
+    from private property in the Chief's jurisdiction that is established as a
     private tow-away zone of which the Chief has received notice under this
     section. The record shall include all information submitted by the towing
     service. The Chief shall provide any information in the record that pertains
@@ -630,8 +630,8 @@ any posted parking condition or regulation.
 
         1. _(A)_ Within five business days after the Registrar of Motor Vehicles
         provides the identity of the owner and any lienholder of the motor
-        vehicle, if the vehicle remains unclaimed, to the owner’s and
-        lienholder’s last known address by certified or express mail with return
+        vehicle, if the vehicle remains unclaimed, to the owner's and
+        lienholder's last known address by certified or express mail with return
         receipt requested or by a commercial carrier service utilizing any form
         of delivery requiring a signed receipt;
 
@@ -705,7 +705,7 @@ any posted parking condition or regulation.
     fee. The owner of the vehicle shall not retrieve any personal items from a
     vehicle if it would endanger the safety of the owner, unless the owner
     agrees to sign a waiver of liability. For purposes of subsection (g)(4) of
-    this section, “personal items” do not include any items that are attached to
+    this section, "personal items" do not include any items that are attached to
     the vehicle.
 
 8. _(h)_ No person shall remove, or cause the removal of any vehicle from
@@ -721,8 +721,8 @@ private property that is established as a private tow-away zone under subsection
 10. _(j)_ Whoever violates subsection (h) of this section is guilty of a minor
 misdemeanor.
 
-11. _(k)_ As used in this section, “owner of a private property” or “owner of
-the private property” includes, with respect to a private property, any of the
+11. _(k)_ As used in this section, "owner of a private property" or "owner of
+the private property" includes, with respect to a private property, any of the
 following:
 
     1. _(1)_ Any person who holds title to the property;
@@ -789,19 +789,19 @@ this section.
 1. _(a)_ As used in this section and each section of the Traffic Code where
 specified, all of the following apply:
 
-    1. _(1)_ “Distracted” means doing either of the following while operating a
+    1. _(1)_ "Distracted" means doing either of the following while operating a
     vehicle:
 
         1. _(A)_ Using a handheld electronic wireless communications device, as
         defined in Ohio R.C. 4511.204 except when utilizing any of the
         following:
 
-            1. _(1)_ The device’s speakerphone function;
+            1. _(1)_ The device's speakerphone function;
 
             2. _(2)_ A wireless technology standard for exchanging data over
             short distances;
 
-            3. _(3)_ A “voice-operated or hands-free” device that allows the
+            3. _(3)_ A "voice-operated or hands-free" device that allows the
             person to use the electronic wireless communications device without
             the use of either hand except to activate, deactivate, or initiate a
             feature or function;
@@ -813,21 +813,21 @@ specified, all of the following apply:
         of a vehicle and impairs, or reasonably would be expected to impair, the
         ability of the operator to drive the vehicle safely.
 
-    2. _(2)_ “Distracted” does not include operating a motor vehicle while
+    2. _(2)_ "Distracted" does not include operating a motor vehicle while
     wearing an earphone or earplug over or in both ears at the same time. A
     person who so wears earphones or earplugs may be charged with a violation of
     Section 331.43.
 
-    3. _(3)_ “Distracted” does not include conducting any activity while
+    3. _(3)_ "Distracted" does not include conducting any activity while
     operating a utility service vehicle or a vehicle for or on behalf of a
     utility, provided that the driver of the vehicle is acting in response to an
     emergency, power outage or a circumstance affecting the health or safety of
     individuals. As used in subsection (a)(3) of this section:
 
-        1. _(A)_ “Utility” means an entity specified in division (A), (C), (D),
+        1. _(A)_ "Utility" means an entity specified in division (A), (C), (D),
         (E) or (G) of Ohio R.C. 4905.03.
 
-        2. _(B)_ “Utility service vehicle” means a vehicle owned or operated by
+        2. _(B)_ "Utility service vehicle" means a vehicle owned or operated by
         a utility.
 
 2. _(b)_ If an offender violates any section of this Traffic Code which provides
@@ -842,7 +842,7 @@ more than one hundred dollars ($100.00) as follows:
     Traffic Code that indicates that the offender was distracted while
     committing the violation and that the distracting activity was a
     contributing factor to the commission of the violation, the offender may
-    enter a written plea of guilty and waive the offender’s right to contest the
+    enter a written plea of guilty and waive the offender's right to contest the
     ticket, citation or summons in a trial provided that the offender pays the
     total amount of the fine established for the violation and pays the
     additional fine of one hundred dollars ($100.00).
@@ -855,7 +855,7 @@ more than one hundred dollars ($100.00) as follows:
         completed the course. The offender shall be required to pay the total amount
         of the fine established for the violation, but shall not be required to pay the
         additional fine of one hundred dollars ($100.00), so long as the offender
-        submits to the court both the offender’s payment in full and such written
+        submits to the court both the offender's payment in full and such written
         evidence.
 
     2. _(2)_ If the offender appears in person to contest the ticket, citation
@@ -874,5 +874,5 @@ more than one hundred dollars ($100.00) as follows:
     shall be required to pay the total amount of the fine established for the
     violation, but shall not be required to pay the additional fine of not more
     than one hundred dollars ($100.00), so long as the offender submits to the
-    court the offender’s payment and such written evidence.  
+    court the offender's payment and such written evidence.  
     (ORC 4511.991)

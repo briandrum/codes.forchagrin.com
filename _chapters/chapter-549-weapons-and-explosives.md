@@ -69,18 +69,18 @@ fire a succession of cartridges with a single function of the trigger.
 
 6. _(f)_ "Sawed-off firearm" means a shotgun with a barrel less than eighteen
 inches long, or a rifle with a barrel less than sixteen inches long, or a
-shotgun or rifle less than twenty-six inches long overall. “Sawed-off firearm”
+shotgun or rifle less than twenty-six inches long overall. "Sawed-off firearm"
 does not include any firearm with an overall length of at least twenty-six
 inches that is approved for sale by the Federal Bureau of Alcohol, Tobacco,
-Firearms and Explosives under the “Gun Control Act of 1968", 82 Stat. 1213, 18
+Firearms and Explosives under the "Gun Control Act of 1968", 82 Stat. 1213, 18
 U.S.C. 921(a)(3), but that is found by the Bureau not to be regulated under the
-“National Firearms Act”, 68A Stat. 725 (1934), 26 U.S.C. 5845(a).
+"National Firearms Act", 68A Stat. 725 (1934), 26 U.S.C. 5845(a).
 
 7. _(g)_ "Zip-gun" means any of the following:
 
     1. _(1)_ Any firearm of crude and extemporized manufacture;
 
-    2. _(2)_ Any device, including without limitation a starter’s pistol, that
+    2. _(2)_ Any device, including without limitation a starter's pistol, that
     is not designed as a firearm, but that is specially adapted for use as a
     firearm;
 
@@ -164,19 +164,19 @@ subsection (l) hereof:
 
     7. _(7)_ Any firearm with an overall length of at least twenty-six inches
     that is approved for sale by the Federal Bureau of Alcohol, Tobacco,
-    Firearms, and Explosives under the “Gun Control Act of 1968", 82 Stat. 1213,
+    Firearms, and Explosives under the "Gun Control Act of 1968", 82 Stat. 1213,
     18 U.S.C. 921(a)(3), but that is found by the Bureau not to be regulated
-    under the “National Firearms Act”, 68A Stat. 725 (1934), 26 U.S.C. 5845(a).
+    under the "National Firearms Act", 68A Stat. 725 (1934), 26 U.S.C. 5845(a).
 
-13. _(m)_ “Explosive” means any chemical compound, mixture, or device, the
-primary or common purpose of which is to function by explosion. “Explosive”
+13. _(m)_ "Explosive" means any chemical compound, mixture, or device, the
+primary or common purpose of which is to function by explosion. "Explosive"
 includes all materials that have been classified as division 1.1, division 1.2,
 division 1.3, or division 1.4 explosives by the United States Department of
 Transportation in its regulations and includes, but is not limited to, dynamite,
 black powder, pellet powders, initiating explosives, blasting caps, electric
 blasting caps, safety fuses, fuse igniters, squibs, cordeau detonant fuses,
-instantaneous fuses, and igniter cords and igniters. “Explosive” does not
-include “fireworks”, as defined in Ohio R.C. 3743.01, or any substance or
+instantaneous fuses, and igniter cords and igniters. "Explosive" does not
+include "fireworks", as defined in Ohio R.C. 3743.01, or any substance or
 material otherwise meeting the definition of explosive set forth in this section
 that is manufactured, sold, possessed, transported, stored or used in any
 activity described in Ohio R.C. 3743.80, provided the activity is conducted in
@@ -186,8 +186,8 @@ Marshal adopted pursuant to Ohio R.C. 3737.82.
 
 14. _(n)_
 
-    1. _(1)_ “Concealed handgun license” or “license to carry a concealed
-    handgun” means, subject to subsection (n)(2) of this section, a license or
+    1. _(1)_ "Concealed handgun license" or "license to carry a concealed
+    handgun" means, subject to subsection (n)(2) of this section, a license or
     temporary emergency license to carry a concealed handgun issued under Ohio
     R.C. 2923.125 or 2923.1213 or a license to carry a concealed handgun issued
     by another state with which the Attorney General has entered into a
@@ -207,8 +207,8 @@ Marshal adopted pursuant to Ohio R.C. 3737.82.
     issued by another state with which the Attorney General has entered into a
     reciprocity agreement under Ohio R.C. 109.69.
 
-15. _(o)_ “Valid concealed handgun license” or “valid license to carry a
-concealed handgun” means a concealed handgun license that is currently valid,
+15. _(o)_ "Valid concealed handgun license" or "valid license to carry a
+concealed handgun" means a concealed handgun license that is currently valid,
 that is not under a suspension under division (A)(1) of Ohio R.C. 2923.128,
 under Ohio R.C. 2923.1213, or under a suspension provision of the state other
 than this State in which the license was issued, and that has not been revoked
@@ -216,7 +216,7 @@ under division (B)(1) of Ohio R.C. 2923.128, under Ohio R.C. 2923.1213 or under
 a revocation provision of the state other than this State in which the license
 was issued.
 
-16. _(p)_ “Misdemeanor punishable by imprisonment for a term exceeding one year”
+16. _(p)_ "Misdemeanor punishable by imprisonment for a term exceeding one year"
 does not include any of the following:
 
     1. _(1)_ Any federal or state offense pertaining to antitrust violations,
@@ -226,17 +226,17 @@ does not include any of the following:
     2. _(2)_ Any misdemeanor offense punishable by a term of imprisonment of two
     years or less.
 
-17. _(q)_ “Alien registration number” means the number issued by the United
+17. _(q)_ "Alien registration number" means the number issued by the United
 States Citizenship and Immigration Services Agency that is located on the
-alien’s permanent resident card and may also be commonly referred to as the
-“USCIS number” or the “alien number”.
+alien's permanent resident card and may also be commonly referred to as the
+"USCIS number" or the "alien number".
 
-18. _(r)_ “Active duty” has the same meaning as defined in 10 U.S.C. 101.  
+18. _(r)_ "Active duty" has the same meaning as defined in 10 U.S.C. 101.  
 (ORC 2923.11)
 
 ## 549.02   Carrying concealed weapons
 
-1. _(a)_ No person shall knowingly carry or have, concealed on the person’s
+1. _(a)_ No person shall knowingly carry or have, concealed on the person's
 person or concealed ready at hand, any of the following:
 
     1. _(1)_ A deadly weapon other than a handgun;
@@ -255,7 +255,7 @@ of the following:
     is carrying a concealed handgun;
 
     2. _(2)_ If the person is stopped for a law enforcement purpose and is
-    carrying a concealed handgun, knowingly fail to keep the person’s hands in
+    carrying a concealed handgun, knowingly fail to keep the person's hands in
     plain sight at any time after any law enforcement officer begins approaching
     the person while stopped and before the law enforcement officer leaves,
     unless the failure is pursuant to and in accordance with directions given by
@@ -267,7 +267,7 @@ of the following:
     remove the loaded handgun from the holster, pocket, or other place in which
     the person is carrying it, knowingly grasp or hold the loaded handgun, or
     knowingly have contact with the loaded handgun by touching it with the
-    person’s hands or fingers at any time after the law enforcement officer
+    person's hands or fingers at any time after the law enforcement officer
     begins approaching and before the law enforcement officer leaves, unless the
     person removes, attempts to remove, grasps, holds, or has contact with the
     loaded handgun pursuant to and in accordance with directions given by the
@@ -278,7 +278,7 @@ of the following:
     carrying a concealed handgun, knowingly disregard or fail to comply with any
     lawful order of any law enforcement officer given while the person is
     stopped, including, but not limited to, a specific order to the person to
-    keep the person’s hands in plain sight.
+    keep the person's hands in plain sight.
 
 3. _(c)_
 
@@ -287,8 +287,8 @@ of the following:
         1. _(A)_ An officer, agent or employee or this or any other state or the
         United States, or to a law enforcement officer, who is authorized to
         carry concealed weapons or dangerous ordnance, or is authorized to carry
-        handguns and is acting within the scope of the officer’s, agent’s or
-        employee’s duties;
+        handguns and is acting within the scope of the officer's, agent's or
+        employee's duties;
 
         2. _(B)_ Any person who is employed in this State, who is authorized to
         carry concealed weapons or dangerous ordnance or is authorized to carry
@@ -297,14 +297,14 @@ of the following:
         expressly specified that the exemption provided in subsection (c)(1)B.
         hereof does not apply to the person.
 
-        3. _(C)_ A person’s transportation or storage of a firearm, other than a
+        3. _(C)_ A person's transportation or storage of a firearm, other than a
         firearm described in divisions (G) to (M) of Ohio R.C. 2923.11 in a
         motor vehicle for any lawful purpose if the firearm is not on the
-        actor’s person;
+        actor's person;
 
-        4. _(D)_ A person’s storage or possession of a firearm, other than a
+        4. _(D)_ A person's storage or possession of a firearm, other than a
         firearm described in divisions (G) to (M) of Ohio R.C. 2923.11 in the
-        actor’s own home for any lawful purpose.
+        actor's own home for any lawful purpose.
 
     2. _(2)_ Subsection (a)(2) of this section does not apply to any person who,
     at the time of the alleged carrying or possession of a handgun, is carrying
@@ -318,7 +318,7 @@ law from having the weapon, and that any of the following applies:
 
     1. _(1)_ The weapon was carried or kept ready at hand by the actor for
     defensive purposes, while the actor was engaged in or was going to or from
-    the actor’s lawful business or occupation, which business or occupation was
+    the actor's lawful business or occupation, which business or occupation was
     of a character or was necessarily carried on in a manner or at a time or
     place as to render the actor particularly susceptible to criminal attack,
     such as would justify a prudent person in going armed.
@@ -326,11 +326,11 @@ law from having the weapon, and that any of the following applies:
     2. _(2)_ The weapon was carried or kept ready at hand by the actor for
     defensive purposes, while the actor was engaged in a lawful activity and had
     reasonable cause to fear a criminal attack upon the actor, a member of the
-    actor’s family, or the actor’s home, such as would justify a prudent person
+    actor's family, or the actor's home, such as would justify a prudent person
     in going armed.
 
     3. _(3)_ The weapon was carried or kept ready at hand by the actor for any
-    lawful purpose and while in the actor’s own home.
+    lawful purpose and while in the actor's own home.
 
 5. _(e)_ No person who is charged with a violation of this section shall be
 required to obtain a concealed handgun license as a condition for the dismissal
@@ -387,7 +387,7 @@ of the charge.
             2. _(2)_ Within forty-five days after the arrest, the offender
             presents any type of concealed handgun license to the law
             enforcement agency that employed the arresting officer, and the
-            offender waives in writing the offender’s right to a speedy trial on
+            offender waives in writing the offender's right to a speedy trial on
             the charge of the violation that is provided in Ohio R.C. 2945.71.
 
             3. _(3)_ At the time of the commission of the offense, the offender
@@ -400,13 +400,13 @@ of the charge.
     3. _(3)_ Except as otherwise provided in this subsection, carrying concealed
     weapons in violation of subsection (b)(1) hereof is a misdemeanor of the
     first degree, and, in addition to any other penalty or sanction imposed for
-    a violation of subsection (b)(1) hereof, the offender’s concealed handgun
+    a violation of subsection (b)(1) hereof, the offender's concealed handgun
     license shall be suspended pursuant to Ohio R.C. 2923.128(A)(2). If, at the
     time of the stop of the offender for a law enforcement purpose that was the
     basis of the violation, any law enforcement officer involved with the stop
     had actual knowledge that the offender has been issued a concealed handgun
     license, carrying concealed weapons in violation of division (b)(1) of this
-    section is a minor misdemeanor, and the offender’s concealed handgun license
+    section is a minor misdemeanor, and the offender's concealed handgun license
     shall not be suspended pursuant to division (A)(2) of Ohio R.C. 2923.128.
 
     4. _(4)_ Except as otherwise provided herein, carrying concealed weapons in
@@ -416,7 +416,7 @@ of the charge.
     substantially equivalent municipal ordinance, carrying concealed weapons is
     a felony and shall be prosecuted under appropriate state law. In addition to
     any other penalty or sanction imposed for a violation of subsection (b)(2)
-    or (b)(3) hereof, the offender’s concealed handgun license shall be
+    or (b)(3) hereof, the offender's concealed handgun license shall be
     suspended pursuant to Ohio R.C. 2923.128(A)(2).  
     (ORC 2923.12)
 
@@ -436,7 +436,7 @@ court orders a law enforcement officer to return a firearm to a person pursuant
 to the requirement set forth in this subsection, division (B) of Ohio R.C.
 2923.163 applies.
 
-8. _(h)_ For purposes of this section, “deadly weapon” or “weapon” does not
+8. _(h)_ For purposes of this section, "deadly weapon" or "weapon" does not
 include any knife, razor, or cutting instrument if the instrument was not used
 as a weapon.  
 (ORC 2923.12)
@@ -496,14 +496,14 @@ manner, shall do any of the following:
     possesses or has a loaded handgun in the commercial motor vehicle.
 
     3. _(3)_ Knowingly fail to remain in the motor vehicle while stopped, or
-    knowingly fail to keep the person’s hands in plain sight at any time after
+    knowingly fail to keep the person's hands in plain sight at any time after
     any law enforcement officer begins approaching the person while stopped and
     before the law enforcement officer leaves, unless the failure is pursuant to
     and in accordance with directions given by a law enforcement officer.
 
     4. _(4)_ Knowingly disregard or fail to comply with any lawful order of any
     law enforcement officer given while the motor vehicle is stopped, including,
-    but not limited to, a specific order to the person to keep the person’s
+    but not limited to, a specific order to the person to keep the person's
     hands in plain sight.
 
 3. _(c)_
@@ -513,7 +513,7 @@ manner, shall do any of the following:
         1. _(A)_ An officer, agent or employee of this or any other state or the
         United States, or a law enforcement officer, when authorized to carry or
         have loaded or accessible firearms in motor vehicles and acting within
-        the scope of the officer’s, agent’s or employee’s duties;
+        the scope of the officer's, agent's or employee's duties;
 
         2. _(B)_ Any person who is employed in this State, who is authorized to
         carry or have loaded or accessible firearms in motor vehicles, and who
@@ -560,9 +560,9 @@ manner, shall do any of the following:
     2. _(2)_ It is an affirmative defense to a charge under subsection (a) of
     improperly handling firearms in a motor vehicle that the actor transported
     or had the firearm in the motor vehicle for any lawful purpose and while the
-    motor vehicle was on the actor’s own property, provided that the affirmative
+    motor vehicle was on the actor's own property, provided that the affirmative
     defense is not available unless the person, immediately prior to arriving at
-    the actor’s own property, did not transport or possess the firearm in a
+    the actor's own property, did not transport or possess the firearm in a
     motor vehicle in a manner prohibited by subsection (a) while the motor
     vehicle was being operated on a street, highway, or other public or private
     property used by the public for vehicular traffic.
@@ -593,21 +593,21 @@ in a motor vehicle. Violation of subsection (a) of this section is a misdemeanor
 of the fourth degree. Except as otherwise provided in this subsection, a
 violation of subsection (b)(1) or (b)(2) of this section is a misdemeanor of the
 first degree, and, in addition to any other penalty or sanction imposed for the
-violation, the offender’s concealed handgun license shall be suspended pursuant
+violation, the offender's concealed handgun license shall be suspended pursuant
 to Ohio R.C. 2923.128(A)(2). If at the time of the stop of the offender for a
 traffic stop, for another law enforcement purpose, or for a purpose defined in
 Ohio R.C. 5503.34 that was the basis of the violation any law enforcement
 officer involved with the stop or the employee of the motor carrier enforcement
-unit who made the stop had actual knowledge of the offender’s status as a
+unit who made the stop had actual knowledge of the offender's status as a
 licensee, a violation of subsection (b)(1) or (b)(2) of this section is a minor
-misdemeanor, and the offender’s concealed handgun license shall not be suspended
+misdemeanor, and the offender's concealed handgun license shall not be suspended
 pursuant to division (A)(2) of Ohio R.C. 2923.128. A violation of subsection
 (b)(3) or (4) of this section is a misdemeanor of the first degree or, if the
 offender previously has been convicted of or pleaded guilty to a violation of
 subsection (b)(3) or (4) of this section, a felony and shall be prosecuted under
 appropriate State law. In addition to any other penalty or sanction imposed for
 a misdemeanor violation of subsection (b)(3) or (4) of this section, the
-offender’s concealed handgun license shall be suspended pursuant to Ohio R.C.
+offender's concealed handgun license shall be suspended pursuant to Ohio R.C.
 2923.128(A)(2).
 
 7. _(g)_ If a law enforcement officer stops a motor vehicle for a traffic stop
@@ -623,12 +623,12 @@ division (B) of Ohio R.C. 2923.163 applies.
 
 8. _(h)_ As used in this section:
 
-    1. _(1)_ “Motor vehicle”, “street” and “highway” have the same meanings as
+    1. _(1)_ "Motor vehicle", "street" and "highway" have the same meanings as
     in Ohio R.C. 4511.01.
 
     2. _(2)_
 
-        1. _(A)_ “Unloaded” means:
+        1. _(A)_ "Unloaded" means:
 
             1. _(1)_ With respect to a firearm other than a firearm described in
             subsection (h)(2)B. of this section, that no ammunition is in the
@@ -647,7 +647,7 @@ division (B) of Ohio R.C. 2923.163 applies.
                 that provides complete and separate enclosure.
 
             2. _(2)_ For the purposes of subsection (h)(2)A.1.b. of this
-            section, a “container that provides complete and separate enclosure”
+            section, a "container that provides complete and separate enclosure"
             includes, but is not limited to, any of the following:
 
                 1. _(a)_ A package, box or case with multiple compartments, as
@@ -672,14 +672,14 @@ division (B) of Ohio R.C. 2923.163 applies.
             considered ammunition that is loaded into a magazine or speed
             loader.
 
-        2. _(B)_ “Unloaded” means, with respect to a firearm employing a
+        2. _(B)_ "Unloaded" means, with respect to a firearm employing a
         percussion cap, flintlock, or other obsolete ignition system, when the
         weapon is uncapped or when the priming charge is removed from the pan.
 
-    3. _(3)_ “Commercial motor vehicle” has the same meaning as in Ohio R.C.
+    3. _(3)_ "Commercial motor vehicle" has the same meaning as in Ohio R.C.
     4506.25(A).
 
-    4. _(4)_ “Motor carrier enforcement unit” means the motor carrier
+    4. _(4)_ "Motor carrier enforcement unit" means the motor carrier
     enforcement unit in the Department of Public Safety, Division of State
     Highway Patrol, that is created by Ohio R.C. 5503.34.
 
@@ -723,8 +723,8 @@ ordnance, a misdemeanor of the second degree.
     where the transaction takes place;
 
     2. _(2)_ Knowingly fail to report to law enforcement authorities forthwith
-    the loss or theft of any firearm or dangerous ordnance in the person’s
-    possession or under the person’s control.
+    the loss or theft of any firearm or dangerous ordnance in the person's
+    possession or under the person's control.
 
 2. _(b)_ Whoever violates this section is guilty of unlawful transactions in
 weapons. A violation of subsection (a)(1) hereof is a misdemeanor of the second
@@ -785,7 +785,7 @@ degree.
 
 ## 549.10   Reporting sale of firearms
 
-(Editor’s note: Former Section 549.10 was repealed by Ordinance 2019-50, passed
+(Editor's note: Former Section 549.10 was repealed by Ordinance 2019-50, passed
 October 14, 2019.)
 
 ## 549.11   Blasting permit
@@ -840,10 +840,10 @@ appropriate State law.
     years of age, regardless of whether the offender is attending or is enrolled
     in a school operated by a board of education or for which the State Board of
     Education prescribes minimum standards under Ohio R.C. 3301.07, the court
-    shall impose upon the offender a class four suspension of the offender’s
-    probationary driver’s license, restricted license, driver’s license,
-    commercial driver’s license, temporary instruction permit, or probationary
-    commercial driver’s license that then is in effect from the range specified
+    shall impose upon the offender a class four suspension of the offender's
+    probationary driver's license, restricted license, driver's license,
+    commercial driver's license, temporary instruction permit, or probationary
+    commercial driver's license that then is in effect from the range specified
     in division (A)(4) of Ohio R.C. 4510.02 and shall deny the offender the
     issuance of any permit or license of that type during the period of the
     suspension. If the offender is not a resident of this State, the court shall
@@ -859,8 +859,8 @@ appropriate State law.
     require the offender to perform community service for a number of hours
     determined by the court.
 
-5. _(e)_ As used in this section, “object that is indistinguishable from a
-firearm” means an object made, constructed, or altered so that, to a reasonable
+5. _(e)_ As used in this section, "object that is indistinguishable from a
+firearm" means an object made, constructed, or altered so that, to a reasonable
 person without specialized training in firearms, the object appears to be a
 firearm.  
 (ORC 2923.122)
@@ -870,11 +870,11 @@ firearm.
 1. _(a)_ No person shall do either of the following:
 
     1. _(1)_ Change, alter, remove, or obliterate the name of the manufacturer,
-    model, manufacturer’s serial number, or other mark or identification on a
+    model, manufacturer's serial number, or other mark or identification on a
     firearm.
 
     2. _(2)_ Possess a firearm knowing or having reasonable cause to believe
-    that the name of the manufacturer, model, manufacturer’s serial number, or
+    that the name of the manufacturer, model, manufacturer's serial number, or
     other mark of identification on the firearm has been changed, altered,
     removed, or obliterated.
 
@@ -898,5 +898,5 @@ firearm.
 
 ## 549.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

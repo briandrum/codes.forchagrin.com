@@ -42,7 +42,7 @@ vehicle or aircraft required to be registered under Ohio R. C. Chapter 4503 or
 Chapter 4561 and any vehicle excepted from definition as a motor vehicle by
 Section 301.20.
 
-4. _(d)_ “Public thoroughfares” means the entire width between the boundary
+4. _(d)_ "Public thoroughfares" means the entire width between the boundary
 lines of any highway, road, street, avenue, alley, public place or public
 driveway within the Municipality when any part thereof is open to the use of the
 public, as a matter of right, for purposes of vehicular traffic.  

@@ -28,7 +28,7 @@ title: "Chapter 1307: Building Permits"
 * [1307.18   Minor building permits](#130718-minor-building-permits)
 * [1307.19   Preliminary plot plan required](#130719-preliminary-plot-plan-required)
 * [1307.20   Final plot plan](#130720-final-plot-plan)
-* [1307.21   Building Inspector’s fees](#130721-building-inspectors-fees)
+* [1307.21   Building Inspector's fees](#130721-building-inspectors-fees)
 * [1307.22   Amendment of plan to include method of drainage](#130722-amendment-of-plan-to-include-method-of-drainage)
 * [1307.23   Appeals](#130723-appeals)
 * [1307.99   Penalty](#130799-penalty)
@@ -38,7 +38,7 @@ title: "Chapter 1307: Building Permits"
 * Partition fences - see Ohio R. C. 971.02 et seq.
 * Construction of sidewalks, curbs and driveways - see S. & P. S. 903.03
 * Permit fees listed - see BLDG. Ch. 1309
-* Plumbers, electrical and heating contractor’s licensing - see BLDG. Ch. 1335
+* Plumbers, electrical and heating contractor's licensing - see BLDG. Ch. 1335
 * Toilet connections to sanitary sewers - see BLDG. 1343.02
 
 ## 1307.01   Building permits required; application; plans and drawings
@@ -62,7 +62,7 @@ except as otherwise provided by ordinance or statute, which permit shall be
 effective for one year from the date of its issuance.  
 (Ord. 1955-350. Passed 10-10-55.)
 
-Whenever any board, commission, or official (collectively “Approving Authority”)
+Whenever any board, commission, or official (collectively "Approving Authority")
 has been delegated the power to approve plans, issue permits and/or to approve
 development, construction, reconstruction or renovation of land, buildings or
 structures within the Village, such Approving Authority may impose conditions,
@@ -132,12 +132,12 @@ the first tier of beams, girders or joists.
 
 ## 1307.05   Permits for superstructure
 
-(Editor’s note: Former Section 1307.05 was repealed by Ordinance 1980-5, passed
+(Editor's note: Former Section 1307.05 was repealed by Ordinance 1980-5, passed
 January 28, 1980.)
 
 ## 1307.06   Permits for minor interior repairs and alterations
 
-(Editor’s note: Former Section 1307.06 was repealed by Ordinance 1980-5, passed
+(Editor's note: Former Section 1307.06 was repealed by Ordinance 1980-5, passed
 January 28, 1980.)
 
 ## 1307.07   Water permit required
@@ -288,7 +288,7 @@ buildings; there shall also be submitted a list of materials and a description
 of the method of construction and the dimensions of the pool.  
 (Ord. 1959-466. Passed 9-14-59.)
 
-3. _(c)_ (Editor’s note: Former subsection (c) was repealed by Ordinance 2019-
+3. _(c)_ (Editor's note: Former subsection (c) was repealed by Ordinance 2019-
 65, passed November 25, 2019.)
 
 ## 1307.17   Partition fence or wall
@@ -375,7 +375,7 @@ and these conditions are as shown on the plans. The form of such certification
 shall be prescribed by the Municipal Engineer.  
 (Ord. 1978-1129. Passed 10-23-78.)
 
-## 1307.21   Building inspector’s fees
+## 1307.21   Building inspector's fees
 
 The Building Inspector is hereby authorized and directed to charge applicants
 for building permits a fee based on the following schedule for each building
@@ -395,10 +395,10 @@ The Building Inspector shall collect two hundred fifty dollars ($250.00) at the
 time of application for the building permit. The Municipal Engineer shall
 estimate the cost of grade plan review of which the applicant shall be informed;
 the applicant shall be directed to deposit the difference, if any, between the
-Municipal Engineer’s estimate and the applicant’s original payment which
+Municipal Engineer's estimate and the applicant's original payment which
 difference shall be paid prior to any issuance of the building permit. Any
 difference between the final cost of the grade plan review and the Municipal
-Engineer’s estimate shall be paid prior to the issuance of a certificate of
+Engineer's estimate shall be paid prior to the issuance of a certificate of
 occupancy.  
 (Ord. 1933-53. Passed 12-12-83; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28.
 Passed 6-13-05.)
@@ -481,11 +481,11 @@ codes or construction of buildings and structures is necessary to assist in the
 analysis of determining whether or not the variance request or any appeal
 alleging error is appropriate and if in applying the standard of review confirms
 that relief is appropriate, the Administrator shall engage an expert at the
-applicant’s expense, to provide such advice. The Administrator may require the
+applicant's expense, to provide such advice. The Administrator may require the
 applicant to deposit a sum estimated to cover the cost to have the expert
 provide such advice and attend any hearing or meeting.  
 (Ord. 2020-38. Passed 9-14-20.)
 
 ## 1307.99   Penalty
 
-(Editor’s note: See Section 1303.99 general Code penalty if no specific penalty is provided.)
+(Editor's note: See Section 1303.99 general Code penalty if no specific penalty is provided.)

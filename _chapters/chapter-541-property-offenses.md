@@ -25,7 +25,7 @@ title: "Chapter 541: Property Offenses"
 ## Cross references
 
 * See sectional histories for similar State law
-* Parents’ liability for destructive acts of their children - see Ohio R.C. 3109.09
+* Parents' liability for destructive acts of their children - see Ohio R.C. 3109.09
 * Physical harm to property defined - see GEN. OFF. 501.01(d), (f)
 * Reimbursement for investigation or prosecution costs - see GEN. OFF. 501.99(a)
 * Damage to sidewalks - see GEN. OFF. 521.04
@@ -36,7 +36,7 @@ title: "Chapter 541: Property Offenses"
 1. _(a)_ The following criteria shall be used in determining the value of
 property or amount of physical harm involved in a violation of Section 541.02.
 
-    1. _(1)_ If the property is an heirloom, memento, collector’s item, antique,
+    1. _(1)_ If the property is an heirloom, memento, collector's item, antique,
     museum piece, manuscript, document, record or other thing that is either
     irreplaceable or is replaceable only on the expenditure of substantial time,
     effort or money, the value of the property or the amount of physical harm
@@ -67,7 +67,7 @@ section.
 
 1. _(a)_ No person, by means of fire or explosion, shall knowingly cause or
 create a substantial risk of physical harm to any property of another without
-the other person’s consent.
+the other person's consent.
 
 2. _(b)_
 
@@ -87,7 +87,7 @@ be prosecuted under appropriate State law.
 ## 541.03   Criminal damaging or endangering
 
 1. _(a)_ No person shall cause, or create a substantial risk of physical harm to
-any property of another without the other person’s consent:
+any property of another without the other person's consent:
 
     1. _(1)_ Knowingly, by any means;
 
@@ -116,7 +116,7 @@ State law.
 
         1. _(A)_ The property of another;
 
-        2. _(B)_ One’s own residential real property with the purpose to
+        2. _(B)_ One's own residential real property with the purpose to
         decrease the value of or enjoyment of the residential real property, if
         both of the following apply:
 
@@ -124,7 +124,7 @@ State law.
 
             2. _(2)_ The person has been served with a summons and complaint in
             a pending residential mortgage loan foreclosure action relating to
-            that real property. As used in this subsection, “pending” includes
+            that real property. As used in this subsection, "pending" includes
             the time between judgment entry and confirmation of sale.
 
     2. _(2)_ With purpose to interfere with the use or enjoyment of property of
@@ -167,13 +167,13 @@ State law.
 
 2. _(b)_ As used in this section:
 
-    1. _(1)_ “Critical Infrastructure Facility”. Has the same meaning as in Ohio
+    1. _(1)_ "Critical Infrastructure Facility". Has the same meaning as in Ohio
     R.C. 2911.21.
 
-    2. _(2)_ “Improperly Tamper”. Means to change the physical location or the
+    2. _(2)_ "Improperly Tamper". Means to change the physical location or the
     physical condition of the property.
 
-    3. _(3)_ “Safety Device”. Means any fire extinguisher, fire hose, or fire
+    3. _(3)_ "Safety Device". Means any fire extinguisher, fire hose, or fire
     axe, or any fire escape, emergency exit, or emergency escape equipment, or
     any life line, life-saving ring, life preserver, or life boat or raft, or
     any alarm, light, flare, signal, sign, or notice intended to warn of danger
@@ -282,10 +282,10 @@ authorization was secured by deception.
 
 5. _(e)_ As used in subsections (a) through (e) of this section:
 
-    1. _(1)_ “All-Purpose Vehicle, Off-Highway Motorcycle” and “Snowmobile”.
+    1. _(1)_ "All-Purpose Vehicle, Off-Highway Motorcycle" and "Snowmobile".
     Have the same meanings as in Ohio R.C. 4519.01.
 
-    2. _(2)_ “Critical Infrastructure Facility”. Means:
+    2. _(2)_ "Critical Infrastructure Facility". Means:
 
         1. _(A)_ One of the following, if completely enclosed by a fence or
         other physical barrier that is obviously designed to exclude intruders,
@@ -336,7 +336,7 @@ authorization was secured by deception.
             to make steel;
 
             12. _(12)_ A facility identified and regulated by the United States
-            Department of Homeland Security’s Chemical Facility Anti-Terrorism
+            Department of Homeland Security's Chemical Facility Anti-Terrorism
             Standards Program under 6 C.F.R. part 27;
 
             13. _(13)_ A dam that is regulated by the state or federal
@@ -350,7 +350,7 @@ authorization was secured by deception.
             15. _(15)_ A video service network and broadband infrastructure,
             including associated buildings and facilities, video service
             headends, towers, utility poles, and utility lines such as fiber
-            optic lines. As used in this division, “video service network” has
+            optic lines. As used in this division, "video service network" has
             the same meaning as in Ohio R.C. 1332.21.
 
             16. _(16)_ Any above-ground portion of an oil, gas, hazardous liquid
@@ -392,16 +392,16 @@ authorization was secured by deception.
             6. _(6)_ A video service provider, including a cable operator, as
             those terms are defined in Ohio R.C. 1332.21.
 
-    3. _(3)_ “Electronic Asset”. Includes, but is not limited to, the hardware,
+    3. _(3)_ "Electronic Asset". Includes, but is not limited to, the hardware,
     software, and data of a programmable electronic device; all communications,
     operations, and customer data networks; and the contents of those data
     networks.
 
-    4. _(4)_ “Land” or “Premises”. Includes any land, building, structure, or
+    4. _(4)_ "Land" or "Premises". Includes any land, building, structure, or
     place belonging to, controlled by, or in custody of another, and any
     separate enclosure or room, or portion thereof.
 
-    5. _(5)_ “Production Operation, Well, and Well Pad”. Have the same meanings
+    5. _(5)_ "Production Operation, Well, and Well Pad". Have the same meanings
     as in Ohio R.C. 1509.01.  
     (ORC 2911.21)
 
@@ -423,7 +423,7 @@ Aggravated trespass in violation of subsection (a)(1) of this section is a
 misdemeanor of the first degree. Aggravated trespass in violation of subsection
 (a)(2) of this section is a felony to be prosecuted under appropriate state law.
 
-3. _(c)_ As used in this section, “Critical infrastructure facility” has the
+3. _(c)_ As used in this section, "Critical infrastructure facility" has the
 same meaning as in Ohio R.C. 2911.21.  
 (ORC 2911.211)
 
@@ -461,7 +461,7 @@ pollute or otherwise physically mistreat any of the following:
 2. _(b)_ Whoever violates this section is guilty of desecration, a misdemeanor
 of the second degree.
 
-3. _(c)_ As used in this section, “cemetery” means any place of burial and
+3. _(c)_ As used in this section, "cemetery" means any place of burial and
 includes burial sites that contain American Indian burial objects placed with or
 containing American Indian human remains.  
 (ORC 2927.11)
@@ -497,13 +497,13 @@ the third degree.
 
 1. _(a)_ As used in this section:
 
-    1. _(1)_ “Highway” means any highway as defined in Section 301.42 of the
+    1. _(1)_ "Highway" means any highway as defined in Section 301.42 of the
     Traffic Code or any lane, road, street, alley, bridge, or overpass.
 
-    2. _(2)_ “Alley”, “street”, and “vehicle” have the same meanings as in
+    2. _(2)_ "Alley", "street", and "vehicle" have the same meanings as in
     Chapter 301 of the Traffic Code.
 
-    3. _(3)_ “Vessel” and “waters in this State” have the same meanings as in
+    3. _(3)_ "Vessel" and "waters in this State" have the same meanings as in
     Ohio R.C. 1546.01.
 
 2. _(b)_ No person shall knowingly, and by any means, drop or throw any object
@@ -524,7 +524,7 @@ felony and shall be prosecuted under appropriate State law.
 
 ## 541.11   Trespass on a place of public amusement
 
-1. _(a)_ As used in this section, “place of public amusement” means a stadium,
+1. _(a)_ As used in this section, "place of public amusement" means a stadium,
 theater or other facility, whether licensed or not, at which a live performance,
 sporting event, or other activity takes place for entertainment of the public
 and to which access is made available to the public, regardless of whether
@@ -595,5 +595,5 @@ public amusement.
 
 ## 541.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

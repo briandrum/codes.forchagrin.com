@@ -108,5 +108,5 @@ whoever violates this section is guilty of a misdemeanor of the third degree.
 
 ## 553.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

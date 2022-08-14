@@ -6,7 +6,7 @@ chapter_no: 149
 title: "Chapter 149: Employment Provisions"
 ---
 
-(Editor’s note: Because of the frequency of change, compensation of Village
+(Editor's note: Because of the frequency of change, compensation of Village
 officials and employees is not codified herein. Interested parties are advised
 to contact the Director of Finance for copies of relevant legislation.)
 
@@ -45,7 +45,7 @@ to contact the Director of Finance for copies of relevant legislation.)
 * Public employees retirement system - see Ohio R.C. Ch. 145
 * Expenses for attendance at conference or convention - see Ohio R.C. 733.79
 * Strikes by public employees - see Ohio R.C. Ch. 4117
-* Workmen’s compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. Ch. 4123
+* Workmen's compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. Ch. 4123
 
 ## 149.01   Within-range pay adjustments
 
@@ -66,8 +66,8 @@ outstanding performance, a merit step advance over and above the step for
 satisfactory service may be given for such outstanding performance. A merit step
 advance which has been granted for outstanding performance over and above the
 step advance for satisfactory service shall be effective for a twelve-month
-period, and such employee’s pay shall be treated in accordance with such
-employee’s performance evaluation done at the end of such twelve-month period.
+period, and such employee's pay shall be treated in accordance with such
+employee's performance evaluation done at the end of such twelve-month period.
 
 3. _(c)_ General increases or decreases resulting from the adjustment of the
 basic compensation schedules shall not prevent within-range pay increases in
@@ -126,13 +126,13 @@ longevity) by 2,080 hours and rounding to the nearest cent. Paid holiday,
 vacation, and sick leave hours shall count as time worked.
 
 2. _(b)_ Any full-time Police Department employee, except the Chief of Police,
-who is called in to work other than during the employee’s regular schedule of
+who is called in to work other than during the employee's regular schedule of
 hours shall be compensated at the applicable premium rate, but not less than the
-equivalent of four hours pay at the employee’s straight time rate. This does not
-apply when an employee continues to work after the employee’s normal shift
-schedule ends or is instructed to report prior to the employee’s regularly
+equivalent of four hours pay at the employee's straight time rate. This does not
+apply when an employee continues to work after the employee's normal shift
+schedule ends or is instructed to report prior to the employee's regularly
 scheduled starting time. This premiums payment shall be limited to one
-occurrence in an employee’s work day.  
+occurrence in an employee's work day.  
 (Ord. 2007-70. Passed 11-26-07; Ord. 2018-60. Passed 8-27-18.)
 
 ## 149.04   Scheduled overtime
@@ -173,16 +173,16 @@ aggregate for any one occurrence, covering all Police Department personnel.
 
         2. _(B)_ In excess of forty hours in any given work week; or
 
-        3. _(C)_ On the employee’s Saturday; or
+        3. _(C)_ On the employee's Saturday; or
 
         4. _(D)_ In excess of eight hours in any continuous twenty-four hours
-        beginning at the starting time of the employee’s shift.
+        beginning at the starting time of the employee's shift.
 
-        An employee who works on the employee’s regularly scheduled day off
+        An employee who works on the employee's regularly scheduled day off
         shall receive time- and-one-half for hours worked, and the minimum
         payment under this provision shall be not less than four hours of pay at
-        the employee’s straight time rate. A Service Department employee who
-        works on the employee’s holiday as authorized by the department head
+        the employee's straight time rate. A Service Department employee who
+        works on the employee's holiday as authorized by the department head
         shall receive double time.
 
     2. _(2)_ **Police Radio Dispatchers.** Every police radio dispatcher shall
@@ -201,7 +201,7 @@ time-and- one-half for such overtime:
     2. _(2)_ In excess of forty hours in any given work week;
 
     3. _(3)_ In excess of eight hours in any continuous twenty-four hours
-    beginning at the starting time of the employee’s shift.  
+    beginning at the starting time of the employee's shift.  
     (Ord. 1996-40. Passed 7-8-96.)
 
 3. _(c)_ **Exceptions.** The application of this provision excludes the Chief
@@ -212,7 +212,7 @@ Superintendent of Utilities and Superintendent of Streets.
 4. _(d)_ **Work Day/Hours Worked for Overtime Calculation.**
 
     1. _(1)_ **Work Day.** A work day consists of the twenty-four consecutive
-    hours beginning at the same time each calendar day. Changes in an employee’s
+    hours beginning at the same time each calendar day. Changes in an employee's
     starting time or work shift may be made at any time to meet the needs of the
     Village. Generally, however, when such changes are made for a short period
     of time (generally less than two days) with the expectation that the
@@ -231,7 +231,7 @@ hours shall be paid at the applicable premium rate, but not less than the
 equivalent of four hours pay at their straight time rate. This does not apply
 when an employee continues to work after his normal work shift schedule ends or
 is told to report prior to his regular scheduled starting time. This premium
-payment shall be limited to one occurrence in an employee’s work day. This
+payment shall be limited to one occurrence in an employee's work day. This
 subsection shall also apply to temporary full-time laborers when authorized and
 approved by the department head.
 
@@ -255,7 +255,7 @@ employee from the respective department head for use during a period which will
 not unduly disrupt or interfere with the normal operation of that department.
 
 Cash payment will be made to an employee for unused compensatory time only upon
-the occasion of that employee’s separation from service with the Village.  
+the occasion of that employee's separation from service with the Village.  
 (Ord. 2014-02. Passed 1-13-14.)
 
 ## 149.07   Longevity
@@ -282,8 +282,8 @@ jury duty but not exceeding fifteen days in any calendar year. Required jury
 duty beyond fifteen days shall result in the employee being on unpaid leave
 status.  
 
-    If an employee’s jury duty pay or compensation during such leave of absence
-    is less than the employee’s Village pay would have been for the same period,
+    If an employee's jury duty pay or compensation during such leave of absence
+    is less than the employee's Village pay would have been for the same period,
     the employee will be paid by the Village the difference in money between the
     Village pay and the jury duty pay for such period.
 
@@ -294,12 +294,12 @@ absence from the respective duties for such time as they are on military duty in
 field training or active duty for periods not exceeding thirty-one days in any
 calendar year.
 
-    If an employee’s military pay or compensation during such leave of absence
-    is less than the employee’s pay would have been for the same period, the
+    If an employee's military pay or compensation during such leave of absence
+    is less than the employee's pay would have been for the same period, the
     employee will be paid by the Village the difference in money between the
     Village pay and military pay for such period.
 
-3. _(c)_ In calculating an employee’s jury duty pay or military pay, allowances
+3. _(c)_ In calculating an employee's jury duty pay or military pay, allowances
 for travel, food or housing shall not be considered, but any other pay or
 allowances of whatever nature, including longevity pay, shall be considered.  
 (Ord. 1996-40. Passed 7-8-96.)
@@ -308,7 +308,7 @@ allowances of whatever nature, including longevity pay, shall be considered.
 
 1. _(a)_ Village employees who attend meetings during other than normal working
 hours for the purpose of taking minutes shall be paid at a rate of thirty
-dollars ($30.00) per meeting or at that employee’s hourly rate at time and one-
+dollars ($30.00) per meeting or at that employee's hourly rate at time and one-
 half, if applicable, whichever is greater.  
 (Ord. 1989-70. Passed 12-11-89; Ord. 2005-28. Passed 6-13-05.)
 
@@ -322,20 +322,20 @@ include regular or special Council meetings.
 ## 149.10   Holidays
 
 Every permanent full-time employee of the Municipality shall be entitled to
-receive compensation for the following twelve holidays: New Year’s Day,
-President’s Day, Good Friday, Memorial Day, Independence Day, Labor Day,
+receive compensation for the following twelve holidays: New Year's Day,
+President's Day, Good Friday, Memorial Day, Independence Day, Labor Day,
 Thanksgiving Day, the Friday following Thanksgiving Day, Christmas Eve Day,
 Christmas Day and two personal days, such time to be requested in advance and
 approved by the department head to permit proper scheduling. Wages shall be
-computed on the basis of an eight-hour day at the employee’s existing rate of
+computed on the basis of an eight-hour day at the employee's existing rate of
 compensation. Full-time employees shall use such holidays and personal days
 within the year they are available or the same shall be forfeited. It shall not
 be permitted to obtain cash in lieu of the holidays and personal days.
 
 Every regular part-time employee required to work a specific number of hours on
 specific days shall be entitled to receive compensation for the aforementioned
-ten legal holidays if the holiday occurs on the employee’s regular working day;
-compensation shall be computed on the basis of the employee’s regular scheduled
+ten legal holidays if the holiday occurs on the employee's regular working day;
+compensation shall be computed on the basis of the employee's regular scheduled
 hours at straight time.  
 (Ord.1988-109. Passed 12-12-88.)
 
@@ -377,11 +377,11 @@ Municipality for use of sick leave. Each request shall be approved by the
 department head and Mayor. Subject to such approval, employees may use sick
 leave provided for herein for absences due to illness, injury, exposure to
 contagious disease which could be communicated to other employees and to illness
-or death in the employee’s immediate family. Charges against accumulated sick
+or death in the employee's immediate family. Charges against accumulated sick
 leave shall be based upon the nearest one-fourth day for time lost. A
 certificate from a physician may be required by the Mayor or department head for
 any absence extending beyond three days. The Mayor may require that the employee
-submit to an examination by a physician selected by the Village at the Village’s
+submit to an examination by a physician selected by the Village at the Village's
 expense for any absence.  
 (Ord. 1987-53. Passed 12-14-87.)
 
@@ -397,11 +397,11 @@ during such time as the employee remains in the employment of the Municipality.
 Employees with a minimum of ten years of active service with the Municipality,
 may elect, at the time of retirement from active service with the Municipality,
 to be paid in cash for one-fourth the value of their accrued but unused sick
-leave credit. The payment shall be based on the employee’s rate of pay at the
+leave credit. The payment shall be based on the employee's rate of pay at the
 time of retirement and eliminates all sick leave credit accrued but unused by
 the employee at the time the payment is made. The unused sick leave credit that
 is paid to each employee shall not exceed the value of 30 days of accrued but
-unused sick leave. “Retirement” as used in this section, means disability or
+unused sick leave. "Retirement" as used in this section, means disability or
 service retirement under any state or municipal retirement system in this
 State.  
 (Ord. 1996-87. Passed 12-9-96.)
@@ -417,7 +417,7 @@ purposes. Further, allowance for meals shall be on a per diem basis.
 
 2. _(b)_ Village officials and employees are prohibited from accepting,
 soliciting or using the authority or influence of their position to secure, for
-personal travel, a discounted or free “frequent flyer” airline ticket or other
+personal travel, a discounted or free "frequent flyer" airline ticket or other
 benefit from an airline if the ticket or benefit is received from the purchase
 of airline tickets by the Village for Village travel. Any rebates or commissions
 earned based on Village travel and paid to a Village official or employee,
@@ -466,12 +466,12 @@ credit for the purpose of calculating longevity pay.
 
 An employee eligible for sick leave with pay may be granted paid time off with
 the approval of the department head and the Mayor for the death of the
-employee’s spouse, child, father, mother, mother-in-law, father-in-law, brother
+employee's spouse, child, father, mother, mother-in-law, father-in-law, brother
 or sister, grandparents and grandparents-in-law, but not to exceed three days.
-Such absence shall not be deducted from the employee’s accumulated sick leave.
+Such absence shall not be deducted from the employee's accumulated sick leave.
 Paid time shall be determined by multiplying the hourly equivalent rate in
 effect at the time the death occurred by the scheduled number of hours in the
-employee’s regular work day.  
+employee's regular work day.  
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.19   Probation
@@ -484,9 +484,9 @@ the duties of the position to which the employee has been appointed.
 ## 149.20   Employee contributions to OPERS and OP&F
 
 Effective June 26, 2011, the Village hereby adopts the following policies and
-procedures, in accordance with Ohio law, to perform the “employer pick-up” of
-employee contributions to the Ohio Public Employee Retirement System (“OPERS”)
-and the Police and the Ohio Police and Fire Pension (“OP&F”):
+procedures, in accordance with Ohio law, to perform the "employer pick-up" of
+employee contributions to the Ohio Public Employee Retirement System ("OPERS")
+and the Police and the Ohio Police and Fire Pension ("OP&F"):
 
 1. _(a)_ For the categories of Village employees listed in subsection (b)
 hereof, the contributions required to be made by each such employee to the OPERS
@@ -506,7 +506,7 @@ projects and shall not apply to elected officials who, consistent with Ohio law
 and OPERS regulations, decline OPERS membership.  
 (Ord. 2011-37. Passed 6-27-11.)
 
-3. _(c)_ The Village’s method of payment of salary to employees who are
+3. _(c)_ The Village's method of payment of salary to employees who are
 participants in OPERS and OP&F shall be as follows, in order to provide for a
 salary reduction pick up of employee contributions to OPERS or OP&F:
 
@@ -518,8 +518,8 @@ salary reduction pick up of employee contributions to OPERS or OP&F:
 
         2. _(B)_ Cash salary.
 
-    2. _(2)_ An eligible employee’s deferred salary shall be equal to that
-    percentage of that employee’s total salary which is required from time to
+    2. _(2)_ An eligible employee's deferred salary shall be equal to that
+    percentage of that employee's total salary which is required from time to
     time by OPERS or OP&F to be paid as an employee contribution by that
     employee, and shall be paid by the Village to OPERS or OP&F on behalf of
     that employee as a pick up and in lieu of OPERS or OP&F employee
@@ -527,13 +527,13 @@ salary reduction pick up of employee contributions to OPERS or OP&F:
     the option of receiving the statutorily required contribution directly
     instead of it being paid by the Village to OPERS or OP&F.
 
-4. _(d)_ Such employee’s cash salary shall be equal to that employee’s total
+4. _(d)_ Such employee's cash salary shall be equal to that employee's total
 salary less the amount of the pick up for that employee, and shall be payable,
 subject to applicable payroll deductions to that employee.
 
     1. _(1)_ The Village shall compute and remit its employer contributions to
-    OPERS or OP&F based upon an employee’s total salary. The total combined
-    expenditures of the Village for such employee’s total salaries payable under
+    OPERS or OP&F based upon an employee's total salary. The total combined
+    expenditures of the Village for such employee's total salaries payable under
     applicable Village policies and the pick up provisions of this section shall
     not be greater than the amounts the employee would have been paid for those
     items had this provision not been in effect.
@@ -561,7 +561,7 @@ retirement boards.
 
 ## 149.21   PFDPF pickup
 
-Editor’s note: Former Section 149.21 was repealed by Ordinance 2011-26, passed
+Editor's note: Former Section 149.21 was repealed by Ordinance 2011-26, passed
 May 23, 2011.
 
 ## 149.22   Pre-employment physical

@@ -11,7 +11,7 @@ title: "Chapter 741: Taxicabs"
 * [741.01   Franchise required](#74101-franchise-required)
 * [741.02   Application for franchise; investigation](#74102-application-for-franchise-investigation)
 * [741.03   Inspections; insurance](#74103-inspections-insurance)
-* [741.04   Chief’s report to Council; issuance of franchise](#74104-chiefs-report-to-council-issuance-of-franchise)
+* [741.04   Chief's report to Council; issuance of franchise](#74104-chiefs-report-to-council-issuance-of-franchise)
 * [741.99   Penalty](#74199-penalty)
 
 ## Cross references
@@ -57,7 +57,7 @@ shall be in amounts set by Council for liability and property damage for every
 vehicle to be operated under such franchise.  
 (Ord. 1993-61. Passed 8-23-93.)
 
-## 741.04   Chief’s report to council; issuance of franchise
+## 741.04   Chief's report to council; issuance of franchise
 
 When the Chief of Police has completed his investigation of the character of
 such applicant and drivers and the conditions and serviceability of the

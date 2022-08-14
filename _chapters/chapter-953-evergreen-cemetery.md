@@ -6,7 +6,7 @@ chapter_no: 953
 title: "Chapter 953: Evergreen Cemetery"
 ---
 
-Editor’s note: Prices and payments covering the sale of lots and fees for
+Editor's note: Prices and payments covering the sale of lots and fees for
 interments within the Municipal Cemetery are set by the Board of Cemetery
 Trustees pursuant to Ohio R. C. 759.13 and 759.23. Please consult the
 Department of Finance for information concerning current costs and fees.
@@ -121,8 +121,8 @@ each purchaser of a grave. For a deceased resident who has a Trust, the Trust is
 limited to the purchase of one grave only.
 
 2. _(b)_ A maximum of four graves may be purchased, per family, by Village
-residents only. The cost of a 4′x12′ full size grave that allows three cremation
-urns or one casket & two cremation urns is $800.00. The cost of a 4′x12′ full
+residents only. The cost of a 4′×12′ full size grave that allows three cremation
+urns or one casket & two cremation urns is $800.00. The cost of a 4′×12′ full
 size grave in sections that allow three cremation urns only shall cost $700.
 
 3. _(c)_ Graves in Section 3-C are for cremations only, and cost $1,300.00 each
@@ -133,7 +133,7 @@ for residents and are limited to three cremation urns.
 5. _(e)_ In ground graves are not offered to non-residents; however, exceptions
 may be made at the discretion of the Cemetery Commission upon receipt of a
 written request from a non-resident. When an exception is made, a maximum of two
-graves may be purchased per family. The cost to a non-resident for a 4′x12′ full
+graves may be purchased per family. The cost to a non-resident for a 4′×12′ full
 size grave is $2,350.00.
 
 6. _(f)_ The purchase of a Right to Bury for a grave site is a final sale and
@@ -179,7 +179,7 @@ Cemetery Trustees.
 
 2. _(b)_ No Village resident may purchase a niche for a non-resident.
 
-3. _(c)_ (Editor’s note: Former subsection (c) hereof was repealed by Ordinance
+3. _(c)_ (Editor's note: Former subsection (c) hereof was repealed by Ordinance
 2019-23.)
 
 4. _(d)_ The cost of a memorial bench is $7,500, which includes the foundation
@@ -227,12 +227,12 @@ stating that they are the sole beneficiary of the burial site.
 interment. There will be no burials after 12:00 p.m. (noon) on Saturdays.  
 (Ord. 2017-14. Passed 3-13-17.)
 
-12. _(l)_ Columbarium 1 niches are 12” long, 12” high and 12” wide. A single urn
-maximum dimension may be 11” wide by 11” high by 11” long. For two urns, the
-maximum dimension for each urn is 5” wide by 5” long by 11” high. Columbarium 3
-niches are 12” wide by 14” long by 12” high. Maximum dimension for a single urn
-is 11” wide by 11” high by 13” long. The maximum for each urn when there are two
-urns is 5” wide by 6” long by 11” high.  
+12. _(l)_ Columbarium 1 niches are 12″ long, 12″ high and 12″ wide. A single urn
+maximum dimension may be 11″ wide by 11″ high by 11″ long. For two urns, the
+maximum dimension for each urn is 5″ wide by 5″ long by 11″ high. Columbarium 3
+niches are 12″ wide by 14″ long by 12″ high. Maximum dimension for a single urn
+is 11″ wide by 11″ high by 13″ long. The maximum for each urn when there are two
+urns is 5″ wide by 6″ long by 11″ high.  
 (Ord. 2020-40. Passed 9-14-20.)
 
 13. _(m)_ Engraving of the face plat is $350.00 for one name and $525.00 for two
@@ -255,7 +255,7 @@ Falls and to assure equitable treatment for all users of the cemeteries, the
 Chief Administrative Officer is authorized to promulgate rules and regulations,
 not inconsistent with the Charter and Codified Ordinances, as may be necessary
 for the safe, economical, and efficient management and protection of the
-Village’s cemeteries. Such regulations shall have the same validity as an
+Village's cemeteries. Such regulations shall have the same validity as an
 ordinance, and a current version shall be on file in the office of the Chief
 Administrative Officer.
 
@@ -275,7 +275,7 @@ burials. There will be no burials after 12:00 noon on Saturdays.
 cremation urns may be buried on top of an adult casket-filled grave; or three
 cremation urns may be buried in an unused full size grave.
 
-6. _(f)_ The west end of the grave is the ‘head’ end; the husband is buried in
+6. _(f)_ The west end of the grave is the 'head' end; the husband is buried in
 the south grave and the wife in the north grave of their two graves unless
 otherwise approved by the Sexton. In the case of domestic partners and marriages
 of the same sex, the grave owners shall designate which spouse or partner will
@@ -311,12 +311,12 @@ the Village at the cost listed in section 953.16(c).
 head of the grave. Exceptions, due to individual circumstances, will be
 determined by the Sexton.
 
-5. _(e)_ Only one grave marker, a maximum of 30" wide for a single grave and a
-maximum of 60" wide for two adjoining graves, is permitted on a grave. A second
-marker, not exceeding 24"x12" in size, may be placed flush with the ground in
+5. _(e)_ Only one grave marker, a maximum of 30″ wide for a single grave and a
+maximum of 60″ wide for two adjoining graves, is permitted on a grave. A second
+marker, not exceeding 24″×12″ in size, may be placed flush with the ground in
 front of the grave marker on a full size grave.
 
-6. _(f)_ Any grave marker greater than 36" in height must have prior approval of
+6. _(f)_ Any grave marker greater than 36″ in height must have prior approval of
 the Sexton and Cemetery Commission.
 
 7. _(g)_ All bench requests must be approved by the Sexton and Cemetery
@@ -377,27 +377,27 @@ the service.
 3. _(c)_ GRAVE MARKER FOUNDATION FEES: All monuments shall have a concrete
 foundation built by the cemetery sexton, pursuant to municipal specifications.
 
-    * 2′ x 12": $ 275.00
-    * 3′ x 12": $ 325.00
-    * 4′ x 12": $ 375.00
-    * 5′ x 12": $ 425.00
-    * 6′ x 12": $ 475.00
+    * 2′×12″: $ 275.00
+    * 3′×12″: $ 325.00
+    * 4′×12″: $ 375.00
+    * 5′×12″: $ 425.00
+    * 6′×12″: $ 475.00
 
-    No charge for 2′ x 12" foundation for approved Veterans Administration
+    No charge for 2′×12″ foundation for approved Veterans Administration
     marker.  
     (Ord. 2019-23. Passed 2-26-19.)
 
 ## 953.08   Indigent burial policy
 
 1. _(a)_ A person requesting indigent burial funds from the Village of Chagrin
-Falls shall complete and submit the City’s Application for Indigent Burial Funds
+Falls shall complete and submit the City's Application for Indigent Burial Funds
 to the Chief Administrative Officer.
 
 2. _(b)_ The Chief Administrative Officer shall review the application and
 determine whether the deceased was a resident of the Village of Chagrin Falls
-and eligible for benefits. The Chief Administrative Officer’s decision shall be
+and eligible for benefits. The Chief Administrative Officer's decision shall be
 final. Upon request of the Chief Administrative Officer, the applicant shall
-present proof of the deceased’s residency, such as a driver’s license, utility
+present proof of the deceased's residency, such as a driver's license, utility
 bills, copy of income tax returns, voter registration, or other documents or
 records which suggest residency in the Village of Chagrin Falls.
 
@@ -405,9 +405,9 @@ records which suggest residency in the Village of Chagrin Falls.
 approved for cremation of an indigent resident at the time of death, the Village
 of Chagrin Falls shall pay an amount not to exceed the maximum for cremation
 services to a licensed funeral home chosen by the Chief Administrative Officer
-or which is in possession of the deceased’s remains. Payment shall be made
+or which is in possession of the deceased's remains. Payment shall be made
 directly to the funeral home. The amount paid shall be reduced by the amount of
-any Veteran’s Administration or Social Security burial benefits for which the
+any Veteran's Administration or Social Security burial benefits for which the
 deceased is eligible or the value of the assets owned by the decedent at the
 time of death.
 
@@ -416,12 +416,12 @@ cremation of an indigent resident at the time of death, the deceased shall not
 qualify for indigent burial benefits under this policy.
 
 5. _(e)_ The applicant shall cooperate with the funeral home and execute all
-documents necessary to allow the cremation of the deceased’s remains.
+documents necessary to allow the cremation of the deceased's remains.
 
 6. _(f)_ A person who claims the body of an indigent for private interment or
 creation shall not be paid for the cost thereof by the Village of Chagrin Falls.
 
-7. _(g)_ The amount paid for cremation of an indigent’s remains and the
+7. _(g)_ The amount paid for cremation of an indigent's remains and the
 application form for benefits shall be periodically reviewed for compliance with
 the Ohio Revised Code and the prevailing cost of cremation services. The amount
 paid for cremation of an indigent resident may be increased by the Chief

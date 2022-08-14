@@ -39,7 +39,7 @@ new retail development near the existing Municipal center and by preserving the
 pedestrian oriented retail character of the commercial street frontage; and
 
 4. _(d)_ To complement the historic and small-scale character of the
-Municipality’s present residential and business communities.  
+Municipality's present residential and business communities.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1137.02   Permitted uses

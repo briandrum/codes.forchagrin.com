@@ -172,7 +172,7 @@ data in, retrieve data from or otherwise make use of any resources of a
 computer, computer system or computer network.
 
 21. _(u)_ "Credit card" includes, but is not limited to, a card, code, device or
-other means of access to a customer’s account for the purpose of obtaining
+other means of access to a customer's account for the purpose of obtaining
 money, property, labor or services on credit, or for initiating an electronic
 fund transfer at a point-of-sale terminal, an automated teller machine or a cash
 dispensing machine.
@@ -181,36 +181,36 @@ dispensing machine.
 15 U.S.C.A. 1693a, as amended.  
 (ORC 2913.01)
 
-23. _(w)_ “Rented property” means personal property in which the right of
+23. _(w)_ "Rented property" means personal property in which the right of
 possession and use of the property is for a short and possibly indeterminate
 term in return for consideration; the rentee generally controls the duration of
 possession of the property, within any applicable minimum or maximum term; and
 the amount of consideration generally is determined by the duration of
 possession of the property.
 
-24. _(x)_ “Telecommunication” means the origination, emission, dissemination,
+24. _(x)_ "Telecommunication" means the origination, emission, dissemination,
 transmission, or reception of data, images, signals, sounds, or other
 intelligence or equivalence of intelligence or any nature over any
 communications system by any method, including, but not limited to, a fiber
 optic, electronic, magnetic, optical, digital, or analog method.
 
-25. _(y)_ “Telecommunications device” means any instrument, equipment, machine,
+25. _(y)_ "Telecommunications device" means any instrument, equipment, machine,
 or other device that facilitates telecommunication, including, but not limited
 to, a computer, computer network, computer chip, computer circuit, scanner,
 telephone, cellular telephone, pager, personal communications device,
 transponder, receiver, radio, modem, or device that enables the use of a modem.
 
-26. _(z)_ “Telecommunications service” means the providing, allowing,
+26. _(z)_ "Telecommunications service" means the providing, allowing,
 facilitating, or generating of any form of telecommunication through the use of
 a telecommunications device over a telecommunications system.
 
-27. _(aa)_ “Counterfeit telecommunications device” means a telecommunications
+27. _(aa)_ "Counterfeit telecommunications device" means a telecommunications
 device that, alone or with another telecommunications device, has been altered,
 constructed, manufactured, or programmed to acquire, intercept, receive, or
 otherwise facilitate the use of a telecommunications service or information
 service without the authority or consent of the provider of the
-telecommunications service or information service. “Counterfeit
-telecommunications device” includes, but is not limited to, a clone telephone,
+telecommunications service or information service. "Counterfeit
+telecommunications device" includes, but is not limited to, a clone telephone,
 clone microchip, tumbler telephone, or tumbler microchip; a wireless scanning
 device capable of acquiring, intercepting, receiving, or otherwise facilitating
 the use of telecommunications service or information service without immediate
@@ -220,20 +220,20 @@ telephone.
 
 28. _(bb)_
 
-    1. “Information service” means, subject to subsection (bb)(2) hereof, the
+    1. "Information service" means, subject to subsection (bb)(2) hereof, the
     offering of a capability for generating, acquiring, storing, transforming,
     processing, retrieving, utilizing, or making available information via
     telecommunications, including, but not limited to, electronic publishing.
 
-    2. _(2)_ “Information service” does not include any use of a capability of a
+    2. _(2)_ "Information service" does not include any use of a capability of a
     type described in subsection (bb)(1) hereof for the management, control, or
     operation of a telecommunications system or the management of a
     telecommunications service.
 
-29. _(cc)_ “Elderly person” means a person who is sixty-five years of age or
+29. _(cc)_ "Elderly person" means a person who is sixty-five years of age or
 older.
 
-30. _(dd)_ “Disabled adult” means a person who is eighteen years of age or older
+30. _(dd)_ "Disabled adult" means a person who is eighteen years of age or older
 and has some impairment of body or mind that makes the person unfit to work at
 any substantially remunerative employment that the person otherwise would be
 able to perform and that will, with reasonable probability, continue for a
@@ -242,27 +242,27 @@ the impairment, or who is eighteen years of age or older and has been certified
 as permanently and totally disabled by an agency of this State or the United
 States that has the function of so classifying persons.
 
-31. _(ee)_ “Firearm” and “dangerous ordnance” have the same meanings as in Ohio
+31. _(ee)_ "Firearm" and "dangerous ordnance" have the same meanings as in Ohio
 R.C. 2923.11.
 
-32. _(ff)_ “Motor vehicle” has the same meaning as in Ohio R.C. 4501.01.
+32. _(ff)_ "Motor vehicle" has the same meaning as in Ohio R.C. 4501.01.
 
-33. _(gg)_ “Dangerous drug” has the same meaning as in Ohio R.C. 4729.01.
+33. _(gg)_ "Dangerous drug" has the same meaning as in Ohio R.C. 4729.01.
 
-34. _(hh)_ “Drug abuse offense” has the same meaning as in Ohio R.C. 2925.01.
+34. _(hh)_ "Drug abuse offense" has the same meaning as in Ohio R.C. 2925.01.
 
-35. _(ii)_ “Police dog or horse” has the same meaning as in Ohio R.C. 2921.321.
+35. _(ii)_ "Police dog or horse" has the same meaning as in Ohio R.C. 2921.321.
 
-36. _(jj)_ “Anhydrous ammonia” is a compound formed by the combination of two
+36. _(jj)_ "Anhydrous ammonia" is a compound formed by the combination of two
 gaseous elements, nitrogen and hydrogen, in the manner described in this
 subsection. Anhydrous ammonia is one part nitrogen to three parts hydrogen
 (NH3). Anhydrous ammonia by weight is fourteen parts nitrogen to three parts
 hydrogen, which is approximately eighty-two per cent nitrogen to eighteen per
 cent hydrogen.
 
-37. _(kk)_ “Assistance dog” has the same meaning as in Ohio R.C. 955.011.
+37. _(kk)_ "Assistance dog" has the same meaning as in Ohio R.C. 955.011.
 
-38. _(ll)_ “Active duty service member” means any member of the armed forces of
+38. _(ll)_ "Active duty service member" means any member of the armed forces of
 the United States performing active duty under Title 10 of the United States
 Code.  
 (ORC 2913.01)
@@ -281,13 +281,13 @@ involved in the offense.
     or complicity in violations of Section 545.05, 545.06, or 545.08,
     545.10(b)(1) or (2), or Section 545.15 or 545.20 involving a victim who is
     an elderly person or disabled adult, is committed by the offender in the
-    offender’s same employment, capacity, or relationship to another, all of
+    offender's same employment, capacity, or relationship to another, all of
     those offenses shall be tried as a single offense. When a series of offenses
     under Section 545.05, or a series of violations of, attempts to commit a
     violation of, conspiracies to violate, or complicity in violations of
     Sections 545.05 or 545.15 involving a victim who is an active duty service
     member or spouse of an active duty service member is committed by the
-    offender in the offender’s same employment, capacity or relationship to
+    offender in the offender's same employment, capacity or relationship to
     another, all of those offenses shall be tried as a single offense. The value
     of the property or services involved in the series of offenses for the
     purpose of determining the value is the aggregate value of all property and
@@ -316,7 +316,7 @@ involved in the offense.
     3. _(3)_ In prosecuting a single offense under subsection (b)(1) or (2), it
     is not necessary to separately allege and prove each offense in the series.
     Rather, it is sufficient to allege and prove that the offender, within a
-    given span of time, committed one or more theft offenses in the offender’s
+    given span of time, committed one or more theft offenses in the offender's
     same employment, capacity, or relationship to another as described in
     subsection (b) (1) of this section or that involve a common course of
     conduct to defraud multiple victims or a scheme or course of conduct as
@@ -330,7 +330,7 @@ involved in the offense.
 3. _(c)_ The following criteria shall be used in determining the value of
 property or services involved in a theft offense:
 
-    1. _(1)_ The value of an heirloom, memento, collector’s item, antique,
+    1. _(1)_ The value of an heirloom, memento, collector's item, antique,
     museum piece, manuscript, document, record or other thing that has intrinsic
     worth to its owner and that is either irreplaceable or is replaceable only
     on the expenditure of substantial time, effort or money, is the amount that
@@ -417,8 +417,8 @@ drawer or maker or on which the amount is blank;
 R.C. 4503.182, or any comparable temporary motor vehicle license registration as
 prescribed by the applicable law of another state or the United States;
 
-4. _(d)_ A blank form for a certificate of title or a manufacturer’s or
-importer’s certificate to a motor vehicle, as prescribed by Ohio R.C. 4505.07;
+4. _(d)_ A blank form for a certificate of title or a manufacturer's or
+importer's certificate to a motor vehicle, as prescribed by Ohio R.C. 4505.07;
 
 5. _(e)_ A blank form for any license listed in Ohio R.C. 4507.01(A).  
 (ORC 2913.71)
@@ -473,7 +473,7 @@ following purposes:
 4. _(d)_ The officer, agent or employee of the library, museum or archival
 institution, or the merchant or his employee or agent acting under subsection
 (a) or (b) hereof shall not search the person, search or seize any property
-belonging to the person detained without the person’s consent, or use undue
+belonging to the person detained without the person's consent, or use undue
 restraint upon the person detained.
 
 5. _(e)_ Any peace officer may arrest without a warrant any person that he has
@@ -499,7 +499,7 @@ taking.
     or borrows objects or items of public interest, and cares for and exhibits
     to the public the objects or items.
 
-    3. _(3)_ “Pretrial diversion program” means a rehabilitative, educational
+    3. _(3)_ "Pretrial diversion program" means a rehabilitative, educational
     program designed to reduce recidivism and promote personal responsibility
     that is at least four hours in length and that has been approved by any
     court in this State.  
@@ -557,20 +557,20 @@ into the fuel tank of the motor vehicle or into another container, the court may
 do one of the following:
 
     1. _(1)_ Unless subsection (c)(2) of this section applies, suspend for not
-    more than six months the offender’s driver’s license, probationary driver’s
-    license, commercial driver’s license, temporary instruction permit, or
+    more than six months the offender's driver's license, probationary driver's
+    license, commercial driver's license, temporary instruction permit, or
     nonresident operating privilege;
 
-    2. _(2)_ If the offender’s driver’s license, probationary driver’s license,
-    commercial driver’s license, temporary instruction permit, or nonresident
+    2. _(2)_ If the offender's driver's license, probationary driver's license,
+    commercial driver's license, temporary instruction permit, or nonresident
     operating privilege has previously been suspended pursuant to subsection
-    (c)(1) of this section, impose a class seven suspension of the offender’s
+    (c)(1) of this section, impose a class seven suspension of the offender's
     license, permit, or privilege from the range specified in Ohio R.C.
     4510.02(A)(7), provided that the suspension shall be for at least six
     months.
 
-    3. _(3)_ The court, in lieu of suspending the offender’s driver’s or
-    commercial driver’s license, probationary driver’s license, temporary
+    3. _(3)_ The court, in lieu of suspending the offender's driver's or
+    commercial driver's license, probationary driver's license, temporary
     instruction permit, or nonresident operating privilege pursuant to
     subsections (c)(1) or (2) of this section, instead may require the offender
     to perform community service for a number of hours determined by the court.
@@ -586,7 +586,7 @@ the property at the time it was rented. Evidence of intent to commit theft of
 rented property or rental services shall be determined pursuant to the
 provisions of Ohio R.C. 2913.72.
 
-5. _(e)_ The sentencing court that suspends an offender’s license, permit, or
+5. _(e)_ The sentencing court that suspends an offender's license, permit, or
 nonresident operating privilege under subsection (c) of this section may grant
 the offender limited driving privileges during the period of the suspension in
 accordance with Ohio R.C. Chapter 4510.  
@@ -714,7 +714,7 @@ if:
 
 1. _(a)_ As used in this section:
 
-    1. _(1)_ “Check” includes any form of debit from a demand deposit account,
+    1. _(1)_ "Check" includes any form of debit from a demand deposit account,
     including, but not limited to any of the following:
 
         1. _(A)_ A check, bill of exchange, draft, order of withdrawal, or
@@ -724,7 +724,7 @@ if:
         transaction, check card transaction, substitute check, web check, or any
         form of automated clearing house transaction.
 
-    2. _(2)_ “Issue a check” means causing any form of debit from a demand
+    2. _(2)_ "Issue a check" means causing any form of debit from a demand
     deposit account.
 
 2. _(b)_ No person, with purpose to defraud, shall issue or transfer or cause to
@@ -918,15 +918,15 @@ misdemeanor of the first degree.
 
 ## 545.17   Defrauding creditors
 
-1. _(a)_ No person, with purpose to defraud one or more of the person’s
+1. _(a)_ No person, with purpose to defraud one or more of the person's
 creditors, shall do any of the following:
 
     1. _(1)_ Remove, conceal, destroy, encumber, convey or otherwise deal with
-    any of the person’s property.
+    any of the person's property.
 
     2. _(2)_ Misrepresent or refuse to disclose to a fiduciary appointed to
-    administer or manage the person’s affairs or estate, the existence, amount
-    or location of any of the person’s property, or any other information
+    administer or manage the person's affairs or estate, the existence, amount
+    or location of any of the person's property, or any other information
     regarding such property that the person is legally required to furnish to
     the fiduciary.
 
@@ -969,7 +969,7 @@ be prosecuted under appropriate State law if:
 
 ## 545.19   Possession of criminal tools
 
-1. _(a)_ No person shall possess or have under the person’s control any
+1. _(a)_ No person shall possess or have under the person's control any
 substance, device, instrument, or article, with purpose to use it criminally.
 
 2. _(b)_ Each of the following constitutes prima-facie evidence of criminal
@@ -1021,11 +1021,11 @@ hundred fifty dollars ($250.00).
 
 ## 545.21   Identity fraud
 
-(Editor’s note: Former Section 545.21 has been deleted from the Codified
+(Editor's note: Former Section 545.21 has been deleted from the Codified
 Ordinances. Ohio R.C. 2913.49, from which Section 545.21 was derived, has been
 reclassified from a misdemeanor to a felony offense.)
 
 ## 545.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

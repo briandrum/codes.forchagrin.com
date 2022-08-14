@@ -10,7 +10,7 @@ title: "Chapter 331: Operation Generally"
 
 * [331.01   Driving upon right side of roadway; exceptions](#33101-driving-upon-right-side-of-roadway-exceptions)
 * [331.02   Passing to right when proceeding in opposite directions](#33102-passing-to-right-when-proceeding-in-opposite-directions)
-* [331.03   Overtaking, passing to left; driver’s duties](#33103-overtaking-passing-to-left-drivers-duties)
+* [331.03   Overtaking, passing to left; driver's duties](#33103-overtaking-passing-to-left-drivers-duties)
 * [331.04   Overtaking and passing upon right](#33104-overtaking-and-passing-upon-right)
 * [331.05   Overtaking, passing to left of center](#33105-overtaking-passing-to-left-of-center)
 * [331.06   Additional restrictions on driving upon left side of roadway](#33106-additional-restrictions-on-driving-upon-left-side-of-roadway)
@@ -28,12 +28,12 @@ title: "Chapter 331: Operation Generally"
 * [331.18   Operation of vehicle at yield signs](#33118-operation-of-vehicle-at-yield-signs)
 * [331.19   Operation of vehicle at stop signs](#33119-operation-of-vehicle-at-stop-signs)
 * [331.20   Emergency or public safety vehicles at stop signals or signs](#33120-emergency-or-public-safety-vehicles-at-stop-signals-or-signs)
-* [331.21   Right of way of public safety or coroner’s vehicle](#33121-right-of-way-of-public-safety-or-coroners-vehicle)
+* [331.21   Right of way of public safety or coroner's vehicle](#33121-right-of-way-of-public-safety-or-coroners-vehicle)
 * [331.211   Report of vehicle failing to yield right of way to public safety vehicle](#331211-report-of-vehicle-failing-to-yield-right-of-way-to-public-safety-vehicle)
 * [331.22   Driving onto roadwayfrom place other than roadway: duty to yield](#33122-driving-onto-roadwayfrom-place-other-than-roadway-duty-to-yield)
 * [331.23   Driving onto roadway from place other than roadway: stopping at sidewalk](#33123-driving-onto-roadway-from-place-other-than-roadway-stopping-at-sidewalk)
 * [331.24   Right of way of funeralprocession](#33124-right-of-way-of-funeralprocession)
-* [331.25   Driver’s view and control to be unobstructed by load or persons](#33125-drivers-view-and-control-to-be-unobstructed-by-load-or-persons)
+* [331.25   Driver's view and control to be unobstructed by load or persons](#33125-drivers-view-and-control-to-be-unobstructed-by-load-or-persons)
 * [331.26   Driving upon street postedas closed for repair](#33126-driving-upon-street-postedas-closed-for-repair)
 * [331.27   Following and parking nearemergency or safetyvehicles](#33127-following-and-parking-nearemergency-or-safetyvehicles)
 * [331.28   Driving over fire hose](#33128-driving-over-fire-hose)
@@ -102,10 +102,10 @@ the right half of the roadway, except as follows:
         2. _(B)_ When preparing for a left turn;
 
         3. _(C)_ When the driver must necessarily drive in a lane other than the
-        right-hand lane to continue on the driver’s intended route.
+        right-hand lane to continue on the driver's intended route.
 
     2. _(2)_ Nothing in subsection (b)(1) of this section requires a driver of a
-    slower vehicle to compromise the driver’s safety to allow overtaking by a
+    slower vehicle to compromise the driver's safety to allow overtaking by a
     faster vehicle.
 
 3. _(c)_ Upon any roadway having four or more lanes for moving traffic and
@@ -157,7 +157,7 @@ the third degree.
     of the Traffic Code.  
     (ORC 4511.26)
 
-## 331.03   Overtaking, passing to left; driver’s duties
+## 331.03   Overtaking, passing to left; driver's duties
 
 1. _(a)_ The following rules govern the overtaking and passing of vehicles
 proceeding in the same direction:
@@ -172,8 +172,8 @@ proceeding in the same direction:
 
     2. _(2)_ Except when overtaking and passing on the right is permitted, the
     operator of an overtaken vehicle shall give way to the right in favor of the
-    overtaking vehicle at the latter’s audible signal, and the operator shall
-    not increase the speed of the operator’s vehicle until completely passed by
+    overtaking vehicle at the latter's audible signal, and the operator shall
+    not increase the speed of the operator's vehicle until completely passed by
     the overtaking vehicle.
 
     3. _(3)_ The operator of a vehicle overtaking and passing another vehicle
@@ -261,7 +261,7 @@ the third degree.
 following conditions:
 
     1. _(1)_ When approaching the crest of a grade or upon a curve in the
-    highway, where the operator’s view is obstructed within such a distance as
+    highway, where the operator's view is obstructed within such a distance as
     to create a hazard in the event traffic might approach from the opposite
     direction;
 
@@ -295,14 +295,14 @@ the third degree.
 1. _(a)_ Hazardous zones, commonly called "no passing zones," shall consist of
 an auxiliary yellow line marked on the roadway pavement and placed parallel to
 the normal center line or marked lane line. When the auxiliary yellow line
-appears on the left side in the driver’s lane of travel and to the right of the
+appears on the left side in the driver's lane of travel and to the right of the
 normal center line or marked lane line, no driver shall drive across the
 auxiliary yellow line to overtake and pass another vehicle proceeding in the
 same direction. When auxiliary yellow lines appear on both sides of the normal
 center line or marked lane line, drivers proceeding in either direction shall
 not drive across such auxiliary yellow lines to overtake and pass another
 vehicle proceeding in the same direction. No driver shall, at any other time,
-drive across the yellow auxiliary line when it appears in the driver’s lane of
+drive across the yellow auxiliary line when it appears in the driver's lane of
 travel, except to make a lawfully permitted left-hand turn under the rules
 governing such movement. No passing signs may also be erected facing traffic to
 indicate the beginning and end of each no passing zone.  
@@ -579,7 +579,7 @@ signal in the manner hereinafter provided.
     bicycle or electric bicycle, the signal shall be made not less than one time
     but is not required to be continuous. A bicycle or electric bicycle operator
     is not required to make a signal if the bicycle or electric bicycle is in a
-    designated turn lane, and a signal shall not be given when the operator’s
+    designated turn lane, and a signal shall not be given when the operator's
     hands are needed for the safe operation of the bicycle or electric bicycle. 
     
 
@@ -721,7 +721,7 @@ immediate hazard during the time the driver is moving across or within the
 intersection or junction of roadways. Whenever a driver is involved in a
 collision with a vehicle in the intersection or junction of roadways, after
 driving past a yield sign without stopping, the collision shall be prima-facie
-evidence of the driver’s failure to yield the right of way.
+evidence of the driver's failure to yield the right of way.
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
@@ -788,26 +788,26 @@ the third degree.
     of the Traffic Code.  
     (ORC 4511.03)
 
-## 331.21   Right of way of public safety or coroner’s vehicle
+## 331.21   Right of way of public safety or coroner's vehicle
 
-1. _(a)_ Upon the approach of a public safety vehicle or coroner’s vehicle,
+1. _(a)_ Upon the approach of a public safety vehicle or coroner's vehicle,
 equipped with at least one flashing, rotating or oscillating light visible under
 normal atmospheric conditions from a distance of 500 feet to the front of the
 vehicle and the driver is giving an audible signal by siren, exhaust whistle or
 bell, no driver of any other vehicle shall fail to yield the right- of-way,
 immediately drive if practical to a position parallel to and as close as
 possible to, the right edge or curb of the street clear of any intersection, and
-stop and remain in that position until the public safety vehicle or coroner’s
+stop and remain in that position until the public safety vehicle or coroner's
 vehicle has passed, except when otherwise directed by a police officer.
 
 2. _(b)_ This section does not relieve the driver of a public safety vehicle or
-coroner’s vehicle from the duty to drive with due regard for the safety of all
+coroner's vehicle from the duty to drive with due regard for the safety of all
 persons and property upon the street.
 
-3. _(c)_ This section applies to a coroner’s vehicle only when the vehicle is
+3. _(c)_ This section applies to a coroner's vehicle only when the vehicle is
 operated in accordance with Ohio R.C. 4513.171. As used in this section,
-“coroner’s vehicle” means a vehicle used by a coroner, deputy coroner or
-coroner’s investigator that is equipped with a flashing, oscillating or rotating
+"coroner's vehicle" means a vehicle used by a coroner, deputy coroner or
+coroner's investigator that is equipped with a flashing, oscillating or rotating
 red or blue light and a siren, exhaust whistle, or bell capable of giving an
 audible signal.
 
@@ -856,7 +856,7 @@ violation occurred.
 
     2. _(2)_ If a person who is issued a citation for a violation of Section
     331.21(a) based on a report filed under subsection (a) of this section does
-    not enter a written plea of guilty and does not waive the person’s right to
+    not enter a written plea of guilty and does not waive the person's right to
     contest the citation but instead appears in person in the proper court to
     answer the charge, the trier of fact cannot find beyond a reasonable doubt
     that the person committed that violation unless the emergency personnel who
@@ -864,11 +864,11 @@ violation occurred.
 
 4. _(d)_ As used in this section:
 
-    1. _(1)_ “License plate” includes any temporary motor vehicle license
+    1. _(1)_ "License plate" includes any temporary motor vehicle license
     registration issued under Ohio R.C. 4503.182 or similar law of another
     jurisdiction.
 
-    2. _(2)_ “Public safety vehicle” does not include an unmarked public safety
+    2. _(2)_ "Public safety vehicle" does not include an unmarked public safety
     vehicle or a vehicle used by a public law enforcement officer or other
     person sworn to enforce the criminal and traffic laws of the State or a
     vehicle used by the Motor Carrier Enforcement Unit for the enforcement of
@@ -960,15 +960,15 @@ the third degree.
     of the Traffic Code.  
     (ORC 4511.451)
 
-## 331.25   Driver’s view and control to be unobstructed by load or persons
+## 331.25   Driver's view and control to be unobstructed by load or persons
 
 1. _(a)_ No person shall drive a vehicle when it is so loaded, or when there are
 in the front seat such number of persons, as to obstruct the view of the driver
-to the front or sides of the vehicle or to interfere with the driver’s control
+to the front or sides of the vehicle or to interfere with the driver's control
 over the driving mechanism of the vehicle.
 
 2. _(b)_ No passenger in a vehicle shall ride in such position as to interfere
-with the driver’s view ahead or to the sides, or to interfere with the driver’s
+with the driver's view ahead or to the sides, or to interfere with the driver's
 control over the driving mechanism of the vehicle.
 
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
@@ -1210,7 +1210,7 @@ misdemeanor of the third degree.
     2. _(2)_ This prohibition does not apply to a law enforcement officer, or
     other person sworn to enforce the criminal and traffic laws of the state,
     using an electric bicycle with the motor engaged while in the performance of
-    the officer’s duties.
+    the officer's duties.
 
     3. _(3)_ Nothing in this section shall be construed as prohibiting local
     authorities from regulating the operation of bicycles or electric bicycles,
@@ -1282,24 +1282,24 @@ attending programs offered by community boards of mental health and County
 boards of developmental disabilities, and children attending programs offered by
 head start agencies on their residence side of the highway.
 
-5. _(e)_ No school bus driver shall start the driver’s bus until after any
+5. _(e)_ No school bus driver shall start the driver's bus until after any
 child, person attending programs offered by community boards of mental health
 and County boards of developmental disabilities, or child attending a program
 offered by a head start agency who may have alighted therefrom has reached a
-place of safety on the child or person’s residence side of the road.
+place of safety on the child or person's residence side of the road.
 
 6. _(f)_ As used in this section:
 
-    1. _(1)_ “Head start agency” has the same meaning as in Ohio R.C. 3301.32.
+    1. _(1)_ "Head start agency" has the same meaning as in Ohio R.C. 3301.32.
 
-    2. _(2)_ “School bus”, as used in relation to children who attend a program
+    2. _(2)_ "School bus", as used in relation to children who attend a program
     offered by a head start agency, means a bus that is owned and operated by a
     head start agency, is equipped with an automatically extended stop warning
     sign of a type approved by the State Board of Education, is painted the
     color and displays the markings described in Ohio R.C. 4511.77, and is
     equipped with amber and red visual signals meeting the requirements of Ohio
     R.C. 4511.771, irrespective of whether or not the bus has fifteen or more
-    children aboard at any time. “School bus” does not include a van owned and
+    children aboard at any time. "School bus" does not include a van owned and
     operated by a head start agency, irrespective of its color, lights, or
     markings.
 
@@ -1308,20 +1308,20 @@ place of safety on the child or person’s residence side of the road.
     1. _(1)_ Whoever violates subsection (a) of this section may be fined an
     amount not to exceed five hundred dollars ($500.00). A person who is issued
     a citation for a violation of subsection (a) of this section is not
-    permitted to enter a written plea of guilty and waive the person’s right to
+    permitted to enter a written plea of guilty and waive the person's right to
     contest the citation in a trial but instead must appear in person in the
     proper court to answer the charge.
 
     2. _(2)_ In addition to and independent of any other penalty provided by
     law, the court or mayor may impose upon an offender who violates this
-    section a class seven suspension of the offender’s driver’s license,
-    commercial driver’s license, temporary instruction permit, probationary
+    section a class seven suspension of the offender's driver's license,
+    commercial driver's license, temporary instruction permit, probationary
     license, or nonresident operating privilege from the range specified in
     division (a)(7) of Ohio R.C. 4510.02. When a license is suspended under this
     section, the court or mayor shall cause the offender to deliver the license
     to the court, and the court or clerk of the court immediately shall forward
     the license to the Registrar of Motor Vehicles, together with notice of the
-    court’s action.  
+    court's action.  
     (ORC 4511.75)
 
 ## 331.39   Driving across grade crossing
@@ -1416,16 +1416,16 @@ degree.
 
     3. _(3)_ As used in this section:
 
-        1. _(A)_ “School vehicle” means any vehicle used for the transportation
+        1. _(A)_ "School vehicle" means any vehicle used for the transportation
         of pupils to and from a school or school-related function if the vehicle
         is owned or operated by, or operated under contract with, a public or
         nonpublic school.
 
-        2. _(B)_ “Bus” means any vehicle originally designed by its manufacturer
+        2. _(B)_ "Bus" means any vehicle originally designed by its manufacturer
         to transport sixteen or more passengers, including the driver, or
         carries sixteen or more passengers, including the driver.
 
-        3. _(C)_ “Exempt crossing” means a highway rail grade crossing
+        3. _(C)_ "Exempt crossing" means a highway rail grade crossing
         authorized and approved by the Public Utilities Commission under
         subsection (a)(2) hereof at which vehicles may cross without making the
         stop otherwise required by this section.
@@ -1565,18 +1565,18 @@ glass or anything else of an unsightly or unsanitary nature.
 
 1. _(a)_ As used in this section:
 
-    1. _(1)_ “Earphones” means any device that covers all or a portion of both
+    1. _(1)_ "Earphones" means any device that covers all or a portion of both
     ears and that does either of the following:
 
         1. _(A)_ Through either a physical connection to another device or a
         wireless connection, provides the listener with radio programs, music,
         or other information;
 
-        2. _(B)_ Provides hearing protection. “Earphones” does not include
+        2. _(B)_ Provides hearing protection. "Earphones" does not include
         speakers or other listening devices that are built into protective
         headgear.
 
-    2. _(2)_ “Earplugs” means any device that can be inserted into one or both
+    2. _(2)_ "Earplugs" means any device that can be inserted into one or both
     ears and that does either of the following:
 
         1. _(A)_ Through either a physical connection to another device or a
@@ -1624,7 +1624,7 @@ the road is closed due to the rise in water level and that any person who uses
 the closed portion of the road may be fined up to two thousand dollars ($2,000).
 
 2. _(b)_ A person who is issued a citation for a violation of subsection (a)
-hereof is not permitted to enter a written plea of guilty and waive the person’s
+hereof is not permitted to enter a written plea of guilty and waive the person's
 right to contest the citation in court, but instead must appear in person in the
 proper court to answer the charge.
 
@@ -1650,9 +1650,9 @@ proper court to answer the charge.
 
 4. _(d)_ As used in this section:
 
-    1. _(1)_ “Emergency medical service organization”, “firefighting agency” and
-    “private fire company” have the same meanings as in Ohio R.C. 9.60.
+    1. _(1)_ "Emergency medical service organization", "firefighting agency" and
+    "private fire company" have the same meanings as in Ohio R.C. 9.60.
 
-    2. _(2)_ “Rescuer” means a state agency, political subdivision, firefighting
+    2. _(2)_ "Rescuer" means a state agency, political subdivision, firefighting
     service, private fire company, or emergency medical service organization.  
     (ORC 4511.714.)

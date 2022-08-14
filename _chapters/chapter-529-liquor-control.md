@@ -32,14 +32,14 @@ title: "Chapter 529: Liquor Control"
 For the purpose of this chapter, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
 
-1. _(a)_ “Alcohol”. Ethyl alcohol, whether rectified or diluted with water or
+1. _(a)_ "Alcohol". Ethyl alcohol, whether rectified or diluted with water or
 not, whatever its origin may be, and includes synthetic ethyl alcohol. The term
 does not include denatured alcohol and wood alcohol.
 
-2. _(b)_ “At Retail”. For use or consumption by the purchaser and not for
+2. _(b)_ "At Retail". For use or consumption by the purchaser and not for
 resale.
 
-3. _(c)_ “Beer”.
+3. _(c)_ "Beer".
 
     1. _(1)_ Includes all beverages brewed or fermented wholly or in part from
     malt products and containing one-half of one percent (0.5%) or more of
@@ -49,17 +49,17 @@ resale.
     intoxicating liquor for purposes of this code, the Ohio Revised Code, or any
     rules adopted under it.
 
-4. _(d)_ “Cider”. All liquids that are fit to use for beverage purposes that
+4. _(d)_ "Cider". All liquids that are fit to use for beverage purposes that
 contain one-half of one percent (0.5%) of alcohol by volume, but not more than
 six percent (6%) of alcohol by weight that are made through the normal alcoholic
 fermentation of the juice of sound, ripe apples, including, without limitation,
 flavored, sparkling, or carbonated cider and cider made from pure condensed
 apple must.
 
-5. _(e)_ “Hotel”. The same meaning as in Oho R.C. 3731.01, subject to the
+5. _(e)_ "Hotel". The same meaning as in Oho R.C. 3731.01, subject to the
 exceptions mentioned in Ohio R.C. 3731.03.
 
-6. _(f)_ “Intoxicating Liquor” and “Liquor”. All liquids and compounds, other
+6. _(f)_ "Intoxicating Liquor" and "Liquor". All liquids and compounds, other
 than beer, containing one half of one percent (0.5%) or more of alcohol by
 volume which are fit to use for beverage purposes, from whatever source and by
 whatever process produced, by whatever name called, and whether they are
@@ -67,20 +67,20 @@ medicated, proprietary, or patented. The terms include cider and alcohol, and
 all solids and confections which contain one-half of one percent (0.5%) or more
 of alcohol by volume.
 
-7. _(g)_ “Low-Alcohol Beverage”. Any brewed or fermented malt product or any
+7. _(g)_ "Low-Alcohol Beverage". Any brewed or fermented malt product or any
 product made from the fermented juices of grapes, fruits, or other agricultural
 products that contains either no alcohol or less than one-half of one percent
 (0.5%) of alcohol by volume. The beverages described in this definition do not
 include a soft drink such as root beer, birch beer, or ginger beer.
 
-8. _(h)_ “Manufacture”. All processes by which beer or intoxicating liquor is
+8. _(h)_ "Manufacture". All processes by which beer or intoxicating liquor is
 produced, whether by distillation, rectifying, fortifying, blending,
 fermentation, brewing, or in any other manner.
 
-9. _(i)_ “Manufacturer”. Any person engaged in the business of manufacturing
+9. _(i)_ "Manufacturer". Any person engaged in the business of manufacturing
 beer or intoxicating liquor.
 
-10. _(j)_ “Mixed Beverages”. Include bottled and prepared cordials, cocktails,
+10. _(j)_ "Mixed Beverages". Include bottled and prepared cordials, cocktails,
 highballs, and solids and confections that are obtained by mixing any type of
 whiskey, neutral spirits, brandy, gin or other distilled spirits with, or over,
 carbonated or plain water, pure juices from flowers and plants, and other
@@ -88,9 +88,9 @@ flavoring materials. The completed product shall contain not less than one-half
 of one percent (0.5%) of alcohol by volume and not more than twenty-one percent
 (21%) of alcohol by volume. The phrase includes the contents of a pod.
 
-11. _(k)_ “Person”. Includes firms and corporations.
+11. _(k)_ "Person". Includes firms and corporations.
 
-12. _(l)_ “POD”. Means a sealed capsule made from plastic, glass, aluminum, or a
+12. _(l)_ "POD". Means a sealed capsule made from plastic, glass, aluminum, or a
 combination thereof to which all of the following apply:
 
     1. _(1)_ The capsule contains intoxicating liquor of more than twenty-one
@@ -99,24 +99,24 @@ combination thereof to which all of the following apply:
     2. _(2)_ The capsule also contains a concentrated flavoring mixture.
 
     3. _(3)_ The contents of the capsule are not readily accessible or intended
-    for consumption unless certain manufacturer’s processing instructions are
+    for consumption unless certain manufacturer's processing instructions are
     followed.
 
     4. _(4)_ The instructions include releasing the contents of the capsule
     through a machine specifically designed to process the contents.
 
-    5. _(5)_ After being properly processed according to the manufacturer’s
+    5. _(5)_ After being properly processed according to the manufacturer's
     instructions, the final product produced from the capsule contains not less
     than one-half of one percent (0.5%) of alcohol by volume and not more than
     twenty-one percent (21%) of alcohol by volume.
 
-13. _(m)_ “Restaurant”. A place located in a permanent building provided with
+13. _(m)_ "Restaurant". A place located in a permanent building provided with
 space and accommodations wherein, in consideration of the payment of money, hot
 meals are habitually prepared, sold, and served at noon and evening, as the
 principal business of the place. The term does not include pharmacies,
 confectionery stores, lunch stands, nightclubs, and filling stations.
 
-14. _(n)_ “Sale” and “Sell”. The exchange, barter, gift, offer for sale, sale,
+14. _(n)_ "Sale" and "Sell". The exchange, barter, gift, offer for sale, sale,
 distribution, and delivery of any kind, and the transfer of title or possession
 of beer and intoxicating liquor either by constructive or actual delivery by any
 means or devices whatever, including the sale of beer or intoxicating liquor by
@@ -127,17 +127,17 @@ Control authorizing the sale of the beer or intoxicating liquor, but no
 solicitor shall solicit any orders until the solicitor has been registered with
 the Division pursuant to Ohio R.C. 4303.25.
 
-15. _(o)_ “Sealed Container”. Any container having a capacity of not more than
+15. _(o)_ "Sealed Container". Any container having a capacity of not more than
 128 fluid ounces, the opening of which is closed to prevent the entrance of air.
 
-16. _(p)_ “Spirituous Liquor”. All intoxicating liquors containing more than
+16. _(p)_ "Spirituous Liquor". All intoxicating liquors containing more than
 twenty-one percent (21%) of alcohol by volume. The phrase does not include the
 contents of a pod.
 
-17. _(q)_ “Vehicle”. All means of transportation by land, by water, or by air,
+17. _(q)_ "Vehicle". All means of transportation by land, by water, or by air,
 and everything made use of in any way for such transportation.
 
-18. _(r)_ “Wine”. All liquids fit to use for beverage purposes containing not
+18. _(r)_ "Wine". All liquids fit to use for beverage purposes containing not
 less than one-half of one percent (0.5%) of alcohol by volume and not more than
 twenty-one percent (21%) of alcohol by volume, which is made from the fermented
 juices of grapes, fruits, or other agricultural products. Except as provided in
@@ -163,14 +163,14 @@ guardian.
 shall knowingly allow any underage person to remain in or on the place while
 possessing or consuming beer or intoxicating liquor, unless the intoxicating
 liquor or beer is given to the person possessing or consuming it by that
-person’s parent, spouse who is not an underage person or legal guardian and the
+person's parent, spouse who is not an underage person or legal guardian and the
 parent, spouse who is not an underage person or legal guardian is present at the
-time of the person’s possession or consumption of the beer or intoxicating
+time of the person's possession or consumption of the beer or intoxicating
 liquor.  
 
     An owner of a public or private place is not liable for acts or omissions in
     violation of this subsection that are committed by a lessee of that place,
-    unless the owner authorizes or acquiesces in the lessee’s acts or omissions.
+    unless the owner authorizes or acquiesces in the lessee's acts or omissions.
 
 3. _(c)_ No person shall engage or use accommodations at a hotel, inn, cabin,
 campground or restaurant when he knows or has reason to know either of the
@@ -215,7 +215,7 @@ knowingly possessing, consuming, or being under the influence of any beer or
 intoxicating liquor shall not apply if the underage person is supervised by a
 parent, spouse who is not an underage person, or legal guardian, or the beer or
 intoxicating liquor is given by a physician in the regular line of the
-physician’s practice or given for established religious purposes.
+physician's practice or given for established religious purposes.
 
 6. _(f)_ No parent, spouse who is not an underage person or legal guardian of a
 minor shall knowingly permit the minor to violate this section or Section
@@ -231,10 +231,10 @@ accommodations at the hotel, inn, cabin or campground.
 
     2. _(2)_ "Hotel" has the same meaning as in Ohio R.C. 3731.01.
 
-    3. _(3)_ “Licensed health professional authorized to prescribe drugs” and
-    “prescription” have the same meanings as in Ohio R.C. 4729.01.
+    3. _(3)_ "Licensed health professional authorized to prescribe drugs" and
+    "prescription" have the same meanings as in Ohio R.C. 4729.01.
 
-    4. _(4)_ “Minor” means a person under the age of eighteen years.
+    4. _(4)_ "Minor" means a person under the age of eighteen years.
 
     5. _(5)_ "Underage person" means a person under the age of twenty-one
     years.  
@@ -261,7 +261,7 @@ person under twenty-one years of age, by purchase, or as a gift.
 
 3. _(c)_ Except as otherwise provided in this chapter or Ohio R.C. Chapter 4301,
 no person under the age of twenty-one years shall knowingly show or give false
-information concerning the person’s name, age or other identification for the
+information concerning the person's name, age or other identification for the
 purpose of purchasing or otherwise obtaining beer or intoxicating liquor in any
 place where beer or intoxicating liquor is sold under a permit issued by the
 Division of Liquor Control or sold by the Division of Liquor Control.  
@@ -284,43 +284,43 @@ Division of Liquor Control or sold by the Division of Liquor Control.
         1. _(A)_ Whoever violates subsection (c) hereof is guilty of a
         misdemeanor of the first degree. If, in committing a first violation of
         that subsection, the offender presented to the permit holder or the
-        permit holder’s employee or agent a false, fictitious or altered
-        identification card, a false or fictitious driver’s license purportedly
-        issued by any state, or a driver’s license issued by any state that has
+        permit holder's employee or agent a false, fictitious or altered
+        identification card, a false or fictitious driver's license purportedly
+        issued by any state, or a driver's license issued by any state that has
         been altered, the offender is guilty of a misdemeanor of the first
         degree and shall be fined not less than two hundred fifty dollars
         ($250.00) and not more than one thousand dollars ($1,000) and may be
         sentenced to a term of imprisonment of not more than six months.
 
         2. _(B)_ On a second violation in which, for the second time, the
-        offender presented to the permit holder or the permit holder’s employee
+        offender presented to the permit holder or the permit holder's employee
         or agent a false, fictitious or altered identification card, a false or
-        fictitious driver’s license purportedly issued by any state, or a
-        driver’s license issued by any state that has been altered, the offender
+        fictitious driver's license purportedly issued by any state, or a
+        driver's license issued by any state that has been altered, the offender
         is guilty of a misdemeanor of the first degree and shall be fined not
         less than five hundred dollars ($500.00) nor more than one thousand
         dollars ($1,000), and may be sentenced to a term of imprisonment of not
         more than six months. The court also may impose a class seven suspension
-        of the offender’s driver’s or commercial driver’s license or permit or
+        of the offender's driver's or commercial driver's license or permit or
         nonresident operating privilege from the range specified in Ohio R.C.
         4510.02(A)(7).
 
         3. _(C)_ On a third or subsequent violation in which, for the third or
         subsequent time, the offender presented to the permit holder or the
-        permit holder’s employee or agent a false, fictitious or altered
-        identification card, a false or fictitious driver’s license purportedly
-        issued by any state, or a driver’s license issued by any state that has
+        permit holder's employee or agent a false, fictitious or altered
+        identification card, a false or fictitious driver's license purportedly
+        issued by any state, or a driver's license issued by any state that has
         been altered, the offender is guilty of a misdemeanor of the first
         degree and shall be fined not less than five hundred dollars ($500.00)
         nor more than one thousand dollars ($1,000), and may be sentenced to a
         term of imprisonment of not more than six months. Except as provided in
         this subsection, the court also may impose a class six suspension of the
-        offender’s driver’s or commercial driver’s license or permit or
+        offender's driver's or commercial driver's license or permit or
         nonresident operating privilege from the range specified in Ohio R.C.
         4510.02(A)(6), and the court may order that the suspension or denial
         remain in effect until the offender attains the age of twenty-one years.
         The court, in lieu of suspending the offenders temporary instruction
-        permit, probationary driver’s license or driver’s license, instead may
+        permit, probationary driver's license or driver's license, instead may
         order the offender to perform a determinate number of hours of community
         service, with the court determining the actual number of hours and the
         nature of the community service the offender shall perform.  
@@ -348,14 +348,14 @@ the fourth degree.
 
 3. _(c)_ If an offender who violates this section was under the age of eighteen
 years at the time of the offense, the court, in addition to any other penalties
-it imposes upon the offender, shall suspend the offender’s temporary instruction
-permit, probationary driver’s license, or driver’s license for a period of not
+it imposes upon the offender, shall suspend the offender's temporary instruction
+permit, probationary driver's license, or driver's license for a period of not
 less than six months and not more than one year. In lieu of suspending the
-offender’s temporary instruction permit, probationary driver’s license or
-driver’s license, the court may instead require the offender to perform
+offender's temporary instruction permit, probationary driver's license or
+driver's license, the court may instead require the offender to perform
 community service for a number of hours to be determined by the court. If the
 offender is fifteen years and six months of age or older and has not been issued
-a temporary instruction permit or probationary driver’s license, the offender
+a temporary instruction permit or probationary driver's license, the offender
 shall not be eligible to be issued such a license or permit for a period of six
 months. If the offender has not attained the age of fifteen years and six
 months, the offender shall not be eligible to be issued a temporary instruction
@@ -364,7 +364,7 @@ permit until the offender attains the age of sixteen years.
 
 ## 529.05   Permit required
 
-1. _(a)_ No person personally or by the person’s clerk, agent or employee shall
+1. _(a)_ No person personally or by the person's clerk, agent or employee shall
 manufacture, manufacture for sale, offer, keep or possess for sale, furnish or
 sell, or solicit the purchase or sale of any beer or intoxicating liquor in this
 Municipality, or transport, import or cause to be transported or imported any
@@ -392,7 +392,7 @@ or with the intent to obtain any low-alcohol beverage for an underage person, by
 purchase or as a gift.
 
 5. _(e)_ No underage person shall knowingly show or give false information
-concerning the person’s name, age, or other identification for the purpose of
+concerning the person's name, age, or other identification for the purpose of
 purchasing or otherwise obtaining any low-alcohol beverage in any place in this
 Municipality.
 
@@ -405,18 +405,18 @@ underage person, or legal guardian.
 7. _(g)_ No person who is the owner or occupant of any public or private place
 shall knowingly allow any underage person to remain in or on the place while
 possessing or consuming any low-alcohol beverage, unless the low-alcohol
-beverage is given to the person possessing or consuming it by that person’s
+beverage is given to the person possessing or consuming it by that person's
 parent, spouse who is not an underage person, or legal guardian, and the parent,
 spouse who is not an underage person, or legal guardian is present when the
 person possesses or consumes the low-alcohol beverage. An owner of a public or
 private place is not liable for acts or omissions in violation of this division
 that are committed by a lessee of that place, unless the owner authorizes or
-acquiesces in the lessee’s acts or omissions.
+acquiesces in the lessee's acts or omissions.
 
 8. _(h)_ No underage person shall knowingly possess or consume any low-alcohol
 beverage in any public or private place, unless accompanied by a parent, spouse
 who is not an underage person, or legal guardian, or unless the low-alcohol
-beverage is given by a physician in the regular line of the physician’s practice
+beverage is given by a physician in the regular line of the physician's practice
 or given for established religious purposes.
 
 9. _(i)_ No parent, spouse who is not an underage person, or legal guardian of
@@ -439,13 +439,13 @@ public work shall be completed.
 
 1. _(a)_ As used in this section:
 
-    1. _(1)_ “Chauffeured limousine” means a vehicle registered under Ohio R.C.
+    1. _(1)_ "Chauffeured limousine" means a vehicle registered under Ohio R.C.
     4503.24.
 
     2. _(2)_ "Street," "highway" and "motor vehicle" have the same meanings as
     in Ohio R.C. 4511.01.
 
-2. _(b)_ No person shall have in the person’s possession an opened container of
+2. _(b)_ No person shall have in the person's possession an opened container of
 beer or intoxicating liquor in any of the following circumstances:
 
     1. _(1)_ In a State liquor store;
@@ -467,7 +467,7 @@ beer or intoxicating liquor in any of the following circumstances:
 
 3. _(c)_
 
-    1. _(1)_ A person may have in the person’s possession an opened container of
+    1. _(1)_ A person may have in the person's possession an opened container of
     any of the following:
 
         1. _(A)_ Beer or intoxicating liquor that has been lawfully purchased
@@ -492,19 +492,19 @@ beer or intoxicating liquor in any of the following circumstances:
         5. _(E)_ Spirituous liquor to be consumed for purposes of a tasting
         sample, as defined in Ohio R.C. 4301.171.
 
-    2. _(2)_ A person may have in the person’s possession on an F liquor permit
+    2. _(2)_ A person may have in the person's possession on an F liquor permit
     premises an opened container of beer or intoxicating liquor that was not
     purchased from the holder of the F permit if the premises for which the F
     permit is issued is a music festival and the holder of the F permit grants
     permission for that possession on the premises during the period for which
-    the F permit is issued. As used in this section, “music festival” means a
+    the F permit is issued. As used in this section, "music festival" means a
     series of outdoor live musical performances, extending for a period of at
     least three consecutive days and located on an area of land of at least
     forty acres.
 
     3. _(3)_
 
-        1. _(A)_ A person may have in the person’s possession on a D-2 liquor
+        1. _(A)_ A person may have in the person's possession on a D-2 liquor
         permit premises an opened or unopened container of wine that was not
         purchased from the holder of the D-2 permit if the premises for which
         the D-2 permit is issued is an outdoor performing arts center, the
@@ -515,23 +515,23 @@ beer or intoxicating liquor in any of the following circumstances:
 
         2. _(B)_ As used in subsection (c)(3)A. of this section:
 
-            1. _(1)_ “Orchestral performance” means a concert comprised of a
+            1. _(1)_ "Orchestral performance" means a concert comprised of a
             group of not fewer than forty musicians playing various musical
             instruments.
 
-            2. _(2)_ “Outdoor performing arts center” means an outdoor
+            2. _(2)_ "Outdoor performing arts center" means an outdoor
             performing arts center that is located on not less than one hundred
             fifty acres of land and that is open for performances from the first
             day of April to the last day of October of each year.
 
-    4. _(4)_ A person may have in the person’s possession an opened or unopened
+    4. _(4)_ A person may have in the person's possession an opened or unopened
     container of beer or intoxicating liquor at an outdoor location at which the
     person is attending an orchestral performance as defined in subsection (c)
     (3)B.1. hereof if the person with supervision and control over the
     performance grants permission for the possession and consumption of beer or
     intoxicating liquor in certain predesignated areas of that outdoor location.
 
-    5. _(5)_ A person may have in the person’s possession on an F-9 liquor
+    5. _(5)_ A person may have in the person's possession on an F-9 liquor
     permit premises an opened or unopened container of beer or intoxicating
     liquor that was not purchased from the holder of the F-9 permit if the
     person is attending either of the following:
@@ -546,12 +546,12 @@ beer or intoxicating liquor in any of the following circumstances:
         twenty-five other events or performances that are free of charge on the
         permit premises.
 
-            As used in subsection (c)(5) hereof, “orchestral performance” has
+            As used in subsection (c)(5) hereof, "orchestral performance" has
             the same meaning as in subsection (c)(3)B. of this section.
 
     6. _(6)_
 
-        1. _(A)_ A person may have in the person’s possession on the property of
+        1. _(A)_ A person may have in the person's possession on the property of
         an outdoor motorsports facility an opened or unopened container of beer
         or intoxicating liquor that was not purchased from the owner of the
         facility if both of the following apply:
@@ -564,10 +564,10 @@ beer or intoxicating liquor in any of the following circumstances:
 
         2. _(B)_ As used in subsection (c)(6)A. of this section:
 
-            1. _(1)_ “Racing event” means a motor vehicle racing event
+            1. _(1)_ "Racing event" means a motor vehicle racing event
             sanctioned by one or more motor racing sanctioning organizations.
 
-            2. _(2)_ “Outdoor motorsports facility” means an outdoor racetrack
+            2. _(2)_ "Outdoor motorsports facility" means an outdoor racetrack
             to which all of the following apply:
 
                 1. _(a)_ It is two and four-tenths miles or more in length.
@@ -582,14 +582,14 @@ beer or intoxicating liquor in any of the following circumstances:
 
     7. _(7)_
 
-        1. _(A)_ A person may have in the person’s possession an opened
+        1. _(A)_ A person may have in the person's possession an opened
         container of beer or intoxicating liquor at an outdoor location within
         an outdoor refreshment area created under Ohio R.C. 4301.82, if the
         opened container of beer or intoxicating liquor was purchased from an
         A-1, A-1-A, A- 1c, A-2, A-2f, D class or F class permit holder to which
         both of the following apply:
 
-            1. _(1)_ The permit holder’s premises is located within the outdoor
+            1. _(1)_ The permit holder's premises is located within the outdoor
             refreshment area.
 
             2. _(2)_ The permit held by the permit holder has an outdoor
@@ -607,12 +607,12 @@ beer or intoxicating liquor in any of the following circumstances:
             area, unless the possession is otherwise authorized under subsection
             (d) or (e) of this section.
 
-        3. _(C)_ As used in subsection (c)(7) of this section, “D class permit
-        holder” does not include a D-6 or D-8 permit holder.
+        3. _(C)_ As used in subsection (c)(7) of this section, "D class permit
+        holder" does not include a D-6 or D-8 permit holder.
 
     8. _(8)_
 
-        1. _(A)_ A person may have in the person’s possession on the property of
+        1. _(A)_ A person may have in the person's possession on the property of
         a market, within a defined F-8 permit premises, an opened container of
         beer or intoxicating liquor that was purchased from a D permit premises
         that is located immediately adjacent to the market if both of the
@@ -686,7 +686,7 @@ following apply:
     a passenger riding on a commercial quadricycle from possessing an opened
     container or beer or wine.
 
-    3. _(3)_ As used in this section, “commercial quadricycle” means a vehicle
+    3. _(3)_ As used in this section, "commercial quadricycle" means a vehicle
     that has fully-operative pedals for propulsion entirely by human power and
     that meets all of the following requirements:
 
@@ -703,12 +703,12 @@ following apply:
         5. _(E)_ It is operated by the vehicle owner or an employee of the
         owner.
 
-7. _(g)_ This section does not apply to a person that has in the person’s
+7. _(g)_ This section does not apply to a person that has in the person's
 possession an opened container of beer or intoxicating liquor on the premises of
 a market if the beer or intoxicating liquor has been purchased from a D liquor
 permit holder that is located in the market.  
 
-    As used in subsection (g) of this section, “market” means an establishment
+    As used in subsection (g) of this section, "market" means an establishment
     that:
 
     1. _(1)_ Leases space in the market to individual vendors, not less than
@@ -718,13 +718,13 @@ permit holder that is located in the market.
     2. _(2)_ Has an indoor sales floor area of not less than twenty-two thousand
     square feet;
 
-    3. _(3)_ Hosts a farmer’s market on each Saturday from April through
+    3. _(3)_ Hosts a farmer's market on each Saturday from April through
     December.  
     (ORC 4301.62)
 
 8. _(h)_
 
-    1. _(1)_ As used in this section, “alcoholic beverage” has the same meaning
+    1. _(1)_ As used in this section, "alcoholic beverage" has the same meaning
     as in Ohio R.C. 4303.185.
 
     2. _(2)_ An alcoholic beverage in a closed container being transported under
@@ -788,5 +788,5 @@ shall they begin prior to five thirty a.m.
 
 ## 529.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

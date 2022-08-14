@@ -79,7 +79,7 @@ Council.
 
 ## 133.04   Expense account
 
-(Editor’s note: This section was repealed by Ordinance 1987-53, passed December
+(Editor's note: This section was repealed by Ordinance 1987-53, passed December
 14, 1987.)
 
 ## 133.05   Streets and services division and street superintendent

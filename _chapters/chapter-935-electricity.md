@@ -6,7 +6,7 @@ chapter_no: 935
 title: "Chapter 935: Electricity"
 ---
 
-Editor’s note: There are no sections in Chapter 935. This chapter has been established to provide a place for cross references
+Editor's note: There are no sections in Chapter 935. This chapter has been established to provide a place for cross references
 and any future legislation.
 
 ## Cross references

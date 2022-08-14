@@ -138,7 +138,7 @@ the Chief Administrative Officer of the deficiencies.
 
 ## 919.04   Privy vault cleaners; permit required; report
 
-(Editor’s note: Section 919.04 was repealed by Ordinance 2005-28, passed June
+(Editor's note: Section 919.04 was repealed by Ordinance 2005-28, passed June
 13, 2005.)
 
 ## 919.99   Penalty

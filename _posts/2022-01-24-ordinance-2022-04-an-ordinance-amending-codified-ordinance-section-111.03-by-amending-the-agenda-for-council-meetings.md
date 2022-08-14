@@ -68,19 +68,19 @@ its entirety to read as follows:
 > 
 >     4. _(4)_ Administrative Reports
 > 
->         1. _(a)_ Mayor’s Report
+>         1. _(a)_ Mayor's Report
 > 
->         2. _(b)_ Finance Director’s Report
+>         2. _(b)_ Finance Director's Report
 > 
->         3. _(c)_ Law Director’s Report
+>         3. _(c)_ Law Director's Report
 > 
->         4. _(d)_ Chief Administrative Officer’s Report
+>         4. _(d)_ Chief Administrative Officer's Report
 > 
->         5. _(e)_ Engineer’s Report
+>         5. _(e)_ Engineer's Report
 > 
->         6. _(f)_ Police Chief’s Report
+>         6. _(f)_ Police Chief's Report
 > 
->         7. _(g)_ Fire Chief’s Report
+>         7. _(g)_ Fire Chief's Report
 > 
 >     5. _(5)_ Council Reports
 > 
@@ -137,14 +137,14 @@ text of which follows is hereby repealed.
 > 
 > 3. _(3)_ READING AND DISPOSAL OF MINUTES.
 > 
-> 4. _(4)_ MAYOR’S REPORT.
+> 4. _(4)_ MAYOR'S REPORT.
 > 
-> 5. _(5)_ FINANCE DIRECTOR’S REPORT.
+> 5. _(5)_ FINANCE DIRECTOR'S REPORT.
 > 
 > 6. _(6)_ MEMBERS OF PUBLIC SPEAK TO AGENDA ITEMS. (Not to exceed two (2) 
 > minutes per person.)
 > 
-> 7. _(7)_ LAW DIRECTORS’ REPORT
+> 7. _(7)_ LAW DIRECTORS' REPORT
 > 
 >     1. _(A)_ LEGISLATIVE DOCKET - Disposition of legislation, including any 
 >     public hearings on legislation.
@@ -154,13 +154,13 @@ text of which follows is hereby repealed.
 > 
 >  8. _(8)_ COUNCIL COMMITTEE REPORTS.
 > 
->  9. _(9)_ CHIEF ADMINISTRATIVE OFFICER’S REPORT.
+>  9. _(9)_ CHIEF ADMINISTRATIVE OFFICER'S REPORT.
 > 
-> 10. _(10)_ ENGINEER’S REPORT.
+> 10. _(10)_ ENGINEER'S REPORT.
 > 
-> 11. _(11)_ POLICE CHIEF’S REPORT.
+> 11. _(11)_ POLICE CHIEF'S REPORT.
 > 
-> 12. _(12)_ FIRE CHIEF’S REPORT.
+> 12. _(12)_ FIRE CHIEF'S REPORT.
 > 
 > 13. _(13)_ MEMBERS OF PUBLIC SPEAK TO ANY MATTER (not to exceed five (5)
 > minutes).
@@ -212,13 +212,13 @@ strikeouts for deletions and underlining for additions, reads as follows:
 > 
 >     3. <del>_(3)_ READING AND DISPOSAL OF MINUTES.</del>
 > 
->     4. <del>_(4)_ MAYOR’S REPORT.</del>
+>     4. <del>_(4)_ MAYOR'S REPORT.</del>
 > 
->     5. <del>_(5)_ FINANCE DIRECTOR’S REPORT.</del>
+>     5. <del>_(5)_ FINANCE DIRECTOR'S REPORT.</del>
 > 
 >     6. <del>_(6)_ MEMBERS OF PUBLIC SPEAK TO AGENDA ITEMS. (Not to exceed two (2) minutes per person.)</del>
 > 
->     7. <del>_(7)_ LAW DIRECTORS’ REPORT</del>
+>     7. <del>_(7)_ LAW DIRECTORS' REPORT</del>
 > 
 >         1. <del>_(A)_ LEGISLATIVE DOCKET - Disposition of legislation, including any public hearings on legislation.</del>
 > 
@@ -226,13 +226,13 @@ strikeouts for deletions and underlining for additions, reads as follows:
 > 
 >     8. <del>_(8)_ COUNCIL COMMITTEE REPORTS.</del>
 > 
->     9. <del>_(9)_ CHIEF ADMINISTRATIVE OFFICER’S REPORT.</del>
+>     9. <del>_(9)_ CHIEF ADMINISTRATIVE OFFICER'S REPORT.</del>
 > 
->     10. <del>_(10)_ ENGINEER’S REPORT.</del>
+>     10. <del>_(10)_ ENGINEER'S REPORT.</del>
 > 
->     11. <del>_(11)_ POLICE CHIEF’S REPORT.</del>
+>     11. <del>_(11)_ POLICE CHIEF'S REPORT.</del>
 > 
->     12. <del>_(12)_ FIRE CHIEF’S REPORT.</del>
+>     12. <del>_(12)_ FIRE CHIEF'S REPORT.</del>
 > 
 >     13. <del>_(13)_ MEMBERS OF PUBLIC SPEAK TO ANY MATTER (not to exceed five (5) minutes).</del>
 > 
@@ -262,19 +262,19 @@ strikeouts for deletions and underlining for additions, reads as follows:
 > 
 >     4. <ins>_(4)_ Administrative Reports</ins>
 > 
->         1. <ins>_(a)_ Mayor’s Report</ins>
+>         1. <ins>_(a)_ Mayor's Report</ins>
 > 
->         2. <ins>_(b)_ Finance Director’s Report</ins>
+>         2. <ins>_(b)_ Finance Director's Report</ins>
 > 
->         3. <ins>_(c)_ Law Director’s Report</ins>
+>         3. <ins>_(c)_ Law Director's Report</ins>
 > 
->         4. <ins>_(d)_ Chief Executive Officer’s Report</ins>
+>         4. <ins>_(d)_ Chief Executive Officer's Report</ins>
 > 
->         5. <ins>_(e)_ Engineer’s Report</ins>
+>         5. <ins>_(e)_ Engineer's Report</ins>
 > 
->         6. <ins>_(f)_ Police Chief’s Report</ins>
+>         6. <ins>_(f)_ Police Chief's Report</ins>
 > 
->         7. <ins>_(g)_ Fire Chief’s Report</ins>
+>         7. <ins>_(g)_ Fire Chief's Report</ins>
 > 
 >     5. <ins>_(5)_ Council Reports</ins>
 > 

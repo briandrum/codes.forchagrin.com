@@ -36,7 +36,7 @@ term of one of the members appointed to the first Parking Commission shall be
 for one year and one of the members to the first Commission shall be for two
 years. In the event that a vacancy occurs during the term of any member, a
 successor shall be appointed by the Mayor for the unexpired portion of that
-term. Council’s representative shall serve a term to be set by Council upon
+term. Council's representative shall serve a term to be set by Council upon
 appointment.  
 (Ord. 1993-70. Passed 9-13-93.)
 
@@ -52,7 +52,7 @@ The Parking Commission shall have the power to:
 1. _(a)_ Study, investigate, plan, advise, report and recommend to the Mayor and
 Council and the Chief Administrative Officer of the Village any action, program,
 plan, improvement or legislation which the Commission finds or determines to be
-advisable in addressing motor vehicle parking within the Village’s Business
+advisable in addressing motor vehicle parking within the Village's Business
 District for the enhancement and benefit of the entire Village.
 
 2. _(b)_ To prepare a written report to the Mayor, Council and the Chief

@@ -6,7 +6,7 @@ chapter_no: 937
 title: "Chapter 937: Gas"
 ---
 
-Editor’s note: There are no sections in Chapter 937. This chapter has been established to provide a place for cross references
+Editor's note: There are no sections in Chapter 937. This chapter has been established to provide a place for cross references
 and any future legislation.
 
 ## Cross references

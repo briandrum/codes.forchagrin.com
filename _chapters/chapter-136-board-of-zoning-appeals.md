@@ -6,7 +6,7 @@ chapter_no: 136
 title: "Chapter 136: Board of Zoning Appeals"
 ---
 
-Editor’s note: The Board of Zoning Appeals was established by Ordinance
+Editor's note: The Board of Zoning Appeals was established by Ordinance
 1979-1172.
 
 * [136.01   Establishment; members](#13601-establishment-members)

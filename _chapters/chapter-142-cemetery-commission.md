@@ -20,8 +20,8 @@ title: "Chapter 142: Cemetery Commission"
 
 ## 142.01   Creation
 
-There is hereby created a commission to be known and designated as the “Cemetery
-Commission”, composed of three residents of the Municipality, and one additional
+There is hereby created a commission to be known and designated as the "Cemetery
+Commission", composed of three residents of the Municipality, and one additional
 Council Member, for a total of four voting members of the Commission. Resident
 members shall be appointed and removed by the Mayor. The Council representative
 to the Cemetery Commission shall be appointed annually by the Council.  

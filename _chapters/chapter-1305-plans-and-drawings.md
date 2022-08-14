@@ -82,7 +82,7 @@ of the Inspector.
 5. _(e)_ The Inspector may waive the requirements as to certification when, in
 his opinion, such separate certification is unnecessary. The originals of all
 certifications and copies of all waivers of certification shall be made a part
-of the permanent files of the Inspector’s office.  
+of the permanent files of the Inspector's office.  
 (Ord. 1965-616. Passed 6-14-65.)
 
 ## 1305.04   Specifications
@@ -125,4 +125,4 @@ thereof shall be submitted to the Inspector for approval.
 
 ## 1305.99   Penalty
 
-(Editor’s note: See Section 1303.99 general Code penalty if no specific penalty is provided.)
+(Editor's note: See Section 1303.99 general Code penalty if no specific penalty is provided.)

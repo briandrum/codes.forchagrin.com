@@ -17,7 +17,7 @@ title: "Chapter 509: Disorderly Conduct and Peace Disturbance"
 * [509.07   Making false alarms](#50907-making-false-alarms)
 * [509.08   Unnecessary noise](#50908-unnecessary-noise)
 * [509.09   Vagrants](#50909-vagrants) (Repealed)
-* [509.10   Minors’ curfew](#50910-minors-curfew)
+* [509.10   Minors' curfew](#50910-minors-curfew)
 * [509.99   Penalty](#50999-penalty)
 
 ## Cross references
@@ -142,11 +142,11 @@ subsection (b) hereof.
         3. _(C)_ The offense is committed in the presence of any law enforcement
         officer, firefighter, rescuer, medical person, emergency medical
         services person, or other authorized person who is engaged in the
-        person’s duties at the scene of a fire, accident, disaster, riot or
+        person's duties at the scene of a fire, accident, disaster, riot or
         emergency of any kind.
 
         4. _(D)_ The offense is committed in the presence of any emergency
-        facility person who is engaged in the person’s duties in an emergency
+        facility person who is engaged in the person's duties in an emergency
         facility.
 
     4. _(4)_ If an offender previously has been convicted of or pleaded guilty
@@ -155,15 +155,15 @@ subsection (b) hereof.
 
 6. _(f)_ As used in this section:
 
-    1. _(1)_ “Emergency medical services person” is the singular of “emergency
-    medical services personnel” as defined in Ohio R.C. 2133.21.
+    1. _(1)_ "Emergency medical services person" is the singular of "emergency
+    medical services personnel" as defined in Ohio R.C. 2133.21.
 
-    2. _(2)_ “Emergency facility person” is the singular of “emergency facility
-    personnel” as defined in Ohio R.C. 2909.04.
+    2. _(2)_ "Emergency facility person" is the singular of "emergency facility
+    personnel" as defined in Ohio R.C. 2909.04.
 
-    3. _(3)_ “Emergency facility” has the same meaning as in Ohio R.C. 2909.04.
+    3. _(3)_ "Emergency facility" has the same meaning as in Ohio R.C. 2909.04.
 
-    4. _(4)_ “Committed in the vicinity of a school” has the same meaning as in
+    4. _(4)_ "Committed in the vicinity of a school" has the same meaning as in
     Ohio R.C. 2925.01.  
     (ORC 2917.11)
 
@@ -188,19 +188,19 @@ a misdemeanor of the fourth degree.
 
     1. _(1)_ Hamper the lawful operations of any law enforcement officer,
     firefighter, rescuer, medical person, emergency medical services person, or
-    other authorized person, engaged in the person’s duties at the scene of a
+    other authorized person, engaged in the person's duties at the scene of a
     fire, accident, disaster, riot, or emergency of any kind;
 
     2. _(2)_ Hamper the lawful activities of any emergency facility person who
-    is engaged in the person’s duties in an emergency facility;
+    is engaged in the person's duties in an emergency facility;
 
     3. _(3)_ Fail to obey the lawful order of any law enforcement officer
-    engaged in the law enforcement officer’s duties at the scene of or in
+    engaged in the law enforcement officer's duties at the scene of or in
     connection with a fire, accident, disaster, riot, or emergency of any kind.
 
 2. _(b)_ Nothing in this section shall be construed to limit access or deny
 information to any news media representative in the lawful exercise of the news
-media representative’s duties.
+media representative's duties.
 
 3. _(c)_ Whoever violates this section is guilty of misconduct at an emergency.
 Except as otherwise provided in this subsection, misconduct at an emergency is a
@@ -210,13 +210,13 @@ misdemeanor of the first degree.
 
 4. _(d)_ As used in this section:
 
-    1. _(1)_ “Emergency medical services person” is the singular of “emergency
-    medical services personnel” as defined in Ohio R.C. 2133.21.
+    1. _(1)_ "Emergency medical services person" is the singular of "emergency
+    medical services personnel" as defined in Ohio R.C. 2133.21.
 
-    2. _(2)_ “Emergency facility person” is the singular of “emergency facility
-    personnel” as defined in Ohio R.C. 2909.04.
+    2. _(2)_ "Emergency facility person" is the singular of "emergency facility
+    personnel" as defined in Ohio R.C. 2909.04.
 
-    3. _(3)_ “Emergency facility” has the same meaning as in Ohio R.C.
+    3. _(3)_ "Emergency facility" has the same meaning as in Ohio R.C.
     2909.04.  
     (ORC 2917.13)
 
@@ -251,10 +251,10 @@ or both sections.
 
 5. _(e)_ As used in this section:
 
-    1. _(1)_ “Economic harm” means any of the following:
+    1. _(1)_ "Economic harm" means any of the following:
 
         1. _(A)_ All direct, incidental, and consequential pecuniary harm
-        suffered by a victim as a result of criminal conduct. “Economic harm” as
+        suffered by a victim as a result of criminal conduct. "Economic harm" as
         described in this division includes, but is not limited to, all of the
         following:
 
@@ -278,13 +278,13 @@ or both sections.
         rescue personnel, or emergency medical services personnel of the state
         or the political subdivision.
 
-    2. _(2)_ “School” means any school operated by a board of education or any
+    2. _(2)_ "School" means any school operated by a board of education or any
     school for which the state board of education prescribes minimum standards
     under Ohio R.C. 3301.07, whether or not any instruction, extracurricular
     activities, or training provided by the school is being conducted at the
     time a violation of this section is committed.
 
-    3. _(3)_ “Weapon of mass destruction” means any of the following:
+    3. _(3)_ "Weapon of mass destruction" means any of the following:
 
         1. _(A)_ Any weapon that is designed or intended to cause death or
         serious physical harm through the release, dissemination, or impact of
@@ -297,7 +297,7 @@ or both sections.
 
         4. _(D)_ Any of the following, except to the extent that the item or
         device in question is expressly excepted from the definition of
-        “destructive device” pursuant to 18 U.S.C. 921(a)(4) and regulations
+        "destructive device" pursuant to 18 U.S.C. 921(a)(4) and regulations
         issued under that section:
 
             1. _(1)_ Any explosive, incendiary, or poison gas bomb, grenade,
@@ -310,12 +310,12 @@ or both sections.
             described in division (e)(3)D.1. of this section and from which an
             item or device described in that division may be readily assembled.
 
-    4. _(4)_ “Biological agent” has the same meaning as in Ohio R.C. 2917.33.
+    4. _(4)_ "Biological agent" has the same meaning as in Ohio R.C. 2917.33.
 
-    5. _(5)_ “Emergency medical services personnel” has the same meaning as in
+    5. _(5)_ "Emergency medical services personnel" has the same meaning as in
     Ohio R.C. 2133.21.
 
-    6. _(6)_ “Institution of higher education” means any of the following:
+    6. _(6)_ "Institution of higher education" means any of the following:
 
         1. _(A)_ A state university or college as defined in Ohio R.C.
         3345.12(A) (1), community college, state community college, university
@@ -368,10 +368,10 @@ or both sections.
 
 5. _(e)_ As used in this section:
 
-    1. _(1)_ “Critical infrastructure facility” has the same meaning as in Ohio
+    1. _(1)_ "Critical infrastructure facility" has the same meaning as in Ohio
     R.C. 2911.21.
 
-    2. _(2)_ “Economic harm”and “weapon of mass destruction” have the same
+    2. _(2)_ "Economic harm"and "weapon of mass destruction" have the same
     meaning as in Section 509.06.  
     (ORC 2917.32)
 
@@ -478,9 +478,9 @@ degree.
 
 ## 509.09   Vagrants
 
-(Editor’s note: Former Section 509.09 was repealed by Ordinance 2018-66.)
+(Editor's note: Former Section 509.09 was repealed by Ordinance 2018-66.)
 
-## 509.10   Minors’ curfew
+## 509.10   Minors' curfew
 
 1. _(a)_ No child, unless accompanied by a parent, guardian or another adult
 approved by a parent or guardian, shall enter or remain on any street, sidewalk,
@@ -503,14 +503,14 @@ engaged in the course of their employment; or responding to a medical or other
 emergency.
 
 4. _(d)_ No parent, guardian or other adult person having the care and/or
-control of a child with the consent of the child’s parent, guardian or court
+control of a child with the consent of the child's parent, guardian or court
 order shall negligently permit or allow the child to violate subsection (a)
 hereof.
 
 5. _(e)_ It shall be an affirmative defense to prosecution under subsection (a)
 hereof that the parent, guardian or other adult person having the care and/or
-control of a child with the consent of the child’s parent, guardian or court
-order, immediately reported to the police the child’s refusal or failure to
+control of a child with the consent of the child's parent, guardian or court
+order, immediately reported to the police the child's refusal or failure to
 comply with subsection (a) hereof.
 
 6. _(f)_ No person operating or in charge of any amusement, entertainment, or
@@ -520,7 +520,7 @@ remain in or at, that place in violation of subsection (a) hereof.
 7. _(g)_ It is an affirmative defense to a violation of subsection (f) hereof
 that the person operating or in charge of the place of amusement, entertainment
 or refreshment, or any other place of business where the child was present,
-immediately reported to the police the child’s presence there.
+immediately reported to the police the child's presence there.
 
 8. _(h)_ Any person who violates subsection (d) or (f) hereof shall be guilty of
 a misdemeanor of the fourth degree upon conviction of a first offense, and shall
@@ -531,5 +531,5 @@ may be enforced by the issuance of a citation per Criminal Rule 4.1.
 
 ## 509.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

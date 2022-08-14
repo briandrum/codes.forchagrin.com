@@ -36,7 +36,7 @@ structures - see S.& P.S. Ch. 941
     1. _(1)_ Protect the health, safety, and welfare of the citizens of the
     Village;
 
-    2. _(2)_ Preserve the character of the Village, including the Village’s
+    2. _(2)_ Preserve the character of the Village, including the Village's
     neighborhoods, downtown, other business districts and historic districts;
 
     3. _(3)_ Give guidance to wireless telecommunications providers to assist
@@ -146,7 +146,7 @@ otherwise:
         percent taller than adjacent structures, or (c) is not extended by more
         than 10 percent or to a height exceeding 50 feet, whichever is greater,
         and (iii) also otherwise satisfies the definition of "Small Wireless
-        Facilities" found in the FCC’s Small Cell Order.
+        Facilities" found in the FCC's Small Cell Order.
 
     12. _(12)_ "Small Cell Equipment" means a Small Cell Facility and all
     Accessory Equipment.
@@ -196,7 +196,7 @@ manner that complies with all applicable federal, state and local requirements.
 All facilities shall be regularly painted and free of debris.
 
 5. _(e)_ Facilities shall not be installed in any location that causes any
-interference with the Village’s public safety radio system, traffic and
+interference with the Village's public safety radio system, traffic and
 emergency signal light system, or other Village safety communications systems or
 system components.
 
@@ -209,7 +209,7 @@ Operator shows that the alternative location is not technically feasible.
 7. _(g)_ Facilities shall not interfere with existing or planned street trees.
 
 8. _(h)_ Signage shall be mounted on all new Facilities providing the Facilities
-Operator’s name, an emergency contact phone number, an informational contact
+Operator's name, an emergency contact phone number, an informational contact
 number, and all other information required by law. Unless otherwise prohibited
 by law, signage shall be discreet in color and shall match the Facilities and
 surrounding area and font size used on the sign shall be no smaller than 9 point
@@ -240,7 +240,7 @@ basis when the Chief Administrative Officer determines a non-matching color
 would better fulfil the purposes of these Design Guidelines.
 
 14. _(n)_ A Facilities Operator shall remove or paint over any graffiti on the
-Facilities at Facility Operator’s sole expense as soon as practicable, but no
+Facilities at Facility Operator's sole expense as soon as practicable, but no
 later than thirty (30) days from the date the Facilities Operator receives
 notice of the graffiti.  
 (Ord. 2019-09. Passed 1-14-19.)
@@ -284,7 +284,7 @@ adjacent window(s).
 
 8. _(h)_ Antennas located on the exterior of a Wireless Support Structure shall
 be top-mounted on a Wireless Support Structure. The Chief Administrative Officer
-may approve a side-mounted antenna if, in the Chief Administrative Officer’s
+may approve a side-mounted antenna if, in the Chief Administrative Officer's
 discretion, the side-mounted antenna would be more appropriate given the built
 environment, neighborhood character, overall site appearance or would otherwise
 promote the purposes in these Design Guidelines.  
@@ -475,7 +475,7 @@ any other Historic District in the Village shall be located in an underground
 vault or shall be subject to such reasonable, technologically feasible, and
 non-discriminatory design or concealment measures as the Village may specify, as
 long as such measures do not have the effect of prohibiting the Facilities
-Operator’s provision of service. Such measures are not considered part of the
+Operator's provision of service. Such measures are not considered part of the
 small cell facility for purposes of facility size restrictions in this Chapter
 or Chapter 941 of the Codified Ordinances. A waiver submitted pursuant to
 Section 941.13(d) will be considered if it is shown to be technologically
@@ -509,16 +509,16 @@ its service objective under the following circumstances:
     Village at reasonable rates, fees and terms.
 
 5. _(e)_ Submission of a waiver pursuant to subsection (d) is subject to the
-Facilities Operator’s agreement to toll the timeframes set forth in Section
+Facilities Operator's agreement to toll the timeframes set forth in Section
 941.08(a) of the Codified Ordinances by fourteen (14) days.  
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.14   Discretionary waiver
 
-It is within the Chief Administrative Officer’s reasonable discretion to waive a
+It is within the Chief Administrative Officer's reasonable discretion to waive a
 portion or portions of this Chapter, as permitted under state and federal law,
 where strict compliance with such requirements, in the Chief Administrative
-Officer’s judgment, is not necessary or appropriate to protect the Village’s
+Officer's judgment, is not necessary or appropriate to protect the Village's
 interests and the purposes and intent of this Chapter.  
 (Ord. 2019-09. Passed 1-14-19.)
 

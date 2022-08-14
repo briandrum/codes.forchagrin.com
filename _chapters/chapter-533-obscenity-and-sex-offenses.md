@@ -56,7 +56,7 @@ gratifying either person.
 activity for hire, regardless of whether the hire is paid to the prostitute or
 to another.
 
-5. _(e)_ “Harmful to juveniles” means that quality of any material or
+5. _(e)_ "Harmful to juveniles" means that quality of any material or
 performance describing or representing nudity, sexual conduct, sexual
 excitement, or sado- masochistic abuse in any form to which all of the following
 apply:
@@ -137,13 +137,13 @@ any of the following apply:
 
 13. _(m)_ "Minor" means a person under the age of eighteen years.
 
-14. _(n)_ “Mental health client or patient” has the same meaning as in Ohio R.C.
+14. _(n)_ "Mental health client or patient" has the same meaning as in Ohio R.C.
 2305.51.
 
-15. _(o)_ “Mental health professional” has the same meaning as in Ohio R.C.
+15. _(o)_ "Mental health professional" has the same meaning as in Ohio R.C.
 2305.115.
 
-16. _(p)_ “Sado-masochistic abuse” means flagellation or torture by or upon a
+16. _(p)_ "Sado-masochistic abuse" means flagellation or torture by or upon a
 person or the condition of being fettered, bound, or otherwise physically
 restrained.  
 (ORC 2907.01)
@@ -171,14 +171,14 @@ bear the date of such notice.
 projectionist acting within the scope of employment as an employee of the owner
 or manager of a theater or other place for the showing of motion pictures to the
 general public, and having no managerial responsibility or financial interest in
-the operator’s or projectionist’s place of employment, other than wages.
+the operator's or projectionist's place of employment, other than wages.
 
 4. _(d)_
 
     1. _(1)_ Sections 533.11, 533.12(a) and 533.13 do not apply to a person
     solely because the person provided access or connection to or from an
     electronic method of remotely transferring information not under that
-    person’s control, including having provided capabilities that are incidental
+    person's control, including having provided capabilities that are incidental
     to providing access or connection to or from the electronic method of
     remotely transferring the information, and that do not include the creation
     of the content of the material that is the subject of the access or
@@ -198,13 +198,13 @@ the operator’s or projectionist’s place of employment, other than wages.
 
 5. _(e)_ An employer is not guilty of a violation of Section 533.11, 533.12, or
 533.13 based on the actions of an employee or agent of the employer unless the
-employee’s or agent’s conduct is within the scope of employee’s or agent’s
+employee's or agent's conduct is within the scope of employee's or agent's
 employment or agency, and the employer does either of the following:
 
-    1. _(1)_ With knowledge of the employee’s or agent’s conduct, the employer
+    1. _(1)_ With knowledge of the employee's or agent's conduct, the employer
     authorizes or ratifies the conduct.
 
-    2. _(2)_ The employer recklessly disregards the employee’s or agent’s
+    2. _(2)_ The employer recklessly disregards the employee's or agent's
     conduct.
 
 6. _(f)_ It is an affirmative defense to a charge under Section 533.11 or 533.13
@@ -247,9 +247,9 @@ of the following applies:
     1. _(1)_ The offender knows that the sexual contact is offensive to the
     other person, or one of the other persons, or is reckless in that regard.
 
-    2. _(2)_ The offender knows that the other person’s or one of the other
-    person’s ability to appraise the nature of or control the offender’s or
-    touching person’s conduct is substantially impaired.
+    2. _(2)_ The offender knows that the other person's or one of the other
+    person's ability to appraise the nature of or control the offender's or
+    touching person's conduct is substantially impaired.
 
     3. _(3)_ The offender knows that the other person or one of the other
     persons submits because of being unaware of the sexual contact.
@@ -267,7 +267,7 @@ of the following applies:
     treatment purposes.
 
 2. _(b)_ No person shall be convicted of a violation of this section solely upon
-the victim’s testimony unsupported by other evidence.
+the victim's testimony unsupported by other evidence.
 
 3. _(c)_ Whoever violates this section is guilty of sexual imposition, a
 misdemeanor of the third degree. If the offender previously has been convicted
@@ -284,7 +284,7 @@ a definite jail term of not more than one year.
 
 ## 533.05   Importuning
 
-(Editor’s note: Former Section 533.05 has been deleted from the Codified
+(Editor's note: Former Section 533.05 has been deleted from the Codified
 Ordinances. Section 533.05 was identical to Ohio R.C. 2907.07(B) which the Ohio
 Supreme Court held to be unconstitutional in State v. Thompson, 95 Ohio St. 3rd
 264 (2002).)
@@ -292,11 +292,11 @@ Supreme Court held to be unconstitutional in State v. Thompson, 95 Ohio St. 3rd
 ## 533.06   Voyeurism
 
 1. _(a)_ No person, for the purpose of sexually arousing or gratifying the
-person’s self, shall commit trespass or otherwise surreptitiously invade the
+person's self, shall commit trespass or otherwise surreptitiously invade the
 privacy of another, to spy or eavesdrop upon another.
 
 2. _(b)_ No person, for the purpose of sexually arousing or gratifying the
-person’s self, shall commit trespass or otherwise surreptitiously invade the
+person's self, shall commit trespass or otherwise surreptitiously invade the
 privacy of another to videotape, film, photograph, or otherwise record the other
 person in a state of nudity.
 
@@ -322,11 +322,11 @@ undergarments worn by, that other person.
 ## 533.07   Public indecency
 
 1. _(a)_ No person shall recklessly do any of the following, under circumstances
-in which the person’s conduct is likely to be viewed by and affront others, who
-are in the person’s physical proximity and who are not members of the person’s
+in which the person's conduct is likely to be viewed by and affront others, who
+are in the person's physical proximity and who are not members of the person's
 household:
 
-    1. _(1)_ Expose the person’s private parts;
+    1. _(1)_ Expose the person's private parts;
 
     2. _(2)_ Engage in sexual conduct or masturbation;
 
@@ -334,8 +334,8 @@ household:
     sexual conduct or masturbation.
 
 2. _(b)_ No person shall knowingly do any of the following, under circumstances
-in which the person’s conduct is likely to be viewed by and affront another
-person who is in the person’s physical proximity, who is a minor, and who is not
+in which the person's conduct is likely to be viewed by and affront another
+person who is in the person's physical proximity, who is a minor, and who is not
 the spouse of the offender:
 
     1. _(1)_ Engage in masturbation;
@@ -345,7 +345,7 @@ the spouse of the offender:
     3. _(3)_ Engage in conduct that to an ordinary observer would appear to be
     sexual conduct or masturbation;
 
-    4. _(4)_ Expose the person’s private parts with the purpose of personal
+    4. _(4)_ Expose the person's private parts with the purpose of personal
     sexual arousal or gratification or to lure the minor into sexual activity.
 
 3. _(c)_
@@ -359,16 +359,16 @@ the spouse of the offender:
     fourth degree. If the offender previously has been convicted of or pleaded
     guilty to one violation of this section, a violation of subsection (a)(1) of
     this section is a misdemeanor of the third degree or, if any person who was
-    likely to view and be affronted by the offender’s conduct was a minor, a
+    likely to view and be affronted by the offender's conduct was a minor, a
     misdemeanor of the second degree. If the offender previously has been
     convicted of or pleaded guilty to two violations of this section, a
     violation of subsection (a)(1) of this section is a misdemeanor of the
     second degree or, if any person who was likely to view and be affronted by
-    the offender’s conduct was a minor, a misdemeanor of the first degree. If
+    the offender's conduct was a minor, a misdemeanor of the first degree. If
     the offender previously has been convicted of or pleaded guilty to three or
     more violations of this section, a violation of subsection (a)(1) of this
     section is a misdemeanor of the first degree or, if any person who was
-    likely to view and be affronted by the offender’s conduct was a minor, a
+    likely to view and be affronted by the offender's conduct was a minor, a
     felony which shall be prosecuted under appropriate state law.
 
     3. _(3)_ Except as otherwise provided in subsection (c)(3) of this section,
@@ -376,12 +376,12 @@ the spouse of the offender:
     the third degree. If the offender previously has been convicted of or
     pleaded guilty to one violation of this section, a violation of subsection
     (a)(2) or (3) of this section is a misdemeanor of the second degree or, if
-    any person who was likely to view and be affronted by the offender’s conduct
+    any person who was likely to view and be affronted by the offender's conduct
     was a minor, a misdemeanor of the first degree. If the offender previously
     has beenconvicted of or pleaded guilty to two or more violations of this
     section, a violation of subsection (a)(2) or (3) of this section is a
     misdemeanor of the first degree or, if any person who was likely to view and
-    be affronted by the offender’s conduct was a minor, a felony which shall be
+    be affronted by the offender's conduct was a minor, a felony which shall be
     prosecuted under appropriate state law.
 
     4. _(4)_ Except as otherwise provided in subsection (c)(4) of this section,
@@ -442,17 +442,17 @@ misdemeanor of the first degree. If the prostitute who is procured, patronized
 or otherwise involved in a violation of subsection (a)(2) of this section is
 under eighteen years of age at the time of the violation, regardless of whether
 the offender who violates subsection (a)(2) of this section knows the
-prostitute’s age, or if a prostitute who engages in sexual activity for hire in
+prostitute's age, or if a prostitute who engages in sexual activity for hire in
 premises used in violation of subsection (b) of this section is under eighteen
 years of age at the time of the violation, regardless of whether the offender
-who violates subsection (b) of this section knows the prostitute’s age,
+who violates subsection (b) of this section knows the prostitute's age,
 procuring is a felony and shall be prosecuted under appropriate state law.
 
 4. _(d)_ No person shall recklessly induce, entice, or procure another to engage
 in sexual activity for hire in exchange for the person giving anything of value
 to the other person.
 
-5. _(e)_ As used in subsection (d) of this section, “Sexual Activity for Hire”
+5. _(e)_ As used in subsection (d) of this section, "Sexual Activity for Hire"
 means an implicit or explicit agreement to provide sexual activity in exchange
 for anything of value paid to the person engaging in such sexual activity, to
 any person trafficking that person, or to any person associated with either such
@@ -479,7 +479,7 @@ person.
 carrier of a virus that causes acquired immunodeficiency syndrome, shall engage
 in conduct in violation of subsection (a) of this section.
 
-3. _(c)_ As used in subsection (a) of this section, “Sexual Activity for Hire”
+3. _(c)_ As used in subsection (a) of this section, "Sexual Activity for Hire"
 means an implicit or explicit agreement to provide sexual activity in exchange
 for anything of value paid to the person engaging in such sexual activity, to
 any person trafficking that person, or to any person associated with either such
@@ -520,7 +520,7 @@ in conduct in violation of subsection (a) of this section.
 
 3. _(c)_ As used in subsection (a) of this section:
 
-    1. _(1)_ “Public Place”. Means any of the following:
+    1. _(1)_ "Public Place". Means any of the following:
 
         1. _(A)_ A street, road, highway, thoroughfare, bikeway, walkway,
         sidewalk, bridge, alley, alleyway, plaza, park, driveway, parking lot or
@@ -532,7 +532,7 @@ in conduct in violation of subsection (a) of this section.
         3. _(C)_ A place not described in subsection (c)(1)A. or B. of this
         definition that is open to the public.
 
-    2. _(2)_ “Vehicle”. Has the same meaning as in Ohio R.C. 4501.01.
+    2. _(2)_ "Vehicle". Has the same meaning as in Ohio R.C. 4501.01.
 
 4. _(d)_
 
@@ -592,12 +592,12 @@ obscene:
     involved.
 
     2. _(2)_ The juvenile involved, at the time of the conduct in question, was
-    accompanied by the juvenile’s parent or guardian who, with knowledge of its
+    accompanied by the juvenile's parent or guardian who, with knowledge of its
     character, consented to the material or performance being furnished or
     presented to the juvenile.
 
-    3. _(3)_ The juvenile exhibited to the defendant or the defendant’s agent or
-    employee a draft card, driver’s license, birth certificate, marriage
+    3. _(3)_ The juvenile exhibited to the defendant or the defendant's agent or
+    employee a draft card, driver's license, birth certificate, marriage
     license, or other official or apparently official document purporting to
     show that the juvenile was eighteen years of age or over or married, and the
     person to whom that document was exhibited did not otherwise have reasonable
@@ -729,42 +729,42 @@ subsections (a) and (b) of this section.
 
 1. _(a)_ As used in this section:
 
-    1. _(1)_ “Disseminate” means to post, distribute, or publish on a computer
+    1. _(1)_ "Disseminate" means to post, distribute, or publish on a computer
     device, computer network, web site, or other electronic device or medium of
     communication.
 
-    2. _(2)_ “Image” means a photograph, film, videotape, digital recording or
+    2. _(2)_ "Image" means a photograph, film, videotape, digital recording or
     other depiction or portrayal of a person.
 
-    3. _(3)_ “Interactive computer service” has the meaning defined in the
-    “Telecommunications Act of 1996", 47 U.S.C. 230, as amended.
+    3. _(3)_ "Interactive computer service" has the meaning defined in the
+    "Telecommunications Act of 1996", 47 U.S.C. 230, as amended.
 
-    4. _(4)_ “Internet provider” means a provider of internet service, including
+    4. _(4)_ "Internet provider" means a provider of internet service, including
     all of the following:
 
         1. _(A)_ Broadband service, however defined or classified by the federal
         communications commission;
 
         2. _(B)_ Information service or telecommunication service, both as
-        defined in the “Telecommunications Act of 1996" 47 U.S.C. 153, as
+        defined in the "Telecommunications Act of 1996" 47 U.S.C. 153, as
         amended.
 
         3. _(C)_ Internet protocol-enabled services, as defined in Ohio R.C.
         4927.01.
 
-    5. _(5)_ “Mobile service” and “telecommunications carrier” have the meanings
+    5. _(5)_ "Mobile service" and "telecommunications carrier" have the meanings
     defined in 47 U.S.C. 153, as amended.
 
-    6. _(6)_ “Cable service provider” has the same meaning as in Ohio R.C.
+    6. _(6)_ "Cable service provider" has the same meaning as in Ohio R.C.
     1332.01.
 
-    7. _(7)_ “Direct-to-home satellite service” has the meaning defined in 47
+    7. _(7)_ "Direct-to-home satellite service" has the meaning defined in 47
     U.S.C. 303, as amended.
 
-    8. _(8)_ “Video service provider” has the same meaning as in Ohio R.C.
+    8. _(8)_ "Video service provider" has the same meaning as in Ohio R.C.
     1332.21.
 
-    9. _(9)_ “Sexual act” means any of the following:
+    9. _(9)_ "Sexual act" means any of the following:
 
         1. _(A)_ Sexual activity;
 
@@ -808,7 +808,7 @@ the following apply:
 
     4. _(4)_ The image is disseminated by a law enforcement officer, or a
     corrections officer or guard in a detention facility, acting within the
-    scope of the person’s official duties.
+    scope of the person's official duties.
 
     5. _(5)_ The image is disseminated for another lawful public purpose;
 
@@ -887,5 +887,5 @@ action against the offender, as described in Ohio R.C. 2307.66.
 
 ## 533.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

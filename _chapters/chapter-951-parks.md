@@ -145,11 +145,11 @@ beverages or beer in a park at any time.
 
 1. _(a)_ As used in this section:
 
-    1. _(1)_ “Newspaper dispenser” means any single container, rack, shelf, or
+    1. _(1)_ "Newspaper dispenser" means any single container, rack, shelf, or
     device to hold or store publications for distribution including but not
     limited to newspapers, catalogs, periodicals or handbills.
 
-    2. _(2)_ “Dispensing station” means a group of newspaper dispensers joined
+    2. _(2)_ "Dispensing station" means a group of newspaper dispensers joined
     together at a fixed location.
 
 2. _(b)_ No person, company or corporation other than the Village shall install

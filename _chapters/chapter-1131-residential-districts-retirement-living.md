@@ -265,7 +265,7 @@ than every two dwelling units shall be offset by at least sixteen inches. No
 more than eight units shall be located in one building.
 
 3. _(c)_ **Building Design: General.** To reduce the apparent mass of the
-building’s variations in such building elements as facade, width, color,
+building's variations in such building elements as facade, width, color,
 exterior materials, and roof lines shall be deemed desirable. Parallel
 arrangements of buildings should be avoided. However, uniformity in design is
 not expressly prohibited.

@@ -16,7 +16,7 @@ title: "Chapter 903: Sidewalk and Driveway Apron Construction and Repair"
 
 ## Cross references
 
-* Construction or repair at owner’s expense - see Ohio R. C. 729. 01 et seq.
+* Construction or repair at owner's expense - see Ohio R. C. 729. 01 et seq.
 * Driving over sidewalks - see TRAF. 331.37
 * Care of sidewalks; obstructions - see GEN. OFF. Ch. 543
 * Driveway permits - see BLDG. 1307.13
@@ -111,7 +111,7 @@ References to downtown areas shall include the following streets:
     7. Orange Street - from Riverside Park to 500 feet west of West Street.
 
     1. _(1)_ Concrete for sidewalks shall be transit-mixed, State of Ohio,
-    Department of Transportation, Class “C” with a minimum cement content of 600
+    Department of Transportation, Class "C" with a minimum cement content of 600
     pounds per cubic yard and shall contain only non-silica bank run gravel and
     sand as the aggregate. Gray (non-white) colored Portland Cement shall be
     used.
@@ -212,8 +212,8 @@ References to downtown areas shall include the following streets:
         Downtown areas shall be finished with an exposed aggregate (size 8 and
         smaller bank run gravel) surface. Walks wider than five feet shall have
         offset longitudinal contraction joints to form a running bond pattern.
-        All offset “T” joints shall receive a full depth sawcut to twelve
-        inches, each side of the “T” joint.
+        All offset "T" joints shall receive a full depth sawcut to twelve
+        inches, each side of the "T" joint.
 
     5. _(5)_ **Sidewalk through driveways and driveway aprons.** For sidewalk
     through driveways and driveway aprons, the concrete shall be six inches in
@@ -248,7 +248,7 @@ References to downtown areas shall include the following streets:
         curetime.
 
     8. _(8)_ **Backfilling.** Forms shall be left in place for at least
-    twenty-four hours. Any exposed “honey-combed” shall be patched before
+    twenty-four hours. Any exposed "honey-combed" shall be patched before
     backfilling. Edges shall be carefully backfilled twenty-four hours after
     patching. The contractor shall use every possible precaution to prevent
     injury to trees, shrubbery and lawns which may be located on or near the

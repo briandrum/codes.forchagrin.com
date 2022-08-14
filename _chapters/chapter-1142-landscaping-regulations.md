@@ -80,7 +80,7 @@ height of at least two feet shall be provided and maintained along any side of a
 parking area which is located in a setback abutting a public street. The
 Planning and Zoning Commission may permit alternative forms of planting if it
 determines that the required planting is either infeasible or not in keeping
-with an area’s character.
+with an area's character.
 
 2. _(b)_ **Interior Landscaping.** Any single parking area with fifty or more
 spaces shall utilize at least five percent (5%) of its area for landscaping

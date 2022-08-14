@@ -33,7 +33,7 @@ follows:
 
 > Whenever the Council, any board, commission, Village Engineer, Chief
 > Administrative Officer, Administrator, or Building Inspector (collectively
-> “Approving Authority”) has been delegated the power to approve plans, issue
+> "Approving Authority") has been delegated the power to approve plans, issue
 > permits, for improvements, development, construction, reconstruction, or
 > renovation of land, buildings and structures as provided for in the Planning
 > and Zoning Code, such Approving Authority may impose conditions, so long as
@@ -46,8 +46,8 @@ follows:
 **Section 2.** The Building Code is hereby amended, by adding the following
 language to 1307.01 of the Building Code as follows:
 
-> Whenever any board, commission, or official (collectively “Approving
-> Authority”) has been delegated the power to approve plans, issue permits
+> Whenever any board, commission, or official (collectively "Approving
+> Authority") has been delegated the power to approve plans, issue permits
 > and/or to approve development, construction, reconstruction or renovation of
 > land, buildings or structures within the Village, such Approving Authority may
 > impose conditions, so long as such conditions are in compliance with any
@@ -61,8 +61,8 @@ language to 1307.01 of the Building Code as follows:
 following language to Section 1501.05 of the Fire Prevention Code which reads as
 follows:
 
-> Whenever any board, commission, or official (collectively “Approving
-> Authority”) has been delegated the power to approve plans, issue permits
+> Whenever any board, commission, or official (collectively "Approving
+> Authority") has been delegated the power to approve plans, issue permits
 > and/or to approve development, construction, reconstruction or renovation of
 > land, buildings or structures within the Village, such Approving Authority may
 > impose conditions, so long as such conditions are in compliance with any

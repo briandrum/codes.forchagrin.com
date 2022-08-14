@@ -6,7 +6,7 @@ chapter_no: 143
 title: "Chapter 143: Whitesburg Park Commission"
 ---
 
-Editor’s note: The Whitesburg Park Commission was established by Ordinance
+Editor's note: The Whitesburg Park Commission was established by Ordinance
 1996-51, passed August 12, 1996.
 
 * [143.01   Creation](#14301-creation)
@@ -24,7 +24,7 @@ Editor’s note: The Whitesburg Park Commission was established by Ordinance
 ## 143.01   Creation
 
 There is hereby created a commission to be known and designated as the
-“Whitesburg Park Commission" composed of six members appointed by the Mayor who
+"Whitesburg Park Commission" composed of six members appointed by the Mayor who
 shall hold no other elected or appointed position within the Village, and one
 Council person, appointed by the President of Council. The six members appointed
 by the Mayor shall be confirmed by a majority of Council.  

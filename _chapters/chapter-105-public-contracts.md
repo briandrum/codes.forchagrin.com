@@ -58,14 +58,14 @@ Professional Design Services or Design-build Services.
 3. _(c)_ The Mayor may contract for Professional Design Services related to a
 Public Works Contract when the amount of the Professional Design Services is
 less than fifty thousand dollars ($50,000). The Mayor may determine the
-Professional Design Firm’s qualifications and abilities in such manner as the
+Professional Design Firm's qualifications and abilities in such manner as the
 Mayor deems most suitable.
 
 4. _(d)_ In the event that the cost of the Professional Design Services for a
 Public Works Contract will equal or exceed fifty thousand dollars ($50,000), the
 Council shall have the authority, by motion passed by majority vote, to
 authorize the Mayor to sign such Professional Design Services contract. Council
-may satisfy itself as to the Professional Design Firm’s qualifications and
+may satisfy itself as to the Professional Design Firm's qualifications and
 abilities in the manner it deems most suitable.  
 (Ord. 2013-29. Passed 5- 13-13.)
 
@@ -100,7 +100,7 @@ best bidder after advertising for a time and in a manner that the Village
 determines shall be effective in notifying a sufficient number of bidders as
 determined by the Village in its discretion. By way of example, and not as a
 limitation, the advertisement may be in a newspaper of general circulation in
-the Village, or publication on the Village’s website, or both.
+the Village, or publication on the Village's website, or both.
 
 5. _(e)_ **Exceptions to Public Bidding.** Contracts whose costs are estimated
 to exceed fifty thousand dollars ($50,000) and that meet the following
@@ -155,8 +155,8 @@ Council, in its discretion, by motion and a majority vote of its members:
     waive the public bidding requirement if it determines that doing so is in
     the best interest of the Village.
 
-6. _(f)_ **Mayor’s Discretionary Spending Authority.** The Mayor may expend up
-to fifty thousand dollars ($50,000), in accordance with the Village’s current
+6. _(f)_ **Mayor's Discretionary Spending Authority.** The Mayor may expend up
+to fifty thousand dollars ($50,000), in accordance with the Village's current
 appropriations, for any public improvement, or the purchase or lease of
 equipment, materials and supplies, or to obtain professional or personal
 services or for any other lawful purpose. The Mayor shall notify Council of such
@@ -172,7 +172,7 @@ the project when it determines that doing so is in its best interest.
 9. _(i)_ **Time for Award of Bids.** In the notice of public bidding required
 for the bid solicitation, the Village shall establish the time limit after bid
 submission for awarding a contract. Submitted bids may not be withdrawn during
-this period. The Village’s failure to award and execute the contract within this
+this period. The Village's failure to award and execute the contract within this
 period invalidates the entire bid proceedings and all bids submitted, unless the
 time for awarding and executing the contract is extended by mutual consent of
 the Village and the bidder whose bid the Village accepts and with respect to
@@ -180,7 +180,7 @@ whom the Village subsequently awards and executes a contract. Such an agreed
 extension shall not entitle the contractor to delay costs.
 
 10. _(j)_ **Withdrawal of Bids.** Bidders may withdraw bids pursuant Section
-9.31 of the Ohio Revised Code; such a withdrawal shall not modify the Village’s
+9.31 of the Ohio Revised Code; such a withdrawal shall not modify the Village's
 right to award to the next lowest and best bidder.
 
 11. _(k)_ **Bids in Excess of Estimate.** The Village may award contracts

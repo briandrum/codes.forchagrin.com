@@ -223,7 +223,7 @@ degree.
 
 ## 521.07   Fences
 
-(Editor’s note: Former Section 521.07 was repealed by Ordinance 1995-18, passed
+(Editor's note: Former Section 521.07 was repealed by Ordinance 1995-18, passed
 April 10, 1995.)
 
 ## 521.08   Littering and deposit of garbage, rubbish, junk, etc
@@ -284,12 +284,12 @@ following applies:
 
     2. _(2)_ As used in subsection (b)(4) hereof, "casual passerby" means a
     person who does not have depositing litter in a litter receptacle as the
-    person’s primary reason for traveling to or by the property on which the
+    person's primary reason for traveling to or by the property on which the
     litter receptacle is located.
 
 4. _(d)_ As used in this section:
 
-    1. _(1)_ “Auxiliary container” means a bag, can, cup, food or beverage
+    1. _(1)_ "Auxiliary container" means a bag, can, cup, food or beverage
     service item, container, keg, bottle, or other packaging to which all of the
     following apply:
 
@@ -305,13 +305,13 @@ following applies:
         retail food establishment, grocery, or any other type of retail,
         manufacturing, or distribution establishment.
 
-    2. _(2)_ “Deposit” means to throw, drop, discard, or place.
+    2. _(2)_ "Deposit" means to throw, drop, discard, or place.
 
-    3. _(3)_ “Litter” includes garbage, trash, waste, rubbish, ashes, cans,
+    3. _(3)_ "Litter" includes garbage, trash, waste, rubbish, ashes, cans,
     bottles, wire, paper, cartons, boxes, automobile parts, furniture, glass,
     auxiliary containers, or anything else of an unsightly or unsanitary nature.
 
-    4. _(4)_ “Litter receptacle” means a dumpster, trash can, trash bin, garbage
+    4. _(4)_ "Litter receptacle" means a dumpster, trash can, trash bin, garbage
     can, or similar container in which litter is deposited for removal.  
     (ORC 3767.32)
 
@@ -414,7 +414,7 @@ the Department duly designated by him.
 
     Such written notice shall be served upon the person aforementioned either
     personally or at his usual place of residence or by registered or certified
-    mail addressed to such person’s last-known place of residence. The
+    mail addressed to such person's last-known place of residence. The
     provisions of this section, however, shall not apply to the deposit,
     storage, maintenance or collection of junk or junk cars in an enclosed
     building or in a container in a regularly established junk yard.  
@@ -532,7 +532,7 @@ degree.
 
 1. _(a)_ No person shall scavenge or remove recyclable refuse stored in curbside
 recycling containers for collection from any tree lawn or collection point
-except from a tree lawn or collection point on or butting that person’s
+except from a tree lawn or collection point on or butting that person's
 property.
 
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor upon
@@ -542,5 +542,5 @@ convictions thereafter.
 
 ## 521.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

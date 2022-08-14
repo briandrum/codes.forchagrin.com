@@ -72,7 +72,7 @@ set forth below.
 
     5. _(5)_ **Non-profit organizations.** Clubs, lodges, fraternal and service
     organizations, museums and similar facilities; retail sales shall be
-    permitted if customary and incidental to the organization’s non-profit
+    permitted if customary and incidental to the organization's non-profit
     activities.
 
     6. _(6)_ **Funeral homes.**

@@ -115,20 +115,20 @@ certain circumstances may exist.
     software, financial instruments associated with computers, other documents
     associated with computers, or copies of the documents, whether in machine or
     human readable form, trade secrets, trademarks, copyrights, patents, and
-    property protected by a trademark, copyright, or patent. “Financial
-    instruments associated with computers” include, but are not limited to,
+    property protected by a trademark, copyright, or patent. "Financial
+    instruments associated with computers" include, but are not limited to,
     checks, drafts, warrants, money orders, notes of indebtedness, certificates
     of deposit, letters of credit, bills of credit or debit cards, financial
     transaction authorization mechanisms, marketable securities, or any computer
     system representations of any of them.
 
-    2. _(2)_ As used in this section, “trade secret” has the same meaning as in
-    Ohio R.C. 1333.61, and “telecommunications service” and “information
-    service” have the same meanings as in Ohio R.C. 2913.01.
+    2. _(2)_ As used in this section, "trade secret" has the same meaning as in
+    Ohio R.C. 1333.61, and "telecommunications service" and "information
+    service" have the same meanings as in Ohio R.C. 2913.01.
 
-    3. _(3)_ As used in this section, “cable television service”, “computer”,
-    “computer software”, “computer system”, “computer network”, “data”, and
-    “telecommunications device” have the same meanings as in Ohio R.C. 2913.01.
+    3. _(3)_ As used in this section, "cable television service", "computer",
+    "computer software", "computer system", "computer network", "data", and
+    "telecommunications device" have the same meanings as in Ohio R.C. 2913.01.
 
 11. _(k)_ "Law enforcement officer" means any of the following:
 
@@ -143,12 +143,12 @@ certain circumstances may exist.
     is imposed and the authority to arrest violators is conferred, within the
     limits of that statutory duty and authority;
 
-    3. _(3)_ A mayor or manager in the mayor’s or manager’s capacity as chief
-    conservator of the peace within the mayor’s or manager’s municipal
+    3. _(3)_ A mayor or manager in the mayor's or manager's capacity as chief
+    conservator of the peace within the mayor's or manager's municipal
     corporation;
 
     4. _(4)_ A member of an auxiliary police force organized by county, township
-    or municipal law enforcement authorities, within the scope of the member’s
+    or municipal law enforcement authorities, within the scope of the member's
     appointment or commission;
 
     5. _(5)_ A person lawfully called pursuant to Ohio R.C. 311.07 to aid a
@@ -166,7 +166,7 @@ certain circumstances may exist.
     8. _(8)_ A prosecuting attorney, assistant prosecuting attorney, secret
     service officer or municipal prosecutor;
 
-    9. _(9)_ A veterans’ home police officer appointed under Ohio R.C. 5907.02;
+    9. _(9)_ A veterans' home police officer appointed under Ohio R.C. 5907.02;
 
     10. _(10)_ A member of a police force employed by a regional transit
     authority under Ohio R.C. 306.35(Y);
@@ -191,8 +191,8 @@ or relationship, or growing out of necessity.
 
 13. _(m)_ "Contraband" means any property that is illegal for a person to
 acquire or possess under a statute, ordinance, or rule, or that a trier of fact
-lawfully determines to be illegal to possess by reason of the property’s
-involvement in an offense. “Contraband” includes, but is not limited to, all of
+lawfully determines to be illegal to possess by reason of the property's
+involvement in an offense. "Contraband" includes, but is not limited to, all of
 the following:
 
     1. _(1)_ Any controlled substance, as defined in Ohio R.C. 3719.01, or any
@@ -202,11 +202,11 @@ the following:
 
     3. _(3)_ Any dangerous ordnance or obscene material.
 
-14. _(n)_ A person is “not guilty by reason of insanity” relative to a charge of
+14. _(n)_ A person is "not guilty by reason of insanity" relative to a charge of
 an offense only if the person proves, in the manner specified in Ohio R.C.
 2901.05, that at the time of the commission of the offense, the person did not
 know, as a result of a severe mental disease or defect, the wrongfulness of the
-person’s acts.
+person's acts.
 
 15. _(o)_
 
@@ -214,7 +214,7 @@ person’s acts.
 
         1. _(A)_ Subject to subsection (o)(2) hereof, as used in any section
         contained in Part Five - General Offenses Code that sets forth a
-        criminal offense, “person” includes all of the following:
+        criminal offense, "person" includes all of the following:
 
             1. _(1)_ An individual, corporation, business trust, estate, trust,
             partnership, and association;
@@ -222,22 +222,22 @@ person’s acts.
             2. _(2)_ An unborn human who is viable.
 
         2. _(B)_ As used in any section contained in Part Five - General
-        Offenses Code that does not set forth a criminal offense, “person”
+        Offenses Code that does not set forth a criminal offense, "person"
         includes an individual, corporation, business trust, estate, trust,
         partnership and association.
 
         3. _(C)_ As used in subsection (o)(1)A. hereof:
 
-            1. _(1)_ “Unborn human” means an individual organism of the species
+            1. _(1)_ "Unborn human" means an individual organism of the species
             Homo sapiens from fertilization until live birth.
 
-            2. _(2)_ “Viable” means the stage of development of a human fetus at
+            2. _(2)_ "Viable" means the stage of development of a human fetus at
             which there is a realistic possibility of maintaining and nourishing
             of a life outside the womb with or without temporary artificial
             life-sustaining support.
 
     2. _(2)_ Notwithstanding subsection (o)(1)A. hereof, in no case shall the
-    portion of the definition of the term “person” that is set forth in
+    portion of the definition of the term "person" that is set forth in
     subsection (o)(1)A.2. hereof be applied or construed in any section
     contained in Part Five - General Offenses Code that sets forth a criminal
     offense in any of the following manners:
@@ -283,13 +283,13 @@ person’s acts.
             illness or condition, regardless of its duration or gravity, to a
             viable, unborn human that she is carrying.
 
-16. _(p)_ “School safety zone” consists of a school, school building, school
+16. _(p)_ "School safety zone" consists of a school, school building, school
 premises, school activity, and school bus.
 
-17. _(q)_ “School”, “school building” and “school premises” have the same
+17. _(q)_ "School", "school building" and "school premises" have the same
 meaning as in Ohio R.C. 2925.01.
 
-18. _(r)_ “School activity” means any activity held under the auspices of a
+18. _(r)_ "School activity" means any activity held under the auspices of a
 board of education of a city, local, exempted village, joint vocational, or
 cooperative education school district; a governing authority of a community
 school established under Ohio R.C. Chapter 3314; a governing body of an
@@ -297,7 +297,7 @@ educational service center; or the governing body of a nonpublic school for
 which the State Board of Education prescribes minimum standards under Ohio R.C.
 3301.07.
 
-19. _(s)_ “School bus” has the same meaning as in Ohio R.C. 4511.01. (ORC
+19. _(s)_ "School bus" has the same meaning as in Ohio R.C. 4511.01. (ORC
 2901.01)
 
 ## 501.02   Classification of offenses
@@ -384,7 +384,7 @@ Municipality if any of the following occur:
     Municipality or this State and the other jurisdiction, and a substantial
     overt act in furtherance of the conspiracy is undertaken in this
     Municipality by the person or another person involved in the conspiracy,
-    subsequent to the person’s entrance into the conspiracy. In any case in
+    subsequent to the person's entrance into the conspiracy. In any case in
     which a person attempts to commit, is guilty of complicity in the commission
     of, or conspires to commit an offense in another jurisdiction as described
     in this subsection, the person is subject to criminal prosecution and
@@ -450,9 +450,9 @@ this Municipality.
 substantial when it is of a character that manifests a purpose on the part of
 the actor that the object of the conspiracy should be completed.
 
-8. _(h)_ As used in this section, “computer”, “computer system”, “computer
-network”, “information service”, “telecommunication”, “telecommunications
-device”, “telecommunications service”, “data”, and “writing” have the same
+8. _(h)_ As used in this section, "computer", "computer system", "computer
+network", "information service", "telecommunication", "telecommunications
+device", "telecommunications service", "data", and "writing" have the same
 meaning as in Ohio R.C. 2913.01.  
 (ORC 2901.11)
 
@@ -489,20 +489,20 @@ himself a party to the offense.
 
     2. _(2)_ As used in this subsection:
 
-        1. _(A)_ An “offense is directly related to the misconduct in office of
-        a public servant” includes, but is not limited to, a violation of Ohio
+        1. _(A)_ An "offense is directly related to the misconduct in office of
+        a public servant" includes, but is not limited to, a violation of Ohio
         R.C. 101.71, 101.91, 121.61 or 2921.13, division (F) or (H) of Ohio R.C.
         102.03, division (A) of Ohio R.C. 2921.02, division (A) or (B) of Ohio
         R.C. 2921.43, or division (F) or (G) of Ohio R.C. 3517.13, that is
         directly related to an offense involving misconduct in office of a
         public servant.
 
-        2. _(B)_ “Public servant” has the same meaning as in Section 525.01.
+        2. _(B)_ "Public servant" has the same meaning as in Section 525.01.
 
 4. _(d)_ An offense is committed when every element of the offense occurs. In
 the case of an offense of which an element is a continuing course of conduct,
 the period of limitation does not begin to run until such course of conduct or
-the accused’s accountability for it terminates, whichever occurs first.
+the accused's accountability for it terminates, whichever occurs first.
 
 5. _(e)_ A prosecution is commenced on the date an indictment is returned or an
 information filed, or on the date a lawful arrest without a warrant is made, or
@@ -552,7 +552,7 @@ Municipal income tax ordinance.
 1. _(a)_ Except as provided in subsection (b) hereof, a person is not guilty of
 an offense unless both of the following apply:
 
-    1. _(1)_ The person’s liability is based on conduct that includes either a
+    1. _(1)_ The person's liability is based on conduct that includes either a
     voluntary act, or an omission to perform an act or duty that the person is
     capable of performing;
 
@@ -594,30 +594,30 @@ physically capable of performing the act with which the person is charged.
 5. _(e)_ As used in this section:
 
     1. _(1)_ Possession is a voluntary act if the possessor knowingly procured
-    or received the thing possessed, or was aware of the possessor’s control of
+    or received the thing possessed, or was aware of the possessor's control of
     the thing possessed for a sufficient time to have ended possession.
 
     2. _(2)_ Reflexes, convulsions, body movements during unconsciousness or
-    sleep, and body movements that are not otherwise a product of the actor’s
+    sleep, and body movements that are not otherwise a product of the actor's
     volition, are involuntary acts.
 
     3. _(3)_ "Culpability" means purpose, knowledge, recklessness or negligence,
     as defined in Section 501.08.
 
-    4. _(4)_ “Intoxication” includes, but is not limited to, intoxication
+    4. _(4)_ "Intoxication" includes, but is not limited to, intoxication
     resulting from the ingestion of alcohol, a drug, or alcohol and a drug.  
     (ORC 2901.21)
 
 ## 501.08   Culpable mental states
 
-1. _(a)_ A person acts purposely when it is the person’s specific intention to
+1. _(a)_ A person acts purposely when it is the person's specific intention to
 cause a certain result, or when the gist of the offense is a prohibition against
 conduct of a certain nature, regardless of what the offender intends to
-accomplish thereby, it is the offender’s specific intention to engage in conduct
+accomplish thereby, it is the offender's specific intention to engage in conduct
 of that nature.
 
 2. _(b)_ A person acts knowingly, regardless of purpose, when the person is
-aware that the person’s conduct will probably cause a certain result or will
+aware that the person's conduct will probably cause a certain result or will
 probably be of a certain nature. A person has knowledge of circumstances when
 the person is aware that such circumstances probably exist.
 
@@ -628,14 +628,14 @@ the person is aware that such circumstances probably exist.
 
 3. _(c)_ A person acts recklessly when, with heedless indifference to the
 consequences, the person perversely disregards a substantial and unjustifiable
-risk that the person’s conduct is likely to cause a certain result or is likely
+risk that the person's conduct is likely to cause a certain result or is likely
 to be of a certain nature. A person is reckless with respect to circumstances
 when, with heedless indifference to the consequences, the person perversely
 disregards a substantial and unjustifiable risk that such circumstances are
 likely to exist.
 
 4. _(d)_ A person acts negligently when, because of a substantial lapse from due
-care, the person fails to perceive or avoid a risk that the person’s conduct may
+care, the person fails to perceive or avoid a risk that the person's conduct may
 cause a certain result or may be of a certain nature. A person is negligent with
 respect to circumstances when, because of a substantial lapse from due care, the
 person fails to perceive or avoid a risk that such circumstances may exist.
@@ -665,9 +665,9 @@ complicity in the commission of an offense, shall be convicted of an attempt to
 commit the same offense in violation of this section.
 
 4. _(d)_ It is an affirmative defense to a charge under this section that the
-actor abandoned the actor’s effort to commit the offense or otherwise prevented
+actor abandoned the actor's effort to commit the offense or otherwise prevented
 its commission, under circumstances manifesting a complete and voluntary
-renunciation of the actor’s criminal purpose.
+renunciation of the actor's criminal purpose.
 
 5. _(e)_ Whoever violates this section is guilty of an attempt to commit an
 offense. An attempt to commit a drug abuse offense for which the penalty is
@@ -685,7 +685,7 @@ Code, and a misdemeanor of the fourth degree if the offense attempted is a
 misdemeanor. An attempt to commit a minor misdemeanor is not an offense under
 this section.
 
-6. _(f)_ As used in this section, “drug abuse offense” has the same meaning as
+6. _(f)_ As used in this section, "drug abuse offense" has the same meaning as
 in Ohio R.C. 2925.01.  
 (ORC 2923.02)
 
@@ -741,7 +741,7 @@ following circumstances:
 
     1. _(1)_ The offense is a minor misdemeanor committed by an officer, agent
     or employee of the organization acting in its behalf and within the scope of
-    the officer’s, agent’s or employee’s office or employment, except that if
+    the officer's, agent's or employee's office or employment, except that if
     the section defining the offense designates the officers, agents or
     employees for whose conduct the organization is accountable or the
     circumstances under which it is accountable, those provisions shall apply.
@@ -749,7 +749,7 @@ following circumstances:
     2. _(2)_ A purpose to impose organizational liability plainly appears in the
     section defining the offense, and the offense is committed by an officer,
     agent or employee of the organization acting in its behalf and within the
-    scope of the officer’s, agent’s or employee’s office or employment, except
+    scope of the officer's, agent's or employee's office or employment, except
     that if the section defining the offense designates the officers, agents or
     employees for whose conduct the organization is accountable or the
     circumstances under which it is accountable, those provisions shall apply.
@@ -761,7 +761,7 @@ following circumstances:
     commission of the offense, its commission was authorized, requested,
     commanded, tolerated or performed by the board of directors, trustees,
     partners or by a high managerial officer, agent or employee acting in behalf
-    of the organization and within the scope of such a board’s or person’s
+    of the organization and within the scope of such a board's or person's
     office or employment.
 
 2. _(b)_ If strict liability is imposed for the commission of an offense, a
@@ -826,14 +826,14 @@ wastes, shall do either of the following:
 2. _(b)_ No person shall be convicted of conspiracy unless a substantial overt
 act in furtherance of the conspiracy is alleged and proved to have been done by
 the accused or a person with whom the accused conspired, subsequent to the
-accused’s entrance into the conspiracy. For purposes of this section, an overt
+accused's entrance into the conspiracy. For purposes of this section, an overt
 act is substantial when it is of a character that manifests a purpose on the
 part of the actor that the object of the conspiracy should be completed.
 
 3. _(c)_ When the offender knows or has reasonable cause to believe that a
 person with whom the offender conspires also has conspired or is conspiring with
 another to commit the same offense, the offender is guilty of conspiring with
-that other person, even though the other person’s identity may be unknown to the
+that other person, even though the other person's identity may be unknown to the
 offender.
 
 4. _(d)_ It is no defense to a charge under this section that, in retrospect,
@@ -864,16 +864,16 @@ same offense.
     with conspiracy and if the testimony is supported by other evidence, the
     court, when it charges the jury, shall state substantially the following:
 
-        “The testimony of an accomplice that is supported by other evidence does
-        not become inadmissible because of the accomplice’s complicity, moral
+        "The testimony of an accomplice that is supported by other evidence does
+        not become inadmissible because of the accomplice's complicity, moral
         turpitude, or self-interest, but the admitted or claimed complicity of a
-        witness may affect the witness’ credibility and make the witness’
+        witness may affect the witness' credibility and make the witness'
         testimony subject to grave suspicion, and requires that it be weighed
         with great caution. It is for you, as jurors, in light of all the facts
         presented to you from the witness stand, to evaluate such testimony and
-        to determine its quality and worth or its lack of quality and worth”.
+        to determine its quality and worth or its lack of quality and worth".
 
-    3. _(3)_ “Conspiracy”, as used in subsection (h)(1) of this section, does
+    3. _(3)_ "Conspiracy", as used in subsection (h)(1) of this section, does
     not include any conspiracy that results in an attempt to commit an offense
     or in the commission of an offense.
 
@@ -881,13 +881,13 @@ same offense.
 
     1. _(1)_ After conspiring to commit an offense, the actor thwarted the
     success of the conspiracy under circumstances manifesting a complete and
-    voluntary renunciation of the actor’s criminal purpose.
+    voluntary renunciation of the actor's criminal purpose.
 
     2. _(2)_ After conspiring to commit an offense, the actor abandoned the
     conspiracy prior to the commission of or attempt to commit any offense that
     was the object of the conspiracy, either by advising all other conspirators
-    of the actor’s abandonment, or by informing any law enforcement authority of
-    the existence of the conspiracy and of the actor’s participation in the
+    of the actor's abandonment, or by informing any law enforcement authority of
+    the existence of the conspiracy and of the actor's participation in the
     conspiracy.
 
 10. _(j)_ Whoever violates this section is guilty of conspiracy, which is a
@@ -924,8 +924,8 @@ other than this section. In such a case, however:
         1. _(A)_ The provisions of divisions (D), (F) and (G) of Ohio R.C.
         2925.03, division (D) of Ohio R.C. 2925.04, division (D) of Ohio R.C.
         2925.05, division (D) of Ohio R.C. 2925.06 and division (E) of Ohio R.C.
-        2925.11 that pertain to mandatory and additional fines, driver’s or
-        commercial driver’s license or permit suspensions, and professionally
+        2925.11 that pertain to mandatory and additional fines, driver's or
+        commercial driver's license or permit suspensions, and professionally
         licensed persons and that would apply under the appropriate provisions
         of those divisions to a person who is convicted of or pleads guilty to
         the felony drug trafficking, manufacturing, processing, or possession
@@ -945,15 +945,15 @@ other than this section. In such a case, however:
 
 13. _(m)_ As used in this section:
 
-    1. _(1)_ “Felony drug trafficking, manufacturing, processing or possession
-    offense” means any of the following that is a felony:
+    1. _(1)_ "Felony drug trafficking, manufacturing, processing or possession
+    offense" means any of the following that is a felony:
 
         1. _(A)_ A violation of Ohio R.C. 2925.03, 2925.04, 2925.05, or 2925.06;
 
         2. _(B)_ A violation of Ohio R.C. 2925.11 that is not a minor drug
         possession offense.
 
-    2. _(2)_ “Minor drug possession offense” has the same meaning as in Ohio
+    2. _(2)_ "Minor drug possession offense" has the same meaning as in Ohio
     R.C. 2925.01.  
     (ORC 2923.01)
 
@@ -973,8 +973,8 @@ following:
         1. _(A)_ Unless the misdemeanor offense is a minor misdemeanor or could
         be disposed of by the traffic violations bureau serving the court under
         Traffic Rule 13, restitution by the offender to the victim of the
-        offender’s crime or any survivor of the victim, in an amount based on
-        the victim’s economic loss. The court may not impose restitution as a
+        offender's crime or any survivor of the victim, in an amount based on
+        the victim's economic loss. The court may not impose restitution as a
         sanction pursuant to this section if the offense is a minor misdemeanor
         or could be disposed of by the traffic violations bureau serving the
         court under Traffic Rule 13. If the court requires restitution, the
@@ -993,7 +993,7 @@ following:
         of the commission of the offense. If the court imposes restitution for
         the cost of accounting or auditing done to determine the extent of
         economic loss, the court may order restitution for any amount of the
-        victim’s costs of accounting or auditing provided that the amount of
+        victim's costs of accounting or auditing provided that the amount of
         restitution is reasonable and does not exceed the value of property or
         services stolen or damaged as a result of the offense. If the court
         decides to impose restitution, the court shall hold an evidentiary
@@ -1101,23 +1101,23 @@ the following:
             the jail sentence of the offender in that case, the court shall
             notify the prosecutor that the court is considering modifying the
             jail sentence of the offender in that case. The prosecutor may
-            request a hearing regarding the court’s consideration of modifying
+            request a hearing regarding the court's consideration of modifying
             the jail sentence of the offender in that case, and, if the
             prosecutor requests a hearing, the court shall notify the eligible
             offender of the hearing.
 
-            2. _(2)_ If the prosecutor requests a hearing regarding the court’s
+            2. _(2)_ If the prosecutor requests a hearing regarding the court's
             consideration of modifying the jail sentence of the offender in that
             case, the court shall hold the hearing before considering whether or
-            not to release the offender from the offender’s jail sentence.
+            not to release the offender from the offender's jail sentence.
 
     3. _(3)_ If a court sentences an offender to a jail term under this section
     and the court assigns the offender to a county jail that has established a
     county jail industry program pursuant to Ohio R.C. 5147.30, the court shall
     specify, as part of the sentence, whether the offender may be considered for
-    participation in the program. During the offender’s term in the county jail,
+    participation in the program. During the offender's term in the county jail,
     the court retains jurisdiction to modify its specification regarding the
-    offender’s participation in the county jail industry program.
+    offender's participation in the county jail industry program.
 
     4. _(4)_ If a person is sentenced to a jail term pursuant to this section,
     the court may impose as part of the sentence pursuant to Ohio R.C. 2929.28 a

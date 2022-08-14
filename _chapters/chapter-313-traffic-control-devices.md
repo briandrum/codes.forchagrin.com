@@ -16,7 +16,7 @@ title: "Chapter 313: Traffic Control Devices"
 * [313.06   Flashing traffic signals](#31306-flashing-traffic-signals) (Repealed)
 * [313.07   Unauthorized signs andsignals, hiding from view,advertising](#31307-unauthorized-signs-andsignals-hiding-from-view-advertising)
 * [313.08   Alteration, injury, removal of traffic control devices](#31308-alteration-injury-removal-of-traffic-control-devices)
-* [313.09   Driver’s duties uponapproaching ambiguous or non-working traffic signal](#31309-drivers-duties-uponapproaching-ambiguous-or-non-working-traffic-signal)
+* [313.09   Driver's duties uponapproaching ambiguous or non-working traffic signal](#31309-drivers-duties-uponapproaching-ambiguous-or-non-working-traffic-signal)
 * [313.10   Unlawful purchase,possession or sale](#31310-unlawful-purchase-possession-or-sale)
 * [313.11   Portable signal preemption devices prohibited](#31311-portable-signal-preemption-devices-prohibited)
 
@@ -342,9 +342,9 @@ governed by Ohio R.C. 4511.61 and 4511.62.
     1. _(1)_ A steady downward green arrow: A road user is permitted to drive in
     the lane over which the arrow signal indication is located.
 
-    2. _(2)_ A steady yellow “X”: A road user is to prepare to vacate the lane
+    2. _(2)_ A steady yellow "X": A road user is to prepare to vacate the lane
     over which the signal indication is located because a lane control change is
-    being made to a steady red “X” signal indication.
+    being made to a steady red "X" signal indication.
 
     3. _(3)_ A steady white two-way left-turn arrow: A road user is permitted to
     use a lane over which the signal indication is located for a left turn, but
@@ -355,7 +355,7 @@ governed by Ohio R.C. 4511.61 and 4511.62.
     use a lane over which the signal indication is located for a left turn,
     without opposing turns in the same lane, but not for through travel.
 
-    5. _(5)_ A steady red “X”: A road user is not permitted to use the lane over
+    5. _(5)_ A steady red "X": A road user is not permitted to use the lane over
     which the signal indication is located and that this signal indication shall
     modify accordingly the meaning of other traffic controls present.  
     (ORC 4511.131)
@@ -372,19 +372,19 @@ the third degree.
 
 ## 313.05   Special pedestrian control signals
 
-1. _(a)_ Whenever special pedestrian control signals exhibiting the words “walk”
-or “don’t walk”, or the symbol of a walking person or an upraised palm are in
+1. _(a)_ Whenever special pedestrian control signals exhibiting the words "walk"
+or "don't walk", or the symbol of a walking person or an upraised palm are in
 place, such signals shall indicate the following instructions:
 
-    1. _(1)_ A steady walking person signal indication, which symbolizes “walk”,
+    1. _(1)_ A steady walking person signal indication, which symbolizes "walk",
     means that a pedestrian facing the signal indication is permitted to start
     to cross the roadway in the direction of the signal indication, possibly in
     conflict with turning vehicles. The pedestrian shall yield the right-of-way
     to vehicles lawfully within the intersection at the time that the walking
     person signal indication is first shown.
 
-    2. _(2)_ A flashing upraised hand signal indication, which symbolizes “don’t
-    walk”, means that a pedestrian shall not start to cross the roadway in the
+    2. _(2)_ A flashing upraised hand signal indication, which symbolizes "don't
+    walk", means that a pedestrian shall not start to cross the roadway in the
     direction of the signal indication, but that any pedestrian who has already
     started to cross on a steady walking person signal indication shall proceed
     to the far side of the traveled way of the street or highway, unless
@@ -395,7 +395,7 @@ place, such signals shall indicate the following instructions:
     shall not enter the roadway in the direction of the signal indication.
 
     4. _(4)_ Nothing int his section shall be construed to invalidate the
-    continued use of pedestrian control signals utilizing the word “wait” if
+    continued use of pedestrian control signals utilizing the word "wait" if
     those signals were installed prior to March 28, 1985.
 
     5. _(5)_ A flashing walking person signal indication has no meaning and
@@ -485,7 +485,7 @@ the third degree.
     section is guilty of a misdemeanor of the third degree.  
     (ORC 4511.17)
 
-## 313.09   Driver’s duties upon approaching ambiguous or non-working traffic signal
+## 313.09   Driver's duties upon approaching ambiguous or non-working traffic signal
 
 1. _(a)_ The driver of a vehicle who approaches an intersection where traffic is
 controlled by traffic control signals shall do all of the following if the
@@ -533,11 +533,11 @@ highways, but does not mean any pavement marking.
 2. _(b)_ No individual shall buy or otherwise possess or sell, a traffic control
 device, except when one of the following applies:
 
-    1. _(1)_ In the course of the individual’s employment by the State or a
+    1. _(1)_ In the course of the individual's employment by the State or a
     local authority for the express or implied purpose of manufacturing,
     providing, erecting, moving or removing such a traffic control device;
 
-    2. _(2)_ In the course of the individual’s employment by any manufacturer of
+    2. _(2)_ In the course of the individual's employment by any manufacturer of
     traffic control devices other than a State or local authority;
 
     3. _(3)_ For the purpose of demonstrating the design and function of a
@@ -587,7 +587,7 @@ the following persons when responding to an emergency call:
 misdemeanor of the fourth degree. Whoever violates subsection (a)(2) of this
 section is guilty of a misdemeanor of the first degree.
 
-4. _(d)_ As used in this section, “portable signal preemption device” means a
+4. _(d)_ As used in this section, "portable signal preemption device" means a
 device that, if activated by a person, is capable of changing a traffic control
 signal to green out of sequence.  
 (ORC 4513.031)

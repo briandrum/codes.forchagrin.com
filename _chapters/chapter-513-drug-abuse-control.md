@@ -40,12 +40,12 @@ the context clearly indicates or requires a different meaning. Words, terms and
 phrases and their derivatives used in this chapter which are not defined in this
 section shall have the meanings given to them in the Ohio Revised Code.
 
-1. _(a)_ “Administer.” Has the same meaning as in Ohio R.C. 3719.01.
+1. _(a)_ "Administer." Has the same meaning as in Ohio R.C. 3719.01.
 
-2. _(b)_ “Adulterate.” To cause a drug to be adulterated as described in Ohio
+2. _(b)_ "Adulterate." To cause a drug to be adulterated as described in Ohio
 R.C. 3715.63.
 
-3. _(c)_ “Bulk amount.” Of a controlled substance, means any of the following:
+3. _(c)_ "Bulk amount." Of a controlled substance, means any of the following:
 
     1. _(1)_ For any compound, mixture, preparation, or substance included in
     Schedule I, Schedule II, or Schedule III, with the exception of any
@@ -125,12 +125,12 @@ R.C. 3715.63.
     other Schedule III, Schedule IV, or Schedule V controlled substance that is
     combined with the fentanyl-related compound.
 
-4. _(d)_ “Certified grievance committee.” A duly constituted and organized
+4. _(d)_ "Certified grievance committee." A duly constituted and organized
 committee of the Ohio State Bar Association or of one or more local bar
 associations of the state that complies with the criteria set forth in Rule V,
 Section 6 of the Rules for the Government of the Bar of Ohio.
 
-5. _(e)_ “Cocaine.” Any of the following:
+5. _(e)_ "Cocaine." Any of the following:
 
     1. _(1)_ A cocaine salt, isomer or derivative, a salt of a cocaine isomer or
     derivative, or the base form of cocaine.
@@ -145,26 +145,26 @@ Section 6 of the Rules for the Government of the Bar of Ohio.
     substances shall not include decocainized coca leaves or extraction of coca
     leaves if the extractions do not contain cocaine or ecgonine.
 
-6. _(f)_ “Committed in the vicinity of a juvenile.” An offense is “committed in
-the vicinity of a juvenile” if the offender commits the offense within 100 feet
+6. _(f)_ "Committed in the vicinity of a juvenile." An offense is "committed in
+the vicinity of a juvenile" if the offender commits the offense within 100 feet
 of a juvenile or within the view of a juvenile, regardless of whether the
 offender knows the age of the juvenile, whether the offender knows the offense
 is being committed within 100 feet of or within view of the juvenile, or whether
 the juvenile actually views the commission of the offense.
 
-7. _(g)_ “Committed in the vicinity of a school.” An offense is “committed in
-the vicinity of a school” if the offender commits the offense on school
+7. _(g)_ "Committed in the vicinity of a school." An offense is "committed in
+the vicinity of a school" if the offender commits the offense on school
 premises, in a school building, or within 1,000 feet of the boundaries of any
 school premises, regardless of whether the offender knows the offense is being
 committed on school premises, in a school building, or within 1,000 feet of the
 boundaries of any school premises.
 
-8. _(h)_ “Controlled substance.” Has the same meaning as in Ohio R.C. 3719.01.
+8. _(h)_ "Controlled substance." Has the same meaning as in Ohio R.C. 3719.01.
 
-9. _(i)_ “Controlled substance analog.” Has the same meaning as in Ohio R.C.
+9. _(i)_ "Controlled substance analog." Has the same meaning as in Ohio R.C.
 3719.01.
 
-10. _(j)_ “Counterfeit controlled substance.” Any of the following:
+10. _(j)_ "Counterfeit controlled substance." Any of the following:
 
     1. _(1)_ Any drug that bears, or whose container or label bears, a
     trademark, trade name or other identifying mark used without authorization
@@ -183,23 +183,23 @@ boundaries of any school premises.
     in shape, size and color, or its markings, labeling, packaging, distribution
     or the price for which it is sold or offered for sale.
 
-11. _(k)_ “Cultivate.” Includes planting, watering, fertilizing or tilling.
+11. _(k)_ "Cultivate." Includes planting, watering, fertilizing or tilling.
 
-12. _(l)_ “Dangerous drug.” Has the same meaning as in Ohio R.C. 4729.01.
+12. _(l)_ "Dangerous drug." Has the same meaning as in Ohio R.C. 4729.01.
 
-13. _(m)_ “Deception.” Has the same meaning as in Ohio R.C. 2913.01.
+13. _(m)_ "Deception." Has the same meaning as in Ohio R.C. 2913.01.
 
-14. _(n)_ “Disciplinary counsel.” The disciplinary counsel appointed by the
+14. _(n)_ "Disciplinary counsel." The disciplinary counsel appointed by the
 Board of Commissioners on Grievances and Discipline of the Ohio Supreme Court
 under the Rules for the Government of the Bar of Ohio.
 
-15. _(o)_ “Dispense.” Has the same meaning as in Ohio R.C. 3719.01.
+15. _(o)_ "Dispense." Has the same meaning as in Ohio R.C. 3719.01.
 
-16. _(p)_ “Distribute.” Has the same meaning as in Ohio R.C. 3719.01.
+16. _(p)_ "Distribute." Has the same meaning as in Ohio R.C. 3719.01.
 
-17. _(q)_ “Drug.” Has the same meaning as in Ohio R.C. 4729.01.
+17. _(q)_ "Drug." Has the same meaning as in Ohio R.C. 4729.01.
 
-18. _(r)_ “Drug abuse offense.” Any of the following:
+18. _(r)_ "Drug abuse offense." Any of the following:
 
     1. _(1)_ A violation of Ohio R.C. 2913.02(A) that constitutes theft of
     drugs, or any violation of Ohio R.C. 2925.02, 2925.03, 2925.04, 2925.041,
@@ -221,16 +221,16 @@ under the Rules for the Government of the Bar of Ohio.
     committing or attempting to commit, any offense under subsection (r)(1), (2)
     or (3) of this definition.
 
-19. _(s)_ “Drug dependent person.” Has the same meaning as in Ohio R.C.
+19. _(s)_ "Drug dependent person." Has the same meaning as in Ohio R.C.
 3719.011.
 
-20. _(t)_ “Drug of abuse.” Has the same meaning as in Ohio R.C. 3719.011.
+20. _(t)_ "Drug of abuse." Has the same meaning as in Ohio R.C. 3719.011.
 
-21. _(u)_ “Felony drug abuse offense.” Any drug abuse offense that would
+21. _(u)_ "Felony drug abuse offense." Any drug abuse offense that would
 constitute a felony under the laws of this state, any other state or the United
 States.
 
-22. _(v)_ “Fentanyl-related compound.” Any of the following:
+22. _(v)_ "Fentanyl-related compound." Any of the following:
 
     1. _(1)_ Fentanyl;
 
@@ -295,7 +295,7 @@ States.
         4. _(D)_ The compound has not been approved for medical use by the
         United States food and drug administration.
 
-23. _(w)_ “Harmful intoxicant.” Does not include beer or intoxicating liquor,
+23. _(w)_ "Harmful intoxicant." Does not include beer or intoxicating liquor,
 but means any of the following:
 
     1. _(1)_ Any compound, mixture, preparation or substance the gas, fumes or
@@ -318,7 +318,7 @@ but means any of the following:
 
     3. _(3)_ 1,4 Butanediol.
 
-24. _(x)_ “Hashish”.
+24. _(x)_ "Hashish".
 
     1. _(1)_ A resin or a preparation of a resin to which both of the following
     apply:
@@ -335,37 +335,37 @@ but means any of the following:
     byproduct is being produced, stored, and disposed of in accordance with
     rules adopted under Ohio R.C. 928.03.
 
-25. _(y)_ “Hypodermic.”  Has the same meaning as in Ohio R.C. 3719.01.
+25. _(y)_ "Hypodermic."  Has the same meaning as in Ohio R.C. 3719.01.
 
-26. _(z)_ “Juvenile.” A person under eighteen years of age.
+26. _(z)_ "Juvenile." A person under eighteen years of age.
 
-27. _(aa)_ “Licensed health professional authorized to prescribe drugs.” Has the
+27. _(aa)_ "Licensed health professional authorized to prescribe drugs." Has the
 same meaning as in Ohio R.C. 4729.01.
 
-28. _(bb)_ “L.S.D.” Lysergic acid diethylamide.
+28. _(bb)_ "L.S.D." Lysergic acid diethylamide.
 
-29. _(cc)_ “Major drug offender.” Has the same meaning as in Ohio R.C. 2929.01.
+29. _(cc)_ "Major drug offender." Has the same meaning as in Ohio R.C. 2929.01.
 
-30. _(dd)_ “Mandatory prison term.” Has the same meaning as in Ohio R.C.
+30. _(dd)_ "Mandatory prison term." Has the same meaning as in Ohio R.C.
 2929.01.
 
-31. _(ee)_ “Manufacture.” To plant, cultivate, harvest, process, make, prepare
+31. _(ee)_ "Manufacture." To plant, cultivate, harvest, process, make, prepare
 or otherwise engage in any part of the production of a drug, by propagation,
 extraction, chemical synthesis or compounding, or any combination of the same,
 and includes packaging, repackaging, labeling and other activities incident to
 production.
 
-32. _(ff)_ “Manufacturer.” Has the same meaning as in Ohio R.C. 3719.01.
+32. _(ff)_ "Manufacturer." Has the same meaning as in Ohio R.C. 3719.01.
 
-33. _(gg)_ “Marihuana.” Has the same meaning as in Ohio R.C. 3719.01, except
+33. _(gg)_ "Marihuana." Has the same meaning as in Ohio R.C. 3719.01, except
 that it does not include hashish.
 
-34. _(hh)_ “Methamphetamine.” Methamphetamine, any salt, isomer or salt of an
+34. _(hh)_ "Methamphetamine." Methamphetamine, any salt, isomer or salt of an
 isomer of methamphetamine, or any compound, mixture, preparation or substance
 containing methamphetamine or any salt, isomer or salt of an isomer of
 methamphetamine.
 
-35. _(ii)_ “Minor drug possession offense.” Either of the following:
+35. _(ii)_ "Minor drug possession offense." Either of the following:
 
     1. _(1)_ A violation of Ohio R.C. 2925.11, as it existed prior to July 1,
     1996, or a substantially equivalent municipal ordinance.
@@ -374,34 +374,34 @@ methamphetamine.
     1996, or a substantially equivalent municipal ordinance, that is a
     misdemeanor or a felony of the fifth degree.
 
-36. _(jj)_ “Official written order.” Has the same meaning as in Ohio R.C.
+36. _(jj)_ "Official written order." Has the same meaning as in Ohio R.C.
 3719.01.
 
-37. _(kk)_ “Person.” Has the same meaning as in Ohio R.C. 3719.01.
+37. _(kk)_ "Person." Has the same meaning as in Ohio R.C. 3719.01.
 
-38. _(ll)_ “Pharmacist.” Has the same meaning as in Ohio R.C. 3719.01.
+38. _(ll)_ "Pharmacist." Has the same meaning as in Ohio R.C. 3719.01.
 
-39. _(mm)_ “Pharmacy.” Has the same meaning as in Ohio R.C. 3719.01.
+39. _(mm)_ "Pharmacy." Has the same meaning as in Ohio R.C. 3719.01.
 
-40. _(nn)_ “Possess” or “possession.” Having control over a thing or substance
+40. _(nn)_ "Possess" or "possession." Having control over a thing or substance
 but may not be inferred solely from mere access to the thing or substance
 through ownership or occupation of the premises upon which the thing or
 substance is found.
 
-41. _(oo)_ “Prescription.” Has the same meaning as in Ohio R.C. 4729.01.
+41. _(oo)_ "Prescription." Has the same meaning as in Ohio R.C. 4729.01.
 
-42. _(pp)_ “Presumption for a prison term” or “presumption that a prison term
-shall be imposed.” A presumption as described in Ohio R.C. 2929.13(D) that a
+42. _(pp)_ "Presumption for a prison term" or "presumption that a prison term
+shall be imposed." A presumption as described in Ohio R.C. 2929.13(D) that a
 prison term is a necessary sanction for a felony in order to comply with the
 purposes and principles of sentencing under Ohio R.C. 2929.11.
 
-43. _(qq)_ “Professional license.” Any license, permit, certificate,
+43. _(qq)_ "Professional license." Any license, permit, certificate,
 registration, qualification, admission, temporary license, temporary permit,
 temporary certificate or temporary registration that is described in Ohio R.C.
 2925.01(W)(1) to (W)(37) and that qualifies a person as a professionally
 licensed person.
 
-44. _(rr)_ “Professionally licensed person.” Any of the following:
+44. _(rr)_ "Professionally licensed person." Any of the following:
 
     1. _(1)_ A person who has received a certificate or temporary certificate as
     a certified public accountant or who has registered as a public accountant
@@ -424,24 +424,24 @@ licensed person.
     pooling company by a legislative authority, under authority of Ohio R.C.
     Chapter 4710;
 
-    7. _(7)_ A person who has been issued a cosmetologist’s license, hair
-    designer’s license, manicurist’s license, esthetician’s license, natural
-    hair stylist’s license, advanced cosmetologist’s license, advanced hair
-    designer’s license, advanced manicurist’s license, advanced esthetician’s
-    license, advanced natural hair stylist’s license, cosmetology instructor’s
-    license, hair design instructor’s license, manicurist instructor’s license,
-    esthetics instructor’s license, natural hair style instructor’s license,
-    independent contractor’s license, or tanning facility permit under Ohio R.C.
+    7. _(7)_ A person who has been issued a cosmetologist's license, hair
+    designer's license, manicurist's license, esthetician's license, natural
+    hair stylist's license, advanced cosmetologist's license, advanced hair
+    designer's license, advanced manicurist's license, advanced esthetician's
+    license, advanced natural hair stylist's license, cosmetology instructor's
+    license, hair design instructor's license, manicurist instructor's license,
+    esthetics instructor's license, natural hair style instructor's license,
+    independent contractor's license, or tanning facility permit under Ohio R.C.
     Chapter 4713;
 
     8. _(8)_ A person who has been issued a license to practice dentistry, a
-    general anesthesia permit, a conscious sedation permit, a limited resident’s
-    license, a limited teaching license, a dental hygienist’s license or a
-    dental hygienist’s teacher’s certificate under Ohio R.C. Chapter 4715;
+    general anesthesia permit, a conscious sedation permit, a limited resident's
+    license, a limited teaching license, a dental hygienist's license or a
+    dental hygienist's teacher's certificate under Ohio R.C. Chapter 4715;
 
-    9. _(9)_ A person who has been issued an embalmer’s license, a funeral
-    director’s license, a funeral home license or a crematory license, or who
-    has been registered for an embalmer’s or funeral director’s apprenticeship
+    9. _(9)_ A person who has been issued an embalmer's license, a funeral
+    director's license, a funeral home license or a crematory license, or who
+    has been registered for an embalmer's or funeral director's apprenticeship
     under Ohio R.C. Chapter 4717;
 
     10. _(10)_ A person who has been licensed as a registered nurse or practical
@@ -492,7 +492,7 @@ licensed person.
     23. _(23)_ A person licensed to operate or maintain a junkyard under Ohio
     R.C. Chapter 4737;
 
-    24. _(24)_ A person who has been issued a motor vehicle salvage dealer’s
+    24. _(24)_ A person who has been issued a motor vehicle salvage dealer's
     license under Ohio R.C. Chapter 4738;
 
     25. _(25)_ A person who has been licensed to act as a steam engineer under
@@ -502,7 +502,7 @@ licensed person.
     practice veterinary medicine or any of its branches, or who is registered as
     a graduate animal technician under Ohio R.C. Chapter 4741;
 
-    27. _(27)_ A person who has been issued a hearing aid dealer’s or fitter’s
+    27. _(27)_ A person who has been issued a hearing aid dealer's or fitter's
     license or trainee permit under Ohio R.C. Chapter 4747;
 
     28. _(28)_ A person who has been issued a class A, class B or class C
@@ -539,34 +539,34 @@ licensed person.
     37. _(37)_ A person who has been admitted to the bar by order of the Ohio
     Supreme Court in compliance with its prescribed and published rules.
 
-45. _(ss)_ “Public premises.” Any hotel, restaurant, tavern, store, arena, hall
+45. _(ss)_ "Public premises." Any hotel, restaurant, tavern, store, arena, hall
 or other place of public accommodation, business, amusement or resort.
 
-46. _(tt)_ “Sale.” Has the same meaning as in Ohio R.C. 3719.01.
+46. _(tt)_ "Sale." Has the same meaning as in Ohio R.C. 3719.01.
 
-47. _(uu)_ “Sample drug.” A drug or pharmaceutical preparation that would be
+47. _(uu)_ "Sample drug." A drug or pharmaceutical preparation that would be
 hazardous to health or safety if used without the supervision of a licensed
 health professional authorized to prescribe drugs, or a drug of abuse, and that,
 at one time, had been placed in a container plainly marked as a sample by a
 manufacturer.
 
-48. _(vv)_ “Schedule I”, “Schedule II”, “Schedule III”, “Schedule IV” or
-“Schedule V.” Have the same meaning as in Ohio R.C. 3719.01.
+48. _(vv)_ "Schedule I", "Schedule II", "Schedule III", "Schedule IV" or
+"Schedule V." Have the same meaning as in Ohio R.C. 3719.01.
 
-49. _(ww)_ “School.” Any school operated by a board of education, any community
+49. _(ww)_ "School." Any school operated by a board of education, any community
 school established under Ohio R.C. Chapter 3314, or any nonpublic school for
 which the State Board of Education prescribes minimum standards under Ohio R.C.
 3301.07, whether or not any instruction, extracurricular activities or training
 provided by the school is being conducted at the time a criminal offense is
 committed.
 
-50. _(xx)_ “School building.” Any building in which any of the instruction,
+50. _(xx)_ "School building." Any building in which any of the instruction,
 extracurricular activities or training provided by a school is conducted,
 whether or not any instruction, extracurricular activities or training provided
 by the school is being conducted in the school building at the time a criminal
 offense is committed.
 
-51. _(yy)_ “School premises.” Either of the following:
+51. _(yy)_ "School premises." Either of the following:
 
     1. _(1)_ The parcel of real property on which any school is situated,
     whether or not any instruction, extracurricular activities, or training
@@ -583,16 +583,16 @@ offense is committed.
     the school is being conducted on the parcel of real property at the time a
     criminal offense is committed.
 
-52. _(zz)_ “Standard Pharmaceutical Reference Manual.” The current edition, with
+52. _(zz)_ "Standard Pharmaceutical Reference Manual." The current edition, with
 cumulative changes if any, of references that are approved by the State Board of
 Pharmacy.
 
-53. _(aaa)_ “Unit dose.” An amount or unit or a compound, mixture or preparation
+53. _(aaa)_ "Unit dose." An amount or unit or a compound, mixture or preparation
 containing a controlled substance that is separately identifiable and in a form
 that indicates that it is the amount or unit by which the controlled substance
 is separately administered to or taken by an individual.
 
-54. _(bbb)_ “Wholesaler.” Has the same meaning as in Ohio R.C. 3719.01.  
+54. _(bbb)_ "Wholesaler." Has the same meaning as in Ohio R.C. 3719.01.  
 (ORC 2925.01)
 
 ## 513.02   Gift of marihuana
@@ -607,18 +607,18 @@ was committed in the vicinity of a school or the vicinity of a juvenile,
 trafficking in marihuana is a misdemeanor of the third degree.
 
 3. _(c)_ The court may by order suspend for not more than five years the
-driver’s or commercial driver’s license or permit of any person who is convicted
+driver's or commercial driver's license or permit of any person who is convicted
 of or pleads guilty to any violation of this section. However, if the offender
 pleaded guilty to or was convicted of a violation of Ohio R.C. 4511.19 or a
 substantially similar municipal ordinance or the law of another state or the
 United States arising out of the same set of circumstances as the violation, the
-court shall suspend the offender’s driver’s or commercial driver’s license or
-permit in accordance with Ohio R.C. 2925.03(G). If an offender’s driver’s or
-commercial driver’s license or permit is suspended pursuant to this subsection,
+court shall suspend the offender's driver's or commercial driver's license or
+permit in accordance with Ohio R.C. 2925.03(G). If an offender's driver's or
+commercial driver's license or permit is suspended pursuant to this subsection,
 the offender, at any time after the expiration of two years from the day on
-which the offender’s sentence was imposed, may file a motion with the sentencing
+which the offender's sentence was imposed, may file a motion with the sentencing
 court requesting termination of the suspension; upon the filing of such a motion
-and the court’s finding of good cause for the termination, the court may
+and the court's finding of good cause for the termination, the court may
 terminate the suspension.  
 (ORC 2925.03)
 
@@ -654,35 +654,35 @@ or a controlled substance analog.
         prescribe drugs if the prescription was issued for a legitimate medical
         purpose and not altered, forged or obtained through deception or
         commission of a theft offense. As used in subsection (b)(1)D. of this
-        section, “deception” and “theft offense” have the same meanings as in
+        section, "deception" and "theft offense" have the same meanings as in
         Ohio R.C. 2913.01.
 
     2. _(2)_
 
         1. _(A)_ As used in subsection (b)(2) of this section:
 
-            1. _(1)_ “Community addiction services provider” has the same
+            1. _(1)_ "Community addiction services provider" has the same
             meaning as in Ohio R.C. 5119.01.
 
-            2. _(2)_ “Community control sanction” and “drug treatment program”
+            2. _(2)_ "Community control sanction" and "drug treatment program"
             have the same meanings as in Ohio R.C. 2929.01.
 
-            3. _(3)_ “Health care facility” has the same meaning as in Ohio R.C.
+            3. _(3)_ "Health care facility" has the same meaning as in Ohio R.C.
             2919.16.
 
-            4. _(4)_ “Minor drug possession offense” means a violation of this
+            4. _(4)_ "Minor drug possession offense" means a violation of this
             section that is a misdemeanor or a felony of the fifth degree.
 
-            5. _(5)_ “Post-release control sanction” has the same meaning as in
+            5. _(5)_ "Post-release control sanction" has the same meaning as in
             Ohio R.C. 2967.28.
 
-            6. _(6)_ “Peace officer” has the same meaning as in Ohio R.C.
+            6. _(6)_ "Peace officer" has the same meaning as in Ohio R.C.
             2935.01.
 
-            7. _(7)_ “Public agency” has the same meaning as in Ohio R.C.
+            7. _(7)_ "Public agency" has the same meaning as in Ohio R.C.
             2930.01.
 
-            8. _(8)_ “Qualified individual” means a person who is not on
+            8. _(8)_ "Qualified individual" means a person who is not on
             community control or post-release control and is a person acting in
             good faith who seeks or obtains medical assistance for another
             person who is experiencing a drug overdose, a person who experiences
@@ -691,7 +691,7 @@ or a controlled substance analog.
             obtaining medical assistance for that overdose as described in
             subsection (b)(2)B. of this section.
 
-            9. _(9)_ “Seek or obtain medical assistance” includes, but is not
+            9. _(9)_ "Seek or obtain medical assistance" includes, but is not
             limited to making a 9-1-1 call, contacting in person or by telephone
             call an on-duty peace officer, or transporting or presenting a
             person to a health care facility.
@@ -724,11 +724,11 @@ or a controlled substance analog.
 
         3. _(C)_ If a person is found to be in violation of any community
         control sanction and if the violation is a result of either of the
-        following, the court shall first consider ordering the person’s
+        following, the court shall first consider ordering the person's
         participation or continued participation in a drug treatment program or
         mitigating the penalty specified in Ohio R.C. 2929.13, 2929.15, or
         2929.25, whichever is applicable, after which the court has the
-        discretion either to order the person’s participation or continued
+        discretion either to order the person's participation or continued
         participation in a drug treatment program or to impose the penalty with
         the mitigating factor specified in any of those applicable sections:
 
@@ -743,10 +743,10 @@ or a controlled substance analog.
         4. _(D)_ If a person is found to be in violation of any post-release
         control sanction and if the violation is a result of either of the
         following, the court or the parole board shall first consider ordering
-        the person’s participation or continued participation in a drug
+        the person's participation or continued participation in a drug
         treatment program or mitigating the penalty specified in Ohio R.C.
         2929.141 or 2967.28, whichever is applicable, after which the court or
-        the parole board has the discretion either to order the person’s
+        the parole board has the discretion either to order the person's
         participation or continued participation in a drug treatment program or
         to impose the penalty with the mitigating factor specified in either of
         those applicable sections:
@@ -790,7 +790,7 @@ or a controlled substance analog.
 
         7. _(G)_ Nothing in this section shall compel any qualified individual
         to disclose protected health information in a way that conflicts with
-        the requirements of the “Health Insurance Portability and Accountability
+        the requirements of the "Health Insurance Portability and Accountability
         Act of 1996", 104 Pub. L. No. 191, 110 Stat. 2021, 42 U.S.C. 1320d et
         seq., as amended, and regulations promulgated by the United States
         Department of Health and Human Services to implement the act or the
@@ -841,18 +841,18 @@ following:
 4. _(d)_ In addition to any other sanction that is imposed for an offense under
 this section, the court that sentences an offender who is convicted of or pleads
 guilty to a violation of this section may suspend for not more than five years
-the offender’s driver’s or commercial driver’s license or permit. However, if
+the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
 4511.19 or a substantially similar municipal ordinance or the law of another
 state or the United States arising out of the same set of circumstances as the
-violation, the court shall suspend the offender’s driver’s or commercial
-driver’s license or permit for not more than five years.
+violation, the court shall suspend the offender's driver's or commercial
+driver's license or permit for not more than five years.
 
 5. _(e)_ Arrest or conviction for a minor misdemeanor violation of this section
 does not constitute a criminal record and need not be reported by the person so
-arrested or convicted in response to any inquiries about the person’s criminal
+arrested or convicted in response to any inquiries about the person's criminal
 record, including any inquiries contained in any application for employment,
-license, or other right or privilege, or made in connection with the person’s
+license, or other right or privilege, or made in connection with the person's
 appearance as a witness.  
 (ORC 2925.11)
 
@@ -879,12 +879,12 @@ misdemeanor of the first degree.
 
 4. _(d)_ In addition to any other sanction imposed upon an offender for a
 violation of this section, the court may suspend for not more than five years
-the offender’s driver’s or commercial driver’s license or permit. However, if
+the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
 4511.19 or a substantially similar municipal ordinance or the law of another
 state or the United States arising out of the same set of circumstances as the
-violation, the court shall suspend the offender’s driver’s or commercial
-driver’s license or permit for not more than five years.  
+violation, the court shall suspend the offender's driver's or commercial
+driver's license or permit for not more than five years.  
 (ORC 2925.12)
 
 ## 513.05   Permitting drug abuse
@@ -908,11 +908,11 @@ under appropriate State law.
 4. _(d)_ In addition to any other sanction imposed for an offense under this
 section, the court that sentences a person who is convicted of or pleads guilty
 to a violation of this section may suspend for not more than five years the
-offender’s driver’s or commercial driver’s license or permit. However, if the
+offender's driver's or commercial driver's license or permit. However, if the
 offender pleaded guilty to or was convicted of a violation of Ohio R.C. 4511.19
 or a substantially similar municipal ordinance or the law of another state or
 the United States arising out of the same set of circumstances as the violation,
-the court shall suspend the offender’s driver’s or commercial driver’s license
+the court shall suspend the offender's driver's or commercial driver's license
 or permit for not more than five years.
 
 5. _(e)_ Any premises or real estate that is permitted to be used in violation
@@ -944,18 +944,18 @@ misdemeanor if the amount of marihuana involved does not exceed 200 grams.
 
 4. _(d)_ In addition to any other sanction imposed for an offense under this
 section, the court that sentences an offender who is convicted of or pleads
-guilty to a violation of this section may suspend the offender’s driver’s or
-commercial driver’s license or permit in accordance with division (G) of Ohio
-R.C. 2925.03. If an offender’s driver’s or commercial driver’s license or permit
+guilty to a violation of this section may suspend the offender's driver's or
+commercial driver's license or permit in accordance with division (G) of Ohio
+R.C. 2925.03. If an offender's driver's or commercial driver's license or permit
 is suspended in accordance with that division, the offender may request
 termination of, and the court may terminate, the suspension in accordance with
 that division.
 
 5. _(e)_ Arrest or conviction for a minor misdemeanor violation of this section
 does not constitute a criminal record and need not be reported by the person so
-arrested or convicted in response to any inquiries about the person’s criminal
+arrested or convicted in response to any inquiries about the person's criminal
 record, including any inquiries contained in an application for employment, a
-license, or any other right or privilege or made in connection with the person’s
+license, or any other right or privilege or made in connection with the person's
 appearance as a witness.  
 (ORC 2925.04)
 
@@ -972,12 +972,12 @@ prosecuted under appropriate State law.
 
 3. _(c)_ In addition to any other sanction imposed upon an offender for a
 violation of this section, the court may suspend for not more than five years
-the offender’s driver’s or commercial driver’s license or permit. However, if
+the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
 4511.19 or a substantially similar municipal ordinance or the law of another
 state or the United States arising out of the same set of circumstances as the
-violation, the court shall suspend the offender’s driver’s or commercial
-driver’s license or permit for not more than five years.  
+violation, the court shall suspend the offender's driver's or commercial
+driver's license or permit for not more than five years.  
 (ORC 2925.31)
 
 ## 513.08   Illegally dispensing drug samples
@@ -1004,17 +1004,17 @@ marihuana, the penalty for the offense shall be determined as follows:
 4. _(d)_ In addition to any other sanction imposed for an offense under this
 section, the court that sentences an offender who is convicted of or pleads
 guilty to a violation of this section may suspend for not more than five years
-the offender’s driver’s or commercial driver’s license or permit. However, if
+the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
 4511.19 or a substantially similar municipal ordinance or the law of another
 state or the United States arising out of the same set of circumstances as the
-violation, the court shall suspend the offender’s driver’s or commercial
-driver’s license or permit for not more than five years.  
+violation, the court shall suspend the offender's driver's or commercial
+driver's license or permit for not more than five years.  
 (ORC 2925.36)
 
 ## 513.09   Controlled substance or prescription labels
 
-1. _(a)_ As used in this section, “repackager” and “outsourcing facility” have
+1. _(a)_ As used in this section, "repackager" and "outsourcing facility" have
 the same meanings as in ORC 4729.01.  
 
     Whenever a manufacturer sells a controlled substance, and whenever a
@@ -1068,8 +1068,8 @@ this section as long as any of the original contents remain.
 6. _(f)_ Every label for a schedule II, III or IV controlled substance shall
 contain the following warning:
 
-    “Caution: federal law prohibits the transfer of this drug to any person
-    other than the patient for whom it was prescribed”.  
+    "Caution: federal law prohibits the transfer of this drug to any person
+    other than the patient for whom it was prescribed".  
     (ORC 3719.08)
 
 7. _(g)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -1090,7 +1090,7 @@ a felony and shall be prosecuted under appropriate State law.
     business;
 
     3. _(3)_ A person authorized to administer injections, in the regular course
-    of the person’s profession or employment;
+    of the person's profession or employment;
 
     4. _(4)_ A person, when the hypodermic was lawfully obtained and is kept and
     used for the purpose of self-administration of insulin or other drug
@@ -1110,7 +1110,7 @@ medication packaged in hypodermics, or their authorized agents or employees, and
 no terminal distributor of dangerous drugs, shall display any hypodermic for
 sale. No person authorized to possess a hypodermic pursuant to division (a) of
 this section shall negligently fail to take reasonable precautions to prevent
-any hypodermic in the person’s possession from theft or acquisition by any
+any hypodermic in the person's possession from theft or acquisition by any
 unauthorized person.  
 (ORC 3719.172)
 
@@ -1122,7 +1122,7 @@ a drug abuse offense, a violation is a misdemeanor of the first degree.
 
 ## 513.11   Harmful intoxicants; possessing nitrous oxide in motor vehicle
 
-1. _(a)_ As used in this section, “motor vehicle”, “street” and “highway” have
+1. _(a)_ As used in this section, "motor vehicle", "street" and "highway" have
 the same meanings as in Ohio R.C. 4511.01.
 
 2. _(b)_ Unless authorized under Ohio R.C. Chapter 3719, 4715, 4729, 4731, 4741
@@ -1142,7 +1142,7 @@ a motor vehicle, a misdemeanor of the fourth degree.
 
 4. _(d)_ In addition to any other sanction imposed upon an offender for
 possessing nitrous oxide in a motor vehicle, the court may suspend for not more
-than five years the offender’s driver’s or commercial driver’s license or
+than five years the offender's driver's or commercial driver's license or
 permit.  
 (ORC 2925.33)
 
@@ -1284,7 +1284,7 @@ other relevant factors, the following:
     construed to prohibit the possession or use of a hypodermic as authorized by
     Section 513.10.
 
-    2. _(2)_ Subsection (c)(1) of this section does not apply to a person’s use,
+    2. _(2)_ Subsection (c)(1) of this section does not apply to a person's use,
     or possession with purpose to use, any drug paraphernalia that is equipment,
     a product, or material of any kind that is used by the person, intended by
     the person for use, or designed for use in storing, containing, concealing,
@@ -1314,12 +1314,12 @@ forfeiture shall be disposed of pursuant to Ohio R.C. 2981.12.
 
 7. _(g)_ In addition to any other sanction imposed upon an offender for a
 violation of this section, the court may suspend for not more than five years
-the offender’s driver’s or commercial driver’s license or permit. However, if
+the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
 4511.19 or a substantially similar municipal ordinance or the law of another
 state or the United States arising out of the same set of circumstances as the
-violation, the court shall suspend the offender’s driver’s or commercial
-driver’s license or permit for not more than five years. If the offender is a
+violation, the court shall suspend the offender's driver's or commercial
+driver's license or permit for not more than five years. If the offender is a
 professionally licensed person, in addition to any other sanction imposed for a
 violation of this section, the court immediately shall comply with Ohio R.C.
 2925.38.  
@@ -1327,7 +1327,7 @@ violation of this section, the court immediately shall comply with Ohio R.C.
 
 ### 513.121   Marihuana drug paraphernalia
 
-1. _(a)_ As used in this section, “drug paraphernalia” has the same meaning as
+1. _(a)_ As used in this section, "drug paraphernalia" has the same meaning as
 in Section 513.12.
 
 2. _(b)_ In determining if any equipment, product, or material is drug
@@ -1353,12 +1353,12 @@ use or possession of marihuana drug paraphernalia, a minor misdemeanor.
 
 7. _(g)_ In addition to any other sanction imposed upon an offender for a
 violation of this section, the court may suspend for not more than five years
-the offender’s driver’s or commercial driver’s license or permit. However, if
+the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
 4511.19 or a substantially similar municipal ordinance or the law of another
 state or the United States arising out of the same set of circumstances as the
-violation, the court shall suspend the offender’s driver’s or commercial
-driver’s license or permit for not more than five years. If the offender is a
+violation, the court shall suspend the offender's driver's or commercial
+driver's license or permit for not more than five years. If the offender is a
 professionally licensed person, in addition to any other sanction imposed for a
 violation of this section, the court immediately shall comply with Ohio R.C.
 2925.38.  
@@ -1372,16 +1372,16 @@ violation of this section, the court immediately shall comply with Ohio R.C.
 controlled substances, a misdemeanor of the first degree.  
 (ORC 2925.37)
 
-3. _(c)_ The court may suspend for not more than five years the offender’s
-driver’s or commercial driver’s license or permit. However, if the offender
+3. _(c)_ The court may suspend for not more than five years the offender's
+driver's or commercial driver's license or permit. However, if the offender
 pleaded guilty to or was convicted of a violation of Ohio R.C. 4511.19 or a
 substantially similar municipal ordinance or the law of another state or the
 United States arising out of the same set of circumstances as the violation, the
-court shall suspend the offender’s driver’s or commercial driver’s license or
+court shall suspend the offender's driver's or commercial driver's license or
 permit for not more than five years.  
 (ORC 2925.37)
 
 ## 513.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

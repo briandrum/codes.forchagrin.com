@@ -123,7 +123,7 @@ services, installations and repairs.
     1. _(1)_ A completely enclosed structure accessory to a dwelling(s) that may
     be either attached or detached, with a permanent roof, continuous
     foundation, concrete floor, and exterior walls pierced only by windows and
-    doors, and used for parking of the occupants’ personal vehicles; or
+    doors, and used for parking of the occupants' personal vehicles; or
 
     2. _(2)_ A structure used for parking of passenger vehicles as well as
     trucks used by the business or institution served by the garage, or
@@ -139,8 +139,8 @@ authority of a state or federal government, whose principal business is to
 provide for the everyday financial transactions of businesses and individuals
 which includes most or all of the following: receives demand deposits and timed
 deposits, honors instruments drawn on them, and pays interest on them; discounts
-notes, makes loans, and invests in securities; certifies depositor’s checks; and
-issues drafts and cashier’s checks.
+notes, makes loans, and invests in securities; certifies depositor's checks; and
+issues drafts and cashier's checks.
 
 2. _(b)_ "Credit union" means a retail service establishment that is a nonprofit
 cooperative financial institution with the general powers conferred upon such
@@ -402,7 +402,7 @@ overnight.
 
 ## 1107.15   Occupancy permit
 
-“Occupancy permit" means an official statement asserting that a given building,
+"Occupancy permit" means an official statement asserting that a given building,
 other structure or parcel of land, and its use is in compliance with the
 provisions of all existing Codes, or is a lawfully existing nonconforming
 building or use and hence may be occupied and used lawfully for the purposes
@@ -419,7 +419,7 @@ inherent in uses of land or buildings.
 
 ## 1107.160   Planning and zoning code
 
-“Planning and Zoning Code”, or “this Code” means Ordinance 1963-586, passed
+"Planning and Zoning Code", or "this Code" means Ordinance 1963-586, passed
 December 9, 1963, as amended, which is codified as Titles One to Five of this
 Part Eleven - Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)
@@ -478,7 +478,7 @@ Zoning Code.
 
 ## 1107.191   Site plan
 
-“Site Plan” means a plan, to scale, showing uses and structures existing and
+"Site Plan" means a plan, to scale, showing uses and structures existing and
 proposed for a parcel of land and containing those elements as required by
 Section 1109.04 of this Planning and Zoning Code.  
 (Ord. 2019-39. Passed 8-13-19.)

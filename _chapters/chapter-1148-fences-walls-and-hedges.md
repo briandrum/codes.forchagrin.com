@@ -87,7 +87,7 @@ five percent (25%) open to light and air throughout its area.
     than twenty-five percent (25%) open to light and air throughout its area,
     may be located no less than three feet from a property line.
 
-    3. _(3)_ (Editor’s note: Former subsection (c)(3) was repealed by Ordinance
+    3. _(3)_ (Editor's note: Former subsection (c)(3) was repealed by Ordinance
     2020-10, passed March 9, 2020.)
 
 4. _(d)_ **Prohibited fences, walls and hedges.**

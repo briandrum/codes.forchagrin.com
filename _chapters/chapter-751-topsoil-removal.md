@@ -77,7 +77,7 @@ the collection of stagnant water. Within six months from the completion of such
 operation, the area affected shall be regraded to contours and grades as natural
 and level as possible, so as to remove all abrupt breaks or banks, piles or
 mounds in the topography, and the affected area shall be reseeded at the
-applicant’s expense with rye grass or its equivalent at the rate of twenty-five
+applicant's expense with rye grass or its equivalent at the rate of twenty-five
 pounds per acre, or sweet clover or its equivalent at the rate of twelve pounds
 per acre.  
 (Ord. 1956-381. Passed 8-13-56.)

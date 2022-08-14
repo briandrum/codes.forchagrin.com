@@ -73,7 +73,7 @@ Village Engineer.
 
 1. _(a)_ Notwithstanding any other provision of this chapter, the Village
 Engineer shall view each application separately and shall determine whether or
-not it is in the Village’s best interest to allow any filling in, covering,
+not it is in the Village's best interest to allow any filling in, covering,
 regrading or installing of storm sewers and basins, or any alteration of the
 course or grade of any roadside drainage ditch, tree lawn or other portion of a
 dedicated street or highway within the Village. If the Village Engineer
@@ -98,5 +98,5 @@ applicant shall comply with all of the provisions of Chapter 901.
 ## 915.99   Penalty
 
 Whoever violates any provision of this chapter is guilty of a misdemeanor of
-the third degree. Each day’s violation shall constitute a separate offense.  
+the third degree. Each day's violation shall constitute a separate offense.  
 (Ord. 2000-84. Passed 11-27-00.)

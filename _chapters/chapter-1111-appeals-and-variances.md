@@ -212,7 +212,7 @@ the name of the applicant, the address of the property that is the subject of
 the exception, variance, interpretation or review of orders of administrative
 officials, and which action(s) of the Board of Zoning Appeals will be reviewed
 by Council, but the failure to include all such information shall not impair
-Council’s review of the decision.
+Council's review of the decision.
 
 6. _(f)_ The Clerk of Council shall give notice of the hearing of the request
 for review by the three (3) or more Council members to the applicant, the law
@@ -268,7 +268,7 @@ limited to:
     5. _(5)_ Whether the property owner purchased the property with knowledge of
     the zoning restriction;
 
-    6. _(6)_ Whether the property owner’s predicament feasibly can be obviated
+    6. _(6)_ Whether the property owner's predicament feasibly can be obviated
     through some method other than a variance;
 
     7. _(7)_ Whether the spirit and intent behind the zoning requirement would be
@@ -359,7 +359,7 @@ Chapter 2506.
 ## 1111.11   Time period to file appeal
 
 The applicant or any such interested party who is held by action of Council may
-appeal Council’s decision pursuant to Ohio R.C. Chapter 2506. The time period to
+appeal Council's decision pursuant to Ohio R.C. Chapter 2506. The time period to
 appeal any final decision rendered by either (i) the Board of Zoning Appeals, in
 the event three (3) members of Council have not requested that Council review a
 decision of the Board of Zoning Appeals, within fifteen (15) days after such

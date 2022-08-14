@@ -158,7 +158,7 @@ and the permit shall only be granted subject to the following:
     applicant has received a permit for the proposed well from the Division of
     Oil and Gas (Department of Natural Resources) pursuant to Ohio R.C. Chapter
     1509 and a copy of such permit is submitted to the Chief Administrative
-    Officer’s office.
+    Officer's office.
 
     4. _(4)_ If drilling has not commenced within ninety days from the date of
     issue, the permit may be revoked by the Chief Administrator Officer and the
@@ -305,7 +305,7 @@ shall be located to conform with the following:
     9. _(9)_ The premises shall be kept in a clean and sanitary condition free
     from rubbish of every character, at all times, during the drilling operation
     and as long thereafter as oil and/or gas is being produced therefrom. All
-    permittees’ premises shall be kept clear of high grass, weeds and
+    permittees' premises shall be kept clear of high grass, weeds and
     combustible trash or any other rubbish or debris that might constitute a
     fire hazard within a radius of 100 feet around any oil tank or tanks, or
     producing wells.  

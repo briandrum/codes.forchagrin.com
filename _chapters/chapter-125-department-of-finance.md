@@ -29,9 +29,9 @@ title: "Chapter 125: Department of Finance"
 
 ## Cross references
 
-* Director’s appointment and term - see CHTR. Art. V, Sec. 1
-* Director’s qualifications - see CHTR. Art. V, Sec. 2
-* Director’s duties - see CHTR. Art. V, Sec. 3
+* Director's appointment and term - see CHTR. Art. V, Sec. 1
+* Director's qualifications - see CHTR. Art. V, Sec. 2
+* Director's duties - see CHTR. Art. V, Sec. 3
 * Department establishment - see CHTR. Art. VII, Sec. 1
 * State law application on financial matters - see CHTR. Art. VIII, Sec.1
 * Uniform depository act - see Ohio R.C. Ch. 135
@@ -41,7 +41,7 @@ title: "Chapter 125: Department of Finance"
 As used in this chapter:
 
 1. _(a)_ "Public moneys" means all moneys in the Treasury of the Municipality or
-moneys coming lawfully into the possession of the Municipality’s Director of
+moneys coming lawfully into the possession of the Municipality's Director of
 Finance.
 
 2. _(b)_ "Eligible depository" or "eligible depositories" means any institution
@@ -49,7 +49,7 @@ mentioned in Ohio R.C. 135.03, that has an office situated within Cuyahoga
 County, Ohio, whose accounts are insured by the Federal Government or agency
 thereof.
 
-3. _(c)_ "Active deposit" means a deposit of the Municipality’s public moneys
+3. _(c)_ "Active deposit" means a deposit of the Municipality's public moneys
 payable or withdrawable, in whole or in part, on demand, or a deposit in a
 negotiable order of withdrawal account as authorized in the Consumer Checking
 Account Equity Act of 1980, 94 Stat, 146, 12 U. S. C.A. 1832(a).
@@ -82,7 +82,7 @@ which shall be available in active deposits to:
 
     2. _(2)_ Maximize the interest received on public moneys of the
     Municipality. Interest on active deposits shall be paid or credited by the
-    Municipality’s designated eligible depositories at least quarterly and when
+    Municipality's designated eligible depositories at least quarterly and when
     funds are withdrawn, computing the time of payment from the date of deposit.
     No service charge shall be made by a designated eligible depository against
     an active deposit or collected from or paid by the Director of Finance
@@ -94,7 +94,7 @@ which shall be available in active deposits to:
 
 2. _(b)_ The Director of Finance shall recommend, and Council, by ordinance,
 shall designate one or more eligible depositories as the depository or
-depositories of the Municipality’s active deposits and as the institution or
+depositories of the Municipality's active deposits and as the institution or
 institutions through or from which the Municipality may purchase investments in
 accordance with Section 125.08. When more than one eligible depository is
 designated, the active deposits shall be allocated among the eligible
@@ -106,20 +106,20 @@ Finance.
 
     1. _(1)_ The rate or rates of interest paid on active deposit;
 
-    2. _(2)_ The convenience of the location of the depository’s offices;
+    2. _(2)_ The convenience of the location of the depository's offices;
 
     3. _(3)_ The service charges, if any, that will be made for the services of
     the depository; and
 
-    4. _(4)_ Any other terms or conditions with respect to the depository’s
-    acceptance of the Municipality’s active deposits.
+    4. _(4)_ Any other terms or conditions with respect to the depository's
+    acceptance of the Municipality's active deposits.
 
-3. _(c)_ The initial designation of depositories for the Municipality’s active
+3. _(c)_ The initial designation of depositories for the Municipality's active
 deposits shall be for a period not to exceed two years and shall be made without
 giving the notice hereinafter provided for. Subsequent designations of
-depositories for the Municipality’s active deposits shall be:
+depositories for the Municipality's active deposits shall be:
 
-    1. _(1)_ For a period specified in the Director of Finance’s written
+    1. _(1)_ For a period specified in the Director of Finance's written
     designation of depositories pursuant to subsection (b) hereof, which period
     shall not be less than six months nor longer than two years, and
 
@@ -127,7 +127,7 @@ depositories for the Municipality’s active deposits shall be:
     notice by first-class mail to the eligible depositories having an office in
     the Municipality and such other eligible depositories as determined by the
     Director of Finance, at least sixty days prior to the date of the action of
-    the Director of Finance designating depositories for the Municipality’s
+    the Director of Finance designating depositories for the Municipality's
     active deposits.
 
 4. _(d)_ Such notice shall:
@@ -137,15 +137,15 @@ depositories for the Municipality’s active deposits shall be:
     designation or alternative proposed periods of designation;
 
     2. _(2)_ Request such depositories to apply in writing for all or part of
-    the Municipality’s active deposits on or before a date and time specified in
+    the Municipality's active deposits on or before a date and time specified in
     the notice;
 
     3. _(3)_ Request such depositories to state in their application the amount
     of such active deposits that will be accepted by it, the rate or rates of
     interest, if any, that will be paid on such active deposits, the service
     charges, if any, that will be made for its services, other terms or
-    conditions with respect to the depository’s acceptance of all or part of the
-    Municipality’s active deposits and the location of its offices in the
+    conditions with respect to the depository's acceptance of all or part of the
+    Municipality's active deposits and the location of its offices in the
     Municipality or, if none are located in the Municipality, the location of
     its nearest offices; and
 
@@ -156,9 +156,9 @@ depositories for the Municipality’s active deposits shall be:
 and content by the Director of Law, with such depositories for the appropriate
 period determined pursuant to subsection (c) hereof. Such contract shall
 establish the rate or rates of interest, if any, to be paid by the depository on
-the Municipality’s active deposits, the service charges if any, the depository
-may make for its services and other terms or conditions of the depository’s
-acceptance of the Municipality’s active deposits.
+the Municipality's active deposits, the service charges if any, the depository
+may make for its services and other terms or conditions of the depository's
+acceptance of the Municipality's active deposits.
 
 6. _(f)_ The limitations on the aggregate amounts of public moneys that may be
 on deposit with eligible depositories as set forth in the Uniform Depository Act
@@ -273,8 +273,8 @@ the value of the collateral securities delivered shall not exceed the amount
 necessary to produce an amount equal to Municipal deposits made and not paid
 over, less the portions of such deposits covered by Federal Deposit Insurance,
 plus any accrued interest due on the deposits; in any event, the value of such
-collateral securities shall not exceed the Municipality’s proportional interest
-in the face value of the pool as of the date of the eligible depository’s
+collateral securities shall not exceed the Municipality's proportional interest
+in the face value of the pool as of the date of the eligible depository's
 failure to pay over the deposits. The Director of Finance shall have the option
 to sell the collateral securities in such manner as determined by the Director
 of Finance. Any surplus remaining after deducting the amount due the
@@ -307,18 +307,18 @@ management practices with respect to the investment and deposit of these public
 moneys. The following investment and deposit objectives shall be applied in the
 management of public moneys:
 
-1. _(a)_ The primary objective of the Municipality’s investment activities is
+1. _(a)_ The primary objective of the Municipality's investment activities is
 the preservation of capital and the protection of investment principal.
 
 2. _(b)_ Those responsible for investing public moneys shall strive to maximize
 the return on the investments but shall avoid assuming unreasonable investment
 risks.
 
-3. _(c)_ The Municipality’s investments shall remain sufficiently liquid to
+3. _(c)_ The Municipality's investments shall remain sufficiently liquid to
 enable the Municipality to meet operating requirements that might reasonably be
 anticipated.
 
-4. _(d)_ The Municipality’s investments shall be diversified to avoid the
+4. _(d)_ The Municipality's investments shall be diversified to avoid the
 assumption of unreasonable and avoidable risks associated with specific types of
 securities or individual financial institutions. To the extent practicable, of
 the public moneys, no more than fifty percent (50%) shall be invested in
@@ -337,7 +337,7 @@ Municipality or the County; provided, however, in the case of the sale or
 purchase of investments where all other factors considered by the Director of
 Finance are equal, placement shall be made with the designated eligible
 depository situated within the Municipality. The right is reserved to reject all
-bids or proposals or any bid if such is inconsistent with the Municipality’s
+bids or proposals or any bid if such is inconsistent with the Municipality's
 investment objectives.  
 (Ord.1986-46. Passed 10-28-86.)
 
@@ -348,7 +348,7 @@ or kept as a cash reserve as may be prescribed by the Director of Finance shall
 be invested by the Director of Finance or his designee in the investments
 described in subsection (b) hereof purchased only through or from eligible
 depositories designated pursuant to Section 125.02. To the extent possible, the
-Municipality’s investments shall be made so as to complement its anticipated
+Municipality's investments shall be made so as to complement its anticipated
 cash flow requirements. Unless matched to a specific cash flow requirement, the
 Director of Finance shall not make investments maturing more than one year from
 the date of purchase. The Director of Finance is authorized to pool cash
@@ -366,7 +366,7 @@ eligible for investment:
     by any Federal Government agency or the Export-Import Bank of Washington;
 
     3. _(3)_ Discount notes of the Federal National Mortgage Association and
-    bonds issued by the Homeowners’ Loan Corporation as defined in Ohio R.C.
+    bonds issued by the Homeowners' Loan Corporation as defined in Ohio R.C.
     731.56;
 
     4. _(4)_ Bonds and notes of the State;
@@ -391,11 +391,11 @@ eligible for investment:
     the repayment maturity;
 
     8. _(8)_ Insured deposit accounts in eligible depositories paying interest
-    at a rate greater than the interest rate paid on the Municipality’s active
+    at a rate greater than the interest rate paid on the Municipality's active
     deposits, provided that such investments shall be approved in writing by the
     Director of Finance and Director of Law and that such approval by the
     Director of Finance and Director of Law shall also include approval of the
-    insurance provided to secure and protect the Municipality’s ability to
+    insurance provided to secure and protect the Municipality's ability to
     recover the principal deposited in such deposit account.
 
 3. _(c)_ The Director of Finance or his designee may sell any securities,
@@ -502,7 +502,7 @@ and the costs of such insurance shall be paid by the Municipality.
 
 ## 125.10   Bonds
 
-(Editor’s note: Former Section 125.10 was repealed by Ordinance 1989-59, passed
+(Editor's note: Former Section 125.10 was repealed by Ordinance 1989-59, passed
 September 11, 1989.)
 
 ## 125.11   Sale of ordinances, codes, reports, etc

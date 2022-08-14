@@ -29,7 +29,7 @@ title: "Chapter 341: Commercial Drivers"
 As used in this chapter:
 
 1. _(a)_ "Alcohol concentration" means the concentration of alcohol in a
-person’s blood, breath or urine. When expressed as a percentage, it means grams
+person's blood, breath or urine. When expressed as a percentage, it means grams
 of alcohol per the following:
 
     1. _(1)_ One hundred milliliters of whole blood, blood serum, or blood
@@ -39,7 +39,7 @@ of alcohol per the following:
 
     3. _(3)_ One hundred milliliters of urine.
 
-2. _(b)_ "Commercial driver’s license" means a license issued in accordance with
+2. _(b)_ "Commercial driver's license" means a license issued in accordance with
 Ohio R.C. Chapter 4506 that authorizes an individual to drive a commercial motor
 vehicle.
 
@@ -84,10 +84,10 @@ transport persons or property that meets any of the following qualifications:
 
 5. _(e)_ "Disqualification" means any of the following:
 
-    1. _(1)_ The suspension, revocation, or cancellation of a person’s
+    1. _(1)_ The suspension, revocation, or cancellation of a person's
     privileges to operate a commercial motor vehicle;
 
-    2. _(2)_ Any withdrawal of a person’s privileges to operate a commercial
+    2. _(2)_ Any withdrawal of a person's privileges to operate a commercial
     motor vehicle as the result of a violation of state or local law relating to
     motor vehicle traffic control other than parking, vehicle weight, or vehicle
     defect violations;
@@ -101,9 +101,9 @@ vehicle.
 
 7. _(g)_ "Driver" means any person who drives, operates or is in physical
 control of a commercial motor vehicle or is required to have a commercial
-driver’s license.
+driver's license.
 
-8. _(h)_ "Driver’s license" means a license issued by the Ohio Bureau of Motor
+8. _(h)_ "Driver's license" means a license issued by the Ohio Bureau of Motor
 Vehicles that authorizes an individual to drive.
 
 9. _(i)_ "Drug of abuse" means any controlled substance, dangerous drug as
@@ -115,11 +115,11 @@ judgment or reflexes.
 state and a political subdivision of any state, that owns or leases a commercial
 motor vehicle or assigns a person to drive such a motor vehicle.
 
-11. _(k)_ “Endorsement” means an authorization on a person’s commercial driver’s
+11. _(k)_ "Endorsement" means an authorization on a person's commercial driver's
 license that is required to permit the person to operate a specified type of
 commercial motor vehicle.
 
-12. _(l)_ “Farm truck” means a truck controlled and operated by a farmer for use
+12. _(l)_ "Farm truck" means a truck controlled and operated by a farmer for use
 in the transportation to or from a farm, for a distance of not more than one
 hundred fifty miles, of products of the farm, including livestock and its
 products, poultry and its products, floricultural and horticultural products,
@@ -132,7 +132,7 @@ operation of the farm, when the truck is operated in accordance with this
 subsection and is not used in the operations of a motor carrier, as defined in
 Ohio R.C. 4923.01.
 
-13. _(m)_ “Fatality” means the death of a person as the result of a motor
+13. _(m)_ "Fatality" means the death of a person as the result of a motor
 vehicle accident occurring not more than three hundred sixty-five days prior to
 the date of a death.
 
@@ -158,24 +158,24 @@ semitrailer propelled or drawn by mechanical power used on highways, except that
 such term does not include a vehicle, machine, tractor, trailer or semitrailer
 operated exclusively on a rail.
 
-19. _(s)_ “Out-of-service order” means a declaration by an authorized
+19. _(s)_ "Out-of-service order" means a declaration by an authorized
 enforcement officer of a federal, state, local, Canadian or Mexican jurisdiction
 declaring that a driver, commercial motor vehicle or commercial motor carrier
 operation is out of service as defined in 49 C.F.R. 390.5.
 
-20. _(t)_ “Public safety vehicle” has the same meaning as in divisions (E)(1)
+20. _(t)_ "Public safety vehicle" has the same meaning as in divisions (E)(1)
 and (3) of Ohio R.C. 4511.01.
 
-21. _(u)_ “Recreational vehicle” includes every vehicle that is defined as a
+21. _(u)_ "Recreational vehicle" includes every vehicle that is defined as a
 recreational vehicle in Ohio R.C. 4501.01 and is used exclusively for purposes
 other than engaging in business for profit.
 
-22. _(v)_ “School bus” has the same meaning as in Ohio R.C. 4511.01.
+22. _(v)_ "School bus" has the same meaning as in Ohio R.C. 4511.01.
 
 23. _(w)_ "State" means a state of the United States and includes the District
 of Columbia.
 
-24. _(x)_ “Tester” means a person or entity acting pursuant to a valid agreement
+24. _(x)_ "Tester" means a person or entity acting pursuant to a valid agreement
 entered into pursuant to Ohio R.C. 4506.09.
 
 25. _(y)_ "United States" means the fifty states and the District of Columbia.
@@ -195,29 +195,29 @@ Section 341.02 has been deleted from the Codified Ordinances. Former Ohio R.C.
 following shall apply:
 
     1. _(1)_ No person shall drive a commercial motor vehicle on a highway in
-    this Municipality unless the person holds, and has in the person’s
+    this Municipality unless the person holds, and has in the person's
     possession, any of the following:
 
-        1. _(A)_ A valid commercial driver’s license with proper endorsements
+        1. _(A)_ A valid commercial driver's license with proper endorsements
         for the motor vehicle being driven, issued by the Registrar of Motor
         Vehicles, or by another jurisdiction recognized by this State;
 
-        2. _(B)_ A valid examiner’s commercial driving permit issued under Ohio
+        2. _(B)_ A valid examiner's commercial driving permit issued under Ohio
         R.C. 4506.13;
 
-        3. _(C)_ A valid restricted commercial driver’s license and waiver for
+        3. _(C)_ A valid restricted commercial driver's license and waiver for
         farm- related service industries issued under Ohio R.C. 4506.24;
 
-        4. _(D)_ A valid commercial driver’s license temporary instruction
+        4. _(D)_ A valid commercial driver's license temporary instruction
         permit issued by the Registrar, provided that the person is accompanied
-        by an authorized state driver’s license examiner or tester or a person
-        who has been issued and has in the person’s immediate possession a
-        current, valid commercial driver’s license and who meets the
+        by an authorized state driver's license examiner or tester or a person
+        who has been issued and has in the person's immediate possession a
+        current, valid commercial driver's license and who meets the
         requirements of Ohio R.C. 4506.06(B).
 
     2. _(2)_ No person who has been a resident of this State for thirty days or
     longer shall drive a commercial motor vehicle under the authority of a
-    commercial driver’s license issued by another jurisdiction.
+    commercial driver's license issued by another jurisdiction.
 
 2. _(b)_ Nothing in subsection (a) of this section applies to any qualified
 person when engaged in the operation of any of the following:
@@ -236,7 +236,7 @@ person when engaged in the operation of any of the following:
     unit of local government, if the person is employed by the eligible unit of
     local government and is operating the commercial motor vehicle for the
     purpose of removing snow or ice from a roadway by plowing, sanding, or
-    salting, but only if either the employee who holds a commercial driver’s
+    salting, but only if either the employee who holds a commercial driver's
     license issued under Ohio R.C. Chapter 4506 and ordinarily operates a
     commercial motor vehicle for these purposes is unable to operate the
     vehicle, or the employing eligible unit of local government determines that
@@ -248,8 +248,8 @@ person when engaged in the operation of any of the following:
     to United States reserved technicians.
 
     7. _(7)_ A commercial motor vehicle that is operated for nonbusiness
-    purposes. “Operated for nonbusiness purposes” means that the commercial
-    motor vehicle is not used in commerce as “commerce” is defined in 49 C.F.R.
+    purposes. "Operated for nonbusiness purposes" means that the commercial
+    motor vehicle is not used in commerce as "commerce" is defined in 49 C.F.R.
     383.5, as amended, and is not regulated by the Public Utilities Commission
     pursuant to Ohio R.C. Chapter 4905, 4921, or 4923.
 
@@ -274,18 +274,18 @@ degree.
 
 1. _(a)_ No person shall do any of the following:
 
-    1. _(1)_ Drive a commercial motor vehicle while having in the person’s
-    possession or otherwise under the person’s control more than one valid
-    driver’s license issued by this State, any other state or by a foreign
+    1. _(1)_ Drive a commercial motor vehicle while having in the person's
+    possession or otherwise under the person's control more than one valid
+    driver's license issued by this State, any other state or by a foreign
     jurisdiction;
 
     2. _(2)_ Drive a commercial motor vehicle on a highway in this Municipality
-    in violation of an out-of-service order, while the person’s driving
+    in violation of an out-of-service order, while the person's driving
     privilege is suspended, revoked or canceled, or while the person is subject
     to disqualification;
 
     3. _(3)_ Drive a motor vehicle on a highway in this Municipality under
-    authority of a commercial driver’s license issued by another state or a
+    authority of a commercial driver's license issued by another state or a
     foreign jurisdiction, after having been a resident of this State for thirty
     days or longer.
 
@@ -295,13 +295,13 @@ degree.
 
 ## 341.05   Criminal offenses
 
-1. _(a)_ No person who holds a commercial driver’s license, or commercial
-driver’s license temporary instruction permit or who operates a motor vehicle
-for which a commercial driver’s license or permit is required shall do any of
+1. _(a)_ No person who holds a commercial driver's license, or commercial
+driver's license temporary instruction permit or who operates a motor vehicle
+for which a commercial driver's license or permit is required shall do any of
 the following:
 
     1. _(1)_ Drive a commercial motor vehicle while having a measureable or
-    detectable amount of alcohol or of a controlled substance in the person’s
+    detectable amount of alcohol or of a controlled substance in the person's
     blood, breath or urine;
 
     2. _(2)_ Drive a commercial motor vehicle while having an alcohol
@@ -325,8 +325,8 @@ the following:
 
     8. _(8)_ Refuse to submit to a test under Ohio R.C. 4506.17 or 4511.191;
 
-    9. _(9)_ Operate a commercial motor vehicle while the person’s commercial
-    driver’s license or permit or other commercial driving privileges are
+    9. _(9)_ Operate a commercial motor vehicle while the person's commercial
+    driver's license or permit or other commercial driving privileges are
     revoked, suspended, canceled, or disqualified;
 
     10. _(10)_ Cause a fatality through the negligent operation of a commercial
@@ -352,11 +352,11 @@ degree.
 ## 341.06   Employment of drivers of commercial vehicles
 
 1. _(a)_ Each employer shall require every applicant for employment as a driver
-of a commercial motor vehicle to provide the applicant’s employment history for
+of a commercial motor vehicle to provide the applicant's employment history for
 the ten years preceding the date the employment application is submitted to the
 prospective employer. The following information shall be submitted:
 
-    1. _(1)_ A list of the names and addresses of the applicant’s previous
+    1. _(1)_ A list of the names and addresses of the applicant's previous
     employers for which the applicant was the operator of a commercial motor
     vehicle;
 
@@ -368,7 +368,7 @@ prospective employer. The following information shall be submitted:
 the employer to drive a commercial motor vehicle during any period in which any
 of the following apply:
 
-    1. _(1)_ The driver’s commercial driver’s license is suspended, revoked or
+    1. _(1)_ The driver's commercial driver's license is suspended, revoked or
     canceled by any state or a foreign jurisdiction;
 
     2. _(2)_ The driver has lost the privilege to drive, or currently is
@@ -379,18 +379,18 @@ of the following apply:
     the motor carrier operation is subject to an out-of-service order in any
     state or foreign jurisdiction;
 
-    4. _(4)_ The driver has more than one driver’s license.
+    4. _(4)_ The driver has more than one driver's license.
 
 3. _(c)_ No employer shall knowingly permit or authorize a driver to operate a
 commercial motor vehicle in violation of Section 341.05.
 
 4. _(d)_ No employer shall knowingly permit or authorize a driver to operate a
 commercial motor vehicle if the driver does not hold a valid, current commercial
-driver’s license or commercial driver’s license temporary instruction permit
+driver's license or commercial driver's license temporary instruction permit
 bearing the proper class or endorsements for the vehicle. No employer shall
 knowingly permit or authorize a driver to operate a commercial motor vehicle in
-violation of the restrictions on the driver’s commercial driver’s license or
-commercial driver’s license temporary instruction permit.
+violation of the restrictions on the driver's commercial driver's license or
+commercial driver's license temporary instruction permit.
 
 5. _(e)_
 

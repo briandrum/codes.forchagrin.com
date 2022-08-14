@@ -58,7 +58,7 @@ the stated objectives.
 
 ## 1350.02   Definition
 
-“Dish-type, satellite signal-receiving earth station”, sometimes referred to
+"Dish-type, satellite signal-receiving earth station", sometimes referred to
 hereinafter as earth station or dish antenna, means an antenna of dish shape
 that is accessory to a permitted main building and installed for the purpose of
 receiving signals related to communications for satellite transmissions.  
@@ -164,7 +164,7 @@ may apply to the Administrator for the permit as required by this Chapter.
     and specifications shall show the complete name and address of the subject
     property owner and the complete name and address of the person who prepared
     the plans and specifications. The Administrator may require construction
-    plans to be certified with a Professional Engineer’s stamp.
+    plans to be certified with a Professional Engineer's stamp.
 
 3. _(c)_ **Review.**
 

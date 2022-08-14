@@ -28,13 +28,13 @@ title: "Chapter 1321: Village of Chagrin Falls Residential Code for One-, Two- a
 As used in this chapter, the following terms shall have the following
 definitions:
 
-1. _(a)_ “State Code” shall mean the Residential Code of Ohio, adopted by rule
+1. _(a)_ "State Code" shall mean the Residential Code of Ohio, adopted by rule
 at Ohio Administrative Code 4101:8 by the Ohio Board of Building Standards, or
 current equivalent if the title or rules are renamed or renumbered.
 
-2. _(b)_ “Village Code” shall mean the “Village of Chagrin Falls Residential
-Code for One-, Two- and Three-Family Dwellings”, a chapter of the Codified
-Ordinances of the Village of Chagrin Falls (the “Village”) which is enacted to
+2. _(b)_ "Village Code" shall mean the "Village of Chagrin Falls Residential
+Code for One-, Two- and Three-Family Dwellings", a chapter of the Codified
+Ordinances of the Village of Chagrin Falls (the "Village") which is enacted to
 govern construction of residential buildings within the Village. The Village
 Building Department will not be required to be certified by the Ohio Board of
 Building Standards in order to enforce the Village Code, and the State Code
@@ -52,7 +52,7 @@ government and such police powers as do not conflict with general laws of the
 State of Ohio, for the protection of the health, safety and welfare of the
 residents of the Village. Accordingly, the Village is adopting the Village
 Code, which shall be substantially identical to the State Code, but which will
-be enforced under the Village’s police powers granted by Article XVIII, Section
+be enforced under the Village's police powers granted by Article XVIII, Section
 3 of the Ohio Constitution. Other provisions of the Village Codified
 Ordinances shall continue in full force and effect, so long as they do not
 conflict with any general law of the State of Ohio.  
@@ -70,8 +70,8 @@ by rule at Ohio Administrative Code 4101:8, or its current equivalent, as
 adopted by the Ohio Board of Building Standards, which shall serve as the model
 code being particularly adopted and incorporated as if fully set forth herein;
 for purposes of plan review and enforcement it shall be considered as and
-referred to as the “Residential Code of the Village of Chagrin Falls for One-,
-Two- and Three- family Dwellings” (or “Village Code”). The Village
+referred to as the "Residential Code of the Village of Chagrin Falls for One-,
+Two- and Three- family Dwellings" (or "Village Code"). The Village
 Administrator shall maintain a current copy of the State Code (as adopted under
 law), for purposes of reference in determining the current law of the Village,
 but no municipal official shall enforce the State Code.  

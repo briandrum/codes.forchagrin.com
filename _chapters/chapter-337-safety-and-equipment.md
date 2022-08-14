@@ -542,7 +542,7 @@ this subsection.
         of two thousand pounds or more, manufactured or assembled on or after
         January 1, 2001.
 
-    5. _(5)_ Every watercraft trailer with a gross weight or manufacturer’s
+    5. _(5)_ Every watercraft trailer with a gross weight or manufacturer's
     gross vehicle weight rating of three thousand pounds or more that is
     manufactured or assembled on or after January 1, 2008, shall have separate
     brakes equipped with hydraulic surge or electrically operated brakes on two
@@ -562,7 +562,7 @@ this subsection.
     brakes adequate to hold the vehicle on any grade on which it is operated,
     under all conditions of loading, on a surface free from snow, ice or loose
     material. The parking brakes shall be capable of being applied in
-    conformance with the foregoing requirements by the driver’s muscular effort
+    conformance with the foregoing requirements by the driver's muscular effort
     or by spring action or by equivalent means. Their operation may be assisted
     by the service brakes or other sources of power provided that failure of the
     service brake actuation system or other power assisting mechanism will not
@@ -633,7 +633,7 @@ in constant operation to prevent excessive or unusual noise, and no person shall
 use a muffler cutout, by-pass or similar device upon a motor vehicle on a
 highway. Every motorcycle muffler shall be equipped with baffle plates.
 
-2. _(b)_ No person shall own, operate or have in the person’s possession any
+2. _(b)_ No person shall own, operate or have in the person's possession any
 motor vehicle or motorcycle equipped with a device for producing excessive smoke
 or gas, or so equipped as to permit oil or any other chemical to flow into or
 upon the exhaust pipe or muffler of such vehicle, or equipped in any other way
@@ -681,7 +681,7 @@ than a motorcycle or motorized bicycle, that is not equipped with a windshield.
     device, or other similar electronic device located in the front windshield
     if the device meets both of the following:
 
-        1. _(A)_ It does not restrict the vehicle operator’s sight lines to the
+        1. _(A)_ It does not restrict the vehicle operator's sight lines to the
         road and highway signs and signals.
 
         2. _(B)_ It does not conceal the vehicle identification number.
@@ -692,11 +692,11 @@ than a motorcycle or motorized bicycle, that is not equipped with a windshield.
     device, or other similar electronic device located in the front windshield
     if the device meets both of the following:
 
-        1. _(A)_ It does not restrict the vehicle operator’s sight lines to the
+        1. _(A)_ It does not restrict the vehicle operator's sight lines to the
         road and highway signs and signals.
 
         2. _(B)_ It is mounted not more than six inches below the upper edge of
-        the windshield and is outside the area swept by the vehicle’s windshield
+        the windshield and is outside the area swept by the vehicle's windshield
         wipers.
 
 3. _(c)_ The windshield on every motor vehicle shall be equipped with a device
@@ -711,7 +711,7 @@ operated by the operator of the vehicle.
 
 1. _(a)_ No passenger-type vehicle shall be operated on a street with any load
 carried on such vehicle which extends more than six inches beyond the line of
-the fenders on the vehicle’s left side.  
+the fenders on the vehicle's left side.  
 (ORC 4513.30)
 
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
@@ -770,7 +770,7 @@ being transported in a motor vehicle, other than a taxicab or public safety
 vehicle as defined in Ohio R.C. 4511.01, that is required by the United States
 Department of Transportation to be equipped with seat belts at the time of
 manufacture or assembly, the operator of the motor vehicle shall have the child
-properly secured in accordance with the manufacturer’s instructions in a child
+properly secured in accordance with the manufacturer's instructions in a child
 restraint system that meets federal motor safety standards:
 
     1. _(1)_ A child who is less than four years of age;
@@ -781,7 +781,7 @@ restraint system that meets federal motor safety standards:
 being transported in a motor vehicle, other than a taxicab, that is owned,
 leased or otherwise under the control of a nursery school, or day-care center,
 the operator of the motor vehicle shall have the child properly secured in
-accordance with the manufacturer’s instructions in a child restraint system that
+accordance with the manufacturer's instructions in a child restraint system that
 meets federal motor vehicle safety standards:
 
     1. _(1)_ A child who is less than four years of age;
@@ -796,7 +796,7 @@ R.C. 4511.01 or a vehicle that is regulated under Ohio R.C. 5104.011, that is
 required by the United States Department of Transportation to be equipped with
 seat belts at the time of manufacture or assembly, the operator of the motor
 vehicle shall have the child properly secured in accordance with the
-manufacturer’s instructions on a booster seat that meets federal motor vehicle
+manufacturer's instructions on a booster seat that meets federal motor vehicle
 safety standards.
 
 4. _(d)_ When any child who is at least eight years of age but not older that
@@ -806,7 +806,7 @@ transported in a motor vehicle, other than a taxicab or public safety vehicle as
 defined in Ohio R.C. 4511.01, that is required by the United States Department
 of Transportation to be equipped with seat belts at the time of manufacture or
 assembly, the operator of the motor vehicle shall have the child properly
-restrained either in accordance with the manufacturer’s instructions in a child
+restrained either in accordance with the manufacturer's instructions in a child
 restraint system that meets federal motor vehicle safety standards or in an
 occupant restraining device as defined in Ohio R.C. 4513.263.
 
@@ -818,7 +818,7 @@ been or is being committed or for the sole purpose of issuing a ticket,
 citation, or summons for a violation of subsection (c) or (d) of this section or
 causing the arrest of or commencing a prosecution of a person for a violation of
 subsection (c) or (d) of this section, and absent another violation of law, a
-law enforcement officer’s view of the interior or visual inspection of a motor
+law enforcement officer's view of the interior or visual inspection of a motor
 vehicle being operated on any street or highway may not be used for the purpose
 of determining whether a violation of subsection (c) or (d) of this section has
 been or is being committed.
@@ -902,8 +902,8 @@ violation of this section:
     terms set forth in subsection (a)(4) hereof, have the same meanings as
     provided in Chapter 301.
 
-    6. _(6)_ “Tort action” means a civil action for damages for injury, death,
-    or loss to person or property. “Tort action” includes a product liability
+    6. _(6)_ "Tort action" means a civil action for damages for injury, death,
+    or loss to person or property. "Tort action" includes a product liability
     claim, as defined in Ohio R.C. 2307.71 and an asbestos claim, as defined in
     Ohio R.C. 2307.91, but does not include a civil action for damages for
     breach of contract or another agreement between persons.
@@ -913,7 +913,7 @@ violation of this section:
     1. _(1)_ Operate an automobile on any street or highway unless that person
     is wearing all of the available elements of a properly adjusted occupant
     restraining device, or operate a school bus that has an occupant restraining
-    device installed for use in its operator’s seat unless that person is
+    device installed for use in its operator's seat unless that person is
     wearing all of the available elements of the device, as properly adjusted;
 
     2. _(2)_ Operate an automobile on any street or highway unless each
@@ -1013,7 +1013,7 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     the Ohio rules of evidence that the failure contributed to the harm alleged
     in the tort action and may diminish a recovery of compensatory damages that
     represents noneconomic loss, as defined in Ohio R.C. 2307.011 in a tort
-    action that could have been recovered but for the plaintiff’s failure to
+    action that could have been recovered but for the plaintiff's failure to
     wear all of the available elements of a properly adjusted occupant
     restraining device. Evidence of that failure shall not be used as a basis
     for a criminal prosecution of the person other than a prosecution for a
@@ -1067,19 +1067,19 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     property open to the public for vehicular travel or parking, lease, or rent
     any motor vehicle that is required to be registered in this State with any
     sunscreening material, or other product or material which has the effect of
-    making the windshield or windows nontransparent or would alter the windows’
+    making the windshield or windows nontransparent or would alter the windows'
     color, increase its reflectivity, or reduce its light transmittance, unless
     the product or material satisfies one of the following exceptions:
 
-        1. _(A)_ Any manufacturer’s tinting or glazing of motor vehicle windows
+        1. _(A)_ Any manufacturer's tinting or glazing of motor vehicle windows
         or windshields that is otherwise in compliance with or permitted by
-        “Federal Motor Vehicle Safety Standard Number 205" (FMVSS 205) in effect
+        "Federal Motor Vehicle Safety Standard Number 205" (FMVSS 205) in effect
         at the time of the manufacture of the motor vehicle until such standard
-        is subsequently repealed or reduced. In “Federal Motor Vehicle Safety
-        Standard Number 205" (FMVSS 205) “manufacturer” means any person engaged
+        is subsequently repealed or reduced. In "Federal Motor Vehicle Safety
+        Standard Number 205" (FMVSS 205) "manufacturer" means any person engaged
         in the manufacturing or assembling of motor vehicles or motor vehicle
         equipment, including any person importing motor vehicles or motor
-        vehicle equipment for resale. “Federal Motor Vehicle Safety Standard
+        vehicle equipment for resale. "Federal Motor Vehicle Safety Standard
         Number 205" (FMVSS), Code of Federal Regulations, Title 49, Part 571,
         can be obtained online at web site
         [http://www.gpo.gov](https://www.gpo.gov/).
@@ -1128,7 +1128,7 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
 
     6. _(6)_ All motor vehicles, beginning with the 1990 model year, must be
     equipped with labels identifying sunscreening material. All sunscreening
-    material must indicate the manufacturer’s name and the percentage level of
+    material must indicate the manufacturer's name and the percentage level of
     light transmission of the material permanently installed between the
     material and the surface to which the material is applied or affixed. Such
     label must be legible and must be placed in the lower left-hand corner of
@@ -1138,7 +1138,7 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
 2. _(b)_ **Exemptions.** The provisions of this section do not apply to:
 
     1. _(1)_ A motor vehicle registered in this State in the name of a person,
-    or the person’s parent, legal guardian or spouse who has an affidavit signed
+    or the person's parent, legal guardian or spouse who has an affidavit signed
     by a physician licensed to practice in this State under Ohio R.C. Chapter
     4731 or an affidavit signed by an optometrist licensed to practice in this
     State under Ohio R.C. Chapter 4725 that states that the person has a
@@ -1155,11 +1155,11 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     and used to transport corpses which include hearses and other vehicles
     adapted for such use; and
 
-    4. _(4)_ The manufacturer’s tinting or glazing of motor vehicle windows or
+    4. _(4)_ The manufacturer's tinting or glazing of motor vehicle windows or
     windshields that is otherwise in compliance with or permitted by "Federal
     Motor Vehicle Safety Standard Number 205" (FMVSS 205) in effect at the time
     of the manufacture of the motor vehicle as provided in subsection (a)
-    hereof. “Federal Motor Vehicle Safety Standard Number 205" (FMVSS 205), Code
+    hereof. "Federal Motor Vehicle Safety Standard Number 205" (FMVSS 205), Code
     of Federal Regulations, Title 49, Part 571, can be obtained online at web
     site [http://www.gpo.gov](https://www.gpo.gov/).  
     (OAC 4501-41-05)
@@ -1191,14 +1191,14 @@ follows:
     safety glazing material, incorporating, during the manufacturing process,
     the capacity to reflect or reduce the transmission of light.
 
-    7. _(7)_ “Chauffeured limousine” means a motor vehicle that is designed to
+    7. _(7)_ "Chauffeured limousine" means a motor vehicle that is designed to
     carry nine or fewer passengers and is operated for hire on an hourly basis
     pursuant to a prearranged contract for the transportation of passengers on
     public roads and highways along a route under the control of the person
-    hiring the vehicle and not over a defined and regular route. “Prearranged
-    contract” means an arrangement, made in advance of boarding, to provide
+    hiring the vehicle and not over a defined and regular route. "Prearranged
+    contract" means an arrangement, made in advance of boarding, to provide
     transportation from a specific location in a chauffeured limousine at a
-    fixed rate per hour or trip. “Chauffeured limousine” does not include any
+    fixed rate per hour or trip. "Chauffeured limousine" does not include any
     vehicle that is used exclusively in the business of funeral directing.  
     (OAC 4501-41-02)
 
@@ -1225,7 +1225,7 @@ misdemeanor.
 
     4. _(4)_ "Manufacturer" has the same meaning as in Ohio R.C. 4501.01.
 
-    5. _(5)_ "Gross vehicle weight rating" means the manufacturer’s gross
+    5. _(5)_ "Gross vehicle weight rating" means the manufacturer's gross
     vehicle weight rating established for the vehicle.
 
     6. _(6)_ "Body floor height" means the vertical distance between top of the
@@ -1237,13 +1237,13 @@ misdemeanor.
     7. _(7)_ "Bumper height" means the vertical distance between the ground and
     the highest point of the bottom of the bumper, measured when the vehicle is
     laden on a level surface with the vehicle tires inflated to the
-    manufacturer’s recommended pressure.
+    manufacturer's recommended pressure.
 
     8. _(8)_ "Frame" means the main longitudinal structural members of the
     chassis of the vehicle or, for vehicles with unitized body construction, the
     lowest main longitudinal structural members of the body of the vehicle.
 
-    9. _(9)_ “Wheel track distance” means the distance on the ground between the
+    9. _(9)_ "Wheel track distance" means the distance on the ground between the
     center of the tire tread on one side of the vehicle, and the center of the
     tire tread on the opposite side.  
     (OAC 4501-43-02)
@@ -1299,7 +1299,7 @@ misdemeanor.
 3. _(c)_ **Specifications.**
 
     1. _(1)_ The horizontal bumper shall be at least 4.5 inches in vertical
-    height, centered on the vehicle’s centerline, and extend no less than the
+    height, centered on the vehicle's centerline, and extend no less than the
     width of the respective wheel track distances. Bumpers shall be horizontal
     load bearing bumpers and attached to the vehicle frame to effectively
     transfer impact when engaged.
@@ -1324,7 +1324,7 @@ misdemeanor.
     frame rail shall not exceed four inches.
 
     4. _(4)_ For any vehicle with bumpers or attaching components which have
-    been modified or altered from the original manufacturer’s design in order to
+    been modified or altered from the original manufacturer's design in order to
     conform with the maximum bumper requirements of this section, the bumper
     height shall be measured from a level surface to the bottom of the vehicle
     frame rail at the most forward and rearward points of the frame rail. Frame
@@ -1365,7 +1365,7 @@ misdemeanor.
     manufactured or assembled on or after January 1, 1968, unless the vehicle is
     equipped with electrical or mechanical directional signals.
 
-2. _(b)_ “Directional signals” means an electrical or mechanical signal device
+2. _(b)_ "Directional signals" means an electrical or mechanical signal device
 capable of clearly indicating an intention to turn either to the right or to the
 left and which shall be visible from both the front and rear.
 

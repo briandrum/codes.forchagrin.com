@@ -6,7 +6,7 @@ chapter_no: 137
 title: "Chapter 137: Architectural Board of Review"
 ---
 
-Editor’s note: The Architectural Board of Review was established by Ordinance
+Editor's note: The Architectural Board of Review was established by Ordinance
 1955-350.
 
 * [137.01   Board appointments, terms and vacancies](#13701-board-appointments-terms-and-vacancies)
@@ -83,7 +83,7 @@ not serve in an advisory capacity to the Board for such matters.
 ## 137.05   Chairman and secretary of board
 
 One member of the Architectural Board of Review shall be elected Chairman and
-shall be responsible for the proper administration of the Board’s work. One
+shall be responsible for the proper administration of the Board's work. One
 member of the Board shall act as Secretary and shall keep, or cause to be kept,
 in the Village Hall a complete record of all meetings of the Board and of all
 transactions handled by the Board.  
@@ -129,12 +129,12 @@ applications for building permits in accordance with public rulings and
 regulations adopted by the Board.
 
     Failure by the Board to act on any set of plans or specifications within
-    forty-five days from the date of the Board’s initial consideration of an
+    forty-five days from the date of the Board's initial consideration of an
     application may be considered an approval of such plans and specifications
     by the Board. No building permit shall be issued unless plans therefor have
     been approved in writing by the Architectural Board of Review or unless no
     action by the Board in regard to such plans has been taken within forty-five
-    days of the date of the Board’s initial consideration of an application.
+    days of the date of the Board's initial consideration of an application.
 
 2. _(b)_ An applicant may request an unofficial review. The unofficial review is
 informal and does not entitle the applicant to preliminary or final approval, or

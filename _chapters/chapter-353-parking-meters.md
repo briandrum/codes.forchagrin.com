@@ -42,7 +42,7 @@ the curb, as shall be most appropriate to the particular street location.
 Pursuant to Section 353.01, the following streets between the specified termini
 are hereby designated as parking meter areas and zones:
 
-1. _(a)_ (Editor’s note: Former subsection (a) was repealed by Ordinance 2006-
+1. _(a)_ (Editor's note: Former subsection (a) was repealed by Ordinance 2006-
 12, passed March 13, 2006.)
 
 2. _(b)_ **South Main Street.** West side from Washington St. south
@@ -56,7 +56,7 @@ shopping center.
 5. _(e)_ **Pleasant Drive.** West side about thirty-five feet south of Bell St.
 to about fifty feet north of the plaza.
 
-6. _(f)_ (Editor’s note: Former subsection (f) was repealed by Ordinance 2006-
+6. _(f)_ (Editor's note: Former subsection (f) was repealed by Ordinance 2006-
 12, passed March 13, 2006.)
 
 7. _(g)_ **South Franklin.** West side from Washington St. south to Center St.
@@ -209,5 +209,5 @@ Court.
 
 ## 353.99   Penalty
 
-(Editor’s note: See Section 303.99 for General Code Penalty if no specific
+(Editor's note: See Section 303.99 for General Code Penalty if no specific
 penalty is provided.)

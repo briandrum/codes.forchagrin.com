@@ -40,7 +40,7 @@ title: "Chapter 537: Offenses Against Persons"
 ## 537.01   Negligent homicide
 
 1. _(a)_ No person shall negligently cause the death of another or the unlawful
-termination of another’s pregnancy by means of a deadly weapon or dangerous
+termination of another's pregnancy by means of a deadly weapon or dangerous
 ordnance as defined in Section 549.01.
 
 2. _(b)_ Whoever violates this section is guilty of negligent homicide, a
@@ -51,7 +51,7 @@ misdemeanor of the first degree.
 
 1. _(a)_ No person, while operating or participating in the operation of a motor
 vehicle, motorcycle, snowmobile, locomotive, watercraft, or aircraft, shall
-cause the death of another or the unlawful termination of another’s pregnancy in
+cause the death of another or the unlawful termination of another's pregnancy in
 any of the following ways:
 
     1. _(1)_
@@ -63,7 +63,7 @@ any of the following ways:
         construction zone, a speeding offense, provided that this subsection
         applies only if the person whose death is caused or whose pregnancy is
         unlawfully terminated is in the construction zone at the time of the
-        offender’s commission of the speeding offense in the construction zone
+        offender's commission of the speeding offense in the construction zone
         and does not apply as described in subsection (d) of this section.
 
     2. _(2)_ As the proximate result of committing a violation of any provision
@@ -82,10 +82,10 @@ any of the following ways:
     time of the offense, the offender was driving under a suspension or
     cancellation imposed under Ohio R.C. Chapter 4510 or any other provision of
     the Ohio Revised Code or was operating a motor vehicle or motorcycle, did
-    not have a valid driver’s license, commercial driver’s license, temporary
+    not have a valid driver's license, commercial driver's license, temporary
     instruction permit, probationary license, or nonresident operating
-    privilege, and was not eligible for renewal of the offender’s driver’s
-    license or commercial driver’s license without examination under Ohio R.C.
+    privilege, and was not eligible for renewal of the offender's driver's
+    license or commercial driver's license without examination under Ohio R.C.
     4507.10 or if the offender previously has been convicted of or pleaded
     guilty to a violation of this section or any traffic-related homicide,
     manslaughter or assault offense. The court shall impose a mandatory jail
@@ -98,10 +98,10 @@ any of the following ways:
     offense, the offender was driving under a suspension or cancellation imposed
     under Ohio R.C. Chapter 4510 or any other provision of the Ohio Revised Code
     or was operating a motor vehicle or motorcycle, did not have a valid
-    driver’s license, commercial driver’s license, temporary instruction permit,
+    driver's license, commercial driver's license, temporary instruction permit,
     probationary license, or nonresident operating privilege, and was not
-    eligible for renewal of the offender’s driver’s license or commercial
-    driver’s license without examination under Ohio R.C. 4507.10 or if the
+    eligible for renewal of the offender's driver's license or commercial
+    driver's license without examination under Ohio R.C. 4507.10 or if the
     offender previously has been convicted of or pleaded guilty to a violation
     of this section or any traffic-related homicide, manslaughter, or assault
     offense.
@@ -119,10 +119,10 @@ subsection (a)(1)A. hereof if either of the following applies:
     2. _(2)_ At the time of the offense, the offender was driving under
     suspension or cancellation under Ohio R.C. Chapter 4510 or any other
     provision of the Ohio Revised Code or was operating a motor vehicle or
-    motorcycle, did not have a valid driver’s license, commercial driver’s
+    motorcycle, did not have a valid driver's license, commercial driver's
     license, temporary instruction permit, probationary license, or nonresident
-    operating privilege, and was not eligible for renewal of the offender’s
-    driver’s license or commercial driver’s license without examination under
+    operating privilege, and was not eligible for renewal of the offender's
+    driver's license or commercial driver's license without examination under
     Ohio R.C. 4507.10.
 
 4. _(d)_ Subsection (a)(1)B. does not apply in a particular construction zone
@@ -137,18 +137,18 @@ person who violates any of those subsections in that construction zone.
 
 5. _(e)_ As used in this section:
 
-    1. _(1)_ “Mandatory prison term” and “mandatory jail term” have the same
+    1. _(1)_ "Mandatory prison term" and "mandatory jail term" have the same
     meanings as in Ohio R.C. 2929.01.
 
-    2. _(2)_ “Traffic-related homicide, manslaughter or assault offense” means a
+    2. _(2)_ "Traffic-related homicide, manslaughter or assault offense" means a
     violation of Ohio R.C. 2903.04 in circumstances in which division (D) of
     that section applies, a violation of Ohio R.C. 2903.06 or 2903.08, or a
     violation of Ohio R.C. 2903.06, 2903.07 or 2903.08 as they existed prior to
     March 23, 2000.
 
-    3. _(3)_ “Construction zone” has the same meaning as in Ohio R.C. 5501.27.
+    3. _(3)_ "Construction zone" has the same meaning as in Ohio R.C. 5501.27.
 
-    4. _(4)_ “Speeding offense” means a violation of Ohio R.C. 4511.21 or a
+    4. _(4)_ "Speeding offense" means a violation of Ohio R.C. 4511.21 or a
     municipal ordinance pertaining to speed.
 
 6. _(f)_ For the purposes of this section, when a penalty or suspension is
@@ -160,8 +160,8 @@ law of another state or the United States.
 (ORC 2903.06)
 
 7. _(g)_ The court imposing a sentence upon an offender for any violation of
-this section also shall impose a suspension of the offender’s driver’s license,
-commercial driver’s license, temporary instruction permit, probationary license,
+this section also shall impose a suspension of the offender's driver's license,
+commercial driver's license, temporary instruction permit, probationary license,
 or nonresident operating privilege from the range specified in division (B) of
 Ohio R.C. 4510.02 that is equivalent in length to the suspension required for a
 violation of Ohio R.C. 2903.06 or division (A) or (B) of Ohio R.C. 4511.19 under
@@ -172,12 +172,12 @@ similar circumstances.
 
 1. _(a)_ No person, while operating or participating in the operation of a motor
 vehicle, motorcycle, snowmobile, locomotive, watercraft, or aircraft, shall
-cause serious physical harm to another person or another’s unborn as the
+cause serious physical harm to another person or another's unborn as the
 proximate result of committing, while operating or participating in the
 operation of a motor vehicle or motorcycle in a construction zone, a speeding
 offense. This subsection applies only if the person to whom the serious physical
 harm is caused or to whose unborn the serious physical harm is caused is in the
-construction zone at the time of the offender’s commission of the speeding
+construction zone at the time of the offender's commission of the speeding
 offense in the construction zone and does not apply as described in subsection
 (d) hereof.
 
@@ -191,8 +191,8 @@ traffic- related homicide, manslaughter, or assault offense, and shall be
 prosecuted under appropriate state law.
 
     In addition to any other sanctions imposed, the court shall impose upon the
-    offender a class four suspension of the offender’s driver’s license,
-    commercial driver’s license, temporary instruction permit, probationary
+    offender a class four suspension of the offender's driver's license,
+    commercial driver's license, temporary instruction permit, probationary
     license, or nonresident operating privilege from the range specified in
     division (A)(4) of Ohio R.C. 4510.02.
 
@@ -208,14 +208,14 @@ established by the Director of Transportation under Ohio R.C. 5501.27.
 
 5. _(e)_ As used in this section:
 
-    1. _(1)_ “Mandatory jail term” has the same meaning as in Ohio R.C. 2929.01.
+    1. _(1)_ "Mandatory jail term" has the same meaning as in Ohio R.C. 2929.01.
 
-    2. _(2)_ “Traffic-related homicide, manslaughter or assault offense” has the
+    2. _(2)_ "Traffic-related homicide, manslaughter or assault offense" has the
     same meaning as in Ohio R.C. 2903.06.
 
-    3. _(3)_ “Construction zone” has the same meaning as in Ohio R.C. 5501.27.
+    3. _(3)_ "Construction zone" has the same meaning as in Ohio R.C. 5501.27.
 
-    4. _(4)_ “Speeding offense” has the same meaning as in Ohio R.C. 2903.06.
+    4. _(4)_ "Speeding offense" has the same meaning as in Ohio R.C. 2903.06.
 
 6. _(f)_ For the purposes of this section, when a penalty or suspension is
 enhanced because of a prior or current violation of a specified law or a prior
@@ -228,10 +228,10 @@ law of another state or the United States.
 ## 537.03   Assault
 
 1. _(a)_ No person shall knowingly cause or attempt to cause physical harm to
-another or to another’s unborn.
+another or to another's unborn.
 
 2. _(b)_ No person shall recklessly cause serious physical harm to another or to
-another’s unborn.
+another's unborn.
 
 3. _(c)_
 
@@ -244,7 +244,7 @@ another’s unborn.
 
     2. _(2)_ Except as otherwise provided in this subsection, if the offense is
     committed by a caretaker against a functionally impaired person under the
-    caretaker’s care.
+    caretaker's care.
 
     3. _(3)_ If the offense occurs in or on the grounds of a State correctional
     institution or an institution of the Department of Youth Services, the
@@ -261,16 +261,16 @@ another’s unborn.
         correctional facility or a probation department or is on the premises of
         the facility for business purposes or as a visitor, and the offense is
         committed by a person who is under custody in the facility subsequent to
-        the person’s arrest for any crime or delinquent act, subsequent to the
-        person’s being charged with or convicted of any crime, or subsequent to
-        the person’s being alleged to be or adjudicated a delinquent child.
+        the person's arrest for any crime or delinquent act, subsequent to the
+        person's being charged with or convicted of any crime, or subsequent to
+        the person's being alleged to be or adjudicated a delinquent child.
 
         2. _(B)_ The offense occurs off the grounds of a State correctional
         institution and off the grounds of an institution of the Department of
         Youth Services, the victim of the offense is an employee of the
         Department of Rehabilitation and Correction, the Department of Youth
         Services, or a probation department, the offense occurs during the
-        employee’s official work hours and while the employee is engaged in
+        employee's official work hours and while the employee is engaged in
         official work responsibilities, and the offense is committed by a person
         incarcerated in a State correctional institution or institutionalized in
         the Department of Youth Services who temporarily is outside of the
@@ -282,10 +282,10 @@ another’s unborn.
         3. _(C)_ The offense occurs off the grounds of a local correctional
         facility, the victim of the offense is an employee of the local
         correctional facility or a probation department, the offense occurs
-        during the employee’s official work hours and while the employee is
+        during the employee's official work hours and while the employee is
         engaged in official work responsibilities, and the offense is committed
         by a person who is under custody in the facility subsequent to the
-        person’s arrest for any crime or delinquent act, subsequent to the
+        person's arrest for any crime or delinquent act, subsequent to the
         person being charged with or convicted of any crime, or subsequent to
         the person being alleged to be or adjudicated a delinquent child and who
         temporarily is outside of the facility for any purpose or by a parolee,
@@ -298,7 +298,7 @@ another’s unborn.
         or a school bus operator, and the offense occurs in a school, on school
         premises, in a school building, on a school bus or while the victim is
         outside of school premises or a school bus and is engaged in duties or
-        official responsibilities associated with the victim’s employment or
+        official responsibilities associated with the victim's employment or
         position as a school teacher or administrator or a school bus operator,
         including, but not limited to, driving, accompanying, or chaperoning
         students at or on class or field trips, athletic events, or other school
@@ -315,7 +315,7 @@ another’s unborn.
 
     7. _(7)_ If the victim of the offense is an officer or employee of a public
     children services agency or a private child placing agency and the offense
-    relates to the officer’s or employee’s performance or anticipated
+    relates to the officer's or employee's performance or anticipated
     performance of official responsibilities or duties.
 
     8. _(8)_ If the victim of the offense is a health care professional of a
@@ -323,7 +323,7 @@ another’s unborn.
     hospital whom the offender knows or has reasonable cause to know is a health
     care professional of a hospital; a health care worker of a hospital, or a
     security officer of a hospital, if the victim is engaged in the performance
-    of the victim’s duties, and if the hospital offers de-escalation or crisis
+    of the victim's duties, and if the hospital offers de-escalation or crisis
     intervention training for such professionals, workers or officers, assault
     is one of the following:
 
@@ -343,7 +343,7 @@ another’s unborn.
     9. _(9)_ If the victim of the offense is a judge, magistrate, prosecutor or
     court official or employee whom the offender knows or has reasonable cause
     to know is a judge, magistrate, prosecutor or court official or employee,
-    and if the victim is engaged in the performance of the victim’s duties,
+    and if the victim is engaged in the performance of the victim's duties,
     assault is one of the following:
 
         1. _(A)_ Except as otherwise provided in subsection (c)(9)B. of this
@@ -368,14 +368,14 @@ another’s unborn.
 
 4. _(d)_ As used in this section:
 
-    1. _(1)_ “Peace officer” has the same meaning as in Ohio R.C. 2935.01.
+    1. _(1)_ "Peace officer" has the same meaning as in Ohio R.C. 2935.01.
 
-    2. _(2)_ “Firefighter” has the same meaning as in Ohio R.C. 3937.41.
+    2. _(2)_ "Firefighter" has the same meaning as in Ohio R.C. 3937.41.
 
-    3. _(3)_ “Emergency medical service” has the same meaning as in Ohio R.C.
+    3. _(3)_ "Emergency medical service" has the same meaning as in Ohio R.C.
     4765.01.
 
-    4. _(4)_ “Local correctional facility” means a county, multicounty,
+    4. _(4)_ "Local correctional facility" means a county, multicounty,
     municipal, municipal-county or multicounty-municipal jail or workhouse. A
     minimum security jail established under Ohio R.C. 341.23 or 753.21, or
     another county, multicounty, municipal, municipal-county, or multicounty-
@@ -383,12 +383,12 @@ another’s unborn.
     delinquent act, persons charged with or convicted of any crime, or persons
     alleged to be or adjudicated a delinquent child.
 
-    5. _(5)_ “Employee of a local correctional facility” means a person who is
+    5. _(5)_ "Employee of a local correctional facility" means a person who is
     an employee of the political subdivision or of one or more of the affiliated
     political subdivisions that operates the local correctional facility and who
     operates or assists in the operation of the facility.
 
-    6. _(6)_ “School teacher or administrator” means either of the following:
+    6. _(6)_ "School teacher or administrator" means either of the following:
 
         1. _(A)_ A person who is employed in the public schools of the State
         under a contract described in Ohio R.C. 3311.77 or 3319.08 in a position
@@ -399,23 +399,23 @@ another’s unborn.
         State Board of Education prescribes minimum standards under Ohio R.C.
         3301.07 and who is certified in accordance with Ohio R.C. 3301.071.
 
-    7. _(7)_ “Community control sanction” has the same meaning as in Ohio R.C.
+    7. _(7)_ "Community control sanction" has the same meaning as in Ohio R.C.
     2929.01.
 
-    8. _(8)_ “Escorted visit” means an escorted visit granted under Ohio R.C.
+    8. _(8)_ "Escorted visit" means an escorted visit granted under Ohio R.C.
     2967.27.
 
-    9. _(9)_ “Post-release control” and “transitional control” have the same
+    9. _(9)_ "Post-release control" and "transitional control" have the same
     meanings as in Ohio R.C. 2967.01.
 
-    10. _(10)_ “Investigator of the Bureau of Criminal Identification and
-    Investigation” has the same meaning as in Ohio R.C. 2903.11.
+    10. _(10)_ "Investigator of the Bureau of Criminal Identification and
+    Investigation" has the same meaning as in Ohio R.C. 2903.11.
 
-    11. _(11)_ “Health care professional” and “health care worker” have the same
+    11. _(11)_ "Health care professional" and "health care worker" have the same
     meanings as in Ohio R.C. 2305.234.
 
-    12. _(12)_ “Assault or homicide offense committed against hospital
-    personnel” means a violation of this section or Ohio R.C. 2903.01, 2903.02,
+    12. _(12)_ "Assault or homicide offense committed against hospital
+    personnel" means a violation of this section or Ohio R.C. 2903.01, 2903.02,
     2903.03, 2903.04, 2903.041, 2903.11, 2903.12, 2903.13 or 2903.14 committed
     in circumstances in which all of the following apply:
 
@@ -427,51 +427,51 @@ another’s unborn.
         victim was a health care professional of a hospital, a health care
         worker of a hospital, or a security officer of a hospital;
 
-        3. _(C)_ The victim was engaged in the performance of the victim’s
+        3. _(C)_ The victim was engaged in the performance of the victim's
         duties.
 
         4. _(D)_ The hospital offered de-escalation or crisis intervention
         training for such professionals, workers or officers.
 
-    13. _(13)_ “De-escalation or crisis intervention training” means de-
+    13. _(13)_ "De-escalation or crisis intervention training" means de-
     escalation or crisis intervention training for health care professionals of
     a hospital, health care workers of a hospital, and security officers of a
-    hospital to facilitate interaction with patients, members of a patient’s
+    hospital to facilitate interaction with patients, members of a patient's
     family, and visitors, including those with mental impairments.
 
-    14. _(14)_ “Assault or homicide offense committed against justice system
-    personnel” means a violation of this section or of Ohio R.C. 2903.01,
+    14. _(14)_ "Assault or homicide offense committed against justice system
+    personnel" means a violation of this section or of Ohio R.C. 2903.01,
     2903.02, 2903.03, 2903.04, 2903.041, 2903.11, 2903.12, 2903.13 or 2903.14
     committed in circumstances in which the victim of the offense was a judge,
     magistrate, prosecutor, or court official or employee whom the offender knew
     or had reasonable cause to know was a judge, magistrate, prosecutor, or
     court official or employee, and the victim was engaged in the performance of
-    the victim’s duties.
+    the victim's duties.
 
-    15. _(15)_ “Court official or employee” means any official or employee of a
+    15. _(15)_ "Court official or employee" means any official or employee of a
     court created under the constitution or statutes of this State or of a
     United States court located in this State.
 
-    16. _(16)_ “Judge” means a judge of a court created under the constitution
+    16. _(16)_ "Judge" means a judge of a court created under the constitution
     or statutes of this State or of a United States court located in this State.
 
-    17. _(17)_ “Magistrate” means an individual who is appointed by a court of
+    17. _(17)_ "Magistrate" means an individual who is appointed by a court of
     record of this State and who has the powers and may perform the functions
     specified in Civil Rule 53, Criminal Rule 19, or Juvenile Rule 40, or an
     individual who is appointed by a United States court located in this State
     who has similar powers and functions.
 
-    18. _(18)_ “Prosecutor” has the same meaning as in Ohio R.C. 2935.01.
+    18. _(18)_ "Prosecutor" has the same meaning as in Ohio R.C. 2935.01.
 
     19. _(19)_
 
-        1. _(A)_ “Hospital” means, subject to subsection (d)(19)B. of this
+        1. _(A)_ "Hospital" means, subject to subsection (d)(19)B. of this
         section, an institution classified as a hospital under Ohio R.C. 3701.01
         in which are provided to patients diagnostic, medical, surgical,
         obstetrical, psychiatric, or rehabilitation care or a hospital operated
         by a health maintenance organization.
 
-        2. _(B)_ “Hospital” does not include any of the following:
+        2. _(B)_ "Hospital" does not include any of the following:
 
             1. _(1)_ A facility licensed under Ohio R.C. Chapter 3721, a health
             care facility operated by the Department of Mental Health or the
@@ -484,13 +484,13 @@ another’s unborn.
             for patients who use spiritual means for healing and for whom the
             acceptance of medical care is inconsistent with their religious
             beliefs, accredited by a national accrediting organization, exempt
-            from federal income taxation under Section 501 of the “Internal
+            from federal income taxation under Section 501 of the "Internal
             Revenue Code of 1986", 100 Stat. 2085, 26 U.S.C. 1, as amended, and
             providing twenty-four-hour nursing care pursuant to the exemption in
             division (E) of Ohio R.C. 4723.32 from the licensing requirements of
             Ohio R.C. Chapter 4723.
 
-    20. _(20)_ “Health maintenance organization” has the same meaning as in Ohio
+    20. _(20)_ "Health maintenance organization" has the same meaning as in Ohio
     R.C. 3727.01.  
     (ORC 2903.13)
 
@@ -498,7 +498,7 @@ another’s unborn.
 
 1. _(a)_ No person shall negligently, by means of a deadly weapon or dangerous
 ordnance as defined in Section 549.01 cause physical harm to another or to
-another’s unborn.
+another's unborn.
 
 2. _(b)_ Whoever violates this section is guilty of negligent assault, a
 misdemeanor of the third degree.  
@@ -508,11 +508,11 @@ misdemeanor of the third degree.
 
 1. _(a)_ No person shall knowingly cause another to believe that the offender
 will cause serious physical harm to the person or property of the other person,
-the other person’s unborn, or a member of the other person’s immediate family.
-In addition to any other basis for the other person’s belief that the offender
+the other person's unborn, or a member of the other person's immediate family.
+In addition to any other basis for the other person's belief that the offender
 will cause serious physical harm to the person or property of the other person,
-the other person’s unborn, or a member of the other person’s immediate family,
-the other person’s belief may be based on words or conduct of the offender that
+the other person's unborn, or a member of the other person's immediate family,
+the other person's belief may be based on words or conduct of the offender that
 are directed at or identify a corporation, association or other organization
 that employs the other person or to which the other person belongs.
 
@@ -520,16 +520,16 @@ that employs the other person or to which the other person belongs.
 as otherwise provided in this subsection (b), aggravated menacing is a
 misdemeanor of the first degree. If the victim of the offense is an officer or
 employee of a public children services agency or a private child placing agency
-and the offense relates to the officer’s or employee’s performance or
+and the offense relates to the officer's or employee's performance or
 anticipated performance of official responsibilities or duties, or, if the
 offender previously has been convicted of or pleaded guilty to an offense of
 violence, the victim of that prior offense was an officer or employee of a
 public children services agency or private child placing agency, and that prior
-offense related to the officer’s or employee’s performance or anticipated
+offense related to the officer's or employee's performance or anticipated
 performance of official responsibilities or duties, aggravated menacing is a
 felony and shall be prosecuted under appropriate State law.
 
-3. _(c)_ As used in this section, “organization” includes an entity that is a
+3. _(c)_ As used in this section, "organization" includes an entity that is a
 governmental employer.  
 (ORC 2903.21)
 
@@ -541,10 +541,10 @@ governmental employer.
     another person to believe that the offender will cause physical harm to the
     other person or a family or household member of the other person or cause
     mental distress to the other person or a family or household member of the
-    other person. In addition to any other basis for the other person’s belief
+    other person. In addition to any other basis for the other person's belief
     that the offender will cause physical harm to the other person or the other
-    person’s family or household member or mental distress to the other person
-    or the other person’s family or household member, the other person’s belief
+    person's family or household member or mental distress to the other person
+    or the other person's family or household member, the other person's belief
     or mental distress may be based on words or conduct of the offender that are
     directed at or identify a corporation, association or other organization
     that employs the other person or to which the other person belongs.
@@ -579,14 +579,14 @@ governmental employer.
         of this section, the offender made a threat of physical harm to or
         against the victim, or as a result of an offense committed under
         subsection (a)(2) or (3) of this section, a third person induced by the
-        offender’s posted message made a threat of physical harm to or against
+        offender's posted message made a threat of physical harm to or against
         the victim.
 
         3. _(C)_ In committing the offense under subsection (a)(1), (2), or (3)
         of this section, the offender trespassed on the land or premises where
         the victim lives, is employed, or attends school, or as a result of an
         offense committed under subsection (a)(2) or (3) of this section, a
-        third person induced by the offender’s posted message trespassed on the
+        third person induced by the offender's posted message trespassed on the
         land or premises where the victim lives, is employed, or attends school.
 
         4. _(D)_ The victim of the offense is a minor.
@@ -598,8 +598,8 @@ governmental employer.
         6. _(F)_ While committing the offense under subsection (a)(1) of this
         section or a violation of subsection (a)(3) of this section is based on
         conduct in violation of subsection (a)(1) of this section, the offender
-        had a deadly weapon on or about the offender’s person or under the
-        offender’s control. Subsection (b)(2)F. of this section does not apply
+        had a deadly weapon on or about the offender's person or under the
+        offender's control. Subsection (b)(2)F. of this section does not apply
         in determining the penalty for a violation of subsection (a)(2) of this
         section or a violation of subsection (a)(3) of this section based on
         conduct in violation of subsection (a)(1) of this section.
@@ -616,7 +616,7 @@ governmental employer.
         premises, or as a result of an offense committed under subsection (a)(2)
         of this section, or an offense committed under subsection (a)(3) of this
         section based on a violation of subsection (a)(2) of this section, a
-        third person induced by the offender’s posted message caused serious
+        third person induced by the offender's posted message caused serious
         physical harm to that premises, that real property, or any personal
         property on that premises.
 
@@ -629,12 +629,12 @@ governmental employer.
 
     3. _(3)_ If the victim of the offense is an officer or employee of a public
     children services agency or a private child placing agency and the offense
-    relates to the officer’s or employee’s performance or anticipated
+    relates to the officer's or employee's performance or anticipated
     performance of official responsibilities or duties, or, if the offender
     previously has been convicted of or pleaded guilty to an offense of
     violence, the victim of that prior offense was an officer or employee of a
     public children services agency or private child placing agency, and that
-    prior offense related to the officer’s or employee’s performance or
+    prior offense related to the officer's or employee's performance or
     anticipated performance of official responsibilities, or duties, menacing by
     stalking is a felony and shall be prosecuted under appropriate State law.
 
@@ -643,7 +643,7 @@ violation of this section.
 
 4. _(d)_ As used in this section:
 
-    1. _(1)_ “Pattern of conduct” means two or more actions or incidents closely
+    1. _(1)_ "Pattern of conduct" means two or more actions or incidents closely
     related in time, whether or not there has been a prior conviction based on
     any of those actions or incidents, or two or more actions or incidents
     closely related in time, whether or not there has been a prior conviction
@@ -652,16 +652,16 @@ violation of this section.
     organization. Actions or incidents that prevent, obstruct, or delay the
     performance by a public official, firefighter, rescuer, emergency medical
     services person, or emergency facility person of any authorized act within
-    the public official’s, firefighter’s, rescuer’s, emergency medical services
-    person’s, or emergency facility person’s official capacity, or the posting
+    the public official's, firefighter's, rescuer's, emergency medical services
+    person's, or emergency facility person's official capacity, or the posting
     of messages, use of intentionally written or verbal graphic gestures, or
     receipt of information or data through the use of any form of written
     communication or an electronic method of remotely transferring information,
     including, but not limited to, a computer, computer network, computer
     program, computer system, or telecommunications device, may constitute a
-    “pattern of conduct”.
+    "pattern of conduct".
 
-    2. _(2)_ “Mental distress” means any of the following:
+    2. _(2)_ "Mental distress" means any of the following:
 
         1. _(A)_ Any mental illness or condition that involves some temporary
         substantial incapacity;
@@ -671,35 +671,35 @@ violation of this section.
         services, whether or not any person requested or received psychiatric
         treatment, psychological treatment, or other mental health services.
 
-    3. _(3)_ “Emergency medical services person” is the singular of “emergency
-    medical services personnel” as defined in Ohio R.C. 2133.21.
+    3. _(3)_ "Emergency medical services person" is the singular of "emergency
+    medical services personnel" as defined in Ohio R.C. 2133.21.
 
-    4. _(4)_ “Emergency facility person” is the singular of “emergency facility
-    personnel” as defined in Ohio R.C. 2909.04.
+    4. _(4)_ "Emergency facility person" is the singular of "emergency facility
+    personnel" as defined in Ohio R.C. 2909.04.
 
-    5. _(5)_ “Public official” has the same meaning as in Ohio R.C. 2921.01.
+    5. _(5)_ "Public official" has the same meaning as in Ohio R.C. 2921.01.
 
-    6. _(6)_ “Computer”, “computer network”, “computer program”, “computer
-    system” and “telecommunications device” have the same meanings as in Ohio
+    6. _(6)_ "Computer", "computer network", "computer program", "computer
+    system" and "telecommunications device" have the same meanings as in Ohio
     R.C. 2913.01.
 
-    7. _(7)_ “Post a message” means transferring, sending, posting, publishing,
+    7. _(7)_ "Post a message" means transferring, sending, posting, publishing,
     disseminating or otherwise communicating, or attempting to transfer, send,
     post, publish, disseminate or otherwise communication, any message or
     information, whether truthful or untruthful, about an individual, and
-    whether done under one’s own name, under the name of another, or while
+    whether done under one's own name, under the name of another, or while
     impersonating another.
 
-    8. _(8)_ “Third person” means, in relation to conduct as described in
+    8. _(8)_ "Third person" means, in relation to conduct as described in
     subsection (a)(2) of this section, an individual who is neither the offender
     nor the victim of the conduct.
 
-    9. _(9)_ “Sexual motivation” has the same meaning as in Ohio R.C. 2971.01.
+    9. _(9)_ "Sexual motivation" has the same meaning as in Ohio R.C. 2971.01.
 
-    10. _(10)_ “Organization” includes an entity that is a governmental
+    10. _(10)_ "Organization" includes an entity that is a governmental
     employer.
 
-    11. _(11)_ “Family or household member” means any of the following:
+    11. _(11)_ "Family or household member" means any of the following:
 
         1. _(A)_ Any of the following who is residing or has resided with the
         person against whom the act prohibited in subsection (a)(1) of this
@@ -720,7 +720,7 @@ violation of this section.
         the act prohibited in subsection (a)(1) of this section is committed is
         the other natural parent or is the putative other natural parent.
 
-    12. _(12)_ “Person living as a spouse” means a person who is living or has
+    12. _(12)_ "Person living as a spouse" means a person who is living or has
     lived with the person against whom the act prohibited in subsection (a)(1)
     of this section is committed in a common law marital relationship, who
     otherwise is cohabiting with that person, or who otherwise has cohabited
@@ -736,20 +736,20 @@ caused mental distress as described in subsection (d)(2)B. of this section.
 
     1. _(1)_ This section does not apply to a person solely because the person
     provided access or connection to or from an electronic method of remotely
-    transferring information not under that person’s control, including having
+    transferring information not under that person's control, including having
     provided capabilities that are incidental to providing access or connection
     to or from the electronic method of remotely transferring the information,
     and that do not include the creation of the content of the material that is
     the subject of the access or connection. In addition, any person providing
     access or connection to or from an electronic method of remotely
-    transferring information not under that person’s control shall not be liable
+    transferring information not under that person's control shall not be liable
     for any action voluntarily taken in good faith to block the receipt or
     transmission through its service of any information that it believes is, or
     will be sent, in violation of this section.
 
     2. _(2)_ Subsection (f)(1) of this section does not create an affirmative
     duty for any person providing access or connection to or from an electronic
-    method of remotely transferring information not under that person’s control
+    method of remotely transferring information not under that person's control
     to block the receipt or transmission through its service of any information
     that it believes is, or will be sent, in violation of this section except as
     otherwise provided by law.
@@ -764,11 +764,11 @@ caused mental distress as described in subsection (d)(2)B. of this section.
 
 1. _(a)_ No person shall knowingly cause another to believe that the offender
 will cause physical harm to the person or property of the other person, the
-other person’s unborn, or a member of the other person’s immediate family. In
-addition to any other basis for the other person’s belief that the offender will
+other person's unborn, or a member of the other person's immediate family. In
+addition to any other basis for the other person's belief that the offender will
 cause physical harm to the person or property of the other person, the other
-person’s unborn, or a member of the other person’s immediately family, the other
-person’s belief may be based on words or conduct of the offender that are
+person's unborn, or a member of the other person's immediately family, the other
+person's belief may be based on words or conduct of the offender that are
 directed at or identify a corporation, association or other organization that
 employs the other person or to which the other person belongs.
 
@@ -776,16 +776,16 @@ employs the other person or to which the other person belongs.
 otherwise provided in this subsection (b), menacing is a misdemeanor of the
 fourth degree. If the victim of the offense is an officer or employee of a
 public children services agency or a private child placing agency and the
-offense relates to the officer’s or employee’s performance or anticipated
+offense relates to the officer's or employee's performance or anticipated
 performance of official responsibilities or duties, or, if the offender
 previously has been convicted of or pleaded guilty to an offense of violence,
 the victim of that prior offense was an officer or employee of a public children
 services agency or private child placing agency, and that prior offense related
-to the officer’s or employee’s performance or anticipated performance of
+to the officer's or employee's performance or anticipated performance of
 official responsibilities or duties, menacing is a felony and shall be
 prosecuted under appropriate State law.
 
-3. _(c)_ As used in this section, “organization” includes an entity that is a
+3. _(c)_ As used in this section, "organization" includes an entity that is a
 governmental employer.  
 (ORC 2903.22)
 
@@ -822,7 +822,7 @@ or physically handicapped child under twenty-one years of age.
 
     2. _(2)_ As used in subsection (c) hereof:
 
-        1. _(A)_ “Controlled substance” has the same meaning as in Ohio R.C.
+        1. _(A)_ "Controlled substance" has the same meaning as in Ohio R.C.
         3719.01.
 
         2. _(B)_ "Vehicle" has the same meaning as in Ohio R.C. 4511.01.
@@ -903,15 +903,15 @@ or physically handicapped child under twenty-one years of age.
 ## 537.08   Unlawful restraint
 
 1. _(a)_ No person, without privilege to do so, shall knowingly restrain another
-of the other person’s liberty.
+of the other person's liberty.
 
 2. _(b)_ No person, without privilege to do so and with a sexual motivation,
-shall knowingly restrain another of the other person’s liberty.
+shall knowingly restrain another of the other person's liberty.
 
 3. _(c)_ Whoever violates this section is guilty of unlawful restraint, a
 misdemeanor of the third degree.
 
-4. _(d)_ As used in this section, “sexual motivation” has the same meaning as in
+4. _(d)_ As used in this section, "sexual motivation" has the same meaning as in
 Ohio R.C. 2971.01.  
 (ORC 2905.03)
 
@@ -926,8 +926,8 @@ shall do any of the following:
     2. _(2)_ Utter or threaten any calumny against any person;
 
     3. _(3)_ Expose or threaten to expose any matter tending to subject any
-    person to hatred, contempt or ridicule, to damage any person’s personal or
-    business repute, or to impair any person’s credit;
+    person to hatred, contempt or ridicule, to damage any person's personal or
+    business repute, or to impair any person's credit;
 
     4. _(4)_ Institute or threaten criminal proceedings against any person;
 
@@ -953,8 +953,8 @@ interest of justice:
     redress to the victim of the offense.
 
 3. _(c)_ It is an affirmative defense to a charge under subsection (a)(3), (4)
-or (5) hereof that the actor’s conduct was a reasonable response to the
-circumstances that occasioned it, and that the actor’s purpose was limited to
+or (5) hereof that the actor's conduct was a reasonable response to the
+circumstances that occasioned it, and that the actor's purpose was limited to
 any of the following:
 
     1. _(1)_ Compelling another to refrain from misconduct or to desist from
@@ -974,7 +974,7 @@ the second degree.
 5. _(e)_ As used in this section:
     1. _(1)_ "Threat" includes a direct threat and a threat by innuendo.
 
-    2. _(2)_ “Community control sanction” has the same meaning as in Ohio R.C.
+    2. _(2)_ "Community control sanction" has the same meaning as in Ohio R.C.
     2929.01.  
     (ORC 2905.12)
 
@@ -982,7 +982,7 @@ the second degree.
 
 1. _(a)_ No person shall knowingly make or cause to be made a telecommunication,
 or knowingly permit telecommunication to be made from a telecommunications
-device under the person’s control, to another, if the caller does any of the
+device under the person's control, to another, if the caller does any of the
 following:
 
     1. _(1)_ Makes the telecommunication with purpose to harass, intimidate, or
@@ -1002,7 +1002,7 @@ following:
 
     4. _(4)_ Knowingly states to the recipient of the telecommunication that the
     caller intends to cause damage to or destroy public or private property, and
-    the recipient, any member of the recipient’s family, or any other person who
+    the recipient, any member of the recipient's family, or any other person who
     resides at the premises to which the telecommunication is made owns, leases,
     resides, or works in, will at the time of the destruction or damaging be
     near or in, has the responsibility of protecting, or insures the property
@@ -1025,7 +1025,7 @@ following:
     8. _(8)_ Without a lawful business purpose, knowingly transmits to any
     person, regardless of whether the telecommunication is heard in its
     entirety, any file, document or other communication that prevents that
-    person from using the person’s telephone service or electronic communication
+    person from using the person's telephone service or electronic communication
     device;
 
     9. _(9)_ Knowingly makes any false statement concerning the death, injury,
@@ -1045,7 +1045,7 @@ following:
 
     1. _(1)_ No person shall make or cause to be made a telecommunication, or
     permit a telecommunication to be made from a telecommunications device under
-    the person’s control, with purpose to abuse, threaten, or harass another
+    the person's control, with purpose to abuse, threaten, or harass another
     person.
 
     2. _(2)_ No person shall knowingly post a text or audio statement or an
@@ -1075,8 +1075,8 @@ defined in Section 230 of Title 47 of the United States Code, or information
 service, or against any officer, employee, or agent of a telecommunication
 service, interactive computer service as defined in Section 230 of Title 47 of
 the United States Code, or information service, for any injury, death, or loss
-to person or property that allegedly arises out of the provider’s, officer’s,
-employee’s, or agent’s provision of information, facilities, or assistance in
+to person or property that allegedly arises out of the provider's, officer's,
+employee's, or agent's provision of information, facilities, or assistance in
 accordance with the terms of a court order that is issued in relation to the
 investigation or prosecution of an alleged violation of this section. A provider
 of a telecommunications service, interactive computer service as defined in
@@ -1085,7 +1085,7 @@ officer, employee, or agent of a telecommunications service, interactive
 computer service as defined in Section 230 of Title 47 of the United States
 Code, of information service, is immune from any civil or criminal liability for
 injury, death, or loss to person or property that allegedly arises out of the
-provider’s, officer’s, employee’s, or agent’s provision of information,
+provider's, officer's, employee's, or agent's provision of information,
 facilities, or assistance in accordance with the terms of a court order that is
 issued in relation to the investigation or prosecution of an alleged violation
 of this section.
@@ -1094,20 +1094,20 @@ of this section.
 
     1. _(1)_ This section does not apply to a person solely because the person
     provided access or connection to or from an electronic method of remotely
-    transferring information not under that person’s control, including having
+    transferring information not under that person's control, including having
     provided capabilities that are incidental to providing access or connection
     to or from the electronic method of remotely transferring the information,
     and that do not include the creation of the content of the material that is
     the subject of the access or connection. In addition, any person providing
     access or connection to or from an electric method of remotely transferring
-    information not under that person’s control shall not be liable for any
+    information not under that person's control shall not be liable for any
     action voluntarily taken in good faith to block the receipt or transmission
     through its service of any information that the person believes is, or will
     be sent, in violation of this section.
 
     2. _(2)_ Subsection (e)(1) of this section does not create an affirmative
     duty for any person providing access or connection to or from an electronic
-    method of remotely transferring information not under that person’s control
+    method of remotely transferring information not under that person's control
     to block the receipt or transmission through its service of any information
     that it believes is, or will be sent, in violation of this section except as
     otherwise provided by law.
@@ -1133,14 +1133,14 @@ person who, while employed or contracted by a newspaper, magazine, press
 association, news agency, news wire service, cable channel or cable operator, or
 radio or television station, is gathering, processing, transmitting, compiling,
 editing or disseminating information for the general public, within the scope of
-the person’s employment in that capacity or the person’s contractual authority
+the person's employment in that capacity or the person's contractual authority
 in that capacity.
 
 7. _(g)_ As used in this section:
 
-    1. _(1)_ “Economic harm” means all direct, incidental, and consequential
+    1. _(1)_ "Economic harm" means all direct, incidental, and consequential
     pecuniary harm suffered by a victim as a result of criminal conduct.
-    “Economic harm” includes, but is not limited to, all of the following:
+    "Economic harm" includes, but is not limited to, all of the following:
 
         1. _(A)_ All wages, salaries, or other compensation lost as a result of
         the criminal conduct;
@@ -1155,17 +1155,17 @@ in that capacity.
         4. _(D)_ The loss of value to tangible or intangible property that was
         damaged as a result of the criminal conduct.
 
-    2. _(2)_ “Caller” means the person described in subsection (a) hereof who
+    2. _(2)_ "Caller" means the person described in subsection (a) hereof who
     makes or causes to be made a telecommunication or who permits a
     telecommunication to be made from a telecommunications device under that
-    person’s control.
+    person's control.
 
-    3. _(3)_ “Telecommunication” and “telecommunications device” have the same
+    3. _(3)_ "Telecommunication" and "telecommunications device" have the same
     meanings as in Ohio R.C. 2913.01.
 
-    4. _(4)_ “Sexual activity” has the same meaning as in Ohio R.C. 2907.01.
+    4. _(4)_ "Sexual activity" has the same meaning as in Ohio R.C. 2907.01.
 
-    5. _(5)_ “Family or household member” means any of the following:
+    5. _(5)_ "Family or household member" means any of the following:
 
         1. _(A)_ Any of the following who is residing or has resided with the
         recipient of the telecommunication against whom the act prohibited in
@@ -1188,19 +1188,19 @@ in that capacity.
         of this section is committed is the other natural parent or is the
         putative other natural parent.
 
-    6. _(6)_ “Person living as a spouse” means a person who is living or has
+    6. _(6)_ "Person living as a spouse" means a person who is living or has
     lived with the recipient of the telecommunication against whom the act
     prohibited in subsection (a)(9) of this section is committed in a common law
     marital relationship, who otherwise is cohabiting with the recipient, or who
     otherwise has cohabited with the recipient within five years prior to the
     date of the alleged commission of the act in question.
 
-    7. _(7)_ “Cable operator” has the same meaning as in Ohio R.C. 1332.21.
+    7. _(7)_ "Cable operator" has the same meaning as in Ohio R.C. 1332.21.
 
 8. _(h)_ Nothing in this section prohibits a person from making a
-telecommunication call to a debtor that is in compliance with the “Fair Debt
-Collection Practices Act”, 91 Stat. 874 (1977), 15 U.S.C. 1692, as amended, or
-the “Telephone Consumer Protection Act”, 105 Stat. 2395 (1991), 47 U.S.C. 227,
+telecommunication call to a debtor that is in compliance with the "Fair Debt
+Collection Practices Act", 91 Stat. 874 (1977), 15 U.S.C. 1692, as amended, or
+the "Telephone Consumer Protection Act", 105 Stat. 2395 (1991), 47 U.S.C. 227,
 as amended.  
 (ORC 2917.21)
 
@@ -1225,7 +1225,7 @@ degree.
 
 ## 537.12   Misuse of 9-1-1 system
 
-1. _(a)_ “9-1-1 system” means a system through which individuals can request
+1. _(a)_ "9-1-1 system" means a system through which individuals can request
 emergency service using the telephone number 9-1-1.  
 (ORC 128.01)
 
@@ -1457,8 +1457,8 @@ magistrate, or law enforcement officer informed the defendant that a protection
 order or consent agreement had been issued, and proves that the defendant
 recklessly violated the terms of the order or agreement.
 
-5. _(e)_ As used in this section, “protection order issued by a court of another
-state” means an injunction or another order issued by a criminal court of
+5. _(e)_ As used in this section, "protection order issued by a court of another
+state" means an injunction or another order issued by a criminal court of
 another state for the purpose of preventing violent or threatening acts or
 harassment against, contact or communication with, or physical proximity to
 another person, including a temporary order, and means an injunction or order of
@@ -1466,7 +1466,7 @@ that nature issued by a civil court of another state, including a temporary
 order and a final order issued in an independent action or as a pendente lite
 order in a proceeding for other relief, if the court issued it in response to a
 complaint, petition or motion filed by or on behalf of a person seeking
-protection. “Protection order issued by a court of another state” does not
+protection. "Protection order issued by a court of another state" does not
 include an order for support or for custody of a child.  
 (ORC 2919.27)
 
@@ -1477,7 +1477,7 @@ Alternative Nicotine Products.**
 
     1. _(1)_ As used in this section:
 
-        1. _(A)_ “Age verification.” A service provided by an independent third
+        1. _(A)_ "Age verification." A service provided by an independent third
         party (other than a manufacturer, producer, distributor, wholesaler, or
         retailer of cigarettes, other tobacco products, alternative nicotine
         products, or papers used to roll cigarettes) that compares information
@@ -1487,7 +1487,7 @@ Alternative Nicotine Products.**
         provided during an internet sale or other remote method of sale to
         establish that the purchaser is twenty-one years of age or older.
 
-        2. _(B)_ “Alternative nicotine product.”
+        2. _(B)_ "Alternative nicotine product."
 
             1. _(1)_ Subject to subsection (a)(1)B.2. of this section, an
             electronic smoking device, vapor product, or any other product or
@@ -1499,25 +1499,25 @@ Alternative Nicotine Products.**
 
                 1. _(a)_ Any cigarette or other tobacco product;
 
-                2. _(b)_ Any product that is a “drug” as that term is defined in
+                2. _(b)_ Any product that is a "drug" as that term is defined in
                 21 U.S.C. 321(g)(1);
 
-                3. _(c)_ Any product that is a “device” as that term is defined
+                3. _(c)_ Any product that is a "device" as that term is defined
                 in 21 U.S.C. 321(h);
 
-                4. _(d)_ Any product that is a “combination product” as
+                4. _(d)_ Any product that is a "combination product" as
                 described in 21 U.S.C. 353(g).
 
-        3. _(C)_ “Cigarette.” Includes clove cigarettes and hand-rolled
+        3. _(C)_ "Cigarette." Includes clove cigarettes and hand-rolled
         cigarettes.
 
-        4. _(D)_ “Distribute.” Means to furnish, give, or provide cigarettes,
+        4. _(D)_ "Distribute." Means to furnish, give, or provide cigarettes,
         other tobacco products, alternative nicotine products, or papers used to
         roll cigarettes to the ultimate consumer of the cigarettes, other
         tobacco products, alternative nicotine products, or papers used to roll
         cigarettes.
 
-        5. _(E)_ “Electronic smoking device.” Means any device that can be used
+        5. _(E)_ "Electronic smoking device." Means any device that can be used
         to deliver aerosolized or vaporized nicotine or any other substance to
         the person inhaling from the device including an electronic cigarette,
         electronic cigar, electronic hookah, vaping pen, or electronic pipe. The
@@ -1528,12 +1528,12 @@ Alternative Nicotine Products.**
         product, as those terms are defined or described in 21 U.S.C. 321 and
         353(g).
 
-        6. _(F)_ “Proof of age.” Means a driver’s license, a commercial driver’s
+        6. _(F)_ "Proof of age." Means a driver's license, a commercial driver's
         license, a military identification card, a passport, or an
         identification card issued under Ohio R.C. 4507.50 to 4507.52 that shows
         that a person is eighteen years of age or older.
 
-        7. _(G)_ “Tobacco product.” Means any product that is made or derived
+        7. _(G)_ "Tobacco product." Means any product that is made or derived
         from tobacco or that contains any form of nicotine, if it is intended
         for human consumption or is likely to be consumed, whether smoked,
         heated, chewed, absorbed, dissolved, inhaled, or ingested by any other
@@ -1546,7 +1546,7 @@ Alternative Nicotine Products.**
         drug, device, or combination product, as those terms are defined or
         described in 21 U.S.C. 321 and 353(g).
 
-        8. _(H)_ “Vapor product.” Means a product, other than a cigarette or
+        8. _(H)_ "Vapor product." Means a product, other than a cigarette or
         other tobacco product as defined in Ohio R.C. Chapter 5743, that
         contains or is made or derived from nicotine and that is intended and
         marketed for human consumption, including by smoking, inhaling,
@@ -1558,7 +1558,7 @@ Alternative Nicotine Products.**
         described in 21 U.S.C. 321 and 353(g). The phrase includes any product
         containing nicotine, regardless of concentration.
 
-        9. _(I)_ “Vending machine.” Has the same meaning as “coin machine” in
+        9. _(I)_ "Vending machine." Has the same meaning as "coin machine" in
         Ohio R.C. 2913.01.
 
     2. _(2)_ No manufacturer, producer, distributor, wholesaler, or retailer of
@@ -1630,9 +1630,9 @@ Alternative Nicotine Products.**
 
             3. _(3)_ A clearly visible notice is posted in the area where the
             vending machine is located that states the following in letters that
-            are legibly printed and at least one-half inch high: “It is illegal
+            are legibly printed and at least one-half inch high: "It is illegal
             for any person under the age of twenty-one to purchase tobacco or
-            alternative nicotine products.”
+            alternative nicotine products."
 
     4. _(4)_ The following are affirmative defenses to a charge under subsection
     (a)(2)A. of this section:
@@ -1707,46 +1707,46 @@ Alternative Nicotine Products.**
     section, the following definitions shall apply unless the context clearly
     indicates or requires a different meaning.
 
-        1. _(A)_ “Card holder.” Any person who presents a driver’s or commercial
-        driver’s license or an identification card to a seller, or an agent or
+        1. _(A)_ "Card holder." Any person who presents a driver's or commercial
+        driver's license or an identification card to a seller, or an agent or
         employee of a seller, to purchase or receive cigarettes, other tobacco
         products, or alternative nicotine products from a seller, agent or
         employee.
 
-        2. _(B)_ “Identification card.” An identification card issued under Ohio
+        2. _(B)_ "Identification card." An identification card issued under Ohio
         R.C. 4507.50 to 4507.52.
 
-        3. _(C)_ “Seller.” A seller of cigarettes, other tobacco products, or
+        3. _(C)_ "Seller." A seller of cigarettes, other tobacco products, or
         alternative nicotine products and includes any person whose gift of or
         other distribution of cigarettes, other tobacco products, or alternative
         nicotine products is subject to the prohibitions of subsection (a) of
         this section.
 
-        4. _(D)_ “Transaction scan.” The process by which a seller or an agent
+        4. _(D)_ "Transaction scan." The process by which a seller or an agent
         or employee of a seller checks, by means of a transaction scan device,
-        the validity of a driver’s or commercial driver’s license or an
+        the validity of a driver's or commercial driver's license or an
         identification card that is presented as a condition for purchasing or
         receiving cigarettes, other tobacco products, or alternative nicotine
         products.
 
-        5. _(E)_ “Transaction scan device.” Any commercial device or combination
+        5. _(E)_ "Transaction scan device." Any commercial device or combination
         of devices used at a point of sale that is capable of deciphering in an
         electronically readable format the information encoded on the magnetic
-        strip or bar code of a driver’s or commercial driver’s license or an
+        strip or bar code of a driver's or commercial driver's license or an
         identification card.
 
     2. _(2)_
 
         1. _(A)_ A seller or an agent or employee of a seller may perform a
         transaction scan by means of a transaction scan device to check the
-        validity of a driver’s or commercial driver’s license or identification
+        validity of a driver's or commercial driver's license or identification
         card presented by a card holder as a condition for selling, giving away
         or otherwise distributing to the card holder cigarettes, other tobacco
         products, or alternative nicotine products.
 
         2. _(B)_ If the information deciphered by the transaction scan performed
         under subsection (b)(2)A. of this section fails to match the information
-        printed on the driver’s or commercial driver’s license or identification
+        printed on the driver's or commercial driver's license or identification
         card presented by the card holder, or if the transaction scan indicates
         that the information so printed is false or fraudulent, neither the
         seller nor any agent or employee of the seller shall sell, give away or
@@ -1755,8 +1755,8 @@ Alternative Nicotine Products.**
 
         3. _(C)_ Subsection (b)(2)A. of this section does not preclude a seller
         or an agent or employee of a seller from using a transaction scan device
-        to check the validity of a document other than a driver’s or commercial
-        driver’s license or identification card, if the document includes a bar
+        to check the validity of a document other than a driver's or commercial
+        driver's license or identification card, if the document includes a bar
         code or magnetic strip that may be scanned by the device, as a condition
         for selling, giving away or otherwise distributing cigarettes, other
         tobacco products, or alternative nicotine products to the person
@@ -1773,11 +1773,11 @@ Alternative Nicotine Products.**
         transaction scan, except for the following:
 
             1. _(1)_ The name and date of birth of the person listed on the
-            driver’s or commercial driver’s license or identification card
+            driver's or commercial driver's license or identification card
             presented by the card holder;
 
             2. _(2)_ The expiration date and identification number of the
-            driver’s or commercial driver’s license or identification card
+            driver's or commercial driver's license or identification card
             presented by the card holder.
 
         2. _(B)_ No seller or agent or employee of a seller shall use the
@@ -1823,9 +1823,9 @@ Alternative Nicotine Products.**
 
         1. _(A)_ A card holder attempting to purchase or receive cigarettes,
         other tobacco products, or alternative nicotine products presented a
-        driver’s or commercial driver’s license or an identification card.
+        driver's or commercial driver's license or an identification card.
 
-        2. _(B)_ A transaction scan of the driver’s or commercial driver’s
+        2. _(B)_ A transaction scan of the driver's or commercial driver's
         license or identification card that the card holder presented indicated
         that the license or card was valid.
 
@@ -1852,8 +1852,8 @@ Alternative Nicotine Products.**
         tobacco products, or alternative nicotine products is twenty-one years
         of age or older;
 
-        2. _(B)_ Whether the description and picture appearing on the driver’s
-        or commercial driver’s license or identification card presented by a
+        2. _(B)_ Whether the description and picture appearing on the driver's
+        or commercial driver's license or identification card presented by a
         card holder is that of the card holder.
 
     3. _(3)_ In any criminal action in which the affirmative defense provided by
@@ -1868,7 +1868,7 @@ Alternative Nicotine Products.**
 
     1. _(1)_ As used in this subsection (d):
 
-        1. _(A)_ “Authorized recipient of tobacco products” means a person who is:
+        1. _(A)_ "Authorized recipient of tobacco products" means a person who is:
 
             1. _(1)_ Licensed as a cigarette wholesale dealer under Ohio R.C.
             5743.15;
@@ -1883,7 +1883,7 @@ Alternative Nicotine Products.**
             1311 or 19 U.S.C. 1555;
 
             5. _(5)_ An officer, employee, or agent of the federal government or
-            of this state acting in the person’s official capacity;
+            of this state acting in the person's official capacity;
 
             6. _(6)_ A department, agency, instrumentality, or political
             subdivision of the federal government or of this state;
@@ -1891,7 +1891,7 @@ Alternative Nicotine Products.**
             7. _(7)_ A person having a consent for consumer shipment issued by
             the Tax Commissioner under Ohio R.C. 5743.71.
 
-        2. _(B)_ “Motor carrier.” Has the same meaning as in Ohio R.C. 4923.01.
+        2. _(B)_ "Motor carrier." Has the same meaning as in Ohio R.C. 4923.01.
 
     2. _(2)_ The purpose of this division (d) is to prevent the sale of
     cigarettes to minors and to ensure compliance with the Master Settlement
@@ -1916,7 +1916,7 @@ Alternative Nicotine Products.**
     container or wrapping other than the original container or wrapping of the
     cigarettes shall fail to plainly and visibly mark the exterior of the
     container or wrapping in which the cigarettes are shipped with the words
-    “cigarettes.”
+    "cigarettes."
 
     5. _(5)_ A court shall impose a fine of up to one thousand dollars ($1,000)
     for each violation of subsection (d)(3)A., (d)(3)B. or (d)(4) of this
@@ -1927,7 +1927,7 @@ Alternative Nicotine Products.**
 
     1. _(1)_ No person who is eighteen years of age or older but younger than
     twenty-one years of age shall knowingly furnish false information concerning
-    that person’s name, age, or other identification for the purpose of
+    that person's name, age, or other identification for the purpose of
     obtaining tobacco products.
 
     2. _(2)_ Whoever violates subsection (e)(1) of this section is guilty of
@@ -1942,7 +1942,7 @@ Alternative Nicotine Products.**
 
 ## 537.17   Reserved
 
-(Editor’s note: This section was formerly 537.17 Criminal Child Enticement,
+(Editor's note: This section was formerly 537.17 Criminal Child Enticement,
 based on Ohio R.C. 2905.05, Criminal Child Enticement. The Ohio Supreme Court
 held that Ohio R.C. 2905.05(A) was unconstitutionally overbroad in violation of
 the First Amendment. See State v. Romage, 138 Ohio St. 3d. 390 (2014).)
@@ -1951,9 +1951,9 @@ the First Amendment. See State v. Romage, 138 Ohio St. 3d. 390 (2014).)
 
 1. _(a)_ As used in this section:
 
-    1. _(1)_ “Delinquent child” has the same meaning as in Ohio R.C. 2152.02.
+    1. _(1)_ "Delinquent child" has the same meaning as in Ohio R.C. 2152.02.
 
-    2. _(2)_ “Unruly child” has the same meaning as in Ohio R.C. 2151.022.
+    2. _(2)_ "Unruly child" has the same meaning as in Ohio R.C. 2151.022.
 
 2. _(b)_ No person, including a parent, guardian or other custodian of a child,
 shall do any of the following:
@@ -1965,7 +1965,7 @@ shall do any of the following:
     court to become an unruly child or a delinquent child;
 
     3. _(3)_ Act in a way that contributes to an adjudication of the child as a
-    delinquent child based on the child’s violation of a court order
+    delinquent child based on the child's violation of a court order
     adjudicating the child an unruly child for being an habitual truant;
 
     4. _(4)_ If the person is the parent, guardian, or custodian of a child who
@@ -2029,5 +2029,5 @@ to the civil remedy provided for in subsection (d) hereof.
 
 ## 537.99   Penalty
 
-(Editor’s note: See Section 501.99 for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
 classification.)

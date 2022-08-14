@@ -28,7 +28,7 @@ In addition to the applicable provisions of the intent stated in Section
 business development appropriately designed and located to achieve, among
 others, the following objectives:
 
-1. _(a)_ Preserve the Municipality’s downtown as a core for retail sales and
+1. _(a)_ Preserve the Municipality's downtown as a core for retail sales and
 personal service businesses.
 
 2. _(b)_ Promote pedestrian accessibility by discouraging uses that attract
@@ -45,7 +45,7 @@ strengthen one another.
 5. _(e)_ Restrict the location of offices, trade and business schools, and
 self-improvement training facilities to floor space that is not located on the
 ground floor so as to not disturb or break up the continuous flow of pedestrian
-shopping within the Municipality’s historic downtown core.
+shopping within the Municipality's historic downtown core.
 
 6. _(f)_ To create a Central Shopping District in which all of the regulations
 contained in this chapter shall apply.

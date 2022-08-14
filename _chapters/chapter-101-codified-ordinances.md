@@ -33,97 +33,97 @@ title: "Chapter 101: Codified Ordinances"
 1. _(a)_ All ordinances of a permanent and general nature of the Municipality as
 revised, codified, rearranged, renumbered and consolidated into component codes,
 titles, chapters and sections shall be known and designated as the Codified
-Ordinances of Chagrin Falls, Ohio, 1969, for which designation “Codified
-Ordinances” may be substituted. Code, title, chapter and section headings do not
+Ordinances of Chagrin Falls, Ohio, 1969, for which designation "Codified
+Ordinances" may be substituted. Code, title, chapter and section headings do not
 constitute any part of the law as contained in the Codified Ordinances.  
 (ORC 1.01)
 
 2. _(b)_ All references to codes, titles, chapters and sections are to such
 components of the Codified Ordinances unless otherwise specified. Any component
-code may be referred to and cited by its name, such as the “Traffic Code”.
-Sections may be referred to and cited by the designation “Section” followed by
-the number, such as “Section 101.01”.
+code may be referred to and cited by its name, such as the "Traffic Code".
+Sections may be referred to and cited by the designation "Section" followed by
+the number, such as "Section 101.01".
 
 ## 101.02   General definitions
 
 As used in the Codified Ordinances, unless another definition is provided or the
 context otherwise requires:
 
-1. _(a)_ “And” may be read “or”, and “or” may be read “and”, if the sense
+1. _(a)_ "And" may be read "or", and "or" may be read "and", if the sense
 requires it.  
 (ORC 1.02(F))
 
-2. _(b)_ “Another” when used to designate the owner of property which is the
+2. _(b)_ "Another" when used to designate the owner of property which is the
 subject of an offense, includes not only natural persons but also every other
 owner of property.  
 (ORC 1.02(B))
 
-3. _(c)_ “Bond” includes an undertaking and “undertaking” includes a bond.  
+3. _(c)_ "Bond" includes an undertaking and "undertaking" includes a bond.  
 (ORC 1.02(D), (E))
 
-4. _(d)_ “Council” means the legislative authority of the Municipality.
+4. _(d)_ "Council" means the legislative authority of the Municipality.
 
-5. _(e)_ “County” means Cuyahoga County, Ohio.
+5. _(e)_ "County" means Cuyahoga County, Ohio.
 
-6. _(f)_ “Keeper” or “proprietor” includes all persons, whether acting by
+6. _(f)_ "Keeper" or "proprietor" includes all persons, whether acting by
 themselves or as a servant, agent or employee.
 
-7. _(g)_ “Land” or “real estate” includes rights and easements of an incorporeal
+7. _(g)_ "Land" or "real estate" includes rights and easements of an incorporeal
 nature.  
 (ORC 701.01(F))
 
-8. _(h)_ “Municipality” or “Village” means the Village of Chagrin Falls, Ohio.
+8. _(h)_ "Municipality" or "Village" means the Village of Chagrin Falls, Ohio.
 
-9. _(i)_ “Oath” includes affirmation and “swear” includes affirm.  
+9. _(i)_ "Oath" includes affirmation and "swear" includes affirm.  
 (ORC 1.59(B))
 
-10. _(j)_ “Owner", when applied to property, includes any part owner, joint
+10. _(j)_ "Owner", when applied to property, includes any part owner, joint
 owner or tenant in common of the whole or part of such property.
 
-11. _(k)_ “Person” includes an individual, corporation, business trust, estate,
+11. _(k)_ "Person" includes an individual, corporation, business trust, estate,
 trust, partnership and association.  
 (ORC 1.59(C))
 
-12. _(l)_ “Premises", as applied to property, includes land and buildings.
+12. _(l)_ "Premises", as applied to property, includes land and buildings.
 
-13. _(m)_ “Property” means real and personal property.  
+13. _(m)_ "Property" means real and personal property.  
 (ORC 1.59(E))  
-"Personal property” includes all property except real.  
-"Real property” includes lands, tenements and hereditaments.
+"Personal property" includes all property except real.  
+"Real property" includes lands, tenements and hereditaments.
 
-14. _(n)_ “Public authority” includes boards of education; the Municipal,
+14. _(n)_ "Public authority" includes boards of education; the Municipal,
 County, State or Federal government, its officers or an agency thereof; or any
 duly authorized public official.
 
-15. _(o)_ “Public place” includes any street, sidewalk, park, cemetery, school
+15. _(o)_ "Public place" includes any street, sidewalk, park, cemetery, school
 yard, body of water or watercourse, public conveyance, or any other place for
 the sale of merchandise, public accommodation or amusement.
 
-16. _(p)_ “Registered mail” includes certified mail and “certified mail"
+16. _(p)_ "Registered mail" includes certified mail and "certified mail"
 includes registered mail.  
 (ORC 1.02(G))
 
-17. _(q)_ “Rule” includes regulation.  
+17. _(q)_ "Rule" includes regulation.  
 (ORC 1.59(F))
 
-18. _(r)_ “Sidewalk” means that portion of the street between the curb line and
+18. _(r)_ "Sidewalk" means that portion of the street between the curb line and
 the adjacent property line intended for the use of pedestrians.
 
-19. _(s)_ “This State” or “the State” means the State of Ohio.  
+19. _(s)_ "This State" or "the State" means the State of Ohio.  
 (ORC 1.59(G))
 
-20. _(t)_ “Street” includes alleys, avenues, boulevards, lanes, roads, highways,
+20. _(t)_ "Street" includes alleys, avenues, boulevards, lanes, roads, highways,
 viaducts and all other public thoroughfares within the Municipality.
 
-21. _(u)_ “Tenant” or “occupant", as applied to premises, includes any person
+21. _(u)_ "Tenant" or "occupant", as applied to premises, includes any person
 holding a written or oral lease, or who actually occupies the whole or any part
 of such premises, alone or with others.
 
-22. _(v)_ “Whoever” includes all persons, natural and artificial; partners;
+22. _(v)_ "Whoever" includes all persons, natural and artificial; partners;
 principals, agents and employees; and all officials, public or private.  
 (ORC 1.02(A))
 
-23. _(w)_ “Written” or “in writing” includes any representation of words,
+23. _(w)_ "Written" or "in writing" includes any representation of words,
 letters, symbols or figures. This provision does not affect any law relating to
 signatures.  
 (ORC 1.59(J))
@@ -151,9 +151,9 @@ Ordinances, unless the context otherwise requires:
 
     1. _(1)_ Definitions.
 
-        1. _(A)_ “Week” means seven consecutive days.
+        1. _(A)_ "Week" means seven consecutive days.
 
-        2. _(B)_ “Year” means twelve consecutive months.  
+        2. _(B)_ "Year" means twelve consecutive months.  
         (ORC 1.44)
 
     2. _(2)_ If a number of months is to be computed by counting the months from

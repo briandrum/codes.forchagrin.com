@@ -79,7 +79,7 @@ No violations of law or disorderly conduct shall be permitted at public dances
 or dance halls. Any permit or license issued under the terms of this chapter may
 be revoked by the Mayor for violation of this section, after giving all parties
 an opportunity to be heard. The decision of the Mayor may be appealed to
-Council, provided such appeal is perfected within ten days of the Mayor’s
+Council, provided such appeal is perfected within ten days of the Mayor's
 decision. The decision of Council shall be final.
 
 ## 733.06   Police attendance at dances; costs

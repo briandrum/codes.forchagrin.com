@@ -21,7 +21,7 @@ title: "Chapter 517: Gambling"
 * [517.11   Bingo or game of chance records](#51711-bingo-or-game-of-chance-records)
 * [517.12   Bingo operator prohibitions](#51712-bingo-operator-prohibitions)
 * [517.13   Bingo exceptions](#51713-bingo-exceptions)
-* [517.14   Instant bingo conduct by a veteran’s or fraternal organization](#51714-instant-bingo-conduct-by-a-veterans-or-fraternal-organization)
+* [517.14   Instant bingo conduct by a veteran's or fraternal organization](#51714-instant-bingo-conduct-by-a-veterans-or-fraternal-organization)
 * [517.15   Skill-based amusement machines](#51715-skill-based-amusement-machines)
 * [517.99   Penalty](#51799-penalty)
 
@@ -48,7 +48,7 @@ R.C. Chapter 3772, lottery unless authorized under Ohio R.C. Chapter 3770,
 numbers game, pool conducted for profit, or other scheme in which a participate
 gives a valuable consideration for a chance to win a prize, but does not include
 bingo, a skill-based amusement machine, or a pool not conducted for profit.
-“Scheme of chance” includes the use of an electronic device to reveal the
+"Scheme of chance" includes the use of an electronic device to reveal the
 results of a game entry if valuable consideration is paid, directly or
 indirectly, for a chance to win a prize. Valuable consideration is deemed to be
 paid for a chance to win a prize in the following instances:
@@ -63,7 +63,7 @@ paid for a chance to win a prize in the following instances:
 
     3. _(3)_ More than fifty per cent of prizes at any one location are revealed
     to participants through an electronic device simulating a game of chance or
-    a “casino game” as defined in Ohio R.C. 3772.01;
+    a "casino game" as defined in Ohio R.C. 3772.01;
 
     4. _(4)_ The good or service sold by a scheme of chance operator in exchange
     for a game entry cannot be used or redeemed in the manner advertised;
@@ -83,17 +83,17 @@ paid for a chance to win a prize in the following instances:
 
     9. _(9)_ A participant makes a purchase or exchange in order to obtain any
     good or service that may be used to facilitate play on the electronic
-    device. As used in this subsection, “electronic device” means a mechanical,
+    device. As used in this subsection, "electronic device" means a mechanical,
     video, digital or electronic machine or device that is capable of displaying
     information on a screen or other mechanism and that is owned, leased or
     otherwise possessed by any person conducting a scheme of chance, or by that
-    person’s partners, affiliates, subsidiaries or contractors.
+    person's partners, affiliates, subsidiaries or contractors.
 
 4. _(d)_ "Game of chance" means poker, craps, roulette, or other game in which a
 player gives anything of value in the hope of gain, the outcome of which is
 determined largely by chance, but does not include bingo.
 
-5. _(e)_ "Game of chance conducted for profit” means any game of chance designed
+5. _(e)_ "Game of chance conducted for profit" means any game of chance designed
 to produce income for the person who conducts or operates the game of chance,
 but does not include bingo.
 
@@ -137,8 +137,8 @@ means either of the following:
     organization is, exempt from federal income taxation under subsection 501(a)
     and described in subsection 501(c)(3) of the Internal Revenue Code;
 
-    2. _(2)_ A volunteer rescue service organization, volunteer firefighter’s
-    organization, veteran’s organization, fraternal organization, or sporting
+    2. _(2)_ A volunteer rescue service organization, volunteer firefighter's
+    organization, veteran's organization, fraternal organization, or sporting
     organization that is exempt from federal, income taxation under subsection
     501 (c)(4), (c)(7), (c)(8), (c)(10) or (c)(19) of the Internal Revenue Code.
     To qualify as a charitable organization, an organization shall have been in
@@ -151,22 +151,22 @@ means either of the following:
 group that is not organized or operated for profit, that gathers in common
 membership for regular worship and religious observances.
 
-10. _(j)_ "Veteran’s organization" means any individual post or state
-headquarters of a national veteran’s association or an auxiliary unit of any
-individual post of a national veteran’s association, which post, state
+10. _(j)_ "Veteran's organization" means any individual post or state
+headquarters of a national veteran's association or an auxiliary unit of any
+individual post of a national veteran's association, which post, state
 headquarters, or auxiliary unit is incorporated as a nonprofit corporation and
 either has received a letter from the state headquarters of the national
-veteran’s association indicating that the individual post or auxiliary unit is
-in good standing with the national veteran’s association or has received a
-letter from the national veteran’s association indicating that the state
-headquarters is in good standing with the national veteran’s association. As
-used in this subsection, “national veteran’s association” means any veteran’s
+veteran's association indicating that the individual post or auxiliary unit is
+in good standing with the national veteran's association or has received a
+letter from the national veteran's association indicating that the state
+headquarters is in good standing with the national veteran's association. As
+used in this subsection, "national veteran's association" means any veteran's
 association that has been in continuous existence as such for a period of at
 least five years and either is incorporated by an act of the United States
 congress or has a national dues-paying membership of at least five thousand
 persons.
 
-11. _(k)_ "Volunteer firefighter’s organization" means any organization of
+11. _(k)_ "Volunteer firefighter's organization" means any organization of
 volunteer firefighters, as defined in Ohio R.C. 146.01, that is organized and
 operated exclusively to provide financial support for a volunteer fire
 department or a volunteer fire company and that is recognized or ratified by a
@@ -265,11 +265,11 @@ following apply:
 
 21. _(u)_ "Security personnel" includes any person who either is a sheriff,
 deputy sheriff, marshal, deputy marshal, township constable, or a police officer
-of a municipal corporation or has successfully completed a peace officer’s
+of a municipal corporation or has successfully completed a peace officer's
 training course pursuant to Ohio R.C. 109.71 to 109.79 and who is hired to
 provide security for the premises on which bingo is conducted.
 
-22. _(v)_ “Charitable purpose" means that the net profit of bingo, other than
+22. _(v)_ "Charitable purpose" means that the net profit of bingo, other than
 instant bingo, is used by, or is given, donated, or otherwise transferred to,
 any of the following:
 
@@ -278,7 +278,7 @@ any of the following:
     unit or an organization that is tax exempt under subsection 501(a) and
     described in subsection 501(c)(3) of the Internal Revenue Code;
 
-    2. _(2)_ A veteran’s organization that is a post, chapter, or organization
+    2. _(2)_ A veteran's organization that is a post, chapter, or organization
     of veterans, or an auxiliary unit or society of, or a trust or foundation
     for, any such post, chapter, or organization organized in the United States
     or any of its possessions, at least seventy-five per cent of the members of
@@ -302,7 +302,7 @@ any of the following:
     use would qualify as a deductible charitable contribution under subsection
     170 of the Internal Revenue Code;
 
-    4. _(4)_ A volunteer firefighter’s organization that uses the net profit for
+    4. _(4)_ A volunteer firefighter's organization that uses the net profit for
     the purposes set forth in subsection (k) of this section.
 
 23. _(w)_ "Internal Revenue Code" means the Internal Revenue Code of 1986, 100
@@ -343,29 +343,29 @@ are not gambling devices if sold or otherwise provided, and used, in accordance
 with this chapter. For purposes of this chapter, "bingo supplies" are not to be
 considered equipment used to conduct a bingo game.
 
-27. _(aa)_ “Instant bingo" means a form of bingo that shall use folded or banded
+27. _(aa)_ "Instant bingo" means a form of bingo that shall use folded or banded
 tickets or paper cards with perforated break-open tabs, a face of which is
 covered or otherwise hidden from view to conceal a number, letter, or symbol, or
 set of numbers, letters, or symbols, some of which have been designated in
 advance as prize winners, and may also include games in which some winners are
 determined by the random selection of one or more bingo numbers by the use of a
-seal card or bingo blower. In all “instant bingo” the prize amount and structure
+seal card or bingo blower. In all "instant bingo" the prize amount and structure
 shall be predetermined. "Instant bingo" does not include any device that is
 activated by the insertion of a coin, currency, token, or an equivalent, and
 that contains as one of its components a video display monitor that is capable
 of displaying numbers, letters, symbols, or characters in winning or losing
 combinations.
 
-28. _(bb)_ “Seal card" means a form of instant bingo that uses instant bingo
+28. _(bb)_ "Seal card" means a form of instant bingo that uses instant bingo
 tickets in conjunction with a board or placard that contains one or more seals
 that, when removed or opened, reveal predesignated winning numbers, letters, or
 symbols.
 
-29. _(cc)_ “Raffle" means a form of bingo in which the one or more prizes are
+29. _(cc)_ "Raffle" means a form of bingo in which the one or more prizes are
 won by one or more persons who have purchased a raffle ticket. The one or more
 winners of the raffle are determined by drawing a ticket stub or other
 detachable section from a receptacle containing ticket stubs or detachable
-sections corresponding to all tickets sold for the raffle. “Raffle” does not
+sections corresponding to all tickets sold for the raffle. "Raffle" does not
 include the drawing of a ticket stub or other detachable section of a ticket
 purchased to attend a professional sporting event if both of the following
 apply:
@@ -415,7 +415,7 @@ expended for all of the following:
     10. _(10)_ Tables and chairs;
 
     11. _(11)_ Expenses for maintaining and operating a charitable
-    organization’s facilities, including, but not limited to, a post home, club
+    organization's facilities, including, but not limited to, a post home, club
     house, lounge, tavern, or canteen and any grounds attached to the post home,
     club house, lounge, tavern, or canteen;
 
@@ -426,14 +426,14 @@ expended for all of the following:
     bingo that is authorized in rules adopted by the Attorney General under
     division (B)(1) of Ohio R.C. 2915.08.
 
-34. _(hh)_ “Person" has the same meaning as in Ohio R.C. 1.59 and includes any
+34. _(hh)_ "Person" has the same meaning as in Ohio R.C. 1.59 and includes any
 firm or any other legal entity, however organized.
 
-35. _(ii)_ “Revoke" means to void permanently all rights and privileges of the
+35. _(ii)_ "Revoke" means to void permanently all rights and privileges of the
 holder of a license issued under Ohio R.C. 2915.08, 2915.081, or 2915.082 or a
 charitable gaming license issued by another jurisdiction.
 
-36. _(jj)_ “Suspend" means to interrupt temporarily all rights and privileges of
+36. _(jj)_ "Suspend" means to interrupt temporarily all rights and privileges of
 the holder of a license issued under Ohio R.C. 2915.08, 2915.081, or 2915.082 or
 a charitable gaming license issued by another jurisdiction.
 
@@ -451,7 +451,7 @@ supplies from raw materials, other items, or subparts or who modifies, converts,
 adds to, or removes parts from bingo supplies to further their promotion or
 sale.
 
-39. _(mm)_ “Gross annual revenues" means the annual gross receipts derived from
+39. _(mm)_ "Gross annual revenues" means the annual gross receipts derived from
 the conduct of bingo described in subsection (o)(1) of this section plus the
 annual net profit derived from the conduct of bingo described in subsection (o)
 (2) of this section.
@@ -497,12 +497,12 @@ and that has the following characteristics:
     2. _(2)_ "Electronic bingo aid" does not include any device into which a
     coin, currency, token, or an equivalent is inserted to activate play.
 
-42. _(pp)_ “Deal of instant bingo tickets" means a single game of instant bingo
+42. _(pp)_ "Deal of instant bingo tickets" means a single game of instant bingo
 tickets all with the same serial number.
 
 43. _(qq)_
 
-    1. "Slot machine” means either of the following:
+    1. "Slot machine" means either of the following:
 
         1. _(A)_ Any mechanical, electronic, video, or digital device that is
         capable of accepting anything of value, directly or indirectly, from or
@@ -512,13 +512,13 @@ tickets all with the same serial number.
         capable of accepting anything of value, directly or indirectly, from or
         on behalf of a player to conduct bingo or a scheme or game of chance.
 
-    2. _(2)_ “Slot machine” does not include a skill-based amusement machine or
+    2. _(2)_ "Slot machine" does not include a skill-based amusement machine or
     an instant bingo ticket dispenser.
 
-44. _(rr)_ “Net profit from the proceeds of the sale of instant bingo" means
+44. _(rr)_ "Net profit from the proceeds of the sale of instant bingo" means
 gross profit minus the ordinary, necessary, and reasonable expense expended for
 the purchase of instant bingo supplies, and, in the case of instant bingo
-conducted by a veteran’s, fraternal or sporting organization, minus the payment
+conducted by a veteran's, fraternal or sporting organization, minus the payment
 by that organization of real property taxes, and assessments levied on a
 premises on which instant bingo is conducted.
 
@@ -528,18 +528,18 @@ subsection 501(c)(3) of the Internal Revenue Code and is a charitable
 organization as defined in this section. A "charitable instant bingo
 organization" does not include a charitable organization that is exempt from
 federal income taxation under subsection 501(a) and described in subsection 501
-(c)(3) of the Internal Revenue Code and that is created by a veteran’s
+(c)(3) of the Internal Revenue Code and that is created by a veteran's
 organization, a fraternal organization, or a sporting organization in regards to
-bingo conducted or assisted by a veteran’s organization, a fraternal
+bingo conducted or assisted by a veteran's organization, a fraternal
 organization, or a sporting organization pursuant to Ohio R.C. 2915.13.
 
-46. _(tt)_ “Game flare” means the board or placard that accompanies each deal of
+46. _(tt)_ "Game flare" means the board or placard that accompanies each deal of
 instant bingo tickets and that has printed on or affixed to it the following
 information for the game:
 
     1. _(1)_ The name of the game;
 
-    2. _(2)_ The manufacturer’s name or distinctive logo;
+    2. _(2)_ The manufacturer's name or distinctive logo;
 
     3. _(3)_ The form number;
 
@@ -555,7 +555,7 @@ information for the game:
 
 47. _(uu)_
 
-    1. “Skill-based amusement machine” means mechanical, video, digital, or
+    1. "Skill-based amusement machine" means mechanical, video, digital, or
     electronic device that rewards the player or players, if at all, only with
     merchandise prizes or with redeemable vouchers redeemable only for
     merchandise prizes, provided that with respect to rewards for playing the
@@ -591,7 +591,7 @@ information for the game:
         game.
 
         2. _(B)_ Any reward of redeemable vouchers is not based solely on the
-        player achieving the object of the game or the player’s score;
+        player achieving the object of the game or the player's score;
 
         3. _(C)_ The outcome of the game, or the value of the redeemable voucher
         or merchandise prize awarded for winning the game, can be controlled by
@@ -609,7 +609,7 @@ information for the game:
     3. _(3)_ All of the following apply to any machine that is operated as
     described in subsection (uu)(1) of this section:
 
-        1. _(A)_ As used in subsection (uu) of this section, “game” and “play”
+        1. _(A)_ As used in subsection (uu) of this section, "game" and "play"
         mean one event from the initial activation of the machine until the
         results of play are determined without payment of additional
         consideration. An individual utilizing a machine that involves a single
@@ -633,7 +633,7 @@ information for the game:
     mechanism, that does not contribute to or affect the outcome of the play of
     the game does not make the device a skill-based amusement machine.
 
-48. _(vv)_ “Merchandise prize” means any item of value, but shall not include
+48. _(vv)_ "Merchandise prize" means any item of value, but shall not include
 any of the following:
 
     1. _(1)_ Cash, gift cards, or any equivalent thereof;
@@ -646,28 +646,28 @@ any of the following:
     4. _(4)_ A redeemable voucher that is redeemable for any of the items listed
     in subsection (vv)(1), (2) or (3) of this section.
 
-49. _(ww)_ “Redeemable voucher” means any ticket, token, coupon, receipt, or
+49. _(ww)_ "Redeemable voucher" means any ticket, token, coupon, receipt, or
 other noncash representation of value.
 
-50. _(xx)_ “Pool not conducted for profit” means a scheme in which a participant
+50. _(xx)_ "Pool not conducted for profit" means a scheme in which a participant
 gives a valuable consideration for a chance to win a prize and the total amount
 of consideration wagered is distributed to a participant or participants.
 
-51. _(yy)_ “Sporting organization” means a hunting, fishing or trapping
+51. _(yy)_ "Sporting organization" means a hunting, fishing or trapping
 organization, other than a college or high school fraternity or sorority, that
 is not organized for profit, that is affiliated with a state or national
 sporting organization, including but not limited to, the league of Ohio
 sportsmen, and that has been in continuous existence in this State for a period
 of three years.
 
-52. _(zz)_ “Community action agency” has the same meaning as in Ohio R.C.
+52. _(zz)_ "Community action agency" has the same meaning as in Ohio R.C.
 122.66.
 
 53. _(aaa)_
 
-    1. “Sweepstakes terminal device” means a mechanical, video, digital or
+    1. "Sweepstakes terminal device" means a mechanical, video, digital or
     electronic machine or device that is owned, leased or otherwise possessed by
-    any person conducting a sweepstakes, or by that person’s partners,
+    any person conducting a sweepstakes, or by that person's partners,
     affiliates, subsidiaries, or contractors, that is intended to be used by a
     sweepstakes participant, and that is capable of displaying information on a
     screen or other mechanism. A device is a sweepstakes terminal device if any
@@ -700,26 +700,26 @@ of three years.
 
     2. _(2)_ As used in this subsection and in Section 517.02:
 
-        1. _(A)_ “Enter” means the act by which a person becomes eligible to
+        1. _(A)_ "Enter" means the act by which a person becomes eligible to
         receive any prize offered in a sweepstakes.
 
-        2. _(B)_ “Entry” means one event from the initial activation of the
+        2. _(B)_ "Entry" means one event from the initial activation of the
         sweepstakes terminal device until all of the sweepstakes prize results
         from that activation are revealed.
 
-        3. _(C)_ “Prize” means any gift, award, gratuity, good, service, credit,
+        3. _(C)_ "Prize" means any gift, award, gratuity, good, service, credit,
         reward or any other thing of value that may be transferred to a person,
         whether possession of the prize is actually transferred, or placed on an
         account or other record as evidence of the intent to transfer the prize.
 
-        4. _(D)_ “Sweepstakes terminal device facility” means any location in
+        4. _(D)_ "Sweepstakes terminal device facility" means any location in
         this Municipality where a sweepstakes terminal device is provided to a
         sweepstakes participant, except as provided in Ohio R.C. 2915.02(G).
 
-54. _(bbb)_ “Sweepstakes” means any game, contest, advertising scheme or plan,
+54. _(bbb)_ "Sweepstakes" means any game, contest, advertising scheme or plan,
 or other promotion where consideration is not required for a person to enter to
 win or become eligible to receive any prize, the determination of which is based
-upon chance. “Sweepstakes” does not include bingo as authorized under this
+upon chance. "Sweepstakes" does not include bingo as authorized under this
 chapter, pari-mutuel wagering as authorized by Ohio R.C. Chapter 3769, lotteries
 conducted by the State Lottery Commission as authorized by Ohio R.C. Chapter
 3770, and casino gaming as authorized by Ohio R.C. Chapter 3772.  
@@ -761,8 +761,8 @@ conducted by the State Lottery Commission as authorized by Ohio R.C. Chapter
 
     6. _(6)_ Conduct, or participate in the conduct of, a sweepstakes with the
     use of a sweepstakes terminal device at a sweepstakes terminal device
-    facility without first obtaining a current annual “certificate of
-    registration” from the Attorney General as required by division (F) of Ohio
+    facility without first obtaining a current annual "certificate of
+    registration" from the Attorney General as required by division (F) of Ohio
     R.C. 2915.02.
 
     7. _(7)_ With purpose to violate subsection (a)(1), (2), (3), (4), (5) or
@@ -801,15 +801,15 @@ expressly permitted by law.
         charitable organization for a period of no less than one year
         immediately preceding the conducting of the games of chance, on premises
         leased from a governmental unit, or on premises that are leased from a
-        veteran’s or fraternal organization and that have been owned by the
-        lessor veteran’s or fraternal organization for a period of no less than
+        veteran's or fraternal organization and that have been owned by the
+        lessor veteran's or fraternal organization for a period of no less than
         one year immediately preceding the conducting of the games of chance. A
-        charitable organization shall not lease premises from a veteran’s or
+        charitable organization shall not lease premises from a veteran's or
         fraternal organization to conduct a festival described in subsection (d)
-        (1)C. hereof if the veteran’s or fraternal organization has already
+        (1)C. hereof if the veteran's or fraternal organization has already
         leased the premises twelve times during the preceding year to charitable
         organizations for that purpose. If a charitable organization leases
-        premises from a veteran’s or fraternal organization to conduct a
+        premises from a veteran's or fraternal organization to conduct a
         festival described in subsection (d)(1)C. hereof, the charitable
         organization shall not pay a rental rate for the premises per day of the
         festival that exceeds the rental rate per bingo session that a
@@ -998,14 +998,14 @@ Section 517.01(o)(1) shall do any of the following:
 
     4. _(4)_ Except as otherwise provided in subsection (c)(4) of this section,
     conduct more than three bingo sessions in any seven-day period. A volunteer
-    firefighter’s organization or a volunteer rescue service organization that
+    firefighter's organization or a volunteer rescue service organization that
     conducts not more than five bingo sessions in a calendar year may conduct
     more than three bingo sessions in a seven-day period after notifying the
     Attorney General when it will conduct the sessions;
 
     5. _(5)_ Pay out more than six thousand dollars ($6,000) in prizes for bingo
     games described in Section 517.01(o)(1) during any bingo session that is
-    conducted by the charitable organization. “Prizes” does not include awards
+    conducted by the charitable organization. "Prizes" does not include awards
     from the conduct of instant bingo;
 
     6. _(6)_ Conduct a bingo session at any time during the eight-hour period
@@ -1104,9 +1104,9 @@ Section 517.01(o)(1) shall do any of the following:
     instant bingo other than at a bingo session.
 
     3. _(3)_ Nothing in subsection (d) hereof prohibits an employee of a
-    fraternal organization, veteran’s organization, or sporting organization
-    from selling instant bingo tickets or cards to the organization’s members or
-    invited guests, as long as no portion of the employee’s compensation is paid
+    fraternal organization, veteran's organization, or sporting organization
+    from selling instant bingo tickets or cards to the organization's members or
+    invited guests, as long as no portion of the employee's compensation is paid
     from any receipts of bingo.
 
 5. _(e)_ Notwithstanding subsection (b)(1) of this section, a charitable
@@ -1166,12 +1166,12 @@ the following:
         Revenue Service a determination letter that is currently in effect
         stating that the organization is, exempt from federal income taxation
         under subsection 501(a), is described in subsection 501(c)(8),
-        501(c)(10), or 501(c)(19) or is a veteran’s organization described in
+        501(c)(10), or 501(c)(19) or is a veteran's organization described in
         subsection 501(c)(4) of the Internal Revenue Code, and conducts instant
         bingo under Section 517.14.
 
     3. _(3)_ Conduct instant bingo on any day, at any time, or at any premises
-    not specified on the organization’s license issued pursuant to Ohio R.C.
+    not specified on the organization's license issued pursuant to Ohio R.C.
     2915.08;
 
     4. _(4)_ Permit any person whom the organization knows or should have known
@@ -1258,7 +1258,7 @@ State law.
 
     1. _(1)_ Subject to subsection (a)(2) of this section, a charitable
     organization, a public school, a chartered nonpublic school, a community
-    school, or a veteran’s organization, fraternal organization, or sporting
+    school, or a veteran's organization, fraternal organization, or sporting
     organization that is exempt from federal income taxation under subsection
     501 (a) and is described in subsection 501(c)(3), 501(c)(4), 501(c)(7),
     501(c)(8), 501(c)(10), or 501(c)(19) of the Internal Revenue Code may
@@ -1332,14 +1332,14 @@ the deal of instant bingo tickets.
     The charitable instant bingo organization shall pay six per cent of the
     total gross receipts of any deal of instant bingo tickets for the purpose of
     reimbursing the owner or lessor for expenses described in this subsection.
-    As used in this subsection, “expenses” means those items provided for in
+    As used in this subsection, "expenses" means those items provided for in
     subsections (gg)(4), (5), (6), (7), (8), (12) and (13) of Section 517.01 and
-    that percentage of the owner’s or lessor’s rent for the location where
-    instant bingo is conducted. “Expenses” in the aggregate, shall not exceed
+    that percentage of the owner's or lessor's rent for the location where
+    instant bingo is conducted. "Expenses" in the aggregate, shall not exceed
     six per cent of the total gross receipts of any deal of instant bingo
     tickets.  
 
-    As used in this subsection, “full gross profit” means the amount by which
+    As used in this subsection, "full gross profit" means the amount by which
     the total receipts of all instant bingo tickets, if the deal had been sold
     in full, exceeds the amount that would be paid out if all prizes were
     redeemed.
@@ -1360,7 +1360,7 @@ General with all of the following information:
     that is in violation of this chapter or Ohio R.C. Chapter 2915.
 
 6. _(f)_ Subsection (c) of this section does not apply to a volunteer
-firefighter’s organization that is exempt from federal income taxation under
+firefighter's organization that is exempt from federal income taxation under
 subsection 501(a) and described in subsection 501(c)(3) of the Internal Revenue
 Code, that conducts instant bingo other than at a bingo session on the premises
 where the organization conducts firefighter training, that has conducted instant
@@ -1401,8 +1401,8 @@ contract.
 
     2. _(2)_ If an owner or lessor of a location knowingly, intentionally, or
     recklessly violates subsection (c) or (d) of this section, any license that
-    the owner or lessor holds for the retail sale of any goods on the owner’s or
-    lessor’s premises that is issued by the State or a political subdivision is
+    the owner or lessor holds for the retail sale of any goods on the owner's or
+    lessor's premises that is issued by the State or a political subdivision is
     subject to suspension, revocation, or payment of a monetary penalty at the
     request of the Attorney General.  
     (ORC 2915.094)
@@ -1646,23 +1646,23 @@ section if the local law enforcement agency gives written notice to the Attorney
 General when commencing the action.  
 (ORC 2915.12)
 
-## 517.14   Instant bingo conduct by a veteran’s or fraternal organization
+## 517.14   Instant bingo conduct by a veteran's or fraternal organization
 
-1. _(a)_ A veteran’s organization, a fraternal organization, or a sporting
+1. _(a)_ A veteran's organization, a fraternal organization, or a sporting
 organization authorized to conduct a bingo session pursuant to Ohio R.C. 2915.01
 to 2915.12 may conduct instant bingo other than at a bingo session if all of the
 following apply:
 
-    1. _(1)_ The veteran’s organization, fraternal organization or sporting
+    1. _(1)_ The veteran's organization, fraternal organization or sporting
     organization limits the sale of instant bingo to twelve hours during any
     day, provided that the sale does not begin earlier than ten a.m. and ends
     not later than two a.m.
 
-    2. _(2)_ The veteran’s organization, fraternal organization or a sporting
+    2. _(2)_ The veteran's organization, fraternal organization or a sporting
     organization limits the sale of instant bingo to its own premises and to its
     own members and invited guests.
 
-    3. _(3)_ The veteran’s organization, fraternal organization, or sporting
+    3. _(3)_ The veteran's organization, fraternal organization, or sporting
     organization is raising money for an organization that is described in
     subsection 509(a)(1), 509(a)(2), or 509(a)(3) of the Internal Revenue Code
     and is either a governmental unit or an organization that maintains its
@@ -1672,14 +1672,14 @@ following apply:
     State and executes a written contract with that organization as required in
     subsection (b) of this section.
 
-2. _(b)_ If a veteran’s organization, fraternal organization, or sporting
+2. _(b)_ If a veteran's organization, fraternal organization, or sporting
 organization authorized to conduct instant bingo pursuant to subsection (a) of
 this section is raising money for another organization that is described in
 subsection 509(a)(1), 509(a)(2), or 509(a)(3) of the Internal Revenue Code and
 is either a governmental unit or an organization that maintains its principal
 place of business in this State, that is exempt from federal income taxation
 under subsection 501(a) and described in subsection 501(c)(3) of the Internal
-Revenue Code, and that is in good standing in this State, the veteran’s
+Revenue Code, and that is in good standing in this State, the veteran's
 organization, fraternal organization, or sporting organization shall execute a
 written contract with the organization that is described in subsection 509(a)
 (1), 509(a)(2), or 509(a)(3) of the Internal Revenue Code and is either a
@@ -1688,7 +1688,7 @@ business in this State, that is exempt from federal income taxation under
 subsection 501(a) and described in subsection 501(c)(3) of the Internal Revenue
 Code, and that is in good standing in this State in order to conduct instant
 bingo. That contract shall include a statement of the percentage of the net
-proceeds that the veteran’s, fraternal or sporting organization will be
+proceeds that the veteran's, fraternal or sporting organization will be
 distributing to the organization that is described in subsection 509(a)(1), 509
 (a)(2) or 509(a)(3) of the Internal Revenue Code and is either a governmental
 unit or an organization that maintains its principal place of business in this
@@ -1698,22 +1698,22 @@ good standing in this State.
 
 3. _(c)_
 
-    1. _(1)_ If a veteran’s organization, fraternal organization or a sporting
+    1. _(1)_ If a veteran's organization, fraternal organization or a sporting
     organization authorized to conduct instant bingo pursuant to subsection (a)
     of this section has been issued a liquor permit under Ohio R.C. Chapter
     4303, that permit may be subject to suspension, revocation, or cancellation
-    if the veteran’s organization, fraternal organization, or a sporting
+    if the veteran's organization, fraternal organization, or a sporting
     organization violates a provision of this chapter or Ohio R.C. Chapter 2915.
 
-    2. _(2)_ No veteran’s organization, fraternal organization, or a sporting
+    2. _(2)_ No veteran's organization, fraternal organization, or a sporting
     organization that enters into a written contract pursuant to subsection (b)
     of this section shall violate any provision of this chapter or Ohio R.C.
     Chapter 2915, or permit, aid, or abet any other person in violating any
     provision of this chapter or Ohio R.C. Chapter 2915.
 
-4. _(d)_ A veteran’s organization, fraternal organization, or a sporting
+4. _(d)_ A veteran's organization, fraternal organization, or a sporting
 organization shall give all required proceeds earned from the conduct of instant
-bingo to the organization with which the veteran’s organization, fraternal
+bingo to the organization with which the veteran's organization, fraternal
 organization, or a sporting organization has entered into a written contract.
 
 5. _(e)_ Whoever violates this section is guilty of illegal instant bingo
@@ -1748,5 +1748,5 @@ this chapter and Ohio R.C. Chapter 2915 and not by Ohio R.C. Chapter 1345.
 
 ## 517.99   Penalty
 
-(Editor’s note: See Section 501.99  for penalties applicable to any misdemeanor
+(Editor's note: See Section 501.99  for penalties applicable to any misdemeanor
 classification.)

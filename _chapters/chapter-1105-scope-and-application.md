@@ -172,7 +172,7 @@ Zoning Code as amended as a whole or any other part thereof.
 
 Whenever the Council, any board, commission, Village Engineer, Chief
 Administrative Officer, Administrator, or Building Inspector (collectively
-“Approving Authority”) has been delegated the power to approve plans, issue
+"Approving Authority") has been delegated the power to approve plans, issue
 permits, for improvements, development, construction, reconstruction, or
 renovation of land, buildings and structures as provided for in the Planning and
 Zoning Code, such Approving Authority may impose conditions, so long as such

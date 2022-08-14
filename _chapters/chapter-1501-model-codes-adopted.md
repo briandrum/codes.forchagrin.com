@@ -154,13 +154,13 @@ Code which in his judgment shall be desirable.
 
 ## 1501.03   Definitions
 
-1. _(a)_ Wherever the word “Municipality” is used in the Fire Prevention Code,
+1. _(a)_ Wherever the word "Municipality" is used in the Fire Prevention Code,
 it means the Village of Chagrin Falls, Ohio.
 
-2. _(b)_ Wherever the term “Corporation Counsel” is used in the Fire Prevention
+2. _(b)_ Wherever the term "Corporation Counsel" is used in the Fire Prevention
 Code, it means the Director of Law of the Village.
 
-3. _(c)_ Whenever the words “Chief of the Bureau of Fire Prevention” are used in
+3. _(c)_ Whenever the words "Chief of the Bureau of Fire Prevention" are used in
 the Fire Prevention Code, they shall be held to mean Officer in Charge in the
 Bureau of Fire Prevention.  
 (Ord. 2000-76. Passed 10-9-00.)
@@ -198,7 +198,7 @@ and a signed copy shall be furnished the applicant, Mayor and Bureau of Fire
 Prevention.  
 (Ord. 1975-970. Passed 4-15-75.)
 
-Whenever any board, commission, or official (collectively “Approving Authority”)
+Whenever any board, commission, or official (collectively "Approving Authority")
 has been delegated the power to approve plans, issue permits and/or to approve
 development, construction, reconstruction or renovation of land, buildings or
 structures within the Village, such Approving Authority may impose conditions,
@@ -615,7 +615,7 @@ enclosures.
 
     3. _(3)_ The pumps shall have an adequate source of power and shall be
     supplied from street mains or from well systems or other storage systems
-    furnishing not less than one hour’s supply at the rated capacity of the
+    furnishing not less than one hour's supply at the rated capacity of the
     pump.
 
 8. _(h)_ **Testing of Standpipe Installations.**
@@ -668,7 +668,7 @@ follows:
     the lowest exposed portion of the building, whichever is less, which are
     used for storage of combustible materials, including common locker rooms,
     but no individual locker rooms within suites, shall be provided with a
-    sprinkler system connected to the building’s water supply. In the case of
+    sprinkler system connected to the building's water supply. In the case of
     storage or locker rooms with divided compartments, each locker or
     compartment shall be provided with one sprinkler head supplied with a water
     main, not less than one inch in diameter with the main size increased as may
@@ -952,7 +952,7 @@ until the excess number of persons has been removed therefrom.
 
 **Section 28.3 Smoking Prohibited Under Certain Conditions. (Amended):**
 
-1. _(a)_ “Smoking” means and includes the carrying of lighted pipe, cigar,
+1. _(a)_ "Smoking" means and includes the carrying of lighted pipe, cigar,
 cigarettes or tobacco in any form.
 
 2. _(b)_ Where conditions are such as to make smoking a hazard in any area of
@@ -960,7 +960,7 @@ warehouses, stores, industrial plants, institutions, places of assembly,
 educational occupancies or in any area where combustible materials, flammable
 liquids are stored or handled, the Officer in Charge of the Bureau of Fire
 Prevention is empowered and authorized to order the owner or occupant in writing
-to post “No Smoking” signs in each building, structure, room or place in which
+to post "No Smoking" signs in each building, structure, room or place in which
 smoking shall be prohibited.
 
     The Officer in Charge shall designate specific safe locations, if necessary,
@@ -1104,12 +1104,12 @@ case shall living be permitted in the basement thereof.
 1. _(a)_ No person, directly or through an agent, shall sell or offer for sale
 in the Municipality any make, type or model of extinguisher, either new or used,
 unless such make, type or model of extinguisher has first been tested and is
-approved and labeled by the Factory Mutual Laboratories, or Underwriter’s
+approved and labeled by the Factory Mutual Laboratories, or Underwriter's
 Laboratories, Inc., or any other testing laboratory approved by the Fire Chief,
 as providing adequate and reliable tests and examination. No person, directly or
 through an agent, shall deliver or make available for use any make, type or
 model of extinguisher which is not first tested and/or serviced as required by
-the National Fire Protection Association’s "Standard for the Installation,
+the National Fire Protection Association's "Standard for the Installation,
 Maintenance and Use of Portable Fire Extinguishers" (NFPA No. 10 and 10A).
 
 2. _(b)_ No person, directly or through an agent, shall sell or offer for sale
@@ -1158,7 +1158,7 @@ equally durable material on which the following shall appear:
 
 No person shall sell, offer or expose for sale within the Municipality any
 electrical materials, equipment, fixtures, appliances or devices which do not
-bear an Underwriter’s Laboratories or Factory Mutual seal of approval, or which
+bear an Underwriter's Laboratories or Factory Mutual seal of approval, or which
 has been declared by the Fire Chief or an inspector for the Bureau of Fire
 Prevention to be unsafe for use because of design, construction, wiring or
 assembly.

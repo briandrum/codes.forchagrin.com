@@ -225,7 +225,7 @@ as provided in those sections.
     or about existing structures now crossing streets, roads and other public
     thoroughfares in the Municipality.
 
-8. _(h)_ As used in this section, “recreational vehicle” has the same meaning as
+8. _(h)_ As used in this section, "recreational vehicle" has the same meaning as
 in Ohio R.C. 4501.01. 
 (ORC 5577.05)
 
@@ -304,11 +304,11 @@ flag or cloth not less than twelve inches square.
 semitrailer which is not connected to a commercial tractor by means of a fifth
 wheel shall be coupled with stay chains or cables to the vehicle by which it is
 being drawn. The chains or cables shall be of sufficient size and strength to
-prevent the towed vehicle’s parting from the drawing vehicle in case the drawbar
+prevent the towed vehicle's parting from the drawing vehicle in case the drawbar
 or other connection should break or become disengaged. In case of a loaded pole
 trailer, the connecting pole to the drawing vehicle shall be coupled to the
 drawing vehicle with stay chains or cables of sufficient size and strength to
-prevent the towed vehicle’s parting from the drawing vehicle.
+prevent the towed vehicle's parting from the drawing vehicle.
 
 4. _(d)_ Every trailer or semitrailer, except pole and cable trailers and pole
 and cable dollies operated by a public utility, as defined in Ohio R.C. 5727.01,
@@ -486,7 +486,7 @@ approved by the Director of Transportation:
     4. _(4)_ The type of red reflectors shall comply with such standards and
     specifications in effect on September 16, 1963, or later established by the
     Interstate Commerce Commission and must be certified as meeting such
-    standards by Underwriter’s Laboratories.
+    standards by Underwriter's Laboratories.
 
 2. _(b)_ No person shall operate at the time and under the conditions stated in
 this section any motor vehicle used in transporting flammable liquids in bulk,
