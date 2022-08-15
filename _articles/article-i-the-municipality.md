@@ -5,6 +5,11 @@ article_no: 1
 title: "Article I: The Municipality"
 ---
 
+## Sections
+
+* [Section I-1: Name](#section-i-1-name)
+* [Section I-2: Boundaries](#section-i-2-boundaries)
+
 ## Section I-1: Name
 
 The municipal corporation now existing in the County of Cuyahoga and State of

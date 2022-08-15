@@ -5,6 +5,11 @@ article_no: 2
 title: "Article II: Powers of the Municipality"
 ---
 
+## Sections
+
+* [Section II-1: Powers](#section-ii-1-powers)
+* [Section II-2: Manner of exercise](#section-ii-2-manner-of-exercise)
+
 ## Section II-1: Powers
 
 The Municipality shall have all the powers, general or special, governmental or

@@ -5,6 +5,15 @@ article_no: 9
 title: "Article IX: Nominations and Elections"
 ---
 
+## Sections
+
+* [Section IX-1: Municipal elections](#section-ix-1-municipal-elections)
+* [Section IX-2: General provision](#section-ix-2-general-provision)
+* [Section IX-3: Declaration of candidacy](#section-ix-3-declaration-of-candidacy)
+* [Section IX-4: Designation of candidates](#section-ix-4-designation-of-candidates)
+* [Section IX-5: Independent candidates](#section-ix-5-independent-candidates)
+* [Section IX-6: General provision](#section-ix-6-general-provision)
+
 ## Section IX-1: Municipal elections
 
 Regular Municipal elections shall be held on the first Tuesday after the first

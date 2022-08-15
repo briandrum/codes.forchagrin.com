@@ -5,7 +5,18 @@ article_no: 12
 title: "Article XII: General Provisions"
 ---
 
-## Section XII-1: effective date of charter
+## Sections
+
+* [Section XII-1: Effective date of charter](#section-xii-1-effective-date-of-charter)
+* [Section XII-2: Effective date of amendments](#section-xii-2-effective-date-of-amendments)
+* [Section XII-3: Continuance of present employees](#section-xii-3-continuance-of-present-employees)
+* [Section XII-4: Effect of charter on existing laws and rights](#section-xii-4-effect-of-charter-on-existing-laws-and-rights)
+* [Section XII-5: Salaries, compensation and bonds](#section-xii-5-salaries-compensation-and-bonds)
+* [Section XII-6: Conflict of interest](#section-xii-6-conflict-of-interest)
+* [Section XII-7: Effect of partial invalidity](#section-xii-7-effect-of-partial-invalidity)
+* [Section XII-8: Interpretation](#section-xii-8-interpretation)
+
+## Section XII-1: Effective date of charter
 
 The provisions of this Charter shall become effective January 1, 1963. The Mayor
 and Council elected at the November 7, 1961 Municipal election, or their
@@ -50,7 +61,7 @@ is elective, the salary shall be fixed at least thirty days prior to the last
 date for filing of nominating petitions. The Council may authorize the payment
 to any officer or employee for travel for any Municipal purpose.
 
-## Section XII-6: conflict of interest
+## Section XII-6: Conflict of interest
 
 No member of Council or any officer or employee of the Municipality shall have
 any financial interest, direct or indirect, in any contract with or sale to the
@@ -58,14 +69,14 @@ Municipality of any materials, supplies or services, or any land or interest in
 land. Any such person violating the provisions hereof shall forfeit his office
 and any such contract will be voidable at the option of Council.
 
-## Section XII-7: effect of partial invalidity
+## Section XII-7: Effect of partial invalidity
 
 A determination that any part of this Charter is invalid shall not invalidate or
 impair the force or effect of any other part thereof, except to the extent that
 such other part is wholly dependent for its operation upon the part declared
 invalid.
 
-## Section XII-8: interpretation
+## Section XII-8: Interpretation
 
 The article and section headings herein have been inserted for convenience in
 reference and are not intended to define or limit the scope of, or otherwise

@@ -5,6 +5,13 @@ article_no: 10
 title: "Article X: Initiative, Referendum and Recall"
 ---
 
+## Sections
+
+* [Section X-1: Initiative and referendum](#section-x-1-initiative-and-referendum)
+* [Section X-2: Recall](#section-x-2-recall)
+* [Section X-3: Petitions](#section-x-3-petitions)
+* [Section X-4: Rezoning-referendum](#section-x-4-rezoning-referendum)
+
 ## Section X-1: Initiative and referendum
 
 Ordinances and resolutions may be proposed by initiative petition and adopted by

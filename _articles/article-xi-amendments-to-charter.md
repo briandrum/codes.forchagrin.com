@@ -5,6 +5,11 @@ article_no: 11
 title: "Article XI: Amendments to Charter"
 ---
 
+## Sections
+
+* [Section XI-1: Procedure](#section-xi-1-procedure)
+* [Section XI-2: Charter review](#section-xi-2-charter-review)
+
 ## Section XI-1: Procedure
 
 The Charter may be amended as provided by Article XVIII, Section 9, of the

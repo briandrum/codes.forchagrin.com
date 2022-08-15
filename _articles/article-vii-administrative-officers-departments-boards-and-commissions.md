@@ -5,6 +5,19 @@ article_no: 7
 title: "Article VII: Administrative Officers, Departments, Boards and Commissions"
 ---
 
+## Sections
+
+* [Section VII-1: General provisions](#section-vii-1-general-provisions)
+* [Section VII-2: Police and fire officers](#section-vii-2-police-and-fire-officers)
+* [Section VII-3: Director of Law](#section-vii-3-director-of-law)
+* [Section VII-4: Planning and Zoning Commission](#section-vii-4-planning-and-zoning-commission)
+* [Section VII-5: Board of Zoning Appeals](#section-vii-5-board-of-zoning-appeals)
+* [Section VII-6: Civil Service Commission](#section-vii-6-civil-service-commission)
+* [Section VII-7: Board of Cemetery Trustees](#section-vii-7-board-of-cemetery-trustees)
+* [Section VII-8: Municipal Engineer](#section-vii-8-municipal-engineer)
+* [Section VII-9: Architectural Board of Review](#section-vii-9-architectural-board-of-review)
+* [Section VII-10: Removal of members of the Planning and Zoning Commission, Board of Zoning Appeals, and Architectural Board of Review](#section-vii-10-removal-of-members-of-the-planning-and-zoning-commission-board-of-zoning-appeals-and-architectural-board-of-review)
+
 ## Section VII-1: General provisions
 
 The Municipality shall have a Department of Finance, a Department of Public
@@ -50,7 +63,7 @@ general laws of the State of Ohio for the removal of Village police and fire
 officers.  
 (Amended 11-3-81)
 
-## Section VII-3: Director of law
+## Section VII-3: Director of Law
 
 The Director of Law shall be chief legal officer of the Municipality and shall
 be appointed by the Mayor, subject to confirmation by a majority vote of the
@@ -66,7 +79,7 @@ directed by the Mayor. No person shall act as Director of Law unless duly
 admitted to practice law in the State of Ohio.  
 (Amended 11-6-01)
 
-## Section VII-4: Planning and zoning commission
+## Section VII-4: Planning and Zoning Commission
 
 There is hereby created a Planning and Zoning Commission which shall consist of
 one member of Council elected by the Council annually and four electors of the
@@ -100,7 +113,7 @@ prescribed by ordinance of Council or by the laws of Ohio to the extent they are
 not inconsistent with this Charter or such ordinances.  
 (Amended 11-3-81; 11-4-86; 11-8-16; 11-6-18)
 
-## Section VII-5: Board of zoning appeals
+## Section VII-5: Board of Zoning Appeals
 
 There is hereby created a Board of Zoning Appeals which shall consist of one (1)
 member of Council elected by the Council annually, who shall not hold any office
@@ -127,7 +140,7 @@ Such Board shall have such other duties and functions as may be provided by
 ordinance of Council.  
 (Amended 11-6-07; 11-8-16; 11-6-18)
 
-## Section VII-6: Civil service commission
+## Section VII-6: Civil Service Commission
 
 At such time as the Municipality shall become a City, Council shall, and prior
 to that time may, by ordinance provide for and establish a Civil Service
@@ -155,12 +168,12 @@ the classified service, shall be retained in the same or similar position
 without examination until discharged, reduced, disciplined, promoted or
 transferred in accordance with the rules and regulations of the Commission.
 
-## Section VII-7: Board of cemetery trustees.
+## Section VII-7: Board of Cemetery Trustees
 
 (Editor's note: Former Section VII-7 was repealed by the voters on November 8,
 2016.)
 
-## Section VII-8: Municipal engineer
+## Section VII-8: Municipal Engineer
 
 The Council may by ordinance provide for the employment of a Municipal Engineer
 who shall be appointed by the Mayor, subject to confirmation by a majority vote
@@ -172,7 +185,7 @@ prescribed by Council, and shall receive such compensation by fees or salary, or
 both, as may be provided by ordinance of Council.  
 (Amended 11-7-06)
 
-## Section VII-9: Architectural board of review
+## Section VII-9: Architectural Board of Review
 
 There is hereby established an Architectural Board of Review which shall consist
 of three voting members and two architect advisors, all of whom shall be
@@ -226,7 +239,7 @@ members of the Board and, if neither of the voting members of the Board is an
 architect, one architect advisor must be present to establish the quorum.  
 (Amended 11-4-08; 11-6-18)
 
-## Section VII-10: Removal of members of the planning and zoning commission, board of zoning appeals, and architectural board of review
+## Section VII-10: Removal of members of the Planning and Zoning Commission, Board of Zoning Appeals, and Architectural Board of Review
 
 The Mayor may remove any member appointed to the Planning and Zoning Commission,
 Board of Zoning Appeals, or Architectural Board of Review, at any time for

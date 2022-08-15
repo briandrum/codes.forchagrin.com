@@ -5,6 +5,14 @@ article_no: 3
 title: "Article III: Mayor"
 ---
 
+## Sections
+
+* [Section II-1: Powers](#section-iii-1-term)
+* [Section III-2: Qualifications](#section-iii-2-qualifications)
+* [Section III-3: Removal](#section-iii-3-removal)
+* [Section III-4: Absence and vacancy](#section-iii-4-absence-and-vacancy)
+* [Section III-5: Duties and powers](#section-iii-5-duties-and-powers)
+
 ## Section III-1: Term
 
 The Mayor shall be elected at the regular Municipal election held in the year

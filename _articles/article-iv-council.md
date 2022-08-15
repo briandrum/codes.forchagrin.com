@@ -5,6 +5,20 @@ article_no: 4
 title: "Article IV: Council"
 ---
 
+## Sections
+
+* [Section IV-1: Number and term](#section-iv-1-number-and-term)
+* [Section IV-2: Qualifications](#section-iv-2-qualifications)
+* [Section IV-3: Organization](#section-iv-3-organization)
+* [Section IV-4: President of council and president pro tem](#section-iv-4-president-of-council-and-president-pro-tem)
+* [Section IV-5: Removal](#section-iv-5-removal)
+* [Section IV-6: Vacancies](#section-iv-6-vacancies)
+* [Section IV-7: Council meetings](#section-iv-7-council-meetings)
+* [Section IV-8: Power and duties](#section-iv-8-power-and-duties)
+* [Section IV-8A: Administrative authority](#section-iv-8a-administrative-authority)
+* [Section IV-9: Effective date of ordinances and resolutions](#section-iv-9-effective-date-of-ordinances-and-resolutions)
+* [Section IV-10: Employees of council](#section-iv-10-employees-of-council)
+
 ## Section IV-1: Number and term
 
 Council shall consist of seven (7) Council members elected at large for terms of

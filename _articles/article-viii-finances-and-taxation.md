@@ -5,6 +5,11 @@ article_no: 8
 title: "Article VIII: Finances and Taxation"
 ---
 
+## Sections
+
+* [Section VIII-1: General](#section-viii-1-general)
+* [Section VIII-2: Limitation on rate of taxation](#section-viii-2-limitation-on-rate-of-taxation)
+
 ## Section VIII-1: General
 
 The laws of the State of Ohio relating generally to budgets, appropriations,
