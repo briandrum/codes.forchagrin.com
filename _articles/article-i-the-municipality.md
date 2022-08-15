@@ -17,7 +17,7 @@ Ohio and known as the Village of Chagrin Falls shall continue to be a body
 politic and corporate under the name of the Village of Chagrin Falls or the City
 of Chagrin Falls according to the classification of municipal corporations under
 the Constitution and laws of the State of Ohio then in effect. The provisions of
-this Charter shall apply whether this Municipality is a village or a city.  
+this Charter shall apply whether this Municipality is a village or a city.\
 (Amended 11-3-81)
 
 ## Section I-2: Boundaries

@@ -220,10 +220,11 @@ telephone.
 
 28. _(bb)_
 
-    1. "Information service" means, subject to subsection (bb)(2) hereof, the
-    offering of a capability for generating, acquiring, storing, transforming,
-    processing, retrieving, utilizing, or making available information via
-    telecommunications, including, but not limited to, electronic publishing.
+    1. _(1)_ "Information service" means, subject to subsection (bb)(2) hereof,
+    the offering of a capability for generating, acquiring, storing,
+    transforming, processing, retrieving, utilizing, or making available
+    information via telecommunications, including, but not limited to,
+    electronic publishing.
 
     2. _(2)_ "Information service" does not include any use of a capability of a
     type described in subsection (bb)(1) hereof for the management, control, or

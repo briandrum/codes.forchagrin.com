@@ -160,4 +160,4 @@ Mayor, the Chief Administrative Officer, and the Law Director, declare that one
 or more meetings or hearings be held virtually until the next regularly
 scheduled Council meeting at which time the Council will determine if virtual
 meetings shall continue for one or more public bodies of the Village.  
-([Ord. 2022-01. Passed 1-3-22.]({% link _posts/2022-01-03-ordinance-2022-01-an-ordinance-amending-codified-ordinance-section-111.01-and-adding-section-114.05-to-chapter-114-of-the-codified-ordinances-and-declaring-an-emergency.md %}))
+([Ord. 2022-01. Passed 1-3-22.]({% link _posts/2022-01-03-ordinance-2022-01.md %}))

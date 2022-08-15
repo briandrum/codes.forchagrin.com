@@ -3059,7 +3059,7 @@ accommodations, during any calendar year, or part thereof, commencing with the
 effective date of this section, shall file with the Tax Administrator on or
 before July 31st of each calendar year and the January 31 first following such
 calendar year a written report disclosing the name, address and also telephone
-number, if available, of each tenant known to have occupied on June 31st and
+number, if available, of each tenant known to have occupied on June 30th and
 December 31 during such calendar year such apartment, room or other residential
 dwelling rental property.
 
@@ -3124,7 +3124,7 @@ this ordinance shall be due on the date provided in Sections 124.05 and Section
 124.04 of this Chapter as though the same were continuing.  
 (Ord. 2018-22. Passed 3-26-18.)
 
-## 124.26   Adoption of rita rules and regulations
+## 124.26   Adoption of RITA rules and regulations
 
 The Municipality hereby adopts the Regional Income Tax Agency (RITA) Rules &
 Regulations, including amendments that may be made from time to time, for use as

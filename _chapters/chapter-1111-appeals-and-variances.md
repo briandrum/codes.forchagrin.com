@@ -52,7 +52,7 @@ the following subsections:
     Board of Zoning Appeals may reverse, modify or remand the matter to the
     administrative officer, board or commission that rendered such decision.
     Otherwise the Board of Zoning Appeals shall affirm such decision.  
-    ([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10-an-ordinance-amending-the-planning-and-zoning-code-of-the-village-of-chagrin-falls-and-amending-sections-1111.01,-1111.03,-1111.06,-1111.07(a)-and-1111.10.md %}))
+    ([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10.md %}))
 
 ## 1111.02   Jurisdiction
 
@@ -130,7 +130,7 @@ application and information as required by the Planning and Zoning Code.
     during the pendency of the appeal. Further work performed under such permit,
     during the pendency of the appeal, shall be deemed to be in violation of
     this provision.  
-    ([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10-an-ordinance-amending-the-planning-and-zoning-code-of-the-village-of-chagrin-falls-and-amending-sections-1111.01,-1111.03,-1111.06,-1111.07(a)-and-1111.10.md %}))
+    ([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10.md %}))
 
 ## 1111.04   Notices
 
@@ -217,7 +217,7 @@ Council's review of the decision.
 6. _(f)_ The Clerk of Council shall give notice of the hearing of the request
 for review by the three (3) or more Council members to the applicant, the law
 director, and the secretary of the Board of Zoning Appeals.  
-([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10-an-ordinance-amending-the-planning-and-zoning-code-of-the-village-of-chagrin-falls-and-amending-sections-1111.01,-1111.03,-1111.06,-1111.07(a)-and-1111.10.md %}))
+([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10.md %}))
 
 ## 1111.07   Reasons for granting variances
 
@@ -229,7 +229,7 @@ reasons therefor, with such conditions the Board of Zoning Appeals or Council
 believes are necessary to impose in granting a variance in order that the public
 health, safety, convenience, comfort and general welfare may be safeguarded and
 substantial justice done.  
-([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10-an-ordinance-amending-the-planning-and-zoning-code-of-the-village-of-chagrin-falls-and-amending-sections-1111.01,-1111.03,-1111.06,-1111.07(a)-and-1111.10.md %}))
+([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10.md %}))
 
 2. _(b)_ Variances shall not be granted for uses not permitted in the zoning
 district applicable to the property, unless a literal application of this
@@ -354,7 +354,7 @@ Zoning Appeals.
 at the Council meeting(s) where the matter was heard, and was harmed by the
 action of Council may appeal Council's decision pursuant to Ohio R.C.
 Chapter 2506.  
-([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10-an-ordinance-amending-the-planning-and-zoning-code-of-the-village-of-chagrin-falls-and-amending-sections-1111.01,-1111.03,-1111.06,-1111.07(a)-and-1111.10.md %}))
+([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10.md %}))
 
 ## 1111.11   Time period to file appeal
 

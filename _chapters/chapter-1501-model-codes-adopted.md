@@ -207,7 +207,7 @@ ordinance and standards, on such approval with such conditions that the
 Approving Authority believes are necessary to impose in order that the public
 health, safety, convenience, comfort and general welfare of the resident and the
 Village may be safeguarded and substantial justice done.  
-([Ord. 2022-19. Passed 6-13-22.]({% link _posts/2022-04-25-ordinance-2022-19-an-ordinance-amending-the-planning-and-zoning-code-of-the-village-of-chagrin-falls-by-adding-section-1105.08-of-the-planning-and-zoning-code-and-amending-section-1307.01-of-the-building-code-and-amending-section-1501.05-of.md %}))
+([Ord. 2022-19. Passed 6-13-22.]({% link _posts/2022-04-25-ordinance-2022-19.md %}))
 
 ## 1501.06   Appeals
 

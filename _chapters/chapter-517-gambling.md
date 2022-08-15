@@ -482,9 +482,9 @@ and that has the following characteristics:
 
 41. _(oo)_
 
-    1. "Electronic bingo aid" means an electronic device used by a participant
-    to monitor bingo cards or sheets purchased at the time and place of a bingo
-    session and that does all of the following:
+    1. _(1)_"Electronic bingo aid" means an electronic device used by a
+    participant to monitor bingo cards or sheets purchased at the time and place
+    of a bingo session and that does all of the following:
 
         1. _(A)_ It provides a means for a participant to input numbers and
         letters announced by a bingo caller.
@@ -502,7 +502,7 @@ tickets all with the same serial number.
 
 43. _(qq)_
 
-    1. "Slot machine" means either of the following:
+    1. _(1)_ "Slot machine" means either of the following:
 
         1. _(A)_ Any mechanical, electronic, video, or digital device that is
         capable of accepting anything of value, directly or indirectly, from or
@@ -555,7 +555,7 @@ information for the game:
 
 47. _(uu)_
 
-    1. "Skill-based amusement machine" means mechanical, video, digital, or
+    1. _(1)_"Skill-based amusement machine" means mechanical, video, digital, or
     electronic device that rewards the player or players, if at all, only with
     merchandise prizes or with redeemable vouchers redeemable only for
     merchandise prizes, provided that with respect to rewards for playing the
@@ -665,7 +665,7 @@ of three years.
 
 53. _(aaa)_
 
-    1. "Sweepstakes terminal device" means a mechanical, video, digital or
+    1. _(1)_ "Sweepstakes terminal device" means a mechanical, video, digital or
     electronic machine or device that is owned, leased or otherwise possessed by
     any person conducting a sweepstakes, or by that person's partners,
     affiliates, subsidiaries, or contractors, that is intended to be used by a

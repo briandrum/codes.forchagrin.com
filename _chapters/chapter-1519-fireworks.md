@@ -253,7 +253,7 @@ a prohibition of the discharge, ignition or explosion of fireworks purchased
 pursuant to Section R. C. 3743.45, intending to prohibit the discharge, ignition
 or explosion of fireworks on private property on any of the days set forth in
 Ohio R.C. 3743.45(b).  
-([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05-an-ordinance-amending-codified-ordinance-section-1519.04-to-prohibit-the-discharge-ignition-or-explosion-of-fireworks-on-certain-days-each-year.md %}))
+([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05.md %}))
 
 3. _(c)_ No person shall use in a theater or public hall, what is technically
 known as fireworks showers, or a mixture containing potassium chlorate and
@@ -266,12 +266,12 @@ other responsible adult. No person under eighteen years of age shall touch or
 possess fireworks on a licensed premises without the consent of the licensee. A
 licensee may eject any person from a licensed premises that is in any way
 disruptive to the safe operation of the premises.  
-([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05-an-ordinance-amending-codified-ordinance-section-1519.04-to-prohibit-the-discharge-ignition-or-explosion-of-fireworks-on-certain-days-each-year.md %}))
+([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05.md %}))
 
 5. _(e)_ Except as otherwise provided in Ohio R.C. 3743.44, no person, other
 than a licensed manufacturer, licensed wholesaler, licensed exhibitor, or
 shipping permit holder, shall possess 1.3 G fireworks or 1.4 G fireworks.  
-([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05-an-ordinance-amending-codified-ordinance-section-1519.04-to-prohibit-the-discharge-ignition-or-explosion-of-fireworks-on-certain-days-each-year.md %}))
+([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05.md %}))
 
 ## 1519.05   Application
 

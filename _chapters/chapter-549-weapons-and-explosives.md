@@ -41,10 +41,10 @@ possessed, carried or used as a weapon.
 
 2. _(b)_
 
-    1. "Firearm" means any deadly weapon capable of expelling or propelling one
-    or more projectiles by the action of an explosive or combustible propellant.
-    "Firearm" includes an unloaded firearm, and any firearm that is inoperable
-    but that can readily be rendered operable.
+    1. _(1)_ "Firearm" means any deadly weapon capable of expelling or
+    propelling one or more projectiles by the action of an explosive or
+    combustible propellant. "Firearm" includes an unloaded firearm, and any
+    firearm that is inoperable but that can readily be rendered operable.
 
     2. _(2)_ When determining whether a firearm is capable of expelling or
     propelling one or more projectiles by the action of an explosive or

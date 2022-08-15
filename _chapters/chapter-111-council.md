@@ -42,7 +42,7 @@ Director and the Chief Administrative Officer, may cancel such meeting.
 Cancellation by the Council President shall be made no later than 4:00 p.m. on
 the Friday prior to the regularly scheduled Council meeting if cancellation was
 not declared at the last regular Council meeting.  
-([Ord. 2022-01. Passed 1-3-22.]({% link _posts/2022-01-03-ordinance-2022-01-an-ordinance-amending-codified-ordinance-section-111.01-and-adding-section-114.05-to-chapter-114-of-the-codified-ordinances-and-declaring-an-emergency.md %}))
+([Ord. 2022-01. Passed 1-3-22.]({% link _posts/2022-01-03-ordinance-2022-01.md %}))
 
 ## 111.02   Special meetings
 
@@ -136,4 +136,4 @@ meeting.
 
         Time
 
-([Ord. 2022-04. Passed 2-14-22.]({% link _posts/2022-01-24-ordinance-2022-04-an-ordinance-amending-codified-ordinance-section-111.03-by-amending-the-agenda-for-council-meetings.md %}))
+([Ord. 2022-04. Passed 2-14-22.]({% link _posts/2022-01-24-ordinance-2022-04.md %}))

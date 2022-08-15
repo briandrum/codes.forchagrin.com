@@ -39,7 +39,7 @@ Council. The alternate members shall serve whenever one or more members are
 unable to hear a particular matter, or are unavailable for a particular meeting.
 None of the alternate members shall be members of Council and shall not
 simultaneously hold an appointment to the Planning Commission, but shall be
-electors of the municipality and shall not hold any other municipal officer
+electors of the municipality and shall not hold any other municipal office or
 appointment in the Village of Chagrin Falls. Each alternate member shall be
 appointed for a term of four years.
 

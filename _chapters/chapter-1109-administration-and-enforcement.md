@@ -244,7 +244,7 @@ shall issue no permits or certificates prior to required approvals.
         the requirements of the Planning and Zoning Code and the Design
         Guidelines.
 
-            1. _(1)_ **Preliminary plan.** The application shall submit a
+            1. _(1)_ **Preliminary plan.** The applicant shall submit a
             preliminary plan of the proposed design that shall conform with the
             requirements set forth in Section 1109.04.
 
@@ -366,7 +366,7 @@ shall issue no permits or certificates prior to required approvals.
     Planning and Zoning Commission or Municipal Engineer, where such approval is
     required, except as referred to in Chapter 1111.
 
-    6. _(6)_ **Other Municipal Officers.** The Administrator shall also submit
+    6. _(6)_ **Other Municipal officers.** The Administrator shall also submit
     applications for review and recommendation to the Police Chief and other
     municipal officers, as applicable.
 

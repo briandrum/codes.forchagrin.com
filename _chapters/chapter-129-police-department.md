@@ -41,7 +41,7 @@ A Police Department is hereby established for the Municipality.
 1. _(a)_ The Police Department shall consist of a Chief of Police and such other
 positions as authorized by ordinance of Council, including:
 
-    1. _(1)_ **Full-Time Regular Patrol Officers.** Full-time Regular Patrol
+    1. _(1)_ **Full-Time Regular Patrol Officers.** Full-Time Regular Patrol
     Officers shall perform all duties enjoined upon them by the laws of the
     State and the ordinances of this Municipality, and such duties as may be
     directed or designated by the Chief of Police or the Mayor.

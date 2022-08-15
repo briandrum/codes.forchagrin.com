@@ -108,19 +108,20 @@ certain circumstances may exist.
 
 10. _(j)_
 
-    1. "Property" means any property, real or personal, tangible or intangible,
-    and any interest or license in that property. "Property" includes, but is
-    not limited to, cable television service, other telecommunications service,
-    telecommunications devices, information service, computers, data, computer
-    software, financial instruments associated with computers, other documents
-    associated with computers, or copies of the documents, whether in machine or
-    human readable form, trade secrets, trademarks, copyrights, patents, and
-    property protected by a trademark, copyright, or patent. "Financial
-    instruments associated with computers" include, but are not limited to,
-    checks, drafts, warrants, money orders, notes of indebtedness, certificates
-    of deposit, letters of credit, bills of credit or debit cards, financial
-    transaction authorization mechanisms, marketable securities, or any computer
-    system representations of any of them.
+    1. _(1)_"Property" means any property, real or personal, tangible or
+    intangible, and any interest or license in that property. "Property"
+    includes, but is not limited to, cable television service, other
+    telecommunications service, telecommunications devices, information service,
+    computers, data, computer software, financial instruments associated with
+    computers, other documents associated with computers, or copies of the
+    documents, whether in machine or human readable form, trade secrets,
+    trademarks, copyrights, patents, and property protected by a trademark,
+    copyright, or patent. "Financial instruments associated with computers"
+    include, but are not limited to, checks, drafts, warrants, money orders,
+    notes of indebtedness, certificates of deposit, letters of credit, bills of
+    credit or debit cards, financial transaction authorization mechanisms,
+    marketable securities, or any computer system representations of any of
+    them.
 
     2. _(2)_ As used in this section, "trade secret" has the same meaning as in
     Ohio R.C. 1333.61, and "telecommunications service" and "information
