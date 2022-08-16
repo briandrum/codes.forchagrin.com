@@ -28,7 +28,7 @@ title: "Chapter 545: Theft and Fraud"
 * [545.18   Receiving stolen property](#54518-receiving-stolen-property)
 * [545.19   Possession of criminal tools](#54519-possession-of-criminal-tools)
 * [545.20   Forgery of identificationcards](#54520-forgery-of-identificationcards)
-* [545.21   Identity fraud](#54521-identity-fraud)
+* [545.21   Identity fraud](#54521-identity-fraud) (Deleted)
 * [545.99   Penalty](#54599-penalty)
 
 ## Cross references

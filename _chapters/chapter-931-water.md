@@ -11,9 +11,9 @@ title: "Chapter 931: Water"
 * [931.01   Mayor's authority to limit water use](#93101-mayors-authority-to-limit-water-use)
 * [931.02   Water rates](#93102-water-rates)
 * [931.03   Water connection charges](#93103-water-connection-charges)
-* [931.04   Billing periods, surcharge for late payment](#93104-billing-periods-surcharge-for-late-payment)
+* [931.04   Billing periods, surcharge for late payment](#93104-billing-periods-surcharge-for-late-payment) (Repealed)
 * [931.05   Meter rental charges](#93105-meter-rental-charges)
-* [931.06   Miscellaneous charges](#93106-miscellaneous-charges)
+* [931.06   Miscellaneous charges](#93106-miscellaneous-charges) (Repealed)
 * [931.07   Extensions outside Municipality prohibited](#93107-extensions-outside-municipality-prohibited) (Repealed)
 * [931.99   Penalty](#93199-penalty)
 
@@ -68,33 +68,36 @@ charges.\
 
 ## 931.03   Water connection charges
 
-(Editor's note: Water connection charges are now contained in "Regulations
-of the Water Department" adopted under Section 931.02.)
+(Editor's note: Water connection charges are now contained in "Regulations of
+the Water Department" adopted under Section 931.02.)
 
 ## 931.04   Billing periods: surcharge for late payments
 
-(Editor's note: Former Section 931.04 was repealed by Ordinance 1979-1154, passed April 9, 1979. Provisions
-relative to billing periods and penalties for late payments are contained in
-"Regulations of the Water Department" adopted under Section 931.02.)
+(Editor's note: Former Section 931.04 was repealed by Ordinance 1979-1154,
+passed April 9, 1979. Provisions relative to billing periods and penalties for
+late payments are contained in "Regulations of the Water Department" adopted
+under Section 931.02.)
 
 ## 931.05   Meter rental charges
 
-(Editor's note: Meter rental charges are now established in the "Regulations
-of the Water Department" adopted under Section 931.02 and no longer included in the Codified Ordinances.)
+(Editor's note: Meter rental charges are now established in the "Regulations of
+the Water Department" adopted under Section 931.02 and no longer included in the
+Codified Ordinances.)
 
 ## 931.06   Miscellaneous charges
 
-(Editor's note: Former Section 931.06 was repealed by Ordinance 1979-1154, passed April 9, 1979. Provisions
-relative to miscellaneous charges are now contained in "Regulations of the
-Water Department" adopted under Section 931.02.)
+(Editor's note: Former Section 931.06 was repealed by Ordinance 1979-1154,
+passed April 9, 1979. Provisions relative to miscellaneous charges are now
+contained in "Regulations of the Water Department" adopted under Section
+931.02.)
 
 ## 931.07   Extensions outside municipality prohibited
 
-(Editor's note: Former Section 931.07 was repealed by Ordinance 1988-39, passed May 9, l 988.)
+(Editor's note: Former Section 931.07 was repealed by Ordinance 1988-39, passed
+May 9, l 988.)
 
 ## 931.99   Penalty
 
-Whoever violates any of the provisions of this chapter shall be fined not
-more than five hundred dollars ($500.00) or imprisoned not more than six
-months, or both. Each day such violation continues shall constitute a separate
-offense.
+Whoever violates any of the provisions of this chapter shall be fined not more
+than five hundred dollars ($500.00) or imprisoned not more than six months, or
+both. Each day such violation continues shall constitute a separate offense.

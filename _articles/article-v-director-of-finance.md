@@ -10,7 +10,7 @@ title: "Article V: Director of Finance"
 * [Section V-1: Appointment and term](#section-v-1-appointment-and-term)
 * [Section V-2: Qualifications](#section-v-2-qualifications)
 * [Section V-3: Duties](#section-v-3-duties)
-* [Section V-4: Assistant director of finance and employees in department of finance](#section-v-4-assistant-director-of-finance-and-employees-in-department-of-finance)
+* [Section V-4: Assistant director of finance and employees in department of finance](#section-v-4-assistant-director-of-finance-and-employees-in-department-of-finance) (Repealed)
 
 ## Section V-1: Appointment and term
 

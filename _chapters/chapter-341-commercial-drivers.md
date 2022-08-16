@@ -9,7 +9,7 @@ title: "Chapter 341: Commercial Drivers"
 ## Sections
 
 * [341.01   Definitions](#34101-definitions)
-* [341.02   Exemptions](#34102-exemptions)
+* [341.02   Exemptions](#34102-exemptions) (Repealed)
 * [341.03   Prerequisites to operation of a commercial motor vehicle](#34103-prerequisites-to-operation-of-a-commercial-motor-vehicle)
 * [341.04   Prohibitions](#34104-prohibitions)
 * [341.05   Criminal offenses](#34105-criminal-offenses)

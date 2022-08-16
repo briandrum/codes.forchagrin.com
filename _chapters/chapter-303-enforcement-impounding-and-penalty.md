@@ -44,9 +44,11 @@ traffic.
 
 2. _(b)_ No person shall operate a motor vehicle so as willfully to elude or
 flee a police officer after receiving a visible or audible signal from a police
-officer to bring the person's motor vehicle to a stop. (Editor's note: Refer to
-Ohio R.C. 2921.331 for filing charges under subsection (b) hereof since the jury
-or judge as trier of fact may determine the violation to be a felony.)
+officer to bring the person's motor vehicle to a stop.
+
+    (Editor's note: Refer to Ohio R.C. 2921.331 for filing charges under
+    subsection (b) hereof since the jury or judge as trier of fact may determine
+    the violation to be a felony.)
 
 3. _(c)_ Whoever violates this section is guilty of failure to comply with an
 order or signal of a police officer. A violation of subsection (a) is a

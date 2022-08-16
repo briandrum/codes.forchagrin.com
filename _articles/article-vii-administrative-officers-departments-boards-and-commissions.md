@@ -13,7 +13,7 @@ title: "Article VII: Administrative Officers, Departments, Boards and Commission
 * [Section VII-4: Planning and Zoning Commission](#section-vii-4-planning-and-zoning-commission)
 * [Section VII-5: Board of Zoning Appeals](#section-vii-5-board-of-zoning-appeals)
 * [Section VII-6: Civil Service Commission](#section-vii-6-civil-service-commission)
-* [Section VII-7: Board of Cemetery Trustees](#section-vii-7-board-of-cemetery-trustees)
+* [Section VII-7: Board of Cemetery Trustees](#section-vii-7-board-of-cemetery-trustees) (Repealed)
 * [Section VII-8: Municipal Engineer](#section-vii-8-municipal-engineer)
 * [Section VII-9: Architectural Board of Review](#section-vii-9-architectural-board-of-review)
 * [Section VII-10: Removal of members of the Planning and Zoning Commission, Board of Zoning Appeals, and Architectural Board of Review](#section-vii-10-removal-of-members-of-the-planning-and-zoning-commission-board-of-zoning-appeals-and-architectural-board-of-review)

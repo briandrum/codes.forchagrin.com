@@ -30,4 +30,5 @@ protrude closer than three feet to any lot line.\
 
 ## 1339.99   Penalty
 
-(Editor's note: See Section 1303.99 for general Code penalty if no specific penalty is provided.)
+(Editor's note: See Section 1303.99 for general Code penalty if no specific
+penalty is provided.)

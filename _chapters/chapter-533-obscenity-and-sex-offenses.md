@@ -12,7 +12,7 @@ title: "Chapter 533: Obscenity and Sex Offenses"
 * [533.02   Presumption of knowledge; actual notice and defense](#53302-presumption-of-knowledge-actual-notice-and-defense)
 * [533.03   Unlawful sexual conduct with a minor](#53303-unlawful-sexual-conduct-with-a-minor)
 * [533.04   Sexual imposition](#53304-sexual-imposition)
-* [533.05   Importuning](#53305-importuning)
+* [533.05   Importuning](#53305-importuning) (Deleted)
 * [533.06   Voyeurism](#53306-voyeurism)
 * [533.07   Public indecency](#53307-public-indecency)
 * [533.08   Procuring; engagement in sexual activity for hire](#53308-procuring-engagement-in-sexual-activity-for-hire)

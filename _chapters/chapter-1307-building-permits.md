@@ -12,8 +12,8 @@ title: "Chapter 1307: Building Permits"
 * [1307.02   Issuance of permit; certification of compliance with Zoning Code](#130702-issuance-of-permit-certification-of-compliance-with-zoning-code)
 * [1307.03   Bonds](#130703-bonds)
 * [1307.04   Permit to erect part of building](#130704-permit-to-erect-part-of-building)
-* [1307.05   Permits for superstructure](#130705-permits-for-superstructure)
-* [1307.06   Permits for minor interior repairs and alterations](#130706-permits-for-minor-interior-repairs-and-alterations)
+* [1307.05   Permits for superstructure](#130705-permits-for-superstructure) (Repealed)
+* [1307.06   Permits for minor interior repairs and alterations](#130706-permits-for-minor-interior-repairs-and-alterations) (Repealed)
 * [1307.07   Water permit required](#130707-water-permit-required)
 * [1307.08   Revocation of permit for delay](#130708-revocation-of-permit-for-delay)
 * [1307.09   Restoration upon permit revocation](#130709-restoration-upon-permit-revocation)
@@ -488,4 +488,5 @@ provide such advice and attend any hearing or meeting.\
 
 ## 1307.99   Penalty
 
-(Editor's note: See Section 1303.99 general Code penalty if no specific penalty is provided.)
+(Editor's note: See Section 1303.99 general Code penalty if no specific penalty
+is provided.)
