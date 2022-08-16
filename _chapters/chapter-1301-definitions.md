@@ -132,8 +132,8 @@ business, activity, place, object or product.
 
 ## 1301.15   Signboard
 
-"Signboard" means a sign more than twelve square feet in area, wherever erected.
- 
+"Signboard" means a sign more than twelve square feet in area, wherever
+erected.  
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1301.16   Skeleton construction

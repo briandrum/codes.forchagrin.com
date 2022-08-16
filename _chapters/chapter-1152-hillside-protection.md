@@ -369,8 +369,8 @@ motion.
 prohibit normal landscape maintenance or routine arboreal activities or to
 prohibit small scale planting of ornamental flowers or shrubs, or the removal of
 diseased, dead or damaged trees. However, such activities shall be carried out
-to conformance with the standards of vegetation or revegetation of this chapter.
- 
+to conformance with the standards of vegetation or revegetation of this
+chapter.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1152.05   Hold harmless provisions

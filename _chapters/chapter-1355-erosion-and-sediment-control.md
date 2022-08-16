@@ -1254,7 +1254,7 @@ following conditions are met:
         contractor of the project and the Village Engineer prior to October 1, in
         order to plan and approve winter erosion and sediment controls as defined in
         the most current online edition of Rainwater and Land Development.
-        
+
         The applicant shall assign qualified inspection personnel to conduct
         these inspections to ensure that the controls are functional and to
         evaluate whether the SWP3 is adequate, or whether additional control

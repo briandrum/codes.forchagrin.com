@@ -125,7 +125,7 @@ the feminine and the gender-neutral.
             income and gain directly relate to the sale, exchange, or other
             disposition of an asset described in Section 1221 or 1231 of the
             Internal Revenue Code;
-            
+
             2. _(ii)_ Division (C)(1)(d)(i) of this section does not apply to
             the extent the income or gain is income or gain described in Section
             1245 or 1250 of the Internal Revenue Code.
@@ -194,7 +194,7 @@ the feminine and the gender-neutral.
         making an appeal to the Board of Tax Review pursuant to Section 124.21,
         and has "ASSESSMENT" written in all capital letters at the top of such
         finding.
-        
+
         2. _(b)_ "Assessment" does not include a notice denying a request for
         refund issued under division (C)(3) of Section 124.09, a billing
         statement notifying a taxpayer of current or past-due balances owed to
@@ -1291,9 +1291,9 @@ the benefit of, the employee.
     the disqualifying disposition, the individual is not an employee of either
     the corporation with respect to whose stock the option has been issued or of
     such corporation's successor entity.
-    
+
     5. _(5)_
-    
+
         1. _(a)_ An employee is not relieved from liability for a tax by the
         failure of the employer, agent of an employer, or other payer to
         withhold the tax as required under this Chapter or by the employer's,
@@ -1310,13 +1310,13 @@ the benefit of, the employee.
     Municipal income tax or income tax withholding requirement to the extent the
     deferred compensation does not constitute qualifying wages at the time the
     deferred compensation is paid or distributed.
-    
+
     7. _(7)_ Each employer, agent of an employer, or other payer required to
     withhold taxes is liable for the payment of that amount required to be
     withheld, whether or not such taxes have been withheld, and such amount
     shall be deemed to be held in trust for the Municipality until such time as
     the withheld amount is remitted to the Tax Administrator.
-    
+
     8. _(8)_ On or before the last day of February of each year, an employer
     shall file a withholding reconciliation return with the Tax Administrator
     listing:
@@ -1336,7 +1336,7 @@ the benefit of, the employee.
         4. _(d)_ Any other information required for federal income tax reporting
         purposes on Internal Revenue Service form W-2 or its equivalent form
         with respect to such employee;
-        
+
         5. _(e)_ Other information as may be required by the Tax Administrator.
 
     9. _(9)_ The officer or the employee of the employer, agent of an employer,
@@ -2373,7 +2373,7 @@ unless the tax or overpayment is less than ten ($10.00) dollars.
 1. _(A)_
 
     1. _(1)_
-    
+
         1. _(a)_ Civil actions to recover Municipal income taxes and penalties
         and interest on Municipal income taxes shall be brought within the later
         of:
@@ -2779,7 +2779,7 @@ performance of such duties or functions is expressly limited by a provision of
 the ORC:
 
     1. _(1)_
-    
+
         1. _(a)_ Exercise all powers whatsoever of an query nature as provided
         by law, including, the right to inspect books, accounts, records,
         memorandums, and federal and state income tax returns, to examine
@@ -2897,7 +2897,7 @@ the ORC:
     requiring the identifying information.
 
     2. _(2)_
-    
+
         1. _(a)_ If the Tax Administrator makes a request for identifying
         information and the Tax Administrator does not receive valid identifying
         information within thirty (30) days of making the request, nothing in
@@ -3160,7 +3160,7 @@ taxpayer's election, both of the following shall apply:
     the Tax Commissioner.
 
     2. _(2)_
-    
+
         1. _(a)_ The election, once made by the taxpayer, applies to the taxable
         year in which the election is made and to each subsequent taxable year
         until the taxpayer notifies the Tax Commissioner and the Municipality of
@@ -3238,7 +3238,7 @@ the Internal Revenue Code, adjusted as follows:
     Revenue Code.
 
     4. _(4)_
-    
+
         1. _(a)_ Except as provided in division (B)(4)(b) of this section,
         deduct income and gain included in federal taxable income to the extent
         the income and gain directly relate to the sale, exchange, or other
@@ -3290,7 +3290,7 @@ the Internal Revenue Code, adjusted as follows:
         deductible expense unless such payments are in consideration for the use
         of capital and treated as payment of interest under section 469 of the
         Internal Revenue Code or United States treasury regulations.
-    
+
         Amounts paid or accrued to a qualified self-employed retirement plan
         with respect to a partner, former partner, shareholder, former
         shareholder, member, or former member of the taxpayer, amounts paid or
@@ -3299,7 +3299,7 @@ the Internal Revenue Code, adjusted as follows:
         paid or accrued to or for life insurance for a partner, former partner,
         shareholder, former shareholder, member, or former member shall not be
         allowed as a deduction.
-    
+
         Nothing in division (B) of this section shall be construed as allowing
         the taxpayer to add or deduct any amount more than once or shall be
         construed as allowing any taxpayer to deduct any amount paid to or
@@ -3344,7 +3344,7 @@ profit from a business or profession conducted both within and without the
 boundaries of the Municipality shall be considered as having a taxable situs in
 the Municipality for purposes of municipal income taxation in the same
 proportion as the average ratio of the following:
- 
+
     1. _(1)_ The average original cost of the real property and tangible
     personal property owned or used by the taxpayer in the business or
     profession in the Municipality during the taxable period to the average
@@ -3356,7 +3356,7 @@ proportion as the average ratio of the following:
         shall include property rented or leased by the taxpayer and the value of
         such property shall be determined by multiplying the annual rental
         thereon by eight;
- 
+
     2. _(2)_ Wages, salaries, and other compensation paid during the taxable
     period to individuals employed in the business or profession for services
     performed in the Municipality to wages, salaries, and other compensation
@@ -3591,7 +3591,7 @@ Municipality Tax Administrator under section 718.83(D) of the Revised Code.
     declaration under penalty of perjury.
 
     2. _(2)_
-    
+
         1. _(a)_ The Tax Commissioner may require a taxpayer to include, with
         each annual tax return, amended return, or request for refund filed with
         the commissioner under sections 124.27 to 124.41 of the Codified
@@ -3614,7 +3614,7 @@ Municipality Tax Administrator under section 718.83(D) of the Revised Code.
 4. _(D)_
 
     1. _(1)_
-    
+
         1. _(a)_ Any taxpayer that has duly requested an automatic extension for
         filing the taxpayer's federal income tax return shall automatically
         receive an extension for the filing of a tax return with the Tax
@@ -3705,7 +3705,7 @@ returns or make the payments by nonelectronic means.
     federal taxable income" does not include income or loss of an incumbent
     local exchange carrier that is excluded from the affiliated group under
     division (A) (1) of this section.
- 
+
     4. _(4)_ "Incumbent local exchange carrier" has the same meaning as in
     section 4927.01 of the Revised Code.
 
@@ -3957,7 +3957,7 @@ payable to the treasurer of state.
         4. _(d)_ For the fourth payment of estimated taxes each year, ninety per
         cent of the combined tax liability, less the amount of taxes paid by the
         date prescribed for that payment.
- 
+
     2. _(2)_ The period of the underpayment shall run from the day the estimated
     payment was required to be made to the date on which the payment is made.
     For purposes of this section, a payment of estimated taxes on or before any

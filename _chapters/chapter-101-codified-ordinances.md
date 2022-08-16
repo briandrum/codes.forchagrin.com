@@ -87,9 +87,11 @@ trust, partnership and association.
 12. _(l)_ "Premises", as applied to property, includes land and buildings.
 
 13. _(m)_ "Property" means real and personal property.  
-(ORC 1.59(E))  
-"Personal property" includes all property except real.  
-"Real property" includes lands, tenements and hereditaments.
+(ORC 1.59(E))
+
+    "Personal property" includes all property except real.
+
+    "Real property" includes lands, tenements and hereditaments.
 
 14. _(n)_ "Public authority" includes boards of education; the Municipal,
 County, State or Federal government, its officers or an agency thereof; or any
@@ -246,12 +248,13 @@ the last numbers or letters are included.
 3. _(c)_ Wherever in a penalty section reference is made to a violation of a
 series of sections or of subsections of a section, such reference shall be
 construed to mean a violation of any section or subsection included in such
-reference.  
-References in the Codified Ordinances to action taken or authorized under
-designated sections of the Codified Ordinances include, in every case, action
-taken or authorized under the applicable legislative provision which is
-superseded by the Codified Ordinances.  
-(ORC 1.23)
+reference.
+
+    References in the Codified Ordinances to action taken or authorized under
+    designated sections of the Codified Ordinances include, in every case,
+    action taken or authorized under the applicable legislative provision which
+    is superseded by the Codified Ordinances.  
+    (ORC 1.23)
 
 ## 101.06   Conflicting provisions
 

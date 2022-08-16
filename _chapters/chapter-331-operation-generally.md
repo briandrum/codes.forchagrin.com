@@ -580,8 +580,7 @@ signal in the manner hereinafter provided.
     but is not required to be continuous. A bicycle or electric bicycle operator
     is not required to make a signal if the bicycle or electric bicycle is in a
     designated turn lane, and a signal shall not be given when the operator's
-    hands are needed for the safe operation of the bicycle or electric bicycle. 
-    
+    hands are needed for the safe operation of the bicycle or electric bicycle.
 
     No person shall stop or suddenly decrease the speed of a vehicle without
     first giving an appropriate signal in the manner provided herein to the

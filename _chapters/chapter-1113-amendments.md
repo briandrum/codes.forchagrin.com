@@ -41,8 +41,8 @@ before action is taken by Council.
 ## 1113.03   Action by commission
 
 The Planning and Zoning Commission may approve or disapprove a proposed
-amendment, either in whole or in part, and submit its recommendation to Council.
- 
+amendment, either in whole or in part, and submit its recommendation to
+Council.  
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1113.04   Action by council

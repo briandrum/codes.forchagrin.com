@@ -684,7 +684,7 @@ information provided:
 
         1. _(a)_ The geographic coordinates of the site AND each proposed
         practice in North American Datum Ohio State Plane North.
-        
+
             It is preferred that the entire site be shown on one plan sheet to
             allow a complete view of the site during plan review. If a smaller
             scale is used to accomplish this, separate sheets providing an
@@ -695,7 +695,7 @@ information provided:
     stand-alone document between the Village of Chagrin Falls and the applicant.
     A copy of this agreement should be attached to the property deed. The
     agreement shall contain the following information and provisions:
- 
+
         1. _(A)_ Identification of the landowner(s), organization, or
         municipality responsible for long-term inspection and maintenance,
         including repairs, of the SCMs.

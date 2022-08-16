@@ -452,8 +452,8 @@ distance of 500 feet.
     required by this Traffic Code.
 
     Vehicles operated under the Public Utilities Commission of Ohio shall not be
-    subject to the requirements of the regulations provided for by this section.
-     
+    subject to the requirements of the regulations provided for by this
+    section.  
     (Ord. 1957-420. Passed 12-28-57.)
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this

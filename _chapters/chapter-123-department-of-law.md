@@ -37,8 +37,8 @@ members of Council.
 ## 123.03   Qualifications of director
 
 No person shall act as Director of Law unless duly admitted to the practice of
-law in Ohio and in good standing. He need not be a resident of the Municipality.
- 
+law in Ohio and in good standing. He need not be a resident of the
+Municipality.  
 (Ord.1965-638. Passed 12-27-65.)
 
 ## 123.04   Duties of director

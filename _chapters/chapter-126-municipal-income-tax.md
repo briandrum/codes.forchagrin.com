@@ -434,8 +434,8 @@ of this chapter and including:
 
 Such tax shall be levied, collected and paid with respect to the salaries,
 wages, commissions and other compensation, and with respect to the net profits
-of businesses, professions or other activities earned on and after July 1, 1981.
- 
+of businesses, professions or other activities earned on and after
+July 1, 1981.  
 (Ord.1980-61. Approved by voters 3-3-81.)
 
 ## Determination of allocation of tax

@@ -45,8 +45,8 @@ or industrial operation or process.
 
 4. _(d)_ "Nonacceptable industrial wastes" means liquid wastes in which are
 incorporated minerals, oil, acid, toxic, metallic or chemical substances,
-resulting from any commercial, manufacturing or industrial operation or process.
- 
+resulting from any commercial, manufacturing or industrial operation or
+process.  
 (Ord. 1968-729. Passed 6-18-68.)
 
 ## 917.02   Declaration of necessity

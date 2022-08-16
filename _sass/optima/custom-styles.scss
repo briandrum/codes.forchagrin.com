@@ -105,7 +105,7 @@
   margin-top: 0 !important;
 }
 
-.Markdown h2#sections + ul li::marker {
+.Markdown h2#sections + ul > li::marker {
   content: "§ ";
 }
 

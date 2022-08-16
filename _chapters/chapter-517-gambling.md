@@ -1044,7 +1044,7 @@ Section 517.01(o)(1) shall do any of the following:
     distributor issued a license under Ohio R.C. 2915.081;
 
     11. _(11)_
-    
+
         1. _(A)_ Use or permit the use of electronic bingo aids except under the
         following circumstances:
 
@@ -1210,7 +1210,7 @@ the following:
     participants in an instant bingo game;
 
     12. _(12)_
-    
+
         1. _(A)_ Allow instant bingo tickets or cards to be sold to bingo game
         operators at a premises at which the organization sells instant bingo
         tickets or cards or to be sold to employees of a D permit holder who are

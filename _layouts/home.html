@@ -34,7 +34,7 @@ layout: default
     {%- if page.list_title -%}
       <h2>{{ page.list_title }}</h2>
     {%- endif -%}
-  
+
     {%- assign date_format = site.optima.date_format | default: "%b %-d, %Y" -%}
     {%- for post in posts limit:3 -%}
     <article>
