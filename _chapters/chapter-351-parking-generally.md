@@ -42,7 +42,7 @@ title: "Chapter 351: Parking Generally"
 Whenever any police officer finds a vehicle unattended upon any street, bridge
 or causeway, or in any tunnel, where such vehicle constitutes an obstruction to
 traffic, such officer may provide for the removal of such vehicle to the nearest
-garage or other place of safety.  
+garage or other place of safety.\
 (ORC 4511.67)
 
 ## 351.02   Registered owner prima-facie liable for unlawful parking
@@ -71,12 +71,12 @@ the following places:
 
 4. _(d)_ Within ten feet of a fire hydrant;
 
-5. _(e)_ On a crosswalk;  
+5. _(e)_ On a crosswalk;\
 (Ord. 1973-904. Passed 5-1-73.)
 
 6. _(f)_ Within twenty feet of a crosswalk at an intersection, except when
 expressly permitted by signage and/or street markings and when designated on the
-Traffic Control Map;  
+Traffic Control Map;\
 (Ord. 2017-14. Passed 11-13-17.)
 
 7. _(g)_ Within thirty feet of, and upon the approach to, any flashing beacon,
@@ -103,12 +103,12 @@ perform such act, and not when there is parking space available within
 reasonable distance of such establishment; or when there is an alley or
 other facilities available in connection with a business or business
 establishment for such purpose; and also, not when the operator of such
-vehicle is performing some act in connection with his personal affairs;  
+vehicle is performing some act in connection with his personal affairs;\
 (Ord. 1973-904. Passed 5-1-73.)
 
 13. _(m)_ Upon any bridge or other elevated structure upon a street, except when
 expressly permitted by signage and/or street markings and when designated on the
-Traffic Control Map;  
+Traffic Control Map;\
 (Ord. 2017-14. Passed 11-13-17.)
 
 14. _(n)_ At any place where signs prohibit or limit stopping, standing or
@@ -121,7 +121,7 @@ emergency;
 
 17. _(q)_ Upon any street or other areas designated as a fire lane;
 
-18. _(r)_ On the roadway portion of a freeway, expressway or thruway.  
+18. _(r)_ On the roadway portion of a freeway, expressway or thruway.\
 (Ord. 1973-904. Passed 5-1-73.)
 
 ## 351.04   Parking near curb; handicapped locations on public and private lots and garages
@@ -161,7 +161,7 @@ and receive passengers or to load or unload merchandise.
         1. _(A)_ Except as provided in subsection (c)(1)B. hereof, no vehicle
         shall be stopped or parked on a road or highway with the vehicle facing
         in a direction other than the direction of travel on that side of the
-        road or highway.  
+        road or highway.
 
         2. _(B)_ The operator of a motorcycle may back the motorcycle into an
         angled parking space so that when the motorcycle is parked it is facing
@@ -274,7 +274,7 @@ where the vehicle is parked in such a manner as to be clearly a traffic hazard.
     windshield placard issued under Ohio R.C. 4503.41 or 4503.44, and also mean
     any substantially similar license plates or removable windshield placard or
     temporary removable windshield placard issued by a state, district, country
-    or sovereignty.  
+    or sovereignty.\
     (ORC 4511.69)
 
 ## 351.05   Angle parking; parking within marked spaces
@@ -288,7 +288,7 @@ operated and maintained under the control and jurisdiction of the Municipality,
 where automobile parking spaces have been designated by ground markings or in
 any other manner, no automobile or other vehicle shall be parked at any point
 within such parking lot, except at such designated places and within one
-individual designated parking space.  
+individual designated parking space.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 351.06   Selling, washing or repairing vehicle upon roadway; advertising
@@ -329,7 +329,7 @@ No person shall open the door of a vehicle on the side available to moving
 traffic unless and until it is reasonably safe to do so, and can be done without
 interfering with the movement of other traffic, nor shall any person leave a
 door open on the side of a vehicle available to moving traffic for a period of
-time longer than necessary to load or unload passengers.  
+time longer than necessary to load or unload passengers.\
 (ORC 4511.70(C))
 
 ## 351.09   Truck loading zones
@@ -396,13 +396,13 @@ upon such street or highway.
 This section does not apply to the driver of any vehicle which is disabled while
 on the paved or improved or main traveled portion of a street or highway in such
 manner and to such extent that it is impossible to avoid stopping and
-temporarily leaving the disabled vehicle in such position.  
+temporarily leaving the disabled vehicle in such position.\
 (ORC 4511.66)
 
 ## 351.13   Blockading or obstructing street
 
 No vehicle shall be allowed to remain upon or be driven so as to willfully
-blockade or obstruct any street.  
+blockade or obstruct any street.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 351.14   Night parking generally
@@ -410,7 +410,7 @@ blockade or obstruct any street.
 No person shall park or permit any vehicle to be parked on any street or
 municipal parking lot between the hours of 2:00 o'clock a.m. and 6:00 o'clock
 a.m. on any day, except emergency and public safety vehicles and physicians on
-emergency calls.  
+emergency calls.\
 (Ord. 1998-88. Passed 9-28-98.)
 
 ### 351.141   Parking prohibitions on private property; private tow-away zones
@@ -452,14 +452,14 @@ if all of the following conditions are satisfied:
         during the day or night upon the submission of proof of ownership and
         the payment of a towing charge in an amount not to exceed ninety dollars
         ($90.00) and a storage charge in an amount not to exceed twenty dollars
-        ($20.00) per twenty-four hour period.  
+        ($20.00) per twenty-four hour period.\
         (Ord. 2016-27. Passed 6-13-16.)
 
     2. _(2)_ The place to which the towed vehicle is taken and from which it may
     be recovered is conveniently located, is well lighted, and is on or within a
     reasonable distance of a regularly scheduled route of one or more modes of
     public transportation, if any public transportation is available in the
-    Municipality.  
+    Municipality.\
     (Ord. 1998-54. Passed 7-13-98.)
 
 4. _(d)_ If a vehicle is parked on private property that is established as a
@@ -487,7 +487,7 @@ than in accordance with this section.
 6. _(f)_ If an owner of private property, or his or her authorized agent,
 removes or causes the removal of a vehicle from that property pursuant to this
 section, the owner or agent shall notify the Police Department of the removal
-and of the vehicle's license plate number.  
+and of the vehicle's license plate number.\
 (ORC 4511.681)
 
 7. _(g)_ Whoever violates subsection (e) hereof is guilty of a minor misdemeanor
@@ -501,13 +501,13 @@ be punished as provided in Section 303.99.
 No person shall park a school bus, commercial tractor, agricultural tractor,
 truck of more than one-half ton capacity, bus, trailer, semitrailer, pole
 trailer or moving van on any street within the residential districts of the
-Municipality between one hour after sunset and one hour before sunrise.  
+Municipality between one hour after sunset and one hour before sunrise.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 351.16   Parking transport trucks
 
 No transport truck shall park longer than thirty minutes on any public street,
-avenue, alley, lane, boulevard, road or highway, except in case of emergency.  
+avenue, alley, lane, boulevard, road or highway, except in case of emergency.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 351.17   Waiver
@@ -530,7 +530,7 @@ dollars ($60.00) and the Police Department shall notify the Bureau of Motor
 Vehicles to place a registration block upon the vehicle cited until the fine is
 deposited if not deposited within sixty (60) days of the citation date, and in
 which event the violator shall pay the cost, if any, to remove the registration
-block when the fine is deposited, may be fined such amounts by the Court.  
+block when the fine is deposited, may be fined such amounts by the Court.\
 (Ord. 2017-75. Passed 11-13-17.)
 
 2. _(b)_
@@ -571,7 +571,7 @@ block when the fine is deposited, may be fined such amounts by the Court.
     Bureau of Motor Vehicles to place a registration block upon the vehicle
     cited until the fine is deposited if not deposited within sixty (60) days of
     the citation date, and in which event the violator shall pay the cost, if
-    any, to remove the registration block when the fine is paid.  
+    any, to remove the registration block when the fine is paid.\
     (Ord. 2017-05. Passed 2-13-17.)
 
 3. _(c)_ .
@@ -588,7 +588,7 @@ Clerk of the Bedford Municipal Court shall be under no duty or obligation to
 accept payment by gold, silver and other coins that are intended to circulate as
 currency. If payment is tendered by a check that is not honored by the payor's
 bank, the violator shall pay all costs and expenses incurred by the Municipality
-resulting from the dishonor of the bank check.  
+resulting from the dishonor of the bank check.\
 (Ord. 2017-56. Passed 9-11-17.)
 
 ## 351.18   Issuance of parking permits for village leased parking spaces
@@ -611,7 +611,7 @@ Village without a permit required by this Section.
 
 2. _(b)_ Any person who violates subsection (a) hereof is guilty of a minor
 misdemeanor and subject to the penalties provided in Codified Ordinance Section
-303.99.  
+303.99.\
 (Ord. 2019-26. Passed 4-8-19.)
 
 ## 351.99   Penalty

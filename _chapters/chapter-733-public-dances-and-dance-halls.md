@@ -62,7 +62,7 @@ does not and will not constitute a threat to the public welfare. The application
 shall contain such information as the Mayor shall deem necessary. The fee for
 such license shall be six hundred dollars ($600.00) per year or any fraction
 thereof. The license shall expire on December 31 and there shall be no prorating
-of the fee.  
+of the fee.\
 (Ord. 1969-771. Passed 7-1-69; Ord. 1990-79. Passed 10-8-79; Ord. 2005-28.
 Passed 6-13-05.)
 

@@ -23,5 +23,5 @@ the Municipality shall construct such street of concrete, having a width of at
 least twenty-four feet, in accordance with the design, specifications and
 standards attached to original Ordinance 1973-903 and made a part hereof as
 though fully set forth, marked "Exhibit A," prepared by the Village Engineer, C.
-W. Courtney Engineering Company, dated October 11, 1965.  
+W. Courtney Engineering Company, dated October 11, 1965.\
 (Ord. 1973-903. Passed 4-3-73.)

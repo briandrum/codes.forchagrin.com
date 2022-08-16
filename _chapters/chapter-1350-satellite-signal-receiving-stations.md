@@ -53,7 +53,7 @@ objects included in, or eligible for inclusion on, the National Register of
 Historic Places; and
 
 6. _(f)_ To establish regulations which are reasonable and necessary to achieve
-the stated objectives.  
+the stated objectives.\
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.02   Definition
@@ -61,7 +61,7 @@ the stated objectives.
 "Dish-type, satellite signal-receiving earth station", sometimes referred to
 hereinafter as earth station or dish antenna, means an antenna of dish shape
 that is accessory to a permitted main building and installed for the purpose of
-receiving signals related to communications for satellite transmissions.  
+receiving signals related to communications for satellite transmissions.\
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.03   Permit not required
@@ -112,7 +112,7 @@ or Limited Industrial Zoning Districts subject to the following:
 
     3. _(3)_ If not attached to the main building, such dish antenna, including
     its base or substructure, shall be located in a side or rear yard no less
-    than ten feet from any lot line.  
+    than ten feet from any lot line.\
     (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.04   Permit required; fee
@@ -121,7 +121,7 @@ Except as provided in Section 1350.03, no person, firm or corporation shall
 erect a satellite dish-type earth station without a permit and no installation
 or erection shall commence before a permit is issued in accordance with this
 Chapter. The permit fee for a satellite dish earth station is seventy dollars
-($70.00).  
+($70.00).\
 (Ord. 2000-95. Passed 11-27-00; Ord. 2005-28. Passed 6-13-05.)
 
 ## 1350.05   Application for permit; plans
@@ -178,7 +178,7 @@ may apply to the Administrator for the permit as required by this Chapter.
 
     2. _(2)_ Once the requirements of this chapter have been satisfied, the
     application shall be referred to the Architectural Review Board, which shall
-    review the application for compliance with Chapter 1146.  
+    review the application for compliance with Chapter 1146.\
     (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.06   Location of satellite dish earth station
@@ -195,7 +195,7 @@ least equal to the height by which it exceeds the building height.
 
 3. _(c)_ No earth station shall be linked to receivers which are not located on
 the same lot or premises as the earth station, unless the owner or occupant of
-the premises is operating pursuant to a franchise granted by the Village.  
+the premises is operating pursuant to a franchise granted by the Village.\
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.07   Earth station support structures
@@ -228,19 +228,19 @@ Article 250 and related articles.
 be protected by a suitable shield.
 
 8. _(h)_ The structure must be in conformance with the National Electric Code
-Article 800 and related articles as referenced.  
+Article 800 and related articles as referenced.\
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.08   Size
 
 The maximum diameter of any earth station shall not exceed four meters (156
-inches).  
+inches).\
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.09   Height
 
 Unless attached to a main building, the maximum height of any earth station
-structure shall not exceed thirteen feet from natural grade level.  
+structure shall not exceed thirteen feet from natural grade level.\
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.10   Screening; lettering; color
@@ -251,7 +251,7 @@ to the guideline of Section 1142.06 (b) of the Zoning Code.
 
 2. _(b)_ No lettering, numerals, symbols, pictorial signs or designs shall be
 permitted on any surface of the earth station. No earth station dish shall be
-painted in a color other than grey, white or earth tones.  
+painted in a color other than grey, white or earth tones.\
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.11   Dismantling and removal
@@ -259,7 +259,7 @@ painted in a color other than grey, white or earth tones.
 In the event that a satellite dish no longer serves its intended purpose, it
 shall be the responsibility of the owner of such premises upon which an earth
 station is located to cause the same to be dismantled completely, including all
-support structures and appurtenances and removed from the property.  
+support structures and appurtenances and removed from the property.\
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.12   Limitations
@@ -269,11 +269,11 @@ unit.
 
 2. _(b)_ Only one dish antenna of any type shall be permitted for each
 commercial use as determined by the Administrator based on a review of Occupancy
-Permits.  
+Permits.\
 (Ord. 2000-95. Passed 11-27-00.)
 
 ## 1350.99   Penalty
 
 Whoever violates or fails to comply with any provision of this chapter is guilty
-of a misdemeanor of the first degree.  
+of a misdemeanor of the first degree.\
 (Ord. 2000-95. Passed 11-27-00.)

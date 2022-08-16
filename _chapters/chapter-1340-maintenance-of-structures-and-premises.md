@@ -51,7 +51,7 @@ repair, maintenance and nuisance prevention.
 2. _(b)_ The provisions of this chapter shall be supplementary to all other
 provisions of the ordinances of the Municipality relating to the construction,
 use and maintenance of buildings and shall apply to all buildings or portions
-thereof, within the municipal limits.  
+thereof, within the municipal limits.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.02   Definitions
@@ -199,7 +199,7 @@ result of such exposure.
 
 28. _(bb)_ "Workmanlike" means executed in a skilled manner with a quality of
 construction that is generally plumb, level, square in line, undamaged and
-without marring adjacent work or materials.  
+without marring adjacent work or materials.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.03   Conflict
@@ -211,7 +211,7 @@ pursuant to such ordinances, the more restrictive provisions shall prevail. The
 provisions of Chapter 1146 of the Codified Ordinances shall be deemed to be more
 restrictive than Chapter 1340 of the Codified Ordinances and no Historically
 Significant Property shall be demolished without compliance with Chapter 1146 of
-the Codified Ordinances.  
+the Codified Ordinances.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.04   Severability
@@ -221,7 +221,7 @@ thereof are declared to be independent sections, subsections, parts and
 provisions, and the holding of any such section, subsection, part or provision
 thereof to be unconstitutional, void or ineffective for any cause shall not
 affect or render invalid any other such section, subsection, part or provision
-thereof.  
+thereof.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.05   Enforcement; legal action
@@ -233,14 +233,14 @@ maintenance; to restrain, correct or abate a violation; to prevent the occupancy
 of a building, structure or premises; to require compliance with the provisions
 of this chapter or other applicable laws, ordinances, rules or regulations, or
 the orders or determinations of the Building Inspector, the Mayor, or the Board
-of Zoning Appeals.  
+of Zoning Appeals.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.06   Maintenance responsibilities
 
 No owner, occupant, or operator, shall occupy or allow to exist any premises,
 building, structures or any parts thereof, which do not comply with the
-provisions of this chapter.  
+provisions of this chapter.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.07   Inspection
@@ -248,7 +248,7 @@ provisions of this chapter.
 The Building Inspector is authorized to make or cause to be made inspections of
 all structures or premises and all secondary or appurtenant structures to
 determine whether such structures or premises conform to the provisions of this
-chapter or other provisions of the Building Code.  
+chapter or other provisions of the Building Code.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.08   Notice of violation
@@ -274,7 +274,7 @@ upon such local agent or representative shall be deemed to be notice upon the
 owner. Any such notice shall also be sent by registered mail to the last known
 address of the owner. Notice may also be posted in a conspicuous place on the
 structure or premises to which it relates. No person shall remove or deface such
-posted notice without the written permission of the Building Inspector.  
+posted notice without the written permission of the Building Inspector.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 3. _(c)_ If the person to whom the notice and order is addressed is not found
@@ -313,7 +313,7 @@ structure or building, shall begin, upon the date of transfer, to comply with
 any notice or order obtained or to be obtained pursuant to Chapter 1340 of the
 Codified Ordinances and, within ten (10) days of the date of transfer, shall
 notify the Building Inspector, in writing, of the actions that will be taken to
-comply. The Building Inspector may then establish a reasonable time to comply.  
+comply. The Building Inspector may then establish a reasonable time to comply.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.09   General maintenance requirements
@@ -324,7 +324,7 @@ All equipment and facilities appurtenant to a structure and premises shall be
 maintained in good repair.
 
 2. _(b)_ Repairs, maintenance work, alterations or installations shall be
-executed and installed in a workmanlike manner.  
+executed and installed in a workmanlike manner.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.10   Maintenance of foundations
@@ -341,14 +341,14 @@ against infestation.
 4. _(d)_ Where parts of structures are supported on masonry piers and the
 structure or piers require substantial repair, such piers shall be replaced with
 a foundation conforming to the Ohio Residential Code as adopted and amended by
-the Municipality.  
+the Municipality.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.11   Maintenance of roofs, gutters and downspouts
 
 All roofs of every building shall be maintained weathertight and shall be
 equipped with gutters and downspouts connected to a public storm sewer if
-available, or as otherwise approved by the Building Inspector.  
+available, or as otherwise approved by the Building Inspector.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.12   Maintenance of exteriors of structures and secondary or appurtenant structures
@@ -386,7 +386,7 @@ grime, shall be cleaned, repaired, repainted or resurfaced.
     2. _(2)_ All bare exterior surfaces which are flaking or crumbling shall be
     replaced or sealed in a workmanlike manner.
 
-    3. _(3)_ All new or repaired bare surfaces shall be painted or coated.  
+    3. _(3)_ All new or repaired bare surfaces shall be painted or coated.\
     (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.13   Maintenance of interior walls and floors
@@ -396,13 +396,13 @@ good repair free of deterioration.
 
 2. _(b)_ The floors of all bathrooms and water closet compartments shall have a
 cove base at all walls and partitions. Floor surfaces and cove base shall be of
-nonabsorbent materials with moisture-resistant joints.  
+nonabsorbent materials with moisture-resistant joints.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.14   Infestation by pests
 
 All structures and the premises thereof shall be maintained free from sources of
-breeding, harborage and infestation by insects, vermin or rodents.  
+breeding, harborage and infestation by insects, vermin or rodents.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.15   Exterior property areas
@@ -412,7 +412,7 @@ object, material or condition which may create a public safety or fire hazard,
 or which is a public nuisance, or which constitutes a blighting or deteriorating
 influence on the neighborhood. Lawns, landscaping and driveways shall also be
 maintained so as not to constitute a blighting or deteriorating influence to the
-buildings adjacent to such premises.  
+buildings adjacent to such premises.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.16   Secondary or appurtenant structures
@@ -428,7 +428,7 @@ as otherwise approved by the Building Inspector.
 3. _(c)_ Where foundations of secondary or appurtenant structures have
 deteriorated or settled to the point where wall plates or studs are rotting,
 they shall be replaced with foundations as required under the applicable
-building code.  
+building code.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.17   Rubbish and garbage disposal
@@ -439,7 +439,7 @@ approved receptacles or in other approved rubbish disposal facilities.
 2. _(b)_ Every occupant of a structure shall dispose of garbage and other waste
 which might provide food for insects and rodents, in approved nonleakable,
 nonabsorbent, covered garbage storage receptacles or in other approved garbage
-disposal facilities.  
+disposal facilities.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.18   Vacant buildings; plant or commercial building closings
@@ -566,7 +566,7 @@ pursuant to other provisions of the Building Code or other law.
 
 7. _(g)_ **Failure to Comply With Plan.** Failure to comply with the approved
 plan shall constitute a violation of this section, subjecting the owner of the
-building to penalties as provided in this chapter.  
+building to penalties as provided in this chapter.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 ## 1340.19   Appeals
@@ -575,7 +575,7 @@ building to penalties as provided in this chapter.
 other action by the Village in relation to enforcement or interpretation of
 Chapter 1340, may appeal to the Board of Zoning Appeals within ten days of such
 official action. Such an appeal shall be made in conformity with Chapter 1111.
-Written notice of appeal shall be served on the Village.  
+Written notice of appeal shall be served on the Village.\
 (Ord. 2016-61. Passed 10-24-16.)
 
 2. _(b)_ Any notice served by the Building Inspector shall automatically become
@@ -584,7 +584,7 @@ Appeals is filed in the office of the Board of Zoning Appeals within the time
 set forth in the notice from the Building Inspector, but in no event greater
 than thirty (30) days after receipt of such notice. In the absence of an appeal,
 all actions taken shall constitute a valid exercise of the police powers of the
-Village of Chagrin Falls.  
+Village of Chagrin Falls.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.20   Declaration of nuisance
@@ -603,7 +603,7 @@ declared to be a public nuisance.
 2. _(b)_ The public nuisance shall be abated by correction of the violations to
 the minimum standards of the Codified Ordinances of the Village of Chagrin
 Falls, Ohio, applicable rules and regulations, the Ohio Revised Code and the
-Ohio Administrative Code, including the Ohio Building Code, or by demolition.  
+Ohio Administrative Code, including the Ohio Building Code, or by demolition.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.21   Examination and condemnation
@@ -621,7 +621,7 @@ infirmity, is an immediate hazard to human life or health, may only be abated by
 immediate repair and rehabilitation to the minimum standards of the Codified
 Ordinances of the Village of Chagrin Falls, applicable Village rules and
 regulations, the Ohio Revised Code, and the Ohio Administration Code, including
-the Ohio Building Code, or by demolition.  
+the Ohio Building Code, or by demolition.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.22   Securing of structures
@@ -644,7 +644,7 @@ deemed to constitute "effective boarding" under this section, and it does not
 abate the nuisance condition of an unsafe structure, as declared under division
 (1) of this section. Later notice, issued under Section 1340.08, shall include
 the fact that the Building Inspector found it necessary to take appropriate
-action to secure the structure.  
+action to secure the structure.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.23   Vacating building and prohibiting use
@@ -661,7 +661,7 @@ corrections are made or demolition is completed. No person shall remove the
 notice without written permission of the Building Inspector, nor shall any
 person use or enter the building or structure except for the purpose of making
 the required corrections or demolishing or effectively boarding the building or
-structure, or securing the structure pursuant to Chapter 1340.  
+structure, or securing the structure pursuant to Chapter 1340.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.24   Noncompliance with notice
@@ -756,7 +756,7 @@ take any action necessary to collect the costs of demolition, boarding, or other
 nuisance abatement from the owner or other responsible party, including but not
 limited to filing of legal proceedings, referring the amount due for collection
 action, including filing civil complaints, and initiating post judgment
-execution actions.  
+execution actions.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.25   Utility services
@@ -810,7 +810,7 @@ provided by law, may institute proper suit in equity or at law to prevent or
 terminate such violation or remedy such situation.
 
 7. _(g)_ The Building Inspector may promulgate rules and regulations to enforce
-this section.  
+this section.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.99   Penalty
@@ -818,5 +818,5 @@ this section.
 Any person violating any provision of this chapter is guilty of a misdemeanor of
 the first degree, and shall be fined not more than one thousand dollars ($1,000)
 or imprisoned not more than six months, or both. A separate offense shall be
-deemed committed each day during or on which an offense occurs or continues.  
+deemed committed each day during or on which an offense occurs or continues.\
 (Ord. 2016-61. Passed 10-24-16.)

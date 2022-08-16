@@ -42,7 +42,7 @@ Such Department shall consist of a part-time Fire Chief, to be appointed as
 provided by Article VII of the Charter, and such number of members as authorized
 by ordinance, to be appointed by Council, all of whom shall be volunteer members
 whose services shall be subject to call for attendance at fires and for
-maintenance and care of equipment whenever needed.  
+maintenance and care of equipment whenever needed.\
 (Ord. 2000-87. Passed 11-13-00.)
 
 ## 131.02   Code of by-laws, rules and regulations
@@ -59,7 +59,7 @@ code of by-laws, rules and regulations shall not become effective unless
 approved by resolution of Council.
 
 Any such code of by-laws may provide for officers lower in rank but in addition
-to the Fire Chief.  
+to the Fire Chief.\
 (Ord.1930-142. Passed 12-8-30.)
 
 ## 131.03   Duties of firemen
@@ -69,7 +69,7 @@ and to fight fires in this Municipality and such surrounding territory as may be
 served by such Fire Department. Firemen shall also perform such other duties as
 are usually performed by firemen in other municipalities. Each of such
 volunteers shall be subject to call at any time and shall receive compensation
-as prescribed by Council.  
+as prescribed by Council.\
 (Ord.1954-301. Passed 2-22-54. )
 
 ## 131.04   Monthly fire drill
@@ -77,7 +77,7 @@ as prescribed by Council.
 The Volunteer Fire Department shall hold a fire drill at least once each month,
 at a time and place as directed by the Fire Chief. Each volunteer fireman
 performing his duties at such fire drill shall receive the compensation
-prescribed by Council for each drill.  
+prescribed by Council for each drill.\
 (Ord.1954-301. Passed 2-22-54.)
 
 ## 131.05   Employee rights of volunteer firemen
@@ -88,5 +88,5 @@ privileges and be subject to all of the rules and regulations that fix the
 rights and duties of regularly-employed firemen in Ohio villages, except as such
 rights may be otherwise herein specified, limited or abridged. The Municipality
 shall, if it so desires, carry such insurance against loss or damage or injury
-to persons or property as it deems advisable.  
+to persons or property as it deems advisable.\
 (Ord.1930-142. Passed 12-8-30.)

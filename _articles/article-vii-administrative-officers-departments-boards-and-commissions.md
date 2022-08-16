@@ -31,7 +31,7 @@ The Council may establish by ordinance new departments or divisions thereof, and
 with the exception of the departments, boards or commissions established by this
 Charter, may combine or abolish existing departments or divisions as it may deem
 necessary and may authorize one person to be head of two or more departments or
-divisions.  
+divisions.\
 (Amended 11-3-81)
 
 ## Section VII-2: Police and fire officers
@@ -60,7 +60,7 @@ least comparable size to that of this Municipality.
 Council, or when the Municipality becomes a city, the regular police and fire
 officers may be removed for the causes and under the procedure provided by the
 general laws of the State of Ohio for the removal of Village police and fire
-officers.  
+officers.\
 (Amended 11-3-81)
 
 ## Section VII-3: Director of Law
@@ -76,7 +76,7 @@ represent the Municipality in all proceedings in court or before any
 administrative board; and shall perform such other duties, consistent with the
 office, as may be required by this Charter, by ordinance of the Council, or as
 directed by the Mayor. No person shall act as Director of Law unless duly
-admitted to practice law in the State of Ohio.  
+admitted to practice law in the State of Ohio.\
 (Amended 11-6-01)
 
 ## Section VII-4: Planning and Zoning Commission
@@ -110,7 +110,7 @@ Commission shall be necessary for any official action.
 
 The Commission shall have such power and perform such duties as may be
 prescribed by ordinance of Council or by the laws of Ohio to the extent they are
-not inconsistent with this Charter or such ordinances.  
+not inconsistent with this Charter or such ordinances.\
 (Amended 11-3-81; 11-4-86; 11-8-16; 11-6-18)
 
 ## Section VII-5: Board of Zoning Appeals
@@ -137,7 +137,7 @@ A vacancy occurring during the term of any member shall be filled for the
 unexpired term in the manner authorized for an original appointment.
 
 Such Board shall have such other duties and functions as may be provided by
-ordinance of Council.  
+ordinance of Council.\
 (Amended 11-6-07; 11-8-16; 11-6-18)
 
 ## Section VII-6: Civil Service Commission
@@ -182,7 +182,7 @@ but such removal shall not take place without the concurrence of a majority of
 all the members of Council. The Municipal Engineer shall be a registered
 professional engineer in the State of Ohio, shall perform such duties as may be
 prescribed by Council, and shall receive such compensation by fees or salary, or
-both, as may be provided by ordinance of Council.  
+both, as may be provided by ordinance of Council.\
 (Amended 11-7-06)
 
 ## Section VII-9: Architectural Board of Review
@@ -236,7 +236,7 @@ buildings, signs and structures. The Board shall exercise such other powers and
 duties as may be established by ordinance of Council. The Board may not act
 without a quorum present. A quorum shall consist of a minimum of two voting
 members of the Board and, if neither of the voting members of the Board is an
-architect, one architect advisor must be present to establish the quorum.  
+architect, one architect advisor must be present to establish the quorum.\
 (Amended 11-4-08; 11-6-18)
 
 ## Section VII-10: Removal of members of the Planning and Zoning Commission, Board of Zoning Appeals, and Architectural Board of Review
@@ -248,5 +248,5 @@ office, incapacity or incompetency, or for conflict of interest, provided,
 however, that such removal shall not become final without the concurrence of a
 majority of the members of Council. The Council may remove any such appointee,
 without the consent of the Mayor, upon unanimous consent of its members, for the
-same reasons.  
+same reasons.\
 (Added 11-3-81; Amended 11-8-16)

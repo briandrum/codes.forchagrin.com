@@ -45,7 +45,7 @@ Section 301.20.
 4. _(d)_ "Public thoroughfares" means the entire width between the boundary
 lines of any highway, road, street, avenue, alley, public place or public
 driveway within the Municipality when any part thereof is open to the use of the
-public, as a matter of right, for purposes of vehicular traffic.  
+public, as a matter of right, for purposes of vehicular traffic.\
 (Ord. 1972-860. Passed 3-21-72.)
 
 ## 375.02   Operation
@@ -64,12 +64,12 @@ public, as a matter of right, for purposes of vehicular traffic.
     requested to do so by such land owner, shall promptly remove such snowmobile
     and any all purpose vehicle from the premises.
 
-    4. _(4)_ Between the hours of ten p. m. and seven a. m.  
+    4. _(4)_ Between the hours of ten p. m. and seven a. m.\
     (Ord. 1972-860. Passed 3-21-72.)
 
 2. _(b)_ Whoever violates this section shall be fined not less than fifty
 dollars ($50.00) nor more than five hundred dollars ($500.00), imprisoned not
-less than three nor more than thirty days, or both.  
+less than three nor more than thirty days, or both.\
 (ORC 4519.40)
 
 ## 375.03   Emergencies
@@ -82,5 +82,5 @@ when a snow emergency is declared by the Mayor or Chief of Police, after
 reasonable efforts to announce such snow emergency by use of the local press,
 radio and television stations. Such snow emergency is defined and may be
 declared when snowfall in the Municipality exceeds a depth of four inches during
-any twenty-four hour or less period.  
+any twenty-four hour or less period.\
 (Ord. 1972-860. Passed 3-21-72.)

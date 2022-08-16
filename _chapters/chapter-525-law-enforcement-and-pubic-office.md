@@ -113,7 +113,7 @@ not included in those terms before September 17, 1986.
 "legislative campaign fund," and "political party" have the same meanings as in
 Ohio R.C. 3517.01.
 
-9. _(i)_ "Provider agreement" has the same meaning as in Ohio R.C. 5164.01.  
+9. _(i)_ "Provider agreement" has the same meaning as in Ohio R.C. 5164.01.\
 (ORC 2921.01)
 
 ## 525.02   Falsification
@@ -201,7 +201,7 @@ incurred as a result of the commission of the offense and for reasonable
 attorney's fees, court costs, and other expenses incurred as a result of
 prosecuting the civil action commenced under this section. A civil action under
 this section is not the exclusive remedy of a person who incurs injury, death,
-or loss to person or property as a result of a violation of this section.  
+or loss to person or property as a result of a violation of this section.\
 (ORC 2921.13)
 
 ## 525.03   Impersonation of peace officer
@@ -265,7 +265,7 @@ that the impersonation of the peace officer was for a lawful purpose.
 the fourth degree. Whoever violates subsections (c) or (d) hereof is guilty of a
 misdemeanor of the first degree. If the purpose of a violation of subsection (d)
 hereof is to commit or facilitate the commission of a felony, such violation is
-a felony and shall be prosecuted under appropriate State law.  
+a felony and shall be prosecuted under appropriate State law.\
 (ORC 2921.51)
 
 ## 525.04   Compounding a crime
@@ -292,7 +292,7 @@ under subsection (b) hereof, the abandonment or agreement in no way binds the
 State or Municipality to abandoning the prosecution.
 
 4. _(d)_ Whoever violates this section is guilty of compounding a crime, a
-misdemeanor of the first degree.  
+misdemeanor of the first degree.\
 (ORC 2921.21)
 
 ## 525.05   Failure to report a crime, injury or knowledge of death
@@ -465,7 +465,7 @@ failure to report knowledge of a death, a misdemeanor of the fourth degree.
     of a misdemeanor of the second degree.
 
 12. _(l)_ As used in this section, "nurse" includes an advanced practice
-registered nurse, registered nurse, and licensed practical nurse.  
+registered nurse, registered nurse, and licensed practical nurse.\
 (ORC 2921.22)
 
 ## 525.06   Failure to aid a law enforcement officer
@@ -476,7 +476,7 @@ of an offense, or in apprehending or detaining an offender, when such aid can be
 given without a substantial risk of physical harm to the person giving it.
 
 2. _(b)_ Whoever violates this section is guilty of failure to aid a law
-enforcement officer, a minor misdemeanor.  
+enforcement officer, a minor misdemeanor.\
 (ORC 2921.23)
 
 ## 525.07   Obstructing official business
@@ -491,7 +491,7 @@ duties.
 business. Except as otherwise provided in this subsection (b), obstructing
 official business is a misdemeanor of the second degree. If a violation of this
 section creates a risk of physical harm to any person, obstructing official
-business is a felony and shall be prosecuted under appropriate State law.  
+business is a felony and shall be prosecuted under appropriate State law.\
 (ORC 2921.31)
 
 ## 525.08   Obstructing justice
@@ -551,7 +551,7 @@ person or child aided committed.
     1. _(1)_ "Adult" and "child" have the same meanings as in Ohio R.C.
     2151.011.
 
-    2. _(2)_ "Delinquent child" has the same meaning as in Ohio R.C. 2152.02.  
+    2. _(2)_ "Delinquent child" has the same meaning as in Ohio R.C. 2152.02.\
     (ORC 2921.32)
 
 ## 525.09   Resisting arrest
@@ -566,7 +566,7 @@ enforcement officer.
 
 3. _(c)_ Whoever violates this section is guilty of resisting arrest. A
 violation of subsection (a) hereof is a misdemeanor of the second degree. A
-violation of subsection (b) hereof is a misdemeanor of the first degree.  
+violation of subsection (b) hereof is a misdemeanor of the first degree.\
 (ORC 2921.33)
 
 ## 525.10   Having an unlawful interest in a public contract
@@ -674,7 +674,7 @@ section is void and unenforceable.
         maintenance of any public property.
 
     2. _(2)_ "Chief legal officer" has the same meaning as in Ohio R.C.
-    733.621.  
+    733.621.\
     (ORC 2921.42)
 
 ## 525.11   Soliciting or receiving improper compensation
@@ -726,7 +726,7 @@ this Municipality for a period of seven years from the date of conviction.
 making voluntary contributions to a political party, campaign committee,
 legislative campaign fund, or political action committee or prohibit a political
 party, campaign committee, legislative campaign fund, or political action
-committee from accepting voluntary contributions.  
+committee from accepting voluntary contributions.\
 (ORC 2921.43)
 
 ## 525.12   Dereliction of duty
@@ -780,7 +780,7 @@ employment, or authority, shall knowingly deprive, or conspire or attempt to
 deprive any person of a constitutional or statutory right.
 
 2. _(b)_ Whoever violates this section is guilty of interfering with civil
-rights, a misdemeanor of the first degree.  
+rights, a misdemeanor of the first degree.\
 (ORC 2921.45)
 
 ## 525.14   Unauthorized display of law enforcement emblems on motor vehicles
@@ -791,7 +791,7 @@ enforcement officers.
 
 2. _(b)_ Whoever violates this section is guilty of the unlawful display of the
 emblem of a law enforcement agency or an organization of law enforcement
-officers, a minor misdemeanor.  
+officers, a minor misdemeanor.\
 (ORC 2913.441)
 
 ## 525.15   Assaulting police dog or horse or an assistance dog
@@ -994,7 +994,7 @@ assistance dog.
         results in substantial suffering.
 
     4. _(4)_ "Assistance dog", "blind", and "mobility impaired person" have the
-    same meanings as in Ohio R.C. 955.011.  
+    same meanings as in Ohio R.C. 955.011.\
     (ORC 2921.321)
 
 ## 525.16   False allegation of peace officer misconduct
@@ -1007,7 +1007,7 @@ alleges that the peace officer engaged in misconduct in the performance of the
 officer's duties if the person knows that the allegation is false.
 
 3. _(c)_ Whoever violates this section is guilty of making a false allegation of
-peace officer misconduct, a misdemeanor of the first degree.  
+peace officer misconduct, a misdemeanor of the first degree.\
 (ORC 2921.15)
 
 ## 525.17   Refusal to disclose personal information in public place
@@ -1048,7 +1048,7 @@ to describe the offense observed.
 
 4. _(d)_ It is not a violation of this section to refuse to answer a question
 that would reveal a person's age or date of birth if age is an element of the
-crime that the person is suspected of committing.  
+crime that the person is suspected of committing.\
 (ORC 2921.29)
 
 ## 525.99   Penalty

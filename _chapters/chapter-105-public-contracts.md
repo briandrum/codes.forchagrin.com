@@ -27,7 +27,7 @@ portion of such property to be surplus and not needed for Village purposes.
 
 2. _(b)_ Such property may be sold, donated, recycled or otherwise disposed- of
 in such manner and under such conditions as Council by motion, passed by
-majority vote, shall determine.  
+majority vote, shall determine.\
 (Ord. 2013-29. Passed 5-13-13.)
 
 ## 105.02   Professional design services; public works
@@ -66,7 +66,7 @@ Public Works Contract will equal or exceed fifty thousand dollars ($50,000), the
 Council shall have the authority, by motion passed by majority vote, to
 authorize the Mayor to sign such Professional Design Services contract. Council
 may satisfy itself as to the Professional Design Firm's qualifications and
-abilities in the manner it deems most suitable.  
+abilities in the manner it deems most suitable.\
 (Ord. 2013-29. Passed 5- 13-13.)
 
 ## 105.03   Contract procedures
@@ -213,5 +213,5 @@ discretion may accept a combined statement of labor and materials from bidders.
 17. _(q)_ **Bonus and Liquidated Damages for Time.** The Village may offer a
 bonus for completion of a contract prior to a specified date or may exact
 liquidated damages for each day of delay beyond a specified date, or both. The
-amounts of the bonus and liquidated damages may be different.  
+amounts of the bonus and liquidated damages may be different.\
 (Ord. 2013-29. Passed 5-13-13.)

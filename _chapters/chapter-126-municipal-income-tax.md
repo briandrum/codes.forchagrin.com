@@ -141,7 +141,7 @@ after January 1, 1986, all moneys received by the Municipality from such income
 tax shall be allocated on the basis of eighty-five percent (85%) for general
 operating purposes, zero percent (0%) for the Permanent Improvement Fund and
 debt retirement, and fifteen percent (15%) for the Street Construction
-Maintenance and Repair Fund.  
+Maintenance and Repair Fund.\
 (Ord.1985-32. Passed 11-25-85.)
 
 ## Definitions
@@ -151,7 +151,7 @@ Maintenance and Repair Fund.
 For the purposes of this chapter, the terms, phrases, words and their
 derivatives shall have the meanings given in the next succeeding sections of
 this chapter. The singular shall include the plural and the masculine shall
-include the feminine and the neuter.  
+include the feminine and the neuter.\
 (Ord.1968-730. Passed 6-18-68.)
 
 #### 126.03011   Adjusted federal taxable income
@@ -163,26 +163,26 @@ additions and deductions. Pass-through entities must compute "adjusted federal
 taxable income" as if the pass-through entity was a "C" corporation. This
 definition does not apply to any taxpayer required to file a return under Ohio
 R.C. 5745.03 or to the net profit from a sole proprietorship. This definition is
-effective for tax years beginning on or after January 1, 2005.  
+effective for tax years beginning on or after January 1, 2005.\
 (Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.0302   Administrator
 
 "Administrator" means the Director of Finance of the Municipality who is
 designated to administer and enforce the provisions of the municipal income
-tax.  
+tax.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0303   Association
 
 "Association" means any partnership, limited partnership or any other form of
-unincorporated enterprise, owned by two or more persons.  
+unincorporated enterprise, owned by two or more persons.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0304   Board of review
 
 "Board of Review" means the Board created by and constituted as provided in
-Section 126.2501 herein.  
+Section 126.2501 herein.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0305   Business
@@ -191,20 +191,20 @@ Section 126.2501 herein.
 nature conducted for profit or ordinarily conducted for profit, whether by an
 individual, partnership, association, corporation or any other entity, excluding
 however, all nonprofit corporations which are exempt from the payment of Federal
-Income Tax.  
+Income Tax.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0306   Corporation
 
 "Corporation" means a corporation or joint stock association organized under the
 laws of the United States, the State of Ohio or any other state, territory or
-foreign country or dependency.  
+foreign country or dependency.\
 (Ord.1968-730. Passed 6-18-68. )
 
 ### 126.0307   Employee
 
 "Employee" means one who works for wages, salary, commission or other type of
-compensation in the service of an employer.  
+compensation in the service of an employer.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0308   Employer
@@ -212,13 +212,13 @@ compensation in the service of an employer.
 "Employer" means an individual, partnership, association, corporation,
 government body, unit or agency or any other entity, whether or not organized
 for profit, who or that employs one or more persons on a salary, wage,
-commission or other basis of compensation.  
+commission or other basis of compensation.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0309   Fiscal year
 
 "Fiscal year" means an accounting period of twelve months or less ending on any
-day other than December 31.  
+day other than December 31.\
 (Ord.1968-730. Passed 6-18-68. )
 
 #### 126.03091   Generic form
@@ -229,12 +229,12 @@ requests for refunds, which contains all the information required on the
 Municipality's regular tax return, estimated payment forms, and request for
 refund forms, and is in a similar format that will allow processing of the
 generic forms without altering the Municipality's procedures for processing
-forms.  
+forms.\
 (Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.0310   Gross receipts
 
-"Gross receipts" means the total income from any source whatever.  
+"Gross receipts" means the total income from any source whatever.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0311   Net profits
@@ -246,18 +246,18 @@ accordance with the accounting system used by the taxpayer for federal income
 tax purposes, without deduction of taxes imposed by this chapter, federal, state
 and other taxes based on income; and in the case of an association, without
 deduction of salaries paid to partners and other owners. For taxable years 2005
-and later, see the definition of adjusted federal taxable income.  
+and later, see the definition of adjusted federal taxable income.\
 (Ord. 1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.0312   Nonresident
 
-"Nonresident" means an individual domiciled outside the Municipality.  
+"Nonresident" means an individual domiciled outside the Municipality.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0313   Nonresident unincorporated business entity
 
 "Nonresident unincorporated business entity" means an unincorporated business
-entity not having an office or place of business within the Municipality.  
+entity not having an office or place of business within the Municipality.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0314   Person
@@ -265,7 +265,7 @@ entity not having an office or place of business within the Municipality.
 "Person" means every natural person, partnership, fiduciary, association or
 corporation. Whenever used in any clause prescribing and imposing a penalty, the
 term "person, " as applied to any unincorporated entity means the partners or
-members thereof, and as applied to corporations, the officers thereof.  
+members thereof, and as applied to corporations, the officers thereof.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0315   Place of business
@@ -273,7 +273,7 @@ members thereof, and as applied to corporations, the officers thereof.
 "Place of business" means any bona fide office (other than a mere statutory
 office), factory, warehouse or other space which is occupied and used by the
 taxpayer in carrying on any business activity individually or through one or
-more of his regular employees regularly in attendance.  
+more of his regular employees regularly in attendance.\
 (Ord.1968-730. Passed 6-18-68.)
 
 #### 126.03151   Qualifying wage
@@ -285,18 +285,18 @@ employees' income including non- qualified deferred compensation and stock
 options from which municipal tax shall be deducted by the employer, and any
 wages not considered a part of "qualifying wage" shall not be taxed by the
 Municipality. This definition is effective January 1, 2005, for taxable years
-2005 and later.  
+2005 and later.\
 (Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.0316   Resident
 
-"Resident" means an individual domiciled in the Municipality.  
+"Resident" means an individual domiciled in the Municipality.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0317   Resident unincorporated business entity
 
 "Resident unincorporated business entity" means an unincorporated business
-entity having an office or place of business within the Municipality.  
+entity having an office or place of business within the Municipality.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0318   Taxable income
@@ -304,7 +304,7 @@ entity having an office or place of business within the Municipality.
 "Taxable income" means qualifying wages, salaries and other compensation paid by
 an employer or employers before any deduction and/or the net profits from the
 operation of a business, profession or other enterprise or activity adjusted in
-accordance with the provisions of this chapter.  
+accordance with the provisions of this chapter.\
 (Ord.1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.0319   Taxable year
@@ -312,21 +312,21 @@ accordance with the provisions of this chapter.
 "Taxable year" means the calendar year, or the fiscal year upon the basis of
 which the net profits are to be computed under this chapter, and in the case of
 a return for a fractional part of a year, the period for which such return is
-required to be made.  
+required to be made.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0320   Taxpayer
 
 "Taxpayer" means a person, whether an individual, partnership, association or
 any corporation or other entity, required hereunder to file a return or pay a
-tax.  
+tax.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0321   Manager
 
 "Manager" means any of the employer's officers, responsible persons, employees
 having control or supervision, and employees charged with the responsibility of
-filing the return, paying taxes and otherwise complying with this chapter.  
+filing the return, paying taxes and otherwise complying with this chapter.\
 (Ord.1986-33. Passed 7-14-86.)
 
 ### 126.0322   Fundamental change
@@ -334,7 +334,7 @@ filing the return, paying taxes and otherwise complying with this chapter.
 "Fundamental change" means any substantial alteration by an employer including
 liquidation, dissolution, bankruptcy and reorganizations such as merger,
 consolidation, acquisition, transfer or change in identity, form or
-organization.  
+organization.\
 (Ord.1986-33. Passed 7-14-86.)
 
 ## Imposition of income tax
@@ -383,7 +383,7 @@ done or services performed or rendered within the Municipality.
 earned on and after July 1, 1981, of all corporations, derived from sales made,
 work done, services performed or rendered, and business or other activities
 conducted in the Municipality, whether or not such corporations have an office
-or place of business in the Municipality.  
+or place of business in the Municipality.\
 (Ord.1980-61. Approved by voters 3-3-81; Ord. 2005-44. Passed 7-11-05.)
 
 6. _(f)_ On the portion attributable to the Municipality pursuant to the terms
@@ -427,7 +427,7 @@ of this chapter and including:
     3. _(3)_ The twelve-day occasional entry rule does not apply to entertainers
     or professional athletes, their employees or individuals who perform
     services on their behalf, or to promoters and booking agents of such
-    entertainment events and sporting events.  
+    entertainment events and sporting events.\
     (Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.0502   Effective period
@@ -435,7 +435,7 @@ of this chapter and including:
 Such tax shall be levied, collected and paid with respect to the salaries,
 wages, commissions and other compensation, and with respect to the net profits
 of businesses, professions or other activities earned on and after
-July 1, 1981.  
+July 1, 1981.\
 (Ord.1980-61. Approved by voters 3-3-81.)
 
 ## Determination of allocation of tax
@@ -492,7 +492,7 @@ a substitute method, by applying the following:
     books and records of a taxpayer, an adjustment may be made for the
     contribution made to the production of such income by headquarters
     activities of the taxpayer, whether such headquarters is within or without
-    the Municipality.  
+    the Municipality.\
     (Ord. 1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.0702   Sales made in the municipality
@@ -513,7 +513,7 @@ and the sales result from such solicitation or promotion.
 within the Municipality to purchasers outside of the Municipality regardless of
 where title passes if the taxpayer is not, through its own employees, regularly
 engaged in the solicitation or promotion of sales at the place where delivery is
-made.  
+made.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0703   Total allocation
@@ -525,7 +525,7 @@ percentages used in deriving such total in order to obtain the business
 allocation percentage referred to in Section 126.0701.
 
 A factor is applicable even though it may be allocable entirely in or outside
-the Municipality.  
+the Municipality.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.0704   Rentals
@@ -552,7 +552,7 @@ the gross or net receipts derived from the farm, whether or not the gross income
 exceeds two hundred fifty dollars ($250.00) per month; and provided further that
 the person who operates a licensed rooming house shall be considered in business
 whether or not the gross income exceeds two hundred fifty dollars ($250.00) per
-month.  
+month.\
 (Ord.1971-850. Passed 12-7-71. )
 
 ### 126.0705   Operating loss-carry forward
@@ -569,7 +569,7 @@ Municipality in the same manner as provided herein for allocating net profits to
 the Municipality.
 
 3. _(c)_ The Administrator shall provide by rules and regulations the manner in
-which such net operating loss carry-forward shall be determined.  
+which such net operating loss carry-forward shall be determined.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ## Exemptions
@@ -625,7 +625,7 @@ impose net income taxes.
 value or a house provided as a part of an ordained minister's compensation. The
 ordained minister must be duly ordained, commissioned, or licensed by a
 religious body constituting a church or church denomination, and must have
-authority to perform all sacraments of the church.  
+authority to perform all sacraments of the church.\
 (Ord. 1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ## Returns
@@ -640,7 +640,7 @@ Tax Administrator.
 Persons required to file a return shall do so on or before April 15th of the
 year following the year for which they are filing. When the return is made for a
 fiscal year or other period different from the calendar year, the return shall
-be filed within four months from the end of such fiscal year or period.  
+be filed within four months from the end of such fiscal year or period.\
 (Ord.1986-33. Passed 7-14-86; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.1102   Form and content of return
@@ -658,7 +658,7 @@ income earned during the preceding year and subject to such tax;
 profits; and
 
 3. _(c)_ Such other pertinent statements, information returns or other
-information as the Administrator may require.  
+information as the Administrator may require.\
 (Ord.1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.1103   Extension of time for filing returns
@@ -673,7 +673,7 @@ assessed in those cases in which the return is filed and the final tax paid
 within the period as extended. The extension request may be made by filing a
 copy of the taxpayer's request for a federal filing extension, or by filing a
 written request. The Administrator may deny the extension if the taxpayer's
-income tax account with the Municipality is delinquent in any way.  
+income tax account with the Municipality is delinquent in any way.\
 (Ord. 1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.1104   Consolidated returns
@@ -701,7 +701,7 @@ corporations related by stock ownership, interlocking directorates or
 transactions with such division, branch, factory, office, laboratory or activity
 or by some other method, he or she shall make such allocation as he or she deems
 appropriate to produce a fair and proper allocation of net profits to the
-Municipality.  
+Municipality.\
 (Ord.1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.1105   Amended returns
@@ -719,7 +719,7 @@ liability affecting the taxpayer's municipal tax liability, such taxpayer shall
 make and file an amended municipal return showing income subject to the
 municipal tax based upon such final determination of federal tax liability, and
 pay any additional tax shown due thereon or make claim for refund of any
-overpayment.  
+overpayment.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ## Payment of tax
@@ -747,7 +747,7 @@ is entitled under the provisions of this chapter may have such overpayment
 applied against any subsequent liability hereunder, or, at his election,
 indicated on the return, such overpayment (or part thereof) shall be refunded,
 provided that no additional taxes or refunds of less than one dollar ($1.00)
-shall be collected or refunded.  
+shall be collected or refunded.\
 (Ord.1971-850. Passed 12-7-71.)
 
 3. _(c)_ If any employer which is liable for tax obligations imposed by this
@@ -761,7 +761,7 @@ successor employer shall make such withholding until such time that the
 predecessor employer has paid such taxes, interest and penalties. If the
 successor fails to withhold such amount, then the successor and, in a personal
 manner, the successor's manager shall be jointly and severally liable for the
-payment of such taxes, interest and penalty.  
+payment of such taxes, interest and penalty.\
 (Ord.1986-33. Passed 7-14-86.)
 
 ### 126.1302   Collection at source
@@ -778,7 +778,7 @@ month; provided, however, that if the amount of the tax so deducted by any
 employer in any one month is less than one hundred dollars ($100.00), the
 employer may defer the filing of a return and payment of the amount deducted
 until the last day of the month following the end of the calendar quarter in
-which such month occurred.  
+which such month occurred.\
 (Ord. 2005-44. Passed 7-11-05.)
 
 2. _(b)_ Such returns shall be on a form or forms prescribed or acceptable to
@@ -796,7 +796,7 @@ trust fund in the hands of such employer.
 4. _(d)_ No person shall be required to withhold the tax on wages or other
 compensation paid domestic servants employed by him exclusively in or about such
 person's residence, even though such residence is in the Municipality, but such
-employee shall be subject to all of the requirements of this chapter.  
+employee shall be subject to all of the requirements of this chapter.\
 (Ord.1971-850. Passed 12-7-71.)
 
 5. _(e)_ Manager's Obligation.
@@ -818,7 +818,7 @@ employee shall be subject to all of the requirements of this chapter.
     3. _(3)_ No change in structure by an employer, including a fundamental
     change, discharges its managers from liability for the employees' or
     manager's failure to remit funds held in trust, to file a tax return or to
-    pay taxes.  
+    pay taxes.\
     (Ord.1986-33. Passed 7-14-86.)
 
 ### 126.1303   Declarations of income
@@ -833,7 +833,7 @@ withheld within the Municipality, and any income earned outside of the
 Municipality will be fully taxed at the same or higher rate of tax in another
 municipality. If the estimated tax for the current year, less the tax to be
 withheld and less such tax credit, amounts to not more than ten dollars
-($10.00), no declaration or payment of estimated tax is required.  
+($10.00), no declaration or payment of estimated tax is required.\
 (Ord.1973-919. Passed 12-4-73.)
 
 ### 126.1304   Filing of declaration
@@ -845,7 +845,7 @@ for the first time.
 
 2. _(b)_ Those taxpayers reporting on a fiscal year basis shall file a
 declaration within four months after the beginning of each fiscal year or
-period.  
+period.\
 (Ord.1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.1305   Form of declaration
@@ -859,7 +859,7 @@ with the provisions of Section 126.1902 hereof.
 
 2. _(b)_ The original declaration or any subsequent amendment thereof may be
 increased or decreased on or before any subsequent quarterly payment date as
-provided for herein.  
+provided for herein.\
 (Ord.1971-850. Passed 12-7-71.)
 
 ### 126.1306   Payment to accompany declaration
@@ -875,7 +875,7 @@ declaration amount and at least a similar amount shall be paid on or before June
 15th, September 15th and December 15th. In the case of a fiscal year taxpayer
 the second, third and fourth quarterly estimated payments shall be due on the
 fifteenth day of the sixth, ninth, and twelfth months of the taxable year,
-respectively.  
+respectively.\
 (Ord. 1973-919. Passed 12-4-73; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.1307   Annual return
@@ -889,7 +889,7 @@ first month of the year following that for which such declaration or amended
 declaration was filed, an annual return and pay any balance due at such time, in
 lieu of filing a declaration or an amended declaration, and in lieu of paying
 the final quarterly installment based upon a declaration or amended declaration
-of estimated tax.  
+of estimated tax.\
 (Ord.1971-850. Passed 12-7-71.)
 
 ### 126.1308   Extensions
@@ -898,7 +898,7 @@ The Administrator may extend the time of filing any return required, of making
 any payment or performing any other act required by Sections 126.1301 to
 126.1307 for a period not to exceed six months beyond the original required
 date. See Section 126.1103 for procedure to request extension of time for filing
-returns.  
+returns.\
 (Ord.1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ## Interest and penalties
@@ -908,7 +908,7 @@ returns.
 All taxes imposed and all moneys withheld or required to be withheld by
 employers and all installments of estimated taxes required to be paid under the
 provisions of this chapter remaining unpaid after they become due, shall bear
-interest at the rate of eight percent per annum.  
+interest at the rate of eight percent per annum.\
 (Ord.1980-12. Passed 2-25-80.)
 
 ### 126.1502   Penalties on unpaid tax
@@ -928,7 +928,7 @@ dollars ($25.00).
 payments if the taxpayer has remitted an amount equal to one hundred percent
 (100%) of the previous year's tax liability, provided that the previous year
 reflected a twelve- month period, or if ninety percent (90%) of the actual
-liability has been received.  
+liability has been received.\
 (Ord.1980-12. Passed 2-25-80; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.1503   Exceptions
@@ -939,13 +939,13 @@ tax paid thereon within the time prescribed by the Administrator; and provided
 further, that, in the absence of fraud, neither penalty nor interest shall be
 assessed on any additional tax assessment resulting from a federal audit,
 providing an amended return is filed and the additional tax is paid within three
-months after a final determination of the federal tax liability.  
+months after a final determination of the federal tax liability.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.1504   Abatement of interest and penalty
 
 Either the Administrator hereunder or the Board of Review may abate penalty or
-interest, or both, for good cause shown.  
+interest, or both, for good cause shown.\
 (Ord.1971-850. Passed 12-7-71.)
 
 ### 126.1505   Violations
@@ -988,13 +988,13 @@ to knowingly give the Administrator false information; or
 11. _(k)_ Attempts to do anything whatever to avoid the payment of the whole or
 any part of the tax, penalties or interest imposed by this chapter; shall be
 fined not more than five hundred dollars ($500.00) or imprisoned not more than
-six months or both, for each offense.  
+six months or both, for each offense.\
 (Ord.1968-730. Passed 6-18-68; Ord.1986-33. Passed 7-14-86.)
 
 ### 126.1506   Limitation on prosecution
 
 All prosecutions under this chapter must be commenced within the time prescribed
-in Ohio R.C. 718.06.  
+in Ohio R.C. 718.06.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.1507   Failure to procure forms not excuse
@@ -1002,7 +1002,7 @@ in Ohio R.C. 718.06.
 The failure of any employer or person to receive or procure a return,
 declaration or other required form shall not excuse him from making any
 information return, return or declaration, from filing such form or from paying
-the tax.  
+the tax.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ## Collection of unpaid taxes and refunds of over-payments
@@ -1018,18 +1018,18 @@ or filed, whichever is later; provided, however, in those cases in which a
 Commissioner of Internal Revenue and the taxpayer have executed a waiver of the
 federal statute of limitations, the period within which an additional assessment
 may be made by the Administrator shall be one year from the time of the final
-determination of the federal tax liability.  
+determination of the federal tax liability.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.1702   Refunds of taxes erroneously paid
 
 Taxes erroneously paid shall not be refunded unless a claim for refund is made
-within the time prescribed in Ohio R.C. 718.06.  
+within the time prescribed in Ohio R.C. 718.06.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.1703   Amounts of less than one dollar
 
-Amounts of less than one dollar ($1.00) shall not be collected or refunded.  
+Amounts of less than one dollar ($1.00) shall not be collected or refunded.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ## Taxpayer relief
@@ -1052,7 +1052,7 @@ manner as the Administrator may by Regulation provide. In the event such
 municipal resident fails, neglects or refuses to file an annual return or
 declaration on the form prescribed by the Administrator, he shall not be
 entitled to such credit or refund and shall be considered in violation of this
-chapter for failure to file a return.  
+chapter for failure to file a return.\
 (Ord.1971-850. Passed 12-7-71.)
 
 ## Disbursement of receipts of tax collection
@@ -1067,7 +1067,7 @@ of collecting the tax and of administering and enforcing the provisions of this
 chapter shall be paid.
 
 2. _(b)_ The balance remaining after payment of the expenses referred to in
-subsection (a) hereof shall be disbursed as provided in Section 126.0101.  
+subsection (a) hereof shall be disbursed as provided in Section 126.0101.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ## Duties and authority of the administrator
@@ -1076,7 +1076,7 @@ subsection (a) hereof shall be disbursed as provided in Section 126.0101.
 
 It shall be the duty of the Administrator to receive the tax imposed by this
 chapter in the manner prescribed herein from the taxpayers; to keep an accurate
-record thereof; and to report all moneys so received.  
+record thereof; and to report all moneys so received.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2302   Duty to enforce collection
@@ -1085,7 +1085,7 @@ It shall be the duty of the Administrator to enforce payment of all taxes owing
 to the Municipality, to keep accurate records for a minimum of five years
 showing the amount due from each taxpayer required to file a declaration and
 make any return, or both, including taxes withheld, and to show the dates and
-amounts of payments thereof.  
+amounts of payments thereof.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2303   Authority to make and enforce regulations
@@ -1095,7 +1095,7 @@ this chapter, and is hereby empowered, subject to the approval of the Board of
 Review, to adopt and promulgate and to enforce rules and regulations relating to
 any matter or thing pertaining to the collection of taxes and the administration
 and enforcement of the provisions of this chapter, including provisions for the
-re-examination and correction of returns.  
+re-examination and correction of returns.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2304   Authority to arrange installment payments
@@ -1109,7 +1109,7 @@ him under this chapter.
 
 Failure to make any deferred payment when due, shall cause the total unpaid
 amount, including penalty and interest, to become payable on demand and the
-provisions of Sections 126.1701 and 126.1505 of this chapter shall apply.  
+provisions of Sections 126.1701 and 126.1505 of this chapter shall apply.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2305   Authority to determine amount of tax due
@@ -1147,7 +1147,7 @@ incomplete in any material respect.
 5. _(e)_ **Limitation of Prosecutions.** Neither the Tax Administrator's
 execution of a return nor the Tax Administrator's assessment of a taxpayer shall
 start the running of the period of limitations on prosecutions set forth
-elsewhere in this chapter.  
+elsewhere in this chapter.\
 (Ord.1986-33. Passed 7-14-86.)
 
 ### 126.2306   Authority to make investigations
@@ -1161,7 +1161,7 @@ chapter. Every such employer, supposed employer, taxpayer or supposed taxpayer
 is hereby directed and required to furnish upon written request by the
 Administrator, or his duly authorized agent or employee, the means, facilities
 and opportunity for making such examinations and investigations as are hereby
-authorized.  
+authorized.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2307   Authority to compel productions of records
@@ -1173,7 +1173,7 @@ or any transaction tending to affect such income, and for this purpose may
 compel the production of books, papers, records and federal income tax returns
 and the attendance of all persons before him, whether as parties or witnesses,
 whenever he believes such persons have knowledge of such income or information
-pertinent to such inquiry.  
+pertinent to such inquiry.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2308   Refusal to produce records
@@ -1184,7 +1184,7 @@ presumed to be subject to the tax or by any officer, agent or employee of a
 person subject to the tax or required to withhold tax or the failure of any
 person to comply with the provisions of this chapter or with an order or
 subpoena of the Administrator authorized hereby shall be deemed a violation of
-this chapter, punishable as provided in Section 126.1505 hereof.  
+this chapter, punishable as provided in Section 126.1505 hereof.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2309   Confidential nature of information obtained
@@ -1199,14 +1199,14 @@ shall constitute a separate offense.
 
 In addition to the above penalty, any employee of the Municipality who violates
 the provisions of this section relative to the disclosures of confidential
-information shall be guilty of an offense punishable by immediate dismissal.  
+information shall be guilty of an offense punishable by immediate dismissal.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2310   Taxpayer required to retain records
 
 Every taxpayer shall retain all records necessary to compute his tax liability
 for a period of five years from the date his return is filed, or the withholding
-taxes are paid.  
+taxes are paid.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2311   Authority to contract for central collection facilities
@@ -1220,7 +1220,7 @@ of the Municipality, and the duties and authority of the Administrator hereunder
 may be performed by the Board of Trustees of such agency through the
 Administrator of such agency. Provided, however, the Administrator of such
 Agency shall have no authority to abate penalties or interest provided for in
-Section 126.1501 and Section 126.1502 hereunder.  
+Section 126.1501 and Section 126.1502 hereunder.\
 (Ord.1971-850. Passed 12-7-71.)
 
 ## Board of review
@@ -1265,7 +1265,7 @@ law within thirty (30) calendar days from the date of the Board's ruling. For
 matters relating to tax years beginning on or after January 1, 2004, any ruling
 or decision of the Board of Review may be appealed to a court of competent
 jurisdiction or to the State Board of Tax Appeals within thirty calendar days
-from the date of the Board's ruling.  
+from the date of the Board's ruling.\
 (Ord. 2001-39. Passed 5-14-01; Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.2502   Duty to approve regulations and to hear appeals
@@ -1275,7 +1275,7 @@ by the Administrator under the authority conferred by this chapter, must be
 approved by the Board of Review before the same become effective. The Board
 shall hear and pass on appeals from any ruling or decision of the Administrator,
 and, at the request of the taxpayer or Administrator, is empowered to substitute
-alternate methods of allocation.  
+alternate methods of allocation.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.2503   Right of appeal
@@ -1285,7 +1285,7 @@ is made under the authority conferred by this chapter may appeal therefrom to
 the Board of Review within thirty days from the announcement of such ruling or
 decision by the Administrator, and the Board shall, on hearing, have
 jurisdiction to affirm, reverse or modify any such ruling or decision, or any
-part thereof.  
+part thereof.\
 (Ord.1968-730. Passed 6-18-68.)
 
 ## Other provisions
@@ -1300,7 +1300,7 @@ chapter and shall not affect or impair any of the remaining provisions,
 sentences, clauses, sections or other parts of this chapter. It is hereby
 declared to be the intention of Council that this chapter would have been
 adopted had such unconstitutional, illegal or invalid sentence, clause, section
-or part thereof not been included herein.  
+or part thereof not been included herein.\
 (Ord.1968-730. Passed 6-18-68. )
 
 ### 126.2702   Collection of tax after termination of chapter
@@ -1317,5 +1317,5 @@ subject to the limitations contained in Sections 126.1701, 126.1702, 126.1703,
 
 2. _(b)_ Annual returns due for all or any part of the last effective year of
 this chapter shall be due on the date provided in Sections 126.1101 and 126.1302
-of this chapter as though the same were continuing.  
+of this chapter as though the same were continuing.\
 (Ord.1968-730. Passed 6-18-68.)

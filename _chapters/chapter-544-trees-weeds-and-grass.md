@@ -54,7 +54,7 @@ shall not fall to the street or sidewalk.
 any part thereof, as may be necessary to provide a clear and unobstructed view
 of traffic from all directions at any street intersection, or to abate any
 nuisance necessary to protect life, limb or property of persons, drivers of any
-vehicles or pedestrians using such street or sidewalk.  
+vehicles or pedestrians using such street or sidewalk.\
 (Ord. 1982-36. Passed 1-24-83.)
 
 ## 544.02   Removal of weeds by owner or occupant; notice
@@ -65,7 +65,7 @@ unimproved, vacant or occupied, within 10 days after written notice to do so,
 served upon such person in conformity with Section 1340.08 shall cut or destroy
 or cause to be cut or destroyed any noxious or poisonous weeds or vines or any
 wild or uncontrolled growth upon any such lot or parcel of land and prevent the
-same from blooming or going to seed or exceeding a height of 12 inches.  
+same from blooming or going to seed or exceeding a height of 12 inches.\
 (Ord. 2019-43. Passed 7-8-19.)
 
 ## 544.03   Removal of trees, weeds, grasses by municipality
@@ -80,7 +80,7 @@ owner where the tree is located, or the abutting residential property owner if
 the tree is on public property, shall be given notice of the pending removal and
 will have ten days to obtain another opinion as to the health or stability of
 the tree. In any event, the final decision to remove will be the Chief
-Administrative Officer's.  
+Administrative Officer's.\
 (Ord. 1983-34. Passed 9-26-83.)
 
 ## 544.04   Assessment of costs by municipality
@@ -95,7 +95,7 @@ shrubbery, grass or weeds, or parts thereof, which notice shall be accompanied
 by a statement of the amount of cost incurred. If the same is not paid within
 thirty days after the mailing of such notice, then such amount shall be
 certified to the County Auditor for collection of same as other taxes and
-assessments are collected.  
+assessments are collected.\
 (Ord. 1982-36. Passed 1-24-83.)
 
 ## 544.05   Removing or interfering with trees or materials in tree lawn areas
@@ -105,7 +105,7 @@ consent of the Chief Administrative Officer, remove, destroy, cut or otherwise
 interfere with any trees, bushes, shrubs, poles, dirt or other structures,
 vegetation or materials placed or allowed by the Municipality to remain within
 the limits of any public street or other public property, unless otherwise
-authorized in this chapter.  
+authorized in this chapter.\
 (Ord. 1982-36. Passed 1-24-83.)
 
 ## 544.06   Trimming hedges or growths at intersections
@@ -114,7 +114,7 @@ No person owning property at the intersection of any of the streets within the
 Municipality who has growing upon such property a hedge or other growth, shall
 fail to keep the same trimmed to a height of not more than three feet from the
 ground for a distance of fifty feet from the property line where the same
-intersects the street line.  
+intersects the street line.\
 (Ord. 1982-36. Passed 1-24-83.)
 
 ## 544.07   Trimming hedges along public ways
@@ -141,7 +141,7 @@ forthwith by the Chief Administrative Officer.
 
 No person, firm or corporation shall plant or cause to be planted or
 transplanted anywhere within the Municipality, any tree of a variety not
-contained in the list of permitted trees in Section 544.12.  
+contained in the list of permitted trees in Section 544.12.\
 (Ord. 1982-36. Passed 1-24-83.)
 
 ## 544.09   Dutch elm disease and "elm blight"
@@ -152,7 +152,7 @@ and public grounds and on public property in the Municipality, that shade trees
 infected with such diseases are public nuisances and that in order to protect
 and preserve shade trees in the Municipality it is necessary to discover and
 control such diseases and to provide for the destruction of diseased trees and
-the abatement of such nuisances.  
+the abatement of such nuisances.\
 (Ord. 1982-36. Passed 1-24-83.)
 
 ## 544.10   Inspection and removal of diseased trees
@@ -171,7 +171,7 @@ burned under the supervision of the Chief Administrative Officer within five
 days of the service of such notice. If such owner cannot be found, a copy of the
 notice shall be posted upon the infected tree. If the tree is not so removed and
 burned within five days after the service or posting of the notice, the Chief
-Administrative Officer may cause such tree to be so removed and burned.  
+Administrative Officer may cause such tree to be so removed and burned.\
 (Ord. 1982-36. Passed 1-24-83.)
 
 ## 544.11   Examination and diagnosis of suspected infected trees
@@ -185,7 +185,7 @@ Wooster, Ohio, or to the United States Agricultural Research Center in
 Beltsville, Maryland, or to their successor agencies regardless of where they
 may be located, and the action of the Chief Administrative Officer under this
 chapter shall await and be determined by the report received from such
-examination and diagnosis.  
+examination and diagnosis.\
 (Ord. 2019-43. Passed 7-8-19.)
 
 ## 544.12   Trees permitted to be planted on municipal property
@@ -237,7 +237,7 @@ if the same is a single-family residential dwelling, or one tree per unit for
 multi-family construction, in a location to be determined by the Chief
 Administrative Officer, and which tree shall be one of those varieties contained
 in the foregoing list. The trees shall be a minimum of 3″ in diameter measured
-at a point 12″ above ground level.  
+at a point 12″ above ground level.\
 (Ord. 1982-36. Passed 1-24-83 )
 
 ## 544.13   Permit; bond; contractors' license
@@ -253,7 +253,7 @@ cutting or pruning is otherwise regulated by this chapter.
 2. _(b)_ Each permit shall be valid for a period of thirty days from the date of
 issuance; provided, however, that such permit may be revoked by the Chief
 Administrative Officer when it is determined that any permittee is operating in
-violation of this chapter.  
+violation of this chapter.\
 (Ord. 1982-36. Passed 1-24-83; Ord. 2005-28. Passed 6-13-05.)
 
 3. _(c)_ No permits will be issued without also providing a commercial general
@@ -262,7 +262,7 @@ Municipality as insureds or beneficiaries, as the case may be, in the amount of
 One Million Dollars ($1,000,000.00) per claim for injury or death or damage of
 personal property, and payment of a Twenty-Five Dollar ($25.00) permit fee. A
 contractor may be licensed on an annual basis, for a Fifty Dollar ($50.00)
-permit fee and providing proof of the required insurance or bond.  
+permit fee and providing proof of the required insurance or bond.\
 (Ord. 2019-43. Passed 7-8-19.)
 
 ## 544.14   Establishment and powers of shade tree commission
@@ -281,7 +281,7 @@ Resolution 1950-632.)
     2. _(2)_ The term of the members of the Commission appointed by the Mayor
     shall be three (3) years. In the event that a vacancy occurs during the term
     of any member, his or her successor shall be appointed for the unexpired
-    portion of the term.  
+    portion of the term.\
     (Ord. 2018-26. Passed 6-11-18.)
 
     3. _(3)_ Members of the Commission shall serve without compensation.
@@ -294,7 +294,7 @@ removal or disposition of trees and shrubs in public ways, streets, alleys,
 highways and other public places; and it shall be the further purpose of the
 Commission to assist in securing the cooperation of the residents of the Village
 in a coordinated, planned program of tree protection and planting on public and
-private property.  
+private property.
 
     The Commission shall choose its own officers, make its own rules and
     regulations and keep a journal of its proceedings. A majority of the members
@@ -303,7 +303,7 @@ private property.
     writing and designate by name those members of the Commission approving or
     concurring therein, and members who do not so approve or concur therein
     shall have the right, as a part of such report, to state their reasons for
-    refusing to approve or concur.  
+    refusing to approve or concur.
 
     The Commission, when requested by Council, the Mayor or the Chief
     Administrative Officer, shall consider, investigate, make findings, report
@@ -319,5 +319,5 @@ private property.
 ## 544.99   Penalty
 
 Whoever violates any provision of this chapter is guilty of a misdemeanor of the
-first degree.  
+first degree.\
 (Ord. 1982-36. Passed 1-24-83.)

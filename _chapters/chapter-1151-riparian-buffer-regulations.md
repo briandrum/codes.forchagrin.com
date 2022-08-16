@@ -32,7 +32,7 @@ plant and animal habitat;
 stream waters; and
 
 4. _(d)_ Preserve valuable water resources in the interest of present and
-future generations.  
+future generations.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1151.02   Establishment of buffer area setback and boundary
@@ -44,7 +44,7 @@ States Environmental Protection Agency (E.P.A.). The minimum boundary of the
 buffer area setback shall be set at 120 feet in a horizontal plane outward from
 the normal low water mark of the stream channel. It shall be preserved in its
 natural state and shall be adjusted outward to include sensitive areas such as
-steep slopes, wetlands and wooded areas contiguous to the stream.  
+steep slopes, wetlands and wooded areas contiguous to the stream.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1151.03   Permitted uses
@@ -57,7 +57,7 @@ area and are limited to the following:
 2. _(b)_ Only damaged or diseased trees or those that the Administrator has
 determined to be in imminent danger of being uprooted or falling in or along the
 stream may be removed. The stump and root structure of trees on the stream bank
-shall be left in place to retard bank erosion.  
+shall be left in place to retard bank erosion.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1151.04   Supplemental regulations
@@ -75,5 +75,5 @@ setback shall apply.
 3. _(c)_ In the event any provision concerning a flood plain buffer area
 setback is declared inapplicable as a result of any legislative or
 administrative actions, or judicial declaration, the basic underlying district
-provision shall remain applicable.  
+provision shall remain applicable.\
 (Ord. 2019-39. Passed 8-13-19.)

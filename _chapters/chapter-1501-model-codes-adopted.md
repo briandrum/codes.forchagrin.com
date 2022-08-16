@@ -45,7 +45,7 @@ conditions hazardous to life and property from fire and explosions, the most
 current editions of the Ohio Fire Code, National Fire Protection Association,
 and the Ohio Basic Building Code, including appendices and the complete index
 thereof, except such portions as are hereinafter deleted, added, modified or
-amended.  
+amended.\
 (Ord. 2000-76. Passed 10-9-00.)
 
 ## 1501.02   Establishment and duties of bureau of fire prevention
@@ -149,7 +149,7 @@ Council.
 transmitted to the Mayor. It shall contain all proceedings under the Fire
 Prevention Code, with such statistics as the Fire Chief may wish to include
 therein. The Chief shall also recommend any amendments to the Fire Prevention
-Code which in his judgment shall be desirable.  
+Code which in his judgment shall be desirable.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1501.03   Definitions
@@ -162,7 +162,7 @@ Code, it means the Director of Law of the Village.
 
 3. _(c)_ Whenever the words "Chief of the Bureau of Fire Prevention" are used in
 the Fire Prevention Code, they shall be held to mean Officer in Charge in the
-Bureau of Fire Prevention.  
+Bureau of Fire Prevention.\
 (Ord. 2000-76. Passed 10-9-00.)
 
 ## 1501.04   Limits for storage of flammable liquids and explosives
@@ -182,7 +182,7 @@ established to include the territorial boundaries of the Municipality.
 
 4. _(d)_ The limits referred to in Section 12.5b of the Fire Prevention Code, in
 which storage of explosives and blasting agents is prohibited, are hereby
-established to include the territorial boundaries of the Municipality.  
+established to include the territorial boundaries of the Municipality.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1501.05   Modifications
@@ -195,7 +195,7 @@ shall be observed, public safety secured and substantial justice done. The
 particulars of such modifications, when granted or allowed, and the decision of
 the Fire Chief thereon, shall be entered upon the records of the Fire Department
 and a signed copy shall be furnished the applicant, Mayor and Bureau of Fire
-Prevention.  
+Prevention.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 Whenever any board, commission, or official (collectively "Approving Authority")
@@ -206,7 +206,7 @@ so long as such conditions are in compliance with any applicable statutes,
 ordinance and standards, on such approval with such conditions that the
 Approving Authority believes are necessary to impose in order that the public
 health, safety, convenience, comfort and general welfare of the resident and the
-Village may be safeguarded and substantial justice done.  
+Village may be safeguarded and substantial justice done.\
 ([Ord. 2022-19. Passed 6-13-22.]({% link _posts/2022-04-25-ordinance-2022-19.md %}))
 
 ## 1501.06   Appeals
@@ -218,7 +218,7 @@ Code have been misconstrued or wrongly interpreted, the applicant may appeal
 from the decision of the Bureau to the Fire Chief within thirty days from the
 date of the decision appealed. If the Fire Chief shall refuse to overrule the
 Bureau, the applicant may appeal to Council within sixty days from the date of
-the decision appealed.  
+the decision appealed.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1501.07   New materials, processes or occupancies which may require permits
@@ -228,7 +228,7 @@ to determine and specify, after giving affected persons an opportunity to be
 heard, any new materials, processes or occupancies which shall require permits
 in addition to those now enumerated in the Fire Prevention Code. The Fire Chief
 shall post such list in a conspicuous place in his office and distribute copies
-thereof to interested persons.  
+thereof to interested persons.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1501.08   Severability
@@ -237,7 +237,7 @@ Should any section, paragraph, sentence or word of this chapter of the Fire
 Prevention Code hereby adopted be declared for any reason to be invalid, it is
 the intent of Council that it would have passed all other portions of this
 chapter independent of the elimination herefrom of any such portion as may be
-declared invalid.  
+declared invalid.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1501.09   Permit fees
@@ -245,7 +245,7 @@ declared invalid.
 Permits required by sections of the Fire Prevention Code will be granted upon
 payment to the Municipality a fee of twenty-five dollars ($25.00) for each
 required permit, provided that such application for a permit shall be approved
-by the Bureau of Fire Prevention.  
+by the Bureau of Fire Prevention.\
 (Ord. 1975-970. Passed 4-15-75; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28.
 Passed 6-13-05.)
 
@@ -256,7 +256,7 @@ adoption date of this Code in a multi-family, apartment, office, commercial
 building, retail building, single or two-family home or other use within the
 Municipality are prohibited. All existing incinerators shall be kept and
 maintained in good repair as is otherwise set forth in this chapter, but shall
-not be replaced with a new incinerator.  
+not be replaced with a new incinerator.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1501.11   Smoke density and outdoor fires
@@ -275,7 +275,7 @@ other purpose in any type of outdoor or portable grill in any apartment or on or
 below any apartment house balcony or within twenty feet of any structure housing
 more than two families. Exempted are existing permanently installed gas-fired
 grills approved by the Municipality prior to the effective date of this chapter.
-These will be allowed if maintained in good repair.  
+These will be allowed if maintained in good repair.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1501.12   Conflicts with building code or state law
@@ -283,7 +283,7 @@ These will be allowed if maintained in good repair.
 If any of the provisions of this Fire Prevention Code conflict in any way with
 the provisions of the Building Code, the stricter code shall prevail. In the
 event of a conflict between this code and the State law, the state law shall
-prevail.  
+prevail.\
 (Ord. 2008-05. Passed 2-11-08.)
 
 ## 1501.13   Amendments
@@ -651,7 +651,7 @@ enclosures.
     occupant from temporarily reducing or discontinuing the protection where
     necessary to make tests, repairs, alterations or additions. The Bureau of
     Fire Prevention shall be notified before such tests, repairs, alterations or
-    additions are started and work is to be continuous until completion.  
+    additions are started and work is to be continuous until completion.\
     (Ord. 1975-970. Passed 4-15-75.)
 
 10. _(j)_ **Sprinkler Equipment Required.** In buildings hereafter erected,
@@ -674,7 +674,7 @@ follows:
     main, not less than one inch in diameter with the main size increased as may
     be required for larger than average installations, and as approved by the
     Fire Chief. In no case, however, shall such sprinkler heads be spaced more
-    than twelve feet apart.  
+    than twelve feet apart.\
     (Ord. 2000-76. Passed 10-9-00.)
 
     3. _(3)_ The following garages shall be equipped with automatic sprinkler
@@ -684,12 +684,12 @@ follows:
     above the garages are occupied for other purposes when the garages have a
     capacity of eight or more passenger automobiles, or are used as bus
     terminals for three or more buses, or are used for the storage and loading
-    of two or more trucks.  
+    of two or more trucks.\
     (Ord. 1975-970. Passed 4-15-75.)
 
     4. _(4)_ Except as otherwise specifically prescribed, a complete sprinkler
     system shall be installed wherever specified in this Code or any amendment
-    or supplement thereto.  
+    or supplement thereto.\
     (Ord. 2000-76. Passed 10-9-00.)
 
 11. _(k)_ **Installation and Approval of Sprinkler Equipment.**
@@ -1344,7 +1344,7 @@ Association standard.
 
         2. _(B)_ The vent line shall be left open.
 
-        3. _(C)_ They will be filled with water.  
+        3. _(C)_ They will be filled with water.\
         (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1501.14   Failure to correct violations
@@ -1359,7 +1359,7 @@ Chapter.
 be abated immediately or within some other reasonable time as determined by the
 Fire Chief or the Fire Prevention Bureau. Failure to comply shall result in the
 closure of the problem area and/or building until such time as the violation has
-been abated.  
+been abated.\
 (Ord. 2013-58. Passed 9-23-13.)
 
 ## 1501.99   Penalty
@@ -1374,7 +1374,7 @@ person, firm or corporation who violates any provision of this Code, or fails to
 comply therewith, shall, for each violation or noncompliance, be fined not more
 than one thousand dollars ($1,000) or imprisoned not more than six months, or
 both. Each day of such violation or failure to comply shall constitute a
-separate offense.  
+separate offense.\
 (Ord. 2000-76. Passed 10-9-00.)
 
 2. _(b)_ In addition to the penalties provided herein, the Fire Chief may
@@ -1382,5 +1382,5 @@ suspend or revoke any permit issued under the provisions of this Code by written
 notice.
 
 3. _(c)_ The Director of Law shall take such legal action as may be required to
-enforce this Code.  
+enforce this Code.\
 (Ord. 1975-970. Passed 4-15-75.)

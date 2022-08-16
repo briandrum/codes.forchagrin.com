@@ -28,7 +28,7 @@ building for which sanitary facilities are provided or required therein or in
 connection therewith unless such building is equipped with one or more toilets
 connected to the sanitary sewer system or to such other outlet as is not in
 violation of this Building Code or other ordinances and regulations of the
-Municipality.  
+Municipality.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1343.02   Connection to sanitary sewer required

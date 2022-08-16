@@ -141,7 +141,7 @@ and everything made use of in any way for such transportation.
 less than one-half of one percent (0.5%) of alcohol by volume and not more than
 twenty-one percent (21%) of alcohol by volume, which is made from the fermented
 juices of grapes, fruits, or other agricultural products. Except as provided in
-Ohio R.C. 4301.01(B)(3), the term does not include cider.  
+Ohio R.C. 4301.01(B)(3), the term does not include cider.\
 (ORC 4301.01, 4301.244)
 
 ## 529.02   Sales to and use by underage persons; securing public accommodations
@@ -152,7 +152,7 @@ buy beer or intoxicating liquor for an underage person, or shall furnish it to,
 an underage person, unless given by a physician in the regular line of his
 practice or given for established religious purposes, or unless the underage
 person is supervised by a parent, spouse who is not an underage person or legal
-guardian.  
+guardian.
 
     In proceedings before the Liquor Control Commission, no permit holder, or no
     employee or agent of a permit holder, charged with a violation of this
@@ -166,7 +166,7 @@ liquor or beer is given to the person possessing or consuming it by that
 person's parent, spouse who is not an underage person or legal guardian and the
 parent, spouse who is not an underage person or legal guardian is present at the
 time of the person's possession or consumption of the beer or intoxicating
-liquor.  
+liquor.
 
     An owner of a public or private place is not liable for acts or omissions in
     violation of this subsection that are committed by a lessee of that place,
@@ -237,26 +237,26 @@ accommodations at the hotel, inn, cabin or campground.
     4. _(4)_ "Minor" means a person under the age of eighteen years.
 
     5. _(5)_ "Underage person" means a person under the age of twenty-one
-    years.  
+    years.\
     (ORC 4301.69)
 
 9. _(i)_ Whoever violates this section is guilty of a misdemeanor of the first
 degree. In addition, whoever violates subsection (a) hereof shall be fined not
-less than five hundred dollars ($500.00).  
+less than five hundred dollars ($500.00).\
 (ORC 4301.99)
 
 ### 529.021   Purchase, consumption or possession by minor; misrepresentation
 
 1. _(a)_ Except as otherwise provided in this chapter or Ohio R.C. Chapter 4301,
 no person under the age of twenty-one years shall purchase beer or intoxicating
-liquor.  
+liquor.\
 (ORC 4301.63)
 
 2. _(b)_ Except as otherwise provided in this chapter or Ohio R.C. Chapter 4301,
 no person shall knowingly furnish any false information as to the name, age or
 other identification of any person under twenty-one years of age for the purpose
 of obtaining or with the intent to obtain, beer or intoxicating liquor for a
-person under twenty-one years of age, by purchase, or as a gift.  
+person under twenty-one years of age, by purchase, or as a gift.\
 (ORC 4301.633)
 
 3. _(c)_ Except as otherwise provided in this chapter or Ohio R.C. Chapter 4301,
@@ -264,7 +264,7 @@ no person under the age of twenty-one years shall knowingly show or give false
 information concerning the person's name, age or other identification for the
 purpose of purchasing or otherwise obtaining beer or intoxicating liquor in any
 place where beer or intoxicating liquor is sold under a permit issued by the
-Division of Liquor Control or sold by the Division of Liquor Control.  
+Division of Liquor Control or sold by the Division of Liquor Control.\
 (ORC 4301.634)
 
 4. _(d)_
@@ -323,24 +323,24 @@ Division of Liquor Control or sold by the Division of Liquor Control.
         permit, probationary driver's license or driver's license, instead may
         order the offender to perform a determinate number of hours of community
         service, with the court determining the actual number of hours and the
-        nature of the community service the offender shall perform.  
+        nature of the community service the offender shall perform.\
         (ORC 4301.99)
 
 ## 529.03   Sales to intoxicated persons
 
 1. _(a)_ No permit holder and no agent or employee of a permit holder shall sell
-or furnish beer or intoxicating liquor to an intoxicated person.  
+or furnish beer or intoxicating liquor to an intoxicated person.\
 (ORC 4301.22)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
-degree.  
+degree.\
 (ORC 4301.99)
 
 ## 529.04   Liquor consumption in motor vehicle
 
 1. _(a)_ No person shall consume any beer or intoxicating liquor in a motor
 vehicle. This section does not apply to persons described in Section
-529.07(d).  
+529.07(d).\
 (ORC 4301.64)
 
 2. _(b)_ Whoever violates subsection (a) hereof is guilty of a misdemeanor of
@@ -359,7 +359,7 @@ a temporary instruction permit or probationary driver's license, the offender
 shall not be eligible to be issued such a license or permit for a period of six
 months. If the offender has not attained the age of fifteen years and six
 months, the offender shall not be eligible to be issued a temporary instruction
-permit until the offender attains the age of sixteen years.  
+permit until the offender attains the age of sixteen years.\
 (ORC 4301.99)
 
 ## 529.05   Permit required
@@ -371,7 +371,7 @@ Municipality, or transport, import or cause to be transported or imported any
 beer, intoxicating liquor or alcohol on or into this Municipality for delivery,
 use or sale, unless the person has fully complied with Ohio R.C. Chapters 4301
 and 4303 or is the holder of a permit issued by the Division of Liquor Control
-and in force at the time.  
+and in force at the time.\
 (ORC 4303.25)
 
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.
@@ -421,7 +421,7 @@ or given for established religious purposes.
 
 9. _(i)_ No parent, spouse who is not an underage person, or legal guardian of
 an underage person shall knowingly permit the underage person to violate this
-section.  
+section.\
 (ORC 4301.631)
 
 10. _(j)_ Whoever violates any provision of this section for which no other
@@ -432,7 +432,7 @@ twenty-five dollars ($25.00) nor more than one hundred dollars ($100.00). The
 court imposing a fine for a violation of subsection (b) hereof may order that
 the fine be paid by the performance of public work at a reasonable hourly rate
 established by the court. The court shall designate the time within which the
-public work shall be completed.  
+public work shall be completed.\
 (ORC 4301.99)
 
 ## 529.07   Open container prohibited
@@ -706,7 +706,7 @@ following apply:
 7. _(g)_ This section does not apply to a person that has in the person's
 possession an opened container of beer or intoxicating liquor on the premises of
 a market if the beer or intoxicating liquor has been purchased from a D liquor
-permit holder that is located in the market.  
+permit holder that is located in the market.
 
     As used in subsection (g) of this section, "market" means an establishment
     that:
@@ -719,7 +719,7 @@ permit holder that is located in the market.
     square feet;
 
     3. _(3)_ Hosts a farmer's market on each Saturday from April through
-    December.  
+    December.\
     (ORC 4301.62)
 
 8. _(h)_
@@ -731,10 +731,10 @@ permit holder that is located in the market.
     Ohio R.C. 4303.185 to its final destination is not an opened container for
     the purposes of this section if the closed container is securely sealed in
     such a manner that it is visibly apparent if the closed container has been
-    subsequently opened or tampered with after sealing.  
+    subsequently opened or tampered with after sealing.\
     (ORC 4301.62)
 
-9. _(i)_ Whoever violates this section is guilty of a minor misdemeanor.  
+9. _(i)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4301.99(A))
 
 ## 529.08   Hours of sale or consumption
@@ -781,7 +781,7 @@ statutorily authorized otherwise.
 
 5. _(e)_ The hours on Sunday during which sales, delivery, or consumption of
 alcoholic beverages may take place are established by statute, but in no event
-shall they begin prior to five thirty a.m.  
+shall they begin prior to five thirty a.m.\
 (OAC 4301:1-1-49)
 
 6. _(f)_ Whoever violates this section is guilty of a minor misdemeanor.

@@ -38,7 +38,7 @@ others, the following objectives:
 existing infrastructure and services.
 
 5. _(e)_ To limit permitted industrial uses to those most compatible with the
-predominantly small-scale, residential character of the community.  
+predominantly small-scale, residential character of the community.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1139.02   Permitted uses
@@ -210,7 +210,7 @@ accessory uses set forth below.
     9. _(9)_ Retail sales of products manufactured, assembled or repaired on the
     premises and related products when such sales are incidental to a permitted
     main use. Such determination shall be made by the Planning and Zoning
-    Commission.  
+    Commission.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1139.03   Area and height regulations
@@ -237,7 +237,7 @@ all main and accessory buildings.
     permitted under Section 1139.02(b)(5) may extend a maximum of ten feet above
     the highest point of the building on which it is located, provided that such
     equipment is set back from any building face a distance at least equal to
-    the height by which it exceeds the building height.  
+    the height by which it exceeds the building height.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1139.04   Yard and setback regulations
@@ -276,12 +276,12 @@ structure or use shall be as set forth below.
 
     \* Accessory structures and drives are not permitted in required yards
     except that drives are permitted only as necessary in providing access to a
-    public right of way.  
+    public right of way.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1139.05   Supplemental regulations
 
 For regulations regarding off-street parking and loading, landscaping, lighting,
 signs and environmental performance, refer to Chapters 1141 - 1150 of the
-Planning and Zoning Code.  
+Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

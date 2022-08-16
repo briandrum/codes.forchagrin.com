@@ -34,13 +34,13 @@ landscaped and maintained.
 2. _(b)_ To ensure that residential areas are adequately screened and buffered
 from adjoining nonresidential developments.
 
-3. _(c)_ To preserve attractive visual landscapes along public streets.  
+3. _(c)_ To preserve attractive visual landscapes along public streets.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.02   Applicability
 
 The regulations of this chapter shall apply to all zoning districts except R1
-and R2F Districts, which are regulated by provisions of Chapter 1125 and 1126.  
+and R2F Districts, which are regulated by provisions of Chapter 1125 and 1126.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.03   General landscaping
@@ -50,7 +50,7 @@ buildings or structures shall be landscaped with vegetative ground cover, shrubs
 and trees in accordance with an overall landscaping plan acceptable to the
 Municipality. Such landscaping shall be maintained in good condition. In the
 development of property, existing trees and significant vegetation shall be
-retained wherever feasible.  
+retained wherever feasible.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.04   Street trees
@@ -69,7 +69,7 @@ trees kept on file in the Building Department.
 apply to private streets in Attached Single Family, Multi-Family, Retirement
 Living, Residential Mixed Use and Cluster Residential Districts. However, such
 trees may be spaced at intervals greater than thirty-five feet, as approved by
-the Administrator, in order to encourage the clustering of trees.  
+the Administrator, in order to encourage the clustering of trees.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.05   Parking areas
@@ -87,7 +87,7 @@ spaces shall utilize at least five percent (5%) of its area for landscaping
 designed to interrupt the expanse of paved surface. In Attached Single Family,
 Multi-Family, Residential Mixed Use, and Retirement Living Residential
 Districts, landscaped islands shall be provided so that no row of parking
-exceeds eight spaces in length.  
+exceeds eight spaces in length.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.06   Perimeter screens
@@ -124,7 +124,7 @@ shrubbery.
 
 3. _(c)_ **Exceptions.** The screening requirement shall not apply where natural
 or man-made barriers exist which will provide permanent screening generally
-equivalent to that required.  
+equivalent to that required.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.07   Utility uses
@@ -145,7 +145,7 @@ wall not less than five feet and not more than seven feet in height. The design
 and construction of such fences shall be approved by the Architectural Board of
 Review in consideration of factors of safety and visual impact on nearby uses.
 For uses which do not present safety hazards, the Administrator may waive the
-fencing requirement.  
+fencing requirement.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.08   Visibility at intersections
@@ -153,7 +153,7 @@ fencing requirement.
 In all zoning districts, within a triangle formed by lines drawn between points
 on two street right-of-way lines twenty-five feet from their point of
 intersection, substantially unobstructed sight lines shall be maintained within
-a vertical height band two and one-half to six feet above curb level.  
+a vertical height band two and one-half to six feet above curb level.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1142.09   Maintenance of landscaping and replacement of landscaping
@@ -179,5 +179,5 @@ improvement and enhancement, shall consider the intent of Chapter 1142, the need
 for a visual barrier, the intent of the original landscaping plan, the adjacent
 properties, the current site conditions, including soil conditions and the
 success of a certain species growing in the area, and any other factor deemed
-relevant by the Administrator.  
+relevant by the Administrator.\
 (Ord. 2019-39. Passed 8-13-19.)

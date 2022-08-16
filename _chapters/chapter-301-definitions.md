@@ -92,7 +92,7 @@ this chapter.
 "Agricultural tractor" means every self-propelling vehicle designed or used for
 drawing other vehicles or wheeled machinery but having no provision for carrying
 loads independently of such other vehicles, and used principally for
-agricultural purposes.  
+agricultural purposes.\
 (ORC 4511.01(J))
 
 ## 301.03   Alley
@@ -100,19 +100,19 @@ agricultural purposes.
 "Alley" means a street or highway intended to provide access to the rear or side
 of lots or buildings in urban districts and not intended for the purpose of
 through vehicular traffic, and includes any street or highway that has been
-declared an "alley" by Council.  
+declared an "alley" by Council.\
 (ORC 4511.01(XX))
 
 ### 301.031   Beacon; hybrid beacon
 
 1. _(a)_ "Beacon" means a highway traffic signal with one or more signal
-sections that operate in a flashing mode.  
+sections that operate in a flashing mode.\
 (ORC 4511.01(KKK))
 
 2. _(b)_ "Hybrid beacon" means a type of beacon that is intentionally placed in
 a dark mode between periods of operation where no indications are displayed and,
 when in operation, displays both steady and flashing traffic control signal
-indications.  
+indications.\
 (ORC 4511.01(LLL))
 
 ## 301.04   Bicycle; motorized bicycle; moped; electric bicycle
@@ -129,32 +129,32 @@ centimeters piston displacement that produces not more than one brake horsepower
 and is capable of propelling the vehicle at a speed of no greater than twenty
 miles per hour on a level surface.
 
-    "Motorized bicycle" or "moped" does not include an electric bicycle.  
+    "Motorized bicycle" or "moped" does not include an electric bicycle.\
     (ORC 4511.01(H))
 
 3. _(c)_ "Electric bicycle" means a "class 1 electric bicycle", a "class 2
-electric bicycle", or a "class 3 electric bicycle" as defined in this section.  
+electric bicycle", or a "class 3 electric bicycle" as defined in this section.\
 (ORC 4511.01(RRR))
 
     1. _(1)_ "Class 1 electric bicycle" means a bicycle that is equipped with
     fully operable pedals and an electric motor of less than seven hundred fifty
     watts that provides assistance only when the rider is pedaling and ceases to
     provide assistance when the bicycle reaches the speed of twenty miles per
-    hour.  
+    hour.\
     (ORC 4511.01(SSS))
 
     2. _(2)_ "Class 2 electric bicycle" means a bicycle that is equipped with
     fully operable pedals and an electric motor of less than seven hundred fifty
     watts that may provide assistance regardless of whether the rider is
     pedaling and is not capable of providing assistance when the bicycle reaches
-    the speed of twenty miles per hour.  
+    the speed of twenty miles per hour.\
     (ORC 4511.01(TTT))
 
     3. _(3)_ "Class 3 electric bicycle" means a bicycle that is equipped with
     fully operable pedals and an electric motor of less than seven hundred fifty
     watts that provides assistance only when the rider is pedaling and ceases to
     provide assistance when the bicycle reaches the speed of twenty-eight miles
-    per hour.  
+    per hour.\
     (ORC 4511.01(UUU))
 
 ## 301.05   Bus
@@ -164,7 +164,7 @@ and used for the transportation of persons other than in a ridesharing
 arrangement as defined in Ohio R.C. 4511.01, and every motor vehicle, automobile
 for hire or funeral car, other than a taxicab or motor vehicle used in a
 ridesharing arrangement, designed and used for the transportation of persons for
-compensation.  
+compensation.\
 (ORC 4511.01(L))
 
 ## 301.06   Business district
@@ -175,7 +175,7 @@ percent or more of the frontage between such successive intersections is
 occupied by buildings in use for business, or where fifty percent or more of the
 frontage for a distance of 300 feet or more is occupied by buildings in use for
 business, and the character of such territory is indicated by official traffic
-control devices.  
+control devices.\
 (ORC 4511.01(NN))
 
 ## 301.07   Commercial tractor
@@ -183,7 +183,7 @@ control devices.
 "Commercial tractor" means every motor vehicle having motive power designed or
 used for drawing other vehicles and not so constructed as to carry any load
 thereon, or designed or used for drawing other vehicles while carrying a portion
-of such other vehicles, or the load thereon, or both.  
+of such other vehicles, or the load thereon, or both.\
 (ORC 4511.01(I))
 
 ## 301.08   Controlled-access highway
@@ -192,7 +192,7 @@ of such other vehicles, or the load thereon, or both.
 owners or occupants of abutting lands and other persons have no legal right or
 access to or from the same except at such points only and in such manner as may
 be determined by the public authority having jurisdiction over such street or
-highway.  
+highway.\
 (ORC 4511.01(CC))
 
 ## 301.09   Crosswalk
@@ -207,13 +207,13 @@ absence of curbs, the edges of the traversable roadway;
 indicated for pedestrian crossing by lines or other markings on the surface;
 
 3. _(c)_ Notwithstanding subsections (a) and (b) hereof, there shall not be a
-crosswalk where authorized signs have been placed indicating no crossing.  
+crosswalk where authorized signs have been placed indicating no crossing.\
 (ORC 4511.01(LL))
 
 ## 301.10   Driver or operator
 
 "Driver" or "operator" means every person who drives or is in actual physical
-control of a vehicle.  
+control of a vehicle.\
 (ORC 4511.01(Y))
 
 ## 301.11   Emergency vehicle
@@ -221,7 +221,7 @@ control of a vehicle.
 "Emergency vehicle" means emergency vehicles of municipal, township or county
 departments or public utility corporations when identified as such as required
 by law, the Ohio Director of Public Safety or local authorities, and motor
-vehicles when commandeered by a police officer.  
+vehicles when commandeered by a police officer.\
 (ORC 4511.01(D))
 
 ## 301.12   Explosives
@@ -240,33 +240,33 @@ units contain explosives in such limited quantities, of such nature or in such
 packing, that it is impossible to procure a simultaneous or a destructive
 explosion of such units, to the injury of life, limb or property by fire, by
 friction, by concussion, by percussion or by a detonator, such as fixed
-ammunition for small arms, firecrackers or safety fuse matches.  
+ammunition for small arms, firecrackers or safety fuse matches.\
 (ORC 4511.01(T))
 
 ## 301.13   Expressway
 
 "Expressway" means a divided arterial highway for through traffic with full or
 partial control of access with an excess of fifty percent of all crossroads
-separated in grade.  
+separated in grade.\
 (ORC 4511.01(ZZ))
 
 ## 301.14   Flammable liquid
 
 "Flammable liquid" means any liquid that has a flash point of seventy degrees
 Fahrenheit, or less, as determined by a tagliabue or equivalent closed cup test
-device.  
+device.\
 (ORC 4511.01(U))
 
 ## 301.15   Freeway
 
 "Freeway" means a divided multi-lane highway for through traffic with all
-crossroads separated in grade and with full control of access.  
+crossroads separated in grade and with full control of access.\
 (ORC 4511.01(YY))
 
 ## 301.16   Gross weight
 
 "Gross weight" means the weight of a vehicle plus the weight of any load
-thereon.  
+thereon.\
 (ORC 4511.01(V))
 
 ### 301.161   Highway maintenance vehicle
@@ -274,7 +274,7 @@ thereon.
 "Highway maintenance vehicle" means a vehicle used in snow and ice removal or
 road surface maintenance, including a snow plow, traffic line striper, road
 sweeper, mowing machine, asphalt distributing vehicle, or other such vehicle
-designed for use in specific highway maintenance activities.  
+designed for use in specific highway maintenance activities.\
 (ORC 4511.01(QQQ))
 
 ### 301.162   Highway traffic signal
@@ -282,7 +282,7 @@ designed for use in specific highway maintenance activities.
 "Highway traffic signal"means a power-operated traffic control device by which
 traffic is warned or directed to take some specific action. "Highway traffic
 signal" does not include a power-operated sign, steadily illuminated pavement
-markers, warning light, or steady burning electric lamp.  
+markers, warning light, or steady burning electric lamp.\
 (ORC 4511.01(MMM))
 
 ## 301.17   Intersection
@@ -318,13 +318,13 @@ this section:
 
     3. _(3)_ Where a crosswalk is designated on a roadway on the departure from
     the intersection, the intersection includes the area that extends to the far
-    side of the crosswalk.  
+    side of the crosswalk.\
     (ORC 4511.01(KK))
 
 ## 301.18   Laned street or highway
 
 "Laned street or highway" means a street or highway the roadway of which is
-divided into two or more clearly marked lanes for vehicular traffic.  
+divided into two or more clearly marked lanes for vehicular traffic.\
 (ORC 4511.01(GG))
 
 ### 301.183   Low-speed micromobility device
@@ -332,7 +332,7 @@ divided into two or more clearly marked lanes for vehicular traffic.
 "Low-speed micromobility device" means a device weighing less than 100 pounds
 that has handlebars, is propelled by an electric motor or human power, and has
 an attainable speed on a paved level surface of not more than twenty miles per
-hour when propelled by the electric motor.  
+hour when propelled by the electric motor.\
 (ORC 4511.01(WWW))
 
 ### 301.185   Median
@@ -340,7 +340,7 @@ hour when propelled by the electric motor.
 "Median" means the area between two roadways of a divided highway, measured from
 edge of traveled way to edge of traveled way, but excluding turn lanes. The
 width of a median may be different between intersections, between interchanges,
-and at opposite approaches of the same intersection.  
+and at opposite approaches of the same intersection.\
 (ORC 4511.01(NNN))
 
 ## 301.19   Motorcycle
@@ -349,7 +349,7 @@ and at opposite approaches of the same intersection.
 saddle for the use of the operator and designed to travel on not more than three
 wheels in contact with the ground, including but not limited to, motor vehicles
 known as "motor-driven cycle," "motor scooter," "autocycle,","cab-enclosed
-motorcycle" or "motorcycle" without regard to weight or brake horsepower.  
+motorcycle" or "motorcycle" without regard to weight or brake horsepower.\
 (ORC 4511.01(C))
 
 ## 301.20   Motor vehicle
@@ -362,12 +362,12 @@ transportation, hole-digging machinery, well-drilling machinery, ditch-digging
 machinery, farm machinery, and trailers designed and used exclusively to
 transport a boat between a place of storage and a marina, or in and around a
 marina, when drawn or towed on a street or highway for a distance of no more
-than ten miles and at a speed of twenty-five miles per hour or less.  
+than ten miles and at a speed of twenty-five miles per hour or less.\
 (ORC 4511.01(B))
 
 ### 301.201   Operate
 
-"Operate" means to cause or have caused movement of a vehicle.  
+"Operate" means to cause or have caused movement of a vehicle.\
 (ORC 4511.01(HHH))
 
 ## 301.21   Park or parking
@@ -380,13 +380,13 @@ loading or unloading merchandise or passengers.
 
 "Pedestrian" means any natural person afoot. The term includes a personal
 delivery device as defined in Ohio R.C. 4511.513 unless the context clearly
-suggests otherwise.  
+suggests otherwise.\
 (ORC 4511.01(X))
 
 ## 301.23   Person
 
 "Person" means every natural person, firm, copartnership, association or
-corporation.  
+corporation.\
 (ORC 4511.01(W))
 
 ## 301.24   Pole trailer
@@ -395,13 +395,13 @@ corporation.
 by means of a reach, pole or by being boomed or otherwise secured to the towing
 vehicle, and ordinarily used for transporting long or irregular shaped loads
 such as poles, pipes or structural members capable, generally, of sustaining
-themselves as beams between the supporting connection.  
+themselves as beams between the supporting connection.\
 (ORC 4511.01(O))
 
 ## 301.25   Police officer
 
 "Police officer" means every officer authorized to direct or regulate traffic,
-or to make arrests for violations of traffic regulations.  
+or to make arrests for violations of traffic regulations.\
 (ORC 4511.01(Z))
 
 ### 301.251   Predicate motor vehicle or traffic offense
@@ -429,14 +429,14 @@ violated;
 
 5. _(e)_ A violation of a municipal ordinance that is substantially similar to
 any section or provision set forth or described in subsection (a) to (d) of this
-section.  
+section.\
 (ORC 4511.01(III))
 
 ## 301.26   Private road or driveway
 
 1. _(a)_ "Private road or driveway" means every way or place in private
 ownership used for vehicular travel by the owner and those having express or
-implied permission from the owner but not by other persons.  
+implied permission from the owner but not by other persons.\
 (ORC 4511.01(DD))
 
 2. _(b)_ "Private road open to public travel" means a private toll road or road,
@@ -446,7 +446,7 @@ recreation facility that is privately owned but where the public is allowed to
 travel without access restrictions. "Private road open to public travel"
 includes a gated toll road but does not include a road within a private gated
 property where access is restricted at all times, a parking area, a driving
-aisle within a parking area, or a private grade crossing.  
+aisle within a parking area, or a private grade crossing.\
 (ORC 4511.01(OOO))
 
 ## 301.27   Public safety vehicle
@@ -475,7 +475,7 @@ service when identified as required by the Ohio Director of Public Safety. Any
 vehicle used to transport or provide emergency medical service to an ill or
 injured person, when certified as a public safety vehicle, shall be considered a
 public safety vehicle when transporting an ill or injured person to a hospital
-regardless of whether such vehicle has already passed a hospital.  
+regardless of whether such vehicle has already passed a hospital.\
 (ORC 4511.01(E))
 
 5. _(e)_ Vehicles used by the Commercial Motor Vehicle Safety Enforcement Unit
@@ -485,20 +485,20 @@ specified in Ohio R.C. 5503.34.
 ## 301.28   Railroad
 
 "Railroad" means a carrier of persons or property operating upon rails placed
-principally on a private right of way.  
+principally on a private right of way.\
 (ORC 4511.01(P))
 
 ## 301.29   Railroad sign or signal
 
 "Railroad sign or signal" means any sign, signal or device erected by authority
 of a public body or official or by a railroad and intended to give notice of the
-presence of railroad tracks or the approach of a railroad train.  
+presence of railroad tracks or the approach of a railroad train.\
 (ORC 4511.01(SS))
 
 ## 301.30   Railroad train
 
 "Railroad train" means a steam engine, or an electric or other motor, with or
-without cars coupled thereto, operated by a railroad.  
+without cars coupled thereto, operated by a railroad.\
 (ORC 4511.01(Q))
 
 ## 301.31   Residence district
@@ -506,7 +506,7 @@ without cars coupled thereto, operated by a railroad.
 "Residence district" means the territory, not comprising a business district,
 fronting on a street or highway, including the street or highway, where, for a
 distance of 300 feet or more, the frontage is improved with residences or
-residences and buildings in use for business.  
+residences and buildings in use for business.\
 (ORC 4511.01(OO))
 
 ## 301.32   Right of way
@@ -522,14 +522,14 @@ direction into its or the individual's path;
 in the configuration of a strip, acquired for or devoted to transportation
 purposes. When used in this context, right of way includes the roadway,
 shoulders or berm, ditch, and slopes extending to the right-of-way limits under
-the control of the State or local authority.  
+the control of the State or local authority.\
 (ORC 4511.01(UU))
 
 ### 301.321   Road service vehicle
 
 "Road service vehicle" means wreckers, utility repair vehicles, and state,
 county, and municipal service vehicles equipped with visual signals by means of
-flashing, rotating, or oscillating lights.  
+flashing, rotating, or oscillating lights.\
 (ORC 4511.01(JJJ))
 
 ## 301.33   Roadway
@@ -537,14 +537,14 @@ flashing, rotating, or oscillating lights.
 "Roadway" means that portion of a street or highway improved, designed or
 ordinarily used for vehicular travel, except the berm or shoulder. If a street
 or highway includes two or more separate roadways, the term "roadway" means any
-such roadway separately but not all such roadways collectively.  
+such roadway separately but not all such roadways collectively.\
 (ORC 4511.01(EE))
 
 ## 301.34   Safety zone
 
 "Safety zone" means the area or space officially set apart within a roadway for
 the exclusive use of pedestrians and protected or marked or indicated by
-adequate signs as to be plainly visible at all times.  
+adequate signs as to be plainly visible at all times.\
 (ORC 4511.01(MM))
 
 ## 301.35   School bus
@@ -566,7 +566,7 @@ care center or type A family day-care home to transport children from the child
 day-care center or type A family day-care home to a school if the van or bus
 does not have more than fifteen children in the van or bus at any time. "Child
 day-care center" and "type A family day-care home" have the same meanings as in
-Ohio R.C. 5104.01.  
+Ohio R.C. 5104.01.\
 (ORC 4511.01(F), (FFF))
 
 ## 301.36   Semitrailer
@@ -574,7 +574,7 @@ Ohio R.C. 5104.01.
 "Semitrailer" means every vehicle designed or used for carrying persons or
 property with another and separate motor vehicle so that in operation a part of
 its own weight or that of its load, or both, rests upon and is carried by
-another vehicle.  
+another vehicle.\
 (ORC 4511.01(N))
 
 ### 301.361   Shared-use path
@@ -587,20 +587,20 @@ manual and motorized wheelchairs, and other authorized motorized and
 non-motorized users. A shared-use path does not include any trail that is
 intended to be used primarily for mountain biking, hiking, equestrian use, or
 other similar uses, or any other single track or natural surface trail that has
-historically been reserved for nonmotorized use.  
+historically been reserved for nonmotorized use.\
 (ORC 4511.01(PPP))
 
 ## 301.37   Sidewalk
 
 "Sidewalk" means that portion of a street between the curb lines, or the lateral
 lines of a roadway, and the adjacent property lines, intended for the use of
-pedestrians.  
+pedestrians.\
 (ORC 4511.01(FF))
 
 ## 301.38   State route
 
 "State route" means every highway that is designated with an official State
-route number and so marked.  
+route number and so marked.\
 (ORC 4511.01(JJ))
 
 ## 301.39   Stop (when required)
@@ -621,39 +621,39 @@ receiving or discharging passengers.
 ## 301.41   Stop intersection
 
 "Stop intersection" means any intersection at one or more entrances of which
-stop signs are erected.  
+stop signs are erected.\
 (ORC 4511.01(BBB))
 
 ## 301.42   Street or highway; arterial street
 
 1. _(a)_ "Street" or "highway" are synonymous and mean the entire width between
 the boundary lines of every way open to the use of the public as a thoroughfare
-for purposes of vehicular travel.  
+for purposes of vehicular travel.\
 (ORC 4511.01(BB))
 
 2. _(b)_ "Arterial street" means any United States or State numbered route,
 controlled access highway or other major radial or circumferential street or
 highway designated by local authorities within their respective jurisdictions as
-part of a major arterial system of streets or highways.  
+part of a major arterial system of streets or highways.\
 (ORC 4511.01(CCC))
 
 ## 301.43   Through street or highway
 
 "Through street or highway" means every street or highway as provided in Section
-313.02.  
+313.02.\
 (ORC 4511.01(HH))
 
 ## 301.44   Thruway
 
 "Thruway" means a through street or highway whose entire roadway is reserved for
-through traffic and on which roadway parking is prohibited.  
+through traffic and on which roadway parking is prohibited.\
 (ORC 4511.01(AAA))
 
 ## 301.45   Traffic
 
 "Traffic" means pedestrians, ridden or herded animals, vehicles and other
 devices, either singly or together, while using for purposes of travel any
-street or highway or private road open to public travel.  
+street or highway or private road open to public travel.\
 (ORC 4511.01(TT))
 
 ## 301.46   Traffic control devices
@@ -663,13 +663,13 @@ used to regulate, warn or guide traffic, placed on, over, or adjacent to a
 street, highway, private road open to public travel, pedestrian facility, or
 shared-use path by authority of a public agency or official having jurisdiction,
 or, in the case of a private road open to public travel, by authority of the
-private owner or private official having jurisdiction.  
+private owner or private official having jurisdiction.\
 (ORC 4511.01(QQ))
 
 ## 301.47   Traffic control signal
 
 "Traffic control signal" means any highway traffic signal by which traffic is
-alternately directed to stop and permitted to proceed.  
+alternately directed to stop and permitted to proceed.\
 (ORC 4511.01(RR))
 
 ## 301.48   Trailer
@@ -684,13 +684,13 @@ towed on a street or highway at a speed greater than twenty-five miles per hour
 and a vehicle designed and used exclusively to transport a boat between a place
 of storage and a marina, or in and around a marina, when drawn or towed on a
 street or highway for a distance of more than ten miles or at a speed of more
-than twenty-five miles per hour.  
+than twenty-five miles per hour.\
 (ORC 4511.01(M))
 
 ## 301.49   Truck
 
 "Truck" means every motor vehicle, except trailers and semitrailers, designed
-and used to carry property.  
+and used to carry property.\
 (ORC 4511.01(K))
 
 ## 301.50   Urban district
@@ -699,7 +699,7 @@ and used to carry property.
 highway which is built up with structures devoted to business, industry or
 dwelling houses situated at intervals of less than 100 feet for distance of a
 quarter of a mile or more, and the character of such territory is indicated by
-official traffic control devices.  
+official traffic control devices.\
 (ORC 4511.01(PP))
 
 ## 301.51   Vehicle
@@ -709,18 +709,18 @@ bicycle, in, upon or by which any person or property may be transported or drawn
 upon a street or highway, except that "vehicle" does not include any motorized
 wheelchair, any electric personal assistive mobility device, any low- speed
 micromobility device, or any device, other than a bicycle, that is moved by
-human power.  
+human power.\
 (ORC 4511.01(A))
 
 ## 301.52   Wheelchair, motorized
 
 "Motorized wheelchair" means any self-propelled vehicle designed for, and used
 by, a handicapped person and that is incapable of a speed in excess of eight
-miles per hour.  
+miles per hour.\
 (ORC 4511.01(EEE))
 
 ## 301.53   Waste collection vehicle
 
 "Waste collection vehicle" means a vehicle used in the collection of garbage,
-refuse, trash or recyclable materials.  
+refuse, trash or recyclable materials.\
 (ORC 4511.01(RRR))

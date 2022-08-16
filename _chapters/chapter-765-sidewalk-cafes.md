@@ -29,7 +29,7 @@ standards for the existence and operation of sidewalk cafes are necessary to
 facilitate and ensure a safe environment in these areas. The issuance of a
 sidewalk cafe permit shall not constitute nor shall it be construed to
 constitute a vacation or abandonment by the Village of its interest in the
-right-of-way or any easements contained therein.  
+right-of-way or any easements contained therein.\
 (Ord. 2007-23. Passed 3-26-07.)
 
 ## 765.02   Definitions
@@ -47,21 +47,21 @@ restaurant or other retail establishments with ancillary food service to patrons
 seated at tables located within the adjacent sidewalk area or providing seating
 for patrons in the adjacent sidewalk area. In the case of a permittee in
 possession of a valid license for the sale of alcohol beverages covering such
-sidewalk, the service of such beverages is permitted.  
+sidewalk, the service of such beverages is permitted.\
 (Ord. 2007-23. Passed 3-26-07.)
 
 ## 765.03   Permit required
 
 Private commercial use of public sidewalks for the purpose of operating a
 sidewalk cafe in the Village is prohibited unless a permit is obtained from the
-Administrator as provided in this chapter.  
+Administrator as provided in this chapter.\
 (Ord. 2007-23. Passed 3-26-07.)
 
 ## 765.04   Application and permit fees
 
 The initial application and annual permit fee shall be twenty dollars ($20.00)
 and is due at the time of the initial application. No application fee shall be
-required for renewals.  
+required for renewals.\
 (Ord. 2007-23. Passed 3-26-07.)
 
 ## 765.05   Permit application
@@ -80,7 +80,7 @@ sidewalk cafe;
 requested to be in the right-of-way.
 
 5. _(e)_ Other information shall be provided as required by the Administrator or
-Police Chief to carry out the purpose of this chapter.  
+Police Chief to carry out the purpose of this chapter.\
 (Ord. 2007-23. Passed 3-26-07.)
 
 ## 765.06   Location rules and review criteria
@@ -118,7 +118,7 @@ alcoholic beverages are intended to be served.
     2. _(2)_ Approve the permit with conditions, or;
 
     3. _(3)_ Deny the permit. If denied the Police Chief shall transmit in
-    writing the reasons for denial to the applicant.  
+    writing the reasons for denial to the applicant.\
     (Ord. 2014-17. Passed 4-28-14.)
 
 ## 765.07   Conditions of permit
@@ -130,7 +130,7 @@ sidewalk cafe permit holders shall be subject to the following;
 issued, and the sidewalk cafe may be operated on any day that the weather
 permits such operation. Requests for renewals shall be filed with the
 Administrator after the first day of January. The Administrator may approve,
-approve with additional conditions, or deny the request for renewal.  
+approve with additional conditions, or deny the request for renewal.\
 (Ord. 2009-22. Passed 3-23-09.)
 
 2. _(b)_ The permit issued shall be valid only for the permittee and is not
@@ -196,7 +196,7 @@ cafe must meet the following additional requirements
     cafes shall discontinue by 11 p.m.
 
     5. _(5)_ All alcoholic beverage service providers must also provide food
-    service in the licensed area.  
+    service in the licensed area.\
     (Ord. 2007-23. Passed 3-26-07.)
 
 ## 765.08   Liability and insurance
@@ -213,7 +213,7 @@ permit.
 insurance in the form of a certificate of insurance with limits no less than
 five hundred thousand dollars ($500,000) per occurrence, one million dollars
 ($1,000,000) aggregate and the Village of Chagrin Falls is named on the
-certificate as additionally insured as a condition of the permit.  
+certificate as additionally insured as a condition of the permit.\
 (Ord. 2007-23. Passed 3-26-07.)
 
 ## 765.09   Denial, revocation, or suspension of permit
@@ -224,12 +224,12 @@ denial, revocation, or suspension the Administrator shall give notice of such
 action to the applicant or permittee in writing stating the action that has been
 taken and the reason therefor. The action shall be effective immediately. The
 applicant or permittee may appeal the order of the Administrator as provided in
-1111.02.  
+1111.02.\
 (Ord. 2007-23. Passed 3-26-07.)
 
 ## 765.99   Penalty
 
 Whoever violates any of the provisions of this chapter shall be guilty of a
 misdemeanor of the first degree. Each day such violation continues shall
-constitute a separate offense.  
+constitute a separate offense.\
 (Ord. 2007-23. Passed 3-26-07.)

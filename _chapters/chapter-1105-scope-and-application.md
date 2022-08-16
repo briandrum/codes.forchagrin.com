@@ -24,7 +24,7 @@ to as the Chagrin Falls Planning and Zoning Code. Being Titles One to Five of
 Part Eleven - The Planning and Zoning Code of the Codified Ordinances of Chagrin
 Falls, Ohio, the digit 11 standing for Part Eleven - The Planning and Zoning
 Code of the Codified Ordinances of Chagrin Falls shall be understood to precede
-all section numbers of this Code.  
+all section numbers of this Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.02   Findings of fact
@@ -45,7 +45,7 @@ population;
 may be considered best to implement comprehensive planning; and
 
 5. _(e)_ Providing regulations and procedures for the administration,
-interpretation, amendment and enforcement thereof.  
+interpretation, amendment and enforcement thereof.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.03   Objectives
@@ -76,7 +76,7 @@ schools and other public facilities; and
 development of the Municipality in accordance with a comprehensive plan;
 
 7. _(g)_ To preserve historic character and encourage historic preservation of
-historically significant buildings and structures.  
+historically significant buildings and structures.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.04   Application; jurisdiction
@@ -109,14 +109,14 @@ covenants running with the land, easements or other agreements between parties.
 5. _(e)_ The regulations set forth herein shall be applicable to all buildings,
 structures, uses and land of any political subdivision, district, taxing unit or
 bond issuing authority of the State, including the State, located within the
-corporate limits of the Municipality.  
+corporate limits of the Municipality.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.05   Compliance with this planning and zoning code
 
 No public officials of the Municipality shall issue permits or certificates for
 any structure or use that would result in conflict with provisions of this
-Planning and Zoning Code.  
+Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.06   Relation to other regulations
@@ -155,7 +155,7 @@ the requirements of the Overlay District shall govern.
     components, or ammunition for firearms is permitted by an owner or
     authorized tenant in any nonresidential zoning district in accordance with
     Section 9.68 of the Ohio Revised Code while such Ohio Revised Code Section
-    remains in effect.  
+    remains in effect.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.07   Separability
@@ -165,7 +165,7 @@ Zoning Code or amendments thereto is declared to be invalid by a judicial
 decision of a court of competent jurisdiction, the effect of such determination
 shall be limited to that provision or provisions expressly stated to be invalid,
 and such determination shall not affect, impair or nullify this Planning and
-Zoning Code as amended as a whole or any other part thereof.  
+Zoning Code as amended as a whole or any other part thereof.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.08   Imposition of conditions
@@ -180,5 +180,5 @@ conditions are in compliance with any applicable statutes, ordinances and
 standards, on any such approval with such conditions the Approving Authority
 believes are necessary to impose in order that the public health, safety,
 convenience, comfort and general welfare of the residents and the Village may be
-safeguarded and substantial justice done.  
+safeguarded and substantial justice done.\
 ([Ord. 2022-19. Passed 6-13-22.]({% link _posts/2022-04-25-ordinance-2022-19.md %}))

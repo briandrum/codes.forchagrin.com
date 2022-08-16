@@ -56,7 +56,7 @@ title: "Chapter 553: Railroads"
     subsection (a)(1) hereof, summons shall be issued to the railroad company
     pursuant to Ohio R.C. 2935.10(B), which summons shall be served on the
     regular ticket or freight agent of the company in the county where the
-    offense occurred.  
+    offense occurred.\
     (ORC 5589.21)
 
 2. _(b)_ For purposes of this section, "railroad company" includes the officers,
@@ -77,11 +77,11 @@ requires them to abandon the locomotive.
 2. _(b)_ Upon the filing of an affidavit or complaint for violation of this
 section, summons shall be issued to the railroad company pursuant to Ohio R.C.
 2935.10(B), which summons shall be served on the regular ticket or freight agent
-of the company in the county where the offense occurred.  
+of the company in the county where the offense occurred.\
 (ORC 5589.211)
 
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the first
-degree and shall be fined five thousand dollars ($5,000).  
+degree and shall be fined five thousand dollars ($5,000).\
 (ORC 5589.99)
 
 ## 553.02   Climbing upon railroad cars
@@ -91,7 +91,7 @@ himself to a locomotive, engine or car upon the track of a railroad, unless in
 compliance with law or by permission under the rules of the corporation managing
 such railroad.
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4999.02)
 
 ## 553.03   Duties of locomotive engineer
@@ -103,7 +103,7 @@ way is clear.
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the fourth
 degree. If violation of this misdemeanor causes physical harm to any person,
-whoever violates this section is guilty of a misdemeanor of the third degree.  
+whoever violates this section is guilty of a misdemeanor of the third degree.\
 (ORC 4999.04)
 
 ## 553.99   Penalty

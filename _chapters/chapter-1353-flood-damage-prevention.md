@@ -101,7 +101,7 @@ purposes, this chapter includes methods and provisions for:
 
     5. _(5)_ Preventing or regulating the construction of flood barriers which
     will unnaturally divert floodwaters or which may increase flood hazards in
-    other areas.  
+    other areas.\
     (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.02   Definitions
@@ -165,7 +165,7 @@ areas.
 
 13. _(m)_ "Flood Insurance Risk Zones" means zone designations on FHBMs and
 FIRMs that indicate the magnitude of the flood hazard in specific areas of a
-community. Following are the zone definitions:  
+community. Following are the zone definitions:
 
     * Zone A:
 
@@ -181,26 +181,26 @@ community. Following are the zone definitions:
 
         * Special flood hazard areas inundated by the 100-year flood; with flood
         depths of 1 to 3 feet (usually sheet flow on sloping terrain); average
-        depths are determined.  
+        depths are determined.
 
     * Zone AH:
 
         * Special flood hazard areas inundated by the 100-year flood; flood
         depths of 1 to 3 feet (usually areas of ponding); base flood elevations
-        are determined.  
+        are determined.
 
     * Zone A99:
 
         * Special flood hazard areas inundated by the 100-year flood to be
         protected from the 100-year flood by a Federal flood protection system
-        under construction; no base flood elevations are determined.  
+        under construction; no base flood elevations are determined.
 
     * Zone B and Zone X (shaded):
 
         * Areas of 500-year flood; areas subject to the 100-year flood with
         average depths of less than 1 foot or with contributing drainage area
         less than 1 square mile; and areas protected by levees from the base
-        flood.  
+        flood.
 
     * Zone C and Zone X (unshaded):
 
@@ -426,7 +426,7 @@ damage occurred.
 regulations consistent with the variance conditions herein.
 
 37. _(kk)_ "Violation" means the failure of a structure or other development to
-be fully compliant with this chapter.  
+be fully compliant with this chapter.\
 (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.03   General provisions
@@ -434,7 +434,7 @@ be fully compliant with this chapter.
 1. _(a)_ **Lands to Which This Chapter Applies.** This chapter shall apply to
 all special flood hazard areas within the jurisdiction of the Village as
 identified by the Section 1353.03(b) including any additional special flood
-hazard areas annexed by the Village.  
+hazard areas annexed by the Village.\
 (Ord. 2005-22. Passed 4-11-05.)
 
 2. _(b)_ **Basis for Establishing the Special Flood Hazard Areas.** For the
@@ -455,7 +455,7 @@ purposes of these regulations, the following studies and/or maps are adopted:
     Proposals. Any revisions to the aforementioned maps and/or studies are
     hereby adopted by reference and declared to be a part of these regulations.
     Such maps and/or studies are on file at 21 West Washington Street, Chagrin
-    Falls, Ohio.  
+    Falls, Ohio.\
     (Ord. 2010-45. Passed 9-13-10.)
 
 3. _(c)_ **Compliance.** Unless specifically exempted from filing for a
@@ -496,7 +496,7 @@ decision lawfully made there under.
 7. _(g)_ **Severability.** Should any section or provision of this chapter be
 declared by the courts to be unconstitutional or invalid, such decision shall
 not affect the validity of the chapter as a whole, or any part thereof other
-than the part so declared to be unconstitutional or invalid.  
+than the part so declared to be unconstitutional or invalid.\
 (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.04   Administration
@@ -755,7 +755,7 @@ Administrative Officer shall include but are not limited to:
         owner or owner's representative.
 
         2. _(B)_ For all development activities subject to the standards of
-        Section 1353.04(d)(4), a Letter of Map Revision.  
+        Section 1353.04(d)(4), a Letter of Map Revision.\
         (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.05   Variance procedure
@@ -880,7 +880,7 @@ shall be referred to Council. After reviewing the Board's decision, Council may
 confirm, amend, or reverse, the decision by a majority vote of its membership.
 Immediately following Council's decision, a record of such decision, including
 notice of the expiration date of an approved variance, shall be mailed to the
-applicant.  
+applicant.\
 (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.06   Provisions for flood hazard reduction
@@ -942,7 +942,7 @@ standards are required:
         least fifty lots or five acres, whichever is less.
 
     5. _(5)_ **Fill Prohibited.** The deposit of fill, including sand, gravel or
-    other materials of any composition, is prohibited.  
+    other materials of any composition, is prohibited.\
     (Ord. 2005-22. Passed 4-11-05.)
 
 2. _(b)_ **Specific Standards.** In all special flood hazard areas where base
@@ -1039,7 +1039,7 @@ following provisions are required:
 
         2. _(B)_ They must be fully licensed and ready for highway use, or
 
-        3. _(C)_ They must meet all standards of Section 1353.06.  
+        3. _(C)_ They must meet all standards of Section 1353.06.\
         (Ord. 2010-45. Passed 9-13-10.)
 
 ## 1353.07   Floodways
@@ -1065,7 +1065,7 @@ provisions of Section 1353.06 and this section.
 in base flood elevations can only be granted upon the prior approval by the
 Federal Emergency Management Agency. Such requests must be submitted by the
 Chief Administrative Officer to the Federal Emergency Management Agency and must
-meet the requirements of the National Flood Insurance Program.  
+meet the requirements of the National Flood Insurance Program.\
 (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.08   Establishment of buffer area
@@ -1133,5 +1133,5 @@ requirements, including violations of conditions of and safeguards established
 in connection with conditions shall be fined or imprisoned as provided by the
 laws of the Village. Each day such violation continues shall be considered a
 separate offense. Nothing herein contained shall prevent the Village from taking
-such other lawful action as is necessary to prevent or remedy any violation.  
+such other lawful action as is necessary to prevent or remedy any violation.\
 (Ord. 2005-22. Passed 4-11-05.)

@@ -44,7 +44,7 @@ amount paid for labor, the fees of the officers serving such notice and a proper
 description of the premises. Such amounts, when allowed, shall be entered upon
 the tax duplicate and be a lien upon such lands from and after the date of the
 entry and be collected as other taxes and returned to the Municipality with the
-General Fund.  
+General Fund.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 543.02   Removal of ice and snow from sidewalks
@@ -58,7 +58,7 @@ accumulated thereon within a reasonable time.
 most recent accumulation of ice or snow, or if during the night, two hours after
 sunrise, or, if notice by the Municipality, within two hours of such notice.
 Notice is adequate whether oral or written and served upon the owner or
-occupant, or posted in writing on the main entrance of the premises.  
+occupant, or posted in writing on the main entrance of the premises.\
 (Ord. 1987-44. Passed 10-26-87.)
 
 ## 543.03   Unloading on streets, sidewalks
@@ -66,7 +66,7 @@ occupant, or posted in writing on the main entrance of the premises.
 No person shall unload any heavy material in the streets of the Municipality by
 throwing or letting the same fall upon the pavement of any street, sidewalk or
 other public way, without first placing some sufficient protection over the
-pavement.  
+pavement.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 543.04   Materials on streets and sidewalks
@@ -81,7 +81,7 @@ with the free and unobstructed use thereof.
 person having care of any building or lot of land bordering any street,
 sidewalk, alley or other public place, permit or cause the sweeping, shoveling
 of piling of any snow, ice, leaves, branches, twigs, brush or grass upon any
-street, alley or public place.  
+street, alley or public place.\
 (Ord. 1963-558. Passed 2-11-63.)
 
 ## 543.05   Protecting sidewalks
@@ -90,7 +90,7 @@ In the transportation of any goods, materials, or equipment across any sidewalk
 or tree lawn area in the Municipality, efficient temporary planking shall be
 used to protect such sidewalks from breakage and such temporary planking shall
 be removed at the close of each working day and the surface of the sidewalk
-immediately cleaned and left in a passable condition.  
+immediately cleaned and left in a passable condition.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 543.06   Sale of goods and merchandise upon sidewalks or tree lawns
@@ -109,12 +109,12 @@ May 24, 1982.)
 health, safety and welfare of the general public, including those who wish to
 use skateboards, roller blades and roller skates on public streets and
 sidewalks, as well as those who drive motor vehicles, and pedestrians who use
-the sidewalks.  
+the sidewalks.
 
     It is the specific intent of this section that none of its provisions are
     intended to impose any duty whatsoever upon the Village, or any of its
     officers or employees, for whom the implementation and enforcement of this
-    section shall be discretionary and not mandatory.  
+    section shall be discretionary and not mandatory.
 
     The Village discourages the use of any skateboards, roler blades, or roller
     skates on the public streets or sidewalks of the Village for the reason that
@@ -168,7 +168,7 @@ devices on public streets or sidewalks after sunset and before sunrise without
 wearing a reflective vest.
 
 9. _(i)_ Whoever violates any provision of this section shall be guilty of a
-minor misdemeanor.  
+minor misdemeanor.\
 (Ord. 1995-78. Passed 10-9-95.)
 
 ## 543.09   Use of streets for recreational purposes
@@ -180,7 +180,7 @@ October 9, 1995.)
 
 No person shall, unless authorized by duly constituted public authority, remove
 or tamper with any manhole cover or cause any obstruction to be placed in a
-public sewer.  
+public sewer.\
 (Ord. 1949-143. Passed 5-9-49.)
 
 ## 543.99   Penalty

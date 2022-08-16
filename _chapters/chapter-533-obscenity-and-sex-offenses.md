@@ -145,7 +145,7 @@ any of the following apply:
 
 16. _(p)_ "Sado-masochistic abuse" means flagellation or torture by or upon a
 person or the condition of being fettered, bound, or otherwise physically
-restrained.  
+restrained.\
 (ORC 2907.01)
 
 ## 533.02   Presumption of knowledge; actual notice and defense
@@ -219,7 +219,7 @@ feasible under available technology.
 of this section to any person or circumstance, is held invalid, the invalidity
 does not affect other provisions or applications of this section or related
 sections that can be given effect without the invalid provision or application.
-To this end, the provisions are severable.  
+To this end, the provisions are severable.\
 (ORC 2907.35)
 
 ## 533.03   Unlawful sexual conduct with a minor
@@ -234,7 +234,7 @@ a minor, a misdemeanor of the first degree. If the offender is four years older
 or more than the other person, or if the offender has previously been convicted
 of or pleaded guilty to a violation of Ohio R.C. 2907.02, 2907.03 or 2907.04, or
 former Ohio R.C. 2907.12, unlawful sexual conduct with a minor is a felony and
-shall be prosecuted under appropriate State law.  
+shall be prosecuted under appropriate State law.\
 (ORC 2907.04)
 
 ## 533.04   Sexual imposition
@@ -279,7 +279,7 @@ violations of Ohio R.C. 2907.02, 2907.03, 2907.04 or 2907.05, 2907.06 or former
 Section 2907.12 or of any combination of those sections, a violation of this
 section is a misdemeanor of the first degree and, notwithstanding the range of
 jail terms prescribed in Ohio R.C. 2929.24, the court may impose on the offender
-a definite jail term of not more than one year.  
+a definite jail term of not more than one year.\
 (ORC 2907.06)
 
 ## 533.05   Importuning
@@ -316,7 +316,7 @@ undergarments worn by, that other person.
     degree.
 
     4. _(4)_ A violation of subsection (c) hereof is a misdemeanor of the first
-    degree.  
+    degree.\
     (ORC 2907.08)
 
 ## 533.07   Public indecency
@@ -419,7 +419,7 @@ the spouse of the offender:
     violation of this section, the court shall issue an order at the time of
     sentencing that classifies the offender as a tier I sex
     offender/child-victim offender subject to registration under Ohio R.C.
-    2950.04, 2950.041, 2950.05 and 2950.06.  
+    2950.04, 2950.041, 2950.05 and 2950.06.\
     (ORC 2907.09)
 
 ## 533.08   Procuring; engagement in sexual activity for hire
@@ -466,7 +466,7 @@ enticing, or procuring another to engage in sexual activity for hire in exchange
 for the person giving anything of value to the other person and, notwithstanding
 the fine specified in Ohio R.C. 2929.28(A)(2)(a) for a misdemeanor of the first
 degree, the court may impose upon the offender a fine of not more than one
-thousand five hundred dollars ($1,500).  
+thousand five hundred dollars ($1,500).\
 (ORC 2907.231)
 
 ## 533.09   Soliciting
@@ -492,7 +492,7 @@ person.
 
     2. _(2)_ Whoever violates subsection (b) of this section is guilty of
     engaging in solicitation after a positive HIV test, a felony to be
-    prosecuted under appropriate state law.  
+    prosecuted under appropriate state law.\
     (ORC 2907.24)
 
 ### 533.091   Loitering to engage in solicitation
@@ -541,7 +541,7 @@ in conduct in violation of subsection (a) of this section.
 
     2. _(2)_ Whoever violates subsection (b) of this section is guilty of
     loitering to engage in solicitation after a positive HIV test, a felony to
-    be prosecuted under appropriate state law.  
+    be prosecuted under appropriate state law.\
     (ORC 2907.24, 2907.241)
 
 ## 533.10   Prostitution
@@ -559,7 +559,7 @@ in sexual activity for hire.
 
     2. _(2)_ Whoever violates subsection (b) of this section is guilty of
     engaging in prostitution after a positive HIV test, a felony to be
-    prosecuted under appropriate state law.  
+    prosecuted under appropriate state law.\
     (ORC 2907.25)
 
 ## 533.11   Disseminating matter harmful to juveniles
@@ -656,7 +656,7 @@ to juveniles. If the material or performance involved is harmful to juveniles,
 except as otherwise provided in this subsection, a violation of this section is
 a misdemeanor of the first degree. If the material or performance involved is
 obscene, a violation of this section is a felony and shall be prosecuted under
-appropriate State law.  
+appropriate State law.\
 (ORC 2907.31)
 
 ## 533.12   Deception to obtain matter harmful to juveniles
@@ -685,7 +685,7 @@ the following:
 3. _(c)_ Whoever violates this section is guilty of deception to obtain matter
 harmful to juveniles, a misdemeanor of the second degree. A juvenile who
 violates subsection (b) hereof shall be adjudged an unruly child, with such
-disposition of the case as may be appropriate under Ohio R.C. Chapter 2151.  
+disposition of the case as may be appropriate under Ohio R.C. Chapter 2151.\
 (ORC 2907.33)
 
 ## 533.13   Displaying matter harmful to juveniles
@@ -705,7 +705,7 @@ is not open to the view of juveniles.
 
 3. _(c)_ Whoever violates this section is guilty of displaying matter harmful to
 juveniles, a misdemeanor of the first degree. Each day during which the offender
-is in violation of this section constitutes a separate offense.  
+is in violation of this section constitutes a separate offense.\
 (ORC 2907.311)
 
 ## 533.14   Unlawful advertising of massage
@@ -722,7 +722,7 @@ massage, a misdemeanor of the first degree.
 3. _(c)_ Nothing in this section prevents the legislative authority of a
 municipal corporation or township from enacting any regulation of the
 advertising of massage further than and in addition to the provisions of
-subsections (a) and (b) of this section.  
+subsections (a) and (b) of this section.\
 (ORC 2927.17)
 
 ## 533.15   Dissemination of private sexual images
@@ -882,7 +882,7 @@ section, the other section, or both sections.
         violation.
 
 7. _(g)_ A victim of a violation of this section may commence a civil cause of
-action against the offender, as described in Ohio R.C. 2307.66.  
+action against the offender, as described in Ohio R.C. 2307.66.\
 (ORC 2917.211)
 
 ## 533.99   Penalty

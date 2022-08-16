@@ -83,7 +83,7 @@ or land.
 4. _(d)_ **Occupancy Permit Required.** Initial occupancy of a building or land,
 completion of an activity requiring a building permit, and for nonresidential
 uses, occupancy which commences with a change in use, tenancy, business
-ownership or termination of a vacancy of six months or more.  
+ownership or termination of a vacancy of six months or more.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.03   Conditions for issuance of certificates and permits
@@ -105,7 +105,7 @@ Codified Ordinances.
 occupancy permit shall be issued for a building on a lot which is not located in
 a duly recorded subdivision, is not located on a public or private street, or
 for which improvements required by the Municipality have not been installed or
-acceptably guaranteed.  
+acceptably guaranteed.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.04   Application requirements
@@ -176,7 +176,7 @@ requirements which he determines to be inapplicable in specific instances.
 
 4. _(d)_ **Building Permit Applications.** Applications which incorporate
 building permit applications shall also contain all information required for
-building permits in Part Thirteen - Building Code.  
+building permits in Part Thirteen - Building Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.05   Review and approval procedures
@@ -354,7 +354,7 @@ shall issue no permits or certificates prior to required approvals.
     4. _(4)_ **Bureau of Fire Prevention.** Approval by the Bureau of Fire
     Prevention shall be required for all building permits authorizing erection,
     enlargement or repair of structures and for the installation of Solar Energy
-    Systems in accordance with Chapter 1153.  
+    Systems in accordance with Chapter 1153.\
     (See Section 1501.13 of the Fire Prevention Code.)
 
     5. _(5)_ **Council.** Council approval shall be required for all subdivision
@@ -435,7 +435,7 @@ approvals, the Administrator shall promptly issue the appropriate permit or
 certificate. If an application has been disapproved by the Municipal bodies or
 officers responsible for that determination, the Administrator shall so notify
 the applicant in writing, providing copies of all written action taken by the
-Council or any board or commission of the Municipality.  
+Council or any board or commission of the Municipality.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.06   Expiration and renewal of certificates and permits
@@ -459,7 +459,7 @@ residential uses.
 
     Each nonresidential occupancy permit shall be renewed by the occupant to
     become effective July 1, of each year. A renewal fee may be charged to cover
-    filing and inspection costs.  
+    filing and inspection costs.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.07   Enforcement and penalty
@@ -555,7 +555,7 @@ enforcement of the provisions of this Planning and Zoning Code.
             written and signed violation reports received.
 
             3. _(3)_ Such records shall be available to the public upon
-            request.  
+            request.\
             (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.08   Fees and deposits
@@ -579,7 +579,7 @@ performed by the Municipal Engineer, Planning Consultant, Municipal Architect
 and Law Director, and for other expenses related to review of an application.
 Such expenses shall be approved for payment by the Administrator. Upon final
 disposition of the application, any monetary balance remaining shall be returned
-to the applicant.  
+to the applicant.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.09   Public hearing notifications and hearings
@@ -645,7 +645,7 @@ adjourn the hearing in order to permit the obtaining of additional information
 or to cause such further notice as it deems proper. In the case of an adjourned
 hearing, persons previously notified and persons already heard need not be
 notified of the time of resumption of such hearing unless the reviewing body so
-decides.  
+decides.\
 (Ord. 2019-30. Passed 8-13-19.)
 
 ## Table A

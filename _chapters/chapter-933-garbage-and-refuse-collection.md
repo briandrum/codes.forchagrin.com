@@ -69,7 +69,7 @@ The Mayor is authorized to prepare and publish rules for the effective
 administration and enforcement of the provisions of this chapter. Any rules so
 published shall have the force of law and a violation of any rule intended to
 affect the purpose of any section of this chapter shall be punished in the same
-way as a violation of such section.  
+way as a violation of such section.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 933.06   Hours of garbage and refuse collection
@@ -81,7 +81,7 @@ an exception shall be made on a form provided by the Chief of Police and shall
 be granted only when the applicant is able to demonstrate circumstances of
 great practical difficulty in the collection and transportation of garbage due
 to heavy daytime vehicular and pedestrian activity and a concentration of
-commercial activity.  
+commercial activity.\
 (Ord. 2008-53. Passed 2-9-09.)
 
 ## 933.99   Penalty

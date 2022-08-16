@@ -40,5 +40,5 @@ for registration of a motor vehicle is made as provided in Ohio R.C. 4503.10.
 
 5. _(e)_ All moneys derived from the tax levied herein shall be used by the
 Village for the purposes specified in this chapter, which corresponds to all
-available purposes set forth in Ohio R.C. 4504.06.  
+available purposes set forth in Ohio R.C. 4504.06.\
 (Ord. 1993-27. Passed 4-26-93.)

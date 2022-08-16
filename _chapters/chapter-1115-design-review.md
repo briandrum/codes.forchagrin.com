@@ -39,7 +39,7 @@ existing buildings; and
 3. _(c)_ To consider the historical and architectural nature of existing
 buildings, signs and structures within the Municipality and the compatibility of
 proposed changes or proposed new buildings, signs and structures with such
-existing buildings, signs and structures.  
+existing buildings, signs and structures.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1115.02   Applicability and limitations
@@ -57,7 +57,7 @@ architectural styles or existing decorative detail. Further, the Architectural
 Board of Review shall not be overly restrictive in its judgment of structures
 not highly visible from a public street or public property, except where such
 construction or alteration would materially and adversely affect another
-property.  
+property.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1115.03   Administrative procedures
@@ -87,7 +87,7 @@ shall suspend any permit issued in reliance upon such approval until the change
 in the Final Plan is finally resolved.
 
 4. _(d)_ **Appeal.**  An appeal to the Board of Zoning Appeals shall be made in
-accordance with Chapter 1111 of the Planning and Zoning Code.  
+accordance with Chapter 1111 of the Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1115.04   Standards of review
@@ -113,7 +113,7 @@ structure as a whole;
 materially and adversely impact another building or property; and
 
 5. _(e)_ State reasons to support its decision as required by Section
-1109.05((b)(1)(E) of the Planning and Zoning Code.  
+1109.05((b)(1)(E) of the Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1115.05   Demolition and moving
@@ -122,7 +122,7 @@ The demolition or moving of a building or structure shall be permitted only
 after the applicant has obtained all permits required to be issued by the
 Planning and Zoning Code and other applicable ordinances of the Municipality.
 The applicant shall obtain preliminary and final approval from the Architectural
-Board of Review for the building or structure that is to replace it.  
+Board of Review for the building or structure that is to replace it.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1115.06   Maintenance requirements
@@ -134,7 +134,7 @@ constituting an emergency.
 
 2. _(b)_ Similarly, nothing in this chapter shall be construed to govern or
 restrict routine maintenance activities, which do not represent alterations in
-exterior appearance.  
+exterior appearance.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1115.07   Supplemental regulations
@@ -186,5 +186,5 @@ District as set forth in Section 1138.04.
 14. _(n)_ Retaining Walls as set forth in Section 1148.07.
 
 15. _(o)_ Outdoor Lighting as set forth in Chapter 1150 of this Planning and
-Zoning Code.  
+Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

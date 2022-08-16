@@ -25,7 +25,7 @@ by "Volunteers" appointed by the Mayor and confirmed by Council. The Mayor,
 subject to confirmation by Council, shall also appoint one or more "Volunteer
 Supervisors," who shall perform such duties as are provided for herein or as
 directed by the Mayor. Volunteers and Volunteer Supervisors shall serve at the
-pleasure of the Mayor.  
+pleasure of the Mayor.\
 (Ord. 2008-45. Passed 9-22-08.)
 
 ## 959.02   Purpose
@@ -34,7 +34,7 @@ The Help Line shall provide a resource for senior citizens in Chagrin Falls and
 surrounding communities for non-emergency assistance. Such assistance may
 include providing information regarding resources which are available to senior
 citizens in the county or region, and other assistance which does not involve
-emergency services.  
+emergency services.\
 (Ord. 2008-45. Passed 9-22-08.)
 
 ## 959.03   Training and duties of volunteers and supervisors
@@ -65,7 +65,7 @@ emergency services.
     the policies and training developed by the Volunteer Supervisors; and
 
     3. _(3)_ Notify the Chagrin Falls Police Department immediately if a caller
-    needs emergency assistance.  
+    needs emergency assistance.\
     (Ord. 2008-45. Passed 9-22-08.)
 
 ## 959.04   Records
@@ -74,7 +74,7 @@ Phone calls to the Help Line shall be documented, and the record of each phone
 call shall include the time, date, identity of the caller and purpose of the
 call, as well as any additional information required by the Volunteer
 Supervisors. The Volunteer Supervisors shall review the records on a regular
-basis.  
+basis.\
 (Ord. 2008-45. Passed 9-22-08.)
 
 ## 959.05   Contact with seniors
@@ -82,14 +82,14 @@ basis.
 No Volunteer shall initiate in-person contact with a caller to the Help Line,
 who is not otherwise known to the Volunteer, unless a Volunteer Supervisor
 approves such in-person contact; such contact shall be documented in the manner
-prescribed by the Volunteer Supervisors.  
+prescribed by the Volunteer Supervisors.\
 (Ord. 2008-45. Passed 9-22-08.)
 
 ## 959.06   Background checks
 
 The Village Police Department shall perform background checks on all Volunteers
 and Volunteer Supervisors prior to the commencement of their duties with the
-Help Line.  
+Help Line.\
 (Ord. 2008-45. Passed 9-22-08.)
 
 ## 959.07   Confidentiality
@@ -98,10 +98,10 @@ Volunteers should not promise confidentiality to callers to the help line. No
 Volunteer or Supervisor, however, shall publicly discuss or publish information
 obtained in the performance of duties as a Volunteer or Supervisor, except for
 training or educational purposes; if such information is used for training or
-educational purposes, the identity of the caller should not be revealed.  
+educational purposes, the identity of the caller should not be revealed.\
 (Ord. 2008-45. Passed 9-22-08.)
 
 ## 959.08   Compensation
 
-All Volunteers and Volunteer Supervisors shall serve without compensation.  
+All Volunteers and Volunteer Supervisors shall serve without compensation.\
 (Ord. 2008-45. Passed 9-22-08.)

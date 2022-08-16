@@ -231,7 +231,7 @@ States Citizenship and Immigration Services Agency that is located on the
 alien's permanent resident card and may also be commonly referred to as the
 "USCIS number" or the "alien number".
 
-18. _(r)_ "Active duty" has the same meaning as defined in 10 U.S.C. 101.  
+18. _(r)_ "Active duty" has the same meaning as defined in 10 U.S.C. 101.\
 (ORC 2923.11)
 
 ## 549.02   Carrying concealed weapons
@@ -271,7 +271,7 @@ of the following:
     begins approaching and before the law enforcement officer leaves, unless the
     person removes, attempts to remove, grasps, holds, or has contact with the
     loaded handgun pursuant to and in accordance with directions given by the
-    law enforcement officer;  
+    law enforcement officer;\
     (Ord. 2017-03. Passed 1-23-17.)
 
     4. _(4)_ If the person is stopped for a law enforcement purpose and is
@@ -417,11 +417,11 @@ of the charge.
     a felony and shall be prosecuted under appropriate state law. In addition to
     any other penalty or sanction imposed for a violation of subsection (b)(2)
     or (b)(3) hereof, the offender's concealed handgun license shall be
-    suspended pursuant to Ohio R.C. 2923.128(A)(2).  
+    suspended pursuant to Ohio R.C. 2923.128(A)(2).\
     (ORC 2923.12)
 
     5. _(5)_ Carrying concealed weapons in violation of division (B)(3) of this
-    section is a felony of the fifth degree.  
+    section is a felony of the fifth degree.\
     (Ord. 2017-03. Passed 1-23-17.)
 
 7. _(g)_ If a law enforcement officer stops a person to question the person
@@ -438,7 +438,7 @@ to the requirement set forth in this subsection, division (B) of Ohio R.C.
 
 8. _(h)_ For purposes of this section, "deadly weapon" or "weapon" does not
 include any knife, razor, or cutting instrument if the instrument was not used
-as a weapon.  
+as a weapon.\
 (ORC 2923.12)
 
 ## 549.03   Using weapons while intoxicated
@@ -447,7 +447,7 @@ as a weapon.
 shall carry or use any firearm or dangerous ordnance.
 
 2. _(b)_ Whoever violates this section is guilty of using weapons while
-intoxicated, a misdemeanor of the first degree.  
+intoxicated, a misdemeanor of the first degree.\
 (ORC 2923.15)
 
 ## 549.04   Improperly handling firearms in a motor vehicle
@@ -693,7 +693,7 @@ carrying a valid concealed handgun license may have one or more magazines or
 speed loaders containing ammunition anywhere in a vehicle without further
 restriction, as long as no ammunition is in a firearm, other than a handgun, in
 the vehicle other than as permitted under any provision of this chapter or Ohio
-R.C. Chapter 2923.  
+R.C. Chapter 2923.\
 (ORC 2923.16)
 
 ## 549.05   Failure to secure dangerous ordnance
@@ -707,7 +707,7 @@ ordnance shall negligently fail to take proper precautions:
     2. _(2)_ To insure the safety of persons and property.
 
 2. _(b)_ Whoever violates this section is guilty of failure to secure dangerous
-ordnance, a misdemeanor of the second degree.  
+ordnance, a misdemeanor of the second degree.\
 (ORC 2923.19)
 
 ## 549.06   Unlawful transactions in weapons
@@ -729,7 +729,7 @@ ordnance, a misdemeanor of the second degree.
 2. _(b)_ Whoever violates this section is guilty of unlawful transactions in
 weapons. A violation of subsection (a)(1) hereof is a misdemeanor of the second
 degree. A violation of subsection (a)(2) hereof is a misdemeanor of the fourth
-degree.  
+degree.\
 (ORC 2923.20)
 
 ## 549.07   Underage purchase of firearm
@@ -757,7 +757,7 @@ and under twenty-one years of age if either of the following apply:
 3. _(c)_ Whoever violates subsection (a) hereof is guilty of underage purchase
 of a firearm, a delinquent act that would be a felony of the fourth degree if it
 could be committed by an adult. Whoever violates subsection (b) hereof is guilty
-of underage purchase of a handgun, a misdemeanor of the second degree.  
+of underage purchase of a handgun, a misdemeanor of the second degree.\
 (ORC 2923.211)
 
 ## 549.08   Discharging firearms
@@ -793,7 +793,7 @@ October 14, 2019.)
 1. _(a)_ No person shall blast with dynamite, gunpowder or any other explosive
 compound within the limits of the Municipality unless there has first been
 obtained a written permit therefor from the Chief Administrative Officer
-pursuant to rules and regulations established by him.  
+pursuant to rules and regulations established by him.\
 (Ord. 1991-27. Passed 5-13-91.)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -862,7 +862,7 @@ appropriate State law.
 5. _(e)_ As used in this section, "object that is indistinguishable from a
 firearm" means an object made, constructed, or altered so that, to a reasonable
 person without specialized training in firearms, the object appears to be a
-firearm.  
+firearm.\
 (ORC 2923.122)
 
 ## 549.13   Defacing identification marks of a firearm; possessing a defaced firearm
@@ -893,7 +893,7 @@ firearm.
     subsection, possessing a defaced firearm is a misdemeanor of the first
     degree. If the offender previously has been convicted of or pleaded guilty
     to a violation of subsection (a)(2) of this section, possessing a defaced
-    firearm is a felony and shall be prosecuted under appropriate State law.  
+    firearm is a felony and shall be prosecuted under appropriate State law.\
     (ORC 2923.201)
 
 ## 549.99   Penalty

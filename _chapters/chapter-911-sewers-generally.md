@@ -100,12 +100,12 @@ twenty-four hour concentration or flows during normal operation.
 
 18. _(r)_ "Storm drain", sometimes termed "storm sewer", means a sewer which
 carries storm and surface waters and drainage, but excludes sewage and
-industrial wastes, other than unpolluted cooling water.  
+industrial wastes, other than unpolluted cooling water.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 19. _(s)_ "Superintendent" and "Superintendent of Services" means the
 Superintendent of Utilities or his or her authorized deputy, agent or
-representative.  
+representative.\
 (Ord. 2008-65. Passed 12-8-08.)
 
 20. _(t)_ "Suspended solids" means solids that either float on the surface of or
@@ -116,7 +116,7 @@ laboratory filtering.
 continuously or intermittently.
 
 22. _(v)_ "Hearing Board" means that Board appointed according to the provisions
-of Section 911.12.  
+of Section 911.12.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.02   Use of public sewers required
@@ -133,7 +133,7 @@ provided in accordance with subsequent provisions of this chapter.
 
 3. _(c)_ Except as provided in Chapter 919, no person shall construct or
 maintain any privy, privy vault, septic tank, cesspool or other facility
-intended or used for the disposal of sewage.  
+intended or used for the disposal of sewage.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 4. _(d)_ The owner of all houses, buildings or properties used for human
@@ -144,12 +144,12 @@ Municipality, is hereby required at his expense to install suitable toilet
 facilities therein and to connect such facilities directly with the proper
 public sewer in accordance with the provisions of this chapter within ninety
 days after the date of official notice to do so, provided that such public sewer
-is within 200 feet of the foundation wall.  
+is within 200 feet of the foundation wall.
 
     Nothing in this subsection shall be deemed to obviate the requirement of
     toilet facilities for residences and other buildings as provided in Section
     1343.01 of the Building Code, irrespective of the proximity of sanitary
-    sewers.  
+    sewers.\
     (Ord. 2015-13. Passed 4-27-15.)
 
 ## 911.03   Building sewers and connections
@@ -216,7 +216,7 @@ public sewer lateral to the home lateral shall be cemented.
 11. _(k)_ All excavations for building sewer installations shall be adequately
 guarded with barricades and lights so as to protect the public from hazard.
 Streets, sidewalks, parkways and other public property disturbed in the course
-of the work shall be restored in a manner satisfactory to the Municipality.  
+of the work shall be restored in a manner satisfactory to the Municipality.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 12. _(l)_ The Municipal Engineer is directed, prior to final approval of any
@@ -235,7 +235,7 @@ photographs for future reference.
 
 14. _(n)_ The cost of such photographing and photographs shall be entirely paid
 for by the contractor or developer of such land and/or sewer system and the
-photographs shall remain the property of the Municipality.  
+photographs shall remain the property of the Municipality.\
 (Ord. 1964-604. Passed 8-10-64.)
 
 ## 911.04   Storm sewer waste prohibited in sanitary sewer
@@ -248,7 +248,7 @@ cooling water or unpolluted industrial process waters into any sanitary sewer.
 such sewers as are specifically designated as storm sewers or to a natural
 outlet approved by the Building Inspector. Industrial cooling water or
 unpolluted process waters may be discharged, on approval of the Building
-Inspector, to a storm sewer, combined sewer or natural outlet.  
+Inspector, to a storm sewer, combined sewer or natural outlet.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.05   Prohibited wastes
@@ -277,7 +277,7 @@ operation of the sewage works such as, but not limited to, ashes, cinders, sand,
 mud, straw, shavings, metal, glass, rags, feathers, tar, plastics, wood,
 unground garbage, whole blood, paunch manure, hair and fleshings, entrails,
 paper dishes, paper towels and wiping cloths, paper cups, milk containers, etc.,
-either whole or -ground by garbage grinders.  
+either whole or -ground by garbage grinders.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.06   Restricted wastes
@@ -348,7 +348,7 @@ applicable State or Federal regulations.
 treatment or reduction by the sewage treatment processes employed or are
 amenable to treatment only to such degree that the sewage treatment plant
 effluent cannot meet the requirements of other agencies having jurisdiction over
-discharge to the receiving waters.  
+discharge to the receiving waters.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.07   Authority of superintendent
@@ -370,7 +370,7 @@ wastes not covered by existing taxes or sewer charges under the provisions of
 Section 911.09(d). If the Superintendent permits the pretreatment or
 equalization of waste flows, the design and installation of the plants and
 equipment shall be subject to the review and approval of the Superintendent and
-to the requirements of all applicable codes, ordinances and laws.  
+to the requirements of all applicable codes, ordinances and laws.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.08   Interceptors
@@ -380,7 +380,7 @@ Superintendent, they are necessary for the proper handling of liquid wastes
 containing grease in excessive amounts, or any flammable wastes, sand or other
 harmful ingredients; except that such interceptors shall be of a type and
 capacity approved by the Superintendent and shall be located as to be readily
-and easily accessible for cleaning and inspection.  
+and easily accessible for cleaning and inspection.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.09   Treatment; tests; special agreements
@@ -420,7 +420,7 @@ all outfalls whereas pH is determined from periodic grab samples.
 or arrangement between the Municipality and any industrial concern whereby an
 industrial waste of unusual strength or character may be accepted by the
 Municipality for treatment, subject to payment therefor by the industrial
-concern.  
+concern.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.10   Protection from damage
@@ -429,7 +429,7 @@ No unauthorized person shall maliciously, willfully or negligently break,
 damage, destroy, uncover, deface or tamper with any structure, appurtenance or
 equipment which is a part of the sewage works. Any person violating this
 provision shall be subject to immediate arrest under charge of disorderly
-conduct.  
+conduct.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.11   Powers and authority of inspectors
@@ -462,7 +462,7 @@ negotiated easement for the purpose of, but not limited to, inspection,
 observation, measurement, sampling, repair and maintenance of any portion of the
 sewage works lying within such easement. All entry and subsequent work, if any,
 on such easement shall be done in full accordance with the terms of the duly
-negotiated easement pertaining to the private property involved.  
+negotiated easement pertaining to the private property involved.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.12   Appeals
@@ -470,14 +470,14 @@ negotiated easement pertaining to the private property involved.
 Appeals to any provision of Chapter 911 shall be heard by the Board of Zoning
 Appeals pursuant to Section 1111.03 and subject to the standards set forth in
 Section 1111.07. A decision of the Board of Zoning Appeals rendered pursuant to
-this provision shall be final and appealable to the court of common pleas.  
+this provision shall be final and appealable to the court of common pleas.\
 (Ord. 2015-13. Passed 4-27-15.)
 
 ## 911.13   Separability
 
 The invalidity of any section, clause, sentence or provision of this chapter
 shall not affect the validity of any other part of this chapter which can be
-given effect without such invalid part or parts.  
+given effect without such invalid part or parts.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.99   Penalty
@@ -486,7 +486,7 @@ given effect without such invalid part or parts.
 shall be served by the Municipality with written notice stating the nature of
 the violation and providing a reasonable time limit for the satisfactory
 correction thereof. The offender shall, within the period of time stated in such
-notice, permanently cease all violations.  
+notice, permanently cease all violations.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 2. _(b)_ Whoever continues any violation beyond the time limit provided for in
@@ -496,5 +496,5 @@ violation continues shall constitute a separate offense.
 
 3. _(c)_ Whoever violates any of the provisions of this chapter shall become
 liable to the Municipality for any expense, loss or damage occasioned the
-Municipality by reason of such violation.  
+Municipality by reason of such violation.\
 (Ord. 1968-738. Passed 9-17-68.)

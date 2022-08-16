@@ -76,7 +76,7 @@ allocated into the General Fund.
 3. _(C)_ The tax on income and the withholding tax established by this Chapter
 124 are authorized by Article XVIII, Section 3 of the Ohio Constitution. The tax
 is levied in accordance with, and is intended to be consistent with, the
-provisions and limitations of Ohio Revised Code 718 (ORC 718).  
+provisions and limitations of Ohio Revised Code 718 (ORC 718).\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.02   Definitions
@@ -896,7 +896,7 @@ the feminine and the gender-neutral.
 
     51. _(51)_ "Video lottery terminal sales agent" means a lottery sales agent
     licensed under Chapter 3770 of the ORC to conduct video lottery terminals on
-    behalf of the state pursuant to Section 3770.21 of the ORC.  
+    behalf of the state pursuant to Section 3770.21 of the ORC.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.03   Imposition of tax
@@ -1218,7 +1218,7 @@ telephone company that is subject to and required to file reports under Chapter
 
     8. _(8)_ Intentionally left blank.
 
-    9. _(9)_ Intentionally left blank.  
+    9. _(9)_ Intentionally left blank.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.04   Collection at source
@@ -1536,7 +1536,7 @@ the benefit of, the employee.
     6. _(6)_ Divisions (C)(2)(a) and (4) of this section shall not apply to the
     extent that a Tax Administrator and an employer enter into an agreement
     regarding the manner in which the employer shall comply with the
-    requirements of Section 124.04.  
+    requirements of Section 124.04.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.05   Annual return; filing
@@ -2020,7 +2020,7 @@ affiliated group.
 into an agreement with the Municipality before January 1, 2016, to file a
 consolidated or combined tax return with the Municipality may continue to file
 consolidated or combined tax returns in accordance with such election or
-agreement for taxable years beginning on and after January 1, 2016.  
+agreement for taxable years beginning on and after January 1, 2016.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.06   Credit for tax paid to other municipalities
@@ -2052,7 +2052,7 @@ in the other municipality shall be limited to the amount computed by dividing
 the tax withheld or paid to the other municipality by the tax rate for that
 municipality.
 
-4. _(D)_ Intentionally left blank.  
+4. _(D)_ Intentionally left blank.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.07   Estimated taxes
@@ -2193,7 +2193,7 @@ any of the following apply:
 
     3. _(3)_ The taxpayer is an individual who resides in the Municipality but
     was not domiciled there on the first (1st) day of January of the calendar
-    year that includes the first (1st) day of the taxable year.  
+    year that includes the first (1st) day of the taxable year.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.08   Rounding of amounts
@@ -2204,7 +2204,7 @@ under this Chapter. Any fractional part of a dollar that equals or exceeds fifty
 cents shall be rounded to the next whole dollar, and any fractional part of a
 dollar that is less than fifty cents shall be dropped. If a person chooses to
 round amounts entered on a document, the person shall round all amounts entered
-on the document.  
+on the document.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.09   Requests for refunds
@@ -2274,7 +2274,7 @@ the payment of interest on amounts overpaid, no amount of tax for any taxable
 year shall be considered to have been paid before the date on which the return
 on which the tax is reported is due, without regard to any extension of time for
 filing that return. Interest shall be paid at the interest rate described in
-Section 124.18 (A)(4).  
+Section 124.18 (A)(4).\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.10   Second municipality imposing tax after time period allowed for refund
@@ -2299,7 +2299,7 @@ the tax rate in the other municipality, the tax due in excess of the
 nonrefundable credit is to be paid to the Municipality, along with any penalty
 and interest that accrued during the period of nonpayment.
 
-4. _(D)_ Nothing in this section permits any credit carryforward.  
+4. _(D)_ Nothing in this section permits any credit carryforward.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.11   Amended returns
@@ -2365,7 +2365,7 @@ that taxpayer shall make and file an amended Municipal income tax return showing
 income subject to Municipal income tax based upon such final determination of
 federal or state tax liability. The taxpayer shall pay any additional Municipal
 income tax shown due thereon or make a claim for refund of any overpayment,
-unless the tax or overpayment is less than ten ($10.00) dollars.  
+unless the tax or overpayment is less than ten ($10.00) dollars.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.12   Limitations
@@ -2442,7 +2442,7 @@ interest shall be brought during either of the following time periods:
     imposition of that tax or interest or those penalties;
 
     2. _(2)_ The period during which an appeal related to the imposition of that
-    tax or interest or those penalties is pending.  
+    tax or interest or those penalties is pending.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.13   Audits
@@ -2486,7 +2486,7 @@ taxpayer nor cure any procedural defect in a taxpayer's case.
 
 6. _(F)_ If the Tax Administrator fails to substantially comply with the
 provisions of this section, the Tax Administrator, upon application by the
-taxpayer, shall excuse the taxpayer from penalties and interest.  
+taxpayer, shall excuse the taxpayer from penalties and interest.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.14   Service of assessment
@@ -2595,7 +2595,7 @@ delivered for collection, shall be stayed upon the pendency of an appeal under
 this section.
 
 7. _(G)_ Additional regulations as detailed in the Rules and Regulations shall
-apply.  
+apply.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.15   Administration of claims
@@ -2626,7 +2626,7 @@ the compromise or agreement was obtained by fraud or by misrepresentation of a
 material fact. Any amount that was due before the compromise or agreement and
 that is unpaid shall remain due, and any penalties or interest that would have
 accrued in the absence of the compromise or agreement shall continue to accrue
-and be due.  
+and be due.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.16   Tax information confidential
@@ -2643,7 +2643,7 @@ commissioner, and tax administrators of other municipal corporations.
 
 2. _(B)_ This section does not prohibit the Municipality from publishing or
 disclosing statistics in a form that does not disclose information with respect
-to particular taxpayers.  
+to particular taxpayers.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.17   Fraud
@@ -2656,7 +2656,7 @@ the preparation or presentation of such report, return, schedule, statement,
 claim, or document, or knowingly change, alter, or amend, or knowingly procure,
 counsel or advise such change, alteration, or amendment of the records upon
 which such report, return, schedule, statement, claim, or document is based with
-intent to defraud the Municipality or the Tax Administrator.  
+intent to defraud the Municipality or the Tax Administrator.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.18   Interest and penalties
@@ -2766,7 +2766,7 @@ succeeding calendar year.
 
 7. _(G)_ The Municipality may impose on the taxpayer, employer, any agent of the
 employer, or any other payer the Municipality's post-judgment collection costs
-and fees, including attorney's fees.  
+and fees, including attorney's fees.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.19   Authority of tax administrator; verification of information
@@ -2919,7 +2919,7 @@ the ORC:
         fee with respect to which the identifying information is sought and are
         in addition to any applicable criminal penalties described in Section
         124.99 for a violation of Section 124.17 and any other penalties that
-        may be imposed by the Tax Administrator by law.  
+        may be imposed by the Tax Administrator by law.\
         (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.20   Request for opinion of the tax administrator
@@ -2943,7 +2943,7 @@ with respect to the taxpayer for whom the opinion was prepared and does not bind
 the Tax Administrator of any other municipal corporation.
 
 6. _(F)_ An opinion of the Tax Administrator issued under this section is not
-subject to appeal.  
+subject to appeal.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.21   Board of tax review
@@ -3033,7 +3033,7 @@ rules governing its procedures and shall keep a record of its transactions. Such
 records are not public records available for inspection under Section 149.43 of
 the ORC. Hearings requested by a taxpayer before a Board of Tax Review created
 pursuant to this section are not meetings of a public body subject to Section
-121.22 of the ORC.  
+121.22 of the ORC.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.22   Authority to create rules and regulations
@@ -3047,7 +3047,7 @@ Taxpayers are hereby required to comply not only with the requirements of this
 Chapter, but also to comply with the Rules and Regulations.
 
 2. _(B)_ All rules adopted under this section shall be published and posted on
-the internet.  
+the internet.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.23   Rental and leased property
@@ -3089,7 +3089,7 @@ shall be subject to Section 124.99 of this Chapter:
     order or subpoena of the Tax Administrator as authorized in this section; or
 
     4. _(4)_ Fails to comply with the provisions of this section or any order or
-    subpoena of the Tax Administrator.  
+    subpoena of the Tax Administrator.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.24   Savings clause
@@ -3104,7 +3104,7 @@ affect only such clause, sentence, section or part of this Chapter and shall not
 affect or impair any of the remaining provisions, sentences, clauses, sections
 or other parts of this Chapter. It is hereby declared to be the intention of
 Council that this Chapter would have been adopted had such unconstitutional,
-illegal or invalid sentence, or part hereof, not been included therein.  
+illegal or invalid sentence, or part hereof, not been included therein.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.25   Collection of tax after termination of ordinance
@@ -3121,7 +3121,7 @@ terminated, subject to the limitations contained in Section 124.12 and Section
 
 2. _(B)_ Annual returns due for all or any part of the last effective year of
 this ordinance shall be due on the date provided in Sections 124.05 and Section
-124.04 of this Chapter as though the same were continuing.  
+124.04 of this Chapter as though the same were continuing.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.26   Adoption of RITA rules and regulations
@@ -3133,7 +3133,7 @@ with any provision(s) of this Chapter and the RITA Rules & Regulations, this
 Chapter will supersede. Until and if the contractual relationship between the
 Municipality and RITA ceases, Section 124.26 will supersede all other provisions
 within Chapter 124 regarding promulgation of rules and regulations by the Tax
-Administrator.  
+Administrator.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.27   Filing net profit taxes; election to be subject to provisions of chapter
@@ -3189,7 +3189,7 @@ upon the Tax Commissioner by law, the Tax Commissioner may:
 
 4. _(D)_ The Tax Commissioner shall not be considered a Tax Administrator, as
 that term is defined in section 718.01 of the Revised Code and Section 124.02 of
-the Municipality Codified Ordinances.  
+the Municipality Codified Ordinances.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.28   Definitions
@@ -3330,7 +3330,7 @@ purposes as the result of a change of ownership, or for a new taxpayer that
 would otherwise have no taxable year.
 
 6. _(F)_ "Assessment" means a notice of underpayment or nonpayment of a tax
-issued pursuant to section 124.37 of the Codified Ordinances.  
+issued pursuant to section 124.37 of the Codified Ordinances.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.29   Applicability; taxable situs; apportionment
@@ -3494,7 +3494,7 @@ related to the stock option not exempted from taxation.
 7. _(G)_ When calculating the ratios described in division (A) of this section
 for the purposes of that division or division (B) of this section, the owner of
 a disregarded entity shall include in the owner's ratios the property, payroll,
-and gross receipts of such disregarded entity.  
+and gross receipts of such disregarded entity.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.30   Information provided to tax administrators; confidentiality
@@ -3558,7 +3558,7 @@ Municipality Tax Administrator under section 718.83(D) of the Revised Code.
     the Tax Administrator under this section, the Municipality reserves its
     right to pursue any and all remedies, whether at law or in equity, to ensure
     that the correct tax liability has been calculated and paid by the
-    taxpayer.  
+    taxpayer.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.31   Filing of annual return; remittance; disposition of funds
@@ -3657,7 +3657,7 @@ other person.
 
 6. _(F)_ When income tax returns or other documents require the signature of a
 tax return preparer, the Tax Commissioner shall accept a facsimile or electronic
-version of such a signature in lieu of a manual signature.  
+version of such a signature in lieu of a manual signature.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.32   Electronic filing
@@ -3680,7 +3680,7 @@ returns or make the payments by nonelectronic means.
     make payments by electronic means;
 
     2. _(2)_ The information taxpayers must submit when filing tax returns by
-    electronic means.  
+    electronic means.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.33   Consolidated returns
@@ -3844,7 +3844,7 @@ severally liable for any tax, interest, penalties, fines, charges, or other
 amounts applicable under section 124.27 to 124.41 of the Codified Ordinances or
 Chapter 5703. of the Revised Code to the corporation, an affiliated group of
 which the corporation is a member for any portion of the taxable year, or any
-one or more members of such an affiliated group.  
+one or more members of such an affiliated group.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.34   Failure to pay tax
@@ -3856,7 +3856,7 @@ prescribed for its payment, interest shall be assessed, collected, and paid, in
 the same manner as the tax, upon such unpaid amount at the rate per annum
 prescribed by section 5703.47 of the Revised Code from the date prescribed for
 its payment until it is paid or until the date an assessment is issued under
-section 124.37 of the Codified Ordinances, whichever occurs first.  
+section 124.37 of the Codified Ordinances, whichever occurs first.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.35   Declaration of estimated taxes
@@ -3983,7 +3983,7 @@ to the taxes for the taxable year if any of the following apply:
     hundred per cent of the tax liability shown on the return of the taxpayer
     for the preceding taxable year, provided that the immediately preceding
     taxable year reflected a period of twelve months and the taxpayer filed a
-    municipal income tax return for that year.  
+    municipal income tax return for that year.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.36   Additional penalties
@@ -4055,7 +4055,7 @@ may adopt rules governing the imposition and abatement of such penalties.
 collected under sections 124.27 to 124.41 of the Codified Ordinances and shall
 be credited and distributed to municipal corporations in the same proportion as
 the underlying tax liability is required to be distributed to such municipal
-corporations under section 718.83 of the Revised Code.  
+corporations under section 718.83 of the Revised Code.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.37   Assessments against taxpayer
@@ -4099,7 +4099,7 @@ remains unpaid, including accrued interest, a certified copy of the Tax
 Commissioner's entry making the assessment final may be filed in the office of
 the clerk of the court of common pleas in the county in which the taxpayer has
 an office or place of business in this state, the county in which the taxpayer's
-statutory agent is located, or Franklin County.  
+statutory agent is located, or Franklin County.
 
     Immediately upon the filing of the entry, the clerk shall enter a judgment
     against the taxpayer assessed in the amount shown on the entry. The judgment
@@ -4107,7 +4107,7 @@ statutory agent is located, or Franklin County.
     for municipal income taxes," and shall have the same effect as other
     judgments. Execution shall issue upon the judgment upon the request of the
     Tax Commissioner, and all laws applicable to sales on execution shall apply
-    to sales made under the judgment.  
+    to sales made under the judgment.
 
     If the assessment is not paid in its entirety within sixty days after the
     day the assessment was issued, the portion of the assessment consisting of
@@ -4145,7 +4145,7 @@ Tax Commissioner's consideration of the petition for reassessment.
 6. _(F)_ Notwithstanding the fact that a petition for reassessment is pending,
 the taxpayer may pay all or a portion of the assessment that is the subject of
 the petition. The acceptance of a payment by the treasurer of state does not
-prejudice any claim for refund upon final determination of the petition.  
+prejudice any claim for refund upon final determination of the petition.
 
     If upon final determination of the petition an error in the assessment is
     corrected by the Tax Commissioner, upon petition so filed or pursuant to a
@@ -4154,7 +4154,7 @@ prejudice any claim for refund upon final determination of the petition.
     under the corrected assessment is less than the portion paid, there shall be
     issued to the taxpayer, its assigns, or legal representative a refund in the
     amount of the overpayment as provided by section 124.38 of the Codified
-    Ordinances, with interest on that amount as provided by that section.  
+    Ordinances, with interest on that amount as provided by that section.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.38   Refund applications
@@ -4191,7 +4191,7 @@ interest at the rate per annum prescribed by section 5703.47 of the Revised Code
 from the ninety-first day after such determination until the day the refund is
 paid or credited. On an illegal or erroneous assessment, interest shall be paid
 at that rate from the date of payment on the illegal or erroneous assessment
-until the day the refund is paid or credited.  
+until the day the refund is paid or credited.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.39   Amended returns
@@ -4236,7 +4236,7 @@ the taxpayer's federal income tax return unless it is also filed within the time
 prescribed in section 124.38 of the Codified Ordinances. The application shall
 not reopen those facts, figures, computations, or attachments that are not
 affected, either directly or indirectly, by the adjustment to the taxpayer's
-federal income tax return.  
+federal income tax return.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.40   Examination of records and other documents and persons
@@ -4276,7 +4276,7 @@ authorize the practice of law by a person who is not an attorney.
 
 4. _(D)_ No person issued written notice by the Tax Commissioner compelling
 attendance at a hearing or examination or the production of books, papers,
-records, or federal income tax returns under this section shall fail to comply.  
+records, or federal income tax returns under this section shall fail to comply.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.41   Reckless violations; penalties
@@ -4291,7 +4291,7 @@ months, or both.
 section 124.31 of the Codified Ordinances constitutes a separate offense.
 
 3. _(C)_ These specific penalties shall not be construed to prevent the
-Municipality from prosecuting any and all other offenses that may apply.  
+Municipality from prosecuting any and all other offenses that may apply.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.99   Violations; penalties
@@ -4349,5 +4349,5 @@ Section 124.16 constitutes a separate offense.
 
 5. _(E)_ Any person who violates any of the provisions in Section 124.99 (D)
 shall be subject to the penalties provided for in Section 124.99 (A) of this
-Chapter.  
+Chapter.\
 (Ord. 2018-22. Passed 3-26-18.)

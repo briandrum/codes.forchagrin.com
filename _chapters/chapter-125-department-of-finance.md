@@ -68,7 +68,7 @@ securities for the Municipality.
 or supplement thereto. Wherever any provisions of the Uniform Depository Act are
 made applicable under this chapter, such provisions are applicable only to the
 extent that they are not in conflict with or inconsistent with the Municipal
-Charter and ordinances or resolutions.  
+Charter and ordinances or resolutions.\
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.02   Depositories
@@ -162,7 +162,7 @@ acceptance of the Municipality's active deposits.
 
 6. _(f)_ The limitations on the aggregate amounts of public moneys that may be
 on deposit with eligible depositories as set forth in the Uniform Depository Act
-shall apply under this Chapter 125.  
+shall apply under this Chapter 125.\
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.03   Collateral securities
@@ -194,7 +194,7 @@ and for which the full faith and credit of the issuing subdivision is pledged;
 4. _(d)_ Bonds of other states of the United States of America for which the
 full faith and credit of the state is pledged, which states have not during the
 ten years immediately preceding the time of such deposit defaulted in payments
-of either interest or principal on any of their bonds.  
+of either interest or principal on any of their bonds.\
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.04   Pledged collateral securities
@@ -227,7 +227,7 @@ setting forth the face and market values of all collateral securities pledged.
 
 The Director of Finance may require additional collateral securities to be
 delivered or deposited to provide for any depreciation that may occur in the
-market value of any of the collateral securities so delivered or deposited.  
+market value of any of the collateral securities so delivered or deposited.\
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.05   Failure to pay deposit
@@ -247,7 +247,7 @@ whereupon the absolute ownership of such collateral securities shall pass to the
 purchaser. Any surplus remaining after deducting the amount due the Municipality
 and any expenses of the sale shall be paid to the depository bank. This
 provision is in addition to any rights of the Municipality to recover under Ohio
-R.C. Chapter 135.  
+R.C. Chapter 135.\
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.06   Pooled collateral security
@@ -296,7 +296,7 @@ this section shall be cause for its immediate suspension as an eligible
 depository for any public moneys.
 
     Collateral securities held in a pooled escrow account may be substituted and
-    exchanged in the same manner as described in Section 125.04.  
+    exchanged in the same manner as described in Section 125.04.\
     (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.07   Investment objectives
@@ -338,7 +338,7 @@ purchase of investments where all other factors considered by the Director of
 Finance are equal, placement shall be made with the designated eligible
 depository situated within the Municipality. The right is reserved to reject all
 bids or proposals or any bid if such is inconsistent with the Municipality's
-investment objectives.  
+investment objectives.\
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.08   Investments
@@ -441,11 +441,11 @@ coupons or other official business reasons for opening the box or vault. A
 report of what is placed in, removed from or other official business conducted,
 shall on the same day of the opening of the box or vault, be signed by the
 officer witnessing such opening and the Director of Finance, and such report
-shall be retained by the Director of Finance.  
+shall be retained by the Director of Finance.
 
     In lieu of such custody, the Director of Finance may deposit such
     securities, obligations or certificates of deposit with a qualified trustee
-    as set forth in Ohio R.C. 135.18(I) or 135.181(F).  
+    as set forth in Ohio R.C. 135.18(I) or 135.181(F).
 
     Notwithstanding the two preceding paragraphs, the Director of Finance is not
     required to take custody or provide for the deposit of securities acquired
@@ -484,7 +484,7 @@ of the Municipality as required by law.
 13. _(m)_ In addition to investments as provided in this chapter, the Director
 of Finance may invest in bonds, notes or other obligations of the Municipality,
 including those issued pursuant to Ohio R.C. 725.01 to 725.11, at a price, rate,
-maturity or other terms as determined by the Director of Finance.  
+maturity or other terms as determined by the Director of Finance.\
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.09   Miscellaneous provisions
@@ -497,7 +497,7 @@ occasioned by the failure of any depository.
 
 2. _(b)_ Ohio R.C. 731.55 shall be applicable to the Municipality and the
 insurance authorized by such section may be procured by the Director of Finance
-and the costs of such insurance shall be paid by the Municipality.  
+and the costs of such insurance shall be paid by the Municipality.\
 (Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.10   Bonds
@@ -540,7 +540,7 @@ professional services.
 Upon final disposition of the application, the balance remaining shall be
 returned to the applicant. Any additional amounts due to the Municipality beyond
 the amount of the deposit shall be immediately paid by the applicant upon
-receiving an invoice from the Municipality.  
+receiving an invoice from the Municipality.\
 (Ord. 1983-41. Passed 11-28-83; Ord. 1990-79. Passed 10-8-90; Ord. 2005-35.
 Passed 6-13- 05.)
 
@@ -569,7 +569,7 @@ Village upon the following basis:
 2. _(b)_ The Village reserves the right to change these charges at any time in
 the future. Such charges shall cover transportation, unless otherwise stated,
 from the emergency site to the nearest appropriate hospital and/or emergency
-facility.  
+facility.\
 (Ord.1993-25. Passed 3-8-93; Ord. 2005-43. Passed 7-11-05.)
 
 ## 125.14   Fire/burglar alarm monitoring fees
@@ -582,7 +582,7 @@ to enter into an agreement with the Village for the increased service charge,
 and who are already under agreement with the Village, or, who are delinquent in
 payment thereof for more than thirty days, shall be terminated from the service.
 The Village reserves the right to change these charges at anytime in the
-future.  
+future.\
 (Ord.1990-83. Passed 10-8-90; Ord. 2005-28. Passed 6-13-05.)
 
 ## 125.15   Funds to be retained by village
@@ -592,7 +592,7 @@ the Village for the faithful performance of work shall be held along with all
 interest earned thereon, by the Village in any account or investment as
 determined by the Director of Finance pursuant to the powers vested in him by
 this chapter. Any interest or dividends earned shall become the sole and
-exclusive property of the Village.  
+exclusive property of the Village.\
 (Ord.1991-6. Passed 2-11-91.)
 
 ## 125.16   Petty cash and change drawer funds
@@ -601,7 +601,7 @@ There is hereby created a petty cash fund and change drawer fund in the Finance
 Department and Police Department. The Finance Director is hereby authorized and
 directed to issue rules and regulations regarding the use of such funds,
 including disbursement from such funds, and shall provide for proper record
-keeping and auditing of such funds.  
+keeping and auditing of such funds.\
 (Ord. 2009-07. Passed 1-26-09.)
 
 ## 125.17   Unclaimed monies agency fund and transfer of unclaimed monies to the general fund
@@ -621,7 +621,7 @@ period of five years from the date the unclaimed money is placed in the
 Unclaimed Monies Agency Fund. The Director of Finance, provided that the
 unclaimed money is not claimed by the lawful owner within five years from the
 date of deposit in the Unclaimed Monies Agency Fund, is authorized and directed
-to transfer such funds to the General Fund.  
+to transfer such funds to the General Fund.\
 (Ord. 2011-04. Passed 1-10-11.)
 
 ## 125.18   Transfer of unclaimed deposits to the general fund
@@ -634,5 +634,5 @@ deposits, deposits to cover repairs to municipal property and any other
 un-refunded deposits or funds that are not claimed by a lawful owner within five
 years from the date of deposit, and provided that the funds are no longer
 subject to being used by the Village for the purpose for which they were
-deposited.  
+deposited.\
 (Ord. 2011-04. Passed 1-10-11.)

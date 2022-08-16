@@ -25,7 +25,7 @@ title: "Chapter 133: Department of Public Service"
 
 Pursuant to Article VII of the Charter, there is hereby established a Department
 of Public Service. The head of the Department shall be the Chief Administrative
-Officer.  
+Officer.\
 (Ord.1964-609. Passed 12-19-64.)
 
 ## 133.02   Chief administrative officer established
@@ -33,7 +33,7 @@ Officer.
 Pursuant to Article VI of the Charter, there is hereby established the position
 of Chief Administrative Officer, who shall be appointed by the Mayor, subject to
 the confirmation by a majority vote of the members of Council, and shall serve
-at the pleasure of the Mayor.  
+at the pleasure of the Mayor.\
 (Ord.1963-559. Passed 2-25-63.)
 
 ## 133.03   Duties of chief administrative officer
@@ -58,7 +58,7 @@ owned utilities.
 4. _(d)_ Be responsible for the construction, improvement, repair and
 maintenance of all public streets and alleys, public buildings, drains, ditches,
 storm sewer facilities, parks, playgrounds, public cemeteries and public
-places.  
+places.\
 (Ord. 2017-55. Passed 9-11-17.)
 
 5. _(e)_ Make investigations and recommendations to the Mayor and Council
@@ -74,7 +74,7 @@ duties of issuing building permits and enforcing the Zoning and Building Codes.
 and duties in connection therewith as prescribed by Council.
 
 9. _(i)_ Have such other powers and duties as may be prescribed by ordinance of
-Council.  
+Council.\
 (Ord.1963-559. Passed 2-25-63.)
 
 ## 133.04   Expense account
@@ -95,7 +95,7 @@ by and serve at the pleasure of the Mayor. The Street Superintendent is under
 the direct supervision of the Chief Administrative Officer and is responsible
 for all public streets and alleys and such other duties as may be directed by
 the Chief Administrative Officer. The Street Superintendent may also be referred
-to as the Superintendent of Streets in the Codified Ordinances.  
+to as the Superintendent of Streets in the Codified Ordinances.\
 (Ord. 2008-65. Passed 12-8-08.)
 
 ## 133.06   Utilities division, water department, wastewater department, and superintendent of utilities
@@ -120,5 +120,5 @@ Utilities is under the direct supervision of the Chief Administrative Office and
 is responsible for the operation of the Water Department and the Wastewater
 Department and such other duties as may be directed by the Chief Administrative
 Officer. The Superintendent of Utilities may also be referred to as the
-Superintendent of Services in the Codified Ordinances.  
+Superintendent of Services in the Codified Ordinances.\
 (Ord. 2008-65. Passed 12-8-08.)

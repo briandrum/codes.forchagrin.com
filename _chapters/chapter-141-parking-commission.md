@@ -26,7 +26,7 @@ title: "Chapter 141: Parking Commission"
 There is hereby created a commission to be known and designated as the Parking
 Commission, composed of three residents of the Village, and one Councilperson.
 Resident members shall be appointed by the Mayor and Council shall appoint its
-representative.  
+representative.\
 (Ord. 1993-70. Passed 9-13-93.)
 
 ## 141.02   Term
@@ -37,12 +37,12 @@ for one year and one of the members to the first Commission shall be for two
 years. In the event that a vacancy occurs during the term of any member, a
 successor shall be appointed by the Mayor for the unexpired portion of that
 term. Council's representative shall serve a term to be set by Council upon
-appointment.  
+appointment.\
 (Ord. 1993-70. Passed 9-13-93.)
 
 ## 141.03   Compensation
 
-Members of the Parking Commission shall serve without compensation.  
+Members of the Parking Commission shall serve without compensation.\
 (Ord. 1993-70. Passed 9-13-93.)
 
 ## 141.04   Authority
@@ -57,7 +57,7 @@ District for the enhancement and benefit of the entire Village.
 
 2. _(b)_ To prepare a written report to the Mayor, Council and the Chief
 Administrative Officer concerning motor vehicle parking within the Business
-District at least once a year.  
+District at least once a year.\
 (Ord. 1993-70. Passed 9-13-93.)
 
 ## 141.05   Organization
@@ -70,7 +70,7 @@ designate by name those members of the Commission approving or concurring
 therein. Members who do not approve or concur may, as a part of such report,
 state their reasons for refusing to do so. The Commission shall meet at least
 once annually and at such other times as the Commission desires, or at the
-request of Council, the Mayor or the Chief Administrative Officer.  
+request of Council, the Mayor or the Chief Administrative Officer.\
 (Ord. 1993-70. Passed 9-13-93.)
 
 ## 141.06   Referral
@@ -78,5 +78,5 @@ request of Council, the Mayor or the Chief Administrative Officer.
 The Parking Commission when requested by Council, the Mayor or Chief
 Administrative Officer, shall consider, investigate, make findings, report and
 recommend upon any special matter or question coming within the scope of its
-authority.  
+authority.\
 (Ord. 1993-70. Passed 9-13-93.)

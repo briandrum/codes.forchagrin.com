@@ -36,7 +36,7 @@ private property;
 properties and on the aesthetic quality of the Municipality; and,
 
 4. _(d)_ To promote orderly land use, and development while allowing the safe,
-effective, and efficient use of solar energy systems.  
+effective, and efficient use of solar energy systems.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1153.02   Definitions
@@ -58,7 +58,7 @@ similar structures that are designed to harness solar energy for use as thermal
 energy for heating water or air and may include battery storage systems.
 
 5. _(e)_ "Solar panel" means any device used for collecting solar energy and
-converting it to electrical power.  
+converting it to electrical power.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1153.03   Applicability
@@ -71,7 +71,7 @@ erection, installation, connection, or operation of any solar energy system.
 
 3. _(c)_ Like-kind replacements, minor repairs or maintenance of lawfully
 existing solar energy systems not involving structural changes may be undertaken
-without first obtaining a permit.  
+without first obtaining a permit.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1153.04   Application requirements
@@ -120,7 +120,7 @@ proposed system is to interconnect to a local utility grid.
 9. _(i)_ A description of emergency and normal shutdown procedures and location
 of electrical disconnection switch.
 
-10. _(j)_ Payment of the fee as required by Chapter 1309 of the Building Code.  
+10. _(j)_ Payment of the fee as required by Chapter 1309 of the Building Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1153.05   General requirements
@@ -193,7 +193,7 @@ within a screened enclosure behind the main building, or are hidden from view
 behind the parapet wall of buildings with flat roofs.
 
 10. _(j)_ Solar energy systems shall be properly maintained at all times in
-compliance with all manufacturers' specifications.  
+compliance with all manufacturers' specifications.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1153.06   Abandonment
@@ -205,5 +205,5 @@ include, but not be limited to:
 1. _(a)_ Removal of the solar energy system and related above grade structures.
 
 2. _(b)_ Restoration of the location of the solar energy system to its prior
-condition.  
+condition.\
 (Ord. 2019-39. Passed 8-13-19.)

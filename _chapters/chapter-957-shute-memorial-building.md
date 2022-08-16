@@ -17,14 +17,14 @@ title: "Chapter 957: Shute Memorial Building"
 
 The administration of Shute Memorial Building shall be handled by the Council
 Committee on Buildings, Properties and Services and its usage utilized only by
-public and civic organizations.  
+public and civic organizations.\
 (Ord. 1980-40. Passed 6-23-80.)
 
 ## 957.02   Fee
 
 A fee of thirty dollars ($30.00) shall be charged to all public and civic
 organizations for use of the Shute Memorial Building for partial defraying of
-heat, light and cleaning expenses.  
+heat, light and cleaning expenses.\
 (Ord. 1993-33. Passed 4-12-93; Ord. 2005-28. Passed 6-13-05.)
 
 ## 957.03   Regulations
@@ -42,7 +42,7 @@ notifying the Police Department of both opening and departure from the hall.
 chairs.
 
 5. _(e)_ Smoking is prohibited by any individual inside the Shute Memorial
-Building.  
+Building.\
 (Ord. 1992-63. Passed 7-13-92.)
 
 ## 957.04   Application information
@@ -62,5 +62,5 @@ the Finance Department and shall include the following information:
 
 6. _(f)_ Number in organization; and
 
-7. _(g)_ Estimated attendance.  
+7. _(g)_ Estimated attendance.\
 (Ord. 1980-40. Passed 6-23-80.)

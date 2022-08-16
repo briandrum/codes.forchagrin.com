@@ -27,7 +27,7 @@ In addition to the applicable provisions of the intent stated in Section
 1105.03, it is the intent of these district regulations to provide governmental,
 civic, educational, and religious facilities appropriately located and designed
 to serve primarily the local population in safety and convenience while
-minimizing adverse impacts to adjoining residential areas.  
+minimizing adverse impacts to adjoining residential areas.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.02   Permitted uses
@@ -74,7 +74,7 @@ the main and accessory uses set forth below.
 
     7. _(7)_ Limited sales incidental to the main use and completely enclosed
     within an otherwise permitted main building and further provided that such
-    use has no outside identification or direct customer entrance.  
+    use has no outside identification or direct customer entrance.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.03   Area and height regulations
@@ -87,7 +87,7 @@ Commission in accordance with the stated intent of Section 1124.01 of this
 Planning and Zoning Code
 
 2. _(b)_ **Building Coverage.** Twenty-five percent (25%) of lot area, maximum
-for all main and accessory buildings.  
+for all main and accessory buildings.\
 (Ord. 1987-19. Passed 9-28-87.)
 
 3. _(c)_ Height.
@@ -105,7 +105,7 @@ for all main and accessory buildings.
 
     4. _(4)_ Rooftop mechanical equipment shall be set back from any building
     face a distance at least equal to the height by which it exceeds the
-    building height.  
+    building height.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.04   Yard and setback regulations
@@ -143,19 +143,19 @@ an accessory structure or use shall be as set forth below.
     | Walkways             |                     0 |                                                   5 |                 5 |
 
     \* Not permitted in front yards except that drives are permitted only as
-    necessary in providing access to a public right of way  
+    necessary in providing access to a public right of way\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.05   Grouping of main buildings
 
 More than one (1) main building may be grouped on a lot provided that such
-grouping shall comply with the requirements of this District.  
+grouping shall comply with the requirements of this District.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.06   Lighting
 
 Outdoor lighting shall be governed by Chapter 1150, except that all lighting
-shall be extinguished between the hours of 11:00 p.m. and 7:00 a.m.  
+shall be extinguished between the hours of 11:00 p.m. and 7:00 a.m.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.07   Screening
@@ -166,12 +166,12 @@ adjoins a residential district. Such screening shall be required if deemed
 necessary by the Planning and Zoning Commission to protect the privacy, welfare,
 value and character of the adjoining residential area. The standards for
 screening contained in Sections 1142.06(b) and (c) of the Planning and Zoning
-Code shall apply.  
+Code shall apply.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.08   Supplemental regulations
 
 For regulations regarding off-street parking and loading, landscaping, lighting,
 signs and environmental performance, refer to Chapters 1141 - 1150 of the
-Planning and Zoning Code.  
+Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

@@ -95,7 +95,7 @@ officially designated name that is hereafter determined by the Village Council)
 or the Cemeteries.
 
 8. _(h)_ Any person violating this Section shall be guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (Ord. 2020-28. Passed 8-10-20.)
 
 9. _(i)_ All Conservation Land, and any property located in a Conservation
@@ -103,14 +103,14 @@ District as defined in the Planning and Zoning Code of the Village of Chagrin
 Falls and all walking trails located on Public Property may only be used between
 sunrise and sunset daily and no unauthorized person shall remain on or in any
 portion of the Conservation Land, any land in a Conservation District after
-sunset and before sunrise on a daily basis.  
+sunset and before sunrise on a daily basis.\
 (Ord. 2021-60. Passed 9-27-21.)
 
 ## 951.02   Protection of park property, public buildings and structures
 
 No person shall willfully mark, deface, disfigure, injure, displace, remove or
 destroy tables, benches, monuments, statues, buildings, signs, equipment or
-other structures and facilities on any public or park property.  
+other structures and facilities on any public or park property.\
 (Ord. 1988-36. Passed 4-25-88.)
 
 ## 951.03   Refuse and trash
@@ -119,7 +119,7 @@ No person shall in a park or river deposit, leave or dump any bottles, broken
 glass, cans, dirt, rubbish, waste, garbage, refuse or other trash, except in a
 proper receptacle as provided. Where receptacles are not provided, all such
 rubbish and waste shall be carried away from the park by the person responsible
-for its presence. and properly disposed of elsewhere.  
+for its presence. and properly disposed of elsewhere.\
 (Ord. 1988-36. Passed 4-25-88.)
 
 ## 951.04   Protection of wildlife and natural features
@@ -132,13 +132,13 @@ reptile or bird.
 2. _(b)_ No person shall injure, deface, destroy, disturb or remove any part of
 the park or river, nor shall any tree, flower, shrub, other vegetation or fruit
 or seed thereof or rock or mineral be removed, injured, destroyed or
-disturbed.  
+disturbed.\
 (Ord. 1988-36. Passed 4-25-88.)
 
 ## 951.05   Intoxicating beverages
 
 No person shall bring intoxicating liquor or beer into a park or drink alcoholic
-beverages or beer in a park at any time.  
+beverages or beer in a park at any time.\
 (Ord. 1988-36. Passed 4-25-88.)
 
 ## 951.06   Newspaper distribution in Riverside Park
@@ -163,7 +163,7 @@ permit.
 4. _(d)_ An annual fee of thirty-five dollars ($35.00) shall be paid to the
 Village in advance by the permit holder for the use of each individual
 dispenser. No more than one permit shall be issued for the same publication at
-each dispensing station.  
+each dispensing station.\
 (Ord. 2006-25. Passed 5-22-06.)
 
 ## 951.99   Penalty
@@ -172,5 +172,5 @@ each dispensing station.
 guilty of a misdemeanor of the third degree.
 
 2. _(b)_ Whoever violates any provision of Section 951.06 shall be guilty of a
-minor misdemeanor.  
+minor misdemeanor.\
 (Ord. 2006-25. Passed 5-22-06.)

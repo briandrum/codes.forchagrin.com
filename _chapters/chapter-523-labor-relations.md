@@ -23,7 +23,7 @@ title: "Chapter 523: Labor Relations"
 No person or labor union shall prevent or attempt to prevent ingress or
 access of any other person to or from any place of business, establishment,
 meeting place or plant by the use of force, violence, coercion, intimidation,
-duress or physical obstruction.  
+duress or physical obstruction.\
 (Ord. 1955-334. Passed 2-28-55.)
 
 ## 523.02   Picketing
@@ -34,13 +34,13 @@ attempt to dissuade, by means of banners, placards or other means of
 communication, any person from entering or leaving such place of business. Such
 picketing shall be performed in a peaceful, orderly fashion, without
 obstruction or interference to any lawful user of the streets or sidewalks and
-without disturbance of the peace.  
+without disturbance of the peace.\
 (Ord. 1955-334. Passed 2-28-55.)
 
 ## 523.03   Secondary boycott or strike
 
 A secondary boycott or strike is hereby declared to be unlawful and shall
-not be permitted.  
+not be permitted.\
 (Ord. 1955-334. Passed 2-28-55.)
 
 ## 523.99   Penalty

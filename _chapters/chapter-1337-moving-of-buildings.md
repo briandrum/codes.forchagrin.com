@@ -36,7 +36,7 @@ private property or public grounds, within the Municipality or onto any
 premises within the Municipality, without obtaining a permit therefor, which
 permit shall not be granted without compliance with the provisions of this
 chapter and all other applicable provisions of the Building and Zoning Codes of
-the Municipality, not inconsistent herewith.  
+the Municipality, not inconsistent herewith.\
 (Ord. 1988-26. Passed 4-11-88.)
 
 ## 1337.02   Application
@@ -76,7 +76,7 @@ police or utility technicians required and arranged for.
 
 8. _(h)_ Any additional information which the C.A.O. finds necessary for a
 thorough inspection of the building and a fair determination of whether a
-permit should be issued.  
+permit should be issued.\
 (Ord. 1988-26. Passed 4-11-88; Ord. 2005-28. Passed 6-13-05.)
 
 ## 1337.03   Permit to be in two parts
@@ -88,7 +88,7 @@ moved, if within the Municipality.
 2. _(b)_ The second part of the permit shall grant permission to move the
 building or structure only after the excavation and foundation have been
 completed to the point of receiving the building or structure and have been
-approved by the C.A.O.  
+approved by the C.A.O.\
 (Ord. 1988-26. Passed 4-11-88.)
 
 ## 1337.04   Expiration and renewal
@@ -96,7 +96,7 @@ approved by the C.A.O.
 The permit shall be invalid unless the building or structure is completely
 set upon the foundation within fifteen days after the excavation has been
 completed. However, the C.A.O. may grant extensions in writing for periods not
-exceeding five days each.  
+exceeding five days each.\
 (Ord. 1988-26. Passed 4-11-88.)
 
 ## 1337.05   Cash bond; insurance
@@ -145,13 +145,13 @@ affected, the applicant shall file with his application suitable letters of
 clearance of the utility companies consenting to the removal. It is deemed that
 the utilities will be affected except when the removal is limited to a
 relocation on the same or an abutting lot and no portion of any Municipal
-street will be entered upon.  
+street will be entered upon.\
 (Ord. 1988-26. Passed 4-11-88.)
 
 ## 1337.06   Inspection of building and equipment
 
 The C.A.O. or his agent shall inspect the building and the applicant's
-equipment to determine whether the standards for issuance of a permit are met.  
+equipment to determine whether the standards for issuance of a permit are met.\
 (Ord. 1988-26. Passed 4-11-88.)
 
 ## 1337.07   Standards for issuance of permit
@@ -182,7 +182,7 @@ location.
 be endangered by its use.
 
 7. _(g)_ There exists no other condition which might endanger persons or
-property in the Municipality by moving of the building.  
+property in the Municipality by moving of the building.\
 (Ord. 1988-26. Passed 4-11-88.)
 
 ## 1337.08   Approval of the architectural review board
@@ -191,7 +191,7 @@ After the C.A.O. has determined that the proposed building to be moved and
 the applicant's equipment meet the standards provided in this chapter, he shall
 refer the matter to the Architectural Review Board for its review as to design
 and historical impact, and the permit shall not be issued without the approval
-of the Board.  
+of the Board.\
 (Ord. 1988-26. Passed 4-11-88.)
 
 ## 1337.09   Designation of streets for moving
@@ -211,7 +211,7 @@ shall not be granted except in the case of extreme urgency. If the moving is to
 or along a dead-end street, all owners of property abutting the street shall be
 given not less than twenty-four hours' notice in writing of such intention at
 their last known place of residence by the permit holder, advising them of the
-exact times of blockage on the street.  
+exact times of blockage on the street.\
 (Ord. 1988-26. Passed 4-11-88.)
 
 ## 1337.10   Authority of law director
@@ -219,12 +219,12 @@ exact times of blockage on the street.
 The Law Director is hereby authorized to take action to enjoin the violation
 of this chapter and to recover damages suffered by the Municipality because of
 any violation of this chapter, and to take action to enforce the conditions of
-the cash bond provided for in this chapter.  
+the cash bond provided for in this chapter.\
 (Ord. 1988-26. Passed 4-11-88.)
 
 ## 1337.99   Penalty
 
 Whoever violates any of the terms of this chapter shall be guilty of a
 misdemeanor of the first degree. Each days' violation shall constitute a
-separate offense.  
+separate offense.\
 (Ord. 1988-26. Passed 4-11-88.)

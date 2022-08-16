@@ -722,7 +722,7 @@ win or become eligible to receive any prize, the determination of which is based
 upon chance. "Sweepstakes" does not include bingo as authorized under this
 chapter, pari-mutuel wagering as authorized by Ohio R.C. Chapter 3769, lotteries
 conducted by the State Lottery Commission as authorized by Ohio R.C. Chapter
-3770, and casino gaming as authorized by Ohio R.C. Chapter 3772.  
+3770, and casino gaming as authorized by Ohio R.C. Chapter 3772.\
 (ORC 2915.01)
 
 ## 517.02   Gambling
@@ -849,7 +849,7 @@ is granted that right.
 6. _(f)_ Whoever violates this section is guilty of gambling, a misdemeanor of
 the first degree. If the offender previously has been convicted of a gambling
 offense, gambling is a felony and shall be prosecuted under appropriate State
-law.  
+law.\
 (ORC 2915.02)
 
 ## 517.03   Operating a gambling house
@@ -869,7 +869,7 @@ of a gambling offense, operating a gambling house is a felony and shall be
 prosecuted under appropriate State law.
 
 3. _(c)_ Premises used or occupied in violation of this section constitute a
-nuisance subject to abatement pursuant to Ohio R.C. Chapter 3767.  
+nuisance subject to abatement pursuant to Ohio R.C. Chapter 3767.\
 (ORC 2915.03)
 
 ## 517.04   Public gaming
@@ -894,7 +894,7 @@ gaming is a misdemeanor of the fourth degree.
 
 5. _(e)_ Premises used or occupied in violation of subsection (b) of this
 section constitute a nuisance subject to abatement under Ohio R.C.
-Chapter 3767.  
+Chapter 3767.\
 (ORC 2915.04)
 
 ## 517.05   Cheating
@@ -917,7 +917,7 @@ otherwise provided in this subsection cheating is a misdemeanor of the first
 degree. If the potential gain from the cheating is one thousand dollars ($1,000)
 or more, or if the offender previously has been convicted of any gambling
 offense or of any theft offense as defined in Ohio R.C. 2913.01, cheating is a
-felony and shall be prosecuted under appropriate State law.  
+felony and shall be prosecuted under appropriate State law.\
 (ORC 2915.05)
 
 ## 517.06   Methods of conducting a bingo game; prohibitions
@@ -1141,7 +1141,7 @@ the first degree. Whoever violates subsection (c)(12) of this section is guilty
 of a misdemeanor of the first degree. If the offender previously has been
 convicted of a violation of subsection (c)(12) of this section, a violation of
 subsection (c)(12) is a felony and shall be prosecuted under appropriate State
-law.  
+law.\
 (ORC 2915.09)
 
 ## 517.07   Instant bingo conduct
@@ -1249,7 +1249,7 @@ otherwise provided in this subsection, illegal instant bingo conduct is a
 misdemeanor of the first degree. If the offender previously has been convicted
 of a violation of subsection (a) of this section or of such a rule, illegal
 instant bingo conduct is a felony and shall be prosecuted under appropriate
-State law.  
+State law.\
 (ORC 2915.091)
 
 ## 517.08   Raffles
@@ -1282,7 +1282,7 @@ conduct of a raffle. Except as otherwise provided in this subsection, illegal
 conduct of a raffle is a misdemeanor of the first degree. If the offender
 previously has been convicted of a violation of subsection (b) of this section,
 illegal conduct of a raffle is a felony and shall be prosecuted under
-appropriate State law.  
+appropriate State law.\
 (ORC 2915.092)
 
 ## 517.09   Charitable instant bingo organizations
@@ -1327,7 +1327,7 @@ tickets. The owner or lessor may retain the money that the owner or lessor
 receives for selling the instant bingo tickets, provided, however, that after
 the deal has been sold, the owner or lessor shall pay to the charitable instant
 bingo organization the value of any unredeemed instant bingo prizes remaining in
-the deal of instant bingo tickets.  
+the deal of instant bingo tickets.
 
     The charitable instant bingo organization shall pay six per cent of the
     total gross receipts of any deal of instant bingo tickets for the purpose of
@@ -1337,7 +1337,7 @@ the deal of instant bingo tickets.
     that percentage of the owner's or lessor's rent for the location where
     instant bingo is conducted. "Expenses" in the aggregate, shall not exceed
     six per cent of the total gross receipts of any deal of instant bingo
-    tickets.  
+    tickets.
 
     As used in this subsection, "full gross profit" means the amount by which
     the total receipts of all instant bingo tickets, if the deal had been sold
@@ -1366,7 +1366,7 @@ Code, that conducts instant bingo other than at a bingo session on the premises
 where the organization conducts firefighter training, that has conducted instant
 bingo continuously for at least five years prior to July 1, 2003, and that,
 during each of those five years, had gross receipts of at least one million five
-hundred thousand dollars.  
+hundred thousand dollars.\
 (ORC 2915.093)
 
 ## 517.10   Location of instant bingo
@@ -1404,7 +1404,7 @@ contract.
     the owner or lessor holds for the retail sale of any goods on the owner's or
     lessor's premises that is issued by the State or a political subdivision is
     subject to suspension, revocation, or payment of a monetary penalty at the
-    request of the Attorney General.  
+    request of the Attorney General.\
     (ORC 2915.094)
 
 ## 517.11   Bingo or game of chance records
@@ -1520,7 +1520,7 @@ following:
 
     5. _(5)_ Take any other necessary and reasonable action to determine if a
     violation of any provision of this chapter has occurred and to determine
-    whether Section 517.12 has been complied with.  
+    whether Section 517.12 has been complied with.
 
         If any law enforcement agency has reasonable grounds to believe that a
         charitable organization or an officer, agent, trustee, member, or
@@ -1540,7 +1540,7 @@ the Attorney General or a law enforcement agency pursuant to subsection (h) of
 this section.
 
 10. _(j)_ Whoever violates subsection (a) or (i) of this section is guilty of a
-misdemeanor of the first degree.  
+misdemeanor of the first degree.\
 (ORC 2915.10)
 
 ## 517.12   Bingo operator prohibitions
@@ -1555,7 +1555,7 @@ any jurisdiction shall be a bingo game operator.
 the third degree.
 
 4. _(d)_ Whoever violates subsection (b) hereof is guilty of a misdemeanor of
-the first degree.  
+the first degree.\
 (ORC 2915.11)
 
 ## 517.13   Bingo exceptions
@@ -1643,7 +1643,7 @@ purposes of amusement only if there is reason to believe that the purported
 amusement bingo game does not comply with subsection (a) hereof. A local law
 enforcement agency may proceed by action in the proper court to enforce this
 section if the local law enforcement agency gives written notice to the Attorney
-General when commencing the action.  
+General when commencing the action.\
 (ORC 2915.12)
 
 ## 517.14   Instant bingo conduct by a veteran's or fraternal organization
@@ -1720,7 +1720,7 @@ organization, or a sporting organization has entered into a written contract.
 conduct. Except as otherwise provided in this subsection, illegal instant bingo
 conduct is a misdemeanor of the first degree. If the offender previously has
 been convicted of a violation of this section, illegal instant bingo conduct is
-a felony and shall be prosecuted under appropriate State law.  
+a felony and shall be prosecuted under appropriate State law.\
 (ORC 2915.13)
 
 ## 517.15   Skill-based amusement machines
@@ -1739,11 +1739,11 @@ a felony and shall be prosecuted under appropriate State law.
     each redemption of a prize that is involved in the violation. If the
     offender previously has been convicted of a violation of subsection (a)(1),
     a violation of subsection (a)(1) is a felony and shall be prosecuted under
-    appropriate State law.  
+    appropriate State law.\
     (ORC 2915.06)
 
 2. _(b)_ Any regulation of skill-based amusement machines shall be governed by
-this chapter and Ohio R.C. Chapter 2915 and not by Ohio R.C. Chapter 1345.  
+this chapter and Ohio R.C. Chapter 2915 and not by Ohio R.C. Chapter 1345.\
 (ORC 2915.061)
 
 ## 517.99   Penalty

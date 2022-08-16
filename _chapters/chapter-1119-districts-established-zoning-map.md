@@ -60,7 +60,7 @@ amendments thereto are hereby made a part of this Planning and Zoning Code. The
 Map shall indicate the approval of the Planning and Zoning Commission and
 adoption by Council. The Map, or a print thereof, shall be on file with the
 Clerk of Council and the Administrator and shall be the final authority as to
-the status of current zoning map districts.  
+the status of current zoning map districts.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1119.03   District boundary lines
@@ -94,12 +94,12 @@ the exact location.
 action of Council, the zoning district adjoining each side of such street, alley
 or public way shall be automatically extended to the center of such vacation and
 all areas included in the vacation shall then be subject to all appropriate
-regulations of the extended district.  
+regulations of the extended district.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1119.04   Annexed territory
 
 All territory which may hereafter be annexed to the Municipality if already
 zoned shall be continued in its existing zone classification until amended in
-conformance with the procedure outlined in this Planning and Zoning Code.  
+conformance with the procedure outlined in this Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

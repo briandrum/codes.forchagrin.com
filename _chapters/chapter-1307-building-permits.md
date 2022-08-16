@@ -59,7 +59,7 @@ the requirements of this Building Code and the Zoning Code, and such plans and
 drawings have been approved by the Architectural Board of Review as provided in
 Section 137.08 of the Administrative Code, the Inspector shall issue a permit,
 except as otherwise provided by ordinance or statute, which permit shall be
-effective for one year from the date of its issuance.  
+effective for one year from the date of its issuance.\
 (Ord. 1955-350. Passed 10-10-55.)
 
 Whenever any board, commission, or official (collectively "Approving Authority")
@@ -70,7 +70,7 @@ so long as such conditions are in compliance with any applicable statutes,
 ordinance and standards, on such approval with such conditions that the
 Approving Authority believes are necessary to impose in order that the public
 health, safety, convenience, comfort and general welfare of the resident and the
-Village may be safeguarded and substantial justice done.  
+Village may be safeguarded and substantial justice done.\
 ([Ord. 2022-19. Passed 6-13-22.]({% link _posts/2022-04-25-ordinance-2022-19.md %}))
 
 ## 1307.02   Issuance of permit; certification of compliance with zoning code
@@ -79,7 +79,7 @@ Before the issuance of a building permit, the Building Inspector shall certify
 in writing upon the plans, or attached thereto, that the building, alteration or
 repair proposed to be done thereunder will conform to all of the provisions of
 the Zoning Code, including, but not limited to, setback, side and rear yard
-requirements and height and floor space requirements.  
+requirements and height and floor space requirements.\
 (Ord. 1955-350. Passed 10-10-55.)
 
 ## 1307.03   Bonds
@@ -114,7 +114,7 @@ Where an application for a permit involves industrial or commercial
 construction, the Inspector may require a larger cash bond, not more than five
 thousand dollars ($5,000), commensurate with the size of buildings and the
 possible damage to public streets, subject to all of the provisions of this
-section.  
+section.\
 (Ord. 2006-47. Passed 7-24-06.)
 
 ## 1307.04   Permit to erect part of building
@@ -127,7 +127,7 @@ presented for the same, before the entire plans and detailed statements of such
 building or structure have been submitted, provided that a complete set of all
 such plans and working drawings as prescribed in Section 1307.01 is placed on
 file before the foundation wall is brought to grade or to a height to receive
-the first tier of beams, girders or joists.  
+the first tier of beams, girders or joists.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1307.05   Permits for superstructure
@@ -149,7 +149,7 @@ authority to use the water necessary for the work called for by such permit, or
 the necessary water has been otherwise properly contracted for. No person shall
 perform any of the work called for by such permit, except excavating, leveling
 or any operation not entailing actual construction, before water has been
-provided for as required herein.  
+provided for as required herein.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1307.08   Revocation of permit for delay
@@ -166,7 +166,7 @@ provided for in this section. Failure on the part of those in charge of such
 work to comply with such notice shall be considered a violation of this Building
 Code. Should the delays, in the judgment of the Inspector, be such as to justify
 revocation of the permit, he may revoke the permit by written notice addressed
-as above.  
+as above.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1307.09   Restoration upon permit revocation
@@ -183,7 +183,7 @@ the deposit be insufficient to complete the repairs and restoration, the
 Inspector may, upon authorization by Council, complete the repairs and
 restoration, in which event all costs and expenses, over and above the portion
 of the deposit used for this purpose, shall become a lien on the property
-described in the building permit.  
+described in the building permit.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1307.10   Revocation for noncompliance
@@ -207,7 +207,7 @@ it shall be necessary only to mail notice of such revocation to the individual,
 firm or corporation in whose name the permit was issued, at the address named in
 the application for permit. Failure to comply with the orders of the Inspector
 or to discontinue operations immediately after the revocation of a permit shall
-be a violation of this Building Code.  
+be a violation of this Building Code.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1307.11   Deposit to cover repairs
@@ -232,7 +232,7 @@ which is immediately adjacent to a public street, within thirty days after the
 substantial completion of work, shall constitute authorization to the Inspector
 to have such materials and refuse removed. The cost of such removal shall be
 assessed and collected in the manner provided for the making of repairs to
-municipal property.  
+municipal property.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1307.12   Approval of water or sewer connections; underground water pipes
@@ -242,7 +242,7 @@ approved by the Chief Administrative Officer or his duly designated
 representative.
 
 Underground water pipes between the curb connection and the meter shall be "Type
-K-Copper" only.  
+K-Copper" only.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 1307.13   Driveway permits
@@ -253,14 +253,14 @@ normal sidewalk limits must be such as to conform with the grade of the
 sidewalks which it adjoins and must provide a uniform grade. Construction within
 the limits of the sidewalk must conform to the requirements of Chapter 903
 covering the construction of sidewalks. The entire construction must be such as
-not to provide a public hazard.  
+not to provide a public hazard.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1307.14   Curb cutting permit
 
 Application for permission to cut curbs shall be made to the Chief
 Administrative Officer. Permits granted for the work shall specify the
-conditions under which the work is to be performed.  
+conditions under which the work is to be performed.\
 (Ord. 2009-64. Passed 11-9-09.)
 
 ## 1307.15   Heating installations
@@ -271,7 +271,7 @@ heating installation and all details connected therewith, including the size and
 type of unit to be installed. These plans shall be subject to the approval of
 the Building Inspector and shall be so approved before the installation is
 begun. Plans shall be clearly marked and shall conform to the ordinances of this
-Municipality regulating heating.  
+Municipality regulating heating.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1307.16   Swimming pools
@@ -285,7 +285,7 @@ Code.
 2. _(b)_ Before a swimming pool permit is issued, a plot plan shall be submitted
 showing the location of the swimming pool with respect to lot lines and
 buildings; there shall also be submitted a list of materials and a description
-of the method of construction and the dimensions of the pool.  
+of the method of construction and the dimensions of the pool.\
 (Ord. 1959-466. Passed 9-14-59.)
 
 3. _(c)_ (Editor's note: Former subsection (c) was repealed by Ordinance 2019-
@@ -293,7 +293,7 @@ of the method of construction and the dimensions of the pool.
 
 ## 1307.17   Partition fence or wall
 
-A building permit shall be obtained for any fence or wall.  
+A building permit shall be obtained for any fence or wall.\
 (Ord. 1995-18. Passed 4-10-95.)
 
 ## 1307.18   Minor building permits
@@ -311,7 +311,7 @@ cover the cost of making a record thereof and the time and detail involved in
 the issuance of a permit.
 
 Mere replacements of material of a minor nature may be made and installed
-without any permit.  
+without any permit.\
 (Ord. 1980-5. Passed 1-28-80; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28.
 Passed 6-13-05.)
 
@@ -360,7 +360,7 @@ sewers, water lines and storm sewers within or adjacent to the lot; and
 
 12. _(l)_ Any other information that may be required by the Municipal Engineer
 to assure that the proposed building elevations and site grading are compatible
-with adjacent property and that positive drainage is achieved.  
+with adjacent property and that positive drainage is achieved.\
 (Ord. 1978-1129. Passed 10-23-78.)
 
 ## 1307.20   Final plot plan
@@ -372,7 +372,7 @@ constructed. Such plans shall be certified by a registered engineer or surveyor
 as to the accuracy of the plans depicting the actual construction and further
 certification that he has made actual field observation of as-built conditions
 and these conditions are as shown on the plans. The form of such certification
-shall be prescribed by the Municipal Engineer.  
+shall be prescribed by the Municipal Engineer.\
 (Ord. 1978-1129. Passed 10-23-78.)
 
 ## 1307.21   Building inspector's fees
@@ -389,19 +389,19 @@ fifty dollars ($250.00).
 ($250.00) per living unit.
 
 3. _(c)_ Grade plan fee for commercial and industrial construction: actual cost
-incurred.  
+incurred.
 
-The Building Inspector shall collect two hundred fifty dollars ($250.00) at the
-time of application for the building permit. The Municipal Engineer shall
-estimate the cost of grade plan review of which the applicant shall be informed;
-the applicant shall be directed to deposit the difference, if any, between the
-Municipal Engineer's estimate and the applicant's original payment which
-difference shall be paid prior to any issuance of the building permit. Any
-difference between the final cost of the grade plan review and the Municipal
-Engineer's estimate shall be paid prior to the issuance of a certificate of
-occupancy.  
-(Ord. 1933-53. Passed 12-12-83; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28.
-Passed 6-13-05.)
+    The Building Inspector shall collect two hundred fifty dollars ($250.00) at
+    the time of application for the building permit. The Municipal Engineer
+    shall estimate the cost of grade plan review of which the applicant shall be
+    informed; the applicant shall be directed to deposit the difference, if any,
+    between the Municipal Engineer's estimate and the applicant's original
+    payment which difference shall be paid prior to any issuance of the building
+    permit. Any difference between the final cost of the grade plan review and
+    the Municipal Engineer's estimate shall be paid prior to the issuance of a
+    certificate of occupancy.\
+    (Ord. 1933-53. Passed 12-12-83; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28.
+    Passed 6-13-05.)
 
 ## 1307.22   Amendment of plan to include method of drainage
 
@@ -412,7 +412,7 @@ draining of surface water from the lot, the Engineer shall notify the Building
 Department of such failure and may further recommend to such applicant and
 prescribe the method of drainage to be provided, which recommendation and
 prescription the applicant shall have incorporated into such plot plan and shall
-thereupon resubmit the plot plan so amended for approval.  
+thereupon resubmit the plot plan so amended for approval.\
 (Ord. 1978-1129. Passed 10-23-78.)
 
 ## 1307.23   Appeals
@@ -483,7 +483,7 @@ alleging error is appropriate and if in applying the standard of review confirms
 that relief is appropriate, the Administrator shall engage an expert at the
 applicant's expense, to provide such advice. The Administrator may require the
 applicant to deposit a sum estimated to cover the cost to have the expert
-provide such advice and attend any hearing or meeting.  
+provide such advice and attend any hearing or meeting.\
 (Ord. 2020-38. Passed 9-14-20.)
 
 ## 1307.99   Penalty

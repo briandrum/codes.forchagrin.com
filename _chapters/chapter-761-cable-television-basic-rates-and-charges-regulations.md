@@ -19,7 +19,7 @@ out herein, for the purpose of enforcement, the basic cable service rate
 regulations adopted by the Federal Communications Commission pursuant to 47
 U.S.C. 543(b), and codified at 47 C.F.R. Section 76.900-985; and any and all
 amendments or additions thereto, either by the FCC or the Village consistent
-with FCC policy.  
+with FCC policy.\
 (Ord. 1994-45. Passed 6-13-94.)
 
 ## 761.02   File and distribution of copies
@@ -28,11 +28,11 @@ A complete copy of the Federal Communications Commission's basic cable
 service rate regulations adopted pursuant to 47 U.S.C. 543(b) is on file with
 the Clerk of Council for inspection by the public and is also on file in the
 County Law Library. The Clerk of Council shall provide copies for distribution
-to the public at the cost determined by Council.  
+to the public at the cost determined by Council.\
 (Ord. 1994-45. Passed 6-13-94.)
 
 ## 761.03   Public comment
 
 Any interested party may comment on such regulations at any public meeting
-called relevant to these rules for basic service rates and charges.  
+called relevant to these rules for basic service rates and charges.\
 (Ord. 1994-45. Passed 6-13-94.)

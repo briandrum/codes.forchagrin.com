@@ -40,7 +40,7 @@ title: "Chapter 373: Bicycles and Motorcycles"
 
 The parent of any child and the guardian of any ward shall not authorize or
 knowingly permit any such child or ward to violate any of the provisions of this
-chapter.  
+chapter.\
 (Ord. 1975-967. Passed 3-18-75.)
 
 ## 373.02   Motorized bicycle
@@ -50,7 +50,7 @@ regulations and restrictions established for the operation of bicycles in this
 chapter, in addition to all other restrictions established for motorized
 bicycles. Any reference to bicycle in this chapter shall be deemed a reference
 to motorized bicycle as well, unless both are referred to separately in the same
-paragraph.  
+paragraph.\
 (Ord. 1980-44. Passed 9-22-80.)
 
 ## 373.03   Traffic code application to bicycles
@@ -82,7 +82,7 @@ skills course approved by the court in addition to or in lieu of any penalty
 otherwise prescribed by the Traffic Code for that violation.
 
 4. _(d)_ Subsections (b) and (c) of this section do not apply to violations of
-Section 333.01 of this Traffic Code.  
+Section 333.01 of this Traffic Code.\
 (ORC 4511.52)
 
 5. _(e)_ The provisions of this Traffic Code shall apply to bicycles and
@@ -100,7 +100,7 @@ use of bicycles.
 
 3. _(c)_ Wherever a designated usable path for bicycles has been provided
 adjacent to a street, bicycle riders shall use such path and shall not use the
-street.  
+street.\
 (Ord. 1975-967. Passed 3-18-75.)
 
 4. _(d)_ No person shall ride a bicycle upon sidewalks in the business district
@@ -114,7 +114,7 @@ with the motor vehicle laws of the State.
 6. _(f)_ Every rider of a bicycle shall exercise due care to avoid colliding
 with any pedestrian or any vehicle upon any roadway, sidewalk or bicycle path,
 or endangering the life, limb or property of any person while in the lawful use
-of the streets, sidewalks or any other private or public property.  
+of the streets, sidewalks or any other private or public property.\
 (Ord. 1980-44. Passed 9-22-80.)
 
 ## 373.05   Riding upon seats; handle bars; helmets and glasses
@@ -209,13 +209,13 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.53)
 
 ## 373.06   Prudent speed
 
 No person shall operate a bicycle at a speed greater than is reasonable and
-proper under the conditions then existing.  
+proper under the conditions then existing.\
 (Ord. 1975-967. Passed 3-18-75.)
 
 ## 373.07   Emerging from alley or driveway
@@ -224,21 +224,21 @@ The operator of a bicycle emerging from an alley, driveway or building shall
 upon approaching a sidewalk or the sidewalk area extending across any alley or
 driveway yield the right of way to all pedestrians approaching on such sidewalk
 area and upon entering the street shall yield the right of way to all vehicles
-approaching on such street.  
+approaching on such street.\
 (Ord. 1975-967. Passed 3-18-75.)
 
 ## 373.08   Trick riding
 
 No person shall engage in trick riding or operate a bicycle without both hands
 upon the handle grips except when necessary to give the hand signals required
-herein.  
+herein.\
 (Ord. 1975-967. Passed 3-18-75.)
 
 ## 373.09   Stolen bicycles
 
 No person shall steal any bicycle or purposely take, ride or operate any bicycle
 without consent of the owner thereof or buy or conceal any bicycle that has been
-sold, knowing it to have been stolen.  
+sold, knowing it to have been stolen.\
 (Ord. 1975-967. Passed 3-18-75. )
 
 ## 373.10   Parking
@@ -250,7 +250,7 @@ interfere with pedestrian traffic or damage the property of another.
 interfere with vehicular traffic.
 
 3. _(c)_ No person shall park a bicycle upon a sidewalk in the business
-district, except in bicycle racks placed therein.  
+district, except in bicycle racks placed therein.\
 (Ord. 1975-967. Passed 3-18-75.)
 
 ## 373.11   Lights and reflector on bicycle; brakes
@@ -292,7 +292,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.56)
 
 ## 373.12   Signal device on bicycle
@@ -309,7 +309,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.56)
 
 ## 373.13   Impounding of bicycles
@@ -337,7 +337,7 @@ records to keep in an appropriate book or file the names and addresses of all
 owners of bicycles impounded, the name and address of the violator if he is not
 the owner, the license number and the serial number of the bicycle, together
 with the nature and circumstances of each violation, as well as the disposition
-of each case.  
+of each case.\
 (Ord. 1975-967. Passed 3-18-75.)
 
 ## 373.14   Attaching bicycle or sled to vehicle
@@ -357,12 +357,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.54)
 
 ## 373.15   Riding bicycles or motorcycles abreast
@@ -379,12 +379,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.55)
 
 ## 373.16   Motorized bicycle operation, equipment and license
@@ -438,12 +438,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.713)
 
 ## 373.18   Electric bicycles
@@ -506,7 +506,7 @@ the third degree.
     state for purposes of Ohio R.C. 2901.20. The designation of these offenses
     as strict liability offenses shall not be construed to imply that any other
     offense, for which there is no specified degree of culpability, is not a
-    strict liability offense.  
+    strict liability offense.\
     (ORC 4511.522)
 
 ## 373.99   Penalty

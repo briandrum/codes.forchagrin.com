@@ -101,7 +101,7 @@ small report or a shower of sparks.
 
 17. _(q)_ "Wire sparkler" means a sparkler consisting of a wire or stick coated
 with a non-explosive pyrotechnic mixture that produces a shower of sparks upon
-ignition and that contains no more than one hundred grams of this mixture.  
+ignition and that contains no more than one hundred grams of this mixture.\
 (ORC 3743.01)
 
 ## 1519.02   Public exhibition permit required; fee; bond; records
@@ -110,7 +110,7 @@ ignition and that contains no more than one hundred grams of this mixture.
 fireworks exhibition within the Municipality shall apply for approval to conduct
 the exhibition to the Fire Chief and from the Police Chief or other similar
 chief law enforcement officer, or the designee of the Police Chief or similar
-chief law enforcement officer.  
+chief law enforcement officer.
 
     The required approval shall be evidenced by the Fire Chief or Fire
     Prevention Officer and by the Police Chief or other similar chief law
@@ -130,7 +130,7 @@ such Police Chief or similar chief law enforcement officer, shall inspect the
 premises on which the exhibition will take place and shall determine that, in
 fact, the applicant for the permit is a licensed exhibitor of fireworks. Each
 applicant shall show the applicant's license as an exhibitor of fireworks to the
-Fire Chief or Fire Prevention Officer.  
+Fire Chief or Fire Prevention Officer.
 
     The Fire Chief or Fire Prevention Officer and the Police Chief or other
     similar chief law enforcement officer, or a designee of such Police Chief or
@@ -150,7 +150,7 @@ Fire Chief or Fire Prevention Officer.
 not issue a permit until the applicant pays a permit fee of one hundred twenty-
 five dollars ($125.00) plus any necessary costs of investigation of the
 applicant and of inspecting the premises on which the exhibition will be
-conducted.  
+conducted.\
 (Ord. 1990-79. Passed 10-8-90; Ord. 2005-28. Passed 6-13-05.)
 
     Each exhibitor shall provide an indemnity bond in the amount of at least one
@@ -202,7 +202,7 @@ Inspector, Fire Chief, or Fire Prevention Officer be present before, during, and
 after the exhibition, and shall require the certified Fire Safety Inspector,
 Fire Chief, or Fire Prevention Officer to inspect the premises where the
 exhibition is to take place and determine whether the exhibition is in
-compliance with this chapter and Ohio R.C. Chapter 3743.  
+compliance with this chapter and Ohio R.C. Chapter 3743.\
 (ORC 3743.54)
 
 ## 1519.03   Unlawful conduct by exhibitor
@@ -230,7 +230,7 @@ while on the premises on which the exhibition is being conducted.
 
 5. _(e)_ No licensed exhibitor of fireworks shall permit an employee to assist
 the licensed exhibitor in conducting fireworks exhibitions unless the employee
-is registered with the Fire Marshal under Ohio R.C. 3743.56.  
+is registered with the Fire Marshal under Ohio R.C. 3743.56.\
 (ORC 3743.64)
 
 ## 1519.04   Possession, sale or discharge prohibited; exceptions
@@ -252,7 +252,7 @@ shall discharge, ignite or explode any fireworks in this Municipality, including
 a prohibition of the discharge, ignition or explosion of fireworks purchased
 pursuant to Section R. C. 3743.45, intending to prohibit the discharge, ignition
 or explosion of fireworks on private property on any of the days set forth in
-Ohio R.C. 3743.45(b).  
+Ohio R.C. 3743.45(b).\
 ([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05.md %}))
 
 3. _(c)_ No person shall use in a theater or public hall, what is technically
@@ -265,12 +265,12 @@ sales showroom unless that person is accompanied by a parent, legal guardian, or
 other responsible adult. No person under eighteen years of age shall touch or
 possess fireworks on a licensed premises without the consent of the licensee. A
 licensee may eject any person from a licensed premises that is in any way
-disruptive to the safe operation of the premises.  
+disruptive to the safe operation of the premises.\
 ([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05.md %}))
 
 5. _(e)_ Except as otherwise provided in Ohio R.C. 3743.44, no person, other
 than a licensed manufacturer, licensed wholesaler, licensed exhibitor, or
-shipping permit holder, shall possess 1.3 G fireworks or 1.4 G fireworks.  
+shipping permit holder, shall possess 1.3 G fireworks or 1.4 G fireworks.\
 ([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05.md %}))
 
 ## 1519.05   Application
@@ -322,12 +322,12 @@ exhibition complies with all of following:
     the Bureau of Alcohol, Tobacco and Firearms of the United States Department
     of the Treasury and the United States Department of Transportation with
     respect to the storage and transport of the explosive black powder used in
-    the exhibition.  
+    the exhibition.\
     (ORC 3743.80)
 
 ## 1519.99   Penalty
 
 Whoever violates any provision of this chapter is guilty of a misdemeanor of the
 first degree for a first offense and shall be fined not more than one thousand
-dollars ($1,000) or imprisoned not more than six months or both.  
+dollars ($1,000) or imprisoned not more than six months or both.\
 (ORC 3743.99(C))

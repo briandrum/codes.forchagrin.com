@@ -113,7 +113,7 @@ providing for two-way movement of traffic, no vehicle shall be driven to the
 left of the center line of the roadway, except when authorized by official
 traffic control devices designating certain lanes to the left of the center of
 the roadway for use by traffic not otherwise permitted to use the lanes, or
-except as permitted under subsection (a)(2) hereof.  
+except as permitted under subsection (a)(2) hereof.
 
     This subsection shall not be construed as prohibiting the crossing of the
     center line in making a left turn into or from an alley, private road or
@@ -126,12 +126,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.25)
 
 ## 331.02   Passing to right when proceeding in opposite directions
@@ -149,12 +149,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.26)
 
 ## 331.03   Overtaking, passing to left; driver's duties
@@ -189,12 +189,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.27)
 
 ## 331.04   Overtaking and passing upon right
@@ -219,12 +219,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.28)
 
 ## 331.05   Overtaking, passing to left of center
@@ -247,12 +247,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.29)
 
 ## 331.06   Additional restrictions on driving upon left side of roadway
@@ -282,12 +282,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.30)
 
 ## 331.07   Hazardous or no passing zones
@@ -305,7 +305,7 @@ vehicle proceeding in the same direction. No driver shall, at any other time,
 drive across the yellow auxiliary line when it appears in the driver's lane of
 travel, except to make a lawfully permitted left-hand turn under the rules
 governing such movement. No passing signs may also be erected facing traffic to
-indicate the beginning and end of each no passing zone.  
+indicate the beginning and end of each no passing zone.
 
     When appropriate signs or markings indicating hazardous or no passing zones
     are in place and clearly visible, every operator of a vehicle shall obey the
@@ -332,12 +332,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.31)
 
 ## 331.08   Driving in marked lanes or continuous lines of traffic
@@ -371,7 +371,7 @@ substantially continuous lines in the same direction, the following rules apply:
     the directions of every such device.
 
     5. _(5)_ The driver of a motor vehicle shall not operate on any parts of a
-    roadway marked and designated as a parking zone.  
+    roadway marked and designated as a parking zone.\
     (Ord. 1987-45. Passed 11-9-87.)
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -381,12 +381,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.33)
 
 ## 331.09   Following too closely
@@ -412,12 +412,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.34)
 
 ## 331.10   Turning at intersections
@@ -461,12 +461,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.36)
 
 ## 331.11   Turning into private driveway, alley or building
@@ -484,7 +484,7 @@ the following rules:
 
     3. _(3)_ Upon a roadway where traffic is restricted to one direction,
     approach for a left turn and a left turn shall be made as close as
-    practicable to the left-hand curb or edge of the roadway.  
+    practicable to the left-hand curb or edge of the roadway.
 
         It shall be the duty of the driver of any vehicle entering a private
         road or driveway, alley or building to yield the right of way to
@@ -514,7 +514,7 @@ normal atmospheric conditions from a distance of 500 feet to the front of the
 vehicle, and when the driver of the vehicle is giving an audible signal by
 siren, exhaust whistle or bell. This subsection does not relieve the driver of
 an emergency vehicle or public safety vehicle from the duty to drive with due
-regard for the safety of all persons and property upon the highway.  
+regard for the safety of all persons and property upon the highway.\
 (ORC 4511.37)
 
 3. _(c)_ Except as provided in subsection (b) hereof, no vehicle shall be turned
@@ -532,12 +532,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.37)
 
 ## 331.13   Starting and backing vehicles
@@ -545,7 +545,7 @@ the third degree.
 1. _(a)_ No person shall start a vehicle which is stopped, standing or parked
 until such movement can be made with reasonable safety. Before backing,
 operators of vehicles shall give ample warning, and while backing they shall
-exercise vigilance not to injure person or property on the street or highway.  
+exercise vigilance not to injure person or property on the street or highway.
 
     No person shall back a motor vehicle on a freeway, except: in a rest area;
     in the performance of public works or official duties; as a result of an
@@ -558,12 +558,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.38)
 
 ## 331.14   Signals before changing course, turning or stopping
@@ -571,7 +571,7 @@ the third degree.
 1. _(a)_ No person shall turn a vehicle or move right or left upon a highway
 unless and until such person has exercised due care to ascertain that the
 movement can be made with reasonable safety nor without giving an appropriate
-signal in the manner hereinafter provided.  
+signal in the manner hereinafter provided.
 
     When required, a signal of intention to turn or move right or left shall be
     given continuously during not less than the last 100 feet traveled by the
@@ -585,7 +585,7 @@ signal in the manner hereinafter provided.
     No person shall stop or suddenly decrease the speed of a vehicle without
     first giving an appropriate signal in the manner provided herein to the
     driver of any vehicle immediately to the rear when there is opportunity to
-    give a signal.  
+    give a signal.
 
     Any stop or turn signal required by this section shall be given either by
     means of the hand and arm, or by signal lights that clearly indicate to both
@@ -596,7 +596,7 @@ signal in the manner hereinafter provided.
     the body, cab or load of such motor vehicle exceeds twenty-four inches, or
     when the distance from the center of the top of the steering post to the
     rear limit of the body or load thereof exceeds fourteen feet, whether a
-    single vehicle or a combination of vehicles.  
+    single vehicle or a combination of vehicles.
 
     The signal lights required by this section shall not be flashed on one side
     only on a disabled vehicle, flashed as a courtesy or "do pass" signal to
@@ -611,12 +611,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.39)
 
 ## 331.15   Hand and arm signals
@@ -644,12 +644,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.40)
 
 ## 331.16   Right of way at intersections
@@ -660,7 +660,7 @@ the left shall yield the right of way to the vehicle on the right.
 
 2. _(b)_ The right of way rule declared in subsection (a) hereof, is modified at
 through highways and otherwise as stated in this Traffic Code and Ohio R.C.
-Chapter 4511.  
+Chapter 4511.\
 (ORC 4511.41)
 
 3. _(c)_ Subject to compliance with any traffic control device, when two
@@ -675,12 +675,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.41)
 
 ## 331.17   Right of way when turning left
@@ -698,12 +698,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.42)
 
 ## 331.18   Operation of vehicle at yield signs
@@ -729,12 +729,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.43(B))
 
 ## 331.19   Operation of vehicle at stop signs
@@ -756,12 +756,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.43(A))
 
 ## 331.20   Emergency or public safety vehicles at stop signals or signs
@@ -779,12 +779,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.03)
 
 ## 331.21   Right of way of public safety or coroner's vehicle
@@ -815,7 +815,7 @@ whoever violates subsection (a) of this section is guilty of a misdemeanor of
 the fourth degree on a first offense. On a second offense within one year after
 the first offense, the person is guilty of a misdemeanor of the third degree,
 and, on each subsequent offense within one year after the first offense, the
-person is guilty of a misdemeanor of the second degree.  
+person is guilty of a misdemeanor of the second degree.\
 (ORC 4511.45)
 
 ### 331.211   Report of vehicle failing to yield right of way to public safety vehicle
@@ -871,7 +871,7 @@ violation occurred.
     vehicle or a vehicle used by a public law enforcement officer or other
     person sworn to enforce the criminal and traffic laws of the State or a
     vehicle used by the Motor Carrier Enforcement Unit for the enforcement of
-    orders and rules of the Public Utilities Commission.  
+    orders and rules of the Public Utilities Commission.\
     (ORC 4511.454)
 
 ## 331.22   Driving onto roadway from place other than roadway: duty to yield
@@ -888,12 +888,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.44)
 
 ## 331.23   Driving onto roadway from place other than roadway: stopping at sidewalk
@@ -913,12 +913,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.431)
 
 ## 331.24   Right of way of funeral procession
@@ -951,12 +951,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.451)
 
 ## 331.25   Driver's view and control to be unobstructed by load or persons
@@ -994,12 +994,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.71)
 
 ## 331.27   Following and parking near emergency or safety vehicles
@@ -1018,12 +1018,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.72)
 
 ## 331.28   Driving over fire hose
@@ -1039,12 +1039,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.73)
 
 ## 331.29   Driving through safety zone
@@ -1058,12 +1058,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.60)
 
 ## 331.30   One-way streets and rotary traffic islands
@@ -1080,12 +1080,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.32)
 
 ## 331.31   Driving upon divided roadways
@@ -1107,12 +1107,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.35)
 
 ## 331.32   Entering and exiting controlled-access highway
@@ -1143,12 +1143,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.712)
 
 ## 331.34   Failure to control; weaving; full time and attention
@@ -1180,7 +1180,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.701)
 
 ## 331.36   Squealing tires, "peeling," cracking exhaust noises
@@ -1214,7 +1214,7 @@ misdemeanor of the third degree.
     3. _(3)_ Nothing in this section shall be construed as prohibiting local
     authorities from regulating the operation of bicycles or electric bicycles,
     except that no local authority may require that bicycles or electric
-    bicycles be operated on sidewalks.  
+    bicycles be operated on sidewalks.\
     (ORC 4511.711(A))
 
 2. _(b)_ No person shall drive a vehicle on a street lawn area or the curb of a
@@ -1228,12 +1228,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.711)
 
 ## 331.38   Stopping for school bus; discharging children
@@ -1244,7 +1244,7 @@ school child, person attending programs offered by community boards of mental
 health and County boards of developmental disabilities, or child attending a
 program offered by a head start agency, shall stop at least ten feet from the
 front or rear of the school bus and shall not proceed until such school bus
-resumes motion, or until signaled by the school bus driver to proceed.  
+resumes motion, or until signaled by the school bus driver to proceed.
 
     It is no defense to a charge under this subsection (a) hereof that the
     school bus involved failed to display or be equipped with an automatically
@@ -1320,7 +1320,7 @@ place of safety on the child or person's residence side of the road.
     section, the court or mayor shall cause the offender to deliver the license
     to the court, and the court or clerk of the court immediately shall forward
     the license to the Registrar of Motor Vehicles, together with notice of the
-    court's action.  
+    court's action.\
     (ORC 4511.75)
 
 ## 331.39   Driving across grade crossing
@@ -1362,7 +1362,7 @@ closed or is being opened or closed unless the person is signaled by a law
 enforcement officer or flagperson that it is permissible to do so.
 
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the fourth
-degree.  
+degree.\
 (ORC 4511.62)
 
 ## 331.40   Stopping at grade crossing
@@ -1435,7 +1435,7 @@ degree.
     violations of subsection (a) hereof or Ohio R.C. 4511.76, 4511.761,
     4511.762, 4511.764, 4511.77 or 4511.79, or a municipal ordinance that is
     substantially similar to any of those sections, whoever violates subsection
-    (a) hereof is guilty of a misdemeanor of the fourth degree.  
+    (a) hereof is guilty of a misdemeanor of the fourth degree.\
     (ORC 4511.63)
 
 2. _(b)_
@@ -1452,12 +1452,12 @@ degree.
     violates this section is guilty of a misdemeanor of the fourth degree. If,
     within one year of the offense, the offender previously has been convicted
     of two or more predicate motor vehicle or traffic offenses, whoever violates
-    this section is guilty of a misdemeanor of the third degree.  
+    this section is guilty of a misdemeanor of the third degree.
 
         If the offender commits the offense while distracted and the distracting
         activity is a contributing factor to the commission of the offense, the
         offender is subject to the additional fine established under Section
-        303.991 of the Traffic Code.  
+        303.991 of the Traffic Code.\
         (ORC 4511.61)
 
 ## 331.41   Slow moving vehicles and equipment at grade crossings
@@ -1488,7 +1488,7 @@ vehicles or equipment are being used in constructing or repairing a section of
 highway lying on both sides of a railroad grade crossing, and in such
 construction or repair it is necessary repeatedly to move such vehicles or
 equipment over such crossing, one daily notice specifying when such work will
-start and the hours during which it will continue is sufficient.  
+start and the hours during which it will continue is sufficient.\
 (ORC 4511.64)
 
 5. _(e)_ Except as otherwise provided in this subsection, whoever violates this
@@ -1500,7 +1500,7 @@ guilty of a misdemeanor of the third degree.
 
 1. _(a)_ The driving of vehicles to and fro upon the public roads and highways
 within the Municipality for the purpose of advertising is hereby declared to be
-a nuisance and is prohibited.  
+a nuisance and is prohibited.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -1529,7 +1529,7 @@ section if either of these streets is within the Municipality.
 herein is directed by a police officer, by appropriate traffic control signals
 or devices or if the person operating the motor vehicle stops his vehicle and
 turns off the motor while on such property not devoted to use as a public
-street.  
+street.\
 (Ord. 1987-45. Passed 11-9-87.)
 
 4. _(d)_ Except as otherwise provided in this subsection, whoever violates this
@@ -1557,7 +1557,7 @@ being carried away or deposited by the elements.
 ashes, cans, bottles, wire, paper, cartons, boxes, automobile parts, furniture,
 glass or anything else of an unsightly or unsanitary nature.
 
-4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
+4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4511.82)
 
 ## 331.45   Wearing earplugs or earphones prohibited
@@ -1611,7 +1611,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.84)
 
 ## 331.46   Vehicular operation on street closed due to rise in water level
@@ -1653,5 +1653,5 @@ proper court to answer the charge.
     "private fire company" have the same meanings as in Ohio R.C. 9.60.
 
     2. _(2)_ "Rescuer" means a state agency, political subdivision, firefighting
-    service, private fire company, or emergency medical service organization.  
+    service, private fire company, or emergency medical service organization.\
     (ORC 4511.714.)

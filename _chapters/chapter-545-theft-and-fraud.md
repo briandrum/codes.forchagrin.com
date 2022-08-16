@@ -178,7 +178,7 @@ fund transfer at a point-of-sale terminal, an automated teller machine or a cash
 dispensing machine.
 
 22. _(v)_ "Electronic fund transfer" has the same meaning as in 92 Stat. 3728,
-15 U.S.C.A. 1693a, as amended.  
+15 U.S.C.A. 1693a, as amended.\
 (ORC 2913.01)
 
 23. _(w)_ "Rented property" means personal property in which the right of
@@ -265,7 +265,7 @@ cent hydrogen.
 
 38. _(ll)_ "Active duty service member" means any member of the armed forces of
 the United States performing active duty under Title 10 of the United States
-Code.  
+Code.\
 (ORC 2913.01)
 
 ## 545.02   Determining property value in theft offense
@@ -396,7 +396,7 @@ value of property or services involved in a theft offense:
     of the rate for the services, either in writing or orally, or by posting ina
     manner reasonably calculated to come to the attention of potential
     offenders, the rate contained in the notice is prima-facie evidence of the
-    value of the services.  
+    value of the services.\
     (ORC 2913.61)
 
 ## 545.03   Property exceptions as felony offense
@@ -421,7 +421,7 @@ prescribed by the applicable law of another state or the United States;
 4. _(d)_ A blank form for a certificate of title or a manufacturer's or
 importer's certificate to a motor vehicle, as prescribed by Ohio R.C. 4505.07;
 
-5. _(e)_ A blank form for any license listed in Ohio R.C. 4507.01(A).  
+5. _(e)_ A blank form for any license listed in Ohio R.C. 4507.01(A).\
 (ORC 2913.71)
 
 ## 545.04   Detention of shoplifters; rights of museums and libraries
@@ -503,7 +503,7 @@ taking.
     3. _(3)_ "Pretrial diversion program" means a rehabilitative, educational
     program designed to reduce recidivism and promote personal responsibility
     that is at least four hours in length and that has been approved by any
-    court in this State.  
+    court in this State.\
     (ORC 2935.041)
 
 ## 545.05   Petty theft
@@ -590,7 +590,7 @@ provisions of Ohio R.C. 2913.72.
 5. _(e)_ The sentencing court that suspends an offender's license, permit, or
 nonresident operating privilege under subsection (c) of this section may grant
 the offender limited driving privileges during the period of the suspension in
-accordance with Ohio R.C. Chapter 4510.  
+accordance with Ohio R.C. Chapter 4510.\
 (ORC 2913.02)
 
 ## 545.06   Unauthorized use of a vehicle; vehicle trespass
@@ -620,7 +620,7 @@ person authorized to give consent.
 a vehicle, a misdemeanor of the first degree. If the victim of the offense is an
 elderly person or disabled adult and if the victim incurs a loss as a result of
 the violation, a violation of subsection (a) hereof is a felony and shall be
-prosecuted under appropriate State law.  
+prosecuted under appropriate State law.\
 (ORC 2913.03)
 
 6. _(f)_ Whoever violates subsection (d) hereof is guilty of vehicle trespass, a
@@ -681,7 +681,7 @@ deceptive is one thousand dollars ($1,000) or more, insurance fraud is a felony
 and shall be prosecuted under appropriate State law.
 
 4. _(d)_ This section shall not be construed to abrogate, waive or modify Ohio
-R.C. 2317.02(A).  
+R.C. 2317.02(A).\
 (ORC 2913.47)
 
 ## 545.08   Unauthorized use of property
@@ -708,7 +708,7 @@ if:
     or
 
     2. _(2)_ If the victim of the offense is an elderly person or disabled
-    adult.  
+    adult.\
     (ORC 2913.04)
 
 ## 545.09   Passing bad checks
@@ -760,7 +760,7 @@ for the payment of one thousand dollars ($1,000) or more or if the check or
 checks or other negotiable instrument or instruments are issued or transferred
 to multiple vendors or persons for the payment of one thousand five hundred
 dollars ($1,500) or more, passing bad checks is a felony and shall be prosecuted
-under appropriate State law.  
+under appropriate State law.\
 (ORC 2913.11)
 
 ## 545.10   Misuse of credit cards
@@ -807,7 +807,7 @@ prosecuted under appropriate State law if:
     violation, is one thousand dollars ($1,000) or more; or
 
     2. _(2)_ The victim of the offense is an elderly person or disabled adult
-    and the offense involves a violation of subsection (b)(1) or (2) hereof.  
+    and the offense involves a violation of subsection (b)(1) or (2) hereof.\
     (ORC 2913.21)
 
 ## 545.11   Making or using slugs
@@ -821,7 +821,7 @@ prosecuted under appropriate State law if:
     another to defraud by inserting or depositing it in a coin machine.
 
 2. _(b)_ Whoever violates this section is guilty of making or using slugs, a
-misdemeanor of the second degree.  
+misdemeanor of the second degree.\
 (ORC 2913.33)
 
 ## 545.12   Tampering with coin machines
@@ -834,7 +834,7 @@ into any coin machine.
 machines, a misdemeanor of the first degree. If the offender has previously been
 convicted of a violation of Ohio R.C. 2911.32 or of any theft offense, tampering
 with coin machines is a felony and shall be prosecuted under appropriate State
-law.  
+law.\
 (ORC 2911.32)
 
 ## 545.13   Criminal simulation
@@ -866,7 +866,7 @@ facilitating a fraud, shall do any of the following:
 2. _(b)_ Whoever violates this section is guilty of criminal simulation, a
 misdemeanor of the first degree. If the loss to the victim is one thousand
 dollars ($1,000) or more, criminal simulation is a felony and shall be
-prosecuted under appropriate State law.  
+prosecuted under appropriate State law.\
 (ORC 2913.32)
 
 ## 545.14   Tampering with records
@@ -886,7 +886,7 @@ misdemeanor of the first degree. If the violation involves data or computer
 software the value of which or loss to the victim is one thousand dollars
 ($1,000) or more, or if the writing or record is a will unrevoked at the time of
 the offense, tampering with records is a felony and shall be prosecuted under
-appropriate State law.  
+appropriate State law.\
 (ORC 2913.42)
 
 ## 545.15   Securing writings by deception
@@ -903,7 +903,7 @@ a felony and shall be prosecuted under appropriate State law if:
     dollars ($1,000) or more; or
 
     2. _(2)_ The victim of the offense is an elderly person, disabled adult,
-    active duty service member or spouse of an active duty service member.  
+    active duty service member or spouse of an active duty service member.\
     (ORC 2913.43)
 
 ## 545.16   Personating an officer
@@ -914,7 +914,7 @@ personate a law enforcement officer, or an inspector, investigator or agent of
 any governmental agency.
 
 2. _(b)_ Whoever violates this section is guilty of personating an officer, a
-misdemeanor of the first degree.  
+misdemeanor of the first degree.\
 (ORC 2913.44)
 
 ## 545.17   Defrauding creditors
@@ -934,7 +934,7 @@ creditors, shall do any of the following:
 2. _(b)_ Whoever violates this section is guilty of defrauding creditors, a
 misdemeanor of the first degree. If the value of the property involved is one
 thousand dollars ($1,000) or more, defrauding creditors is a felony and shall be
-prosecuted under appropriate State law.  
+prosecuted under appropriate State law.\
 (ORC 2913.45)
 
 ## 545.18   Receiving stolen property
@@ -965,7 +965,7 @@ be prosecuted under appropriate State law if:
         3. _(C)_ A dangerous drug as defined in Ohio R.C. 4729.01.
 
         4. _(D)_ A special purchase article as defined in Ohio R.C. 4737.04 or a
-        bulk merchandise container as defined in Ohio R.C. 4737.012.  
+        bulk merchandise container as defined in Ohio R.C. 4737.012.\
         (ORC 2913.51)
 
 ## 545.19   Possession of criminal tools
@@ -991,7 +991,7 @@ purpose:
 3. _(c)_ Whoever violates this section is guilty of possessing criminal tools, a
 misdemeanor of the first degree unless the circumstances indicate that the
 substance, device, instrument, or article involved in the offense was intended
-for use in the commission of a felony.  
+for use in the commission of a felony.\
 (ORC 2923.24)
 
 ## 545.20   Forgery of identification cards
@@ -1017,7 +1017,7 @@ If the offender previously has been convicted of a violation of this section or
 Ohio R.C. 2913.31 (B), forging identification cards or selling or distributing
 forged identification cards is a misdemeanor of the first degree and, in
 addition, the court shall impose upon the offender a fine of not less than two
-hundred fifty dollars ($250.00).  
+hundred fifty dollars ($250.00).\
 (ORC 2913.31)
 
 ## 545.21   Identity fraud

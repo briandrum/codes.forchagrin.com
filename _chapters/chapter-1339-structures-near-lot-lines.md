@@ -19,13 +19,13 @@ title: "Chapter 1339: Structures Near Lot Lines"
 ## 1339.01   Structure within three feet of line
 
 No building, structure, barn, shed, pen or coop shall protrude into or be
-closer than three feet to any lot line.  
+closer than three feet to any lot line.\
 (Ord. 2004-12. Passed 2-23-04.)
 
 ## 1339.02   Projection near lot line
 
 No roof, eave, cornice or projection of any kind shall be built within or
-protrude closer than three feet to any lot line.  
+protrude closer than three feet to any lot line.\
 (Ord. 2004-12. Passed 2-23-04.)
 
 ## 1339.99   Penalty

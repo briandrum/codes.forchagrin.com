@@ -27,7 +27,7 @@ connection with the most recent national, state and local elections. Members of
 the general public shall be afforded the opportunity to speak on these matters
 for up to five (5) minutes per person. The Village shall record the minutes of
 the meeting and make them available to the public by posting them on the
-Village's website.  
+Village's website.\
 (Ord. 2021-08. Passed 2-8-21.)
 
 ## 171.02   Summary of public hearing
@@ -43,12 +43,12 @@ Initiative calling for an amendment to the U.S. Constitution declaring:
 Constitutional rights, and
 
 2. _(b)_ Money is not equivalent to speech, and therefore regulating political
-contributions and spending does not equate to limiting political speech.  
+contributions and spending does not equate to limiting political speech.\
 (Approval by voters 11-4-14)
 
 ## 171.03   Termination of public hearing
 
 The biennial Public Hearings will no longer be required if and when a
 Constitutional Amendment reflecting the principles set forth in Section 171.02
-is ratified by three-quarters (3/4) of the State legislatures.  
+is ratified by three-quarters (3/4) of the State legislatures.\
 (Approval by voters 11-4-14)

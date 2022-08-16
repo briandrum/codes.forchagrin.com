@@ -26,7 +26,7 @@ This Planning and Zoning Code may be amended periodically in order to keep pace
 with new zoning techniques and changes in enabling legislation governing
 municipal planning and zoning. The Code may also be amended when a general
 hardship prevails in a given area, when new extensive developments affecting the
-use of land are being planned.  
+use of land are being planned.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1113.02   Initiation of amendment
@@ -35,14 +35,14 @@ A proposed amendment to the zoning text or Map may be initiated either by a
 property owner, the Mayor, Planning and Zoning Commission or a member of
 Council. If initiated by a property owner, the Mayor or Council, the ordinance
 to amend the Planning and Zoning Code shall be referred to the Commission
-before action is taken by Council.  
+before action is taken by Council.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1113.03   Action by commission
 
 The Planning and Zoning Commission may approve or disapprove a proposed
 amendment, either in whole or in part, and submit its recommendation to
-Council.  
+Council.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1113.04   Action by council
@@ -60,13 +60,13 @@ recommended or not recommended by the Commission by majority vote of those
 elected to Council. If Council modifies the proposal, it may resubmit the
 proposed modification to the Commission for further consideration. The Clerk of
 Council shall submit to the Commission a copy of any action taken by Council in
-regard to the Planning and Zoning Code.  
+regard to the Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19; Ord. 2019-56. Passed 11-25-19.)
 
 ## 1113.05   Current record of text and map
 
 The Administrator shall maintain a permanent and current record of the Planning
-and Zoning Code showing all amendments to the text and Map.  
+and Zoning Code showing all amendments to the text and Map.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1113.06   Determination of similar uses
@@ -97,5 +97,5 @@ standards:
 clarifications to Council. If Council, by a majority vote of its members,
 concurs with the recommendation of the Commission, such use shall be deemed to
 be similar and permitted in the requested use district. No public hearing shall
-be required to include the similar use in a use district.  
+be required to include the similar use in a use district.\
 (Ord. 2019-39. Passed 8-13-19.)

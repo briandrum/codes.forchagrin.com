@@ -41,7 +41,7 @@ upon notice to all other members of Council, the Mayor, Clerk of Council, Law
 Director and the Chief Administrative Officer, may cancel such meeting.
 Cancellation by the Council President shall be made no later than 4:00 p.m. on
 the Friday prior to the regularly scheduled Council meeting if cancellation was
-not declared at the last regular Council meeting.  
+not declared at the last regular Council meeting.\
 ([Ord. 2022-01. Passed 1-3-22.]({% link _posts/2022-01-03-ordinance-2022-01.md %}))
 
 ## 111.02   Special meetings
@@ -87,7 +87,7 @@ meeting.
 
 3. _(3)_ **Agenda for Council Meetings:**
 
-    Agenda for Chagrin Falls Council Meetings  
+    Agenda for Chagrin Falls Council Meetings\
     Date / Regular, Special or Adjourned Meeting / Time
 
     1. _(1)_ Moment of Silence/Pledge of Allegiance

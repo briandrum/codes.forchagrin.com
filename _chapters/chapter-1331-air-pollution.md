@@ -31,7 +31,7 @@ the abatement of pollution of the air resources of the Municipality.
 2. _(b)_ **Violations.** No person, firm or corporation shall commit any act in
 violation of this chapter or omit to do any act required of such person, firm or
 corporation by any of the provisions as set forth in this chapter or any
-amendments thereof.  
+amendments thereof.\
 (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.02   Objectives
@@ -42,7 +42,7 @@ enjoyment of their respective properties.
 
 It is recognized that ambient air quality objectives do vary with the land use.
 Inasmuch as the Municipality represents essentially a residential area, the
-standards as set forth here reflect this fact.  
+standards as set forth here reflect this fact.\
 (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.03   Enforcement
@@ -51,7 +51,7 @@ standards as set forth here reflect this fact.
 installations which come under the jurisdiction of this chapter are subject to
 inspection and licensing. It shall be deemed a violation of this chapter to
 operate such device or installation without an official permit issued by the
-Building Inspector.  
+Building Inspector.
 
     No permit may be issued to operate a sealed device.
 
@@ -75,7 +75,7 @@ way interfere with any officer in the performance of his duties under this
 chapter.
 
 5. _(e)_ **Right to Appeal.** The right to appeal any order or decision made
-under or pursuant to this chapter shall be granted by law.  
+under or pursuant to this chapter shall be granted by law.\
 (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.04   Permits, time limitations; inspections
@@ -106,7 +106,7 @@ Officer.
 
 4. _(d)_ **Exceptions.** Nothing in subsections (a) through (c) hereof shall be
 deemed to apply to heating devices and incinerators serving fewer than three
-family dwelling units.  
+family dwelling units.\
 (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.05   Stack and vent emissions
@@ -149,7 +149,7 @@ discharge from combustion devices shall be:
 
     The foregoing requirements are to be calculated in accordance with American
     Society of Mechanical Engineers PTC-21-1941 procedure. In each case stack
-    gases are to be adjusted to fifty percent excess air.  
+    gases are to be adjusted to fifty percent excess air.\
     (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.06   Nuisances other than stack emissions
@@ -174,7 +174,7 @@ manner except a wood-burning fireplace.
 
     2. _(2)_ Open fires may be permitted if they are in accordance with
     directives issued by the Environmental Control Officer and approved by the
-    Fire Chief.  
+    Fire Chief.\
     (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.07   Future installations
@@ -187,7 +187,7 @@ chapter.
 2. _(b)_ **Maintenance.** Every combustion device shall be so equipped and
 maintained, and in the case of fuel-burning equipment, shall be fired with such
 fuel, that it can be operated without violating the provisions of Section
-1331.05.  
+1331.05.\
 (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.08   Determination of violation
@@ -206,7 +206,7 @@ test period.
 has cause to believe that an emission from fuel-burning equipment (or any other
 device) violates Section 1331.05 he shall notify the owner of the equipment and
 set a time for a hearing, which hearing shall be set not less than ten nor more
-than twenty days from the time of notification.  
+than twenty days from the time of notification.
 
     Following the hearing, the Environmental Control Officer may further require
     the owner to make or cause to be made such tests as may be necessary to
@@ -228,7 +228,7 @@ processing have been effected. If the test results indicate a violation, all
 costs shall be borne by the owner. This shall be cause for the device to be
 sealed by the Environmental Control Officer. Such seal shall remain in effect
 until the owner produces satisfactory evidence that the necessary corrective
-measures have been taken.  
+measures have been taken.\
 (Ord. 1968-740. Passed 10-1-68.)
 
 ## 1331.99   Penalty

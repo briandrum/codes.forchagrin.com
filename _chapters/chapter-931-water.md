@@ -41,7 +41,7 @@ a newspaper of general circulation in the Municipality, such water ban shall
 prohibit the use of the public water supply, including, but not limited to,
 sprinkling of lawns, flower beds, gardens and shrubs or the watering of the
 same, car washing and the use of swimming pools. No person shall violate the
-provisions of such emergency ban.  
+provisions of such emergency ban.\
 (Ord. 1965-620. Passed 6-28-65.)
 
 ## 931.02   Regulations of the water department, and water rates
@@ -53,7 +53,7 @@ inconsistent with the Charter and Codified Ordinances, as may be necessary for
 the safe, economical, and efficient management and protection of the
 Municipality's water system. Such regulations shall have the same validity as
 an ordinance, and a current version shall be on file in the office of the
-Village Administrator.  
+Village Administrator.\
 (Ord. 2008-54. Passed 12-8-08.)
 
 2. _(b)_ Owners of property always remain responsible to the Municipality to
@@ -63,7 +63,7 @@ correct errors made by reason of inadvertence, oversight, or faulty
 calculation. The Municipality hereby empowers itself to recover for water
 charges even when the result of inadvertence, oversight, or faulty calculation
 or failure to send a bill to the owner of the property with the correct
-charges.  
+charges.\
 (Ord. 2017-20. Passed 4-24-17.)
 
 ## 931.03   Water connection charges

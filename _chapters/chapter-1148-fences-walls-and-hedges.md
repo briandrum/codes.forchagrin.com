@@ -37,7 +37,7 @@ which interfere with clear visibility of vehicular and pedestrian traffic on
 adjacent streets, alleys, or sidewalks.
 
 4. _(d)_ To preserve and protect public health, safety and welfare by regulating
-retaining walls and minimizing their impact on contiguous property.  
+retaining walls and minimizing their impact on contiguous property.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1148.02   Definitions and references
@@ -59,7 +59,7 @@ material.
 4. _(d)_ "Wall" means a solid barrier which is constructed of wood, masonry or
 other non-living materials in order to enclose, screen, or secure property, or,
 a means of designating a property boundary. A solid fence is considered a
-wall.  
+wall.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1148.03   General provisions
@@ -114,7 +114,7 @@ hazards, the Administrator may waive the fencing requirement.
 
 7. _(g)_ **Exceptions.** The requirements of this chapter shall not apply to a
 hedge which is planted as a perimeter screen under the landscaping regulations
-set forth in Section 1142.06.  
+set forth in Section 1142.06.\
 (Ord. 2019-39. Passed 8-13-19; Ord. 2020-10. Passed 3-9-20.)
 
 ## 1148.04   Permits
@@ -125,7 +125,7 @@ the fee required by Section 1309.14 of the Building Code.
 
 2. _(b)_ **Survey Required.** If documentation of the property line locations is
 not conclusive, the Administrator may require a professional survey to identify
-such locations prior to issuing a permit.  
+such locations prior to issuing a permit.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1148.05   Fences, walls, and hedges permitted: residential districts
@@ -164,7 +164,7 @@ height band of two and one-half feet to six feet above curb level.
 
     2. _(2)_ **Tennis courts.** Tennis courts shall be enclosed by a metal chain
     link or mesh fence at least nine feet in height but no more than twelve feet
-    in height above finished grade.  
+    in height above finished grade.\
     (Ord. 2019-39. Passed 8-13-19; Ord. 2019-56. Passed 11-25-19.)
 
 ## 1148.06   Fences, walls, and hedges permitted: non-residential districts
@@ -200,7 +200,7 @@ features shall be installed in accordance with Sections 1142.05 and 1142.06.
 
     2. _(2)_ **Tennis courts.** Tennis courts shall be enclosed by a metal chain
     link or mesh fence at least nine feet in height but no more than twelve feet
-    in height above finished grade.  
+    in height above finished grade.\
     (Ord. 2019-39. Passed 8-13-19; Ord. 2019-56. Passed 3-9-20.)
 
 ## 1148.07   Retaining walls
@@ -235,5 +235,5 @@ times.
 (100) square feet shall be subject to review by the Architectural Review Board.
 The design and construction of such walls shall be approved by the Architectural
 Board of Review in consideration of factors of safety and visual impact on
-nearby uses.  
+nearby uses.\
 (Ord. 2019-39. Passed 8-13-19.)

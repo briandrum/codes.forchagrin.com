@@ -323,7 +323,7 @@ only penalty that may be imposed is one of the following:
     2. _(2)_ For an offense committed on or after January 1, 2004, a fine not
     exceeding one hundred fifty dollars ($150.00), community service under
     division (D) of Ohio R.C. 2929.27, or a financial sanction other than a fine
-    under Ohio R.C. 2929.28.  
+    under Ohio R.C. 2929.28.\
     (ORC 2901.02)
 
 ## 501.03   Common law offenses abrogated
@@ -338,7 +338,7 @@ penalty for violation of such prohibition or failure to meet such duty.
 
 3. _(c)_ This section does not affect the power of a court to punish for
 contempt or to employ any sanction authorized by law to enforce an order, civil
-judgment or decree.  
+judgment or decree.\
 (ORC 2901.03)
 
 ## 501.04   Rules of construction
@@ -365,7 +365,7 @@ a criminal offense shall be construed to also refer to an existing or former law
 of this State, another state, or the United States, to an existing or former
 municipal ordinance, or to an existing or former division of any such existing
 or former law or ordinance that defines or specifies, or that defined or
-specified, a substantially equivalent offense.  
+specified, a substantially equivalent offense.\
 (ORC 2901.04)
 
 ## 501.05   Criminal law jurisdiction
@@ -454,7 +454,7 @@ the actor that the object of the conspiracy should be completed.
 8. _(h)_ As used in this section, "computer", "computer system", "computer
 network", "information service", "telecommunication", "telecommunications
 device", "telecommunications service", "data", and "writing" have the same
-meaning as in Ohio R.C. 2913.01.  
+meaning as in Ohio R.C. 2913.01.\
 (ORC 2901.11)
 
 ## 501.06   Limitation of criminal prosecution
@@ -541,7 +541,7 @@ to run until either of the following occurs:
     officer that is not the parent or guardian of the child, in the county in
     which the child resides or in which the abuse or neglect is occurring or has
     occurred has been notified that abuse or neglect is known, suspected, or
-    believed to have occurred.  
+    believed to have occurred.\
     (ORC 2901.13)
 
 10. _(j)_ This section shall not apply to prosecutions commenced within the
@@ -606,7 +606,7 @@ physically capable of performing the act with which the person is charged.
     as defined in Section 501.08.
 
     4. _(4)_ "Intoxication" includes, but is not limited to, intoxication
-    resulting from the ingestion of alcohol, a drug, or alcohol and a drug.  
+    resulting from the ingestion of alcohol, a drug, or alcohol and a drug.\
     (ORC 2901.21)
 
 ## 501.08   Culpable mental states
@@ -646,7 +646,7 @@ to establish an element thereof, then recklessness, knowledge or purpose is also
 sufficient culpability for such element. When recklessness suffices to establish
 an element of an offense, then knowledge or purpose is also sufficient
 culpability for such element. When knowledge suffices to establish an element of
-an offense, then purpose is also sufficient culpability for such element.  
+an offense, then purpose is also sufficient culpability for such element.\
 (ORC 2901.22)
 
 ## 501.09   Attempt
@@ -687,7 +687,7 @@ misdemeanor. An attempt to commit a minor misdemeanor is not an offense under
 this section.
 
 6. _(f)_ As used in this section, "drug abuse offense" has the same meaning as
-in Ohio R.C. 2925.01.  
+in Ohio R.C. 2925.01.\
 (ORC 2923.02)
 
 ## 501.10   Complicity
@@ -732,7 +732,7 @@ renunciation of his criminal purpose.
 6. _(f)_ Whoever violates this section is guilty of complicity in the commission
 of an offense, and shall be prosecuted and punished as if he were a principal
 offender. A charge of complicity may be stated in terms of this section, or in
-terms of the principal offense.  
+terms of the principal offense.\
 (ORC 2923.03)
 
 ## 501.11   Organizational criminal liability
@@ -780,7 +780,7 @@ the section defining the offense.
 or not for profit, partnership, limited partnership, joint venture,
 unincorporated nonprofit association, estate, trust or other commercial or legal
 entity. "Organization" does not include an entity organized as or by a
-governmental agency for the execution of a governmental program.  
+governmental agency for the execution of a governmental program.\
 (ORC 2901.23)
 
 ## 501.12   Personal accountability for organizational conduct
@@ -799,7 +799,7 @@ and any of the following apply:
     organization by law, and such duty is not discharged.
 
 2. _(b)_ When a person is convicted of an offense by reason of this section, he
-is subject to the same penalty as if he had acted in his own behalf.  
+is subject to the same penalty as if he had acted in his own behalf.\
 (ORC 2901.24)
 
 ## 501.13   Conspiracy
@@ -955,7 +955,7 @@ other than this section. In such a case, however:
         possession offense.
 
     2. _(2)_ "Minor drug possession offense" has the same meaning as in Ohio
-    R.C. 2925.01.  
+    R.C. 2925.01.\
     (ORC 2923.01)
 
 ## 501.99   Penalties for misdemeanors
@@ -1062,7 +1062,7 @@ following:
         order reimbursement under that subsection, confinement costs may be
         assessed pursuant to a repayment policy adopted under Ohio R.C. 2929.37.
         In addition, the offender may be required to pay the fees specified in
-        Ohio R.C. 2929.38 in accordance with that section.  
+        Ohio R.C. 2929.38 in accordance with that section.\
         (ORC 2929.28)
 
 2. _(b)_ **Jail Terms.**
@@ -1141,7 +1141,7 @@ the following:
             that section.
 
         2. _(B)_ The sentence automatically includes any certificate of judgment
-        issued as described in subsection (b)(4)A.2. of this section.  
+        issued as described in subsection (b)(4)A.2. of this section.\
         (ORC 2929.24)
 
 3. _(c)_ **Organizations.** Regardless of the penalties provided in subsections
@@ -1174,5 +1174,5 @@ fine as follows:
     3. _(3)_ This subsection (c) does not prevent the imposition of available
     civil sanctions against an organization convicted of an offense pursuant to
     Section 501.11, either in addition to or in lieu of a fine imposed pursuant
-    to this subsection (c).  
+    to this subsection (c).\
     (ORC 2929.31)

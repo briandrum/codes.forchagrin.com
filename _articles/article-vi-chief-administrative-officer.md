@@ -17,7 +17,7 @@ confirmation by a majority vote of all members of Council. The Chief
 Administrative Officer may be removed by the Mayor, but such removal shall not
 take place without the concurrence of a majority of all the members of Council.
 In the event the position of Chief Administrative Officer is vacant for ninety
-(90) or more days, Council may appoint the Chief Administrative Officer.  
+(90) or more days, Council may appoint the Chief Administrative Officer.\
 (Amended 11-4-86)
 
 ## Section VI-2: Duties
@@ -57,5 +57,5 @@ regulations of the Municipality.
 and duties in connection therewith as prescribed by Council.
 
 9. _(i)_ Have such other powers and duties as may be prescribed by ordinance of
-Council.  
+Council.\
 (Amended 11-8-16)

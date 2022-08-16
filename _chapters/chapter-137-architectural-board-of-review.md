@@ -43,7 +43,7 @@ retired and are registered as emeritus architects. In the event of the absence
 of an architect member or if a conflict arises and such member must not hear a
 matter pending before the Architectural Board of Review, then the alternate
 member appointment preference for a particular matter or meeting shall be for
-any alternate member who is a registered architect.  
+any alternate member who is a registered architect.\
 (Ord. 2019-33. Passed 4-22-19.)
 
 ## 137.02   Membership
@@ -60,13 +60,13 @@ appointment. The architect member(s) and the architect advisors may reside
 outside the Village. Two members of the Architectural Board of Review will be
 residents and need not be architects. The two architect advisors shall serve in
 an advisory capacity only and shall not vote or exercise any authority of the
-Village.  
+Village.\
 (Ord. 2019-33. Passed 4-22-19.)
 
 ## 137.03   Compensation for meeting attendance
 
 The members of the Architectural Board of Review shall receive such compensation
-as shall be established by Council in the annual pay ordinance.  
+as shall be established by Council in the annual pay ordinance.\
 (Ord. 2009-73. Passed 12-14-09.)
 
 ## 137.04   Member not to review own work; conflict of interest
@@ -77,7 +77,7 @@ partner or professional associate of his or hers is the author, or in which he
 or she or they have a direct or indirect financial interest. An architect
 advisor may present matters to the Board which he or she authored, or in which
 he or she has a direct or indirect financial interest, but that advisor shall
-not serve in an advisory capacity to the Board for such matters.  
+not serve in an advisory capacity to the Board for such matters.\
 (Ord. 2009-10. Passed 1-26-09.)
 
 ## 137.05   Chairman and secretary of board
@@ -86,7 +86,7 @@ One member of the Architectural Board of Review shall be elected Chairman and
 shall be responsible for the proper administration of the Board's work. One
 member of the Board shall act as Secretary and shall keep, or cause to be kept,
 in the Village Hall a complete record of all meetings of the Board and of all
-transactions handled by the Board.  
+transactions handled by the Board.\
 (Ord. 2002-13. Passed 2-11-02.)
 
 ## 137.06   Quorum, duties and rules
@@ -97,7 +97,7 @@ the voting members of the Board is an architect, one architect advisor must be
 present to establish the quorum. The Board shall exercise the powers and duties
 herein provided in accordance with existing laws and ordinances of the State of
 Ohio and the Municipality, and in accordance with such rules and regulations for
-its own procedure as it may promulgate.  
+its own procedure as it may promulgate.\
 (Ord. 2009-10. Passed 1-26-09.)
 
 ## 137.07   Purposes of board
@@ -118,7 +118,7 @@ buildings, signs and structures with such existing buildings, signs and
 structures.
 
 3. _(c)_ The Board shall exercise such other powers and duties as may be
-established by ordinance of Council.  
+established by ordinance of Council.\
 (CHTR. Art. VII, Sec. 9; Ord. 2002-13. Passed 2-11-02.)
 
 ## 137.08   Review of plans; time limit
@@ -138,7 +138,7 @@ regulations adopted by the Board.
 
 2. _(b)_ An applicant may request an unofficial review. The unofficial review is
 informal and does not entitle the applicant to preliminary or final approval, or
-to a building permit.  
+to a building permit.\
 (Ord. 2010-08. Passed 4-12-10.)
 
 3. _(c)_ Any applicant seeking required approval from the Architectural Board of
@@ -160,5 +160,5 @@ follows:
 Village for applications to the Architectural Board of Review shall have an
 attachment in an appropriate form determined by the Chief Administrative
 Officer, incorporating the criteria set forth in Codified Ordinance Section
-137.08(c).  
+137.08(c).\
 (Ord. 2016-70. Passed 11-14-16.)

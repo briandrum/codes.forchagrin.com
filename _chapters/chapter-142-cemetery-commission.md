@@ -24,7 +24,7 @@ There is hereby created a commission to be known and designated as the "Cemetery
 Commission", composed of three residents of the Municipality, and one additional
 Council Member, for a total of four voting members of the Commission. Resident
 members shall be appointed and removed by the Mayor. The Council representative
-to the Cemetery Commission shall be appointed annually by the Council.  
+to the Cemetery Commission shall be appointed annually by the Council.\
 (Ord. 2017-86. Passed 12-11-17.)
 
 ## 142.02   Term
@@ -34,12 +34,12 @@ provided that the term of one of the members appointed to the first Commission
 shall be for one year and one of the members appointed to the first Commission
 shall be for two years. In the event that a vacancy occurs during the term of
 any member, his or her successor shall be appointed by the Mayor for the
-unexpired portion of the term.  
+unexpired portion of the term.\
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 142.03   Compensation
 
-Members of the Commission shall serve without compensation.  
+Members of the Commission shall serve without compensation.\
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 142.04   Authority
@@ -56,7 +56,7 @@ Village residents and/or others.
 been donated or bequeathed for use in the cemeteries.
 
 3. _(c)_ To grant exceptions to the Cemetery Rules and Regulations when
-authorized by such Rules and Regulations.  
+authorized by such Rules and Regulations.\
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 142.05   Organization
@@ -70,5 +70,5 @@ concur therein shall have the right, as a part of such report, to state their
 reasons for refusing to approve or concur. No later than February 1 of each
 year, the Commission shall submit an annual report to the Mayor, Council and the
 Chief Administrative Officer summarizing the activities and decisions of the
-Commission and any recommendations to revise Cemetery rules and regulations.  
+Commission and any recommendations to revise Cemetery rules and regulations.\
 (Ord. 2016-77. Passed 12-12-16.)

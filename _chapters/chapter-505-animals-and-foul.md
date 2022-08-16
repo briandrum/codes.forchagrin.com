@@ -68,7 +68,7 @@ described herein.
 4. _(d)_ Each subsequent violation of subsection (c) hereof within a period of
 three (3) years shall be a misdemeanor of the first degree in the event a human
 being is attacked or bitten and a misdemeanor of the second degree in the event
-a domestic animal is attacked or bitten.  
+a domestic animal is attacked or bitten.\
 (Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.02   Impounding of dogs; disposal
@@ -88,13 +88,13 @@ disposition as provided by Ohio R.C. 955.16.
 
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor for a
 first offense and a misdemeanor of the fourth degree for each subsequent
-offense.  
+offense.\
 (ORC 955.99)
 
 ## 505.04   Abandoning animals
 
 1. _(a)_ No owner or keeper of a dog, cat or other domestic animal shall abandon
-such animal.  
+such animal.\
 (ORC 959.01)
 
 2. _(b)_ Whoever violates subsection (a) hereof is guilty of a misdemeanor of
@@ -122,7 +122,7 @@ department responding to mutual aid to the Village of Chagrin Falls during the
 course of activities being performed on behalf of the Police Department.
 
 4. _(d)_ Whoever violates this section is guilty of a misdemeanor of the first
-degree.  
+degree.\
 (Ord. 1996-42. Passed 10-14-96.)
 
 ## 505.06   Poisoning animals
@@ -134,11 +134,11 @@ the property of another; and no person shall, willfully and without the consent
 of the owner, place any poisoned food where it may be easily found and eaten by
 any of such animals, either upon his own lands or the lands of another. This
 section does not apply to trespassing animals as set forth in Ohio R.C.
-959.04.  
+959.04.\
 (ORC 959.03)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
-degree.  
+degree.\
 (ORC 959.99(C))
 
 ## 505.07   Cruelty to animals generally
@@ -175,7 +175,7 @@ particular shipment of livestock, which written request shall be separate and
 apart from any printed bill of lading or other railroad form, the length of time
 in which such livestock may be detained in any cars or compartments without
 food, water and attention, may be extended to thirty-six hours without penalty
-therefor. This section does not prevent the dehorning of cattle.  
+therefor. This section does not prevent the dehorning of cattle.\
 (ORC 959.13)
 
 3. _(c)_  Whoever violates this section is guilty of a misdemeanor of the second
@@ -185,7 +185,7 @@ sale of the animal or livestock. If an animal or livestock is forfeited and sold
 pursuant to this subsection, the proceeds from the sale first shall be applied
 to pay the expenses incurred with regard to the care of the animal from the time
 it was taken from the custody of the former owner. The balance of the proceeds
-from the sale, if any, shall be paid to the former owner of the animal.  
+from the sale, if any, shall be paid to the former owner of the animal.\
 (ORC 959.99)
 
 ### 505.071   Cruelty to companion animals
@@ -295,7 +295,7 @@ and prosecution of the violation. If a county humane society receives any fine
 moneys under this section, the county humane society shall use the fine moneys
 either to provide the training that is required for humane society agents under
 Ohio R.C. 1717.061 or to provide additional training for humane society
-agents.  
+agents.\
 (ORC 959.131)
 
 7. _(g)_
@@ -333,7 +333,7 @@ agents.
     emotional disorder that contributed to the violation, the court may impose
     as a community control sanction or as a condition of probation a requirement
     that the offender undergo psychological evaluation or counseling. The court
-    shall order the offender to pay the costs of the evaluation or counseling.  
+    shall order the offender to pay the costs of the evaluation or counseling.\
     (ORC 959.99)
 
 ## 505.08   Nuisance conditions prohibited
@@ -365,7 +365,7 @@ and disposes of same in a sanitary manner, such nuisance shall be considered
 abated.
 
 5. _(e)_ Whoever violates this section is guilty of a misdemeanor of the third
-degree.  
+degree.\
 (Ord. 1979-1167. Passed 8-27-79.)
 
 ## 505.09   Barking or howling dogs
@@ -393,7 +393,7 @@ harborer to his premises away from the public at large, or be placed under
 supervision of a veterinarian at the owner's or harborer's expense. The
 isolation or observation period shall not be less than ten days from the date
 the person was bitten at which time report of the condition of the animal shall
-be made to the Health Commissioner.  
+be made to the Health Commissioner.
 
     No person shall fail to comply with the requirements of this section or with
     any order of the Health Commissioner made pursuant thereto, nor fail to
@@ -422,7 +422,7 @@ may be sold, given away or otherwise distributed to any person in lots of less
 than six. Stores, shops, vendors and others offering young poultry for sale or
 other distribution shall provide and operate brooders or other heating devices
 that may be necessary to maintain poultry in good health, and shall keep
-adequate food and water available to the poultry at all times.  
+adequate food and water available to the poultry at all times.\
 (ORC 925.62)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
@@ -433,7 +433,7 @@ degree.
 1. _(a)_ No person shall, after the effective date of this section, bring into
 the Municipality any horse, pony, mule, jackass or other animal of the horse
 kind for the purpose of keeping or maintaining such animal for longer than
-twenty-four hours.  
+twenty-four hours.\
 (Ord. 1969-775. Passed 10-7-69.)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -447,7 +447,7 @@ year, file in the office of the Chief Administrative Officer of the Municipality
 an application for registration for the following year, stating the age, sex,
 color, height and distinctive markings of such horse or pony, and the name and
 address of the owner. A registration fee of seven dollars and fifty cents
-($7.50) for each horse or pony shall accompany such application.  
+($7.50) for each horse or pony shall accompany such application.
 
     If such application for registration is not filed and the fee paid on or
     before January 20 of each year, the Municipality shall assess a penalty of
@@ -470,7 +470,7 @@ pony shall fail to file the application for registration, nor shall he fail to
 pay the legal fee therefor.
 
 5. _(e)_ **Misdemeanor Classification.** Whoever violates this section is guilty
-of a misdemeanor of the third degree.  
+of a misdemeanor of the third degree.\
 (Ord. 1978-1122. Passed 10-9-78; Ord. 1990-79. Passed 10-8-90; Ord. 2005-28.
 Passed 6-13-05.)
 
@@ -516,7 +516,7 @@ as set forth in Section 1125.09.
     2. _(2)_ Sheep, goats, horses, cattle, swine or any other hoofed animal.
 
 5. _(e)_ Whoever violates any provision of this section is guilty of a
-misdemeanor of the third degree.  
+misdemeanor of the third degree.\
 (Ord. 2014-34. Passed 7-28-14.)
 
 ## 505.16   Rabies vaccination of dogs and cats required
@@ -530,7 +530,7 @@ maintain a record of such immunization as provided by a veterinarian.
 
 3. _(c)_ Whoever violates subsection (a) hereof is guilty of a misdemeanor of
 the fourth degree. Whoever violates subsection (b) hereof is guilty of a minor
-misdemeanor.  
+misdemeanor.\
 (Ord. 2007-40. Passed 6-25-07.)
 
 ## 505.17   Dangerous and vicious dog definitions
@@ -614,7 +614,7 @@ or her designee.
 (i) a dog was not teased by a person or animal, (ii) tormented by a person or
 animal, (iii) abused by a person, or (iv) the dog was not coming to the aid or
 the defense of a person who was not engaged in illegal or criminal activity and
-who was not using the dog as a means of carrying out such activity.  
+who was not using the dog as a means of carrying out such activity.\
 (Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.18   Dangerous and vicious dogs
@@ -788,7 +788,7 @@ affirmative defense as applicable:
     the dog.
 
     4. _(4)_ In the case of another domestic animal, that the dog was attacked
-    by such animal or that such animal was running at large.  
+    by such animal or that such animal was running at large.\
     (Ord. 2020-36. Passed 10-12-20; Ord. 2020-46. Passed 11-9-20.)
 
 ## 505.19   Impoundment of dogs involved in biting/attacking incidents
@@ -837,7 +837,7 @@ the dog has been released pursuant to the provisions of subsection (b) hereof.
 
 5. _(e)_ The provisions of this Section shall be in addition to any other
 procedures, penalties and/or remedies provided in this chapter or otherwise
-available at law.  
+available at law.\
 (Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.20   Dangerous and vicious dog impounding procedure; redemption or disposition
@@ -853,7 +853,7 @@ address of its owner, the Chief of Police shall immediately give such person
 notice that the animal has been found and taken up. The animal shall not be
 released to its owner except upon payment to the Village of all lawful costs
 assessed against the animal to cover the cost of taking it up, plus such
-additional costs as may be incurred by the Village for impounding the animal.  
+additional costs as may be incurred by the Village for impounding the animal.
 
     Such release payment shall be tendered within five (5) days of receipt of
     notice by the animal's owner; however, no period of holding by the Village
@@ -876,7 +876,7 @@ the animal spayed or neutered and vaccinated.
 in obtaining an animal impounded by the Village. Such register may be
 categorized by the breed desired and should be set up to give the person who has
 been registered the longest period of time the first chance to obtain the
-animal.  
+animal.\
 (Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.21   Court order to remove or destroy animal
@@ -887,7 +887,7 @@ animal without provocation, or if the court determines that the owner of the
 animal has habitually permitted such animal to run at large, or violated this
 chapter on one or more occasions, the court may, in order to protect the health,
 welfare, safety and property of the Village's inhabitants, order that such
-animal be destroyed or permanently banished from the Village.  
+animal be destroyed or permanently banished from the Village.\
 (Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.22   Designation of dog as "dangerous" and "vicious"
@@ -906,7 +906,7 @@ two (2) following ways:
     property at which the person resides.
 
 2. _(b)_ Any dog declared to be vicious by the Chief of Police is a final order
-and appealable to the Bedford Municipal Court.  
+and appealable to the Bedford Municipal Court.\
 (Ord. 2020-36. Passed 10-12-20.)
 
 ## 505.23   Dangerous and vicious dog appeal
@@ -923,7 +923,7 @@ Police or the Cuyahoga County Board of Health from impounding the dog if
 otherwise permitted by this chapter or other provisions of law and shall not in
 any way relieve the owner or other person harboring or having care or control of
 the dog from civil or criminal liability for injury or damage caused by the dog
-or for violations of provisions of this chapter other than Section 505.18.  
+or for violations of provisions of this chapter other than Section 505.18.\
 (Ord. 2020-36. Passed 10-12-20; Ord. 2020-46. Passed 11-9-20.)
 
 ## 505.99   Penalty

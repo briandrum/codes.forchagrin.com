@@ -46,7 +46,7 @@ parking areas so as to lessen car movements in areas of congestion; and
 
 3. _(c)_ To promote the general convenience, welfare and prosperity of
 institutional, residential, retail business and industrial developments which
-depend upon off-street parking and off-street loading facilities.  
+depend upon off-street parking and off-street loading facilities.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.02   Off-street parking facilities; when required
@@ -88,7 +88,7 @@ condition precedent to the occupancy of such building or use.
     number of dwelling units, seating capacity, floor area or number of
     establishments. For purposes of this section "establishment" shall be
     considered a use or uses occupying a space which is defined by exclusive
-    access and walls separating such use or uses from all other uses.  
+    access and walls separating such use or uses from all other uses.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.03   Continuation of parking facilities
@@ -108,7 +108,7 @@ continue the use of such land for off-street parking accessory to the
 residential, institutional, business or industrial use for which such parking
 areas are required, such covenant first be reviewed and approved by the Law
 Director, to be filed among the records of Cuyahoga County, and enforceable by
-the Municipality.  
+the Municipality.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.04   Standards and definitions
@@ -150,7 +150,7 @@ lot as the dwelling served.
 line or public sidewalk.
 
 8. _(h)_ No off-street parking space shall be located so that any portion
-extends over any lot line, public sidewalk or public right of way.  
+extends over any lot line, public sidewalk or public right of way.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.05   Schedule of required off-street parking spaces
@@ -202,7 +202,7 @@ any customer entrance to the building or use. The Planning and Zoning Commission
 shall permit such facilities only if it determines that the pedestrian route
 between the parking area and the subject use is safe and does not necessitate
 unlawful trespassing, and continuous parking is available pursuant to covenants
-in compliance with Section 1141.03  
+in compliance with Section 1141.03\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.07   Separate or combined use of facilities
@@ -224,7 +224,7 @@ be covenants in compliance with Section 1141.03 covering a period of time as may
 be required by the Planning and Zoning Commission and provided, further, that
 should any of the uses be changed or the facilities discontinued, then the
 required spaces for the use remaining shall be provided elsewhere as a condition
-precedent to the continued use of such building or buildings.  
+precedent to the continued use of such building or buildings.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.08   Pedestrian and motor vehicle safety
@@ -243,7 +243,7 @@ installed include, but are not limited to:
 
 4. _(d)_ Motor vehicle directional arrows.
 
-5. _(e)_ Continuous landscaped strips for pedestrian only traffic.  
+5. _(e)_ Continuous landscaped strips for pedestrian only traffic.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.09   Access drives to parking areas
@@ -280,7 +280,7 @@ schedule:
     In all cases the radius of the edge of the apron shall be at least fifteen
     feet so that a car entering from the curb lane shall be perpendicular to the
     setback line at the driveway without obstructing vehicles in other traffic
-    lanes.  
+    lanes.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.10   Off-street loading facilities
@@ -292,7 +292,7 @@ not be used for repair or servicing of motor vehicles. Space required and
 allocated for off-street parking shall not be allocated or used to satisfy the
 space requirements for off-street loading, and off-street loading spaces shall
 not be allocated or used to satisfy the space requirements for off-street
-parking.  
+parking.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.11   Location of loading spaces
@@ -301,7 +301,7 @@ All required loading spaces shall be located on the same lot as the use served
 and arranged so that a public street or sidewalk will not be occupied during the
 loading or unloading process. Such spaces may be open or enclosed. They shall
 not be located in any setback or less than fifty feet from a residential
-district.  
+district.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.12   Size of loading space
@@ -317,7 +317,7 @@ space.
 2. _(b)_ Uses for which off-street loading facilities are otherwise required but
 which are located for buildings of less than 5,000 square feet of floor area
 shall be provided with a receiving platform or other facilities contiguous to a
-service drive or other open space on the same lot.  
+service drive or other open space on the same lot.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.13   Schedule of loading space requirements
@@ -356,12 +356,12 @@ frontage shall be a minimum of five feet wide and in accordance with Sections
 1142.05 and 1142.06 of this Planning and Zoning Code.
 
 4. _(d)_ The driveways, parking area pavement, curbs and bumper guards shall be
-constructed in accord with standards established by the Municipal Engineer.  
+constructed in accord with standards established by the Municipal Engineer.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.15   Illumination of parking and loading areas
 
-Regulated in Chapter 1150 of this Planning and Zoning Code.  
+Regulated in Chapter 1150 of this Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.16   Approval of parking and loading plans
@@ -369,7 +369,7 @@ Regulated in Chapter 1150 of this Planning and Zoning Code.
 Detailed drawings of off-street parking and loading areas, except for one and
 two-family dwellings shall be submitted to the Planning and Zoning Commission
 for approval. The drawings shall show each space, dimension of driveways, aisles
-and other features enumerated in this chapter.  
+and other features enumerated in this chapter.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1141.17   Performance bond required
@@ -378,5 +378,5 @@ The Administrator may require a performance bond for any grading, curbing,
 paving, striping or lighting of parking lots when the work is required under
 Chapter 1150 or Section 1141.14. The amount of the performance bond shall be
 determined by the Administrator and be in relationship to the amount of work
-being performed.  
+being performed.\
 (Ord. 2019-39. Passed 8-13-19.)

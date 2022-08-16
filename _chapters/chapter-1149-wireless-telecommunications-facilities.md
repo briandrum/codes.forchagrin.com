@@ -35,7 +35,7 @@ towers within the Municipality.
 3. _(c)_ To require the prompt removal of obsolete or vacated facilities.
 
 4. _(d)_ To exclude from these regulations those installations and systems used
-by amateur radio operators.  
+by amateur radio operators.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1149.02   Definitions
@@ -74,7 +74,7 @@ land-based telephone lines.
 
 9. _(i)_ "Wireless telecommunications tower" means a structure intended to
 support equipment used to transmit and/or receive telecommunications signals
-including monopoles, guyed and lattice construction steel structures.  
+including monopoles, guyed and lattice construction steel structures.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1149.03   Administrative procedures
@@ -181,7 +181,7 @@ such information, the Planning and Zoning Commission, based on substantial
 evidence, and within a reasonable time, may approve or deny the application, or
 may require modification of the proposed facility. The applicant shall pay all
 fees for services of the expert consultant deemed reasonable and necessary by
-the Planning and Zoning Commission.  
+the Planning and Zoning Commission.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1149.04   General requirements
@@ -236,7 +236,7 @@ repair or maintenance being made to the installation.
 requirements.
 
 12. _(l)_ Existing vegetation, primarily trees and shrubs, shall be preserved to
-the maximum extent possible.  
+the maximum extent possible.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1149.05   Minimum area, height and design requirements
@@ -274,7 +274,7 @@ shelter having a separate outside entrance.
 
 5. _(e)_ **Access.**  Provided along the circulation driveways of the existing
 use without interfering with the parking or vehicular circulation for the main
-use if present.  
+use if present.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1149.06   Abandonment
@@ -292,7 +292,7 @@ may remove or will contract to have removed the tower facility and related
 structures and equipment at the owner/operator's cost. If the owner/ operator
 does not pay for removal, the Municipality shall have a lien on the tower
 facility and related equipment and structures until paid and may record the lien
-with the Cuyahoga County Recorder.  
+with the Cuyahoga County Recorder.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1149.07   Supplemental regulations
@@ -311,5 +311,5 @@ to review by the Architectural Board of Review in accordance with Chapter 1146,
 Historic Preservation Regulations.
 
 4. _(d)_ No advertising is permitted anywhere on the facility with the exception
-of incidental signs as permitted by Chapter 1143, Signs.  
+of incidental signs as permitted by Chapter 1143, Signs.\
 (Ord. 2019-39. Passed 8-13-19.)

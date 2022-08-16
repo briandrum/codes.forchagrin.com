@@ -19,7 +19,7 @@ by a majority vote of all members of Council. The Director of Finance may be
 removed from office by the Mayor, but such removal shall not take place without
 the concurrence of a majority of all the members of Council,
 
-Any vacancy in said office shall be filled by the same procedure.  
+Any vacancy in said office shall be filled by the same procedure.\
 (Amended 11-4-86)
 
 ## Section V-2: Qualifications
@@ -27,7 +27,7 @@ Any vacancy in said office shall be filled by the same procedure.
 The Director of Finance shall not hold any other public position or office,
 except as otherwise provided in this Charter or by ordinance enacted thereunder,
 and that of notary public or membership in the State Militia or reserve corps of
-the United States.  
+the United States.\
 (Amended 11-8-66)
 
 ## Section V-3: Duties
@@ -57,7 +57,7 @@ proceedings of Council and shall authenticate all records, documents and
 instruments of the Municipality on which authentication is necessary.
 
 6. _(f)_ Perform such other duties as may be prescribed by Council not
-inconsistent with the provisions of this Charter.  
+inconsistent with the provisions of this Charter.\
 (Amended 11-8-66)
 
 ## Section V-4: Assistant director of finance and employees in department of finance

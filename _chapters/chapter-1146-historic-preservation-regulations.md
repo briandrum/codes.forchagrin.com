@@ -45,7 +45,7 @@ environmental changes which diminish the area's unique historic character;
 the traditional village land use pattern; and
 
 5. _(e)_ To avoid demolition of or incompatible alterations to historic
-structures.  
+structures.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1146.02   Applicability
@@ -59,7 +59,7 @@ terms.
 
 2. _(b)_ The painting of buildings and structures shall not be governed by these
 regulations. For the purposes of this Chapter a structure shall include building
-or a portion thereof.  
+or a portion thereof.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1146.03   Administrative procedures
@@ -171,7 +171,7 @@ the terms of Chapter 1111 of the Codified Ordinances.
 by the Administrator for thirty (30) days following the final administrative
 adjudication by the Municipality, and in the event the appellate court(s)
 reviewing the matter issue a stay, no demolition permit shall be issued pending
-the final outcome of the administrative appeal.  
+the final outcome of the administrative appeal.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1146.04   Standards of review
@@ -261,7 +261,7 @@ this Chapter:
     4. _(4)_ If a party proposes the demolition of a Historically Significant
     Property, that party bears the burden of proving, by clear and convincing
     evidence, that the demolition is permissible pursuant to Section 1146.06
-    hereof.  
+    hereof.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1146.05   Definitions
@@ -359,7 +359,7 @@ a known craftsman of consummate skill, or an anonymous craftsman whose work is
 distinguishable from others by its characteristic style and quality. The
 property must express a particular phase in the development of the master's
 career, an aspect of the master's work, or a particular idea or theme in the
-master's craft.  
+master's craft.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1146.06   Demolition and moving
@@ -396,7 +396,7 @@ conditions exist:
 2. _(b)_ **Moving.**  No Historically Significant Property may be moved from its
 current location unless the Architectural Board of Review determines that the
 moving of the structure will not materially and adversely impact the historical
-character of the structures more than 50 years old in Proximity.  
+character of the structures more than 50 years old in Proximity.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1146.07   Maintenance requirements
@@ -413,7 +413,7 @@ exterior appearance.
 3. _(c)_ The owner of any structure, even if vacant and uninhabited, shall
 provide sufficient maintenance and upkeep for such structure to ensure its
 perpetuation and to prevent its destruction by deterioration. This provision
-shall be in addition to all other applicable provisions of the Building Code.  
+shall be in addition to all other applicable provisions of the Building Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1146.08   Supplemental regulations
@@ -464,5 +464,5 @@ District as set forth in Section 1138.04.
 13. _(m)_ Design standards for signs as set forth in Section 1143.08.
 
 14. _(n)_ Design standards for cluster development as set forth in Section
-1126.05(d) and 1125.05(h).  
+1126.05(d) and 1125.05(h).\
 (Ord. 2019-39. Passed 8-13-19.)

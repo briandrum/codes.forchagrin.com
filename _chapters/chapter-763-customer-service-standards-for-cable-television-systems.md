@@ -35,7 +35,7 @@ cable operator shall be relieved of any obligations hereunder if it is unable to
 perform due to a region-wide natural emergency or in the event of a force
 majeure condition affecting a significant portion of the franchise area. The
 cable operator is free to exceed these standards to the benefit of its customers
-and such shall be considered performance for the purposes of these standards.  
+and such shall be considered performance for the purposes of these standards.\
 (Ord. 2007-23. Passed 3-26-07.)
 
 ## 763.02   Definitions
@@ -55,7 +55,7 @@ not limited to, special promotions, pay-per-view events, rate increases, regular
 peak or seasonal demand periods, and maintenance or upgrade of the cable system.
 
 3. _(c)_ **Service Interruption.** Means the loss of picture or sound on one or
-more cable channels.  
+more cable channels.\
 (Ord. 2001-18. Passed 3-12-01.)
 
 ## 763.03   Customer service
@@ -359,7 +359,7 @@ in all contacts with customers.
     Officer determines after such investigation that there is probable cause to
     credit the allegations of the complaint, the Complaint Officer shall notify
     the cable operator and complainant and promptly endeavor to resolve the
-    matter by conciliation and persuasion.  
+    matter by conciliation and persuasion.
 
         In the event that the Complaint Officer is unable to obtain conciliation
         within a reasonable time, the matter shall be promptly set for a hearing
@@ -395,7 +395,7 @@ in all contacts with customers.
 
     6. _(6)_ The cable operator shall notify each subscriber at the time of
     initial installation of the name and address of the Village Complaint
-    Officer and of the procedures contained in this section.  
+    Officer and of the procedures contained in this section.\
     (Ord. 2001-18. Passed 3-12-01.)
 
 ## 763.04   Customer dissatisfaction with any service
@@ -405,7 +405,7 @@ programming service previously ordered shall have disconnection effective on the
 day such request is made. The customer will not be charged thereafter for any
 service disconnected and, in the case of a service for which the customer has
 prepaid, the customer shall promptly be provided a credit for or sent a refund
-of the unused portion of the prepaid amount.  
+of the unused portion of the prepaid amount.\
 (Ord. 2001-18. Passed 3-12-01.)
 
 ## 763.05   Safety
@@ -416,7 +416,7 @@ standards, and in such manner as shall not unduly interfere with or endanger
 persons or property. Whenever the cable operator receives notice that an unsafe
 condition exists with respect to its equipment, the cable operator shall
 investigate such condition immediately and shall take such measures as are
-necessary to remove or eliminate any unsafe condition.  
+necessary to remove or eliminate any unsafe condition.\
 (Ord. 2001-18. Passed 3-12-01.)
 
 ## 763.99   Penalty
@@ -424,5 +424,5 @@ necessary to remove or eliminate any unsafe condition.
 Should it be found that after conducting the hearing and appeal procedure
 provided in this chapter, that the cable operator is in violation of the terms
 of the service standards, the penalties chargeable shall be as outlined and
-limited in Section 19 of the Franchise Agreement.  
+limited in Section 19 of the Franchise Agreement.\
 (Ord. 2001-18. Passed 3-12-01.)

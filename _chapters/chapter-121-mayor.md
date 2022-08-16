@@ -29,5 +29,5 @@ title: "Chapter 121: Mayor"
 
 Except as otherwise provided in Chapter 105, the Mayor is hereby authorized to
 make purchases on behalf of the Village without formal bidding and without
-Council approval in an amount not to exceed fifty thousand dollars ($50,000).  
+Council approval in an amount not to exceed fifty thousand dollars ($50,000).\
 (Ord. 2012-03. Passed 1-23-12.)

@@ -18,7 +18,7 @@ title: "Article III: Mayor"
 The Mayor shall be elected at the regular Municipal election held in the year
 2007 and every four years thereafter for a term of four years commencing on the
 first day of January next following such election, and shall serve until a
-successor is elected and qualified.  
+successor is elected and qualified.\
 (Amended 11-7-06)
 
 ## Section III-2: Qualifications
@@ -53,7 +53,7 @@ Council is absent from the Municipality, or for any reason is unable to perform
 the duties of acting Mayor, when the Mayor is for any reason unable to perform
 Mayoral duties, the President pro tem of Council shall become the acting Mayor,
 and while so acting shall have all the powers and duties of the Mayor, but shall
-not thereby cease to be President pro tem of Council.  
+not thereby cease to be President pro tem of Council.\
 (Amended 11-4-86)
 
 2. _(b)_ **Vacancy.** If the office of Mayor becomes vacant, the President of
@@ -73,7 +73,7 @@ elected at the organization meeting following such regular Municipal election
 shall become Mayor for that portion of the term as provided above. The election
 for Mayor for the balance of the remaining term, when the office of Mayor
 becomes vacant, shall be held at the next general election which is more than
-one hundred twenty (120) days after the office of Mayor becomes vacant.  
+one hundred twenty (120) days after the office of Mayor becomes vacant.\
 (Amended 11-2-21)
 
 ## Section III-5: Duties and powers
@@ -149,5 +149,5 @@ journal.
 
 4. _(d)_ **Judicial Powers.** The Mayor shall have all the judicial powers
 granted from time to time by the general laws of the State of Ohio to mayors of
-municipalities of the class of this Municipality.  
+municipalities of the class of this Municipality.\
 (Amended 11-2-76; 11-8-11)

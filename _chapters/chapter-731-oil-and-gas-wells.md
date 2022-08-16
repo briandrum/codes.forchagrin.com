@@ -32,7 +32,7 @@ visitors to the Village; and
 
 2. _(b)_ To assure that all areas of the Village are protected from the
 encroachment of well drilling, storage and other equipment and from vehicles
-used in the drilling of and production from such wells.  
+used in the drilling of and production from such wells.\
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.02   Application requirements; review and permit procedures
@@ -168,7 +168,7 @@ and the permit shall only be granted subject to the following:
     application has been reviewed by the Fire Chief and the Planning Commission
     has been notified in writing by the Fire Chief that, for those aspects of
     the application pertaining to fire safety, the application is satisfactory
-    as submitted, or as amended by the applicant.  
+    as submitted, or as amended by the applicant.\
     (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.03   Development standards
@@ -308,7 +308,7 @@ shall be located to conform with the following:
     permittees' premises shall be kept clear of high grass, weeds and
     combustible trash or any other rubbish or debris that might constitute a
     fire hazard within a radius of 100 feet around any oil tank or tanks, or
-    producing wells.  
+    producing wells.\
     (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.04   Operational standards
@@ -393,7 +393,7 @@ shall be located to conform with the following:
     4. _(4)_ All trucks hauling oil, sludge water, salt water, petroleum
     products or by-products, shall be closed and leakproof at all times and the
     intake vent and outlet valves and pump connections shall be watertight and
-    leakproof.  
+    leakproof.\
     (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.05   Future development adjacent to well and storage sites
@@ -415,7 +415,7 @@ the Division of Oil and Gas, the following development regulations shall apply:
     3. _(3)_ No building or structures shall be constructed within the
     easements, pursuant to subsections (b)(1) and (2) hereof, except fences,
     parking lots, walkways, playground equipment and other similar type
-    equipment and landscape features.  
+    equipment and landscape features.\
     (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.06   Administration
@@ -502,14 +502,14 @@ satisfactorily plugged in accordance with the regulations of the Division.
     has been satisfactorily plugged in accordance with the regulations of the
     Division. Until the surety bond is released by the Chief Administrative
     Officer in writing, such bond shall remain in full force and effect for the
-    benefit of the Village.  
+    benefit of the Village.\
     (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.07   State regulations incorporated by reference
 
 All related rules and regulations (as amended) promulgated by the Department of
 Natural Resources Division of Oil and Gas are hereby incorporated by reference
-as part of this chapter.  
+as part of this chapter.\
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.08   Definitions
@@ -537,7 +537,7 @@ lift equipment or the removal of tubing obstructions such as paraffin or sand.
 and the driller which enables the driller to include more than one separately
 owned parcel as part of the well site and commits these parcels to comply with
 the regulations of this chapter and the requirements of the Division of Oil and
-Gas.  
+Gas.\
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.09   Variance from development standards
@@ -548,12 +548,12 @@ development standards, or by any interested party who disagrees with the
 granting of a permit as being in compliance with these development standards
 contained herein. In reviewing the applications for development standard
 variances, the Board of Zoning Appeals shall follow the requirements for
-granting variances in the Zoning Code of the Village of Chagrin Falls.  
+granting variances in the Zoning Code of the Village of Chagrin Falls.\
 (Ord. 2004-17. Passed 5-10-04.)
 
 ## 731.99   Penalty
 
 Whoever violates any of the foregoing regulations or orders issued pursuant to
 the foregoing sections, shall be guilty of a misdemeanor of the first degree.
-Each day shall constitute a separate offense.  
+Each day shall constitute a separate offense.\
 (Ord. 2004-17. Passed 5-10-04.)

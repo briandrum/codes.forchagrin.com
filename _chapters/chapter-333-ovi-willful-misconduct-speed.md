@@ -212,7 +212,7 @@ of the operation, any of the following apply:
 3. _(c)_ **One Conviction Limitation.** In any proceeding arising out of one
 incident, a person may be charged with a violation of subsection (a)(1)A. or
 (a)(2) and a violation of subsection (b)(1), (2) or (3) of this section, but the
-person may not be convicted of more than one violation of these subsections.  
+person may not be convicted of more than one violation of these subsections.\
 (ORC 4511.99)
 
 4. _(d)_ **Physical Control.**
@@ -283,7 +283,7 @@ person may not be convicted of more than one violation of these subsections.
         this subsection regarding the admission of evidence does not extend or
         affect the two-hour time limit specified in Ohio R.C. 4511.192(A) as the
         maximum period of time during which a person may consent to a chemical
-        test or tests as described in that section.  
+        test or tests as described in that section.
 
             The court may admit evidence on the concentration of alcohol, drugs
             of abuse, or a combination of them as described in this section when
@@ -385,7 +385,7 @@ person may not be convicted of more than one violation of these subsections.
         supported by probable cause or its determination of any other matter in
         a criminal prosecution or juvenile court proceeding of a type described
         in that subsection, from considering evidence or testimony that is not
-        otherwise disallowed by subsection (e)(4)B. of this section.  
+        otherwise disallowed by subsection (e)(4)B. of this section.\
         (ORC 4511.19; 4511.194)
 
 6. _(f)_ **Forensic Laboratory Reports.**
@@ -451,7 +451,7 @@ emergency medical service organization that employs an emergency medical
 technician-intermediate or emergency medical technician-paramedic who withdraws
 blood under this section. The immunity provided in this subsection is not
 available to a person who withdraws blood if the person engaged in willful or
-wanton misconduct.  
+wanton misconduct.
 
     As used in this subsection, "emergency medical technician-intermediate" and
     "emergency medical technician-paramedic" have the same meanings as in Ohio
@@ -637,13 +637,13 @@ wanton misconduct.
             probationary license, or nonresident operating privilege for a
             definite period of one to seven years. The court may grant limited
             driving privileges relative to the suspension under Ohio R.C.
-            4510.021 and 4510.13.  
+            4510.021 and 4510.13.\
             (ORC 4511.19)
 
             5. _(5)_ In all cases, if the vehicle is registered in the
             offender's name, immobilization of the vehicle involved in the
             offense for ninety days in accordance with Ohio R.C. 4503.233 and
-            impoundment of the license plates of that vehicle for ninety days.  
+            impoundment of the license plates of that vehicle for ninety days.\
             (ORC 4511.193)
 
         3. _(C)_ Except as otherwise provided in subsection (h)(1)E. of this
@@ -691,14 +691,14 @@ wanton misconduct.
             probationary license, or nonresident operating privilege for a
             definite period of two to twelve years. The court may grant limited
             driving privileges relative to the suspension under Ohio R.C.
-            4510.021 and 4510.13.  
+            4510.021 and 4510.13.\
             (ORC 4511.19)
 
             5. _(5)_ In all cases, if the vehicle is registered in the
             offender's name, criminal forfeiture of the vehicle involved in the
             offense in accordance with Ohio R.C. 4503.234. Subsection (h)(5) of
             this section applies regarding any vehicle that is subject to an
-            order of criminal forfeiture under this subsection.  
+            order of criminal forfeiture under this subsection.\
             (ORC 4511.193)
 
             6. _(6)_ In all cases, the court shall order the offender to
@@ -886,7 +886,7 @@ underage alcohol consumption and shall be punished as follows:
     for any economic loss arising from an accident or collision that was the
     direct and proximate result of the offender's operation of the vehicle
     before, during or after committing the violation of subsection (b) of this
-    section.  
+    section.\
     (ORC 4511.19)
 
 10. _(j)_ **Physical Control Penalty.** Whoever violates subsection (d) hereof
@@ -895,7 +895,7 @@ misdemeanor of the first degree. In addition to other sanctions imposed, the
 court may impose on the offender a class seven suspension of the offender's
 driver's license, commercial driver's license, temporary instruction permit,
 probationary license, or nonresident operating privilege from the range
-specified in division (A)(7) of Ohio R.C. 4510.02.  
+specified in division (A)(7) of Ohio R.C. 4510.02.\
 (ORC 4511.194)
 
 11. _(k)_ Compliance With Ohio R.C. Chapter 5119 Standards.
@@ -942,13 +942,13 @@ concentration of alcohol.
 this section. If the meaning of a term defined in Ohio R.C . 4510.01 conflicts
 with the meaning of the same term as defined in Ohio R.C. 4501.01 or this
 Traffic Code, the term as defined in Ohio R.C. 4510.01 applies to this
-section.  
+section.\
 (ORC 4511.19)
 
 16. _(p)_ Indigent Drivers Alcohol Treatment Fund. Twenty-five dollars ($25.00)
 of any fine imposed for a violation of subsection (a) hereof shall be deposited
 into the municipal or county indigent drivers alcohol treatment fund pursuant to
-Ohio R.C. 4511.193.  
+Ohio R.C. 4511.193.\
 (ORC 4511.193)
 
 17. _(q)_ **Definitions.** As used in this section:
@@ -1033,7 +1033,7 @@ Ohio R.C. 4511.193.
         equivalent to division (A) or (B) of Ohio R.C. 4511.19;
 
         3. _(C)_ A violation of a former law of this state that was
-        substantially equivalent to division (A) or (B) of Ohio R.C. 4511.19.  
+        substantially equivalent to division (A) or (B) of Ohio R.C. 4511.19.\
         (ORC 4511.181)
 
 ## 333.02   Reckless operation; willful misconduct
@@ -1043,7 +1043,7 @@ regard for the safety of persons or property.
 
 2. _(b)_ No person shall operate a vehicle on any public or private property
 other than streets or highways, without due regard for the safety of persons or
-property.  
+property.
 
     This subsection does not apply to the competitive operation of vehicles on
     public or private property when the owner of such property knowingly permits
@@ -1054,11 +1054,11 @@ or wanton disregard of the safety of persons or property.
 
 4. _(d)_ No person shall operate a vehicle on any public or private property
 other than streets or highways in willful or wanton disregard of the safety of
-persons or property.  
+persons or property.
 
     This subsection does not apply to the competitive operation of vehicles on
     public or private property when the owner of such property knowingly permits
-    such operation thereon.  
+    such operation thereon.\
     (Ord. 1983-7. Passed 3-14-83.)
 
 5. _(e)_ Except as otherwise provided in this subsection, whoever violates this
@@ -1068,7 +1068,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.201)
 
 6. _(f)_ Whenever a person is found guilty under this section of operating a
@@ -1076,7 +1076,7 @@ motor vehicle in violation of this section relating to reckless operation, the
 trial court of any court of record, in addition to or independent of all other
 penalties provided by law, may impose a class five suspension of the offender's
 driver's or commercial driver's license or permit or nonresident operating
-privilege from the range specified in division (A)(5) of Ohio R.C. 4510.02.  
+privilege from the range specified in division (A)(5) of Ohio R.C. 4510.02.\
 (ORC 4510.15)
 
 ## 333.03   Maximum speed limits; assured clear distance ahead
@@ -1353,7 +1353,7 @@ limits posted upon such signs.
     4. _(4)_ If the offender commits the offense while distracted and the
     distracting activity is a contributing factor to the commission of the
     offense, the offender is subject to the additional fine established under
-    Section 303.991 of the Traffic Code.  
+    Section 303.991 of the Traffic Code.\
     (ORC 4511.21)
 
 ### 333.031   Approaching a stationary public safety, emergency or road service vehicle
@@ -1419,7 +1419,7 @@ this section.
 offense and Ohio R.C. 2901.20 does not apply. The designation of this offense as
 a strict liability offense shall not be construed to imply that any other
 offense, for which there is no specified degree of culpability, is not a strict
-liability offense.  
+liability offense.\
 (ORC 4511.213)
 
 ## 333.04   Stopping vehicle; slow speed; posted minimum speeds
@@ -1448,12 +1448,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.22)
 
 ## 333.05   Speed limitations over bridges
@@ -1477,12 +1477,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.23)
 
 ## 333.06   Speed exceptions for emergency or safety vehicles
@@ -1495,7 +1495,7 @@ distance of 500 feet to the front of the vehicle and when the drivers thereof
 sound audible signals by bell, siren or exhaust whistle. This section does not
 relieve the driver of an emergency vehicle or public safety vehicle from the
 duty to drive with due regard for the safety of all persons using the street or
-highway.  
+highway.\
 (ORC 4511.24)
 
 ## 333.07   Street racing prohibited
@@ -1505,7 +1505,7 @@ more vehicles from a point side by side at accelerating speeds in a competitive
 attempt to out-distance each other or the operation of one or more vehicles over
 a common selected course, from the same point to the same point, wherein timing
 is made of the participating vehicles involving competitive accelerations or
-speeds.  
+speeds.
 
     Persons rendering assistance in any manner to such competitive use of
     vehicles shall be equally charged as the participants. The operation of two
@@ -1523,7 +1523,7 @@ the offender's driver's license, commercial driver's license, temporary
 instruction permit, probationary license or nonresident operating privilege for
 not less than thirty days or more than three years. No judge shall suspend the
 first thirty days of any suspension of an offender's license, permit, or
-privilege imposed under this subsection.  
+privilege imposed under this subsection.\
 (ORC 4511.251)
 
 ## 333.08   Operation in violation of immobilization order
@@ -1539,7 +1539,7 @@ subsection (a) hereof shall be criminally forfeited in accordance with the
 procedures contained in Ohio R.C. 4503.234.
 
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the second
-degree.  
+degree.\
 (ORC 4503.236)
 
 ## 333.09   Electronic wireless communications device regulations
@@ -1586,5 +1586,5 @@ section shall not apply when:
 
     4. _(4)_ Safety and public service personnel, employed by a governmental
     agency, are using electronic wireless communications devices in the course
-    of their work.  
+    of their work.\
     (Ord. 2015-03. Passed 3-9-15.)

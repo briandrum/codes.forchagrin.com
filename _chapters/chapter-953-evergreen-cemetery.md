@@ -66,7 +66,7 @@ Cemetery to encase human or cremated remains.
 
 11. _(k)_ "Contractor" shall mean any person, firm or corporation or anyone
 other than an employee of the Village engaged in placing erecting or repairing
-any memorial or monument and performing any work on the Cemetery grounds.  
+any memorial or monument and performing any work on the Cemetery grounds.\
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 953.02   General
@@ -106,7 +106,7 @@ Cemetery purposes, including the interring and preparing for interment of human
 remains, or for anything necessary, incidental or convenient thereto. The
 Village reserves to itself and to those lawfully entitled thereto and those
 permitted by the Village to do so, a perpetual right of ingress and egress over
-graves for the purpose of passage to and from other graves.  
+graves for the purpose of passage to and from other graves.\
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 953.03   Purchase of graves and mausoleums
@@ -144,7 +144,7 @@ current sales price, at the discretion of the Village.
 7. _(g)_ Graves may be transferred by will or the laws of Ohio if intestate, and
 a new deed will be issued by the Cemetery Clerk for purpose of record. No other
 transfers shall be permitted, except resale to the Village of Chagrin Falls
-pursuant to Subsection 953.03(g).  
+pursuant to Subsection 953.03(g).\
 (Ord. 2017-14. Passed 3-13-17.)
 
 8. _(h)_ Mausoleums shall be permitted in Evergreen Hill Cemetery on
@@ -166,7 +166,7 @@ Administrative Officer.
 entity, other than in the event of the death of the owner of an unused mausoleum
 lot, and pursuant to their last will and testament, or intestate succession in
 accordance with Ohio law, the mausoleum lot may be transferred to their devisee,
-or next of kin in the case of intestate succession.  
+or next of kin in the case of intestate succession.\
 (Ord. 2019-28. Passed 3-25-19.)
 
 ### 953.031   Purchase of columbarium niches
@@ -183,7 +183,7 @@ Cemetery Trustees.
 2019-23.)
 
 4. _(d)_ The cost of a memorial bench is $7,500, which includes the foundation
-and engraving.  
+and engraving.\
 (Ord. 2017-14. Passed 3-13-17.)
 
 5. _(e)_ Niche prices: Two cremations may be interred in each niche.
@@ -211,7 +211,7 @@ weekday is $500.00.
 
 7. _(g)_ The cost for a niche interment before 2:00 PM Monday through Saturday
 is $600.00 for residents and non-residents. The cost for a niche interment after
-2:00 PM Monday through Saturday is $850.00.  
+2:00 PM Monday through Saturday is $850.00.\
 (Ord. 2019-23. Passed 2-26-19.)
 
 8. _(h)_ Payment is due upon the scheduling of a burial. Interments shall not be
@@ -224,7 +224,7 @@ stating that they are the sole beneficiary of the burial site.
 10. _(j)_ There shall be no burials on Sundays nor legal holidays.
 
 11. _(k)_ The Village must receive 12-hour notice (one business day) for an
-interment. There will be no burials after 12:00 p.m. (noon) on Saturdays.  
+interment. There will be no burials after 12:00 p.m. (noon) on Saturdays.\
 (Ord. 2017-14. Passed 3-13-17.)
 
 12. _(l)_ Columbarium 1 niches are 12″ long, 12″ high and 12″ wide. A single urn
@@ -232,7 +232,7 @@ maximum dimension may be 11″ wide by 11″ high by 11″ long. For two urns, t
 maximum dimension for each urn is 5″ wide by 5″ long by 11″ high. Columbarium 3
 niches are 12″ wide by 14″ long by 12″ high. Maximum dimension for a single urn
 is 11″ wide by 11″ high by 13″ long. The maximum for each urn when there are two
-urns is 5″ wide by 6″ long by 11″ high.  
+urns is 5″ wide by 6″ long by 11″ high.\
 (Ord. 2020-40. Passed 9-14-20.)
 
 13. _(m)_ Engraving of the face plate is $350.00 for one name and $525.00 for
@@ -245,7 +245,7 @@ birth & death are permitted on the face plate.
 than an urn.
 
 16. _(p)_ The cost for a disinterment is $375.00 plus the cost of replacing the
-face plate.  
+face plate.\
 (Ord. 2017-14. Passed 3-13-17.)
 
 ## 953.04   Cemetery rules and regulations
@@ -293,7 +293,7 @@ employees.
 10. _(j)_ Human remains only may be buried in the cemetery. No objects are
 permitted other than caskets, vaults, and urns.
 
-11. _(k)_ The Sexton will seed graves when weather permits.  
+11. _(k)_ The Sexton will seed graves when weather permits.\
 (Ord. 2017-14. Passed 3-13-17.)
 
 ## 953.05   Grave markers
@@ -334,14 +334,14 @@ be removed by Village employees and discarded after six (6) months.
 
 11. _(k)_ Grave markers in historic sections 1-10 shall be of a design
 consistent with the historic nature of the section. All grave markers in these
-sections must be approved by the Cemetery Commission.  
+sections must be approved by the Cemetery Commission.\
 (Ord. 2017-14. Passed 3-13-17.)
 
 ## 953.06   Authority having jurisdiction
 
 The Chief Administrative Officer shall be responsible for the administration and
 enforcement of the provisions of this Chapter and shall designate a Village
-employee to serve as Cemetery Sexton.  
+employee to serve as Cemetery Sexton.\
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 953.07   Cemetery service charges
@@ -384,7 +384,7 @@ foundation built by the cemetery sexton, pursuant to municipal specifications.
     * 6′×12″: $ 475.00
 
     No charge for 2′×12″ foundation for approved Veterans Administration
-    marker.  
+    marker.\
     (Ord. 2019-23. Passed 2-26-19.)
 
 ## 953.08   Indigent burial policy
@@ -429,7 +429,7 @@ Administrative Officer without Council approval.
 
 8. _(h)_ In the event of a conflict of the provisions of this Policy with the
 sections of the Ohio Revised Code which govern indigent burial by a
-municipality, the provisions of the Ohio Revised Code shall control.  
+municipality, the provisions of the Ohio Revised Code shall control.\
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 953.09   Violation of rules and regulations
@@ -440,7 +440,7 @@ municipal cemetery under its care and management.
 
 2. _(b)_ No person shall, without lawful authority, remove, damage or vandalize
 a tomb, monument or other marker erected to perpetuate the memory of any person
-or persons, or other property in or around a municipal cemetery.  
+or persons, or other property in or around a municipal cemetery.\
 (Ord. 2016-77. Passed 12-12-16.)
 
 ## 953.99   Penalty
@@ -448,5 +448,5 @@ or persons, or other property in or around a municipal cemetery.
 Whoever violates the provisions of this Chapter shall be guilty of a first
 degree misdemeanor and fined not more than one thousand dollars ($1,000) or
 imprisoned for not more than one year, or both. Each day such violation
-continues shall constitute a separate offense.  
+continues shall constitute a separate offense.\
 (Ord. 2016-77. Passed 12-12-16.)

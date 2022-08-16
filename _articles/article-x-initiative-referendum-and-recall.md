@@ -18,7 +18,7 @@ Ordinances and resolutions may be proposed by initiative petition and adopted by
 election, and ordinances and resolutions adopted by Council shall be subject to
 referendum, to the extent and in the manner now or hereafter provided by the
 Constitution or laws of the State of Ohio. Initiative and referendum petitions
-shall be filed with the Clerk of Council.  
+shall be filed with the Clerk of Council.\
 (Amended 11-2-76)
 
 ## Section X-2: Recall
@@ -52,7 +52,7 @@ negatively, such officer shall remain in office. If a majority of the votes cast
 shall be voted affirmatively, such officer shall be considered as removed, the
 office shall be deemed vacant, and such vacancy shall be filled as provided in
 this Charter. The officer removed by such recall election shall not be eligible
-for appointment to the vacancy created thereby.  
+for appointment to the vacancy created thereby.\
 (Amended 11-2-76; 11-7-17)
 
 ## Section X-3: Petitions
@@ -141,7 +141,7 @@ shall be set with at least ten (10) days advance notice. The notice shall
 conform to the requirements for notification of public hearings whenever any
 amendment to the Planning and Zoning Code and/or Zoning Map of the Municipality
 is being proposed as provided in the Planning and Zoning Code of the
-Municipality. Public hearings shall be held at a regular Council meeting.  
+Municipality. Public hearings shall be held at a regular Council meeting.\
 (Amended 11-2-21)
 
 ## Section X-4: Rezoning-referendum
@@ -159,5 +159,5 @@ within thirty (30) days after Council has passed the ordinance over a veto; the
 Municipal Clerk shall certify the text of the ordinance to the Cuyahoga County
 Board of Elections for submission to the electors of the Municipality for
 rejection or approval at the next succeeding general, primary or special
-election in the Municipality.  
+election in the Municipality.\
 (Amended 11-8-16.)

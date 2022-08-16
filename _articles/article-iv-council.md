@@ -28,7 +28,7 @@ chosen and qualified. At the general election in calendar year 2023, three (3)
 members of Council shall be elected to a term of four (4) years and four (4)
 members of Council shall be elected to a term of two (2) years. Thereafter, all
 Council terms shall be for a period of four (4) years, with four (4) members of
-Council being first elected in calendar year 2025 to four (4) year terms.  
+Council being first elected in calendar year 2025 to four (4) year terms.\
 (Amended 11-3-81; 11-8-11; 11-2-21)
 
 ## Section IV-2: Qualifications
@@ -44,7 +44,7 @@ State Militia or reserve corps of the United States.
 Any member of Council who shall cease to possess, or who violates any of the
 qualifications herein enumerated may be removed from office, but failure to
 maintain said qualifications shall not render void or ineffective any action of
-Council in which such member has participated.  
+Council in which such member has participated.\
 (Amended 11-2-76)
 
 ## Section IV-3: Organization
@@ -52,7 +52,7 @@ Council in which such member has participated.
 On the second day of January each year (or if such date be a Saturday or Sunday,
 then the following Monday), the Council shall meet in the Council Chamber for
 the purpose of organization. The Council shall adopt its own rules, regulations
-and/or by-laws except as otherwise provided in this Charter.  
+and/or by-laws except as otherwise provided in this Charter.\
 (Amended 11-3-81)
 
 ## Section IV-4: President of council and president pro tem
@@ -106,7 +106,7 @@ open to the public, which may be by live attendance or, when permitted by law,
 by means of teleconference, video conference, or any other similar electronic
 technology, unless a private executive session is called pursuant to the Ohio
 Revised Code, or a private executive session is held with the Director of Law or
-an Assistant Director of Law.  
+an Assistant Director of Law.\
 (Amended 11-8-88; 11-2-21)
 
 ## Section IV-8: Power and duties
@@ -158,7 +158,7 @@ any Assistant Director of Law.
 required, whenever Council determines that the predetermined purpose, by
 existing Ordinance, to which portions of income tax revenues are to be
 allocated, must be reallocated for any one (1) budget year appropriation, due to
-exigent circumstances existing at the time such reallocation action is taken.  
+exigent circumstances existing at the time such reallocation action is taken.\
 (Amended 11-8-16; 11-2-21)
 
 ## Section IV-8A: Administrative authority
@@ -183,7 +183,7 @@ variance. Notice of the hearing by Council shall be given as provided in the
 Planning and Zoning Code. If three (3) or more Members of Council fail to
 request a hearing within fifteen (15) days after notification of the decision of
 the Board of Zoning Appeals is received by the Clerk of Council, the decision of
-the Board of Zoning Appeals shall be final.  
+the Board of Zoning Appeals shall be final.\
 (Amended 11-8-16)
 
 ## Section IV-9: Effective date of ordinances and resolutions

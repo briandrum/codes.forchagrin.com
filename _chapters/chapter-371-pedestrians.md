@@ -60,12 +60,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.46)
 
 ## 371.02   Right of way of blind person
@@ -74,7 +74,7 @@ the third degree.
 person having not more than 20/200 visual acuity in the better eye with
 correcting lenses or visual acuity greater than 20/200 but with a limitation in
 the fields of vision such that the widest diameter of the visual field subtends
-an angle no greater than twenty degrees.  
+an angle no greater than twenty degrees.
 
     The driver of every vehicle shall yield the right of way to every blind
     pedestrian guided by a guide dog, or carrying a cane which is predominately
@@ -91,12 +91,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.47)
 
 ## 371.03   Crossing roadway outside crosswalk; diagonal crossings at intersections
@@ -128,7 +128,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.48)
 
 ## 371.04   Moving upon right half of crosswalk
@@ -143,7 +143,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.49)
 
 ## 371.05   Walking along highways
@@ -171,7 +171,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.50)
 
 ## 371.06   Use of highway for soliciting; riding on outside of vehicles
@@ -248,7 +248,7 @@ area or on a tailgate of the driver's vehicle while the tailgate is unlatched.
     misdemeanor of the third degree.
 
     2. _(2)_ Whoever violates subsection (e) or (f) of this section is guilty of
-    a minor misdemeanor.  
+    a minor misdemeanor.\
     (ORC 4511.51)
 
 ## 371.07   Right of way on sidewalk
@@ -263,12 +263,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.441)
 
 ## 371.08   Yielding to public safety vehicle
@@ -287,7 +287,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.452)
 
 ## 371.09   Walking on highway while under the influence
@@ -303,7 +303,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.481)
 
 ## 371.10   On bridges or railroad crossings
@@ -323,14 +323,14 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.511)
 
 ## 371.11   Persons operating motorized wheelchairs
 
 1. _(a)_ Every person operating a motorized wheelchair shall have all of the
 rights and duties applicable to a pedestrian that are contained in this Traffic
-Code, except those provisions which by their nature can have no application.  
+Code, except those provisions which by their nature can have no application.\
 (ORC 4511.491)
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -340,7 +340,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.99)
 
 ## 371.12   Electric personal assistive mobility devices
@@ -400,14 +400,14 @@ personal assistive mobility device.
 mobility device unless the device is accompanied by a written statement that is
 substantially equivalent to the following: "WARNING: TO REDUCE THE RISK OF
 SERIOUS INJURY, USE ONLY WHILE WEARING FULL PROTECTIVE EQUIPMENT - HELMET, WRIST
-GUARDS, ELBOW PADS, AND KNEE PADS".  
+GUARDS, ELBOW PADS, AND KNEE PADS".\
 (ORC 4511.512)
 
 5. _(e)_ "Electric personal assistive mobility device" means a self-balancing
 two non-tandem wheeled device that is designed to transport only one person, has
 an electric propulsion system of an average of seven hundred fifty watts, and
 when ridden on a paved level surface by an operator who weighs one hundred
-seventy pounds has a maximum speed of less than twenty miles per hour.  
+seventy pounds has a maximum speed of less than twenty miles per hour.\
 (ORC 4501.01)
 
 6. _(f)_ Whoever violates subsection (b) or (c) hereof is guilty of a minor
@@ -439,7 +439,7 @@ misdemeanor and shall be punished as follows:
         not more than thirty days.
 
 7. _(g)_ Whoever violates subsection (d) hereof is guilty of a minor
-misdemeanor.  
+misdemeanor.\
 (ORC 4511.512)
 
 ## 371.13   Operation of personal delivery device on sidewalks and and crosswalks
@@ -535,7 +535,7 @@ and crosswalks.
 
         2. _(B)_ Any other circumstance, including a technological malfunction,
         in which a personal delivery device operates in a manner prohibited by
-        divisions (c)(1) to (c)(4) of this section.  
+        divisions (c)(1) to (c)(4) of this section.\
         (ORC 4511.513)
 
 ## 371.14   Low-speed micromobility devices
@@ -613,5 +613,5 @@ may do any of the following:
     rental service or low-speed micromobility device sharing program to maintain
     commercial general liability insurance related to the operation of the
     devices, with limits of up to one million dollars ($1,000,000) per
-    occurrence and two million dollars ($2,000,000) per aggregate.  
+    occurrence and two million dollars ($2,000,000) per aggregate.\
     (ORC 4511.514)

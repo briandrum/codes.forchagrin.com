@@ -51,7 +51,7 @@ the following subsections:
     unlawful, unreasonable or an abuse of discretion, as the case may be, the
     Board of Zoning Appeals may reverse, modify or remand the matter to the
     administrative officer, board or commission that rendered such decision.
-    Otherwise the Board of Zoning Appeals shall affirm such decision.  
+    Otherwise the Board of Zoning Appeals shall affirm such decision.\
     ([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10.md %}))
 
 ## 1111.02   Jurisdiction
@@ -78,7 +78,7 @@ the Planning and Zoning Code;
 Zoning Appeals for determination, such as a determination of district boundary
 lines or the interpretation of the Planning and Zoning Code, when the matter is
 referred to the Board of Zoning Appeals in the Planning and Zoning Code or other
-provisions of the Codified Ordinances.  
+provisions of the Codified Ordinances.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.03   Application for appeals or variances
@@ -129,7 +129,7 @@ application and information as required by the Planning and Zoning Code.
     work authorized under such permit, in accordance with Section 1307.10,
     during the pendency of the appeal. Further work performed under such permit,
     during the pendency of the appeal, shall be deemed to be in violation of
-    this provision.  
+    this provision.\
     ([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10.md %}))
 
 ## 1111.04   Notices
@@ -138,7 +138,7 @@ The Board of Zoning Appeals, upon receiving an application for a variance, or an
 appeal from the decision of the Administrator, Architectural Board of Review or
 other administrative entity, shall hold a public hearing. Notice of a public
 hearing shall be in accordance with Section 1109.09 of the Planning and Zoning
-Code.  
+Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.05   Meetings, quorum and vote
@@ -169,7 +169,7 @@ supporting their decision prior to voting on the motion.
 Board shall make its determination which shall include a decision and
 conclusions of fact. The Board shall also prepare its record in accordance with
 Section 1111.06 of this Chapter, when the matter will be referred to Council for
-review of the decision of the Board of Zoning Appeals.  
+review of the decision of the Board of Zoning Appeals.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.06   Record of decision
@@ -216,7 +216,7 @@ Council's review of the decision.
 
 6. _(f)_ The Clerk of Council shall give notice of the hearing of the request
 for review by the three (3) or more Council members to the applicant, the law
-director, and the secretary of the Board of Zoning Appeals.  
+director, and the secretary of the Board of Zoning Appeals.\
 ([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10.md %}))
 
 ## 1111.07   Reasons for granting variances
@@ -228,7 +228,7 @@ Planning and Zoning Code, after making findings of fact setting forth the
 reasons therefor, with such conditions the Board of Zoning Appeals or Council
 believes are necessary to impose in granting a variance in order that the public
 health, safety, convenience, comfort and general welfare may be safeguarded and
-substantial justice done.  
+substantial justice done.\
 ([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10.md %}))
 
 2. _(b)_ Variances shall not be granted for uses not permitted in the zoning
@@ -275,7 +275,7 @@ limited to:
     observed and substantial justice done by granting a variance; and,
 
     8. _(8)_ Whether the variance is based on circumstances that are self-
-    created or exist as a result of actions of the property owner.  
+    created or exist as a result of actions of the property owner.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.08   Variances for yards; supplemental standards
@@ -285,7 +285,7 @@ Council, the Council, may permit variations of yard regulations in a residential
 district for a lot of record, provided the Board of Zoning Appeals, or Council,
 as the case may be, finds that privacy will not be impaired, and that light and
 ventilation will be adequate on such lot and not unduly diminished on adjoining
-lots.  
+lots.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.09   Landscape and protective features
@@ -295,7 +295,7 @@ Council, the Council, upon making various determinations, shall endeavor to
 protect adjoining property, to assure safety of pedestrians and convenience of
 traffic movements within the area in question, and may require the provision of
 curbs, guard rails, walls, fences or other landscape or protective features, to
-further the purposes of this Planning and Zoning Code.  
+further the purposes of this Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1111.10   Action by council
@@ -353,7 +353,7 @@ Zoning Appeals.
 8. _(h)_ The applicant or any interested party who appeared or was represented
 at the Council meeting(s) where the matter was heard, and was harmed by the
 action of Council may appeal Council's decision pursuant to Ohio R.C.
-Chapter 2506.  
+Chapter 2506.\
 ([Ord. 2022-10. Passed 4-11-22.]({% link _posts/2022-03-14-ordinance-2022-10.md %}))
 
 ## 1111.11   Time period to file appeal
@@ -374,5 +374,5 @@ the case may be. The notice shall be sent to the e-mail address or residence or
 business address designated by the applicant when filing an application for
 relief from the Board of Zoning Appeals. Failure of the applicant to receive
 such notice shall not be a basis for tolling or extending the time period to
-file an appeal pursuant to Ohio R.C. Chapter 2506.  
+file an appeal pursuant to Ohio R.C. Chapter 2506.\
 (Ord. 2021-20. Passed 5-24-21.)

@@ -30,7 +30,7 @@ title: "Chapter 1127: Residential Districts: Attached Single-Family"
 In addition to the applicable provisions of the intent stated in Section
 1105.03, it is the intent of these district regulations to promote development
 of medium-density clustered housing in order to appropriately and efficiently
-utilize limited remaining vacant land in the community.  
+utilize limited remaining vacant land in the community.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1127.02   Permitted uses
@@ -65,7 +65,7 @@ and accessory uses set forth below:
     5. _(5)_ Signs, as regulated in Chapter 1143.
 
     6. _(6)_ Home occupations, renting of rooms as regulated in Section 1125.05
-    of this Planning and Zoning Code.  
+    of this Planning and Zoning Code.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1127.03   Area regulations
@@ -102,7 +102,7 @@ patios, etc.
 
 11. _(k)_ Utility and Storage Area: 100 square feet of utility and storage area
 provided on the ground floor or basement level of each dwelling unit in
-addition to the dwelling unit area.  
+addition to the dwelling unit area.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1127.04   Height regulations
@@ -118,7 +118,7 @@ Section 1148.05(d)(2).
 
 3. _(c)_ Exceptions to height limit: Chimneys and antennas located on a main
 building may exceed the height limit established for buildings but are limited
-to a maximum height of ten feet above the roof line.  
+to a maximum height of ten feet above the roof line.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1127.05   Yard and setback regulations
@@ -174,7 +174,7 @@ below:
 
     3. _(3)_ Structures such as porches, balconies, platforms, decks, patios,
     and similar architectural projections that exceed forty-eight (48) square
-    feet shall meet the setback requirements of the main building.  
+    feet shall meet the setback requirements of the main building.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1127.06   Distances between buildings and uses
@@ -222,7 +222,7 @@ schedule:
     | Accessory building, facing: | another accessory building |                      15 |
     |                             | private road               |                      10 |
 
-    x = length of overlap divided by 5  
+    x = length of overlap divided by 5\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1127.07   Design regulations and standards
@@ -317,7 +317,7 @@ separated from vehicular circulation, connecting residential buildings to
 parking and recreation areas.
 
 6. _(f)_ **Utility Equipment.** All utility lines serving an attached
-single-family residential development shall be located underground.  
+single-family residential development shall be located underground.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1127.08   Off-street parking regulations
@@ -339,7 +339,7 @@ order to improve design.
 3. _(c)_ **Prohibited Activity.**  The rebuilding, overhauling or dismantling of
 an automotive vehicle or the storage of motor or body parts in an open yard is
 prohibited. The outside parking and storage of recreational vehicles is
-prohibited.  
+prohibited.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1127.09   Supplemental regulations

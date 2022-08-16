@@ -51,7 +51,7 @@ shopping within the Municipality's historic downtown core.
 contained in this chapter shall apply.
 
 7. _(g)_ To retain the unique historic and architectural characteristics of the
-downtown core while accommodating new investment.  
+downtown core while accommodating new investment.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1138.02   Permitted uses
@@ -141,21 +141,21 @@ be conducted within completely enclosed buildings.
     5. _(5)_ Signs, as regulated in Chapter 1143.
 
     6. _(6)_ Lighting structures, as regulated in Chapter 1150, and flag
-    poles.  
+    poles.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1138.03   Area and height regulations
 
 For regulations regarding area and height restrictions, the same regulations
 contained under Section 1137.03 of the Retail Business District shall also apply
-to all land and structures within the Central Shopping District.  
+to all land and structures within the Central Shopping District.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1138.04   Yard and setback regulations
 
 For regulations regarding minimum yard and setback requirements, the same
 regulations contained in Section 1137.04 of the Retail Business District shall
-also apply to the land and structures within the Central Shopping District.  
+also apply to the land and structures within the Central Shopping District.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1138.05   Detailed regulations by type of establishment
@@ -226,12 +226,12 @@ in accordance with the following:
 
     5. _(5)_ The exterior appearance of the building in which the residential
     use is located shall not be altered in such a manner that will detract from
-    its commercial character.  
+    its commercial character.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1138.06   Supplemental regulations
 
 For regulations regarding off-street parking and loading, landscaping, lighting,
 signs and environmental performance, refer to Chapters 1141 - 1150 of the
-Planning and Zoning Code.  
+Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

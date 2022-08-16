@@ -76,7 +76,7 @@ set forth in Ohio R.C. 4510.021. No judge shall suspend the first three years of
 suspension under a class two suspension of an offender's license, permit or
 privilege required by this division on any portion of the suspension under a
 class one suspension of an offender's license, permit, or privilege required by
-this subsection.  
+this subsection.\
 (ORC 2921.331)
 
 ## 303.02   Traffic direction in emergencies; obedience to school guard
@@ -111,7 +111,7 @@ vehicular travel or parking. The officer removing such key shall place
 notification upon the vehicle detailing his name and badge number, the place
 where such key may be reclaimed and the procedure for reclaiming such key. The
 key shall be returned to the owner of the motor vehicle upon presentation of
-proof of ownership.  
+proof of ownership.\
 (ORC 4549.05)
 
 ## 303.04   Road workers, motor vehicles and equipment excepted
@@ -145,7 +145,7 @@ R.C. 4511.66 and 5577.01 to 5577.09.
 4. _(d)_ As used in this section, "engaged in the performance of official
 duties" includes driving a highway maintenance vehicle to and from the
 manufacturer or vehicle maintenance provider and transporting a highway
-maintenance vehicle, equipment, or materials to and from a work location.  
+maintenance vehicle, equipment, or materials to and from a work location.\
 (ORC 4511.04)
 
 ### 303.041   Emergency, public safety and coroner's vehicles exempt
@@ -165,7 +165,7 @@ distance of 500 feet to the front of the vehicle and if the driver of the
 vehicle is giving an audible signal by siren, exhaust whistle or bell. This
 section does not relieve the driver of an emergency vehicle or public safety
 vehicle from the duty to drive with due regard for the safety of all persons and
-property upon the highway.  
+property upon the highway.\
 (ORC 4511.041)
 
 2. _(b)_ Ohio R.C. 4511.25, 4511.26, 4511.27, 4511.28, 4511.29, 4511.30,
@@ -176,7 +176,7 @@ coroner, deputy coroner, or coroner's investigator operating a motor vehicle in
 accordance with Ohio R.C. 4513.171. This section does not relieve a coroner,
 deputy coroner, or coroner's investigator operating a motor vehicle from the
 duty to drive with due regard for the safety of all persons and property upon
-the highway.  
+the highway.\
 (ORC 4511.042)
 
 ## 303.05   Application to persons riding, driving animals upon roadway
@@ -184,7 +184,7 @@ the highway.
 Every person riding, driving or leading an animal upon a roadway shall be
 subject to the provisions of this Traffic Code applicable to the driver of a
 vehicle, except those provisions of such sections which by their nature are
-inapplicable.  
+inapplicable.\
 (ORC 4511.05)
 
 ## 303.06   Freeway use prohibited by pedestrians, bicycles and animals
@@ -214,11 +214,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
+
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.051)
 
 ## 303.07   Application to drivers of government vehicles
@@ -460,7 +461,7 @@ agricultural property that is established as a private tow-away zone in
 accordance with Section 303.082.
 
 7. _(g)_ Whoever violates subsection (e) of this section is guilty of a minor
-misdemeanor.  
+misdemeanor.\
 (ORC 4513.60)
 
 ### 303.082   Private tow-away zones
@@ -570,7 +571,7 @@ any posted parking condition or regulation.
     towing service shall make all reasonable efforts to take as many photographs
     as necessary to evidence that the vehicle is clearly parked on private
     property in violation of a private tow-away zone established under
-    subsection (a) of this section.  
+    subsection (a) of this section.
 
         The towing service shall record the time and date of the photographs
         taken under this section. The towing service shall retain the
@@ -733,7 +734,7 @@ following:
     3. _(3)_ A person who is authorized to manage the property;
 
     4. _(4)_ A duly authorized agent of any person listed in subsections (k)(1)
-    to (3) of this section.  
+    to (3) of this section.\
     (ORC 4513.601)
 
 ## 303.09   Authority of arresting officer using radar
@@ -749,7 +750,7 @@ motor vehicle recorded by radio microwaves or an electrical or mechanical timing
 device. However, in case of an arrest based on such a message, such radio
 message must have been dispatched immediately after the speed of the motor
 vehicle was recorded and the arresting officer must have been furnished a
-description of the motor vehicle for proper identification.  
+description of the motor vehicle for proper identification.\
 (Ord. 1968-713. Passed 2-20-68.)
 
 ## 303.10   Providing false information to police officer
@@ -759,14 +760,14 @@ false name, social security number or date of birth to a law enforcement officer
 who is in the process of issuing to the person a traffic ticket or complaint.
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
-degree.  
+degree.\
 (ORC 4513.361)
 
 ## 303.99   General code penalty
 
 1. _(a)_ **General Misdemeanor Classifications.** Whoever violates any provision
 of this Traffic Code for which violation no penalty is otherwise provided, is
-guilty of a minor misdemeanor.  
+guilty of a minor misdemeanor.\
 (ORC 4513.99)
 
 2. _(b)_ **Penalties.** Whoever is convicted of or pleads guilty to a violation
@@ -874,5 +875,5 @@ more than one hundred dollars ($100.00) as follows:
     shall be required to pay the total amount of the fine established for the
     violation, but shall not be required to pay the additional fine of not more
     than one hundred dollars ($100.00), so long as the offender submits to the
-    court the offender's payment and such written evidence.  
+    court the offender's payment and such written evidence.\
     (ORC 4511.991)

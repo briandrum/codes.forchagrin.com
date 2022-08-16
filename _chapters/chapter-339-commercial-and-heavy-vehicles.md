@@ -47,7 +47,7 @@ Ohio Director of Transportation shall be required to obtain any local permit or
 license or pay any local fee or charge for movement on any State route within
 the Municipality; however, it shall be unlawful to operate any such vehicle or
 combination of vehicles upon any roadway within the Municipality which is not a
-State route, except as provided in Section 339.02.  
+State route, except as provided in Section 339.02.\
 (ORC 4513.34)
 
 2. _(b)_
@@ -64,7 +64,7 @@ State route, except as provided in Section 339.02.
     enforcement officer.
 
 3. _(c)_ Whoever violates any provision of this section for which no other
-penalty is provided is guilty of a minor misdemeanor.  
+penalty is provided is guilty of a minor misdemeanor.\
 (ORC 4513.99)
 
 ## 339.02   Use of local streets; local permit and conditions
@@ -184,12 +184,12 @@ Director designates.
 6. _(f)_ The widths prescribed in subsection (b) shall not include side mirrors,
 turn signal lamps, marker lamps, handholds for cab entry and egress, flexible
 fender extensions, mud flaps, splash and spray suppressant devices, and
-load-induced tire bulge.  
+load-induced tire bulge.
 
     The width prescribed in subsection (b)(5) shall not include automatic
     covering devices, tarp and tarp hardware, and tiedown assemblies, provided
     these safety devices do not extend more than three inches from each side of
-    the vehicle.  
+    the vehicle.
 
     The lengths prescribed in subsections (c)(2) to (8) hereof shall not include
     safety devices, bumpers attached to the front or rear of such bus or
@@ -217,7 +217,7 @@ streets of this State shall comply with the rules of the Director governing such
 movement, that the Director may adopt. Ohio R.C. 119.01 to 119.13 apply to any
 rules the Director adopts under this section, or the amendment or rescission of
 the rules, and any person adversely affected shall have the same right of appeal
-as provided in those sections.  
+as provided in those sections.
 
     This section does not require the State, the Municipality, County, township
     or any railroad or other private corporation to provide sufficient vertical
@@ -231,7 +231,7 @@ in Ohio R.C. 4501.01.
 
 9. _(i)_ Whoever violates this section is guilty of a minor misdemeanor on a
 first offense; on a second offense or subsequent offense, the person is guilty
-of a misdemeanor of the fourth degree.  
+of a misdemeanor of the fourth degree.\
 (ORC 5577.99)
 
 ## 339.04   Route and load information
@@ -261,7 +261,7 @@ accomplished by means of fenders, body construction or other means of enclosure,
 then no such protectors or flaps are required. Rear wheels not covered at the
 top by fenders, bodies or other parts of the vehicle shall be covered at the top
 by protective means extending at least to the center line of the rearmost
-axle.  
+axle.\
 (ORC 5577.11)
 
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.
@@ -281,10 +281,10 @@ or highway shall at all times comply with the following requirements:
 
     2. _(2)_ Such vehicle shall be equipped with not less than two fire
     extinguishers, filled and ready for immediate use, and placed at convenient
-    points on such vehicle.  
+    points on such vehicle.\
     (ORC 4513.29)
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.99)
 
 ## 339.07   Towing requirements
@@ -334,10 +334,10 @@ in this section may be towed or drawn at one time, except as follows:
     tow or draw not more than two such vehicles that are being used to transport
     agricultural produce from the farm to a local place of storage. No vehicle
     being so towed by such a pickup truck or straight truck shall be considered
-    to be a motor vehicle.  
+    to be a motor vehicle.\
     (ORC 4513.32)
 
-5. _(e)_ Whoever violates this section is guilty of a minor misdemeanor.  
+5. _(e)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.99)
 
 ## 339.08   Loads dropping or leaking; removal required; tracking mud
@@ -357,7 +357,7 @@ solid waste or any other material of an unsanitary nature that is susceptible to
 blowing or bouncing from a moving vehicle shall be driven or moved on any
 street, highway or other public place unless the load is covered with a
 sufficient cover to prevent the load or any part of the load from spilling onto
-the street, highway or other public place.  
+the street, highway or other public place.\
 (ORC 4513.31)
 
 3. _(c)_ No person shall operate any vehicle so as to track or drop mud, stones,
@@ -366,10 +366,10 @@ gravel or other similar material on any street, highway or other public place.
 4. _(d)_ It shall be the duty of the driver of a vehicle who unlawfully drops or
 deposits mud, stones, gravel or other similar material or permits the load or
 any portion thereof to be dropped or deposited upon any street, highway or other
-public place to immediately remove the same or cause it to be removed.  
+public place to immediately remove the same or cause it to be removed.\
 (ORC 4513.31)
 
-5. _(e)_ Whoever violates this section is guilty of a minor misdemeanor.  
+5. _(e)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.99)
 
 ## 339.09   Shifting load; loose loads
@@ -402,10 +402,10 @@ of this Municipality, which towed or pulled vehicle has tires or wheels equipped
 with ice picks, spuds, spikes, chains or other projections of any kind.
 "Traction engine" or "tractor," as used in this section, applies to all
 self-propelling engines equipped with metal-tired wheels operated or propelled
-by any form of engine, motor or mechanical power.  
+by any form of engine, motor or mechanical power.\
 (ORC 5589.08)
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 5589.99)
 
 ## 339.11   Use of studded tires and chains
@@ -431,10 +431,10 @@ have the same meanings as given those terms in Chapter 301.
 
 3. _(c)_ This section does not apply to the use of tire chains when there is
 snow or ice on the streets or highways where such chains are being used, or the
-immediate vicinity thereof.  
+immediate vicinity thereof.\
 (ORC 5589.081)
 
-4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
+4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 5589.99)
 
 ## 339.12   Equipment and lighting requirements generally
@@ -453,7 +453,7 @@ distance of 500 feet.
 
     Vehicles operated under the Public Utilities Commission of Ohio shall not be
     subject to the requirements of the regulations provided for by this
-    section.  
+    section.\
     (Ord. 1957-420. Passed 12-28-57.)
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -493,7 +493,7 @@ this section any motor vehicle used in transporting flammable liquids in bulk,
 or in transporting compressed flammable gases, unless there is carried in such
 vehicle three red electric lanterns or three red reflectors meeting the
 requirements stated in subsection (a) hereof. There shall not be carried in any
-such vehicle any flare, fusee, or signal produced by a flame.  
+such vehicle any flare, fusee, or signal produced by a flame.\
 (ORC 4513.27)
 
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
@@ -565,7 +565,7 @@ other obstruction of view, the flare, flag, reflector or lantern in that
 direction shall be placed as to afford ample warning to other users of the
 highway, but in no case shall it be placed less than forty paces or
 approximately one hundred feet nor more than 120 paces or approximately 300 feet
-from the disabled vehicle.  
+from the disabled vehicle.\
 (ORC 4513.28)
 
 7. _(g)_ Except as otherwise provided in this subsection, whoever violates this
@@ -580,7 +580,7 @@ the third degree.
 ## 339.15   Use of farm trucks
 
 1. _(a)_ No person shall use a farm truck on any public street or highway for
-commercial purposes or for any purpose other than exclusively in farm use.  
+commercial purposes or for any purpose other than exclusively in farm use.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -625,7 +625,7 @@ equal to or less in size than two-ton, or 8,000 pounds total gross weight,
 single-axle trucks, such as delivery trucks, vans or all-purpose pick-up trucks.
 
 5. _(e)_ Whoever violates this section is guilty of a misdemeanor of the third
-degree.  
+degree.\
 (Ord. 1984-26. Passed 6-10-85.)
 
 ## 339.17   Weighing vehicle; scales to be used; removal of excess load
@@ -650,5 +650,5 @@ Whenever such officer upon weighing a vehicle and load determines that the
 weight is unlawful, he may require the driver to stop the vehicle in a suitable
 place and remain standing until such portion of the load is removed as is
 necessary to reduce the weight of such vehicle to the limit permitted under this
-chapter.  
+chapter.\
 (ORC 4513.33)

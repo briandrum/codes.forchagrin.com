@@ -71,7 +71,7 @@ employee's performance evaluation done at the end of such twelve-month period.
 
 3. _(c)_ General increases or decreases resulting from the adjustment of the
 basic compensation schedules shall not prevent within-range pay increases in
-accordance with this section.  
+accordance with this section.\
 (Ord. 1986-65. Passed 12-22-86.)
 
 ## 149.02   Clothing allowance for police and fire employees
@@ -79,7 +79,7 @@ accordance with this section.
 1. _(a)_ Every regular members of the Police Department and every part-time
 member of the Police Department who works on a regularly scheduled basis shall
 wear such uniforms or clothing as directed and approved by the Chief of
-Police.  
+Police.\
 (Ord. 2013-13. Passed 4-8-13.)
 
 2. _(b)_ Police and Fire Department maintenance and clothing allowances shall,
@@ -112,7 +112,7 @@ Department. The Village shall issue an initial uniform, complete with all of the
 apparel and other gear required and included on the list approved by the Mayor,
 to each new police hire.
 
-6. _(f)_ An employee shall receive only one maintenance allowance per year.  
+6. _(f)_ An employee shall receive only one maintenance allowance per year.\
 (Ord. 2013-13. Passed 4-8-13.)
 
 ## 149.03   Police overtime and call-in pay
@@ -132,7 +132,7 @@ equivalent of four hours pay at the employee's straight time rate. This does not
 apply when an employee continues to work after the employee's normal shift
 schedule ends or is instructed to report prior to the employee's regularly
 scheduled starting time. This premiums payment shall be limited to one
-occurrence in an employee's work day.  
+occurrence in an employee's work day.\
 (Ord. 2007-70. Passed 11-26-07; Ord. 2018-60. Passed 8-27-18.)
 
 ## 149.04   Scheduled overtime
@@ -146,7 +146,7 @@ or call-in time. Payment for scheduled overtime will be calculated at the
 overtime rate multiplied by the actual number of hours worked to the nearest
 quarter of an hour. Employees shall be notified of scheduled overtime no less
 than seventy-two hours prior to the beginning of the scheduled overtime
-service.  
+service.\
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.05   Police professional liability insurance
@@ -156,7 +156,7 @@ members of the Police Department, additional compensation shall be provided by
 the purchase by the Village of a police professional liability insurance policy
 in amounts of not less than one hundred thousand dollars/three hundred thousand
 dollars($100,000/$300,000) with five hundred thousand dollars ($500,000)
-aggregate for any one occurrence, covering all Police Department personnel.  
+aggregate for any one occurrence, covering all Police Department personnel.\
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.06   Overtime
@@ -188,7 +188,7 @@ aggregate for any one occurrence, covering all Police Department personnel.
     2. _(2)_ **Police Radio Dispatchers.** Every police radio dispatcher shall
     be entitled to receive additional compensation for all time worked in excess
     of forty hours in any one week period at the rate of one and a half times
-    their regular hourly rate.  
+    their regular hourly rate.\
     (Ord. 2011-22. Passed 4-25-11.)
 
 2. _(b)_ **Part-Time Employees.** Part-time laborers working a full-time
@@ -201,12 +201,12 @@ time-and- one-half for such overtime:
     2. _(2)_ In excess of forty hours in any given work week;
 
     3. _(3)_ In excess of eight hours in any continuous twenty-four hours
-    beginning at the starting time of the employee's shift.  
+    beginning at the starting time of the employee's shift.\
     (Ord. 1996-40. Passed 7-8-96.)
 
 3. _(c)_ **Exceptions.** The application of this provision excludes the Chief
 Administrative Officer, Administrative Assistant, Finance Director,
-Superintendent of Utilities and Superintendent of Streets.  
+Superintendent of Utilities and Superintendent of Streets.\
 (Ord. 1986-65. Passed 12-22-86; Ord. 1995-25. Passed 3-13-95.)
 
 4. _(d)_ **Work Day/Hours Worked for Overtime Calculation.**
@@ -222,7 +222,7 @@ Superintendent of Utilities and Superintendent of Streets.
     2. _(2)_ **Hours Worked for Overtime Calculation.** For purposes of
     calculating all employee overtime in this Section 149.06, paid holiday time,
     paid vacation time, and paid sick leave shall be counted as hours worked.
-    Other paid and unpaid time-off shall not be counted as hours worked.  
+    Other paid and unpaid time-off shall not be counted as hours worked.\
     (Ord. 2011-22. Passed 4-25-11.)
 
 5. _(e)_ **Call-In Pay.** Regular full-time Public Service and Finance
@@ -242,7 +242,7 @@ upon termination of his employment with the Municipality. In no department is
 overtime to be duplicated or pyramided. No credit will be allowed or premium
 payment made for overtime labor unless it is rendered pursuant to prior order or
 approval by the department head or other supervisory employee customarily
-authorized to grant such approval.  
+authorized to grant such approval.\
 (Ord. 1986-65. Passed 12-22-86; Ord. 1995-25. Passed 3-13-95.)
 
 ### 149.061   Compensatory time
@@ -255,7 +255,7 @@ employee from the respective department head for use during a period which will
 not unduly disrupt or interfere with the normal operation of that department.
 
 Cash payment will be made to an employee for unused compensatory time only upon
-the occasion of that employee's separation from service with the Village.  
+the occasion of that employee's separation from service with the Village.\
 (Ord. 2014-02. Passed 1-13-14.)
 
 ## 149.07   Longevity
@@ -280,7 +280,7 @@ one lump sum, payable with the final November pay period earnings.
 to a leave of absence from their respective duties for such time as they are on
 jury duty but not exceeding fifteen days in any calendar year. Required jury
 duty beyond fifteen days shall result in the employee being on unpaid leave
-status.  
+status.
 
     If an employee's jury duty pay or compensation during such leave of absence
     is less than the employee's Village pay would have been for the same period,
@@ -301,7 +301,7 @@ calendar year.
 
 3. _(c)_ In calculating an employee's jury duty pay or military pay, allowances
 for travel, food or housing shall not be considered, but any other pay or
-allowances of whatever nature, including longevity pay, shall be considered.  
+allowances of whatever nature, including longevity pay, shall be considered.\
 (Ord. 1996-40. Passed 7-8-96.)
 
 ## 149.09   Committee meetings
@@ -309,14 +309,14 @@ allowances of whatever nature, including longevity pay, shall be considered.
 1. _(a)_ Village employees who attend meetings during other than normal working
 hours for the purpose of taking minutes shall be paid at a rate of thirty
 dollars ($30.00) per meeting or at that employee's hourly rate at time and one-
-half, if applicable, whichever is greater.  
+half, if applicable, whichever is greater.\
 (Ord. 1989-70. Passed 12-11-89; Ord. 2005-28. Passed 6-13-05.)
 
 2. _(b)_ In addition to all compensation hereinabove stated, department heads
 shall receive forty-five dollars ($45.00) per committee meeting to which they
 are invited to attend by the Mayor or Committee Chairman, and do attend, for
 each meeting beyond twelve in any calendar year. The number of meetings does not
-include regular or special Council meetings.  
+include regular or special Council meetings.\
 (Ord. 1986-65. Passed 12-22-86; Ord. 2005-28. Passed 6-13-05.)
 
 ## 149.10   Holidays
@@ -336,7 +336,7 @@ Every regular part-time employee required to work a specific number of hours on
 specific days shall be entitled to receive compensation for the aforementioned
 ten legal holidays if the holiday occurs on the employee's regular working day;
 compensation shall be computed on the basis of the employee's regular scheduled
-hours at straight time.  
+hours at straight time.\
 (Ord.1988-109. Passed 12-12-88.)
 
 ## 149.11   Vacations
@@ -344,7 +344,7 @@ hours at straight time.
 1. _(a)_ All full-time employees of the Municipality shall be entitled to two
 weeks vacation after one full year of service, three weeks vacation after five
 consecutive years of service, four weeks vacation after ten consecutive years of
-service and five weeks vacation after twenty consecutive years of service.  
+service and five weeks vacation after twenty consecutive years of service.\
 (Ord. 1999-80. Passed 12-13-99.)
 
 2. _(b)_ Vacation credits are expected to be used during the following twelve
@@ -359,7 +359,7 @@ the best interests of the Municipality.
 
 3. _(c)_ Except with the approval of the Mayor, accumulated vacation time will
 not be paid if less than two weeks notice of intention to leave the employ of
-the Municipality is given.  
+the Municipality is given.\
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.12   Sick leave
@@ -369,7 +369,7 @@ entitled to receive a credit of one and one-fourth days per month for sickness,
 which sick leave credit can be cumulative to 180 days. An employee who enters
 the service of the Municipality on or before the sixteenth of the month or who
 leaves after working through the fifteenth of any month shall earn sick leave
-that month.  
+that month.\
 (Ord. 1986-65. Passed 12-22-86.)
 
 2. _(b)_ An employee shall file a written request on forms provided by the
@@ -382,14 +382,14 @@ leave shall be based upon the nearest one-fourth day for time lost. A
 certificate from a physician may be required by the Mayor or department head for
 any absence extending beyond three days. The Mayor may require that the employee
 submit to an examination by a physician selected by the Village at the Village's
-expense for any absence.  
+expense for any absence.\
 (Ord. 1987-53. Passed 12-14-87.)
 
 3. _(c)_ When circumstances require, and with approval of the Mayor and
 department head, sick leave may be used in advance of accrual, provided that any
 employee separated from the service who has been granted sick leave that is
 accrued at that time may be required to reimburse the Municipality for all
-salary and wages paid in connection with such unaccrued leave.  
+salary and wages paid in connection with such unaccrued leave.\
 (Ord. 1986-65. Passed 12-22-86.)
 
 4. _(d)_ The sick leave credit provided for herein shall be effective only
@@ -403,7 +403,7 @@ the employee at the time the payment is made. The unused sick leave credit that
 is paid to each employee shall not exceed the value of 30 days of accrued but
 unused sick leave. "Retirement" as used in this section, means disability or
 service retirement under any state or municipal retirement system in this
-State.  
+State.\
 (Ord. 1996-87. Passed 12-9-96.)
 
 ## 149.13   Travel and other expense allowances
@@ -422,7 +422,7 @@ benefit from an airline if the ticket or benefit is received from the purchase
 of airline tickets by the Village for Village travel. Any rebates or commissions
 earned based on Village travel and paid to a Village official or employee,
 including but not limited to credit card issuers, must be remitted to the
-Village.  
+Village.\
 (Ord. 2009-05. Passed 1-26-09.)
 
 ## 149.14   Hospitalization
@@ -432,7 +432,7 @@ the Municipal Group Hospitalization Plan and shall be entitled to receive the
 entire cost of the hospitalization plan for either a single or family coverage,
 depending upon his or her status. Employees are eligible to enroll in the Group
 Hospitalization Plan on the first day of the month following the fulfilling of
-thirty calendar days of employment with the Village.  
+thirty calendar days of employment with the Village.\
 (Ord.1986-65. Passed 12-22-86; Ord.1990-104. Passed 12-10-90.)
 
 ## 149.15   Payroll savings plan
@@ -443,7 +443,7 @@ so made in a local main or branch bank or savings and loan association, upon
 receipt of a written request and authorization for such deduction by the
 employee, designating the amount of the monthly deduction to be made and the
 bank or savings and loan association in the Municipality where such deposit is
-to be made.  
+to be made.\
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.16   Retirement provision
@@ -451,7 +451,7 @@ to be made.
 No full-time regular employee of the Municipality in any of its departments
 shall continue in such service after attaining the age of sixty-five years,
 unless the Mayor recommends, with reasons therefor, to Council, a waiver of this
-age prohibition and Council confirms such recommendation by resolution.  
+age prohibition and Council confirms such recommendation by resolution.\
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.17   Service with prior political subdivision
@@ -459,7 +459,7 @@ age prohibition and Council confirms such recommendation by resolution.
 No credit for prior service with another political subdivision will be accepted
 as credit toward sick leave or vacation time unless so approved by the Mayor. No
 credit for prior service with another political subdivision will be accepted as
-credit for the purpose of calculating longevity pay.  
+credit for the purpose of calculating longevity pay.\
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.18   Funeral leave
@@ -471,14 +471,14 @@ or sister, grandparents and grandparents-in-law, but not to exceed three days.
 Such absence shall not be deducted from the employee's accumulated sick leave.
 Paid time shall be determined by multiplying the hourly equivalent rate in
 effect at the time the death occurred by the scheduled number of hours in the
-employee's regular work day.  
+employee's regular work day.\
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.19   Probation
 
 All full-time employees are required to serve a one-year probation period,
 during which time he/she is required to demonstrate his/her ability to perform
-the duties of the position to which the employee has been appointed.  
+the duties of the position to which the employee has been appointed.\
 (Ord.1986-65. Passed 12-22-86.)
 
 ## 149.20   Employee contributions to OPERS and OP&F
@@ -493,7 +493,7 @@ hereof, the contributions required to be made by each such employee to the OPERS
 or OP&F, whichever is applicable, as an employee contribution under Ohio R.C.
 Chapters 145 and 742 shall be paid, pursuant to subsection (c) hereof, by the
 Village on behalf of the employee in lieu of contribution by the employees and
-in accordance with the provisions of this section.  
+in accordance with the provisions of this section.\
 (Ord. 2011-26. Passed 5-23-11.)
 
 2. _(b)_ This section shall apply to all Village officials and/or employees in
@@ -503,7 +503,7 @@ officials, appointed officials, and all other employees who are not members of
 the above groups. This section shall not apply to non Village employees who are
 hired temporarily in order to provide traffic control at private construction
 projects and shall not apply to elected officials who, consistent with Ohio law
-and OPERS regulations, decline OPERS membership.  
+and OPERS regulations, decline OPERS membership.\
 (Ord. 2011-37. Passed 6-27-11.)
 
 3. _(c)_ The Village's method of payment of salary to employees who are
@@ -556,7 +556,7 @@ necessary and appropriate to facilitate the implementation of the provisions of
 this section, including, but not limited to, making applications to the Internal
 Revenue Service for private letter rulings concerning Federal tax treatment of
 the provisions of this plan and making applications to the appropriate State
-retirement boards.  
+retirement boards.\
 (Ord. 2011-26. Passed 5-23-11.)
 
 ## 149.21   PFDPF pickup
@@ -576,7 +576,7 @@ physician and/or psychologist selected and paid by the Village.
 
 Seasonal and part-time employees may be required to submit to a medical exam,
 drug screening and a psychological exam, conducted by a physician and/or
-psychologist selected and paid by the Village.  
+psychologist selected and paid by the Village.\
 (Ord. 1996-40. Passed 7-8-96.)
 
 ## 149.23   Payment of part-time police officers at construction projects; regulation of part-time employment of police officers
@@ -589,7 +589,7 @@ are reimbursable to the Village.
 2. _(b)_ The Chief of Police is authorized and directed to adopt by policy,
 rules and regulations governing the off-duty, part-time employment of police
 officers performing security or traffic control services to any entity or
-person.  
+person.\
 (Ord. 1998-68. Passed 8-10-98.)
 
 ## 149.24   Purchase of grave sites
@@ -598,7 +598,7 @@ Any Village employee with ten years or more of accumulated full-time employment
 with the Village, will be entitled to purchase up to two non- transferable grave
 sites at Evergreen Cemetery at the cost to a Village resident on the date of
 purchase. These grave sites are to be used for the employee and one member of
-his/her immediate family.  
+his/her immediate family.\
 (Ord. 1997-91. Passed 12-8-97.)
 
 ## 149.25   Prohibited political activity
@@ -607,7 +607,7 @@ Village employees are prohibited from participating in any political activity on
 Village time and from using Village property or Village equipment for any
 political activity; provided, however, that nothing herein shall be construed to
 prevent the use of Village owned real property by groups of people (Village
-employees and others) for political purposes.  
+employees and others) for political purposes.\
 (Ord. 2009-06. Passed 1-26-09.)
 
 ## 149.26   Deferred compensation plans
@@ -620,5 +620,5 @@ Director are authorized to take any action that may be necessary to provide for
 participation in the plans, and the Mayor is authorized to consent to the
 adoption of any restatements and/or amendments to the Plans provided that such
 restatements and amendments do not materially change the plans. A current copy
-of each plan is maintained on file by the Finance Director.  
+of each plan is maintained on file by the Finance Director.\
 (Ord. 2011-68. Passed 11-28-11.)

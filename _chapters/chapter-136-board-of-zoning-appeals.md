@@ -45,7 +45,7 @@ appointed for a term of four years.
 
 3. _(c)_ A vacancy occurring during the term of any member shall be filled for
 the unexpired term in the manner authorized for an original appointment,
-including appointment of alternate members.  
+including appointment of alternate members.\
 (Ord. 2019-34. Passed 4-22-19.)
 
 ## 136.02   Officers; rules
@@ -55,7 +55,7 @@ and such other officers as it deems necessary; shall make its own rules and
 regulations; and shall keep a journal of its proceedings. The Board shall
 appoint or reappoint its officers at its first regular meeting in January of
 each year. Members of the Board shall serve without compensation unless
-otherwise provided by ordinance.  
+otherwise provided by ordinance.\
 (Ord.1979-1172. Passed 10-8-79.)
 
 ## 136.03   Meetings; voting
@@ -67,7 +67,7 @@ necessary for any official decision. Failure to receive three affirmative votes
 will constitute a denial of the motion pending before the Board and a
 maintenance of the status quo or previous decision being reviewed. The Board
 shall conduct all of its meetings pursuant to Ohio R.C. 2506 and amendments
-thereto.  
+thereto.\
 (Ord.1983-38. Passed 11-28-83.)
 
 ## 136.04   Duties
@@ -77,5 +77,5 @@ exceptions to and variances in the application of resolutions, ordinances,
 regulations, measures and orders of administrative officials or agencies
 governing zoning and building in the Municipality under procedures established
 by Council. Such board shall have such other duties and functions as may be
-provided by ordinance of Council.  
+provided by ordinance of Council.\
 (CHTR. Art. VII, Sec. 5)

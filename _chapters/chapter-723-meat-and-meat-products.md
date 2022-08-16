@@ -30,7 +30,7 @@ Council.
 2. _(b)_ In the case of meat products such as meat loaf, wieners, sausage and
 similar products, the inspection legend appears on the individual packages or on
 labels, tags or on sufficient individual pieces so as adequately to establish
-the fact that it is an acceptably inspected product.  
+the fact that it is an acceptably inspected product.\
 (Ord. 1951-205. Passed 6-25-51.)
 
 ## 723.02   Exemptions
@@ -38,7 +38,7 @@ the fact that it is an acceptably inspected product.
 This chapter shall not apply to any individual person not engaged or employed,
 or intending to engage or be employed, in the sale of any such meat or meat food
 products and possessing the same in his own home or passenger vehicle solely for
-the domestic use of himself or his family.  
+the domestic use of himself or his family.\
 (Ord. 1951-205. Passed 6-25-51.)
 
 ## 723.99   Penalty

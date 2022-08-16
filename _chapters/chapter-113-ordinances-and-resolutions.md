@@ -32,5 +32,5 @@ full, shall be made once a week for two consecutive weeks on the same day of
 each week in a newspaper of general circulation in the Municipality, to be
 designated in the ordinance or resolution. In the case of posting, a copy of the
 ordinance or resolution shall be posted for not less than fifteen days in the
-Municipal Building.  
+Municipal Building.\
 (Ord. 1963-562. Passed 2-25-63.)

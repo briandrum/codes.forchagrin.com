@@ -129,7 +129,7 @@ more than six months at the time of the offense, the court may impose a class
 seven suspension of the offender's driver's license, commercial driver's
 license, temporary instruction permit, probationary license, or nonresident
 operating privilege from the range specified in division (A)(7) of Ohio R.C.
-4510.02.  
+4510.02.\
 (ORC 4510.12)
 
 ## 335.02   Permitting operation without valid license; one license permitted
@@ -158,7 +158,7 @@ Chapter 4506.
     identification card that is not returned to the issuing authority.
 
     3. _(3)_ No person shall possess more than one valid license, temporary
-    instruction permit, or identification card at any time.  
+    instruction permit, or identification card at any time.\
     (ORC 4507.02(A))
 
 3. _(c)_
@@ -182,7 +182,7 @@ Chapter 4506.
     offense is a misdemeanor of the first degree.
 
     2. _(2)_ Whoever violates subsection (b) hereof is guilty of a misdemeanor
-    of the first degree.  
+    of the first degree.\
     (ORC 4507.02; 4507.99)
 
 ### 335.021   Ohio driver's license required for in state residents
@@ -218,7 +218,7 @@ person to whom any of the following applies:
 
     2. _(2)_ The person is determined by the Registrar of Motor Vehicles to be a
     resident in accordance with standards adopted by the Registrar under Ohio
-    R.C. 4507.01.  
+    R.C. 4507.01.\
     (ORC 4507.213)
 
 ## 335.03   Driving with temporary instruction permit; curfew
@@ -268,7 +268,7 @@ instruction permit that is issued under Ohio R.C. 4507.05(A) and that is issued
 on or after July 1, 1998, and who has not attained the age of eighteen years,
 shall operate a motor vehicle upon a highway or any public or private property
 used by the public for purposes of vehicular travel or parking between the hours
-of midnight and six a.m.  
+of midnight and six a.m.
 
     The holder of a permit issued under Ohio R.C. 4507.05(A) on or after July 1,
     1998, who has not attained the age of eighteen years, may operate a motor
@@ -301,7 +301,7 @@ of midnight and six a.m.
     2. _(2)_ "Occupant restraining device" has the same meaning as in Ohio R.C.
     4513.263.
 
-4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
+4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4507.05)
 
 ### 335.031   Driving with probationary license; curfew
@@ -479,7 +479,7 @@ prosecution of a person for such violation.
     parking of vehicles, vehicle size or load limitations, vehicle fitness
     requirements, or vehicle registration.
 
-8. _(h)_ Whoever violates this section is guilty of a minor misdemeanor.  
+8. _(h)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4507.071)
 
 ### 335.032   Use of electronic wireless communication device prohibited while driving
@@ -540,7 +540,7 @@ includes any of the following:
     4. _(4)_ A text-messaging device;
 
     5. _(5)_ Any other substantially similar electronic wireless device that is
-    designed or used to communicate via voice, image, or written word.  
+    designed or used to communicate via voice, image, or written word.\
     (ORC 4511.205)
 
 ## 335.04   Certain acts prohibited
@@ -577,7 +577,7 @@ includes any of the following:
     knowing the same to be false or fictitious.
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
-degree.  
+degree.\
 (ORC 4507.30)
 
 ## 335.05   Wrongful entrustment of a motor vehicle
@@ -729,7 +729,7 @@ vehicle.
 
 8. _(h)_ For purposes of this section, a vehicle is owned by a person if, at the
 time of a violation of this section, the vehicle is registered in the person's
-name.  
+name.\
 (ORC 4511.203)
 
 ## 335.06   Display of license
@@ -764,7 +764,7 @@ obtained a driver's license.
     2. _(2)_ If, within three years of the offense, the offender previously has
     been convicted of or pleaded guilty to two or more violations of Ohio R.C.
     4507.35 or a substantially equivalent municipal ordinance, the offense is a
-    misdemeanor of the first degree.  
+    misdemeanor of the first degree.\
     (ORC 4507.35)
 
 ## 335.07   Driving under suspension or license restriction
@@ -865,7 +865,7 @@ provided by law, the court may order restitution pursuant to Ohio R.C. 2929.28
 in an amount not exceeding five thousand dollars ($5,000) for any economic loss
 arising from an accident or collision that was the direct and proximate result
 of the offender's operation of the vehicle before, during, or after committing
-the offense for which the offender is sentenced under this section.  
+the offense for which the offender is sentenced under this section.\
 (ORC 4510.11)
 
 8. _(h)_ Any person whose driver's or commercial driver's license or permit or
@@ -874,7 +874,7 @@ under this section and who, during the suspension, operates any motor vehicle
 upon any public roads and highways is guilty of driving under a twelve-point
 suspension, a misdemeanor of the first degree. The court shall sentence the
 offender to a minimum term of three days in jail. No court shall suspend the
-first three days of jail time imposed pursuant to this subsection.  
+first three days of jail time imposed pursuant to this subsection.\
 (ORC 4510.037)
 
 ### 335.071   Driving under ovi suspension
@@ -953,7 +953,7 @@ within sixty days of the date of sentencing, the court issues a written finding
 on the record that, due to the unavailability of space at the jail where the
 offender is required to serve the jail term imposed, the offender will not be
 able to begin serving that term within the sixty-day period following the date
-of sentencing.  
+of sentencing.
 
     An offender sentenced under this section to a period of house arrest with
     electronic monitoring shall be permitted work release during that period.
@@ -969,14 +969,14 @@ ordinance, the trial judge of any court of record or the mayor of a mayor's
 court shall impose on an offender who is convicted of or pleads guilty to a
 violation of this section a class seven suspension of the offender's driver's or
 commercial driver's license or permit or nonresident operating privilege from
-the range specified in division (A)(7) of Ohio R.C. 4510.02.  
+the range specified in division (A)(7) of Ohio R.C. 4510.02.
 
     When permitted as specified in Ohio R.C. 4510.021, if the court grants
     limited driving privileges during a suspension imposed under this section,
     the privileges shall be granted on the additional condition that the
     offender must display restricted license plates, issued under Ohio R.C.
     4503.231, on the vehicle driven subject to the privileges, except as
-    provided in division (B) of that section.  
+    provided in division (B) of that section.
 
     A suspension of a commercial driver's license under this section shall be
     concurrent with any period of suspension or disqualification under Ohio R.C.
@@ -996,7 +996,7 @@ in an amount not exceeding five thousand dollars ($5,000) for any economic loss
 arising from an accident or collision that was the direct and proximate result
 of the offender's operation of the vehicle before, during, or after committing
 the offense that is a misdemeanor of the first degree under this section for
-which the offender is sentenced.  
+which the offender is sentenced.\
 (ORC 4510.14)
 
 7. _(g)_
@@ -1051,7 +1051,7 @@ which the offender is sentenced.
     terminates the forfeiture and notifies the Registrar of the termination. The
     Registrar then shall take the necessary measures to permit the person to
     register a vehicle owned or leased by the person or to transfer registration
-    of the vehicle.  
+    of the vehicle.\
     (ORC 4510.161)
 
 8. _(h)_ As used in this section:
@@ -1081,7 +1081,7 @@ which the offender is sentenced.
 
         2. _(B)_ Except as specifically authorized under this section, the term
         cannot be suspended, reduced, or otherwise modified pursuant to any
-        provision of the Ohio Revised Code.  
+        provision of the Ohio Revised Code.\
         (ORC 4510.14)
 
 ### 335.072   Driving under financial responsibility law suspension or cancellation; driving under a nonpayment of judgment suspension
@@ -1152,7 +1152,7 @@ and shall be punished as provided in subsection (d) hereof.
     for any economic loss arising from an accident or collision that was the
     direct and proximate result of the offender's operation of the vehicle
     before, during or after committing the offense for which the offender is
-    sentenced under this section.  
+    sentenced under this section.\
     (ORC 4510.16)
 
 5. _(e)_ No person who has knowingly failed to maintain proof of financial
@@ -1161,7 +1161,7 @@ or present to a peace officer an electronic wireless communications device that
 is displaying any text or images with the purpose to mislead a peace officer
 upon the request of a peace officer for proof of financial responsibility made
 in accordance with Ohio R.C. 4509.101. Whoever violates this subsection (e)
-hereof is guilty of falsification, a misdemeanor of the first degree.  
+hereof is guilty of falsification, a misdemeanor of the first degree.\
 (ORC 4509.102)
 
 ### 335.073   Driving without complying with license reinstatement requirements
@@ -1211,7 +1211,7 @@ license and shall be punished as follows:
     suspension of the offender's driver's license, commercial driver's license,
     temporary instruction permit, probationary driver's license, or nonresident
     operating privilege from the range specified in division (A)(7) of Ohio R.C.
-    4510.02.  
+    4510.02.\
     (ORC 4510.21)
 
 ### 335.074   Driving under license forfeiture or child support suspension
@@ -1263,7 +1263,7 @@ section.
     dollars ($5,000) for any economic loss arising from an accident or collision
     that was the direct and proximate result of the offender's operation of the
     vehicle before, during or after committing the offense for which the
-    offender is sentenced under this section.  
+    offender is sentenced under this section.\
     (ORC 4510.111)
 
 ## 335.08   Operation or sale without certificate of title
@@ -1313,7 +1313,7 @@ warehousing or transporting motor vehicles for the purpose of salvage
 disposition.
 
 3. _(c)_ Whoever violates this section shall be fined not more than two hundred
-dollars ($200.00) or imprisoned not more than ninety days, or both.  
+dollars ($200.00) or imprisoned not more than ninety days, or both.\
 (ORC 4505.18)
 
 ## 335.09   Display of license plates or validation stickers; registration
@@ -1340,7 +1340,7 @@ dollars ($200.00) or imprisoned not more than ninety days, or both.
     vehicle.
 
     4. _(4)_ No person shall cover a temporary motor vehicle license
-    registration by any material that obstructs its visibility.  
+    registration by any material that obstructs its visibility.\
     (ORC 4503.21(A))
 
 2. _(b)_
@@ -1352,7 +1352,7 @@ dollars ($200.00) or imprisoned not more than ninety days, or both.
     strict liability offenses and Ohio R.C. 2901.20 does not apply. The
     designation of these offenses as strict liability offenses shall not be
     construed to imply that any other offense, for which there is no specified
-    degree of culpability, is not a strict liability offense.  
+    degree of culpability, is not a strict liability offense.\
     (ORC 4503.21(B), (C))
 
 ### 335.091   Operating without dealer or manufacturer license plates
@@ -1364,7 +1364,7 @@ Director of Public Safety that displays the registration number of its
 manufacturer or dealer.
 
 2. _(b)_ Whoever violates subsection (a) of this section is guilty of illegal
-operation of a manufacturer's or dealer's motor vehicle, a minor misdemeanor.  
+operation of a manufacturer's or dealer's motor vehicle, a minor misdemeanor.\
 (ORC 4549.10)
 
 ## 335.10   Expired or unlawful license plates
@@ -1372,20 +1372,20 @@ operation of a manufacturer's or dealer's motor vehicle, a minor misdemeanor.
 1. _(a)_ No person who is the owner of a motor vehicle which is parked or
 operated upon the public streets or highways shall fail to annually file the
 application for registration or to pay the tax therefor, as required by Ohio
-R.C. Chapter 4503.  
+R.C. Chapter 4503.\
 (ORC 4503.11)
 
 2. _(b)_ No person shall operate, drive or park upon the public streets or
 highways a motor vehicle acquired from a former owner who has registered the
 motor vehicle, while the motor vehicle displays the distinctive number or
-identification mark assigned to it upon its original registration.  
+identification mark assigned to it upon its original registration.\
 (ORC 4549.11)
 
 3. _(c)_ No person who is the owner of a motor vehicle and a resident of Ohio
 shall operate, drive or park the motor vehicle upon the public streets or
 highways, while it displays a distinctive number or identification mark issued
 by or under the authority of another state, without complying with the laws of
-Ohio relating to the registration and identification of motor vehicles.  
+Ohio relating to the registration and identification of motor vehicles.\
 (ORC 4549.12)
 
 4. _(d)_ No person shall park or operate any vehicle upon any public street or
@@ -1408,7 +1408,7 @@ by the applicant.
     each subsequent offense.
 
     3. _(3)_ Whoever violates any provision of this section for which no other
-    penalty is provided is guilty of a minor misdemeanor.  
+    penalty is provided is guilty of a minor misdemeanor.\
     (ORC 4549.11; 4549.12)
 
 ## 335.11   Use of illegal license plates; transfer of registration
@@ -1433,7 +1433,7 @@ identification mark that meets any of the following criteria:
 2. _(b)_ Whoever violates subsection (a)(1), (2) or (3) of this section is
 guilty of operating a motor vehicle bearing an invalid license plate or
 identification mark, a misdemeanor of the fourth degree on a first offense and a
-misdemeanor of the third degree on each subsequent offense.  
+misdemeanor of the third degree on each subsequent offense.\
 (ORC 4549.08)
 
 3. _(c)_ Upon the transfer of ownership of a motor vehicle, the registration of
@@ -1448,7 +1448,7 @@ issued may be displayed on the succeeding motor vehicle, and the succeeding
 motor vehicle may be operated on the streets of the Municipality.
 
 4. _(d)_ Whoever violates subsection (c) of this section is guilty of a
-misdemeanor of the fourth degree.  
+misdemeanor of the fourth degree.\
 (ORC 4503.12)
 
 ### 335.111   Registration within thirty days of residency
@@ -1480,7 +1480,7 @@ person to whom any of the following applies:
 
     2. _(2)_ The person is determined by the Registrar of Motor Vehicles to be a
     resident in accordance with standards adopted by the Registrar under Ohio
-    R.C. 4507.01.  
+    R.C. 4507.01.\
     (ORC 4503.111)
 
 ## 335.12   Stopping after accident upon streets; collision with unattended vehicle
@@ -1541,7 +1541,7 @@ person to whom any of the following applies:
     instruction permit, probationary license, or nonresident operating privilege
     from the range specified in division (A)(5) of Ohio R.C. 4510.02. No judge
     shall suspend the first six months of suspension of an offender's license,
-    permit, or privilege required by this subsection.  
+    permit, or privilege required by this subsection.
 
         The offender shall provide the court with proof of financial
         responsibility as defined in Ohio R.C. 4509.01. If the offender fails to
@@ -1551,7 +1551,7 @@ person to whom any of the following applies:
         thousand dollars ($5,000) for any economic loss arising from an accident
         or collision that was the direct and proximate result of the offender's
         operation of the motor vehicle before, during or after committing the
-        offense charged under this section.  
+        offense charged under this section.\
         (ORC 4549.02)
 
 ## 335.13   Stopping after accident upon property other than street
@@ -1601,7 +1601,7 @@ person to whom any of the following applies:
     instruction permit, probationary license, or nonresident operating privilege
     from the range specified in division (A)(5) of Ohio R.C. 4510.02. No judge
     shall suspend the first six months of suspension of an offender's license,
-    permit, or privilege required by this subsection.  
+    permit, or privilege required by this subsection.
 
         The offender shall provide the court with proof of financial
         responsibility as defined in Ohio R.C. 4509.01. If the offender fails to
@@ -1611,7 +1611,7 @@ person to whom any of the following applies:
         thousand dollars ($5,000) for any economic loss arising from an accident
         or collision that was the direct and proximate result of the offender's
         operation of the motor vehicle before, during or after committing the
-        offense charged under this section.  
+        offense charged under this section.\
         (ORC 4549.021)
 
 ## 335.14   Vehicle accident resulting in damage to realty
@@ -1622,7 +1622,7 @@ or adjacent to a public road or highway immediately shall stop and take
 reasonable steps to locate and notify the owner or person in charge of the
 property of that fact, of the driver's name and address, and of the registration
 number of the vehicle the driver is driving and, upon request and if available,
-shall exhibit the driver's or commercial driver's license.  
+shall exhibit the driver's or commercial driver's license.
 
     If the owner or person in charge of the property cannot be located after
     reasonable search, the driver of the vehicle involved in the accident
@@ -1635,7 +1635,7 @@ shall exhibit the driver's or commercial driver's license.
 
 2. _(b)_ Whoever violates subsection (a) of this section is guilty of failure to
 stop after an accident involving the property of others, a misdemeanor of the
-first degree.  
+first degree.
 
     The offender shall provide the court with proof of financial responsibility
     as defined in Ohio R.C. 4509.01. If the offender fails to provide that proof
@@ -1644,5 +1644,5 @@ first degree.
     2929.28 in an amount not exceeding five thousand dollars ($5,000) for any
     economic loss arising from an accident or collision that was the direct and
     proximate result of the offender's operation of the motor vehicle before,
-    during or after committing the offense charged under this section.  
+    during or after committing the offense charged under this section.\
     (ORC 4549.03)

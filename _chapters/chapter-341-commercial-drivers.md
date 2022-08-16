@@ -180,7 +180,7 @@ entered into pursuant to Ohio R.C. 4506.09.
 
 25. _(y)_ "United States" means the fifty states and the District of Columbia.
 
-26. _(z)_ "Vehicle" has the same meaning as in Ohio R.C. 4511.01.  
+26. _(z)_ "Vehicle" has the same meaning as in Ohio R.C. 4511.01.\
 (ORC 4506.01)
 
 ## 341.02   Exemptions
@@ -267,7 +267,7 @@ construed as preempting or superseding any law, rule, or regulation of this
 State concerning the safe operation of commercial motor vehicles.
 
 4. _(d)_ Whoever violates this section is guilty of a misdemeanor of the first
-degree.  
+degree.\
 (ORC 4506.03)
 
 ## 341.04   Prohibitions
@@ -290,7 +290,7 @@ degree.
     days or longer.
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
-degree.  
+degree.\
 (ORC 4506.04)
 
 ## 341.05   Criminal offenses
@@ -346,7 +346,7 @@ the following:
     distribute, or dispose a controlled substance.
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
-degree.  
+degree.\
 (ORC 4506.15)
 
 ## 341.06   Employment of drivers of commercial vehicles
@@ -398,5 +398,5 @@ commercial driver's license temporary instruction permit.
     guilty of a misdemeanor of the first degree.
 
     2. _(2)_ Whoever violates subsection (c) of this section may be assessed a
-    fine not to exceed ten thousand dollars.  
+    fine not to exceed ten thousand dollars.\
     (ORC 4506.20)

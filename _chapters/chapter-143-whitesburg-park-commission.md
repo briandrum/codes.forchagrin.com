@@ -27,7 +27,7 @@ There is hereby created a commission to be known and designated as the
 "Whitesburg Park Commission" composed of six members appointed by the Mayor who
 shall hold no other elected or appointed position within the Village, and one
 Council person, appointed by the President of Council. The six members appointed
-by the Mayor shall be confirmed by a majority of Council.  
+by the Mayor shall be confirmed by a majority of Council.\
 (Ord. 1996-51. Passed 8-12-96.)
 
 ## 143.02   Term
@@ -36,12 +36,12 @@ The term of six members to be appointed shall be four years, provided that the
 term of two of the members appointed in 1996 shall be for two years and two of
 the members shall be for three years. In the event that a vacancy occurs during
 the term of any member, his or her successor shall be appointed for the
-unexpired portion of the term.  
+unexpired portion of the term.\
 (Ord. 1996-51. Passed 8-12-96.)
 
 ## 143.03   Compensation
 
-Members of the Commission shall serve without compensation.  
+Members of the Commission shall serve without compensation.\
 (Ord. 1996-51. Passed 8-12-96.)
 
 ## 143.04   Authority
@@ -58,7 +58,7 @@ and/or others.
 preparation of recommendations as to such proposals.
 
 3. _(c)_ To recommend to Council and the Mayor the use of all funds that have
-been donated or bequeathed for use in the Whitesburg Park.  
+been donated or bequeathed for use in the Whitesburg Park.\
 (Ord. 1996-51. Passed 8-12-96.)
 
 ## 143.05   Organization
@@ -70,7 +70,7 @@ quorum for the transaction of business. All plans, findings, advice, reports and
 recommendations made by the Commission shall be in writing and shall designate
 by name those members of the Commission approving or concurring therein, and
 members who do not so approve or concur therein shall have the right, as a part
-of such report, to state their reasons for refusing to approve or concur.  
+of such report, to state their reasons for refusing to approve or concur.\
 (Ord. 1996-51. Passed 8-12-96.)
 
 ## 143.06   Referral
@@ -78,5 +78,5 @@ of such report, to state their reasons for refusing to approve or concur.
 The Commission, when requested by Council, the Mayor, or the Chief
 Administrative Officer, shall consider, investigate, make findings, report and
 recommend upon any special matter or question coming within the scope of its
-work.  
+work.\
 (Ord. 1996-51. Passed 8-12-96.)

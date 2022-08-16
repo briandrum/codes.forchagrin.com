@@ -40,7 +40,7 @@ laws; and
 
 2. _(b)_ Registration allows the Village to ensure that contractors withhold and
 pay income taxes on behalf of their employees for work performed in the
-Village.   
+Village. \
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.02   Registration required
@@ -53,7 +53,7 @@ electrical equipment, or by a firm or corporation employing a person registered
 pursuant to the terms of this chapter. No general contracting shall be done
 within the Municipality unless the same is done by a person registered to do
 general contracting, except where the work is of a minor nature and pursuant to
-Section 1307.18.  
+Section 1307.18.\
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.03   Holders of Ohio qualification certificate; exception
@@ -72,7 +72,7 @@ the Ohio Revised Code or the Codified Ordinances of the Village shall be
 eligible to obtain or renew a certificate of registration under this chapter.
 The Chief Administrative Officer shall determine whether a violation has been
 committed recklessly or intentionally, as those terms are defined in
-Section 501.08 of the General Offenses Code.  
+Section 501.08 of the General Offenses Code.\
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.04   Registration denial; appeal
@@ -90,14 +90,14 @@ knowledge of relevant facts. The Board of Zoning Appeals, at the conclusion of
 such hearing, shall sustain, reverse or modify the decision of the Chief
 Administrative Officer, and shall state such conclusions of fact for the record
 as the basis of its decision. Such decision of the Board of Zoning Appeals
-shall be final.  
+shall be final.\
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.05   Form of registration
 
 The form of the certificate of registration to be issued under the
 provisions hereof shall be such as the Chief Administrative Officer may
-prescribe.  
+prescribe.\
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.06   Bond; liability insurance
@@ -120,7 +120,7 @@ insurance with limits no less than five hundred thousand dollars ($500,000) per
 occurrence, one million dollars ($1,000,000) aggregate. The Municipality shall
 be an additional insured party and a copy of the general liability insurance
 endorsement that indicates the Municipality is an additional insured shall be
-provided to the Chief Administrative Officer as a condition of registration.  
+provided to the Chief Administrative Officer as a condition of registration.\
 (Ord. 2011-46. Passed 7-11-11.)
 
 ## 1335.07   Revocation of certificate of registration
@@ -131,7 +131,7 @@ violates the Ohio Revised Code, the Codified Ordinances of the Village, or any
 other provision of state or federal law. The Chief Administrative Officer shall
 determine whether a violation has been committed recklessly or intentionally, as
 those terms are defined in Section 501.08 of the General Offenses Code. The
-order of revocation may be appealed pursuant to Section 1335.04.  
+order of revocation may be appealed pursuant to Section 1335.04.\
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.08   Homeowner's exception
@@ -145,14 +145,14 @@ affidavit on the form provided by the Building Department to the Building
 Inspector stating exactly the nature and extent of the work to be performed by
 the homeowner himself or herself and by others. Any work performed by such
 homeowner and others shall be subject to all provisions of this Building Code
-and to all inspections authorized by the Chief Administrative Officer.  
+and to all inspections authorized by the Chief Administrative Officer.\
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.09   Public works exception
 
 The provisions of this chapter shall not apply to any contractor performing
 public works directly for the Village or for a developer where plans,
-specifications and contracts are approved by the Village.  
+specifications and contracts are approved by the Village.\
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.10   Fees
@@ -163,5 +163,5 @@ sewer, or any construction work, under the provisions of this chapter, shall be
 one hundred twenty dollars ($120.00) for the original registration, as herein
 provided. The registration shall be renewable from year to year thereafter from
 January 1 to January 1, upon payment of the further sum of sixty dollars
-($60.00) for each year's renewal.  
+($60.00) for each year's renewal.\
 (Ord. 2006-48. Passed 7-24-06.)

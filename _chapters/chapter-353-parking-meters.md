@@ -34,7 +34,7 @@ metered parking zones in which the allowable parking shall be as prescribed by
 the provisions of this chapter. In the establishment and marking off of such
 metered parking zones upon streets, the same may be done so as to provide
 parking in such metered zones either parallel with the curb or at an angle to
-the curb, as shall be most appropriate to the particular street location.  
+the curb, as shall be most appropriate to the particular street location.\
 (Ord. 1954-326. Passed 12-13-54.)
 
 ## 353.02   Designation of areas and zones
@@ -73,7 +73,7 @@ Department drive.
 12. _(l)_ **West Street.** Both sides from River St. north to Orange St.
 
 13. _(m)_ **East Orange Street.** North side from about 100 feet east to Main
-St. to approximately 250 feet east of Main St.  
+St. to approximately 250 feet east of Main St.\
 (Ord. 1968-735. Passed 9-17-68.)
 
 ## 353.03   Regulation of parking in metered zones
@@ -101,13 +101,13 @@ vicinity. Any vehicle which remains in a metered parking zone after the
 prescribed time for parking has elapsed is hereby determined to be illegally
 parked. At each place where metered parking zones are so established as provided
 in Section 353.01, and are so marked off, each vehicle shall be parked entirely
-within a metered parking zone.  
+within a metered parking zone.\
 (Ord. 2017-74. Passed 11-13-17.)
 
 2. _(b)_ The provisions of this section shall not apply to vehicles parked upon
 the streets of the Municipality between the hours of 6:00 p. m. until 9:00 a. m.
 the following morning, or upon Sundays or holidays. For the purposes of this
-section Saturday afternoon shall not be considered a holiday.  
+section Saturday afternoon shall not be considered a holiday.\
 (Ord. 1968-735. Passed 9-17-68.)
 
 ## 353.04   Unlawful parking in metered zones
@@ -128,14 +128,14 @@ zone. Any vehicle parked contrary to these provisions shall be deemed to be
 illegally parked. The fact that a vehicle is in a metered parking zone when the
 time signal on the parking meter for the same shows no parking permitted, unless
 a deposit of a coin is made as provided in this chapter, shall be deemed
-prima-facie evidence of the unlawful parking of such vehicle by its owner.  
+prima-facie evidence of the unlawful parking of such vehicle by its owner.\
 (Ord. 1954-326. Passed 12-13-54.)
 
 4. _(d)_ It shall be unlawful for the driver, or the person in charge of a
 vehicle, or any person during, or at the expiration of any maximum authorized
 period of parking, to again insert or cause to be inserted the prescribed fee in
 the parking meter so as to set the parking meter in operation for an addition
-time period beyond the original maximum authorized period.  
+time period beyond the original maximum authorized period.\
 (Ord. 2000-67. Passed 9-25-00.)
 
 5. _(e)_ It shall be unlawful for the driver, or the person in charge of a
@@ -144,7 +144,7 @@ on the Zone Map of the Municipality of Chagrin Falls, as provided for in Section
 1119.03 for more than three total hours in any nine hour span anywhere in the
 Central Shopping District between the hours of 9AM and 6PM during the weekdays
 of Monday through Friday, except that the provisions of this Section shall not
-apply to vehicles parked on the streets of the Village on declared holidays.  
+apply to vehicles parked on the streets of the Village on declared holidays.\
 (Ord. 2019-15. Passed 3-11-19.)
 
 ## 353.05   Prima-facie evidence of unlawful parking
@@ -157,7 +157,7 @@ that the records of the Registrar or the Deputy Registrar of Motor Vehicles for
 the State show that such license plate was issued to the defendant, shall be
 prima-facie evidence that the vehicle which was unlawfully parked was so parked
 by the defendant. A certified copy showing such fact from such Registrar or
-Deputy Registrar of the State shall be proof of such ownership.  
+Deputy Registrar of the State shall be proof of such ownership.\
 (Ord. 2017-74. Passed 11-13-17.)
 
 ## 353.06   Collection of coins from meters
@@ -169,7 +169,7 @@ the Village of Chagrin Falls, as determined by Ordinance of the Village Council.
 A complete and accurate record shall be maintained at all times of the time and
 amount of each collection, and a receipt for each deposit, indicating the number
 of coin bags received at the local bank depository for the Village shall be
-provided by such officer to the Clerk of Council.  
+provided by such officer to the Clerk of Council.\
 (Ord. 2017-74. Passed 11-13-17.)
 
 ## 353.07   Application of fund
@@ -181,7 +181,7 @@ inspection fee to cover the cost of inspection and regulation involved in the
 inspection, installation, operation, control and use of metered parking zones
 and parking meters mentioned herein and in checking and regulating the parking
 spaces where parking meters have been installed. The payments shall be made to
-the general fund and shall be applied as determined by Village Council.  
+the general fund and shall be applied as determined by Village Council.\
 (Ord. 2017-74. Passed 11-13-17.)
 
 ## 353.08   Waiver
@@ -204,7 +204,7 @@ Motor Vehicles to place a registration block upon the vehicle cited until the
 fine is deposited if not deposited within sixty (60) days of the citation date,
 and in which event the violator shall pay the cost, if any, to remove the
 registration block when the fine is deposited, may be fined such amounts by the
-Court.  
+Court.\
 (Ord. 2017-05. Passed 2-13-17.)
 
 ## 353.99   Penalty

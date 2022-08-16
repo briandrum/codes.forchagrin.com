@@ -28,5 +28,5 @@ Code.
 
 4. _(d)_ The purchase of or sale of land within the Land Reutilization Program
 shall occur only after the passage of legislation by Council authorizing such
-action.  
+action.\
 (Ord. 2009-32. Passed 8-10-09.)

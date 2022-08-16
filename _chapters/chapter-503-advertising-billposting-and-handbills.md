@@ -30,7 +30,7 @@ or impress, or in any manner attach any notice or advertisement or the name of
 any commodity or thing or any trade mark, symbol or figure of any kind upon
 anything whatever, the property of another, without first obtaining permission
 of the owner of such thing on which it is desired to place such notice,
-advertisement, name, mark or figure.  
+advertisement, name, mark or figure.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 503.02   Advertising on public property
@@ -44,7 +44,7 @@ advertisement of any kind upon any public building, voting booth, flagging,
 curb, tree lawn, step, stone or sidewalk, the property of the Municipality or
 within the street lines of the Municipality or over which the Municipality or
 Council has the care, custody or control, except such as may be required by the
-laws of the State or upon written permission of the Mayor.  
+laws of the State or upon written permission of the Mayor.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 503.99   Penalty

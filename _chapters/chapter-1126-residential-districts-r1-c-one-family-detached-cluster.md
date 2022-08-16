@@ -37,7 +37,7 @@ values; and
 
 3. _(c)_ Increased flexibility in the design and arrangement of single family
 detached residential development so as to minimize the impact on existing
-residential areas.  
+residential areas.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.02   Permitted uses
@@ -65,7 +65,7 @@ main and accessory uses set forth below.
     Code.
 
     6. _(6)_ Home occupations, renting of rooms as regulated in Section 1125.05
-    of this Planning and Zoning Code  
+    of this Planning and Zoning Code\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.03   Development area
@@ -75,7 +75,7 @@ designated on the official Zoning Map.
 
 2. _(b)_ The minimum development area shall be twenty contiguous acres and the
 total area shall be under one ownership at the time of application or the
-subject of a joint application.  
+subject of a joint application.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.04   Determination of density
@@ -89,7 +89,7 @@ no case shall the number of building lots or dwelling units permitted exceed the
 yield plan number of units or lots.
 
 2. _(b)_ Lots in the R1-C District shall be occupied by not more than one (1)
-main building per lot.  
+main building per lot.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.05   Development plan required; design criteria
@@ -128,13 +128,13 @@ landscape plan and shall be maintained as open space which may be included as
 part of the required common open space.
 
 8. _(h)_ The plan shall not have an adverse impact on the scale and character of
-surrounding existing development.  
+surrounding existing development.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.06   Maximum dwelling unit area
 
 The dwelling unit area of each dwelling unit shall not exceed 2,800 square
-feet.  
+feet.\
  (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.07   Open space required
@@ -180,7 +180,7 @@ natural preserve areas, and passive park type uses such as hiking trails,
 marked in a manner so as to distinguish such open space from individual lots.
 
 8. _(h)_ Common open space shall not be depleted, reduced in size or converted
-to any other use.  
+to any other use.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.08   Ownership and maintenance of open space
@@ -200,7 +200,7 @@ controlled by the dwelling unit owners, and subject to legally enforceable
 declarations and restrictions. Such declarations and restrictions shall grant
 enforcement rights to the Municipality as a third-party beneficiary and shall be
 reviewed by and must obtain approval of the Law Director before final approval
-for development will be granted.  
+for development will be granted.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.09   Access and circulation
@@ -225,7 +225,7 @@ by the Municipality, which will ensure the preservation of the private street in
 perpetuity.
 
 5. _(e)_ Each development shall be served by a comprehensive walkway system,
-adequately separated from vehicular circulation.  
+adequately separated from vehicular circulation.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1126.10   Supplemental regulations
@@ -237,5 +237,5 @@ storage of motor or body parts in an open yard is prohibited.
 
 3. _(c)_ For regulations regarding off-street parking and loading, landscaping,
 lighting, signs and environmental performance, refer to Chapters 1141 - 1150 of
-the Planning and Zoning Code.  
+the Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

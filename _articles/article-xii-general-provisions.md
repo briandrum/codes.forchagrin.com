@@ -21,7 +21,7 @@ title: "Article XII: General Provisions"
 The provisions of this Charter shall become effective January 1, 1963. The Mayor
 and Council elected at the November 7, 1961 Municipal election, or their
 successors, shall perform all the duties and functions of the Mayor and Council
-under this Charter, and their terms shall be as provided for herein.  
+under this Charter, and their terms shall be as provided for herein.\
 (Amended 11-3-81)
 
 ## Section XII-2: Effective date of amendments
@@ -29,7 +29,7 @@ under this Charter, and their terms shall be as provided for herein.
 All amendments to this Charter shall become effective on January 1 of the year
 following the election at which such amendments are adopted pursuant to law,
 unless the amendments themselves call for a different effective date, in which
-event the specific effective date called for shall be binding.  
+event the specific effective date called for shall be binding.\
 (Added 11-3-81)
 
 ## Section XII-3: Continuance of present employees

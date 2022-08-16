@@ -60,7 +60,7 @@ Section 545.02(c)(3).
 
 3. _(c)_ Prima-facie evidence of the value of property, as provided in Section
 545.02(d) may be used to establish the value of property pursuant to this
-section.  
+section.\
 (ORC 2909.11)
 
 ## 541.02   Arson
@@ -81,7 +81,7 @@ the other person's consent.
 3. _(c)_ Whoever violates this section is guilty of arson, a misdemeanor of the
 first degree. If the value of the property or the amount of physical harm
 involved is one thousand dollars ($1,000) or more, arson is a felony and shall
-be prosecuted under appropriate State law.  
+be prosecuted under appropriate State law.\
 (ORC 2909.03)
 
 ## 541.03   Criminal damaging or endangering
@@ -104,7 +104,7 @@ equipment or implement used or intended to be used in the operation of an
 aircraft and if the violation creates a risk of physical harm to any person or
 if the property involved in a violation is an occupied aircraft, crimimal
 damaging or endangering is a felony and shall be prosecuted under appropriate
-State law.  
+State law.\
 (ORC 2909.06)
 
 ## 541.04   Criminal mischief
@@ -222,7 +222,7 @@ State law.
     appropriate state law.
 
     4. _(4)_ Criminal mischief committed in violation of subsection (a)(7) of
-    this section is a felony to be prosecuted under appropriate state law.  
+    this section is a felony to be prosecuted under appropriate state law.\
     (ORC 2909.07)
 
 ## 541.05   Criminal trespass
@@ -402,7 +402,7 @@ authorization was secured by deception.
     separate enclosure or room, or portion thereof.
 
     5. _(5)_ "Production Operation, Well, and Well Pad". Have the same meanings
-    as in Ohio R.C. 1509.01.  
+    as in Ohio R.C. 1509.01.\
     (ORC 2911.21)
 
 ### 541.051   Aggravated trespass
@@ -424,7 +424,7 @@ misdemeanor of the first degree. Aggravated trespass in violation of subsection
 (a)(2) of this section is a felony to be prosecuted under appropriate state law.
 
 3. _(c)_ As used in this section, "Critical infrastructure facility" has the
-same meaning as in Ohio R.C. 2911.21.  
+same meaning as in Ohio R.C. 2911.21.\
 (ORC 2911.211)
 
 ## 541.06   Destruction of shrubs, trees or crops
@@ -434,11 +434,11 @@ destroy, girdle or otherwise injure a vine, bush, shrub, sapling, tree or crop
 standing or growing on the land of another or upon public land.
 
 2. _(b)_ In addition to any penalty provided, whoever violates this section is
-liable in treble damages for the injury caused.  
+liable in treble damages for the injury caused.\
 (ORC 901.51)
 
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the third
-degree.  
+degree.\
 (ORC 901.99(A))
 
 ## 541.07   Desecration
@@ -463,7 +463,7 @@ of the second degree.
 
 3. _(c)_ As used in this section, "cemetery" means any place of burial and
 includes burial sites that contain American Indian burial objects placed with or
-containing American Indian human remains.  
+containing American Indian human remains.\
 (ORC 2927.11)
 
 ## 541.08   Ethnic intimidation
@@ -475,7 +475,7 @@ national origin of another person or group of persons.
 
 2. _(b)_ Whoever violates this section is guilty of ethnic intimidation. Ethnic
 intimidation is an offense of the next higher degree than the offense the
-commission of which is a necessary element of ethnic intimidation.  
+commission of which is a necessary element of ethnic intimidation.\
 (ORC 2927.12)
 
 ## 541.09   Loitering; obstructing free passage
@@ -490,7 +490,7 @@ person block or obstruct or prevent the free access to the entrance to any
 building open to the public.
 
 2. _(b)_ Whoever violates this section is guilty of loitering, a misdemeanor of
-the third degree.  
+the third degree.\
 (Ord. 1992-68. Passed 7-13-92.)
 
 ## 541.10   Vehicular vandalism
@@ -519,7 +519,7 @@ as otherwise provided in this subsection, vehicular vandalism is a misdemeanor
 of the first degree. If the violation of this section creates a substantial risk
 of physical harm to any person, serious physical harm to property, physical harm
 to any person or serious physical harm to any person, vehicular vandalism is a
-felony and shall be prosecuted under appropriate State law.  
+felony and shall be prosecuted under appropriate State law.\
 (ORC 2909.09)
 
 ## 541.11   Trespass on a place of public amusement
@@ -590,7 +590,7 @@ public amusement.
     sanction it imposes upon the offender pursuant to subsection (e)(1) of this
     section, a court may require an offender who violates this section to
     perform not less than thirty and not more than one hundred twenty hours of
-    supervised community service work.  
+    supervised community service work.\
     (ORC 2911.23)
 
 ## 541.99   Penalty

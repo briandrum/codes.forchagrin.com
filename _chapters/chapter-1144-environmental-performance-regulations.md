@@ -21,7 +21,7 @@ Solar energy systems - see P. & Z. Ch. 1153
 
 These environmental performance regulations are established in order to protect
 local residents and property from offensive or harmful effects resulting from
-conduct of various activities.  
+conduct of various activities.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1144.02   Regulations
@@ -80,7 +80,7 @@ building or other permitted improvement of a lot. In industrial districts, no
 such activities shall be conducted in such a manner as to create a nuisance as
 defined in Chapter 1340 of the Codified Ordinances of the Municipality. Soil
 removal is also regulated by Chapter 1355 of the Codified Ordinances of the
-Municipality.  
+Municipality.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1144.03   Proposed uses and facilities
@@ -89,7 +89,7 @@ Except in R1 and R2F Districts, all applications for zoning certificates shall
 be accompanied by certification by the applicant that the proposed use can meet
 the performance standards set forth above, However, the Administrator may waive
 this requirement for applications which, in his determination, do not propose
-activities relevant to the above standards.  
+activities relevant to the above standards.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1144.04   Existing uses and facilities
@@ -109,5 +109,5 @@ cost shall be borne by the Municipality.
 and subsequently found to be operating in violation of the performance standards
 set forth in this chapter shall correct such violations within a reasonable
 period of time as determined by the Administrator in accordance with Chapter
-1109.07 of this Planning and Zoning Code.  
+1109.07 of this Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

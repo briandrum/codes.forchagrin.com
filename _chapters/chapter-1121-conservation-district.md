@@ -29,7 +29,7 @@ topographic, botanic, historic or scenic areas;
 area; and
 
 4. _(d)_ To provide opportunities for environmental education and outdoor
-recreation that are compatible with the other objectives of the District.  
+recreation that are compatible with the other objectives of the District.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1121.02   Permitted uses
@@ -62,7 +62,7 @@ the main and accessory uses set forth below.
     3. _(3)_ Lighting structures as regulated in Chapter 1150 of this Planning
     and Zoning Code and flagpoles.
 
-    4. _(4)_ Fences, walls and hedges as regulated in Chapter 1148.  
+    4. _(4)_ Fences, walls and hedges as regulated in Chapter 1148.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1121.03   Area, yard and height regulations
@@ -77,7 +77,7 @@ plan as required in Section 1109.04 and the following:
 2. _(b)_ The Development Standards set forth in Section 1121.04; and
 
 3. _(c)_ Recommendations from the Administrator, Municipal Engineer and other
-Municipal officers as applicable.  
+Municipal officers as applicable.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1121.04   Development standards
@@ -119,11 +119,11 @@ this chapter and the plans for such construction shall be reviewed and subject
 to approval by the Municipal Engineer.
 
 8. _(h)_ More than one (1) main building may be grouped on a lot provided that
-such grouping shall comply with the requirements of this District.  
+such grouping shall comply with the requirements of this District.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1121.05   Sign regulations
 
 Incidental signs shall be permitted. The number, size and placement of such
-signs shall be the minimum necessary as approved by the Administrator.  
+signs shall be the minimum necessary as approved by the Administrator.\
 (Ord. 2019-39. Passed 8-13-19.)

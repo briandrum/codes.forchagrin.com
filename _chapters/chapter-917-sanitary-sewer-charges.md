@@ -29,7 +29,7 @@ For the purpose of this chapter the following definitions shall apply:
 1. _(a)_ "Sewerage system" or "system" means the sanitary sewerage system of the
 Municipality as now existing or as hereafter extended and improved, and shall
 include sewers, pumping stations, sewage or waste water treatment works and any
-and all other appurtenances common to such systems.  
+and all other appurtenances common to such systems.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 2. _(b)_ "Sanitary sewage" means the waste from water closets, urinals,
@@ -46,7 +46,7 @@ or industrial operation or process.
 4. _(d)_ "Nonacceptable industrial wastes" means liquid wastes in which are
 incorporated minerals, oil, acid, toxic, metallic or chemical substances,
 resulting from any commercial, manufacturing or industrial operation or
-process.  
+process.\
 (Ord. 1968-729. Passed 6-18-68.)
 
 ## 917.02   Declaration of necessity
@@ -54,7 +54,7 @@ process.
 It is hereby determined and declared to be necessary for the due protection of
 the public health, safety and welfare of the Municipality to establish and
 collect the charges herein provided for the use of the system upon all lots,
-lands and premises served by or having connection with the system.  
+lands and premises served by or having connection with the system.\
 (Ord. 1968-729. Passed 6-18-68.)
 
 ## 917.03   Disposition of funds
@@ -68,7 +68,7 @@ of the sewerage system and any surplus in such Fund over and above the
 requirements hereinbefore mentioned may be used for enlargements of and
 replacements and improvements to the sewerage system and parts thereof, but
 shall not be used for the extension of the sewerage system to serve unsewered
-areas or for any other purpose whatsoever.  
+areas or for any other purpose whatsoever.\
 (Ord. 1955-346. Passed 8-13-55; Ord. 1968-729. Passed 6-18-68.)
 
 ## 917.04   Sanitary sewer charges and connection fees
@@ -114,12 +114,12 @@ per hundred cubic feet of water, whichever is greater.
     |                   01/01/23 | $12.13/100 cf - $72.78 |
 
     After the year 2019, the rates established for 2019 shall remain in effect
-    until modified by Council.  
+    until modified by Council.\
     (Ord. 2020-08. Passed 3-9-20.)
 
 3. _(c)_ Any sewage bill unpaid after January 30, April 30, July 30 or October
 30 of any year shall incur a penalty of ten percent (10%) of the total unpaid
-balance due.  
+balance due.\
 (Ord. 1985-7. Passed 2-11-85.)
 
 4. _(d)_ On premises using water supplied from sources other than the water
@@ -181,7 +181,7 @@ River Road as set forth in Ordinance No. 1971-819:
     flows as presented in the Ohio Environmental Protection Agency Sewerage Flow
     Guide, revised from time to time, and using 400 gallons per day (one RSFU)
     as a base. The amount of the charge shall be determined by applying the RSFU
-    equivalent figure to the above fee schedule.  
+    equivalent figure to the above fee schedule.\
     (Ord. 2018-80. Passed 12-11-18.)
 
 8. _(h)_ In the event any premises are located outside the corporate limits of
@@ -198,7 +198,7 @@ such lot, parcel of land or premises.
     |                   01/01/23 |   $388.04 |
 
     After the year 2023, the rates established for 2023 shall remain in effect
-    until modified by Council.  
+    until modified by Council.\
     (Ord. 2020-08. Passed 3-9-20.)
 
 9. _(i)_ In addition to any existing connection or tap charge paid pursuant to
@@ -207,7 +207,7 @@ made to the Village waste water treatment facilities from outside the
 Municipality, except for those properties situated on Falls River Road as set
 forth in Ordinance No. 1971- 819, adopted February 21, 1971, an impact fee of
 sixteen thousand dollars ($16,000) per residential unit shall be paid to the
-Village.  
+Village.\
 (Ord. 2018-80. Passed 12-11-18.)
 
 10. _(j)_ Owners of property always remain responsible to the Municipality to
@@ -216,7 +216,7 @@ of the responsibility or obligation for payment of charges assessed to correct
 errors made by reason of inadvertence, oversight, or faulty calculation. The
 Municipality hereby empowers itself to recover for sewer charges even when the
 result of inadvertence, oversight, or faulty calculation or failure to send a
-bill to the owner of the property with the correct charges.  
+bill to the owner of the property with the correct charges.\
 (Ord. 2017-20. Passed 4-24-17.)
 
 ## 917.05   Additional charges for industrial wastes
@@ -227,7 +227,7 @@ Municipality and the owner of any premises served by the system, such additional
 charges for industrial wastes of unusual strength of composition which are
 accepted by the Municipality for treatment as may be determined to be fair and
 equitable. Each such special agreement and the charges established thereby shall
-not become effective until ratified by ordinance duly passed by Council.  
+not become effective until ratified by ordinance duly passed by Council.\
 (Ord. 1968-729. Passed 6-18-68.)
 
 ## 917.06   Collection of charges; leased lots
@@ -248,7 +248,7 @@ premises having a connection with the system, the lessor and lessee shall both
 be liable for the payment of the sewer charges herein provided, and the
 Municipality may proceed to collect such charges from either the lessor or the
 lessee, or it may certify delinquent charges to the Auditor of Cuyahoga County,
-or Geauga County, as provided in subsection (a) hereof.  
+or Geauga County, as provided in subsection (a) hereof.\
 (Ord. 1968-729. Passed 6-18-68.)
 
 ## 917.07   Treatment of certain wastes required
@@ -261,7 +261,7 @@ premises, located within or without the corporate limits of the Municipality,
 the owner, lessor, renter or occupant of such lot, land, building, or premises
 shall be required to treat, neutralize or in other ways prepare the noxious
 substance therein to the satisfaction of the Superintendent of Services, in
-order to convert the same into acceptable industrial wastes.  
+order to convert the same into acceptable industrial wastes.\
 (Ord. l968-729. Passed 6-l8-68.)
 
 ## 917.99   Penalty

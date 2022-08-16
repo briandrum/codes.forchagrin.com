@@ -102,7 +102,7 @@ installation, that do not result in the installation of impervious surface as
 determined by the Village Engineer. Such projects must be designed to minimize
 the number of stream crossings and the width of disturbance. Linear construction
 projects must comply with the requirements of Chapter 1357 Comprehensive
-Stormwater Management.  
+Stormwater Management.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.02   Definitions
@@ -354,7 +354,7 @@ a single point.
 ground water at a frequency and duration sufficient to support, and that under
 normal circumstances do support, a prevalence of vegetation typically adapted
 for life in saturated soil conditions, including swamps, marshes, bogs, and
-similar areas (40 CFR 232, as amended).  
+similar areas (40 CFR 232, as amended).\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.03   Disclaimer of liability
@@ -367,7 +367,7 @@ or any particular parcel of property.
 
 2. _(b)_ By approving a Comprehensive Stormwater Management Plan under this
 regulation, the Village of Chagrin Falls does not accept responsibility for the
-design, installation, and operation and maintenance of SCMs.  
+design, installation, and operation and maintenance of SCMs.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.04   Conflicts, severability, nuisances and responsibility
@@ -389,7 +389,7 @@ hazardous or unsightly conditions or to recommend corrective measures shall not
 relieve the site owner from the responsibility for the condition or damage
 resulting therefrom, and shall not result in the Village of Chagrin Falls, its
 officers, employees, or agents being responsible for any condition or damage
-resulting therefrom.  
+resulting therefrom.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.05   Development of comprehensive stormwater management plans
@@ -409,7 +409,7 @@ responsible for determination of compliance with this regulation, and shall
 issue notices and orders as may be necessary. The Village of Chagrin Falls may
 consult with the Cuyahoga SWCD, state agencies, private engineers, stormwater
 districts, or other technical experts in reviewing the Comprehensive Stormwater
-Management Plan.  
+Management Plan.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.06   Application procedures
@@ -463,7 +463,7 @@ not begin and zoning and/or building permits shall not be issued without an
 approved Comprehensive Stormwater Management Plan.
 
 6. _(f)_ Valid for Two Years: Approvals issued in accordance with this
-regulation shall remain valid for two (2) years from the date of approval.  
+regulation shall remain valid for two (2) years from the date of approval.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.07   Compliance with state and federal regulations
@@ -521,7 +521,7 @@ Nationwide Permit Program. This shall include one of the following:
 Division of Soil and Water Resources permit application tracking number, a copy
 of the project approval letter from the ODNR Division of Soil and Water
 Resources, or a letter from the site owner certifying and explaining why the
-Ohio Dam Safety Law is not applicable.  
+Ohio Dam Safety Law is not applicable.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.08   Comprehensive stormwater management plan
@@ -812,7 +812,7 @@ information provided:
         information requested by the Village Engineer.
 
         4. _(D)_ Each SCM shall be designated with an individual identification
-        number.  
+        number.\
         (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.09   Performance standards
@@ -1501,7 +1501,7 @@ in flow velocities. This shall include but not be limited to:
             4. _(4)_ Where conditions prevent impervious area reduction or
             on-site stormwater management for redevelopment projects, practical
             alternatives as detailed in Section 1357.10 of this Chapter may be
-            approved by the Village Engineer.  
+            approved by the Village Engineer.\
             (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.10   Alternative actions
@@ -1540,7 +1540,7 @@ All alternative actions shall be approved by the Village Engineer:
 
     4. _(4)_ Acquisition or conservation easements on protected open space
     significantly contributing to stormwater control such as wetland
-    complexes.  
+    complexes.\
     (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.11   Easements
@@ -1571,7 +1571,7 @@ obstruct the free flow of stormwater and the passage of inspectors and
 maintenance equipment; and against the changing of final grade from that
 described by the final grading plan approved by the Village of Chagrin Falls.
 Any re-grading and/or obstruction placed within a maintenance easement may be
-removed by the Village of Chagrin Falls at the property owners' expense.  
+removed by the Village of Chagrin Falls at the property owners' expense.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.12   Maintenance and final inspection approval 
@@ -1598,7 +1598,7 @@ detailed in the Inspection and Maintenance Agreement.
 
 3. _(c)_ A copy of the complete and recorded Inspection and Maintenance Plan and
 Inspection and Maintenance Agreement as specified in Section 1357.08 of this
-Chapter must be provided to the Village Engineer.  
+Chapter must be provided to the Village Engineer.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.13   On-going inspections
@@ -1616,7 +1616,7 @@ five (5) working days, or other mutually agreed upon time, to makes repairs or
 submit a plan with detailed action items and established timelines. Should
 repairs not be made within this time, or a plan approved by the Village Engineer
 for these repairs not in place, the Village of Chagrin Falls may undertake the
-necessary repairs and assess the responsible party.  
+necessary repairs and assess the responsible party.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.14   Fees
@@ -1625,7 +1625,7 @@ The Comprehensive Stormwater Management Plan review, filing, and inspection fee
 is part of a complete submittal and is required to be submitted to the Village
 of Chagrin Falls before the review process begins. The Village Engineer shall
 establish a fee schedule based upon the actual estimated cost for providing
-these services.  
+these services.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.15   Bond
@@ -1662,7 +1662,7 @@ are not met after three years of permanent stabilization of the site, the
 Village of Chagrin Falls may use the bond monies to fix any outstanding issues
 with all stormwater management structures on the site and the remainder of the
 bond shall be given to the private lot owner/ homeowners association for the
-purpose of long term maintenance of the project.  
+purpose of long term maintenance of the project.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.16   Installation of water quality stormwater control measures
@@ -1678,7 +1678,7 @@ demonstrate that the site is completely stabilized. Upon this proof of
 compliance, the water quality structure(s) may be completed and placed into
 service. Upon completion of installation of these practices, all disturbed areas
 and/or exposed soils caused by the installation of these practices must be
-stabilized within 2 days.  
+stabilized within 2 days.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.17   Violations
@@ -1688,7 +1688,7 @@ provisions of this regulation, or fail to comply with any of such provisions or
 with any lawful requirements of any public authority made pursuant to this
 regulation, or knowingly use or cause or permit the use of any lands in
 violation of this regulation or in violation of any permit granted under this
-regulation.  
+regulation.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.18   Appeals
@@ -1698,7 +1698,7 @@ action or inaction by the Village of Chagrin Falls in relation to this
 regulation may appeal to the Board of Zoning Appeals within 10 days of such
 official action. Such an appeal shall be made in conformity with Chapter 1111.
 Written notice of the appeal shall be filed with the Chief Administrative
-Officer.  
+Officer.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.99   Penalty
@@ -1717,5 +1717,5 @@ preclude the Village of Chagrin Falls instituting an appropriate action or
 proceeding in a Court of proper jurisdiction to prevent an unlawful development,
 or to restrain, correct, or abate a violation, or to require compliance with the
 provisions of this regulation or other applicable laws, ordinances, rules, or
-regulations, or the orders of the Village of Chagrin Falls.  
+regulations, or the orders of the Village of Chagrin Falls.\
 (Ord. 2016-79. Passed 12-12-16.)

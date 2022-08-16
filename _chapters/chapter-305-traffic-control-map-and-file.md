@@ -46,7 +46,7 @@ Municipality's current:
 The Traffic Control Map shall be prepared and kept on file in the Police
 Department and it shall be maintained by the Police Department. A copy of the
 Traffic Control Map existing as of the date of passage of this Traffic Code
-shall be attached to and is incorporated as a part of the Traffic Code.  
+shall be attached to and is incorporated as a part of the Traffic Code.\
 (Ord. 2002-51. Passed 9-9-02.)
 
 ## 305.02   Traffic control file

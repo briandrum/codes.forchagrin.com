@@ -32,7 +32,7 @@ If such building is not commenced and carried forward, any excavation or removal
 made preparatory thereto for a basement or foundation shall be filled up and
 replanted, and any soil or material excavated for such basement or foundation
 shall not be left piled or stored on the premises more than three months after
-such excavation, unless properly graded to an approved grade.  
+such excavation, unless properly graded to an approved grade.\
 (Ord. 1956-381. Passed 8-13-56.)
 
 ## 751.02   Issuance of permit
@@ -41,7 +41,7 @@ The Building Inspector (i.e. the Chief Administrative Officer) may issue a
 permit to remove topsoil and substances enumerated in Section 751.01 if he finds
 that all of the conditions of this chapter will be or have been complied with
 and if he finds that no nuisance or hazard to person or property will be created
-by such operation.  
+by such operation.\
 (Ord. 1956-381. Passed 8-13-56.)
 
 ## 751.03   Application for permit; fee
@@ -57,7 +57,7 @@ removed and the steps to be taken toward restoration and ultimate use of the
 land. The applicant for such permit shall deposit with the Building Inspector as
 the cost of such permit and necessary inspections by the Inspector, an amount
 equal to twenty-five dollars ($25.00) for each acre-foot of soil or material to
-be removed.  
+be removed.\
 (Ord. 1956-381. Passed 8-13-56; Ord. 1990-79. Passed 10-8-90.)
 
 ## 751.04   Bond required
@@ -66,7 +66,7 @@ Before issuing a permit to remove soil, the applicant shall post a bond in the
 amount of one thousand dollars ($1,000) in favor of the Municipality,
 conditioned upon the performance of the work authorized by the permit in
 accordance with this chapter and the terms of such permit, signed by the
-applicant and a good and satisfactory corporate surety.  
+applicant and a good and satisfactory corporate surety.\
 (Ord. 1956-381. Passed 8-13-56.)
 
 ## 751.05   Natural drainage altered; regrading; reseeding
@@ -79,7 +79,7 @@ and level as possible, so as to remove all abrupt breaks or banks, piles or
 mounds in the topography, and the affected area shall be reseeded at the
 applicant's expense with rye grass or its equivalent at the rate of twenty-five
 pounds per acre, or sweet clover or its equivalent at the rate of twelve pounds
-per acre.  
+per acre.\
 (Ord. 1956-381. Passed 8-13-56.)
 
 ## 751.06   Hours for work; leaking loads
@@ -91,7 +91,7 @@ used in connection with any construction or demolition activity between the
 hours of 7:00 p.m. and 7:00 a.m. from Monday to Saturday, inclusive. No such
 activity or operation shall be performed on Sundays or holidays. Trucks or other
 vehicles shall not be so loaded with topsoil or other materials as to result in
-or cause spilling of soil or materials on the streets.  
+or cause spilling of soil or materials on the streets.\
 (Ord. 2008-53. Passed 2-9-09.)
 
 ## 751.99   Penalty

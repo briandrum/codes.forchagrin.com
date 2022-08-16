@@ -53,21 +53,21 @@ caused by increased hillside instability;
 police and fire vehicles and personnel to protect persons and property; and,
 
 6. _(f)_ To preserve and protect the unique scenic resources and scenic river
-habitats in the Municipality.  
+habitats in the Municipality.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1152.02   Definitions
 
 1. _(a)_ "Average percent slope."
 
-    Average percent slope "S" is computed by the formula:  
-    S = 0.00229 I L  
+    Average percent slope "S" is computed by the formula:\
+    S = 0.00229 I L\
     A
 
-    where S = Average percent slope  
-    I = Contour interval, in feet*  
-    L = Summation of length of contours, in feet  
-    A = Area in acres of parcel being considered  
+    where S = Average percent slope\
+    I = Contour interval, in feet*\
+    L = Summation of length of contours, in feet\
+    A = Area in acres of parcel being considered\
 
     /* Calculations of average percent slope should be based upon accurate
     topographic surveys using a contour interval no greater than ten feet and a
@@ -133,7 +133,7 @@ without filtering into the soil.
 
 17. _(q)_ "Undisturbed" means that portion of the parcel to be developed which
 will not be regraded, have any vegetation removed from or have any impervious
-surface constructed on or over as specified in this chapter.  
+surface constructed on or over as specified in this chapter.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1152.03   Procedures
@@ -164,7 +164,7 @@ determined by the Administrator and the Municipal Engineer before the next phase
 permit will be issued.
 
     Refer to Section 1152.06 for additional information on administration and
-    enforcement.  
+    enforcement.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1152.04   Required hillside control measures, standards and plans
@@ -370,7 +370,7 @@ prohibit normal landscape maintenance or routine arboreal activities or to
 prohibit small scale planting of ornamental flowers or shrubs, or the removal of
 diseased, dead or damaged trees. However, such activities shall be carried out
 to conformance with the standards of vegetation or revegetation of this
-chapter.  
+chapter.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1152.05   Hold harmless provisions
@@ -390,7 +390,7 @@ liability claims by other property owners.
 issuance of related permits do not imply approval of, the need for or the
 benefit or efficacy of the proposed construction; nor does it constitute any
 assertion that the proposed construction will not result in damage to the
-property in question or to adjoining property.  
+property in question or to adjoining property.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1152.06   Administration and enforcement
@@ -420,5 +420,5 @@ relating to the purpose and scope of these Regulations. Whenever the
 requirements of any other lawfully adopted law, ordinance, regulation,
 resolution or rule, conflict with or similarly regulate the same subject matter
 as the Hillside Protection Regulations, the more restrictive or that imposing
-the higher standards shall govern.  
+the higher standards shall govern.\
 (Ord. 2019-39. Passed 8-13-19.)

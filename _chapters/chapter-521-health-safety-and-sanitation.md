@@ -47,7 +47,7 @@ such equipment harmless to human life by removing such hinges, latches or other
 hardware which may cause a person to be confined therein. This section shall not
 apply to an icebox, refrigerator or other airtight or semiairtight container
 located in that part of a building occupied by a dealer, warehouseman or
-repairman.  
+repairman.\
 (ORC 3767.29)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
@@ -125,11 +125,11 @@ with the phrase "Not Approved For Home Use."
 10. _(j)_ No person shall use a cabinet-type, liquid petroleum gas-fired heater
 having a fuel source within the heater, inside any building, except as permitted
 by the State Fire Marshal in the State Fire Code adopted by him under Ohio R.C.
-3737.82.  
+3737.82.\
 (ORC 3701.82)
 
 11. _(k)_ Whoever violates this section is guilty of a misdemeanor of the first
-degree.  
+degree.\
 (ORC 3701.99(C))
 
 ## 521.03   Barricades and warning lights; abandoned excavations
@@ -170,7 +170,7 @@ Municipality generally and constituting police or sanitary regulations for the
 protection of the Municipality and the inhabitants thereof, shall apply equally
 to the protection of all property owned by the Municipality and situated outside
 of the corporate limits thereof and used for or in connection with its water
-supply system.  
+supply system.\
 (Ord. 1944-10. Passed 7-10-44.)
 
 4. _(d)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -215,7 +215,7 @@ disposal of materials in or upon the banks of a ditch, stream, river or other
 watercourse after October 15, 1968, where such placing or disposal would be
 prohibited under the provisions of subsection (b) hereof. Such placing or
 disposal may be enjoined by the Common Pleas Court of Cuyahoga County upon
-application by the Environmental Control Officer.  
+application by the Environmental Control Officer.\
 (Ord. 1968-740. Passed 10-1-68.)
 
 4. _(d)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -312,7 +312,7 @@ following applies:
     auxiliary containers, or anything else of an unsightly or unsanitary nature.
 
     4. _(4)_ "Litter receptacle" means a dumpster, trash can, trash bin, garbage
-    can, or similar container in which litter is deposited for removal.  
+    can, or similar container in which litter is deposited for removal.\
     (ORC 3767.32)
 
 5. _(e)_ No person shall cause or allow litter to be collected or remain in any
@@ -324,7 +324,7 @@ watercourse.
 guilty of a misdemeanor of the third degree. The sentencing court may, in
 addition to or in lieu of the penalty provided in this subsection require a
 person who violates subsections (a) to (e) hereof to remove litter from any
-public or private property, or in or on any waters.  
+public or private property, or in or on any waters.\
 (ORC 3767.99(C))
 
 ## 521.09   Noxious or offensive odors
@@ -333,7 +333,7 @@ public or private property, or in or on any waters.
 structure or place for a residence or for the exercise of a trade, employment or
 business, or for the keeping or feeding of an animal which, by occasioning
 noxious exhalations or noisome or offensive smells, becomes injurious to the
-health, comfort or property of individuals or of the public.  
+health, comfort or property of individuals or of the public.\
 (ORC 3767.13)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
@@ -349,7 +349,7 @@ containers. The proprietors or managers of such eating establishments shall
 maintain on the premises in areas where food is consumed out of doors refuse and
 waste containers which are easily accessible to customers and employees. Such
 containers shall be metal, of at least twenty-gallon capacity with a tightly
-fitting cover.  
+fitting cover.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -410,14 +410,14 @@ tenant, lessee, occupant or otherwise, shall allow any junk or junk car to
 remain upon such premises longer than ten days after receipt of written notice
 to remove the junk or junk car from such premises, such written notice to be
 issued and delivered by the Chief of the Police Department or by any member of
-the Department duly designated by him.  
+the Department duly designated by him.
 
     Such written notice shall be served upon the person aforementioned either
     personally or at his usual place of residence or by registered or certified
     mail addressed to such person's last-known place of residence. The
     provisions of this section, however, shall not apply to the deposit,
     storage, maintenance or collection of junk or junk cars in an enclosed
-    building or in a container in a regularly established junk yard.  
+    building or in a container in a regularly established junk yard.\
     (Ord. 1969-788. Passed 12-16-69. )
 
 6. _(f)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -448,7 +448,7 @@ nuisances and prohibited:
 
     6. _(6)_ Feeding of wild animals, birds or other wildlife, other than in
     suitable containers for food, elevated at least forty-eight inches above the
-    ground level.  
+    ground level.\
     (Ord. 1943-324. Passed 4-26-43.)
 
 2. _(b)_ **Abatement by Owner.** No owner, lessee or occupant of any premises on
@@ -485,7 +485,7 @@ pursuant to subsection (d) hereof. Each report shall be made in duplicate. One
 copy shall be filed with the Chief of Police and one shall be given to the
 occupant of the premises inspected. Each report shall state the condition of the
 building and premises inspected with respect to each of the conditions purported
-to be regulated by subsection (a) hereof.  
+to be regulated by subsection (a) hereof.\
 (Ord. 1943-324. Passed 4-26-43.)
 
 6. _(f)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -500,7 +500,7 @@ constitute a fire hazard.
 rubbish to accumulate in or about any building or structures for a period longer
 than seven days, or fail or neglect to clean and remove the same from such
 building or off of such premises within twenty-four hours of the time such
-person has been notified to do so by the Fire Chief.  
+person has been notified to do so by the Fire Chief.\
 (Ord. 1944-7. Passed 4-24-44.)
 
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -522,7 +522,7 @@ to Riverside Park, as well as from other Municipal property adjacent to the
 River, particularly the area adjacent to the west side of Main Street.
 
 2. _(b)_ Signs prohibiting swimming shall be posted in the area advising all
-persons of the prohibition prior to any arrest.  
+persons of the prohibition prior to any arrest.\
 (Ord. 1969-774. Passed 9-2-69. )
 
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the third
@@ -537,7 +537,7 @@ property.
 
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor upon
 conviction of the first offense and a misdemeanor of the third degree upon
-convictions thereafter.  
+convictions thereafter.\
 (Ord. 1990-43. Passed 5-14-90.)
 
 ## 521.99   Penalty

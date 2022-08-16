@@ -592,7 +592,7 @@ containing a controlled substance that is separately identifiable and in a form
 that indicates that it is the amount or unit by which the controlled substance
 is separately administered to or taken by an individual.
 
-54. _(bbb)_ "Wholesaler." Has the same meaning as in Ohio R.C. 3719.01.  
+54. _(bbb)_ "Wholesaler." Has the same meaning as in Ohio R.C. 3719.01.\
 (ORC 2925.01)
 
 ## 513.02   Gift of marihuana
@@ -619,7 +619,7 @@ the offender, at any time after the expiration of two years from the day on
 which the offender's sentence was imposed, may file a motion with the sentencing
 court requesting termination of the suspension; upon the filing of such a motion
 and the court's finding of good cause for the termination, the court may
-terminate the suspension.  
+terminate the suspension.\
 (ORC 2925.03)
 
 ## 513.03   Drug abuse; controlled substance possession or use
@@ -853,7 +853,7 @@ does not constitute a criminal record and need not be reported by the person so
 arrested or convicted in response to any inquiries about the person's criminal
 record, including any inquiries contained in any application for employment,
 license, or other right or privilege, or made in connection with the person's
-appearance as a witness.  
+appearance as a witness.\
 (ORC 2925.11)
 
 ## 513.04   Possessing drug abuse instruments
@@ -884,7 +884,7 @@ the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
 4511.19 or a substantially similar municipal ordinance or the law of another
 state or the United States arising out of the same set of circumstances as the
 violation, the court shall suspend the offender's driver's or commercial
-driver's license or permit for not more than five years.  
+driver's license or permit for not more than five years.\
 (ORC 2925.12)
 
 ## 513.05   Permitting drug abuse
@@ -917,7 +917,7 @@ or permit for not more than five years.
 
 5. _(e)_ Any premises or real estate that is permitted to be used in violation
 of subsection (b) hereof constitutes a nuisance subject to abatement pursuant to
-Ohio R.C. Chapter 3767.  
+Ohio R.C. Chapter 3767.\
 (ORC 2925.13)
 
 ## 513.06   Illegal cultivation of marihuana
@@ -956,7 +956,7 @@ does not constitute a criminal record and need not be reported by the person so
 arrested or convicted in response to any inquiries about the person's criminal
 record, including any inquiries contained in an application for employment, a
 license, or any other right or privilege or made in connection with the person's
-appearance as a witness.  
+appearance as a witness.\
 (ORC 2925.04)
 
 ## 513.07   Possessing or using harmful intoxicants
@@ -977,7 +977,7 @@ the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
 4511.19 or a substantially similar municipal ordinance or the law of another
 state or the United States arising out of the same set of circumstances as the
 violation, the court shall suspend the offender's driver's or commercial
-driver's license or permit for not more than five years.  
+driver's license or permit for not more than five years.\
 (ORC 2925.31)
 
 ## 513.08   Illegally dispensing drug samples
@@ -1009,13 +1009,13 @@ the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
 4511.19 or a substantially similar municipal ordinance or the law of another
 state or the United States arising out of the same set of circumstances as the
 violation, the court shall suspend the offender's driver's or commercial
-driver's license or permit for not more than five years.  
+driver's license or permit for not more than five years.\
 (ORC 2925.36)
 
 ## 513.09   Controlled substance or prescription labels
 
 1. _(a)_ As used in this section, "repackager" and "outsourcing facility" have
-the same meanings as in ORC 4729.01.  
+the same meanings as in ORC 4729.01.
 
     Whenever a manufacturer sells a controlled substance, and whenever a
     wholesaler, repackager, or outsourcing facility sells a controlled substance
@@ -1069,13 +1069,13 @@ this section as long as any of the original contents remain.
 contain the following warning:
 
     "Caution: federal law prohibits the transfer of this drug to any person
-    other than the patient for whom it was prescribed".  
+    other than the patient for whom it was prescribed".\
     (ORC 3719.08)
 
 7. _(g)_ Whoever violates this section is guilty of a misdemeanor of the first
 degree. If the offender has previously been convicted of a violation of this
 section, Ohio R.C. 3719.07 or 3719.08 or a drug abuse offense, such violation is
-a felony and shall be prosecuted under appropriate State law.  
+a felony and shall be prosecuted under appropriate State law.\
 (ORC 3719.99)
 
 ## 513.10   Hypodermic possession, display and dispensing
@@ -1111,13 +1111,13 @@ no terminal distributor of dangerous drugs, shall display any hypodermic for
 sale. No person authorized to possess a hypodermic pursuant to division (a) of
 this section shall negligently fail to take reasonable precautions to prevent
 any hypodermic in the person's possession from theft or acquisition by any
-unauthorized person.  
+unauthorized person.\
 (ORC 3719.172)
 
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the third
 degree. If the offender has previously been convicted of a violation of this
 section, Ohio R.C. 3719.05, 3719.06, 3719.13, 3719.172(B) or (E), or 3719.31 or
-a drug abuse offense, a violation is a misdemeanor of the first degree.  
+a drug abuse offense, a violation is a misdemeanor of the first degree.\
 (ORC 3719.99)
 
 ## 513.11   Harmful intoxicants; possessing nitrous oxide in motor vehicle
@@ -1143,7 +1143,7 @@ a motor vehicle, a misdemeanor of the fourth degree.
 4. _(d)_ In addition to any other sanction imposed upon an offender for
 possessing nitrous oxide in a motor vehicle, the court may suspend for not more
 than five years the offender's driver's or commercial driver's license or
-permit.  
+permit.\
 (ORC 2925.33)
 
 ## 513.12   Drug paraphernalia
@@ -1322,7 +1322,7 @@ violation, the court shall suspend the offender's driver's or commercial
 driver's license or permit for not more than five years. If the offender is a
 professionally licensed person, in addition to any other sanction imposed for a
 violation of this section, the court immediately shall comply with Ohio R.C.
-2925.38.  
+2925.38.\
 (ORC 2925.14)
 
 ### 513.121   Marihuana drug paraphernalia
@@ -1361,7 +1361,7 @@ violation, the court shall suspend the offender's driver's or commercial
 driver's license or permit for not more than five years. If the offender is a
 professionally licensed person, in addition to any other sanction imposed for a
 violation of this section, the court immediately shall comply with Ohio R.C.
-2925.38.  
+2925.38.\
 (ORC 2925.141)
 
 ## 513.13   Counterfeit controlled substances
@@ -1369,7 +1369,7 @@ violation of this section, the court immediately shall comply with Ohio R.C.
 1. _(a)_ No person shall knowingly possess any counterfeit controlled substance.
 
 2. _(b)_ Whoever violates this section is guilty of possession of counterfeit
-controlled substances, a misdemeanor of the first degree.  
+controlled substances, a misdemeanor of the first degree.\
 (ORC 2925.37)
 
 3. _(c)_ The court may suspend for not more than five years the offender's
@@ -1378,7 +1378,7 @@ pleaded guilty to or was convicted of a violation of Ohio R.C. 4511.19 or a
 substantially similar municipal ordinance or the law of another state or the
 United States arising out of the same set of circumstances as the violation, the
 court shall suspend the offender's driver's or commercial driver's license or
-permit for not more than five years.  
+permit for not more than five years.\
 (ORC 2925.37)
 
 ## 513.99   Penalty

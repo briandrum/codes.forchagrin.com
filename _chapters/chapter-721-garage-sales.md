@@ -40,7 +40,7 @@ or otherwise.
 3. _(c)_ "Garage sale" means a sale of household goods, equipment, utensils,
 appliances, personal clothing or effects, or other similar personal property
 including such sales commonly termed "basement sales", "house sales" or "lawn
-sales".  
+sales".\
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.02   License required
@@ -48,7 +48,7 @@ sales".
 No person shall conduct, hold or permit a public sale or garage sale within a
 residential district of this Municipality without having an unrevoked valid
 license from the Village for such purpose, in effect at the time, and issued
-pursuant to the provisions of this chapter.  
+pursuant to the provisions of this chapter.\
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.03   Application and issuance
@@ -62,7 +62,7 @@ following provisions, giving:
 2. _(b)_ The name and address of all persons who will be associated or engaged
 in such public sale.
 
-3. _(c)_ The name and address of the party for whom the sale is being held.  
+3. _(c)_ The name and address of the party for whom the sale is being held.\
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.04   License effective period
@@ -71,7 +71,7 @@ in such public sale.
 thereon, not to exceed three consecutive days.
 
 2. _(b)_ No more than one sale per year shall be permitted at the same
-location.  
+location.\
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.05   Display of license upon demand
@@ -80,13 +80,13 @@ Every person licensed under this chapter shall have his license in his
 possession at all times when conducting a public sale within a residential
 district of this Village and shall display the same upon demand of any police
 officer of the Village and upon demand of any person who attends such public
-sale.  
+sale.\
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.06   Sale hours
 
 No person shall conduct a public sale or garage sale, before 9:00 a.m. of any
-day or after 9:00 p.m. of any day.  
+day or after 9:00 p.m. of any day.\
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.07   License revocation
@@ -108,7 +108,7 @@ chapter.
 turpitude.
 
 5. _(e)_ Conducting a public sale in any unlawful manner or in such manner as to
-constitute a breach of the peace.  
+constitute a breach of the peace.\
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.08   Exceptions
@@ -116,12 +116,12 @@ constitute a breach of the peace.
 This chapter shall not apply to any public sale conducted solely for, on or
 behalf of any charitable, educational or religious institution when the person
 or persons conducting such sale receive no compensation therefor as to fees
-required.  
+required.\
 (Ord. 1981-3. Passed 3-9-81.)
 
 ## 721.99   Penalty
 
 Whoever violates any provision of this chapter is guilty of a minor misdemeanor.
 A separate offense shall be deemed committed upon each day during or on which
-the violation occurs or continues.  
+the violation occurs or continues.\
 (Ord. 1981-3. Passed 3-9-81.)

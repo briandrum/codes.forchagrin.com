@@ -32,7 +32,7 @@ title: "Chapter 711: Peddlers and Canvassers"
 This Chapter is intended to balance the First Amendment rights of individuals
 wishing to engage in door-to-door peddling and canvassing activities in the
 Village with the privacy, health, safety and welfare of the Village's
-residents.  
+residents.\
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.02   Definitions
@@ -53,7 +53,7 @@ visited, for the purpose of soliciting or taking or attempting to take orders
 for profit by the sale of goods, wares and merchandise or personal property of
 any nature whatsoever, for immediate or future delivery or for services to be
 furnished or performed in the future. Any person engaging in such activities for
-a not-for-profit organization shall be deemed to be a Canvasser.  
+a not-for-profit organization shall be deemed to be a Canvasser.\
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.03   License required, exceptions
@@ -74,7 +74,7 @@ every Peddler, agent or employee peddling within the Village.
 Individuals who are not required to get a license are encouraged to advise the
 police department that they will be going door-to-door in the Village in case
 members of the public seek information from the police department regarding
-whether the Village is aware that such activity is occurring.  
+whether the Village is aware that such activity is occurring.\
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.04   Application for license
@@ -111,7 +111,7 @@ defined by Section 501.01 of the Codified Ordinances of the Village of Chagrin
 Falls. The applicant shall state the date and place of such conviction(s).
 
 A non-refundable fee in the amount of thirty-five dollars ($35.00) shall be
-submitted with each application provided for herein.  
+submitted with each application provided for herein.\
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.05   Issuance of license; duration
@@ -133,7 +133,7 @@ peddling and shall, upon demand, exhibit the license and photographic
 identification card to any official of the Village or any occupant of any
 residence or business establishment being contacted.
 
-Such license shall be valid for a period not to exceed six (6) months.  
+Such license shall be valid for a period not to exceed six (6) months.\
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.06   Restrictions
@@ -165,7 +165,7 @@ residence, apartment, or other dwelling unit in the Village upon which is
 clearly displayed at the entrance a notice that reads "No Solicitors" or that
 otherwise clearly purports to prohibit peddlers, canvassers, vendors,
 solicitors, or persons requesting contributions, unless such person is or has
-been invited upon the premises by the occupant thereof.  
+been invited upon the premises by the occupant thereof.\
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.07   Revocation of license
@@ -190,7 +190,7 @@ constitute a menace to the health, safety or general welfare of the public.
 
 Written notice shall be given to the licensee by personal service or by
 certified mail to any of the addresses required to be provided by Section
-711.04(c) immediately upon such revocation.  
+711.04(c) immediately upon such revocation.\
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.08   Appeal procedure
@@ -208,7 +208,7 @@ power, after such hearing, to either affirm or overrule the decision of the
 Chief of Police. The Mayor shall cause notice of the decision to be transmitted
 to the applicant or licensee by certified mail within thirty (30) days of the
 hearing. Failure of the applicant or licensee to receive the certified mail
-shall not affect the validity of the decision.  
+shall not affect the validity of the decision.\
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.09   Falsification; misrepresentation
@@ -218,7 +218,7 @@ register a false or fictitious name or address or represent by word, or action
 that he or she is the employee, agent, partner or representative of any person,
 firm, corporation, association or organization, when in fact, he or she is not
 the employee, agent, partner or representation of such person, firm,
-corporation, association or organization.  
+corporation, association or organization.\
 (Ord. 2016-03. Passed 1-25-16.)
 
 ## 711.99   Penalty
@@ -227,5 +227,5 @@ Whoever violates any provision of this chapter is guilty of a minor misdemeanor
 for a first offense. Anyone convicted of a second or any subsequent violation of
 the same provision of this chapter shall be guilty of a misdemeanor of the
 fourth degree. Each day any violation continues shall constitute a separate
-offense.  
+offense.\
 (Ord. 2016-03. Passed 1-25-16.)

@@ -30,7 +30,7 @@ In addition to the applicable provisions of the intent stated in Section
 1105.03, it is the intent of these district regulations to promote the
 development of appropriately located housing for persons of retirement age and
 to provide in such locations dining, recreation and health center facilities for
-the comfort and convenience of such persons.  
+the comfort and convenience of such persons.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1131.02   Permitted uses
@@ -68,7 +68,7 @@ only the main and accessory uses set forth below.
 
     7. _(7)_ Signs, as regulated in Chapter 1143.
 
-    8. _(8)_ Home occupations, as regulated in Section 1125.05.  
+    8. _(8)_ Home occupations, as regulated in Section 1125.05.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1131.03   Area regulations
@@ -110,7 +110,7 @@ unit as defined and regulated in Section 1131.07(f).
     for each additional bedroom.
 
  8. _(h)_ Storage Area: 60 square feet minimum provided on the ground floor or
- basement level of each dwelling unit in addition to the dwelling unit area.  
+ basement level of each dwelling unit in addition to the dwelling unit area.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1131.04   Height regulations
@@ -130,7 +130,7 @@ highest point of the building on which it is located, provided such equipment
 conforms to Section 1131.07(h). With the exception of chimneys and antennas on
 attached single- family dwellings, such equipment shall be set back from any
 building face a distance at least equal to the height by which it exceeds the
-building height.  
+building height.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1131.05   Yard and setback regulations
@@ -188,7 +188,7 @@ structure or use shall be as set forth in the following table:
 
     3. _(3)_ Structures such as porches, balconies, platforms, decks, patios,
     and similar architectural projections that exceed forty-eight (48) square
-    feet shall meet the setback requirements of the main building.  
+    feet shall meet the setback requirements of the main building.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1131.06   Distances between buildings and uses
@@ -245,7 +245,7 @@ schedule:
     x = length of overlap divided by 5.
 
     \* "private road" excludes a drive providing direct access to a Retirement
-    Living Center building.  
+    Living Center building.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1131.07   Design regulations and standards
@@ -351,7 +351,7 @@ areas, recreation areas and health center buildings.
 8. _(h)_ **Utility Equipment.** All utility lines serving a Retirement Living
 residential development shall be located underground. All rooftop mechanical
 equipment shall be enclosed in a manner which complements the architectural
-style of the building on which it is located.  
+style of the building on which it is located.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1131.08   Off-street parking regulations
@@ -374,12 +374,12 @@ be attached to one another at side walls in order to improve design.
 3. _(c)_ **Prohibited Activity.**  The rebuilding, overhauling or dismantling of
 an automotive vehicle or the storage of motor or body parts in an open yard is
 prohibited. The outside parking and storage of recreational vehicles is
-prohibited.  
+prohibited.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1131.09   Supplemental regulations
 
 For regulations regarding off-street parking and loading, landscaping, lighting,
 signs and environmental performance, refer to Chapters 1141 - 1150 of the
-Planning and Zoning Code.  
+Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

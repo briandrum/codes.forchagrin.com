@@ -39,7 +39,7 @@ new retail development near the existing Municipal center and by preserving the
 pedestrian oriented retail character of the commercial street frontage; and
 
 4. _(d)_ To complement the historic and small-scale character of the
-Municipality's present residential and business communities.  
+Municipality's present residential and business communities.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1137.02   Permitted uses
@@ -142,7 +142,7 @@ activities are further regulated in Section 1137.05(d).
 
     7. _(7)_ Carry out food service as regulated by Section 1137.05(a)
 
-    8. _(8)_ Outdoor sales as regulated in Section 1137.05(e)  
+    8. _(8)_ Outdoor sales as regulated in Section 1137.05(e)\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1137.03   Height regulations
@@ -159,7 +159,7 @@ fifteen feet maximum for other structures.
 permitted under Section 1137.02(b)(4) may extend a maximum of ten feet above the
 highest point of the building on which it is located, provided that such
 equipment is set back from each building face a distance at least equal to the
-height by which it exceeds the building height.  
+height by which it exceeds the building height.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1137.04   Yard and setback regulations
@@ -224,7 +224,7 @@ structure or use shall be as set forth below.
     reciprocal agreements.
 
 4. _(d)_ **Projections into Setbacks.** An open or semi-enclosed fire escape may
-project no more than six feet into a required rear yard.  
+project no more than six feet into a required rear yard.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1137.05   Detailed regulations by type of establishment
@@ -301,12 +301,12 @@ maintained in accordance with the following:
 
     5. _(5)_ The exterior appearance of the building in which the residential
     use is located shall not be altered in such a manner that will detract from
-    its commercial character.  
+    its commercial character.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1137.06   Supplemental regulations
 
 For regulations regarding off-street parking and loading, landscaping, lighting,
 signs and environmental performance, refer to Chapters 1141 - 1150 of the
-Planning and Zoning Code.  
+Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

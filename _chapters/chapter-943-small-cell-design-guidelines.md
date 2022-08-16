@@ -175,7 +175,7 @@ otherwise:
         to public transit systems, including railways, trams, streetcars, and
         trolleybuses.
 
-    16. _(16)_ "Village" means the Village of Chagrin Falls.  
+    16. _(16)_ "Village" means the Village of Chagrin Falls.\
     (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.02   General standards
@@ -242,7 +242,7 @@ would better fulfil the purposes of these Design Guidelines.
 14. _(n)_ A Facilities Operator shall remove or paint over any graffiti on the
 Facilities at Facility Operator's sole expense as soon as practicable, but no
 later than thirty (30) days from the date the Facilities Operator receives
-notice of the graffiti.  
+notice of the graffiti.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.03   Specifications for collocation
@@ -253,7 +253,7 @@ Wireless Support Structure.
 2. _(b)_ Small Cell Equipment to be attached to a Wireless Support Structure
 shall be attached at least six (6) feet above ground level. If Small Cell
 Equipment is projecting toward the street then the Small Cell Equipment shall be
-installed no less than sixteen (16) feet above ground level.  
+installed no less than sixteen (16) feet above ground level.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.04   Antennas
@@ -287,7 +287,7 @@ be top-mounted on a Wireless Support Structure. The Chief Administrative Officer
 may approve a side-mounted antenna if, in the Chief Administrative Officer's
 discretion, the side-mounted antenna would be more appropriate given the built
 environment, neighborhood character, overall site appearance or would otherwise
-promote the purposes in these Design Guidelines.  
+promote the purposes in these Design Guidelines.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.05   Wireless support structure-mounted equipment
@@ -303,7 +303,7 @@ Wireless Support Structure and oriented away from any windows and doorways to
 minimize visual impacts thereupon.
 
 4. _(d)_ The equipment cabinets must be non-reflective and painted, wrapped or
-otherwise colored to match the Wireless Support Structure.  
+otherwise colored to match the Wireless Support Structure.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.06   Ground-mounted small cell equipment
@@ -327,7 +327,7 @@ practicable from pedestrian sidewalks and shall neither block nor be placed
 within the sidewalk in any way. The ground-mounted Small Cell Equipment shall
 not be placed adjacent to a sidewalk in a manner that creates a hazard or safety
 issue for pedestrians or interferes with the free movement along such sidewalk
-in any way.  
+in any way.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.07   Cables
@@ -337,7 +337,7 @@ inside the Wireless Support Structure or an equipment cabinet.
 
 2. _(b)_ Excess cables and wiring shall not be spooled, coiled or otherwise
 stored on the exterior of the Wireless Support Structure unless within an
-enclosure. Cables shall not be externally visible.  
+enclosure. Cables shall not be externally visible.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.08   Electrical meters
@@ -348,14 +348,14 @@ available in order to eliminate the need for a meter.
 2. _(b)_ If a meter is required, then the Facilities Operator shall use the
 smallest and least intrusive electric meter available. Whenever permitted by the
 electric service provider, the electric meter shall be painted to match the
-Wireless Support Structure.  
+Wireless Support Structure.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.09   Utility lines
 
 1. _(a)_ Service lines shall be underground to avoid additional overhead lines.
 The underground cables and wires must transition directly into the Wireless
-Support Structure base without any external junction box.  
+Support Structure base without any external junction box.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.10   Specifications for replacement of wireless support structures
@@ -415,7 +415,7 @@ the Facilities Operator as instructed by the Village.
     etc.) shall be removed. The type of backfill material and compaction
     required is: (a) one-half (1/2) sack slurry for the entire depth in paved
     areas, and (b) one-half (1/2) sack slurry for the entire depth except the
-    top twelve (12) inches will be native soil in landscaped areas.  
+    top twelve (12) inches will be native soil in landscaped areas.\
     (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.11   Specifications for new wireless support structures
@@ -463,7 +463,7 @@ prohibited in the following zoning districts:
     1. _(1)_ The Conservation District (C), Park and Institutional District
     (PI), all Residential Districts, all Business Districts and all Overlay
     Districts, limiting new wood wireless support structures to the Limited
-    Industrial (LI) District.  
+    Industrial (LI) District.\
     (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.12   Historic district regulations
@@ -479,7 +479,7 @@ Operator's provision of service. Such measures are not considered part of the
 small cell facility for purposes of facility size restrictions in this Chapter
 or Chapter 941 of the Codified Ordinances. A waiver submitted pursuant to
 Section 941.13(d) will be considered if it is shown to be technologically
-infeasible.  
+infeasible.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.13   Underground area regulations
@@ -510,7 +510,7 @@ its service objective under the following circumstances:
 
 5. _(e)_ Submission of a waiver pursuant to subsection (d) is subject to the
 Facilities Operator's agreement to toll the timeframes set forth in Section
-941.08(a) of the Codified Ordinances by fourteen (14) days.  
+941.08(a) of the Codified Ordinances by fourteen (14) days.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.14   Discretionary waiver
@@ -519,7 +519,7 @@ It is within the Chief Administrative Officer's reasonable discretion to waive a
 portion or portions of this Chapter, as permitted under state and federal law,
 where strict compliance with such requirements, in the Chief Administrative
 Officer's judgment, is not necessary or appropriate to protect the Village's
-interests and the purposes and intent of this Chapter.  
+interests and the purposes and intent of this Chapter.\
 (Ord. 2019-09. Passed 1-14-19.)
 
 ## 943.99   Penalties; equitable remedies
@@ -533,5 +533,5 @@ continues.
 
 2. _(b)_ Nothing in this Chapter shall be construed as limiting any judicial
 remedies that the Village may have, at law or in equity, for enforcement of this
-Chapter.  
+Chapter.\
 (Ord. 2019-09. Passed 1-14-19.)

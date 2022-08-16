@@ -39,7 +39,7 @@ according to the ordinances of the Municipality. No building, structure or
 other construction provided for in this Building Code shall be begun and no
 existing structure shall be altered or repaired until a permit has been issued
 by the Building Inspector in conformity with this Building Code and until the
-fees and deposits required by this Building Code have been paid.  
+fees and deposits required by this Building Code have been paid.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1303.02   Building inspector and assistant
@@ -48,7 +48,7 @@ The offices of the Building Inspector and Assistant Building Inspector are
 hereby created. The Building Inspector shall be appointed by the Mayor subject
 to the approval of Council. The Assistant Building Inspector may be appointed
 by the Mayor, subject to the approval of Council. Such officers shall serve at
-the pleasure of the Mayor.  
+the pleasure of the Mayor.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 1303.03   Compensation and bond
@@ -59,7 +59,7 @@ each shall, before entering upon the duties of his office. give bond for the
 faithful performance of his duties in such sum and with such surety as may from
 time to time be required by Council. The obligee of the bond shall be the
 Municipality, and the bond shall be for the benefit of all parties aggrieved
-by the acts or neglect of the principal.  
+by the acts or neglect of the principal.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1303.04   Duties of inspector
@@ -78,7 +78,7 @@ workmanship, so far as they affect safety, examine and approve all plans and
 specifications therefor before a permit is issued and sign and issue all
 permits, certificates and notices required to be issued. He shall promptly
 acknowledge receipt of all official communications, notices and reports
-pertaining to his department.  
+pertaining to his department.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1303.05   Right of entry
@@ -91,7 +91,7 @@ repair, alteration or removal or any building which the Inspector has
 reasonable cause to believe is unsafe or a menace to life or limb or damaged or
 menaced by fire, upon showing their badge of office. Any person or persons
 interfering with them in the performance of such duties shall be liable to the
-penalty provided in Section 1303.99.  
+penalty provided in Section 1303.99.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1303.06   Records of inspector
@@ -104,7 +104,7 @@ such building, structure or work, so arranged that the full history of the
 various inspections of each building, structure or other work appears therein
 in consecutive order. The records shall indicate the date upon which each
 inspection was made. All original notes or records made by the Inspector or his
-assistants shall be signed and properly filed for permanent record.  
+assistants shall be signed and properly filed for permanent record.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1303.07   Inspection of timber in existing building
@@ -112,7 +112,7 @@ assistants shall be signed and properly filed for permanent record.
 The Building Inspector shall have the right to inspect or cause to be
 inspected the timber construction of any building in which, in his opinion,
 there are indications of dry rot. For such purpose the owner shall uncover any
-concealed woodwork which may be questioned.  
+concealed woodwork which may be questioned.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1303.08   Inspection of dangerous equipment and structures
@@ -129,7 +129,7 @@ in such manner and within such reasonable time as may be necessary.
 
 If the person responsible for the violation fails to remove or remedy the
 same, it shall be the further duty of the Inspector to cause the prosecution of
-the person responsible for such violation.  
+the person responsible for such violation.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1303.09   Civil action
@@ -142,7 +142,7 @@ may, in his discretion, institute and maintain in the name of the Municipality
 an appropriate action at law or in equity to restrain the execution in
 violation of this Building Code, to prevent the occupation or use of such
 building or other structure and to prevent or terminate any violation of this
-Building Code.  
+Building Code.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 1303.10   Remedies cumulative
@@ -150,7 +150,7 @@ Building Code.
 The exercise of the rights and remedies granted in this Building Code shall
 in no way preclude or limit the Municipality from exercising any other right or
 remedy now or hereafter granted to it under the laws of the State or the
-ordinances of the Municipality.  
+ordinances of the Municipality.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 ## 1303.99   General code penalty
@@ -165,5 +165,5 @@ Building Code or fail to comply therewith or who build in violation of any
 detailed statement of specifications or plans submitted and approved
 thereunder, shall be fined not more than one thousand dollars ($1,000) or
 imprisoned not more than six months, or both. Each day such violation continues
-shall constitute a separate offense.  
+shall constitute a separate offense.\
 (Ord. 69-771. Passed 7-l-68; Ord. 1990-79. Passed 10-8-90.)

@@ -33,7 +33,7 @@ title: "Chapter 129: Police Department"
 
 ## 129.01   Department established
 
-A Police Department is hereby established for the Municipality.  
+A Police Department is hereby established for the Municipality.\
 (Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.02   Composition of department
@@ -89,7 +89,7 @@ positions as authorized by ordinance of Council, including:
 
 2. _(b)_ All Full-Time Regular Patrol Officers shall be appointed by the Mayor,
 subject to confirmation by Council. All other positions shall be filled by
-appointment of the Mayor, except as otherwise indicated herein.  
+appointment of the Mayor, except as otherwise indicated herein.\
 (Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.03   Probationary and original appointments; appointment requirements for full-time regular patrol officers
@@ -101,7 +101,7 @@ satisfactorily served his probationary period. The Chief of Police, in the
 exercise of reasonable discretion, may extend the probationary period for a
 Full-Time Regular Patrol Officer for an additional six month period. Part-Time
 Patrol Officer shall not be considered a "Permanent Appointment" or an "Original
-Appointment".  
+Appointment".\
 (Ord. 2015-21. Passed 7-27-15; Ord. 2019-04. Passed 1-14-19.)
 
 2. _(b)_ "Original Appointment" shall mean an individual's appointment as a
@@ -140,7 +140,7 @@ the pool of Applicants who:
     5. _(5)_ Have earned a Certificate of Completion of the Ohio Peace Officer
     Training Academy physical fitness test, within one year of appointment, or
     have successfully completed an agility test administered by the Chagrin
-    Falls Police Department.  
+    Falls Police Department.\
     (Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.04   Application, examination and evaluation of candidates
@@ -154,10 +154,10 @@ Police Department.
 compy with the following guidelines:
 
     1. _(1)_ Applications must be filled out in ink and handwritten. Illegible
-    applications shall be rejected.  
+    applications shall be rejected.\
     (Ord. 2015-21. Passed 7-27-15.)
 
-    2. _(2)_ Applications must be signed by the Applicant.  
+    2. _(2)_ Applications must be signed by the Applicant.\
     (Ord. 2019-07. Passed 1-14-19.)
 
     3. _(3)_ Applicants must authorize the Village to:
@@ -195,13 +195,13 @@ discharge report.
 5. _(e)_ **Interviews.** Applicants may be selected for face-to-face or
 telephone interviews. An Applicant's performance during such interviews may be
 considered by the Village when appointing any individual to serve in the Police
-Department.  
+Department.\
 (Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.05   Oath
 
 Each person appointed to or holding a sworn position in the Police Department,
-as provided herein, shall be sworn in.  
+as provided herein, shall be sworn in.\
 (Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.06   Special police duty for private entity
@@ -233,7 +233,7 @@ any Valley Enforcement Group municipality.
 its availability.
 
 6. _(f)_ Such agreement shall be subject to cancellation by either party within
-thirty days.  
+thirty days.\
 (Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.07   Emergency aid outside village
@@ -244,7 +244,7 @@ this State, without a contract, on an emergency basis, where mutual aid
 protection is available from the same political subdivision to the Village and
 provided further that the Village can at that time, provide such protection
 without jeopardizing the safety and welfare of Chagrin Falls residents and
-property.  
+property.\
 (Ord. 2015-21. Passed 7-27-15.)
 
 ## 129.08   Parking enforcement unit
@@ -269,5 +269,5 @@ Chapter 351. The Fire Prevention Officer is also authorized to enforce Chapter
 1503.
 
 4. _(d)_ **Training.** Parking Enforcement Officers shall receive training as
-directed by Ohio R.C. 737.161.  
+directed by Ohio R.C. 737.161.\
 (Ord. 2015-21. Passed 7-27-15.)

@@ -47,7 +47,7 @@ control;
 7. _(g)_ To promote economic development; and,
 
 8. _(h)_ To achieve an appropriate balance between visual displays as a means of
-communication and reducing the harms caused by such displays.  
+communication and reducing the harms caused by such displays.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.02   Conformance required
@@ -60,7 +60,7 @@ location, illumination and other provisions set forth in this chapter.
 also comply with the provisions of the Building Code of the Municipality.
 
 3. _(c)_ The display of the flag of any governmental agency shall not be
-governed by the provisions of these regulations.  
+governed by the provisions of these regulations.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.03   Definitions and references
@@ -164,7 +164,7 @@ plastic portion of an exterior door shall be considered a window for purposes of
 this definition.
 
 24. _(x)_ References to "zoning districts" herein refer to the districts
-established in Chapter 1119.  
+established in Chapter 1119.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.04   Signs prohibited
@@ -208,7 +208,7 @@ Section 1143.06(d).
 
 11. _(k)_ Billboards.
 
-12. _(l)_ Portable signs.  
+12. _(l)_ Portable signs.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.05   Permits
@@ -280,7 +280,7 @@ regulations provided for in this chapter:
 
     3. _(3)_ Cornerstones and other similar building plaques or architectural
     elements permanently incorporated into a building and not exceeding two (2)
-    square feet in total area.  
+    square feet in total area.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.06   Number and type of signs permitted: nonresidential districts
@@ -377,7 +377,7 @@ allocating the permitted sign area among tenants in a multi-tenant building.
 second floor of a building or above shall be permitted one permanent window sign
 twelve square feet or less in area. In addition to a permanent window sign,
 upper floor uses with an exclusive ground floor entrance may display a wall
-sign, two square feet or less, at such entrance.  
+sign, two square feet or less, at such entrance.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.07   Number and types of signs permitted: residential districts
@@ -423,7 +423,7 @@ or ground sign.
 
 5. _(e)_ **Nonresidential Main Uses.**  One wall or ground sign may be permitted
 on the premises of a permitted nonresidential main use located in a residential
-district.  
+district.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.08   Design standards
@@ -488,7 +488,7 @@ sign structure.
     4. _(4)_ Canopies shall be constructed of such materials as may be approved
     by the Architectural Board of Review. The framework of all canopies shall be
     approved by the Architectural Board of Review in compliance with the
-    Building Code.  
+    Building Code.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.09   Temporary signs
@@ -532,7 +532,7 @@ may be displayed in compliance with the following regulations:
     sale or lease. Such sign shall not exceed twelve square feet in area.
 
     3. _(3)_ An additional twelve (12) square feet of non-commercial signage may
-    be posted on a parcel.  
+    be posted on a parcel.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1143.10   General provisions
@@ -595,5 +595,5 @@ for the violation so evidenced and subject to the penalty provided therefor.
 substituted for any sign expressly permitted by this Chapter. Noncommercial
 signs shall be subject to the same permit requirements, restrictions on size and
 type, and other conditions and specifications that apply to the sign for which
-they are being substituted.  
+they are being substituted.\
 (Ord. 2019-39. Passed 8-13-19.)

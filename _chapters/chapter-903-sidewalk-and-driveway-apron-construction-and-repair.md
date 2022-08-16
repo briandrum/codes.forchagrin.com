@@ -69,7 +69,7 @@ the sidewalk. If any balance remains after the Village constructs the sidewalk,
 it shall be returned to the property owner. If the amount of the bond is
 insufficient, the Building Inspector shall give thirty days written notice to
 the property owner to pay the outstanding balance. If the property owner fails
-to do so, the unpaid sum shall be referred to collection.  
+to do so, the unpaid sum shall be referred to collection.\
 (Ord. 2011-13. Passed 4-11-11.)
 
 ## 903.02   Construction specifications
@@ -148,13 +148,13 @@ References to downtown areas shall include the following streets:
     2. _(2)_ **Forms and contraction joints.** The sidewalk shall be constructed
     between metal forms whose height is equal to the thickness of the walk,
     except at driveways and curves where wooden forms may be used, providing
-    they are full depth.  
+    they are full depth.
 
         Unless otherwise ordered by the Chief Administrative Officer, forms
         shall be set so that the back edge of the walk will be six inches on the
         street side of the property line, at the designated grade. The walk
         shall have a uniform cross slope of one-quarter inch per foot of width
-        toward the street center line.  
+        toward the street center line.
 
         All utility castings and other similar fixtures, shall be adjusted to
         the grade of the completed walk prior to the pouring of the concrete.
@@ -181,7 +181,7 @@ References to downtown areas shall include the following streets:
     four inches thick for sidewalks, five inches thick in downtown areas, and
     six inches thick for sidewalks through residential driveways and driveway
     aprons, and eight inches thick through commercial aprons by placing concrete
-    between the forms described above.  
+    between the forms described above.
 
         The subgrade shall be adequately moistened just before the concrete is
         placed. The concrete shall be placed at a slump of two to three inches
@@ -190,7 +190,7 @@ References to downtown areas shall include the following streets:
         vibrators will not be required for concrete sidewalks. As soon as
         practical thereafter, the surface shall be floated with a wooden float
         to a workmanlike finish, smooth and even but with a slightly rough
-        texture.  
+        texture.
 
         Special care shall be exercised in finishing the surface on each side of
         the expansion joints so as to avoid differences in elevation between
@@ -203,11 +203,11 @@ References to downtown areas shall include the following streets:
 
         When the single sections of walk are constructed, they shall be
         separated from the existing walk by means of at least one expansion
-        joint, one-half inches in thickness.  
+        joint, one-half inches in thickness.
 
         Where drain pipes cross underneath sidewalks, the walk shall be marked
         near the edge with a small triangle, not less than one inch on a side,
-        impressed into the concrete.  
+        impressed into the concrete.
 
         Downtown areas shall be finished with an exposed aggregate (size 8 and
         smaller bank run gravel) surface. Walks wider than five feet shall have
@@ -289,7 +289,7 @@ References to downtown areas shall include the following streets:
     injure any trees, shrubbery or lawns. All shrubbery and lawns, either within
     the limits of the excavation or contiguous to the work, shall be replaced or
     restored to a condition at least as good as at the time of the commencement
-    of the work.  
+    of the work.\
     (Ord. 1974-948. Passed 11-19-74; Ord. 2005-49. Passed 8-8-05.)
 
 ## 903.03   Noncompliance with requirements
@@ -335,7 +335,7 @@ may also be asphalt. Replacement of this asphalt sidewalk shall be accomplished
 at the time a new sidewalk is constructed on the property or when a new driveway
 apron is constructed. All new construction shall be accomplished utilizing
 Portland cement concrete or sandstone flagging in conformity to these
-specifications.  
+specifications.\
 (Ord. 1993-77. Passed 9-27-93.)
 
 ## 903.04   Permit required
@@ -344,7 +344,7 @@ No person shall construct, reconstruct, alter, repair, remove or replace any
 sidewalk or driveway apron in dedicated streets in the Municipality without
 having first obtained a permit from the Chief Administrative Officer. Such
 construction, reconstruction, alteration. repair, removal or replacement shall
-conform in all respects with the provisions of this chapter.  
+conform in all respects with the provisions of this chapter.\
 (Ord. 1974-948. Passed 11-19-74.)
 
 ## 903.99   Penalty

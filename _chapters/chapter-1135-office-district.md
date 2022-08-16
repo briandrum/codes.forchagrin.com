@@ -35,7 +35,7 @@ such uses in the Municipal center where they are more appropriately located.
 4. _(d)_ To permit development, which by virtue of its characteristic traffic
 generation, hours of operation and noise levels, may serve as an appropriate
 transitional use between residential areas and nearby retail or industrial
-areas.  
+areas.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1135.02   Permitted uses
@@ -43,7 +43,7 @@ areas.
 In an Office District, more than one (1) main building may be grouped on a lot
 provided that such grouping shall comply with the requirements of this District.
 Buildings and land shall be used by right for only the main and accessory uses
-set forth below.  
+set forth below.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 1. _(a)_ **Main Uses.**
@@ -108,7 +108,7 @@ set forth below.
     7. _(7)_ Sale of pharmaceuticals and medical supplies, provided that such
     use is completely enclosed within a permitted medical office building or
     clinic and further provided that such use occupies no more than twenty-five
-    percent (25%) of the first-floor area.  
+    percent (25%) of the first-floor area.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1135.03   Height regulations
@@ -124,7 +124,7 @@ accordance with the following height regulations.
 permitted under Section 1135.02(b)(4) may extend a maximum of ten feet above the
 highest point of the building on which it is located, provided that such
 equipment is set back from any building face a distance at least equal to the
-height by which it exceeds the building height.  
+height by which it exceeds the building height.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1135.04   Yard and setback regulations
@@ -190,12 +190,12 @@ structure or use shall be as set forth below:
     reciprocal agreements.
 
 4. _(d)_ **Fire Escapes.** An open or semi-enclosed iron fire escape shall
-project not more than six feet into a required rear yard.  
+project not more than six feet into a required rear yard.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1135.05   Supplemental regulations
 
 For regulations regarding off-street parking and loading, landscaping, lighting,
 signs and environmental performance, refer to Chapters 1141 - 1150 of the
-Planning and Zoning Code.  
+Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

@@ -27,5 +27,5 @@ from a video service provider that it will begin providing video service in the
 Village pursuant to a State-issued video service authorization, to provide such
 video service provider with notice of the VSP Fee as determined by this Council
 above, which notice shall be delivered in a manner that provides for proof of
-timely delivery or such other manner as may be practicable.  
+timely delivery or such other manner as may be practicable.\
 (Ord. 2007-68. Passed 10-22-07.)

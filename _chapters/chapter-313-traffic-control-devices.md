@@ -48,12 +48,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.12)
 
 ## 313.02   Through streets; stop and yield right-of-way signs
@@ -65,7 +65,7 @@ otherwise provided in this section. Where two or more State routes that are
 through streets or highways intersect and no traffic control signal is in
 operation, stop signs or yield signs shall be erected at one or more entrances
 thereto by the Ohio Department of Transportation, except as otherwise provided
-in this section.  
+in this section.
 
     Whenever the Ohio Director of Transportation determines on the basis of an
     engineering and traffic investigation that stop signs are necessary to stop
@@ -105,7 +105,7 @@ proceeding on the through street or highway.
 through streets or highways and shall erect stop signs, yield signs or traffic
 control signals at all streets and highways intersecting such through streets or
 highways, or may designate any intersection as a stop or yield intersection and
-shall erect like signs at one or more entrances to such intersection.  
+shall erect like signs at one or more entrances to such intersection.\
 (ORC 4511.65)
 
 ## 313.03   Traffic signal indications
@@ -332,7 +332,7 @@ signal.
 
 8. _(h)_ **Exception.** This section does not apply at railroad grade crossings.
 Conduct of drivers of vehicles approaching railroad grade crossings shall be
-governed by Ohio R.C. 4511.61 and 4511.62.  
+governed by Ohio R.C. 4511.61 and 4511.62.\
 (ORC 4511.13)
 
 ## 313.04   Lane-use control signal indications
@@ -357,7 +357,7 @@ governed by Ohio R.C. 4511.61 and 4511.62.
 
     5. _(5)_ A steady red "X": A road user is not permitted to use the lane over
     which the signal indication is located and that this signal indication shall
-    modify accordingly the meaning of other traffic controls present.  
+    modify accordingly the meaning of other traffic controls present.\
     (ORC 4511.131)
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -367,7 +367,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.99)
 
 ## 313.05   Special pedestrian control signals
@@ -399,7 +399,7 @@ place, such signals shall indicate the following instructions:
     those signals were installed prior to March 28, 1985.
 
     5. _(5)_ A flashing walking person signal indication has no meaning and
-    shall not be used.  
+    shall not be used.\
     (ORC 4511.14)
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
@@ -409,7 +409,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.99)
 
 ## 313.06   Flashing traffic signals
@@ -431,7 +431,7 @@ erection upon private property adjacent to streets of signs giving useful
 directional information and of a type that cannot be mistaken for traffic
 control devices, or the erection upon private property of traffic control
 devices by the owner of real property in accordance with Ohio R.C. 4511.211 and
-4511.432.  
+4511.432.
 
     Every such prohibited sign, signal, marking or device is a public nuisance,
     and the Police Chief is authorized to remove it or cause it to be removed.
@@ -443,7 +443,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (ORC 4511.16)
 
 ## 313.08   Alteration, injury, removal of traffic control devices
@@ -482,7 +482,7 @@ the third degree.
     misdemeanor of the fourth degree. If, within one year of the offense, the
     offender previously has been convicted of two or more predicate motor
     vehicle or traffic offenses, whoever violates subsection (a)(2) of this
-    section is guilty of a misdemeanor of the third degree.  
+    section is guilty of a misdemeanor of the third degree.\
     (ORC 4511.17)
 
 ## 313.09   Driver's duties upon approaching ambiguous or non-working traffic signal
@@ -513,12 +513,12 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.  
+the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.  
+    of the Traffic Code.\
     (ORC 4511.132)
 
 ## 313.10   Unlawful purchase, possession or sale
@@ -559,7 +559,7 @@ violation of Ohio R.C. 2913.51 or a municipal ordinance relating to receiving
 stolen property.
 
 4. _(d)_ Whoever violates this section is guilty of a misdemeanor of the third
-degree.  
+degree.\
 (ORC 4511.18)
 
 ## 313.11   Portable signal preemption devices prohibited
@@ -589,5 +589,5 @@ section is guilty of a misdemeanor of the first degree.
 
 4. _(d)_ As used in this section, "portable signal preemption device" means a
 device that, if activated by a person, is capable of changing a traffic control
-signal to green out of sequence.  
+signal to green out of sequence.\
 (ORC 4513.031)

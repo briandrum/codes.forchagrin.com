@@ -26,7 +26,7 @@ enhance the lawful nighttime use and enjoyment of any and all property through
 the use of appropriate lighting practices and systems. Such individual fixtures
 and lighting systems shall be designed, constructed, and installed to (i)
 control glare, (ii) prevent light trespass, (iii) minimize obtrusive light, and
-(iv) conserve energy while maintaining safety, security and productivity.  
+(iv) conserve energy while maintaining safety, security and productivity.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1150.02   Definitions
@@ -79,7 +79,7 @@ output over the life of the lamp is typically about 75% of new lamp lumen
 output.
 
 13. _(m)_ Temporary Outdoor Lighting - lighting that is applied temporarily for
-construction, safety, seasonal events, or public events.  
+construction, safety, seasonal events, or public events.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1150.03   General requirements
@@ -223,7 +223,7 @@ the following:
 3. _(c)_ The Architectural Board of Review may authorize specific exemptions
 when the Board determines that there will be no adverse impact resulting from
 the lighting and that such lighting is consistent with the spirit and intent of
-this Chapter.  
+this Chapter.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1150.04   Exemptions
@@ -250,7 +250,7 @@ are subject to the provisions of this Chapter.
 6. _(f)_ Special Event lighting for events otherwise approved by the
 Municipality.
 
-7. _(g)_ Municipal lighting.  
+7. _(g)_ Municipal lighting.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1150.05   Prohibited lighting
@@ -270,12 +270,12 @@ grounds except for temporary exemptions described herein.
 lamps are prohibited because of their poor color qualities.
 
 4. _(d)_ **Architectural Lighting.** Linear lighting such as "rope" light or
-high-voltage (neon) tubing is prohibited.  
+high-voltage (neon) tubing is prohibited.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1150.06   Nonconformance
 
 There shall be no change in use or lamp type, or any replacement or structural
 alteration made, without conforming to all applicable requirements of this
-Chapter.  
+Chapter.\
 (Ord. 2019-39. Passed 8-13-19.)

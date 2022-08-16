@@ -17,7 +17,7 @@ title: "Chapter 507: Whitesburg Park Fishing Pond"
 Fishing at Whitesburg Park Fishing Pond is catch and release only. After
 capture, all fish shall be unhooked and returned to the water unharmed. No
 person shall take or carry away or attempt to take or carry away any fish
-caught in the Whitesburg Park Fishing Pond.  
+caught in the Whitesburg Park Fishing Pond.\
 (Ord. 2008-42. Passed 10-13-08.)
 
 ## 507.02   Posting of signs
@@ -26,11 +26,11 @@ The Chief Administrative Officer shall cause the posting of signs in
 Whitesburg Park to notify individuals that Whitesburg Park Fishing Pond is
 catch and release, and there are criminal penalties for taking or carrying
 away, or attempting to take or carry away fish caught in the Whitesburg Park
-Fishing Pond.  
+Fishing Pond.\
 (Ord. 2008-42. Passed 10-13-08.)
 
 ## 507.99   Penalty
 
 Whoever violates any provision of this chapter is guilty of a misdemeanor of
-the third degree.  
+the third degree.\
 (Ord. 2008-42. Passed 10-13-08.)

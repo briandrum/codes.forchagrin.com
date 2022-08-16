@@ -27,7 +27,7 @@ All applications, plans and specifications shall be dated by the Building
 Inspector and taken up in their regular order as received. No plans or
 specifications shall be passed out of their order unless buildings or
 structures are of a complex character which require prolonged examination and
-inspection.  
+inspection.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1305.02   Plot plan
@@ -41,7 +41,7 @@ and 200 feet in length, the scale may be one-sixteenth or one-twentieth of an
 inch per foot;
 
 2. _(b)_ When the lot exceeds either of the above dimensions, the scale may be
-one thirty- second or one-fortieth of an inch per foot.  
+one thirty- second or one-fortieth of an inch per foot.\
 (Ord. 1940-276. Passed 9-9-40)
 
 ## 1305.03   Building plans
@@ -68,7 +68,7 @@ shall stamp and approve a fourth set of drawings for the applicant.
 elevations, cross-sections and details of construction are accurately shown,
 including horizontal and vertical dimensions, thickness of walls, dimensions
 and materials of supporting members and such other information as may be
-essential to illustrate completely the work covered by the application.  
+essential to illustrate completely the work covered by the application.\
 (Ord. 1965-616. Passed 6-14-65.)
 
 4. _(d)_ Whenever, in the opinion of the Inspector, the plans submitted include
@@ -76,13 +76,13 @@ structural members, the size, proportions or design of which necessitate
 approval by a qualified structural engineer, he may require the applicant to
 furnish certification as to the sufficiency of the design by a registered
 structural engineer. The form of certification shall be subject to the approval
-of the Inspector.  
+of the Inspector.\
 (Ord. 1980-5. Passed 1-28-80.)
 
 5. _(e)_ The Inspector may waive the requirements as to certification when, in
 his opinion, such separate certification is unnecessary. The originals of all
 certifications and copies of all waivers of certification shall be made a part
-of the permanent files of the Inspector's office.  
+of the permanent files of the Inspector's office.\
 (Ord. 1965-616. Passed 6-14-65.)
 
 ## 1305.04   Specifications
@@ -94,7 +94,7 @@ describe the work under consideration. All specifications shall completely and
 correctly describe the work to be performed, including the types and grades of
 materials to be used, the manner in which the work is to be performed and the
 make and grade of manufactured products, with complete, identifying
-descriptions of equipment to be installed.  
+descriptions of equipment to be installed.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1305.05   Imperfect plans and specifications
@@ -106,7 +106,7 @@ imperfect or is not in all respects in accordance with the provisions of this
 Building Code, he shall refuse to issue a permit until such application and
 plans and specifications have been made to conform in every respect with the
 requirements thereof. All plans not properly dimensioned shall be deemed
-incomplete.  
+incomplete.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1305.06   Alteration or erasure of plans
@@ -120,7 +120,7 @@ such intention to alter or deviate shall be given in writing to the Inspector
 and his written assent shall be obtained before such alteration or deviation
 may be made. If such change or deviation affects the bearing or structural
 parts of such building, or its classification or grade of occupancy, new plans
-thereof shall be submitted to the Inspector for approval.  
+thereof shall be submitted to the Inspector for approval.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1305.99   Penalty

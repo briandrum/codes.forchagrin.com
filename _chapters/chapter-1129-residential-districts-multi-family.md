@@ -28,7 +28,7 @@ title: "Chapter 1129: Residential Districts: Multi-Family"
 In addition to the applicable provisions of the intent stated in Section
 1105.03, it is the intent of these district regulations to promote development
 of relatively high-density housing under conditions which maximize open space
-and minimize disturbance to adjoining lower-density residential areas.  
+and minimize disturbance to adjoining lower-density residential areas.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1129.02   Permitted uses
@@ -68,7 +68,7 @@ only the main and accessory uses set forth below.
     7. _(7)_ Signs, as regulated in Chapter 1143.
 
     8. _(8)_ Home occupations, renting of rooms as regulated in Section 1125.05
-    of this Planning and Zoning Code.  
+    of this Planning and Zoning Code.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1129.03   Area regulations
@@ -97,7 +97,7 @@ unit, as defined and regulated in Section 1129.07(d).
 
 8. _(h)_ Storage Area: 60 square feet minimum per dwelling unit provided in a
 common area enclosed within each main building in addition to the minimum
-required dwelling unit area.  
+required dwelling unit area.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1129.04   Height regulations
@@ -113,7 +113,7 @@ accordance with the following height regulations.
 Section 1129.02(b)(6) may extend a maximum of ten feet above the highest point
 of the building on which it is located, provided such equipment conforms to
 Section 1129.07(f) and is set back from any building face a distance at least
-equal to the height by which it exceeds the building height.  
+equal to the height by which it exceeds the building height.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1129.05   Yard and setback regulations
@@ -171,7 +171,7 @@ building, structure, or use shall be as set forth below.
 
     3. _(3)_ Structures such as porches, balconies, platforms, decks, patios,
     and similar architectural projections that exceed forty-eight (48) square
-    feet shall meet the setback requirements of the main building.  
+    feet shall meet the setback requirements of the main building.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1129.06   Distances between buildings and uses
@@ -220,7 +220,7 @@ buildings and other walls or uses shall as set forth in the following schedule.
     | Accessory building, facing: | another accessory building |                      15 |
     |                             | private road               |                      10 |
 
-    x = length of overlap divided by 5  
+    x = length of overlap divided by 5\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1129.07   Design regulations and standards
@@ -324,7 +324,7 @@ style of the building on which it is located.
 Chapter 1141, in multifamily developments, a minimum of one-half (0.5)
 off-street parking space per dwelling unit shall be provided in unenclosed
 common parking areas distributed throughout the development in a manner
-providing convenient access to all dwelling units.  
+providing convenient access to all dwelling units.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1129.08   Supplemental regulations
@@ -336,5 +336,5 @@ prohibited.
 
 2. _(b)_ **Supplemental Regulations.** For regulations regarding off-street
 parking and loading, landscaping, lighting, signs and environmental performance,
-refer to Chapters 1141 - 1150 of the Planning and Zoning Code.  
+refer to Chapters 1141 - 1150 of the Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

@@ -65,7 +65,7 @@ may be imposed by the County Health Officer.
 8. _(h)_ **Abandonment of Systems.** When a public sewer becomes available, the
 building sewer shall be connected to such sewer within sixty days and the
 private sewage disposal system shall be cleaned of sludge and filled with clean
-bank-run gravel or dirt.  
+bank-run gravel or dirt.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 919.02   Pumping and cleaning septic tanks
@@ -96,7 +96,7 @@ either been in operation less than three years or has been pumped and cleaned
 within the three years prior to the effective date of this section. Such septic
 tanks shall be cleaned not later than three years from the date of installation
 or the date of the last cleaning within the three years prior to the effective
-date of this section.  
+date of this section.\
 (Ord. 1967-681. Passed 3-21-67.)
 
 ## 919.03   Household aerobic sewage treatment systems
@@ -133,7 +133,7 @@ notified in writing by the Chief Administrative Officer and shall be required to
 have any necessary cleaning, repairs, adjustments or replacements made to place
 such system in proper operating condition. Such cleaning, repairs, adjustments
 or replacements must be made within thirty days after written notification by
-the Chief Administrative Officer of the deficiencies.  
+the Chief Administrative Officer of the deficiencies.\
 (Ord. 1967-681. Passed 3-21-67.)
 
 ## 919.04   Privy vault cleaners; permit required; report

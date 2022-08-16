@@ -48,7 +48,7 @@ fees specified in this chapter.
 2. _(b)_ Any owner, occupant, architect, builder, plumber, carpenter, mason,
 electrician or other artisan, who performs work for which a permit is necessary
 prior to the issuance of said permit, shall pay a permit fee that is twice the
-amount of the permit fee which would ordinarily be charged for such work.  
+amount of the permit fee which would ordinarily be charged for such work.\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.02   New single-family dwellings
@@ -69,7 +69,7 @@ any attic floor): $10.00
 4. _(d)_ Heating permit: $100.00
 
 5. _(e)_ Water permit - see Water Regulations, Part Nine, Streets and Public
-Services Code For water utilized during construction.  
+Services Code For water utilized during construction.\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.03   Additions to single-family dwellings, alterations and repairs
@@ -87,20 +87,20 @@ shall be as follows:
 
 4. _(c)_     Electrical permit: $75.00
 
-5. _(d)_ Heating permit: $50.00  
+5. _(d)_ Heating permit: $50.00\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.04   New garages and accessory buildings
 
 The fee for new garages and accessory buildings shall be $50.00 plus $1.00 for
-each 100 square feet of building ground coverage.  
+each 100 square feet of building ground coverage.\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.05   Additions to garages
 
 The fee for additions to garages shall be as follows:
 
-* Building permit $ 50.00  
+* Building permit $ 50.00\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.06   Demolition and moving
@@ -147,7 +147,7 @@ required, shall be as follows:
 4. _(d)_ Heating permit for each dwelling unit: $100.00
 
 5. _(e)_ Water permit for water utilized during construction-see Water
-Regulations, Part Nine, Streets & Public Services Code  
+Regulations, Part Nine, Streets & Public Services Code\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.08   Additions or alterations to apartments or multiple dwellings
@@ -169,7 +169,7 @@ State permit is required, shall be as follows:
 
 3. _(c)_ Electrical permit: $150.00
 
-4. _(d)_ Heating permit: $100.00  
+4. _(d)_ Heating permit: $100.00\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.09   Industrial or commercial buildings
@@ -200,7 +200,7 @@ shall be as follows:
 6. _(f)_ Water permit
 
     For water utilized during construction - see Water Regulations, Part Nine,
-    Streets and Public Services Code  
+    Streets and Public Services Code\
     (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.10   Additions to industrial or commercial buildings, alterations and repairs
@@ -222,7 +222,7 @@ and repairs, if no State permit is required, shall be as follows:
 
 3. _(c)_ Electrical permit: $100.00
 
-4. _(d)_ Heating permit: $100.00  
+4. _(d)_ Heating permit: $100.00\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.11   Architectural review fees
@@ -260,28 +260,28 @@ $150.00
 
 The fees for signs shall be as follows:
 
-* Nonilluminated, per sign: $50.00  
+* Nonilluminated, per sign: $50.00\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.13   Swimming pools
 
 The fee for a swimming pool shall be as follows:
 
-* Building permit $ 100.00  
+* Building permit $ 100.00\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.14   Fence or wall near property line
 
 The fee for a fence or wall near a property line shall be as follows:
 
-* Building permit, if height exceeds three feet: $40.00  
+* Building permit, if height exceeds three feet: $40.00\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.15   Minor permit where no inspection
 
 The fee for minor permits where there is no inspection shall be:
 
-* Minor building permit $ 20.00  
+* Minor building permit $ 20.00\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.16   Special inspection fees
@@ -297,14 +297,14 @@ reinspection is necessary, there shall be a reinspection fee of: $30.00
 done under a permit, is requested, there shall be an inspection fee of: $30.00
 
 3. _(c)_ Whenever a sanitary sewer inspection of any kind is requested or
-required there shall be a fee of: $75.00  
+required there shall be a fee of: $75.00\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.17   Fees for central air conditioning units in residential dwellings
 
 The fee for a central air conditioning unit or units in new, additions or
 altered single family, multiple dwellings and apartments shall be five dollars
-($5.00) per ton.  
+($5.00) per ton.\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.18   Sidewalk and driveway apron permit fee
@@ -317,7 +317,7 @@ additional insured with limits of not less than one hundred thousand dollars
 ($100, 000) to three hundred thousand dollars ($300,000) for injury to person
 and fifty thousand dollars ($50,000) for property damage to protect the
 Municipality from any and all liability arising from such work to be performed
-in the dedicated streets of the Municipality.  
+in the dedicated streets of the Municipality.\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.19   Certificate of occupancy fee
@@ -330,7 +330,7 @@ responsibility of the business or enterprise owner or operator.
 occupancy in violation of the code, a one hundred fifty dollar ($150.00) fee
 shall be paid.
 
-3. _(c)_ There shall be no fee for any renewal of a certificate of occupancy.  
+3. _(c)_ There shall be no fee for any renewal of a certificate of occupancy.\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.20   Subdivision application fee
@@ -339,7 +339,7 @@ shall be paid.
 application for a minor subdivision.
 
 2. _(b)_ An eight hundred dollar ($800.00) fee shall be paid upon application
-for a major subdivision.  
+for a major subdivision.\
 (Ord. 2014-06. Passed 1-27-14.)
 
 ## 1309.21   Reimbursement for professional fees
@@ -349,5 +349,5 @@ inspection, consultation or other services rendered to Council, the Board or
 Commission or Chief Administrative Officer or Building Inspector in reference
 to the review or inspection of any construction, building, grading, excavation
 or other work being performed within the Village shall be reimbursed by the
-owner of the property which is the subject thereof.  
+owner of the property which is the subject thereof.\
 (Ord. 2014-06. Passed 1-27-14.)

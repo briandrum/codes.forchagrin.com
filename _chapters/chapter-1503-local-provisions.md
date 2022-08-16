@@ -58,7 +58,7 @@ incurred by reason of such fire. A permit may be granted to the owner or
 occupant of property for the burning thereon of the ordinary accumulation of
 such personal rubbish or waste paper or other burnable material when the same is
 proposed to be burned in a proper and suitable incinerator provided for the
-purpose which incinerator has first been approved by the Fire Chief.  
+purpose which incinerator has first been approved by the Fire Chief.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1503.02   Fire lanes
@@ -111,7 +111,7 @@ shall be given to the owner, occupant or person in charge of the premises. Such
 designation may be appealed within ten days by filing a written objection to it
 with the Fire Chief. The appeal shall be heard by Council, a majority of whom
 may affirm, disaffirm or modify the designation. Their decision shall be
-final.  
+final.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1503.03   Fire inspections: compliance required
@@ -124,7 +124,7 @@ he finds that conditions are caused or permitted to exist which are dangerous
 and in his opinion likely to cause a fire in any such buildings or premises so
 inspected, he shall order the owner to correct such conditions within a time
 stated in such order and such person shall comply with such order without
-delay.  
+delay.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1503.04   Fire hydrants
@@ -132,7 +132,7 @@ delay.
 No person, except in case of fire or unless duly authorized to do so by proper
 public authority, shall open, tamper with or use water from any fire hydrant. No
 person shall place or cause to be placed any building or other material or
-obstruction of any kind within seven feet of any fire hydrant.  
+obstruction of any kind within seven feet of any fire hydrant.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1503.05   No smoking - engine turned off while gasoline being dispensed
@@ -148,7 +148,7 @@ operation.
 3. _(c)_ Conspicuous and legible signs shall be posted by the owner, agent or
 operator of any establishment dispensing or serving fuel systems prohibiting
 smoking in these areas, and also providing for the shutting off of motors of all
-equipment during the fueling operation.  
+equipment during the fueling operation.\
 (Ord. 1975-970. Passed 4-15-75.)
 
 ## 1503.06   Fire-damaged structures; removal or repair securing fund
@@ -160,7 +160,7 @@ located within the this Municipality unless the applicable provisions of Ohio
 R.C. 3929.86 are fully complied with. The Fire Chief is hereby designated as the
 officer authorized to carry out the duties of Ohio R.C. 3929.86. The Clerk of
 Council shall file a certified copy of this section with the State
-Superintendent of Insurance.  
+Superintendent of Insurance.\
 (Ord. 1983-52. Passed 1-9-84.)
 
 ## 1503.07   Ul 217 approved smoke alarms; installation required
@@ -213,7 +213,7 @@ fifty dollars ($250.00), or imprisoned not more than thirty days, or both. On a
 second or subsequent offense, such person is guilty of a misdemeanor of the
 first degree and shall be fined not more than one thousand dollars ($1,000) or
 imprisoned not more than six months, or both. Each day of a continuing violation
-shall be deemed to be a separate offense.  
+shall be deemed to be a separate offense.\
 (Ord. 2011-06. Passed 1-24-11; Ord. 2019-64. Passed 11-11-19.)
 
 ## 1503.071   Central Station Monitored Fire Alarm System Requirement.
@@ -238,7 +238,7 @@ building permit shall install and maintain a central station fire alarm system.
 3. _(c)_ **Central Station Monitored Fire Alarm System Requirement/New
 Construction.** The owner of any commercial building that is constructed on or
 after March 1, 2014, shall install and maintain a central station monitored fire
-alarm system.  
+alarm system.\
 (Ord. 2019-30. Passed 3-25-19.)
 
 ## 1503.08   Fire alarm systems
@@ -253,7 +253,7 @@ inspection, testing and maintenance companies shall register with the Village of
 Chagrin Falls and must be certified to perform inspections, testing and
 maintenance pursuant to State law. Failure to comply with this section shall
 result in the refusal of acceptance of the inspection, testing or maintenance of
-the fire alarm system and it shall be deemed noncompliant.  
+the fire alarm system and it shall be deemed noncompliant.\
 (Ord. 2008-05. Passed 2-11-08.)
 
 ## 1503.09   Water-based fire protection systems
@@ -269,12 +269,12 @@ and maintenance companies shall register with the Village of Chagrin Falls and
 must be certified to perform such inspections, testing and maintenance pursuant
 to State law. Failure to comply with this section shall result in the refusal of
 acceptance of the inspection, testing or maintenance of the water-based fire
-protection system and it shall be deemed noncompliant.  
+protection system and it shall be deemed noncompliant.\
 (Ord. 2008-05. Passed 2-11-08.)
 
 ## 1503.10   Standpipes and fire department connections
 
-All standpipes and fire department connections shall be painted red.  
+All standpipes and fire department connections shall be painted red.\
 (Ord. 2008-05. Passed 2-11-08.)
 
 ## 1503.11   Key boxes
@@ -282,7 +282,7 @@ All standpipes and fire department connections shall be painted red.
 Key boxes shall be installed on all commercial and educational occupancies, as
 well as multi-family dwellings which are designed for occupancy by more than two
 families. The location of the key boxes must be approved by the Chagrin Falls
-Bureau of Fire Prevention prior to installation.  
+Bureau of Fire Prevention prior to installation.\
 (Ord. 2008-05. Passed 2-11-08.)
 
 ## 1503.12   Inspection required prior to occupancy
@@ -290,11 +290,11 @@ Bureau of Fire Prevention prior to installation.
 In accordance with the Planning and Zoning Code of the Codified Ordinances of
 Chagrin Falls all commercial occupancies shall have a fire safety inspection by
 a representative of the Chagrin Falls Bureau of Fire Prevention in order to
-obtain an occupancy permit.  
+obtain an occupancy permit.\
 (Ord. 2008-05. Passed 2-11-08.)
 
 ## 1503.99   Penalty
 
 (Editor's note: See Section 1501.99 for general Code penalty if no specific
-penalty is provided.)  
+penalty is provided.)\
 (Ord. 1975-970. Passed 4-15-75.)

@@ -39,7 +39,7 @@ substantially destroyed, shall be regulated in accordance with Section
 
 4. _(d)_ Furthermore, the continuation of a lawful nonconformity shall not be
 construed as a reason for permitting nonconformities not specifically permitted
-in this Code.  
+in this Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1145.02   Nonconforming buildings and structures
@@ -87,7 +87,7 @@ conforming use. Determination of the reproduction value shall be made by
 majority vote of three practicing building construction contractors, one to be
 appointed by owner, one to be appointed by the Municipality, and the third to be
 selected by the mutual consent of the two parties, in the event the Municipality
-and the owner do not agree on the value.  
+and the owner do not agree on the value.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1145.03   Nonconforming use of buildings; nonconforming accessory uses
@@ -146,7 +146,7 @@ existing building.
 existing lawfully at the time this Code became effective, but which is
 nonconforming as to one or more of the performance standards shall not be
 required to conform therewith except at such times that the use is changed or
-the building is altered.  
+the building is altered.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1145.04   Nonconforming use of land
@@ -187,7 +187,7 @@ may be used as follows:
     be effected reasonably without resulting in an average lot width or area
     less than the minimum required for the district, the Planning and Zoning
     Commission may reduce such width and area requirements by not more than ten
-    percent (10%).  
+    percent (10%).\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1145.05   Nonconforming use due to reclassification
@@ -201,7 +201,7 @@ amendments made thereto.
 2. _(b)_ Buildings and uses that were conforming or lawfully existing
 nonconforming buildings and uses under Ordinance 1932-144 as amended and become
 nonconforming under this Code shall be deemed lawful nonconforming buildings and
-uses.  
+uses.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1145.06   Change from nonconforming use
@@ -218,5 +218,5 @@ building equal the sum of the lot area, lot width and parking spaces required
 for each use; and provided the distances between the conforming building and
 nonconforming building or use are at least equal to the distances required if
 the two uses were on adjacent lots; provided however, that in a one-family and
-two-family district only one main building shall be permitted on a zoning lot.  
+two-family district only one main building shall be permitted on a zoning lot.\
 (Ord. 2019-39. Passed 8-13-19.)

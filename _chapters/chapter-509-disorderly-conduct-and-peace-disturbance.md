@@ -49,7 +49,7 @@ an act with unlawful force or violence, even though such act might otherwise be
 lawful.
 
 3. _(c)_ Whoever violates this section is guilty of riot, a misdemeanor of the
-first degree.  
+first degree.\
 (ORC 2917.03)
 
 ## 509.02   Failure to disperse
@@ -74,7 +74,7 @@ assembled for a lawful purpose.
     3. _(3)_ Failure to disperse is a misdemeanor of the fourth degree if the
     failure to obey the order described in subsection (a) hereof, creates the
     likelihood of physical harm to persons or is committed at the scene of a
-    fire, accident, disaster, riot, or emergency of any kind.  
+    fire, accident, disaster, riot, or emergency of any kind.\
     (ORC 2917.04)
 
 ## 509.03   Disorderly conduct; intoxication
@@ -164,7 +164,7 @@ subsection (b) hereof.
     3. _(3)_ "Emergency facility" has the same meaning as in Ohio R.C. 2909.04.
 
     4. _(4)_ "Committed in the vicinity of a school" has the same meaning as in
-    Ohio R.C. 2925.01.  
+    Ohio R.C. 2925.01.\
     (ORC 2917.11)
 
 ## 509.04   Disturbing a lawful meeting
@@ -179,7 +179,7 @@ procession or gathering, shall do either of the following:
     sensibilities of the group.
 
 2. _(b)_ Whoever violates this section is guilty of disturbing a lawful meeting,
-a misdemeanor of the fourth degree.  
+a misdemeanor of the fourth degree.\
 (ORC 2917.12)
 
 ## 509.05   Misconduct at an emergency
@@ -217,7 +217,7 @@ misdemeanor of the first degree.
     personnel" as defined in Ohio R.C. 2909.04.
 
     3. _(3)_ "Emergency facility" has the same meaning as in Ohio R.C.
-    2909.04.  
+    2909.04.\
     (ORC 2917.13)
 
 ## 509.06   Inducing panic
@@ -328,7 +328,7 @@ or both sections.
 
         3. _(C)_ A post-secondary institution with a certificate of registration
         issued by the State Board of Career Colleges and Schools under Ohio R.C.
-        Chapter 3332.  
+        Chapter 3332.\
         (ORC 2917.31)
 
 ## 509.07   Making false alarms
@@ -372,7 +372,7 @@ or both sections.
     R.C. 2911.21.
 
     2. _(2)_ "Economic harm"and "weapon of mass destruction" have the same
-    meaning as in Section 509.06.  
+    meaning as in Section 509.06.\
     (ORC 2917.32)
 
 ## 509.08   Unnecessary noise
@@ -473,7 +473,7 @@ not have an automatic reset allowing the alarm to ring a maximum of twelve
 minutes duration.
 
 5. _(e)_ Whoever violates this section is guilty of a misdemeanor of the first
-degree.  
+degree.\
 (Ord. 2008-53. Passed 2-9-09.)
 
 ## 509.09   Vagrants
@@ -526,7 +526,7 @@ immediately reported to the police the child's presence there.
 a misdemeanor of the fourth degree upon conviction of a first offense, and shall
 be guilty of a misdemeanor of the second degree upon a conviction of a second or
 subsequent offense. In addition to any other method of enforcement, this offense
-may be enforced by the issuance of a citation per Criminal Rule 4.1.  
+may be enforced by the issuance of a citation per Criminal Rule 4.1.\
 (Ord. 1996-81. Passed 1-13-97.)
 
 ## 509.99   Penalty

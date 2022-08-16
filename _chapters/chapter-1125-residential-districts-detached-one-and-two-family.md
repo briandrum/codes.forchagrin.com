@@ -29,7 +29,7 @@ title: "Chapter 1125: Residential Districts: Detached One and Two-Family"
 In addition to the applicable provisions of the intent stated in Section
 1105.03, it is the intent of these district regulations to promote development
 of low-to-medium density housing under conditions which maximize safety and
-minimize environmental disturbances to residents.  
+minimize environmental disturbances to residents.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.02   Permitted uses
@@ -65,7 +65,7 @@ be used by right for only the main and accessory uses set forth below.
     Code.
 
     7. _(7)_ Home occupations, renting of rooms as regulated in Section 1125.05
-    of this Planning and Zoning Code.  
+    of this Planning and Zoning Code.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.03   Area, yard and height regulations: main buildings
@@ -93,7 +93,7 @@ with the following regulations.
 | 1 - story building                                                  |                                1,200 |   950 |   800 |     750/950 |
 | 2 - 2 1/2 story building                                            |                                1,500 | 1,250 | 1,100 |   800/1,100 |
 
-\*except as permitted in subsection (m) hereof  
+\*except as permitted in subsection (m) hereof\
 \** except as regulated in subsection (n) hereof
 
 10. _(j)_ **Height.** The height of a dwelling shall not exceed thirty- five
@@ -145,7 +145,7 @@ roof between the dwelling and attached garage has a minimum of forty percent
 or roof. For dwelling units located on a corner lot and having an attached
 garage with garage doors facing the side street, the minimum distance from the
 side street line to the garage portion of the main building shall be twenty
-feet.  
+feet.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.04   Area, yard and height regulation; accessory buildings and structures
@@ -290,7 +290,7 @@ and heat pumps shall be:
 
     7. _(7)_ Equipped with sound attenuation equipment sufficient to ensure that
     the noise level produced during operation complies with the requirements of
-    Section 1144.02(b).  
+    Section 1144.02(b).\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.05   Home occupations; renting of rooms
@@ -338,7 +338,7 @@ are permitted only if in conformance with the following standards:
 2. _(b)_ **Renting of Rooms.** Where the owner of a dwelling unit resides in
 such dwelling unit, not more than two rooms in such dwelling unit shall be
 occupied by a non-owner resident family and the number of renters in such
-dwelling unit shall be limited to two persons.  
+dwelling unit shall be limited to two persons.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.06   Landscaping requirements
@@ -384,7 +384,7 @@ landscaping is an improvement and enhancement, shall consider the need for a
 visual barrier, the intent of the original landscaping plan, the contiguous
 properties, the current site conditions, including soil conditions and the
 success of a certain species growing in the area, and any other factor deemed
-relevant by the Administrator.  
+relevant by the Administrator.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.07   Visibility at intersections
@@ -392,7 +392,7 @@ relevant by the Administrator.
 Within a triangle formed by lines drawn between points on two street
 right-of-way lines twenty-five feet from their point of intersection,
 substantially unobstructed sight lines shall be maintained within a vertical
-height band two and one-half to six feet above curb level.  
+height band two and one-half to six feet above curb level.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.08   Supplemental parking regulations
@@ -533,7 +533,7 @@ to achieve the required screen density and height. The Administrator shall
 determine the effectiveness of the selected screening. The screening requirement
 shall not apply where natural or man-made barriers exist which provide continual
 screening generally equivalent to that required by this Section. Screening shall
-be maintained in good condition at all times.  
+be maintained in good condition at all times.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1125.09   Keeping chickens
@@ -570,5 +570,5 @@ or run at all times.
 
 5. _(e)_ Chickens shall be kept in coops from dusk to dawn.
 
-6. _(f)_ Slaughtering of chickens on the premises is prohibited.  
+6. _(f)_ Slaughtering of chickens on the premises is prohibited.\
 (Ord. 2019-39. Passed 8-13-19.)

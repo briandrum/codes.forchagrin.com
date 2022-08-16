@@ -61,7 +61,7 @@ Chapter 711 and for the purpose and intent of the following objectives:
     the subdividers and local government.
 
     10. _(10)_ Accurately surveying, preparing and recording of plats and
-    subdivision of land.  
+    subdivision of land.\
     (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.02   Jurisdiction
@@ -94,7 +94,7 @@ Municipality, except conforming with the provisions of this chapter.
 
 5. _(e)_ **Hillside Protection.** The applicable Hillside Protection Regulations
 shall apply to any lot within a subdivision with an average percent of slope of
-six percent (6%) or greater.  
+six percent (6%) or greater.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.03   Definitions
@@ -300,7 +300,7 @@ question.
 for pedestrian use only, whether along the side of a road or not.
 
 50. _(50)_ "Watershed" means the drainage basin in which the subdivision drains
-or that land whose drainage is affected by the subdivision.  
+or that land whose drainage is affected by the subdivision.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.04   Proposal
@@ -459,20 +459,20 @@ supplied in addition to the requirements in Section 1161.04(c).
 
     9. _(9)_ For all uses proposed or to be retained: building and structure
     heights, number of parking spaces, number of dwelling units, total building
-    coverage and floor area by type and use.  
+    coverage and floor area by type and use.\
     (Ord. 1988-25. Approved by voters 11-8-88.)
 
     10. _(10)_ All wetlands and flood hazard areas shall be designated on the
     preliminary plat. This designation shall be certified by a person certified
     in wetlands delineation as mandated by the State of Ohio and/or the United
-    States Government.  
+    States Government.\
     (Ord. 1993-50. Passed 6-14-93.)
 
 7. _(g)_ **Filing.** The preliminary plat shall be considered officially filed
 after it has been reviewed for all required information and found complete, a
 non-refundable one thousand five hundred dollar ($1,500) filing fee and also a
 professional-fee deposit, pursuant to Section 1161.09(b), are paid and it is
-stamped by the Village Administrator and dated.  
+stamped by the Village Administrator and dated.\
 (Ord. 2009-66. Passed 12-14-09.)
 
 8. _(h)_ **Notification of Abutting Property Owners.**
@@ -488,7 +488,7 @@ stamped by the Village Administrator and dated.
 
     2. _(2)_ A notice not received by an abutting property owner shall not
     affect the validity of approval by this Village of any subdivision which in
-    all other respects is lawfully given.  
+    all other respects is lawfully given.\
     (Ord. 2014-72. Passed 11-10-14.)
 
 9. _(i)_ **Approval of Preliminary Plat.** The Village Administrator shall
@@ -656,7 +656,7 @@ a parcel of land meets all of the following conditions:
 
     All minor subdivisions shall have final plat approval by the Planning and
     Zoning Commission and shall be filed by the subdivider with the County
-    Recorder.  
+    Recorder.\
     (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.05   Design standards
@@ -832,7 +832,7 @@ characteristics, the Commission may approve the subdivision based on the advice
 of the Village Engineer, provided the subdivider agrees to perform such
 improvements as will render the area safe for the intended use. In lieu of
 improvements, the subdivider shall furnish a surety or certified check covering
-the cost of the required improvements.  
+the cost of the required improvements.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.06   Required construction improvements
@@ -985,7 +985,7 @@ construction drawings of the State Department of Transportation Page BP-7,
 latest edition. The full-depth asphalt pavements shall have asphalt gutters and
 six-inch by eighteen-inch Type 6 concrete curbs as called out in the standard
 construction drawings of the State Department of Transportation Page BP-7,
-latest edition.  
+latest edition.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 16. _(p)_ **Sidewalks.**
@@ -1009,7 +1009,7 @@ latest edition.
     sandstone flagging in accordance with Item 608 Walks, Curb Ramps and Steps
     of the Construction and Material Specifications of the State Department of
     Transportation and Chapter 903 of the Streets, Utilities and Public Services
-    Code.  
+    Code.\
     (Ord. 2011-13. Passed 4-11-14.)
 
 17. _(q)_ **Driveways.** Driveways may be constructed of Portland Cement
@@ -1188,7 +1188,7 @@ inspections shall include an internal pipe inspection of sanitary and storm
 sewers, two photography, television and hydrostatic tests, the first immediately
 following installation and the second internal pipe inspection at the discretion
 of the Village Engineer. With respect to sewer improvements, these inspections
-shall be completed at the developer's expense.  
+shall be completed at the developer's expense.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.07   Revisions; enforcement
@@ -1230,7 +1230,7 @@ rights of appeal as set forth in Chapter 1111.
 section or other part of these Subdivision Regulations should be decided by a
 court of competent jurisdiction to be invalid, such judgment shall not affect
 the validity of these Subdivision Regulations as a whole, or any part thereof,
-other than the part so held to be invalid.  
+other than the part so held to be invalid.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.08   Enactment
@@ -1242,12 +1242,12 @@ regulations previously adopted by the Planning and Zoning Commission shall be
 deemed to be repealed. These Regulations shall in no way affect any subdivision
 having received preliminary approval prior to the effective date provided,
 however, that no changes to the preliminary plat, as approved, are introduced by
-the subdivider.  
+the subdivider.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.09   Subdivision procedures
 
-1. _(a)_ Preapplication sketch review with Village Administrator.  
+1. _(a)_ Preapplication sketch review with Village Administrator.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 2. _(b)_ Preliminary Plat.
@@ -1271,7 +1271,7 @@ the subdivider.
     amount of an additional reasonable deposit, that the applicant shall make or
     the application shall be dismissed. Upon final disposition of the
     application, any portion of the deposit which remains shall be returned to
-    the applicant.  
+    the applicant.\
     (Ord. 2009-66. Passed 12-14-09.)
 
     3. _(3)_ Administrator:
@@ -1348,7 +1348,7 @@ provide:
         Engineer that all required improvements have been installed and approved
         by the Village Engineer and a bond or other surety has been furnished
         assuring installation and initial maintenance of the required
-        improvements.  
+        improvements.\
         (Ord. 1988-25. Approved by voters 11-8-88.)
 
     2. _(2)_ Planning and Zoning Commission:
@@ -1376,7 +1376,7 @@ Village Clerk's office.
 
 6. _(f)_ Sale of land within the subdivision is prohibited until the final
 subdivision plat has been approved by the Commission and recorded with the
-County.  
+County.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.99   Penalty
@@ -1402,5 +1402,5 @@ the seller from the forfeiture provided in this section. Such sum may be
 recovered in a civil action brought in the Court of Common Pleas of Cuyahoga
 County by the legal representative of the Municipality in the name of the
 Municipality, in addition to any other criminal or civil remedies available
-under law.  
+under law.\
 (Ord. 1988-25. Approved by voters 11-8-88.)

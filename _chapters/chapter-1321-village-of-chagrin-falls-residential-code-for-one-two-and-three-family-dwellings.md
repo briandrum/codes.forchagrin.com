@@ -40,7 +40,7 @@ Building Department will not be required to be certified by the Ohio Board of
 Building Standards in order to enforce the Village Code, and the State Code
 will, unless the Village Building Department becomes certified, not be
 applicable within the Municipal Corporation limits of the Village by operation
-of Ohio R.C. 3781.10(A)(2).  
+of Ohio R.C. 3781.10(A)(2).\
 (Ord. 2006-57. Passed 9-25-06; Ord. 2021-07. Passed 1-25-21.)
 
 ## 1321.02   Intent
@@ -55,7 +55,7 @@ Code, which shall be substantially identical to the State Code, but which will
 be enforced under the Village's police powers granted by Article XVIII, Section
 3 of the Ohio Constitution. Other provisions of the Village Codified
 Ordinances shall continue in full force and effect, so long as they do not
-conflict with any general law of the State of Ohio.  
+conflict with any general law of the State of Ohio.\
 (Ord. 2006-57. Passed 9-25-06.)
 
 ## 1321.03   Adoption of the village code
@@ -74,7 +74,7 @@ referred to as the "Residential Code of the Village of Chagrin Falls for One-,
 Two- and Three- family Dwellings" (or "Village Code"). The Village
 Administrator shall maintain a current copy of the State Code (as adopted under
 law), for purposes of reference in determining the current law of the Village,
-but no municipal official shall enforce the State Code.  
+but no municipal official shall enforce the State Code.\
 (Ord. 2006-57. Passed 9-25-06.)
 
 ## 1321.04   Interpretation
@@ -84,7 +84,7 @@ provisions of the current State Code. In the event other chapters of the
 Village Building or Fire Codes have requirements which are not required by the
 State of Ohio, such requirements are mandatory unless they conflict with a
 general law of the State of Ohio. In the event of a conflict, the general law
-of the State of Ohio shall prevail.  
+of the State of Ohio shall prevail.\
 (Ord. 2006-57. Passed 9-25-06.)
 
 ## 1321.05   Enforcement personnel
@@ -106,7 +106,7 @@ Inspectors by the Ohio Board of Building Standards. All personnel employed to
 interpret and enforce the Village Code shall obtain such additional and
 continuing training as the Mayor or the Chief Administrative Officer deems
 reasonable and necessary, and which is funded by an appropriation by the
-Village Council.  
+Village Council.\
 (Ord. 2021-07. Passed 1-25-21.)
 
 ## 1321.06   Electrical service
@@ -118,12 +118,12 @@ electric service laterals.
 
 2. _(b)_ The electrical contractor shall provide permanently installed ground-
 fault circuit- interrupter of the Class A Group I Type for personnel
-protection, for any installation of temporary electric power.  
+protection, for any installation of temporary electric power.\
 (Ord. 2006-57. Passed 9-25-06.)
 
 ## 1321.99   Penalty
 
 Whoever violates the provisions of this chapter shall be guilty of a
 misdemeanor of the third degree, punishable by a fine of up to five hundred
-dollars ($500.00) or imprisoned up to sixty days, or both.  
+dollars ($500.00) or imprisoned up to sixty days, or both.\
 (Ord. 2006-57. Passed 9-25-06.)

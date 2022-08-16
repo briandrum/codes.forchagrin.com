@@ -20,7 +20,7 @@ Regular Municipal elections shall be held on the first Tuesday after the first
 Monday of November in each odd numbered year. Such other elections shall be held
 as may be required by law or authorized by this Charter. Any matter which, by
 the terms of this Charter may be submitted to the electors at any special
-election, may be submitted at the time of a primary or regular election.  
+election, may be submitted at the time of a primary or regular election.\
 (Amended 11-2-71)
 
 ## Section IX-2: General provision
@@ -38,7 +38,7 @@ designation. The names of all candidates for Municipal office shall be placed
 upon the ballot, and shall be rotated in the manner provided by the general law
 of Ohio. Except as provided in this Charter, the general laws of Ohio shall
 govern the nomination and election of the elective officers of the
-Municipality.  
+Municipality.\
 (Amended 11-2-71)
 
 ## Section IX-3: Declaration of candidacy
@@ -46,7 +46,7 @@ Municipality.
 Each person desiring to become a candidate shall, not later than 4:00 p.m. of
 the seventy-fifth (75th) day before the first (1st) Tuesday after the first
 (1st) Monday in November, file with the Board of Elections of Cuyahoga County,
-Ohio, the petition and written acceptance of the nominee.  
+Ohio, the petition and written acceptance of the nominee.\
 (Amended 11-3-81)
 
 ## Section IX-4: Designation of candidates

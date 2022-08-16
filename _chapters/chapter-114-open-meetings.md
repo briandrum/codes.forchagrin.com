@@ -23,7 +23,7 @@ Municipality, shall be held at the Village Hall.
 
 All meetings of the described public bodies shall be open to the public, unless
 an executive session is expressly authorized under the applicable provisions of
-State law.  
+State law.\
 (Ord.1975-992. Passed 12-2-75.)
 
 ## 114.02   Public notification
@@ -42,7 +42,7 @@ special meeting.
 3. _(c)_ **Emergency Meetings.** In the event of an emergency meeting, notice of
 such emergency meeting shall be communicated to the news media who have
 requested notification of the time, place and purpose of the emergency
-meeting.  
+meeting.\
 (Ord.1975-992. Passed 12-2-75.)
 
 ## 114.03   Personal notification
@@ -58,7 +58,7 @@ advance notice of all meetings at which any specific type of public business
 will be discussed and/or acted upon. To obtain this notice, such persons are
 required to fill out a form provided by the Clerk of Council for such purpose,
 and shall deposit the sum provided under subsection (a) hereof in advance for
-such notices of the calendar of monthly meetings.  
+such notices of the calendar of monthly meetings.\
 (Ord.1975-992. Passed 12-2-75; Ord.1990-79. Passed 10-8-90.)
 
 ## 114.04   Minutes of meetings
@@ -72,7 +72,7 @@ executive session.
 2. _(b)_ **Location of Minute Books.** The Clerk of Council shall keep a minute
 book for each public body. The minute books shall contain the minutes of all
 meetings of each public body. The public may inspect the minute books at all
-reasonable times.  
+reasonable times.\
 (Ord.1975-992. Passed 12-2-75.)
 
 ## 114.05   Virtual public meetings and hearings
@@ -159,5 +159,5 @@ the President of Council may, by email notice to all members of Council, the
 Mayor, the Chief Administrative Officer, and the Law Director, declare that one
 or more meetings or hearings be held virtually until the next regularly
 scheduled Council meeting at which time the Council will determine if virtual
-meetings shall continue for one or more public bodies of the Village.  
+meetings shall continue for one or more public bodies of the Village.\
 ([Ord. 2022-01. Passed 1-3-22.]({% link _posts/2022-01-03-ordinance-2022-01.md %}))

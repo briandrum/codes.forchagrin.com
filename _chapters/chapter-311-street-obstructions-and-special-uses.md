@@ -59,7 +59,7 @@ for the repair or construction thereof.
     misdemeanor of the third degree.
 
     2. _(2)_ Whoever violates subsection (e) of this section is guilty of a
-    misdemeanor of the first degree.  
+    misdemeanor of the first degree.\
     (ORC 4511.74)
 
 ## 311.02   Parades and assemblages
@@ -67,13 +67,13 @@ for the repair or construction thereof.
 1. _(a)_ No person, group of persons or organization shall conduct or
 participate in any parade, assemblage or procession other than a funeral
 procession upon any street or highway, or block off any street or highway area,
-without first obtaining a permit from the Police Chief.  
+without first obtaining a permit from the Police Chief.
 
     Applications for such permits shall be made on such forms as may be
     prescribed and shall contain such information as is reasonably necessary to
     a fair determination of whether a permit should be issued. Applications
     shall be filed not less than five days before the time intended for such
-    parade, procession or assemblage.  
+    parade, procession or assemblage.
 
     The permit may be refused or cancelled if:
 
@@ -97,7 +97,7 @@ without first obtaining a permit from the Police Chief.
     misleading or incomplete in any material detail.
 
     6. _(6)_ An emergency such as a fire or storm would prevent the proper
-    conduct of the parade.  
+    conduct of the parade.
 
         The permit or any order accompanying it may limit or prescribe
         reasonable conditions, including the hours, the place of assembly and of
@@ -133,7 +133,7 @@ while under proper supervision.
 of public safety, all police officers are authorized to close off streets or
 portions of streets and divert traffic as the occasion may require, and
 pedestrians and drivers of vehicles shall conform to the regulations so
-established.  
+established.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 4. _(d)_ Except as otherwise provided in this subsection, whoever violates this
@@ -150,7 +150,7 @@ misdemeanor of the third degree.
 1. _(a)_ The Mayor is authorized, where it is necessary to preserve health, to
 establish zones of quiet. Whenever authorized signs are erected indicating a
 zone of quiet, no person operating a motor vehicle within any such zone shall
-sound the horn or other warning device of such vehicle except in an emergency.  
+sound the horn or other warning device of such vehicle except in an emergency.\
 (Ord. 1957-420. Passed 12-28-57.)
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this

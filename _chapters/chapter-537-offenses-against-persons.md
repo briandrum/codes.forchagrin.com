@@ -44,7 +44,7 @@ termination of another's pregnancy by means of a deadly weapon or dangerous
 ordnance as defined in Section 549.01.
 
 2. _(b)_ Whoever violates this section is guilty of negligent homicide, a
-misdemeanor of the first degree.  
+misdemeanor of the first degree.\
 (ORC 2903.05)
 
 ## 537.02   Vehicular homicide and manslaughter
@@ -156,7 +156,7 @@ enhanced because of a prior or current violation of a specified law or a prior
 or current specified offense, the reference to the violation of the specified
 law or the specified offense includes any violation of any substantially
 equivalent municipal ordinance, former law of this State, or current or former
-law of another state or the United States.  
+law of another state or the United States.\
 (ORC 2903.06)
 
 7. _(g)_ The court imposing a sentence upon an offender for any violation of
@@ -165,7 +165,7 @@ commercial driver's license, temporary instruction permit, probationary license,
 or nonresident operating privilege from the range specified in division (B) of
 Ohio R.C. 4510.02 that is equivalent in length to the suspension required for a
 violation of Ohio R.C. 2903.06 or division (A) or (B) of Ohio R.C. 4511.19 under
-similar circumstances.  
+similar circumstances.\
 (ORC 4510.07)
 
 ### 537.021   Vehicular assault in a construction zone
@@ -222,7 +222,7 @@ enhanced because of a prior or current violation of a specified law or a prior
 or current specified offense, the reference to the violation of the specified
 law or the specified offense includes any violation of any substantially
 equivalent municipal ordinance, former law of this State, or current or former
-law of another state or the United States.  
+law of another state or the United States.\
 (ORC 2903.08)
 
 ## 537.03   Assault
@@ -491,7 +491,7 @@ another's unborn.
             Ohio R.C. Chapter 4723.
 
     20. _(20)_ "Health maintenance organization" has the same meaning as in Ohio
-    R.C. 3727.01.  
+    R.C. 3727.01.\
     (ORC 2903.13)
 
 ## 537.04   Negligent assault
@@ -501,7 +501,7 @@ ordnance as defined in Section 549.01 cause physical harm to another or to
 another's unborn.
 
 2. _(b)_ Whoever violates this section is guilty of negligent assault, a
-misdemeanor of the third degree.  
+misdemeanor of the third degree.\
 (ORC 2903.14)
 
 ## 537.05   Aggravated menacing
@@ -530,7 +530,7 @@ performance of official responsibilities or duties, aggravated menacing is a
 felony and shall be prosecuted under appropriate State law.
 
 3. _(c)_ As used in this section, "organization" includes an entity that is a
-governmental employer.  
+governmental employer.\
 (ORC 2903.21)
 
 ### 537.051   Menacing by stalking
@@ -757,7 +757,7 @@ caused mental distress as described in subsection (d)(2)B. of this section.
     3. _(3)_ Subsection (f)(1) of this section does not apply to a person who
     conspires with a person actively involved in the creation or knowing
     distribution of material in violation of this section or who knowingly
-    advertises the availability of material of that nature.  
+    advertises the availability of material of that nature.\
     (ORC 2903.211)
 
 ## 537.06   Menacing
@@ -786,7 +786,7 @@ official responsibilities or duties, menacing is a felony and shall be
 prosecuted under appropriate State law.
 
 3. _(c)_ As used in this section, "organization" includes an entity that is a
-governmental employer.  
+governmental employer.\
 (ORC 2903.22)
 
 ## 537.07   Endangering children
@@ -897,7 +897,7 @@ or physically handicapped child under twenty-one years of age.
         any provision of law that refers to a conviction of or plea of guilty to
         a violation of Section 333.01(a) of the Traffic Code, a conviction of or
         plea of guilty to a violation of Section 333.01(a) of the Traffic
-        Code.  
+        Code.\
         (ORC 2919.22)
 
 ## 537.08   Unlawful restraint
@@ -912,7 +912,7 @@ shall knowingly restrain another of the other person's liberty.
 misdemeanor of the third degree.
 
 4. _(d)_ As used in this section, "sexual motivation" has the same meaning as in
-Ohio R.C. 2971.01.  
+Ohio R.C. 2971.01.\
 (ORC 2905.03)
 
 ## 537.09   Coercion
@@ -975,7 +975,7 @@ the second degree.
     1. _(1)_ "Threat" includes a direct threat and a threat by innuendo.
 
     2. _(2)_ "Community control sanction" has the same meaning as in Ohio R.C.
-    2929.01.  
+    2929.01.\
     (ORC 2905.12)
 
 ## 537.10   Telecommunication harassment
@@ -1201,7 +1201,7 @@ in that capacity.
 telecommunication call to a debtor that is in compliance with the "Fair Debt
 Collection Practices Act", 91 Stat. 874 (1977), 15 U.S.C. 1692, as amended, or
 the "Telephone Consumer Protection Act", 105 Stat. 2395 (1991), 47 U.S.C. 227,
-as amended.  
+as amended.\
 (ORC 2917.21)
 
 ## 537.11   Threatening or harassing telephone calls
@@ -1212,21 +1212,21 @@ words or language of a lewd, lascivious or indecent character, nature or
 connotation for the sole purpose of annoying such other person; nor shall any
 person telephone any other person repeatedly or cause any person to be
 telephoned repeatedly for the sole purpose of harassing or molesting such other
-person or his family.  
+person or his family.
 
     Any use, communication or act prohibited by this section may be deemed to
     have occurred or to have been committed at either the place at which the
-    telephone call was made or was received.  
+    telephone call was made or was received.\
     (ORC 4931.31)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
-degree.  
+degree.\
 (ORC 4931.99)
 
 ## 537.12   Misuse of 9-1-1 system
 
 1. _(a)_ "9-1-1 system" means a system through which individuals can request
-emergency service using the telephone number 9-1-1.  
+emergency service using the telephone number 9-1-1.\
 (ORC 128.01)
 
 2. _(b)_ No person shall knowingly use the telephone number of the 9-1-1 system
@@ -1265,7 +1265,7 @@ circumstances:
     in warning of a public emergency, as determined by the steering committee.
     The charge, terms, and conditions for the disclosure or use of that
     information for the purpose of access to a data base is subject to the
-    jurisdiction of the steering committee.  
+    jurisdiction of the steering committee.\
     (ORC 128.32)
 
 5. _(e)_
@@ -1276,7 +1276,7 @@ circumstances:
     2. _(2)_ Whoever violates subsection (c) or (d) hereof is guilty of a
     misdemeanor of the fourth degree on a first offense. For each subsequent
     offense such person is guilty of a felony and shall be prosecuted under
-    appropriate State law.  
+    appropriate State law.\
     (ORC 128.99)
 
 ## 537.13   Adulterating of or furnishing adulterated food or confection
@@ -1289,11 +1289,11 @@ seriously inconvenienced or annoyed thereby:
     or other harmful or hazardous object or substance in any food or confection;
 
     2. _(2)_ Furnish to any person any food or confection which has been
-    adulterated in violation of subsection (a)(1) hereof.  
+    adulterated in violation of subsection (a)(1) hereof.\
     (ORC 3716.11)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
-degree.  
+degree.\
 (ORC 3716.99(C))
 
 ## 537.14   Domestic violence
@@ -1379,7 +1379,7 @@ this section or in connection with the prosecution of any charges so filed.
     lived with the offender in a common law marital relationship, who otherwise
     is cohabiting with the offender, or who otherwise has cohabited with the
     offender within five years prior to the date of the alleged commission of
-    the act in question.  
+    the act in question.\
     (ORC 2919.25)
 
 7. _(g)_ The same relief available under the Ohio Revised Code for filing a
@@ -1467,7 +1467,7 @@ order and a final order issued in an independent action or as a pendente lite
 order in a proceeding for other relief, if the court issued it in response to a
 complaint, petition or motion filed by or on behalf of a person seeking
 protection. "Protection order issued by a court of another state" does not
-include an order for support or for custody of a child.  
+include an order for support or for custody of a child.\
 (ORC 2919.27)
 
 ## 537.16   Illegal distribution of cigarettes, other tobacco products, or alternate nicotine products; transaction scans
@@ -1698,7 +1698,7 @@ Alternative Nicotine Products.**
     of this section and that are used, possessed, purchased, or received by a
     person under twenty-one years of age in violation of Ohio R.C. 2151.87 are
     subject to seizure and forfeiture as contraband under Ohio R.C.
-    Chapter 2981.  
+    Chapter 2981.\
     (ORC 2927.02)
 
 2. _(b)_ **Transaction Scan.**
@@ -1809,7 +1809,7 @@ Alternative Nicotine Products.**
     product transaction scan, and the court may impose upon the offender a civil
     penalty of up to one thousand dollars ($1,000) for each violation. The Clerk
     of the Court shall pay each collected civil penalty to the County Treasurer
-    for deposit into the County Treasury.  
+    for deposit into the County Treasury.\
     (ORC 2927.021)
 
 3. _(c)_ **Affirmative Defenses.**
@@ -1861,7 +1861,7 @@ Alternative Nicotine Products.**
     or a Deputy Registrar who issued an identification card under Ohio R.C.
     4507.50 to 4507.52 shall be permitted to submit certified copies of the
     records of that issuance in lieu of the testimony of the personnel of or
-    contractors with the Bureau of Motor Vehicles in the action.  
+    contractors with the Bureau of Motor Vehicles in the action.\
     (ORC 2927.022)
 
 4. _(d)_ **Shipment of Tobacco Products.**
@@ -1920,7 +1920,7 @@ Alternative Nicotine Products.**
 
     5. _(5)_ A court shall impose a fine of up to one thousand dollars ($1,000)
     for each violation of subsection (d)(3)A., (d)(3)B. or (d)(4) of this
-    section.  
+    section.\
     (ORC 2927.023)
 
 5. _(e)_ **Furnishing False Information to Obtain Tobacco Products.**
@@ -1937,7 +1937,7 @@ Alternative Nicotine Products.**
     has been convicted of or pleaded guilty to a violation of subsection (e)(1)
     of this section or a substantially equivalent state law or municipal
     ordinance, furnishing false information to obtain tobacco products is a
-    misdemeanor of the third degree.  
+    misdemeanor of the third degree.\
     (ORC 2927.024)
 
 ## 537.17   Reserved
@@ -1977,7 +1977,7 @@ shall do any of the following:
 
 3. _(c)_ Whoever violates this section is guilty of contributing to the
 unruliness or delinquency of a child, a misdemeanor of the first degree. Each
-day of violation of this section is a separate offense.  
+day of violation of this section is a separate offense.\
 (ORC 2919.24)
 
 ## 537.19   Hazing
@@ -1991,7 +1991,7 @@ mental or physical harm to any person.
 
 3. _(c)_ No administrator, employee or faculty member of any primary, secondary
 or post-secondary school, or of any other educational institution, public or
-private, shall recklessly permit the hazing of any person.  
+private, shall recklessly permit the hazing of any person.\
 (ORC 2903.31)
 
 4. _(d)_ Any person who is subjected to hazing, as defined in subsection (a)
@@ -2011,7 +2011,7 @@ educational institution. If an administrator, employee or faculty member is
 found liable in a civil action for hazing, then notwithstanding Ohio R. C.
 Chapter 2743, the school, university, college or other educational institution
 that employed the administrator, employee or faculty member may also be held
-liable.  
+liable.
 
     The negligence or consent of the plaintiff or any assumption of the risk by
     the plaintiff is not a defense to an action brought pursuant to this
@@ -2024,7 +2024,7 @@ liable.
 hazing, a misdemeanor of the fourth degree.
 
 6. _(f)_ The penalty provided for in subsection (e) hereof shall be in addition
-to the civil remedy provided for in subsection (d) hereof.  
+to the civil remedy provided for in subsection (d) hereof.\
 (Ord. 1983-9. Passed 3-28-83.)
 
 ## 537.99   Penalty

@@ -23,7 +23,7 @@ In addition to the applicable provisions of the objectives stated in Section
 1105.03 of this Planning and Zoning Code, it is the intent of these district
 regulations to provide recreational land and facilities appropriately located
 and designed to serve primarily the local population in a safe and convenient
-manner while minimizing adverse impacts to adjoining residential areas.  
+manner while minimizing adverse impacts to adjoining residential areas.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1123.02   Permitted uses
@@ -48,7 +48,7 @@ swimming pools
     4. _(4)_ Utility, maintenance, sanitation and storage facilities completely
     enclosed within permitted main buildings or suitably and attractively
     screened from view where such screening is in conformance with Section
-    1142.07 of the Planning and Zoning Code  
+    1142.07 of the Planning and Zoning Code\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1123.03   Area, yard and height regulations
@@ -56,7 +56,7 @@ swimming pools
 In a Park District, land and structures shall be developed and maintained in
 accordance with the area, yard and height regulations as determined by the
 Planning and Zoning Commission in accordance with the stated intent of Section
-1123.01 of this Planning and Zoning Code.  
+1123.01 of this Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1123.04   Screening
@@ -67,5 +67,5 @@ residential district. Such screening shall be required if deemed necessary by
 the Planning and Zoning Commission to protect the privacy, welfare, value and
 character of the adjoining residential area. The Planning and Zoning Commission
 shall determine if the standards for screening contained in Chapter 1142 of the
-Zoning Code shall apply.  
+Zoning Code shall apply.\
 (Ord. 2019-39. Passed 8-13-19.)

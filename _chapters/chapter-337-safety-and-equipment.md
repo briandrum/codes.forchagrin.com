@@ -65,10 +65,10 @@ provisions of this chapter.
 
 3. _(c)_ The provisions of this chapter with respect to equipment on vehicles do
 not apply to implements of husbandry, road machinery, road rollers or
-agricultural tractors except as made applicable to such articles of machinery.  
+agricultural tractors except as made applicable to such articles of machinery.\
 (ORC 4513.02)
 
-4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
+4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.99)
 
 ## 337.02   Lighted lights; measurement of distances and heights
@@ -109,7 +109,7 @@ for the sole purpose of issuing a ticket, citation or summons for a violation of
 that subsection, or causing the arrest of or commencing a prosecution of a
 person for a violation of that subsection.
 
-5. _(e)_ Whoever violates this section is guilty of a minor misdemeanor.  
+5. _(e)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.03)
 
 ## 337.03   Headlights on motor vehicles and motorcycles
@@ -121,7 +121,7 @@ vehicle.
 2. _(b)_ Every motorcycle shall be equipped with at least one and not more than
 two headlights.
 
-3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.  
+3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.04)
 
 ## 337.04   Tail light; illumination of rear license plate
@@ -142,7 +142,7 @@ whenever the headlights or auxiliary driving lights are lighted, except where
 separate lighting systems are provided for trailers for the purpose of
 illuminating such registration plate.
 
-3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.  
+3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.05)
 
 ## 337.05   Rear red reflectors
@@ -154,7 +154,7 @@ the rear, either as a part of the tail lights or separately, two red reflectors
 of such size and characteristics and so maintained as to be visible at night
 from all distances within 300 feet to fifty feet from such vehicle.
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.06)
 
 ## 337.06   Safety lighting on commercial vehicles
@@ -170,7 +170,7 @@ be in addition to all other lights specifically required by Section 337.02 to
 Section 337.15, inclusive. Vehicles operated under the jurisdiction of the Ohio
 Public Utilities Commission are not subject to this section.
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.07)
 
 ## 337.07   Obscured lights on vehicles in combination
@@ -188,7 +188,7 @@ lighted.
 first offense; on a second offense within one year after the first offense, the
 person is guilty of a misdemeanor of the fourth degree; on each subsequent
 offense within one year after the first offense, the person is guilty of a
-misdemeanor of the third degree.  
+misdemeanor of the third degree.\
 (ORC 4513.08)
 
 ## 337.08   Red light or red flag on extended loads
@@ -202,7 +202,7 @@ to the red rear light required upon every vehicle. At any other time there shall
 be displayed at the extreme rear end of such load a red flag or cloth not less
 than sixteen inches square.
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.09)
 
 ## 337.09   Lights on parked or stopped vehicles
@@ -216,10 +216,10 @@ vehicle, and a red light visible from a distance of 500 feet to the rear. No
 lights need be displayed upon any such vehicle when it is stopped or parked
 where there is sufficient light to reveal any person or substantial object
 within a distance of 500 feet upon such street. Any lighted headlights upon a
-parked vehicle shall be depressed or dimmed.  
+parked vehicle shall be depressed or dimmed.\
 (ORC 4513.10)
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.99)
 
 ## 337.10   Lights on slow-moving vehicles; emblem required
@@ -234,7 +234,7 @@ displaying red light visible from a distance of not less than 1,000 feet to the
 rear of the vehicle, or as an alternative, one light displaying a red light
 visible from a distance of not less than 1,000 feet to the rear and two red
 reflectors visible from all distances of 600 feet to 100 feet to the rear when
-illuminated by the lawful lower beams of headlights.  
+illuminated by the lawful lower beams of headlights.
 
     Lights and reflectors required or authorized by this section shall meet
     standards adopted by the Ohio Director of Public Safety.
@@ -255,12 +255,12 @@ of Public Safety shall adopt standards and specifications for the design and
 position of mounting the SMV emblem. The standards and specifications for SMV
 emblems referred to in this section shall correlate with and, so far as
 possible, conform with those approved by the American Society of Agricultural
-Engineers.  
+Engineers.
 
     A unit of farm machinery that is designed by its manufacturer to operate at
     a speed greater than twenty-five miles per hour may be operated on a street
     or highway at a speed greater than twenty-five miles per hour provided it is
-    operated in accordance with this section.  
+    operated in accordance with this section.
 
     As used in this subsection (b), "machinery" does not include any vehicle
     designed to be drawn by an animal.
@@ -297,7 +297,7 @@ hour, in addition to the display of a speed identification symbol may be
 equipped with a red flashing light that shall be visible from a distance of not
 less than one thousand feet to the rear at all times specified in Section
 337.02. When a double-faced light is used, it shall display amber light to the
-front and red light to the rear.  
+front and red light to the rear.
 
     In addition to the lights described in this subsection, farm machinery and
     motor vehicles escorting farm machinery may display a flashing, oscillating
@@ -335,7 +335,7 @@ the speed at which the unit is operated on the street or highway. The speed
 identification symbol shall indicate the maximum speed in miles per hour at
 which the unit of farm machinery is designed by its manufacturer to operate. The
 display of the speed identification symbol shall be in accordance with the
-standard prescribed in this subsection.  
+standard prescribed in this subsection.
 
     If an agricultural tractor that is designed by its manufacturer to operate
     at a speed greater than twenty-five miles per hour is being operated on a
@@ -358,7 +358,7 @@ in and around a marina, when drawn or towed on a street or highway for a
 distance of no more than ten miles and at a speed of twenty-five miles per hour
 or less.
 
-10. _(j)_ Whoever violates this section is guilty of a minor misdemeanor.  
+10. _(j)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.11)
 
 ## 337.11   Spotlight and auxiliary lights
@@ -373,7 +373,7 @@ more than 100 feet ahead of the vehicle.
 approved auxiliary driving lights mounted on the front of the vehicle, which
 when used shall conform to State regulations.
 
-3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.  
+3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.12)
 
 ## 337.12   Cowl, fender and back-up lights
@@ -386,7 +386,7 @@ glare.
 separately or in combination with another light. No back-up lights shall be
 continuously lighted when the motor vehicle is in forward motion.
 
-3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.  
+3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.13)
 
 ## 337.13   Display of lighted lights
@@ -394,13 +394,13 @@ continuously lighted when the motor vehicle is in forward motion.
 1. _(a)_ At all times mentioned in Section 337.02 at least two State approved
 lighted lights shall be displayed conforming to State regulations, one near each
 side of the front of every motor vehicle, except when such vehicle is parked
-subject to the regulations governing lights on parked vehicles.  
+subject to the regulations governing lights on parked vehicles.\
 (ORC 4513.14)
 
 2. _(b)_ However, on a motorcycle, there shall be displayed at least one and not
 more than two lighted lights as required herein.
 
-3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.  
+3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.14)
 
 ## 337.14   Use of headlight beams
@@ -413,7 +413,7 @@ safe distance in advance of the vehicle, except that upon approaching an
 oncoming vehicle, the lights or beams shall be so aimed that the glaring rays
 are not projected into the eyes of the oncoming driver.
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.15)
 
 ## 337.15   Lights of less intensity on slow-moving vehicles
@@ -424,7 +424,7 @@ thereof capable of revealing persons and substantial objects seventy-five feet
 ahead in lieu of lights required in Section 337.13, provided that such vehicle
 shall not be operated at a speed in excess of twenty miles per hour.
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.16)
 
 ## 337.16   Number of lights; limitations on flashing, oscillating or rotating lights
@@ -487,7 +487,7 @@ enhance their visibility. This section also does not prohibit the simultaneous
 flashing of turn signals or warning lights either on farm machinery or vehicles
 escorting farm machinery, when used on a street or highway.
 
-6. _(f)_ Whoever violates this section is guilty of a minor misdemeanor.  
+6. _(f)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.17)
 
 ## 337.17   Focus and aim of headlights
@@ -502,7 +502,7 @@ color requirements contained in federal motor vehicle safety standard number
 108, 49 C.F.R. 571.108. No person shall operate a motor vehicle in violation of
 this subsection.
 
-3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.  
+3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.19)
 
 ## 337.18   Motor vehicle and motorcycle brakes
@@ -594,10 +594,10 @@ this subsection.
 
     10. _(10)_ All brakes shall be maintained in good working order and shall be
     so adjusted as to operate as equally as practicable with respect to the
-    wheels on opposite sides of the vehicle.  
+    wheels on opposite sides of the vehicle.\
     (ORC 4513.20)
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.99)
 
 ## 337.19   Horn, siren and theft alarm signal
@@ -622,7 +622,7 @@ approach thereof.
 3. _(c)_ No person shall use the horn of a motor vehicle except to give warning
 to other drivers or pedestrians.
 
-4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
+4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.21)
 
 ## 337.20   Muffler; muffler cutout; excessive smoke, gas or noise
@@ -641,7 +641,7 @@ to produce or emit smoke or dangerous or annoying gases from any portion of such
 vehicle, other than the ordinary gases emitted by the exhaust of an internal
 combustion engine under normal operation.
 
-3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.  
+3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.22)
 
 ## 337.21   Rear-view mirror; clear view to front, both sides and rear
@@ -653,7 +653,7 @@ and unobstructed view to the front and to both sides of their vehicles or
 motorcycles and shall have a clear view to the rear of their vehicles or
 motorcycles by mirror.
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.23)
 
 ## 337.22   Windshield and windshield wiper; sign or poster thereon
@@ -704,17 +704,17 @@ for cleaning rain, snow or other moisture from the windshield. The device shall
 be maintained in good working order and so constructed as to be controlled or
 operated by the operator of the vehicle.
 
-4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
+4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.24)
 
 ## 337.23   Limited load extension on left side of passenger vehicle
 
 1. _(a)_ No passenger-type vehicle shall be operated on a street with any load
 carried on such vehicle which extends more than six inches beyond the line of
-the fenders on the vehicle's left side.  
+the fenders on the vehicle's left side.\
 (ORC 4513.30)
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.99)
 
 ## 337.24   Motor vehicle stop lights
@@ -728,7 +728,7 @@ upon application of the service brake, and may be incorporated with other rear
 lights. Such stop lights when actuated shall emit a red light visible from a
 distance of five hundred feet to the rear, provided that in the case of a train
 of vehicles only the stop lights on the rear-most vehicle need be visible from
-the distance specified.  
+the distance specified.
 
     Such stop lights when actuated shall give a steady warning light to the rear
     of a vehicle or train of vehicles to indicate the intention of the operator
@@ -736,12 +736,12 @@ the distance specified.
     lights are used as required by this section, they shall be constructed or
     installed so as to provide adequate and reliable illumination and shall
     conform to the appropriate rules and regulations established under Ohio R.C.
-    4513.19.  
+    4513.19.
 
     Historical motor vehicles as defined in Ohio R.C. 4503.181, not originally
     manufactured with stop lights, are not subject to this section.
 
-2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.  
+2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.071)
 
 ## 337.25   Air cleaner required
@@ -871,7 +871,7 @@ violation of this section:
     to a violation of subsection (a), (b), (c) or (d) of this section or of a
     state law or municipal ordinance that is substantially similar to any of
     those subsections, the offender is guilty of a misdemeanor of the fourth
-    degree.  
+    degree.\
     (ORC 4511.81)
 
 ## 337.27   Drivers and passengers required to wear seat belts
@@ -1056,7 +1056,7 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     subsection (b)(4) of this section is guilty of a minor misdemeanor. If the
     offender previously has been convicted of or pleaded guilty to a violation
     of subsection (b)(4) of this section, whoever violates subsection (b)(4) of
-    this section is guilty of a misdemeanor of the third degree.  
+    this section is guilty of a misdemeanor of the third degree.\
     (ORC 4513.263)
 
 ## 337.28   Use of sunscreening, nontransparent and reflectorized materials
@@ -1132,7 +1132,7 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     light transmission of the material permanently installed between the
     material and the surface to which the material is applied or affixed. Such
     label must be legible and must be placed in the lower left-hand corner of
-    the vehicle window when viewed from the outside.  
+    the vehicle window when viewed from the outside.\
     (OAC 4501-41-03)
 
 2. _(b)_ **Exemptions.** The provisions of this section do not apply to:
@@ -1161,7 +1161,7 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     of the manufacture of the motor vehicle as provided in subsection (a)
     hereof. "Federal Motor Vehicle Safety Standard Number 205" (FMVSS 205), Code
     of Federal Regulations, Title 49, Part 571, can be obtained online at web
-    site [http://www.gpo.gov](https://www.gpo.gov/).  
+    site [http://www.gpo.gov](https://www.gpo.gov/).\
     (OAC 4501-41-05)
 
 3. _(c)_ **Definitions.** As used in this section, certain terms are defined as
@@ -1199,11 +1199,11 @@ follows:
     contract" means an arrangement, made in advance of boarding, to provide
     transportation from a specific location in a chauffeured limousine at a
     fixed rate per hour or trip. "Chauffeured limousine" does not include any
-    vehicle that is used exclusively in the business of funeral directing.  
+    vehicle that is used exclusively in the business of funeral directing.\
     (OAC 4501-41-02)
 
 4. _(d)_ **Penalty.** Whoever violates this section is guilty of a minor
-misdemeanor.  
+misdemeanor.\
 (ORC 4513.241)
 
 ## 337.29   Bumper heights
@@ -1245,7 +1245,7 @@ misdemeanor.
 
     9. _(9)_ "Wheel track distance" means the distance on the ground between the
     center of the tire tread on one side of the vehicle, and the center of the
-    tire tread on the opposite side.  
+    tire tread on the opposite side.\
     (OAC 4501-43-02)
 
 2. _(b)_ **Prohibitions; Application.**
@@ -1293,7 +1293,7 @@ misdemeanor.
 
     7. _(7)_ A specially designed or modified passenger car, multipurpose
     passenger vehicle or truck which does not conform to this section shall not
-    be operated on a street or highway.  
+    be operated on a street or highway.\
     (OAC 4501-43-03)
 
 3. _(c)_ **Specifications.**
@@ -1347,10 +1347,10 @@ misdemeanor.
         2. _(B)_ The bumper height relative to the frame rails has been altered.
 
         3. _(C)_ A supplemental bumper has been installed or an addition to the
-        original or replacement has been made.  
+        original or replacement has been made.\
         (OAC 4501-43-04)
 
-4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
+4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.99)
 
 ## 337.30   Directional signals required
@@ -1372,5 +1372,5 @@ left and which shall be visible from both the front and rear.
 3. _(c)_ All mechanical signal devices shall be self-illuminating devices when
 in use at the times mentioned in Section 337.02.
 
-4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.  
+4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.261)

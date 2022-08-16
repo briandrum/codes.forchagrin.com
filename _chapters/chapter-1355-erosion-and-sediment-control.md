@@ -54,7 +54,7 @@ building activities on farms; redevelopment activities; general clearing; and
 all other uses that are not specifically exempted in Section 1355.01 (d).
 
 4. _(d)_ This regulation does not apply to activities regulated by, and in
-compliance with, the Ohio Agricultural Sediment Pollution Abatement Rules.  
+compliance with, the Ohio Agricultural Sediment Pollution Abatement Rules.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.02   Definitions
@@ -358,7 +358,7 @@ point.
 ground water at a frequency and duration sufficient to support, and that under
 normal circumstances do support, a prevalence of vegetation typically adapted
 for life in saturated soil conditions, including swamps, marshes, bogs, and
-similar areas (40 CFR 232, as amended).  
+similar areas (40 CFR 232, as amended).\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.03   Disclaimer of liability
@@ -367,7 +367,7 @@ Compliance with the provisions of this regulation shall not relieve any person
 from responsibility for damage to any person otherwise imposed by law. The
 provisions of this regulation are promulgated to promote the health, safety, and
 welfare of the public and are not designed for the benefit of any individual or
-for the benefit of any particular parcel of property.  
+for the benefit of any particular parcel of property.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.04   Conflicts, severability, nuisances and responsibility
@@ -389,7 +389,7 @@ hazardous or unsightly conditions or to recommend corrective measures shall not
 relieve the site owner from the responsibility for the condition or damage
 resulting therefrom, and shall not result in the Village of Chagrin Falls, its
 officers, employees, or agents being responsible for any condition or damage
-resulting therefrom.  
+resulting therefrom.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.05   Development of stormwater pollution prevention plans
@@ -425,7 +425,7 @@ any size.
 3. _(c)_ Activities disturbing 1/10 (one tenth) or less of an acre are not
 required to submit a SWP3 or an Abbreviated SWP3, unless required by the Village
 of Chagrin Falls Engineer. These activities must comply with all other
-provisions of this regulation.  
+provisions of this regulation.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.06   Application procedures
@@ -481,7 +481,7 @@ are aware of such devices and areas. Pre-Construction Meetings may be waived at
 the discretion of the Village Engineer.
 
 7. _(g)_ Approvals issued in accordance with this regulation shall remain valid
-for one (1) year from the date of approval.  
+for one (1) year from the date of approval.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.07   Compliance with state and federal regulations
@@ -537,7 +537,7 @@ Nationwide Permit Program. This shall include one of the following:
 5. _(e)_ Ohio Dam Safety Law: Proof of compliance shall be a copy of the ODNR
 Division of Water permit application tracking number, a copy of the project
 approval letter from the ODNR Division of Water, or a letter from the site owner
-certifying and explaining why the Ohio Dam Safety Law is not applicable.  
+certifying and explaining why the Ohio Dam Safety Law is not applicable.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.08   SWP3
@@ -780,7 +780,7 @@ Environmental Protection Agency and shall include the following information:
         5. _(E)_ Design criteria for corrective measures when necessary.
 
         6. _(F)_ Opinions and recommendations covering the stability of the
-        site.  
+        site.\
         (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.09   Performance standards
@@ -1354,7 +1354,7 @@ Village of Chagrin Falls Engineer. Once a definable area has achieved final
 stabilization, the applicant may note this on the SWP3 and no further inspection
 requirement applies to that portion of the site. Final stabilization also
 requires the installation of permanent (post-construction) stormwater control
-measures (SCMs).  
+measures (SCMs).\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.10   Abbreviated SWP3
@@ -1443,7 +1443,7 @@ Village of Chagrin Falls may require other BMPs as site conditions warrant.
         statement of explanation as to why the control practice is not needed.
 
     8. _(8)_ Final Stabilization: Final stabilization shall be determined by the
-    Village of Chagrin Falls Engineer.  
+    Village of Chagrin Falls Engineer.\
     (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.11   Fees
@@ -1451,7 +1451,7 @@ Village of Chagrin Falls may require other BMPs as site conditions warrant.
 The SWP3 and Abbreviated SWP3 review, filing, and inspection fee is part of a
 complete submittal and is required to be submitted to the Village of Chagrin
 Falls and the Cuyahoga SWCD before the review process begins. Please consult
-with the Village Engineer for current fee schedule.  
+with the Village Engineer for current fee schedule.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.12   Bond
@@ -1473,7 +1473,7 @@ by the Village Engineer.
 
 2. _(b)_ No project subject to this regulation shall commence without a SWP3 or
 Abbreviated SWP3, if a SWP3 is not required, approved by the Village of Chagrin
-Falls Engineer.  
+Falls Engineer.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.13   Enforcement
@@ -1541,7 +1541,7 @@ Protection Agency when a violation on a development project covered by a Section
 10. _(j)_ The Village of Chagrin Falls shall not issue building permits for
 projects regulated under the Building Code, Part Thirteen of the Codified
 Ordinances or the Planning and Zoning Code, Part Eleven, that have not received
-approval for an SWP3 for said project(s).  
+approval for an SWP3 for said project(s).\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.14   Violations
@@ -1562,7 +1562,7 @@ applicant, and shall state the conditions under which work may be resumed. In
 instances, however, where the Chief Administrative Officer and/or designee finds
 that immediate action is necessary for public safety or the public interest, he
 or she may require that work be stopped upon verbal order pending issuance of
-the written notice.  
+the written notice.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.15   Appeals
@@ -1571,7 +1571,7 @@ Any person aggrieved by any order, requirement, determination, or any other
 action by the Village in relation to this regulation may appeal to the Board of
 Zoning Appeals within ten days of such official action. Such an appeal shall be
 made in conformity with Chapter 1111 of the Planning and Zoning Code. Written
-notice of appeal shall be served on the Village.  
+notice of appeal shall be served on the Village.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.99   Violations and penalties
@@ -1590,5 +1590,5 @@ preclude the Village of Chagrin Falls instituting an appropriate action or
 proceeding in a Court of proper jurisdiction to prevent an unlawful development,
 or to restrain, correct, or abate a violation, or to require compliance with the
 provisions of this regulation or other applicable laws, ordinances, rules, or
-regulations, or the orders of the Village of Chagrin Falls.  
+regulations, or the orders of the Village of Chagrin Falls.\
 (Ord. 2016-80. Passed 12-12-16.)

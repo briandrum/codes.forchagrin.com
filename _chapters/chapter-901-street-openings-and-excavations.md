@@ -33,7 +33,7 @@ Village contract, shall excavate within or bore or tunnel through, along or
 across the limits of any street, alley or public grounds in or owned by the
 Village, for the purpose of installing sewer, water or gas lines, telephone or
 power conduits or cables, or any other structure, without first having obtained
-a permit for such work from the Village.  
+a permit for such work from the Village.\
 (Ord. 1985-8. Passed 2-25-85.)
 
 ## 901.02   Prerequisites for permit
@@ -85,7 +85,7 @@ to the Chief Administrative Officer.
     conditions prior to construction, the Chief Administrative Officer is
     directed to cause such record to be made and the cost for such record to be
     assessed to the applicant in addition to any bonds or fees otherwise
-    provided in these Codified Ordinances.  
+    provided in these Codified Ordinances.\
     (Ord. 1985-8. Passed 2-25-85.)
 
 ## 901.03   Rules and regulations
@@ -116,14 +116,14 @@ or his agent.
 
 5. _(e)_ Privately owned facilities encountered in the work shall be protected,
 removed, replaced or relocated by agreement between the owner of such facilities
-and the permit holder, at no expense to the Village.  
+and the permit holder, at no expense to the Village.\
 (Ord. 1985-8. Passed 2-25-85.)
 
 6. _(f)_ When the material excavated from a trench is suitable for backfill, in
 the opinion of the Chief Administrative Officer, the Village Engineer or the
 Street Superintendent, it may be used for that purpose. Otherwise, the excavated
 material shall be removed from the site of the work and replaced with premium
-backfill or other material approved by the Village.  
+backfill or other material approved by the Village.\
 (Ord. 2008-65. Passed 12-8-08.)
 
 7. _(g)_ Where a trench passes through a regularly maintained lawn, the backfill
@@ -222,7 +222,7 @@ control or traffic interruption.
 
 20. _(t)_ At the discretion of the Chief Administrative Officer, a
 preconstruction meeting shall be held at least one week prior to start of any
-work.  
+work.\
 (Ord. 1985-8. Passed 2-25-85.)
 
 21. _(u)_ Underground residential electrical service lines shall not be
@@ -230,13 +230,13 @@ permitted to be placed underground in any public utility easement, public street
 or other public right of way, other than as approved in a platted subdivision,
 and in no event shall any person be permitted to place residential electrical
 service lines in any underground location which traverses Village sewer or water
-lines.  
+lines.\
 (Ord. 2006-69. Passed 11-27-06.)
 
 ## 901.99   Penalty
 
 Whoever violates any provision of this chapter is guilty of a misdemeanor of the
-third degree. Each day's violation shall constitute a separate offense.  
+third degree. Each day's violation shall constitute a separate offense.\
 (Ord. 1985-8. Passed 2-25-85.)
 
 ### Exhibit A

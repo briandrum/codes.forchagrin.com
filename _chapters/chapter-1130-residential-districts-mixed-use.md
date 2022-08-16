@@ -43,7 +43,7 @@ transitional use between existing residential and nonresidential uses.
 Municipal center.
 
 4. _(d)_ To encourage development to take place that will make efficient use of
-existing Municipal infrastructure and services.  
+existing Municipal infrastructure and services.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.02   Standards
@@ -66,7 +66,7 @@ accordance with regulations set forth in Chapter 1161. In those cases where no
 request for public dedication is likely to be made, the Planning and Zoning
 Commission may authorize modifications to the requirements of Chapter 1161. Such
 authorization may be based on input from the Administrator, Municipal Engineer
-and other Municipal officers as applicable.  
+and other Municipal officers as applicable.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.03   Permitted uses
@@ -109,7 +109,7 @@ right for only the main and accessory uses set forth below:
 
     9. _(9)_ Signs, as regulated in Chapter 1143.
 
-    10. _(10)_ Home occupations, as regulated in Section 1125.05.  
+    10. _(10)_ Home occupations, as regulated in Section 1125.05.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.04   Area regulations
@@ -154,7 +154,7 @@ unit and 150 square feet for each additional bedroom.
 
 7. _(g)_ **Storage Area.** Exclusive of the dwelling unit area, 100 square feet
 minimum per ASF dwelling unit provided on the ground floor or basement level of
-such dwelling unit.  
+such dwelling unit.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.05   Height regulations
@@ -172,7 +172,7 @@ Section 1130.09(f). With the exception of chimneys and antennas on one or
 two-family dwellings, attached or detached, such equipment shall be set back
 from any building face a distance at least equal to the height by which it
 exceeds the building height. Chimneys and antennas located on a dwelling are
-limited to a maximum height of fifteen feet above the roof line.  
+limited to a maximum height of fifteen feet above the roof line.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.06   Yard and setback regulations
@@ -259,14 +259,14 @@ setback regulations of subsection (b)(2) hereof.
 
     3. _(3)_ Structures such as porches, balconies, platforms, decks, patios,
     and similar architectural projections that exceed forty-eight (48) square
-    feet shall meet the setback requirements of the main building.  
+    feet shall meet the setback requirements of the main building.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.07   Landscaping requirements for one and two family dwellings
 
 A zoning certificate for development of a one (1F) or two (2F) family dwelling
 under the regulations of this chapter shall not be issued unless such
-development conforms with the requirements of Section 1125.06.  
+development conforms with the requirements of Section 1125.06.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.08   Distances between buildings and uses
@@ -316,7 +316,7 @@ schedule:
     |                             | Recreation facility        |                      20 |
     | Accessory building, facing: | Another accessory building |                      15 |
 
-    x = Length of overlap divided by 5  
+    x = Length of overlap divided by 5\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.09   Design regulations and standards
@@ -380,7 +380,7 @@ style of the building on which it is located. (Ord. 2016-59. Passed 11-14-16.)
     1. _(1)_ R1/R2: Accessory structures are permitted as regulated in Section
     1125.04.
 
-    2. _(2)_ ASF: Fifteen feet in height, maximum.  
+    2. _(2)_ ASF: Fifteen feet in height, maximum.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.10   Supplemental parking regulations
@@ -424,12 +424,12 @@ walls in order to improve design.
     1. _(1)_ In addition to the parking required in Chapter 1141 , a minimum of
     one-half (0.5) off-street parking space per dwelling unit shall be provided
     in unenclosed common parking areas distributed throughout the development in
-    a manner providing convenient access to all dwelling units.  
+    a manner providing convenient access to all dwelling units.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1130.11   Supplemental regulations
 
 For regulations regarding off-street parking and loading, landscaping, lighting,
 signs and environmental performance, refer to Chapters 1141 - 1150 of the
-Planning and Zoning Code.  
+Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)

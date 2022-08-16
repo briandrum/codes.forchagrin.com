@@ -68,12 +68,12 @@ means the Planning and Zoning Commission of Chagrin Falls; "Board of Zoning
 Appeals" means the Board of Zoning Appeals of Chagrin Falls; Architectural Board
 of Review means the Architectural Board of Review of Chagrin Falls; and
 
-6. _(f)_ "Legislative body" means the Council of Chagrin Falls.  
+6. _(f)_ "Legislative body" means the Council of Chagrin Falls.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.02   Administrator
 
-"Administrator" means the Building Inspector of the Municipality.  
+"Administrator" means the Building Inspector of the Municipality.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.03   Areas
@@ -108,7 +108,7 @@ and two family dwellings.
 
 5. _(e)_ "Development area" means a tract of land that may consist of a single
 parcel of land or a combination of contiguous parcels of land under one common
-ownership.  
+ownership.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.04   Automotive: garages, service stations
@@ -128,7 +128,7 @@ services, installations and repairs.
     2. _(2)_ A structure used for parking of passenger vehicles as well as
     trucks used by the business or institution served by the garage, or
 
-    3. _(3)_ A building used for the repair of motor vehicles.  
+    3. _(3)_ A building used for the repair of motor vehicles.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.05   Bank; credit union; savings association
@@ -152,7 +152,7 @@ transactions of its members.
 savings and loan association doing business under authority granted by the
 superintendent of financial institutions in accordance with the Ohio Revised
 Code, or, under the authority granted by the regulatory authority of another
-state or a federal savings association.  
+state or a federal savings association.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.06   Buildings and structures
@@ -206,7 +206,7 @@ materials other than screen material that allows air to flow through.
 10. _(j)_ "Porch, unenclosed" means a roofed structure projecting from a
 building and separated from the building by the walls thereof, in which not more
 than fifty percent of the horizontal section of the exterior walls is enclosed
-with materials other than screen material that allows air to flow through.  
+with materials other than screen material that allows air to flow through.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.061   Cultural and social institutions
@@ -249,7 +249,7 @@ served on the premises.
 
 7. _(g)_ "Theater, indoor" means an establishment devoted to providing
 entertainment inside a building including movie theaters and theatrical space
-for dramatic, musical or live performances.  
+for dramatic, musical or live performances.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.07   Dwellings and other living accommodations
@@ -284,7 +284,7 @@ occupancy or compensation.
 
 8. _(h)_ "Efficiency dwelling" means a space within a building containing no
 less than a main area for both living and sleeping accommodations with cooking,
-bathing and toilet facilities for the exclusive use of one family.  
+bathing and toilet facilities for the exclusive use of one family.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.08   Family
@@ -292,7 +292,7 @@ bathing and toilet facilities for the exclusive use of one family.
 "Family" means either an individual, two or more persons who live together in
 one dwelling unit and maintain a common household, related by blood, marriage or
 adoption; or not more than three persons not related by blood, marriage or
-adoption.  
+adoption.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.09   Grades
@@ -304,7 +304,7 @@ Municipality, at the roadway centerline or curb in front of the lot.
 of the ground prior to any excavation or fill.
 
 3. _(c)_ "Finished grade" means the elevation of the finished surface of the
-ground adjoining the building after final grading and normal settlement.  
+ground adjoining the building after final grading and normal settlement.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.10   Height
@@ -315,19 +315,19 @@ the coping of a flat roof or the roof ridge line of a pitched roof.
 
 2. _(b)_ "Roof ridge line" means the line formed by the intersection of the two
 sloping sides of a pitched roof, representing generally the highest point of
-such roof.  
+such roof.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.11   Home occupation
 
 "Home occupation" means an occupation or profession conducted as an accessory
-use in a dwelling unit and as limited by the regulations of Section 1125.05.  
+use in a dwelling unit and as limited by the regulations of Section 1125.05.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.12   Loading space
 
 "Loading space" means an open or enclosed space other than a street, used for
-the temporary parking of a commercial vehicle while being loaded or unloaded.  
+the temporary parking of a commercial vehicle while being loaded or unloaded.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.13   Lot
@@ -379,7 +379,7 @@ between the front and rear lot lines.
 required building line at a right angle to the mean lot depth line.
 
 12. _(l)_ "Street frontage" means the horizontal distance of a lot measured
-along a street right-of-way line or street line.  
+along a street right-of-way line or street line.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.14   Office
@@ -397,7 +397,7 @@ but not including a bank, credit union, or savings association.
 examination and treatment to human patients on an outpatient basis by one or
 more physicians, dentists, psychologists, optometrists, therapists,
 chiropractors or other medical personnel and where patients are not lodged
-overnight.  
+overnight.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.15   Occupancy permit
@@ -406,7 +406,7 @@ overnight.
 other structure or parcel of land, and its use is in compliance with the
 provisions of all existing Codes, or is a lawfully existing nonconforming
 building or use and hence may be occupied and used lawfully for the purposes
-designated thereon.  
+designated thereon.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.16   Performance standard
@@ -414,14 +414,14 @@ designated thereon.
 "Performance standard" means a criterion established to control enclosure, dust,
 smoke, fire and explosive hazards, glare and heat, noise, odor, toxic and
 noxious matter, vibrations, drainage, erosion and other conditions created by or
-inherent in uses of land or buildings.  
+inherent in uses of land or buildings.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.160   Planning and zoning code
 
 "Planning and Zoning Code", or "this Code" means Ordinance 1963-586, passed
 December 9, 1963, as amended, which is codified as Titles One to Five of this
-Part Eleven - Planning and Zoning Code.  
+Part Eleven - Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.161   Recreational vehicles and trailers
@@ -453,7 +453,7 @@ the farm when drawn or towed on a street or highway at a speed greater than
 twenty-five miles per hour, and a vehicle designed and used exclusively to
 transport a boat between a place of storage and a marina, or in and around a
 marina, when drawn or towed on a street or highway for a distance of more than
-ten miles or at a speed of more than twenty-five miles per hour.  
+ten miles or at a speed of more than twenty-five miles per hour.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.17   Retail sales
@@ -461,26 +461,26 @@ ten miles or at a speed of more than twenty-five miles per hour.
 "Retail sales" means an establishment where goods, wares, merchandise,
 substances, articles or things are offered or kept for sale at retail, including
 storage of limited quantities of such goods, wares, merchandise, substances,
-articles or things sufficient only to service such store.  
+articles or things sufficient only to service such store.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.18   Retail service
 
 "Retail service" means an establishment primarily engaged in providing direct
-consumer services at the site of the business, but not including offices.  
+consumer services at the site of the business, but not including offices.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.19   Sign
 
 A "Sign" shall have the meaning provided in Chapter 1143 of this Planning and
-Zoning Code.  
+Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.191   Site plan
 
 "Site Plan" means a plan, to scale, showing uses and structures existing and
 proposed for a parcel of land and containing those elements as required by
-Section 1109.04 of this Planning and Zoning Code.  
+Section 1109.04 of this Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.20   Street; alley; driveway
@@ -500,7 +500,7 @@ also abutting on other streets.
 building or structure and a public or private street. Except for one-family and
 two-family dwellings, vehicle access provided between a street or land and a
 parking space, parking area, loading areas, or between two parking areas shall
-also be considered to be a driveway.  
+also be considered to be a driveway.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.21   Use
@@ -515,7 +515,7 @@ other structure or land.
 
 3. _(c)_ "Accessory use" means a use located on the same zoning lot or
 development area with the main use of building or land, but incidental to the
-main use of the main building or land.  
+main use of the main building or land.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.22   Variance
@@ -523,7 +523,7 @@ main use of the main building or land.
 "Variance" means an adjustment of this Planning and Zoning Code, allowing either
 area or use variances, when the applicable factors set forth in Section 1111.07
 of this Planning and Zoning Code weigh in favor of the granting of the
-variance.  
+variance.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.23   Yards and setbacks
@@ -548,7 +548,7 @@ line on the street side.
 structure and a lot line or right of way in order to comply with the regulations
 of the district in which the lot is located. Use of the word "yard" without the
 adjectives "required" or "minimum" connotes the term "yard" in its general sense
-as defined in subsection (a) hereof.  
+as defined in subsection (a) hereof.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1107.24   Zoning district, overlay
@@ -556,5 +556,5 @@ as defined in subsection (a) hereof.
 "Overlay District" means a zoning district that encompasses one or more
 underlying zones and imposes additional or alternative requirements to those
 required by the underlying zone. Overlay Districts are designated on the
-official Zoning Map.  
+official Zoning Map.\
 (Ord. 2019-39. Passed 8-13-19.)
