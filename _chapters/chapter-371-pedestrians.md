@@ -36,17 +36,17 @@ title: "Chapter 371: Pedestrians"
 1. _(a)_ When traffic control signals are not in place, not in operation or are
 not clearly assigning the right of way, the driver of a vehicle shall yield the
 right of way, slowing down or stopping if need be to so yield or if required by
-Section 313.09, to a pedestrian crossing the roadway within a crosswalk when the
-pedestrian is upon the half of the roadway upon which the vehicle is traveling,
-or when the pedestrian is approaching so closely from the opposite half of the
-roadway as to be in danger.
+[Section 313.09][], to a pedestrian crossing the roadway within a crosswalk when
+the pedestrian is upon the half of the roadway upon which the vehicle is
+traveling, or when the pedestrian is approaching so closely from the opposite
+half of the roadway as to be in danger.
 
 2. _(b)_ No pedestrian shall suddenly leave a curb or other place of safety and
 walk or run into the path of a vehicle which is so close as to constitute an
 immediate hazard.
 
 3. _(c)_ Subsection (a) hereof does not apply under the conditions stated in
-Section 371.03(b).
+[Section 371.03(b)][].
 
 4. _(d)_ Whenever any vehicle is stopped at a marked crosswalk or at any
 unmarked crosswalk at an intersection to permit a pedestrian to cross the
@@ -64,8 +64,8 @@ the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
-    offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.\
+    offender is subject to the additional fine established under [Section
+    303.991][] of the Traffic Code.\
     (ORC 4511.46)
 
 ## 371.02   Right of way of blind person
@@ -95,8 +95,8 @@ the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
-    offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.\
+    offender is subject to the additional fine established under [Section
+    303.991][] of the Traffic Code.\
     (ORC 4511.47)
 
 ## 371.03   Crossing roadway outside crosswalk; diagonal crossings at intersections
@@ -160,9 +160,9 @@ walking along and upon a highway shall walk as near as practicable to an outside
 edge of the roadway, and, if on a two-way roadway, shall walk only on the left
 side of the roadway.
 
-4. _(d)_ Except as otherwise provided in Section 313.03 and 371.01, any
-pedestrian upon a roadway shall yield the right of way to all vehicles upon the
-roadway.
+4. _(d)_ Except as otherwise provided in [Section 313.03][] and [371.01][Section
+371.01], any pedestrian upon a roadway shall yield the right of way to all
+vehicles upon the roadway.
 
 5. _(e)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
@@ -267,15 +267,15 @@ the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
-    offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.\
+    offender is subject to the additional fine established under [Section
+    303.991][] of the Traffic Code.\
     (ORC 4511.441)
 
 ## 371.08   Yielding to public safety vehicle
 
 1. _(a)_ Upon the immediate approach of a public safety vehicle as stated in
-Section 331.21, every pedestrian shall yield the right of way to the public safety
-vehicle.
+[Section 331.21][], every pedestrian shall yield the right of way to the public
+safety vehicle.
 
 2. _(b)_ This section shall not relieve the driver of a public safety vehicle
 from the duty to exercise due care to avoid colliding with any pedestrian.
@@ -615,3 +615,10 @@ may do any of the following:
     devices, with limits of up to one million dollars ($1,000,000) per
     occurrence and two million dollars ($2,000,000) per aggregate.\
     (ORC 4511.514)
+
+[Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
+[Section 313.03]:</chapters/chapter-313-traffic-control-devices/#31303-traffic-signal-indications>
+[Section 313.09]:</chapters/chapter-313-traffic-control-devices/#31309-drivers-duties-upon-approaching-ambiguous-or-non-working-traffic-signal>
+[Section 331.21]:</chapters/chapter-331-operation-generally/#33121-right-of-way-of-public-safety-or-coroners-vehicle>
+[Section 371.01]:</chapters/chapter-371-pedestrians/#37101-right-of-way-in-crosswalk>
+[Section 371.03(b)]:</chapters/chapter-371-pedestrians/#37103(b)>

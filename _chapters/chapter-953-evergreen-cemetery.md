@@ -235,8 +235,8 @@ is 11″ wide by 11″ high by 13″ long. The maximum for each urn when there a
 urns is 5″ wide by 6″ long by 11″ high.\
 (Ord. 2020-40. Passed 9-14-20.)
 
-13. _(m)_ Engraving of the face plate is $350.00 for one name and $525.00 for
-two names. All engraving is done through the Village. Only the name and date of
+13. _(m)_ Engraving of the face plat is $350.00 for one name and $525.00 for two
+names. All engraving is done through the Village. Only the name and date of
 birth & death are permitted on the face plate.
 
 14. _(n)_ All interments will be done by Village employees.
@@ -264,7 +264,7 @@ Administrative Officer.
 1. _(a)_ The owner shall produce their Right to Bury form.
 
 2. _(b)_ There will be no burials on Sundays or Village holidays as listed in
-Codified Ordinance Section 149.10.
+Codified Ordinance [Section 149.10][].
 
 3. _(c)_ The Village must receive 48 hour notice (two business days) for
 burials. There will be no burials after 12:00 noon on Saturdays.
@@ -450,3 +450,5 @@ degree misdemeanor and fined not more than one thousand dollars ($1,000) or
 imprisoned for not more than one year, or both. Each day such violation
 continues shall constitute a separate offense.\
 (Ord. 2016-77. Passed 12-12-16.)
+
+[Section 149.10]:</chapters/chapter-149-employment-provisions/#14910-holidays>

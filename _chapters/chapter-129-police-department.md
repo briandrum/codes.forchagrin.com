@@ -46,11 +46,11 @@ positions as authorized by ordinance of Council, including:
     State and the ordinances of this Municipality, and such duties as may be
     directed or designated by the Chief of Police or the Mayor.
 
-    2. _(2)_ Part-Time Patrol Officers. Part-Time Patrol Officers shall serve at
-    such times and perform such duties as shall be directed by the Chief of
-    Police, and when on duty shall have the same authority as a regular patrol
-    officer of the Department. Part-Time Patrol Officers shall not be regularly
-    scheduled to work for more than twenty-nine (29) hours per week.
+    2. _(2)_ **Part-Time Patrol Officers.** Part-Time Patrol Officers shall
+    serve at such times and perform such duties as shall be directed by the
+    Chief of Police, and when on duty shall have the same authority as a regular
+    patrol officer of the Department. Part-Time Patrol Officers shall not be
+    regularly scheduled to work for more than twenty-nine (29) hours per week.
 
     3. _(3)_ **Administrative Assistant.** There is hereby created the position
     of Administrative Assistant who shall be appointed by the Chief of Police.
@@ -72,7 +72,7 @@ positions as authorized by ordinance of Council, including:
     position of Parking Enforcement Official, who shall serve as a member of the
     Parking Enforcement Unit of the Police Department. The responsibilities of
     Parking Enforcement Official and the Parking Enforcement Unit are more fully
-    described in Section 129.10 of this chapter.
+    described in [Section 129.10][] of this chapter.
 
     7. _(7)_ **Officer in Charge.** The Chief of Police shall designate an
     Officer in Charge of the Department during the absence, disability or
@@ -123,14 +123,14 @@ Full-Time Regular Patrol Officer in the Village Police Department.
         Applicants, the Village hereby establishes forty (40) years of age as
         the maximum age for Original Appointment.
 
-3. _(c)_ Appointment Requirements for Full-Time Regular Patrol Officer. A
+3. _(c)_ **Appointment Requirements for Full-Time Regular Patrol Officer.** A
 Full-Time Regular Patrol Officer shall be selected for Original Appointment from
 the pool of Applicants who:
 
     1. _(1)_ Fall within the age range set forth within this Section;
 
     2. _(2)_ Have timely completed an Application for Appointment, as described
-    in Section 129.04 of this Chapter;
+    in [Section 129.04][] of this Chapter;
 
     3. _(3)_ Have earned a high school diploma or general equivalency degree.
 
@@ -218,13 +218,13 @@ under control of the Police Chief, and shall at all times be considered as being
 on official police duty.
 
 2. _(b)_ Such patrol officers shall be paid by the Municipality at the officer's
-rate of pay set forth in Section 149.23.
+rate of pay set forth in [Section 149.23][].
 
 3. _(c)_ The Municipality shall be reimbursed by the private entity requesting
 such services at the patrol officer's actual rate now or hereafter established
-by Section 149.23, plus a fee for overhead amounting to forty percent (40%) of
-each patrol officer's pay for such service. A minimum charge of four hours shall
-be paid by the entity even if actual hours are less than four.
+by [Section 149.23][], plus a fee for overhead amounting to forty percent (40%)
+of each patrol officer's pay for such service. A minimum charge of four hours
+shall be paid by the entity even if actual hours are less than four.
 
 4. _(d)_ Such duty shall be restricted to the limits of the Municipality and/or
 any Valley Enforcement Group municipality.
@@ -271,3 +271,7 @@ Chapter 351. The Fire Prevention Officer is also authorized to enforce Chapter
 4. _(d)_ **Training.** Parking Enforcement Officers shall receive training as
 directed by Ohio R.C. 737.161.\
 (Ord. 2015-21. Passed 7-27-15.)
+
+[Section 129.04]:</chapters/chapter-129-police-department/#12904-application-examination-and-evaluation-of-candidates>
+[Section 129.10]:<>
+[Section 149.23]:</chapters/chapter-149-employment-provisions/#14923-payment-of-part-time-police-officers-at-construction-projects-regulation-of-part-time-employment-of-police-officers>

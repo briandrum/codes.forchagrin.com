@@ -133,10 +133,10 @@ acts necessary to the effective discharge of such duties.
     any person, firm or corporation to comply with any order of the Chief or his
     representative, under the provisions of this section shall constitute an
     unlawful act and subject such person, firm or corporation to penalties
-    provided for in Section 1501.99. Whenever necessary, for the enforcement of
-    any law pertaining to fire inspection or fire enforcement, the Chief or his
-    designated representative shall apply for a search warrant in the form and
-    manner provided by law.
+    provided for in [Section 1501.99][]. Whenever necessary, for the enforcement
+    of any law pertaining to fire inspection or fire enforcement, the Chief or
+    his designated representative shall apply for a search warrant in the form
+    and manner provided by law.
 
 7. _(g)_ The Chief shall recommend to the Mayor the employment of technical
 inspectors who, when such authorization is granted by Council, shall be selected
@@ -207,7 +207,7 @@ ordinance and standards, on such approval with such conditions that the
 Approving Authority believes are necessary to impose in order that the public
 health, safety, convenience, comfort and general welfare of the resident and the
 Village may be safeguarded and substantial justice done.\
-([Ord. 2022-19. Passed 6-13-22.]({% link _posts/2022-04-25-ordinance-2022-19.md %}))
+([Ord. 2022-19. Passed 6-13-22.][])
 
 ## 1501.06   Appeals
 
@@ -1384,3 +1384,7 @@ notice.
 3. _(c)_ The Director of Law shall take such legal action as may be required to
 enforce this Code.\
 (Ord. 1975-970. Passed 4-15-75.)
+
+[Ord. 2022-19. Passed 6-13-22.]:</ordinance-2022-19/>
+
+[Section 1501.99]:</chapters/chapter-1501-model-codes-adopted/#150199-penalty>

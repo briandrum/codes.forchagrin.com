@@ -639,8 +639,8 @@ part of a major arterial system of streets or highways.\
 
 ## 301.43   Through street or highway
 
-"Through street or highway" means every street or highway as provided in Section
-313.02.\
+"Through street or highway" means every street or highway as provided in
+[Section 313.02][].\
 (ORC 4511.01(HH))
 
 ## 301.44   Thruway
@@ -724,3 +724,5 @@ miles per hour.\
 "Waste collection vehicle" means a vehicle used in the collection of garbage,
 refuse, trash or recyclable materials.\
 (ORC 4511.01(RRR))
+
+[Section 313.02]:</chapters/chapter-313-traffic-control-devices/#31302-through-streets-stop-and-yield-right-of-way-signs>

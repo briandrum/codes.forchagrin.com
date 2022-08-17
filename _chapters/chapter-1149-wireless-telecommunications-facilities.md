@@ -22,9 +22,9 @@ title: "Chapter 1149: Wireless Telecommunications Facilities"
 
 ## 1149.01   Intent
 
-In addition to the applicable provisions of the intent stated in Section
-1105.03, it is the intent of these regulations to provide for the placement of
-wireless telecommunication facilities to achieve the following objectives:
+In addition to the applicable provisions of the intent stated in [Section
+1105.03][], it is the intent of these regulations to provide for the placement
+of wireless telecommunication facilities to achieve the following objectives:
 
 1. _(a)_ To minimize adverse health, safety, welfare, and visual impacts through
 the buffering, siting and design of such facilities.
@@ -137,9 +137,9 @@ shall submit:
 2. _(b)_ The Administrator may waive any of the above requirements which he
 determines to be inapplicable in specific instances.
 
-3. _(c)_ In addition to the Review and Approval Procedures set forth in Section
-1109.05, an application for the placement of a wireless telecommunication shall
-be subject to the following:
+3. _(c)_ In addition to the Review and Approval Procedures set forth in [Section
+1109.05][], an application for the placement of a wireless telecommunication
+shall be subject to the following:
 
     1. _(1)_ Upon receiving the completed application, the Planning and Zoning
     Commission shall hold a public hearing. Such application request shall be
@@ -313,3 +313,6 @@ Historic Preservation Regulations.
 4. _(d)_ No advertising is permitted anywhere on the facility with the exception
 of incidental signs as permitted by Chapter 1143, Signs.\
 (Ord. 2019-39. Passed 8-13-19.)
+
+[Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
+[Section 1109.05]:</chapters/chapter-1109-administration-and-enforcement/#110905-review-and-approval-procedures>

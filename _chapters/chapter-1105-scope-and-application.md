@@ -181,4 +181,6 @@ standards, on any such approval with such conditions the Approving Authority
 believes are necessary to impose in order that the public health, safety,
 convenience, comfort and general welfare of the residents and the Village may be
 safeguarded and substantial justice done.\
-([Ord. 2022-19. Passed 6-13-22.]({% link _posts/2022-04-25-ordinance-2022-19.md %}))
+([Ord. 2022-19. Passed 6-13-22.][])
+
+[Ord. 2022-19. Passed 6-13-22.]:</ordinance-2022-19/>

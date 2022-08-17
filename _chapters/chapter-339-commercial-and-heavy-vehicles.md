@@ -47,7 +47,7 @@ Ohio Director of Transportation shall be required to obtain any local permit or
 license or pay any local fee or charge for movement on any State route within
 the Municipality; however, it shall be unlawful to operate any such vehicle or
 combination of vehicles upon any roadway within the Municipality which is not a
-State route, except as provided in Section 339.02.\
+State route, except as provided in [Section 339.02][].\
 (ORC 4513.34)
 
 2. _(b)_
@@ -226,7 +226,7 @@ as provided in those sections.
     thoroughfares in the Municipality.
 
 8. _(h)_ As used in this section, "recreational vehicle" has the same meaning as
-in Ohio R.C. 4501.01. 
+in Ohio R.C. 4501.01.\
 (ORC 5577.05)
 
 9. _(i)_ Whoever violates this section is guilty of a minor misdemeanor on a
@@ -384,7 +384,7 @@ tailgate, tarpaulins, chains (except ground or contact chains), ropes, stakes,
 poles, and the like, or any part of the load, are securely fastened to prevent
 dangling, flapping, swinging or falling from the side, end or top of the load or
 body. All projecting cargo shall be properly guarded by a red flag or cloth or a
-red light or lantern as required by Section 337.08.
+red light or lantern as required by [Section 337.08][].
 
 3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor on a
 first offense; on a second offense within one year after the first offense, the
@@ -557,8 +557,8 @@ vehicles and one at a distance of forty paces or approximately one hundred feet
 to the rear of the vehicle, except as provided in this section.
 
 5. _(e)_ The flares, fusees, lanterns, red reflectors and flags to be displayed
-as required in this section shall conform with the requirements of Section
-339.13 applicable thereto.
+as required in this section shall conform with the requirements of [Section
+339.13][] applicable thereto.
 
 6. _(f)_ In the event the vehicle is disabled near a curve, crest of a hill or
 other obstruction of view, the flare, flag, reflector or lantern in that
@@ -652,3 +652,7 @@ place and remain standing until such portion of the load is removed as is
 necessary to reduce the weight of such vehicle to the limit permitted under this
 chapter.\
 (ORC 4513.33)
+
+[Section 337.08]:</chapters/chapter-337-safety-and-equipment/#33708-red-light-or-red-flag-on-extended-loads>
+[Section 339.02]:</chapters/chapter-339-commercial-and-heavy-vehicles/#33902-use-of-local-streets-local-permit-and-conditions>
+[Section 339.13]:</chapters/chapter-339-commercial-and-heavy-vehicles/#33913-equipment-required-at-night>

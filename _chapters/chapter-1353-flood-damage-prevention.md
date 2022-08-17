@@ -28,11 +28,11 @@ title: "Chapter 1353: Flood Damage Prevention"
 
 ## 1353.01   Statutory authorization; findings of fact; purpose and objectives
 
-1. _(a)_ **Statutory Authorization.** Article XVIII, Section 3 of the Ohio
-Constitution grants municipalities, the legal authority to adopt land use and
-control measures for promoting the health, safety and general welfare of its
-citizens. Therefore, the Council of the Village of Chagrin Falls, State of Ohio
-does ordain as follows:
+1. _(a)_ **Statutory Authorization.** [Article XVIII, Section 3][ORC Article
+XVIII, Section 3] of the Ohio Constitution grants municipalities, the legal
+authority to adopt land use and control measures for promoting the health,
+safety and general welfare of its citizens. Therefore, the Council of the
+Village of Chagrin Falls, State of Ohio does ordain as follows:
 
 2. _(b)_ **Findings of Fact.**
 
@@ -325,12 +325,12 @@ subsequent improvements to such structures.
 26. _(z)_ "Person" means any individual or group of individuals, corporation,
 partnership, association, or any other entity, including state and local
 governments and agencies. An agency is further defined in the Ohio Revised Code
-Section 111.15 as any governmental entity of the State and includes, but is not
-limited to, any board, department, division, commission, bureau, society,
-council, institution, state college or university, community college district,
-technical college district, or state community college. "Agency" does not
-include the General Assembly, the Controlling Board, the Adjutant General's
-Department, or any court.
+[Section 111.15][ORC Section 111.15] as any governmental entity of the State and
+includes, but is not limited to, any board, department, division, commission,
+bureau, society, council, institution, state college or university, community
+college district, technical college district, or state community college.
+"Agency" does not include the General Assembly, the Controlling Board, the
+Adjutant General's Department, or any court.
 
 27. _(aa)_ "Recreational vehicle" means a vehicle which is:
 
@@ -433,7 +433,7 @@ be fully compliant with this chapter.\
 
 1. _(a)_ **Lands to Which This Chapter Applies.** This chapter shall apply to
 all special flood hazard areas within the jurisdiction of the Village as
-identified by the Section 1353.03(b) including any additional special flood
+identified by the [Section 1353.03(b)][] including any additional special flood
 hazard areas annexed by the Village.\
 (Ord. 2005-22. Passed 4-11-05.)
 
@@ -451,19 +451,19 @@ purposes of these regulations, the following studies and/or maps are adopted:
 
     3. _(3)_ Any hydrologic and hydraulic engineering analysis authored by a
     registered Professional Engineer in the State of Ohio, which has been
-    approved by the Village, as required by Section 1353.06(a)(4) Subdivision
-    Proposals. Any revisions to the aforementioned maps and/or studies are
-    hereby adopted by reference and declared to be a part of these regulations.
-    Such maps and/or studies are on file at 21 West Washington Street, Chagrin
-    Falls, Ohio.\
+    approved by the Village, as required by [Section 1353.06(a)(4)][]
+    Subdivision Proposals. Any revisions to the aforementioned maps and/or
+    studies are hereby adopted by reference and declared to be a part of these
+    regulations. Such maps and/or studies are on file at 21 West Washington
+    Street, Chagrin Falls, Ohio.\
     (Ord. 2010-45. Passed 9-13-10.)
 
 3. _(c)_ **Compliance.** Unless specifically exempted from filing for a
-development permit as stated in Section 1353.04(b), no structure or land shall
-hereafter be located, erected, constructed, reconstructed, repaired, extended,
-converted, enlarged or altered without full compliance with the terms of this
-chapter and all other applicable regulations which apply to uses within the
-jurisdiction of this chapter.
+development permit as stated in [Section 1353.04(b)][], no structure or land
+shall hereafter be located, erected, constructed, reconstructed, repaired,
+extended, converted, enlarged or altered without full compliance with the terms
+of this chapter and all other applicable regulations which apply to uses within
+the jurisdiction of this chapter.
 
 4. _(d)_ **Abrogation and Greater Restrictions.** This chapter is not intended
 to repeal, abrogate or impair any existing easements, covenants or deed
@@ -503,8 +503,8 @@ than the part so declared to be unconstitutional or invalid.\
 
 1. _(a)_ **Establishment of Development Permit.** A development permit shall be
 obtained from the Chief Administrative Officer before construction or
-development begins within any special flood hazard area established in Section
-1353.03(b). Application for a development permit shall be made on forms
+development begins within any special flood hazard area established in [Section
+1353.03(b)][]. Application for a development permit shall be made on forms
 furnished by the Chief Administrative Officer and may include, but not be
 limited to: site specific topographic plans in duplicate drawn to scale showing
 the nature, location, dimensions and elevations of the area in question;
@@ -517,13 +517,14 @@ required:
     hazard areas where base flood elevation data are utilized from any source;
 
     2. _(2)_ Elevation in relation to mean sea level to which any proposed
-    nonresidential structure will be floodproofed in accordance with Section
-    1353.06(b)(2) where base flood elevation data are utilized from any source;
+    nonresidential structure will be floodproofed in accordance with [Section
+    1353.06(b)(2)][] where base flood elevation data are utilized from any
+    source;
 
     3. _(3)_ Certification by a registered professional engineer or architect
     that the floodproofing methods for any nonresidential structure meet the
-    floodproofing criteria in Section 1353.06(b)(2) where base flood elevation
-    data are utilized from any source;
+    floodproofing criteria in [Section 1353.06(b)(2)][] where base flood
+    elevation data are utilized from any source;
 
     4. _(4)_ Description of the extent to which any watercourse will be altered
     or relocated as a result of proposed development and certification by a
@@ -584,7 +585,7 @@ Administrative Officer shall include but are not limited to:
         Insurance Rate Map of the Flood Insurance Study. Floodways may also be
         delineated in other sources of flood information. If the proposed
         development is located within a designated floodway, assure that the
-        encroachment provision of Section 1353.07(a) is met.
+        encroachment provision of [Section 1353.07(a)][] is met.
 
         4. _(D)_ Inspect all development projects before, during, and after
         construction to ensure proper elevation of the structure and to ensure
@@ -592,9 +593,9 @@ Administrative Officer shall include but are not limited to:
 
     3. _(3)_ **Use of other base flood elevation and floodway data.** Special
     flood hazard areas where base flood elevation data have not been provided by
-    the Federal Emergency Management Agency in accordance with Section
-    1353.03(b), are designated as Zone A on the Village's Flood Insurance Rate
-    Map. Within these areas, the Chief Administrative Officer shall obtain,
+    the Federal Emergency Management Agency in accordance with [Section
+    1353.03(b)][], are designated as Zone A on the Village's Flood Insurance
+    Rate Map. Within these areas, the Chief Administrative Officer shall obtain,
     review and reasonably utilize any base flood elevation and floodway data
     available from a Federal State or other source, in order to administer
     Sections 1353.06(b)(1) and (2) and 1353.07.
@@ -640,8 +641,8 @@ Administrative Officer shall include but are not limited to:
         applicant for the altered or relocated portion of such watercourse so
         that the flood-carrying capacity will not be diminished.
 
-        3. _(C)_ Maintain engineering documentation required in Section
-        1353.04(a)(4) that the flood carrying capacity of the altered or
+        3. _(C)_ Maintain engineering documentation required in [Section
+        1353.04(a)(4)][] that the flood carrying capacity of the altered or
         relocated portion of said watercourse will not be diminished.
 
     6. _(6)_ **Interpretation and appeals.**
@@ -653,7 +654,7 @@ Administrative Officer shall include but are not limited to:
         elevations delineated in the Flood Elevation Profile for the Village
         shall prevail. The person contesting the location of the boundary shall
         be given a reasonable opportunity to appeal the interpretation as
-        provided in Section 1353.05.
+        provided in [Section 1353.05][].
 
         2. _(B)_ Provide information, testimony or other evidence as needed
         during variance hearings.
@@ -684,7 +685,7 @@ Administrative Officer shall include but are not limited to:
     9. _(9)_ **Map maintenance activities.** To meet National Flood Insurance
     Program minimum requirements to have flood data reviewed and approved by
     FEMA, and to ensure that the Village of Chagrin Falls flood maps, studies
-    and other data identified in Section 1353.03(b) accurately represent
+    and other data identified in [Section 1353.03(b)][] accurately represent
     flooding conditions so appropriate floodplain management criteria are based
     on current data, the following map maintenance activities are identified:
 
@@ -709,10 +710,10 @@ Administrative Officer shall include but are not limited to:
 
                 4. _(d)_ Subdivision or large scale development proposals
                 requiring the establishment of base flood elevations in
-                accordance with Section 1353.06(a)(4).
+                accordance with [Section 1353.06(a)(4)][].
 
             2. _(2)_ It is the responsibility of the applicant to have technical
-            data, required in accordance with Section 1353.04(d)(9)A.1.,
+            data, required in accordance with [Section 1353.04(d)(9)A.1.][],
             prepared in a format required for a Conditional Letter of Map
             Revision or Letter of Map Revision, and submitted to FEMA. Submittal
             and processing fees for these map revisions shall be the
@@ -732,7 +733,7 @@ Administrative Officer shall include but are not limited to:
             4. _(4)_ Floodplain development permits issued by the Floodplain
             Administrator shall be conditioned upon the applicant obtaining a
             Letter of Map Revision from FEMA for any development proposal
-            subject to Section 1353.04(d)(9)A.1.
+            subject to [Section 1353.04(d)(9)A.1.][]
 
         2. _(B)_ **Right to Submit New Technical Data.** The Floodplain
         Administrator may request changes to any of the information shown on an
@@ -755,7 +756,7 @@ Administrative Officer shall include but are not limited to:
         owner or owner's representative.
 
         2. _(B)_ For all development activities subject to the standards of
-        Section 1353.04(d)(4), a Letter of Map Revision.\
+        [Section 1353.04(d)(4)][], a Letter of Map Revision.\
         (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.05   Variance procedure
@@ -771,15 +772,15 @@ Administrative Officer shall include but are not limited to:
     Administrative Officer in the enforcement or administration of this chapter.
 
     3. _(3)_ Meetings and hearings of the Board shall be conducted in accordance
-    with Section 1111.04 of the Zoning Code.
+    with [Section 1111.04][] of the Zoning Code.
 
     4. _(4)_ Determination of a quorum, requirements for official decisions and
-    the conduct of meetings of the Board shall be in accordance with Section
-    1111.05of the Zoning Code.
+    the conduct of meetings of the Board shall be in accordance with [Section
+    1111.05][] of the Zoning Code.
 
     5. _(5)_ Applications for appeals and variances shall be considered by the
-    Board in accordance with Section 1111.03 of the Zoning Code. Variances shall
-    be issued upon a determination that:
+    Board in accordance with [Section 1111.03][] of the Zoning Code. Variances
+    shall be issued upon a determination that:
 
         1. _(A)_ The granting of a variance will not result in increased flood
         heights beyond that which is allowed in this chapter, additional threats
@@ -835,10 +836,10 @@ Administrative Officer shall include but are not limited to:
     granting of variances as it deems necessary to further the purposes of this
     chapter.
 
-    8. _(8)_ In addition to the requirements of Section 1111.06 of the Zoning
-    Code, the Chief Administrative Officer shall maintain the records of all
-    appeal actions and report any variances to the Federal Emergency Management
-    Agency upon request.
+    8. _(8)_ In addition to the requirements of [Section 1111.06][] of the
+    Zoning Code, the Chief Administrative Officer shall maintain the records of
+    all appeal actions and report any variances to the Federal Emergency
+    Management Agency upon request.
 
 2. _(b)_ **Conditions for Variances.**
 
@@ -873,7 +874,7 @@ Administrative Officer shall include but are not limited to:
     resulting from the reduced lowest floor elevation.
 
 3. _(c)_ **Lapse of Variances.** A variance, once granted, shall expire in one
-year subject to the requirements of Section 1111.10 of the Zoning Code.
+year subject to the requirements of [Section 1111.10][] of the Zoning Code.
 
 4. _(d)_ **Action by Council.** Following a decision by the Board, each case
 shall be referred to Council. After reviewing the Board's decision, Council may
@@ -946,8 +947,8 @@ standards are required:
     (Ord. 2005-22. Passed 4-11-05.)
 
 2. _(b)_ **Specific Standards.** In all special flood hazard areas where base
-flood elevation data have been provided as set forth in Section 1353.03(b) or
-Section 1353.04(d)(3), and in all areas that constitute flood protection
+flood elevation data have been provided as set forth in [Section 1353.03(b)][]
+or [Section 1353.04(d)(3)][], and in all areas that constitute flood protection
 elevations as determined by the Flood Damage Prevention Administrator, the
 following provisions are required:
 
@@ -973,7 +974,7 @@ following provisions are required:
         that the design and methods of construction are in accordance with
         accepted standards of practice for meeting the standards of this
         subsection. Such certification shall be provided to the official as set
-        forth in Section 1353.04(a)(3).
+        forth in [Section 1353.04(a)(3)][].
 
     3. _(3)_ **Accessory structures.** New construction and substantial
     improvement of any accessory structures shall have the lowest floor,
@@ -981,8 +982,8 @@ following provisions are required:
     base flood elevation An exemption to the elevation or dry floodproofing
     standards may be granted for accessory structures (e.g., sheds, detached
     garages) containing 576 square feet or less in gross floor area. Such
-    structures shall meet the encroachment provisions of Section 1353.07(a) and
-    the following additional standards:
+    structures shall meet the encroachment provisions of [Section 1353.07(a)][]
+    and the following additional standards:
 
         1. _(A)_ They shall not be used for human habitation;
 
@@ -998,7 +999,7 @@ following provisions are required:
         6. _(F)_ Service facilities, such as electrical and heating equipment,
         shall be elevated or floodproofed to or above the level of the flood
         protection elevation; and, they shall meet the opening requirements of
-        Section 1353.06(b)(4).
+        [Section 1353.06(b)(4)][].
 
     4. _(4)_ **Enclosures below the lowest floor base flood elevation.** The
     following standards apply to all new and substantially improved residential
@@ -1039,17 +1040,18 @@ following provisions are required:
 
         2. _(B)_ They must be fully licensed and ready for highway use, or
 
-        3. _(C)_ They must meet all standards of Section 1353.06.\
+        3. _(C)_ They must meet all standards of [Section 1353.06][].\
         (Ord. 2010-45. Passed 9-13-10.)
 
 ## 1353.07   Floodways
 
-The Flood Insurance Study referenced in Section 1353.03(b) identifies a segment
-within special flood hazard areas known as a floodway. Floodways may also be
-delineated in other sources of flood information as specified in Section 1353.04
-(d)(3). The floodway is an extremely hazardous area due to the velocity of
-floodwaters which carry debris, potential projectiles and erosion potential. The
-following provisions apply within all delineated floodway areas:
+The Flood Insurance Study referenced in [Section 1353.03(b)][] identifies a
+segment within special flood hazard areas known as a floodway. Floodways may
+also be delineated in other sources of flood information as specified in
+[Section 1353.04(d)(3)][]. The floodway is an extremely hazardous area due to
+the velocity of floodwaters which carry debris, potential projectiles and
+erosion potential. The following provisions apply within all delineated floodway
+areas:
 
 1. _(a)_ Prohibit encroachments, new construction, substantial improvements and
 other development unless a hydrologic and hydraulic analysis performed in
@@ -1059,7 +1061,7 @@ base flood discharge.
 
 2. _(b)_ If subsection (a) hereof is satisfied, all new construction and
 substantial improvements shall comply with all applicable flood hazard reduction
-provisions of Section 1353.06 and this section.
+provisions of [Section 1353.06][] and this section.
 
 3. _(c)_ Any encroachment within the floodway that would result in an increase
 in base flood elevations can only be granted upon the prior approval by the
@@ -1135,3 +1137,24 @@ laws of the Village. Each day such violation continues shall be considered a
 separate offense. Nothing herein contained shall prevent the Village from taking
 such other lawful action as is necessary to prevent or remedy any violation.\
 (Ord. 2005-22. Passed 4-11-05.)
+
+[Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
+[Section 1111.04]:</chapters/chapter-1111-appeals-and-variances/#111104-notices>
+[Section 1111.05]:</chapters/chapter-1111-appeals-and-variances/#111105-meetings-quorum-and-vote>
+[Section 1111.06]:</chapters/chapter-1111-appeals-and-variances/#111106-record-of-decision>
+[Section 1111.10]:</chapters/chapter-1111-appeals-and-variances/#111110-action-by-council>
+[Section 1353.03(b)]:</chapters/chapter-1353-flood-damage-prevention/#135303(b)>
+[Section 1353.04(a)(3)]:</chapters/chapter-1353-flood-damage-prevention/#135304(a)(3)>
+[Section 1353.04(a)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135304(a)(4)>
+[Section 1353.04(b)]:</chapters/chapter-1353-flood-damage-prevention/#135304(b)>
+[Section 1353.04(d)(3)]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(3)>
+[Section 1353.04(d)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(4)>
+[Section 1353.04(d)(9)A.1.]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(9)(A)(1)>
+[Section 1353.05]:</chapters/chapter-1353-flood-damage-prevention/#135305-variance-procedure>
+[Section 1353.06]:</chapters/chapter-1353-flood-damage-prevention/#135306-provisions-for-flood-hazard-reduction>
+[Section 1353.06(a)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135306(a)(4)>
+[Section 1353.06(b)(2)]:</chapters/chapter-1353-flood-damage-prevention/#135306(b)(2)>
+[Section 1353.06(b)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135306(b)(4)>
+[Section 1353.07(a)]:</chapters/chapter-1353-flood-damage-prevention/#135307(a)>
+[ORC Section 111.15]:<https://codes.ohio.gov/ohio-revised-code/section-111.15>
+[ORC Article XVIII, Section 3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>

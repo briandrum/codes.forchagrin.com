@@ -788,5 +788,7 @@ shall they begin prior to five thirty a.m.\
 
 ## 529.99   Penalty
 
-(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
-classification.)
+(Editor's note: See [Section 501.99][] for penalties applicable to any
+misdemeanor classification.)
+
+[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

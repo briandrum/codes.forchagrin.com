@@ -32,10 +32,10 @@
 }
 
 .Markdown :is(h2, h3, h4):target,
-.Markdown :is(h2, h3, h4):target + :is(ol, p, table),
-.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table),
-.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table),
-.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table, ul),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table, ul) + :is(ol, p, table, ul),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table, ul) + :is(ol, p, table, ul) + :is(ol, p, table, ul),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table, ul) + :is(ol, p, table, ul) + :is(ol, p, table, ul) + :is(ol, p, table, ul),
 .Markdown :is(ol > li, p):target {
   animation: target-fade 10s 1;
   background-color: var(--yellow4);
@@ -72,10 +72,10 @@
   border-radius: 0.01em;
 }
 
-.Markdown :is(h2, h3, h4):target + :is(ol, p, table),
-.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table),
-.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table),
-.Markdown :is(h2, h3, h4):target + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table) + :is(ol, p, table) {
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table, ul),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table, ul) + :is(ol, p, table, ul),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table, ul) + :is(ol, p, table, ul) + :is(ol, p, table, ul),
+.Markdown :is(h2, h3, h4):target + :is(ol, p, table, ul) + :is(ol, p, table, ul) + :is(ol, p, table, ul) + :is(ol, p, table, ul) {
   border-bottom-left-radius: 0.01em;
   border-bottom-right-radius: 0.01em;
 }

@@ -51,7 +51,8 @@ quantity of explosive composition and that is ignited in a cigarette.
 
 6. _(f)_ "Fireworks" means any composition or device prepared for the purpose of
 producing a visible or an audible effect by combustion, deflagration or
-detonation, except ordinary matches and except as provided in Section 1519.05.
+detonation, except ordinary matches and except as provided in [Section
+1519.05][].
 
 7. _(g)_ "Licensed exhibitor of fireworks" or "licensed exhibitor" means a
 person licensed pursuant to Ohio R.C. 3743.50 to 3743.55.
@@ -213,10 +214,10 @@ Ohio R.C. 3743.53(B) and (E) or to comply with Divisions (C) and (D) of that
 section.
 
 2. _(b)_ No licensed exhibitor of fireworks shall conduct a fireworks exhibition
-unless a permit has been secured for the exhibition pursuant to Section 1519.02
-or if a permit so secured is revoked by the Fire Chief or Fire Prevention
-Officer in consultation with the Police Chief or other similar chief law
-enforcement official or a designee of such Police Chief or other similar law
+unless a permit has been secured for the exhibition pursuant to [Section
+1519.02][] or if a permit so secured is revoked by the Fire Chief or Fire
+Prevention Officer in consultation with the Police Chief or other similar chief
+law enforcement official or a designee of such Police Chief or other similar law
 enforcement official pursuant to that section.
 
 3. _(c)_ No licensed exhibitor of fireworks shall acquire fireworks for use at a
@@ -242,18 +243,18 @@ wholesaler of fireworks as authorized by Ohio R.C. 3743.15 to 3743.21, a
 shipping permit holder as authorized by Ohio R.C. 3743.40, an out-of-state
 resident as authorized by Ohio R.C. 3743.44, a resident of this State as
 authorized by Ohio R.C. 3743.45, or a licensed exhibitor of fireworks as
-authorized by Ohio R.C. 3743.50 to 3743.55 and Section 1519.02 of this Chapter
-1519 and except as provided in Section 1519.05 of this Chapter 1519.
+authorized by Ohio R.C. 3743.50 to 3743.55 and [Section 1519.02][] of this
+Chapter 1519 and except as provided in [Section 1519.05][] of this Chapter 1519.
 
-2. _(b)_ Except as provided in Section 1519.05 and except for licensed
+2. _(b)_ Except as provided in [Section 1519.05][] and except for licensed
 exhibitors of fireworks authorized to conduct a fireworks exhibition pursuant to
-Ohio R.C. 3743.50 to 3743.55 and Section 1519.02 of this Chapter 1519, no person
-shall discharge, ignite or explode any fireworks in this Municipality, including
-a prohibition of the discharge, ignition or explosion of fireworks purchased
-pursuant to Section R. C. 3743.45, intending to prohibit the discharge, ignition
-or explosion of fireworks on private property on any of the days set forth in
-Ohio R.C. 3743.45(b).\
-([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05.md %}))
+Ohio R.C. 3743.50 to 3743.55 and [Section 1519.02][] of this Chapter 1519, no
+person shall discharge, ignite or explode any fireworks in this Municipality,
+including a prohibition of the discharge, ignition or explosion of fireworks
+purchased pursuant to Section R. C. 3743.45, intending to prohibit the
+discharge, ignition or explosion of fireworks on private property on any of the
+days set forth in Ohio R.C. 3743.45(b).\
+([Ord. 2022-05. Passed 3-14-22.][])
 
 3. _(c)_ No person shall use in a theater or public hall, what is technically
 known as fireworks showers, or a mixture containing potassium chlorate and
@@ -266,12 +267,12 @@ other responsible adult. No person under eighteen years of age shall touch or
 possess fireworks on a licensed premises without the consent of the licensee. A
 licensee may eject any person from a licensed premises that is in any way
 disruptive to the safe operation of the premises.\
-([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05.md %}))
+([Ord. 2022-05. Passed 3-14-22.][])
 
 5. _(e)_ Except as otherwise provided in Ohio R.C. 3743.44, no person, other
 than a licensed manufacturer, licensed wholesaler, licensed exhibitor, or
 shipping permit holder, shall possess 1.3 G fireworks or 1.4 G fireworks.\
-([Ord. 2022-05. Passed 3-14-22.]({% link _posts/2022-02-14-ordinance-2022-05.md %}))
+([Ord. 2022-05. Passed 3-14-22.][])
 
 ## 1519.05   Application
 
@@ -331,3 +332,7 @@ Whoever violates any provision of this chapter is guilty of a misdemeanor of the
 first degree for a first offense and shall be fined not more than one thousand
 dollars ($1,000) or imprisoned not more than six months or both.\
 (ORC 3743.99(C))
+
+[Ord. 2022-05. Passed 3-14-22.]:</ordinance-2022-05/>
+[Section 1519.02]:</chapters/chapter-1519-fireworks/#151902-public-exhibition-permit-required-fee-bond-records>
+[Section 1519.05]:</chapters/chapter-1519-fireworks/#151905-application>

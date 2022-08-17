@@ -38,7 +38,7 @@ at the pleasure of the Mayor.\
 
 ## 133.03   Duties of chief administrative officer
 
-Pursuant to Article VI, Section 2, of the Charter, the Chief Administrative
+Pursuant to [Article VI, Section 2][], of the Charter, the Chief Administrative
 Officer shall be the head of the Department of Public Service and shall have the
 following duties:
 
@@ -122,3 +122,5 @@ Department and such other duties as may be directed by the Chief Administrative
 Officer. The Superintendent of Utilities may also be referred to as the
 Superintendent of Services in the Codified Ordinances.\
 (Ord. 2008-65. Passed 12-8-08.)
+
+[Article VI, Section 2]:</articles/article-vi-chief-administrative-officer/#section-vi-2-duties>

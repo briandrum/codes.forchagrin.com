@@ -21,9 +21,10 @@ title: "Chapter 123: Department of Law"
 
 ## 123.01   Department established
 
-Pursuant to Article VII, Section 3, of the Charter, there is hereby established a Department
-of Law, which shall be composed of a Director of Law and Prosecutor, who shall
-be an Assistant Director of Law. (Ord. 2006-23. Passed 5-22-06.)
+Pursuant to [Article VII, Section 3][], of the Charter, there is hereby
+established a Department of Law, which shall be composed of a Director of Law
+and Prosecutor, who shall be an Assistant Director of Law. (Ord. 2006-23. Passed
+5-22-06.)
 
 ## 123.02   Appointment and removal of director
 
@@ -72,3 +73,5 @@ Municipal Court; represent the municipality in all matters before the Bedford
 Municipal Court; and perform such other duties consistent with the office as the
 Mayor, Council or the Director of Law may request.\
 (Ord. 2006-23. Passed 5-22-06.)
+
+[Article VII, Section 3]:</articles/article-vii-administrative-officers-departments-boards-and-commissions/#section-vii-3-director-of-law>

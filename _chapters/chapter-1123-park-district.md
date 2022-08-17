@@ -15,7 +15,7 @@ title: "Chapter 1123: Park District"
 
 ## Cross references
 
-* Parks - see [Streets & Public Services Ch. 951](({% link _chapters/chapter-951-parks.md %}))
+* Parks - see Streets & Public Services [Chapter 951][]
 
 ## 1123.01   Intent
 
@@ -69,3 +69,5 @@ character of the adjoining residential area. The Planning and Zoning Commission
 shall determine if the standards for screening contained in Chapter 1142 of the
 Zoning Code shall apply.\
 (Ord. 2019-39. Passed 8-13-19.)
+
+[Chapter 951]:</chapters/chapter-951-parks/>

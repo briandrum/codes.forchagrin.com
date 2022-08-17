@@ -9,7 +9,7 @@ title: "Chapter 541: Property Offenses"
 ## Sections
 
 * [541.01   Determining property value in arson](#54101-determining-property-value-in-arson)
-* [541.02   Arson](54102-arson)
+* [541.02   Arson](#54102-arson)
 * [541.03   Criminal damaging or endangering](#54103-criminal-damaging-or-endangering)
 * [541.04   Criminal mischief](#54104-criminal-mischief)
 * [541.05   Criminal trespass](#54105-criminal-trespass)
@@ -265,8 +265,8 @@ authorization was secured by deception.
     trespass in violation of subsection (a)(5) of this section is a misdemeanor
     of the first degree.
 
-    2. _(2)_ Notwithstanding Section 501.99, if the person, in committing the
-    violation of this section, used a snowmobile, off-highway motorcycle, or
+    2. _(2)_ Notwithstanding [Section 501.99][], if the person, in committing
+    the violation of this section, used a snowmobile, off-highway motorcycle, or
     all-purpose vehicle, the court shall impose a fine of two times the usual
     amount imposed for the violation.
 
@@ -595,5 +595,7 @@ public amusement.
 
 ## 541.99   Penalty
 
-(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
-classification.)
+(Editor's note: See [Section 501.99][] for penalties applicable to any
+misdemeanor classification.)
+
+[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

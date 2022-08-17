@@ -16,7 +16,7 @@ title: "Chapter 313: Traffic Control Devices"
 * [313.06   Flashing traffic signals](#31306-flashing-traffic-signals) (Repealed)
 * [313.07   Unauthorized signs andsignals, hiding from view,advertising](#31307-unauthorized-signs-andsignals-hiding-from-view-advertising)
 * [313.08   Alteration, injury, removal of traffic control devices](#31308-alteration-injury-removal-of-traffic-control-devices)
-* [313.09   Driver's duties uponapproaching ambiguous or non-working traffic signal](#31309-drivers-duties-uponapproaching-ambiguous-or-non-working-traffic-signal)
+* [313.09   Driver's duties upon approaching ambiguous or non-working traffic signal](#31309-drivers-duties-upon-approaching-ambiguous-or-non-working-traffic-signal)
 * [313.10   Unlawful purchase,possession or sale](#31310-unlawful-purchase-possession-or-sale)
 * [313.11   Portable signal preemption devices prohibited](#31311-portable-signal-preemption-devices-prohibited)
 
@@ -52,8 +52,8 @@ the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
-    offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.\
+    offender is subject to the additional fine established under [Section
+    303.991][] of the Traffic Code.\
     (ORC 4511.12)
 
 ## 313.02   Through streets; stop and yield right-of-way signs
@@ -150,9 +150,9 @@ following meanings:
     3. _(3)_
 
         1. _(A)_ Unless otherwise directed by a pedestrian signal indication, as
-        provided in Section 313.05, pedestrians facing a circular green signal
-        indication are permitted to proceed across the roadway within any marked
-        or unmarked associated crosswalk. The pedestrian shall yield the
+        provided in [Section 313.05][], pedestrians facing a circular green
+        signal indication are permitted to proceed across the roadway within any
+        marked or unmarked associated crosswalk. The pedestrian shall yield the
         right-of-way to vehicles lawfully within the intersection or so close as
         to create an immediate hazard at the time that the green signal
         indication is first displayed.
@@ -179,8 +179,8 @@ following meanings:
 
     3. _(3)_ Pedestrians facing a steady circular yellow or yellow arrow signal
     indication, unless otherwise directed by a pedestrian signal indication as
-    provided in Section 313.05 or other traffic control device, shall not start
-    to cross the roadway.
+    provided in [Section 313.05][] or other traffic control device, shall not
+    start to cross the roadway.
 
 3. _(c)_ **Steady Red Signal Indication:**
 
@@ -224,7 +224,7 @@ following meanings:
         provisions that are applicable after making a stop at a stop sign.
 
     3. _(3)_ Unless otherwise directed by a pedestrian signal indication as
-    provided in Section 313.05 or other traffic control device, pedestrians
+    provided in [Section 313.05][] or other traffic control device, pedestrians
     facing a steady circular red or steady red arrow signal indication shall not
     enter the roadway.
 
@@ -414,8 +414,8 @@ the third degree.\
 
 ## 313.06   Flashing traffic signals
 
-(Former Ohio R.C. 4511.15 from which Section 313.06 was derived was repealed by
-House Bill 349, effective April 20, 2012.)
+(Former Ohio R.C. 4511.15 from which [Section 313.06][] was derived was repealed
+by House Bill 349, effective April 20, 2012.)
 
 ## 313.07   Unauthorized signs and signals, hiding from view, advertising
 
@@ -517,8 +517,8 @@ the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
-    offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.\
+    offender is subject to the additional fine established under [Section
+    303.991][] of the Traffic Code.\
     (ORC 4511.132)
 
 ## 313.10   Unlawful purchase, possession or sale
@@ -591,3 +591,7 @@ section is guilty of a misdemeanor of the first degree.
 device that, if activated by a person, is capable of changing a traffic control
 signal to green out of sequence.\
 (ORC 4513.031)
+
+[Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
+[Section 313.05]:</chapters/chapter-313-traffic-control-devices/#31305-special-pedestrian-control-signals>
+[Section 313.06]:</chapters/chapter-313-traffic-control-devices/#31306-flashing-traffic-signals>

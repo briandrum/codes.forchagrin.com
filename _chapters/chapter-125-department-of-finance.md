@@ -90,13 +90,13 @@ which shall be available in active deposits to:
     institutions receiving money on deposit subject to check, in which event the
     Director of Finance may pay such charge. All public moneys of the
     Municipality not deposited in active deposits shall be invested pursuant to
-    Section 125.08.
+    [Section 125.08][].
 
 2. _(b)_ The Director of Finance shall recommend, and Council, by ordinance,
 shall designate one or more eligible depositories as the depository or
 depositories of the Municipality's active deposits and as the institution or
 institutions through or from which the Municipality may purchase investments in
-accordance with Section 125.08. When more than one eligible depository is
+accordance with [Section 125.08][]. When more than one eligible depository is
 designated, the active deposits shall be allocated among the eligible
 depositories from time to time at the sole discretion of the Director of
 Finance.
@@ -264,7 +264,7 @@ with the depository bank including the amount covered by Federal Deposit
 Insurance.
 
 2. _(b)_ The collateral securities constituting the pool shall be segregated in
-a separate escrow account as described in Section 125.04.
+a separate escrow account as described in [Section 125.04][].
 
 3. _(c)_ If the eligible depository fails to pay over any part of the deposits
 due the Municipality the Director of Finance may request the trustee to deliver
@@ -296,7 +296,7 @@ this section shall be cause for its immediate suspension as an eligible
 depository for any public moneys.
 
     Collateral securities held in a pooled escrow account may be substituted and
-    exchanged in the same manner as described in Section 125.04.\
+    exchanged in the same manner as described in [Section 125.04][].\
     (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.07   Investment objectives
@@ -332,7 +332,7 @@ for speculation but for investment, considering the probable safety of their
 capital as well as the probable income to be derived.
 
 6. _(f)_ Price and rate quotations for all investments may be obtained from
-eligible depositories designated pursuant to Section 125.02 within the
+eligible depositories designated pursuant to [Section 125.02][] within the
 Municipality or the County; provided, however, in the case of the sale or
 purchase of investments where all other factors considered by the Director of
 Finance are equal, placement shall be made with the designated eligible
@@ -347,8 +347,8 @@ investment objectives.\
 or kept as a cash reserve as may be prescribed by the Director of Finance shall
 be invested by the Director of Finance or his designee in the investments
 described in subsection (b) hereof purchased only through or from eligible
-depositories designated pursuant to Section 125.02. To the extent possible, the
-Municipality's investments shall be made so as to complement its anticipated
+depositories designated pursuant to [Section 125.02][]. To the extent possible,
+the Municipality's investments shall be made so as to complement its anticipated
 cash flow requirements. Unless matched to a specific cash flow requirement, the
 Director of Finance shall not make investments maturing more than one year from
 the date of purchase. The Director of Finance is authorized to pool cash
@@ -502,8 +502,8 @@ and the costs of such insurance shall be paid by the Municipality.\
 
 ## 125.10   Bonds
 
-(Editor's note: Former Section 125.10 was repealed by Ordinance 1989-59, passed
-September 11, 1989.)
+(Editor's note: Former [Section 125.10][] was repealed by Ordinance 1989-59,
+passed September 11, 1989.)
 
 ## 125.11   Sale of ordinances, codes, reports, etc
 
@@ -534,7 +534,7 @@ with the Director of Finance to cover the estimated administrative and election
 costs.
 
 The minimum fees established herein are in addition to any other deposits on
-fees required under Section 1109.08 of the Planning and Zoning Code for
+fees required under [Section 1109.08][] of the Planning and Zoning Code for
 professional services.
 
 Upon final disposition of the application, the balance remaining shall be
@@ -636,3 +636,9 @@ years from the date of deposit, and provided that the funds are no longer
 subject to being used by the Village for the purpose for which they were
 deposited.\
 (Ord. 2011-04. Passed 1-10-11.)
+
+[Section 125.02]:</chapters/chapter-125-department-of-finance/#12502-depositories>
+[Section 125.04]:</chapters/chapter-125-department-of-finance/#12504-pledged-collateral-securities>
+[Section 125.08]:</chapters/chapter-125-department-of-finance/#12508-investments>
+[Section 125.10]:</chapters/chapter-125-department-of-finance/#12510-bonds>
+[Section 1109.08]:</chapters/chapter-1109-administration-and-enforcement/#110908-fees-and-deposits>

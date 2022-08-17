@@ -1748,5 +1748,7 @@ this chapter and Ohio R.C. Chapter 2915 and not by Ohio R.C. Chapter 1345.\
 
 ## 517.99   Penalty
 
-(Editor's note: See Section 501.99  for penalties applicable to any misdemeanor
-classification.)
+(Editor's note: See [Section 501.99][]  for penalties applicable to any
+misdemeanor classification.)
+
+[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

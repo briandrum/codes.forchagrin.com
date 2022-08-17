@@ -30,7 +30,7 @@ title: "Chapter 505: Animals and Fowl"
 * [505.19   Impoundment of dogs involved in biting/attacking incidents](#50519-impoundment-of-dogs-involved-in-biting-attacking-incidents)
 * [505.20   Dangerous and vicious dog impounding procedure; redemption or disposition](#50520-dangerous-and-vicious-dog-impounding-procedure-redemption-or-disposition)
 * [505.21   Court order to remove or destroy animal](#50521-court-order-to-remove-or-destroy-animal)
-* [505.22   Designation of dog as "dangerous" and "vicious"]($50522-designation-of-dog-as-dangerous-and-vicious)
+* [505.22   Designation of dog as "dangerous" and "vicious"](#50522-designation-of-dog-as-dangerous-and-vicious)
 * [505.23   Dangerous and vicious dog appeal](#50523-dangerous-and-vicious-dog-appeal)
 * [505.99   Penalty](#50599-penalty)
 
@@ -928,5 +928,7 @@ or for violations of provisions of this chapter other than Section 505.18.\
 
 ## 505.99   Penalty
 
-(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
-classification.)
+(Editor's note: See [Section 501.99][] for penalties applicable to any
+misdemeanor classification.)
+
+[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

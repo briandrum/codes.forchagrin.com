@@ -51,7 +51,7 @@ wholly or partially, for new or relocated projects involving highways,
 underground cables, or pipelines; subdivisions or larger common plans of
 development; industrial, commercial, institutional, or residential projects;
 building activities on farms; redevelopment activities; general clearing; and
-all other uses that are not specifically exempted in Section 1355.01 (d).
+all other uses that are not specifically exempted in [Section 1355.01(d)][].
 
 4. _(d)_ This regulation does not apply to activities regulated by, and in
 compliance with, the Ohio Agricultural Sediment Pollution Abatement Rules.\
@@ -314,8 +314,8 @@ surface of the water.
 stream, lake, reservoir, pond, marsh, wetland, or other waterway situated wholly
 or partly within the boundaries of the state, except those private waters which
 do not combine or affect a junction with surface water. Waters defined as
-sewerage systems, treatment works or disposal systems in Section 6111.01 of the
-Ohio Revised Code are not included.
+sewerage systems, treatment works or disposal systems in [Section 6111.01][ORC
+Section 6111.01] of the Ohio Revised Code are not included.
 
 58. _(fff)_ Temporary stabilization: The establishment of temporary vegetation,
 mulching, geotextiles, sod, preservation of existing vegetation, and other
@@ -348,8 +348,8 @@ occur.
 reservoir, pond, marsh, wetland, or waterway situated wholly or partly within
 the boundaries of the state, except those private waters which do not combine or
 affect a junction with surface water. Waters defined as sewerage systems,
-treatment works or disposal systems in Section 6111.01 of the Ohio Revised Code
-are not included.
+treatment works or disposal systems in [Section 6111.01][ORC Section 6111.01] of
+the Ohio Revised Code are not included.
 
 64. _(lll)_ Watershed: The total drainage area contributing runoff to a single
 point.
@@ -459,10 +459,11 @@ and the applicable fees to the Cuyahoga SWCD as follows:
     by the Zoning Inspector.
 
 3. _(c)_ The Village Engineer and the Cuyahoga SWCD shall review the plans
-submitted under Section 1355.06 (a) or (b) for conformance with this regulation
-and approve, or return for revisions with comments and recommendations for
-revisions. A plan rejected because of deficiencies shall receive a narrative
-report stating specific problems and the procedures for filing a revised plan.
+submitted under [Section 1355.06(a)][] or [(b)][Section 1355.06(b)] for
+conformance with this regulation and approve, or return for revisions with
+comments and recommendations for revisions. A plan rejected because of
+deficiencies shall receive a narrative report stating specific problems and the
+procedures for filing a revised plan.
 
 4. _(d)_ Soil disturbing activities shall not begin and zoning permits shall not
 be issued without an approved SWP3 or Abbreviated SWP3 and installation of
@@ -879,7 +880,7 @@ must meet the following requirements:
     with bioengineering techniques, or rock check dams, all as defined in the
     most recent edition of Rainwater and Land Development or the Field Office
     Technical Guide available at
-    [www.nrcs.usda.gov/technical/efotg/](www.nrcs.usda.gov/technical/efotg/).
+    [www.nrcs.usda.gov/technical/efotg/](https://www.nrcs.usda.gov/technical/efotg/).
 
 3. _(c)_ **Runoff Control.** The SWP3 shall incorporate measures that control the
 volume and velocity of stormwater runoff within the site to prevent erosion.
@@ -1069,7 +1070,7 @@ Sediment control must meet the following requirements:
         4. _(D)_ Designated vehicle and wheel-washing areas. Wash water from
         these areas must be directed to a designated sediment trap, the
         sediment- settling pond, or to a sump pump for dewatering in conformance
-        with Section 1355.09 (g) of this regulation. No surfactants or
+        with [Section 1355.09(g)] of this regulation. No surfactants or
         detergents may be used to wash vehicles.
 
         5. _(E)_ Applicants shall take all necessary measures to comply with
@@ -1084,8 +1085,8 @@ Sediment control must meet the following requirements:
     shall avoid water resources. A 50 foot undisturbed natural buffer shall be
     provided around surface waters of the state unless infeasible. If it is
     infeasible to provide and maintain an undisturbed 50-foot natural buffer,
-    the SWP3 shall comply with the stabilization requirements in Section
-    1355.09(b)(1) for areas within 50 feet of a surface water or riparian or
+    the SWP3 shall comply with the stabilization requirements in [Section
+    1355.09(b)(1)][] for areas within 50 feet of a surface water or riparian or
     wetland setbacks if applicable, whichever is greater; and minimize soil
     compaction and, unless infeasible, preserve topsoil. If the applicant is
     permitted to disturb areas within 50 feet of a water resource, the following
@@ -1415,7 +1416,7 @@ Village of Chagrin Falls may require other BMPs as site conditions warrant.
     protect adjacent properties and water resources from sediment discharged via
     sheet (diffused) flow. Silt fence shall be placed along level contours and
     the permissible drainage area is limited to those indicated in Table 3 in
-    Section 1355.09 of these regulations.
+    [Section 1355.09][] of these regulations.
 
     7. _(7)_ **Internal Inspection and Maintenance.** All controls on the
     development area shall be inspected at least once every seven calendar days
@@ -1494,8 +1495,8 @@ Cuyahoga SWCD shall prepare and distribute a status report to the applicant.
 
 4. _(d)_ If an external inspection determines that operations are being
 conducted in violation of the approved SWP3 or Abbreviated SWP3 the Village
-Engineer and/or the Cuyahoga SWCD may take action as detailed in Section 1355.14
-of this regulation.
+Engineer and/or the Cuyahoga SWCD may take action as detailed in [Section
+1355.14][] of this regulation.
 
 5. _(e)_ Failure to maintain and repair erosion and sediment controls per the
 approved SWP3 or swp3 plan may result in the following escalation:
@@ -1592,3 +1593,12 @@ or to restrain, correct, or abate a violation, or to require compliance with the
 provisions of this regulation or other applicable laws, ordinances, rules, or
 regulations, or the orders of the Village of Chagrin Falls.\
 (Ord. 2016-80. Passed 12-12-16.)
+
+[Section 1355.01(d)]:</chapters/chapter-1355-erosion-and-sediment-control/#135501(d)>
+[Section 1355.06(a)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(a)>
+[Section 1355.06(b)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(b)>
+[Section 1355.09]:</chapters/chapter-1355-erosion-and-sediment-control/#135509-performance-standards>
+[Section 1355.09(b)(1)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(b)(1)>
+[Section 1355.09(g)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(g)>
+[Section 1355.14]:</chapters/chapter-1355-erosion-and-sediment-control/#135514-violations>
+[ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>

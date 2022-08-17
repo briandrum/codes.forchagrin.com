@@ -21,7 +21,7 @@ title: "Chapter 303: Enforcement, Impounding and Penalty"
 * [303.082   Private tow-away zones](#303082-private-tow-away-zones)
 * [303.09   Authority of arresting officer using radar](#30309-authority-of-arresting-officer-using-radar)
 * [303.10   Providing false information to police officer](#30310-providing-false-information-to-police-officer)
-* [303.99   General Traffic Code penalties](#30399-general-traffic-code-penalties)
+* [303.99   General code penalty](#30399-general-code-penalty)
 * [303.991   Committing an offense while distracted penalty](#303991-committing-an-offense-while-distracted-penalty)
 
 ## Cross references
@@ -220,8 +220,8 @@ the third degree.
 
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
-    offender is subject to the additional fine established under Section 303.991
-    of the Traffic Code.\
+    offender is subject to the additional fine established under [Section
+    303.991][] of the Traffic Code.\
     (ORC 4511.051)
 
 ## 303.07   Application to drivers of government vehicles
@@ -460,7 +460,7 @@ the transaction.
 
 6. _(f)_ This section does not apply to any private residential or private
 agricultural property that is established as a private tow-away zone in
-accordance with Section 303.082.
+accordance with [Section 303.082][].
 
 7. _(g)_ Whoever violates subsection (e) of this section is guilty of a minor
 misdemeanor.\
@@ -744,7 +744,7 @@ following:
 The driver of any motor vehicle which has been checked by radar or by any
 electrical or mechanical timing device to determine the speed of the motor
 vehicle over a measured distance of the highway and found to be in violation of
-any of the provisions of Section 333.03  may be arrested until a warrant can be
+any of the provisions of [Section 333.03][]  may be arrested until a warrant can be
 obtained, provided such officer has observed the recording of the speed of such
 motor vehicle by radio microwaves or an electrical or mechanical timing device
 or has received a radio message from the officer who observed the speed of the
@@ -819,7 +819,7 @@ specified, all of the following apply:
     2. _(2)_ "Distracted" does not include operating a motor vehicle while
     wearing an earphone or earplug over or in both ears at the same time. A
     person who so wears earphones or earplugs may be charged with a violation of
-    Section 331.43.
+    [Section 331.43][].
 
     3. _(3)_ "Distracted" does not include conducting any activity while
     operating a utility service vehicle or a vehicle for or on behalf of a
@@ -879,3 +879,8 @@ more than one hundred dollars ($100.00) as follows:
     than one hundred dollars ($100.00), so long as the offender submits to the
     court the offender's payment and such written evidence.\
     (ORC 4511.991)
+
+[Section 303.082]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303082-private-tow-away-zones>
+[Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
+[Section 331.43]:</chapters/chapter-331-operation-generally/#33143-shortcutting-evasion-of-traffic-control-signals-or-device>
+[Section 333.03]:</chapters/chapter-333-ovi-willful-misconduct-speed/#33303-maximum-speed-limits-assured-clear-distance-ahead>

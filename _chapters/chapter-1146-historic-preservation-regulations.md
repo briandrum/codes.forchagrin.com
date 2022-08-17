@@ -54,7 +54,7 @@ structures.\
 altered in exterior construction or appearance, enlarged, moved or demolished
 unless such action complies with the provisions of this chapter. Applicability
 of these provisions is limited to structures of historic significance and sites
-in proximity to such structures. See Section 1146.05 for an explanation of
+in proximity to such structures. See [Section 1146.05][] for an explanation of
 terms.
 
 2. _(b)_ The painting of buildings and structures shall not be governed by these
@@ -70,7 +70,7 @@ accordance with the regulations of this chapter.
 
 1. _(a)_ **Mandatory Referral.**
 
-    1. _(1)_ As directed by Section 1109.05(b)(1), all requests for building
+    1. _(1)_ As directed by [Section 1109.05(b)(1)][], all requests for building
     permits shall be referred to the Architectural Board of Review for a
     determination of compliance with this Chapter. The Architectural Board of
     Review may obtain the assistance of an expert in historic architecture to
@@ -86,7 +86,8 @@ accordance with the regulations of this chapter.
     Architectural Board of Review with a recommendation from the Administration
     as to whether or not the structure is a Historically Significant Property.
     The Architectural Board of Review shall apply the standards set forth in
-    Section 1146.06 hereof to determine whether or not demolition is permitted.
+    [Section 1146.06][] hereof to determine whether or not demolition is
+    permitted.
 
         1. _(A)_ **Advice of Expert on Historic Significance.** When an
         applicant requests a permit to demolish a structure or portion thereof
@@ -94,7 +95,7 @@ accordance with the regulations of this chapter.
         the assistance of an expert in the field of the history of architecture,
         who shall make a recommendation to the Architectural Board of Review
         regarding whether or not the structure is an Historically Significant
-        Property, as defined by Section 1146.05 of this Chapter. The expert
+        Property, as defined by [Section 1146.05][] of this Chapter. The expert
         shall be paid out of the deposit made pursuant to paragraph (a)(2)
         hereof, and the remaining funds from such deposit, if any, shall be
         returned to the applicant.
@@ -114,8 +115,8 @@ accordance with the regulations of this chapter.
         shall engage the assistance of an expert in the field of the history of
         architecture, who shall make a recommendation to the Architectural Board
         of Review regarding whether or not the structure is a Historically
-        Significant Property, as defined by Section 1146.05 of this Chapter, and
-        whether the proposed addition or alteration is Compatible with the
+        Significant Property, as defined by [Section 1146.05][] of this Chapter,
+        and whether the proposed addition or alteration is Compatible with the
         existing structure and other historic structures in proximity thereto.
         When the structure, or a portion thereof has been determined by the
         Municipality to be at least 100 years old, it shall be presumed to be a
@@ -130,20 +131,20 @@ accordance with the regulations of this chapter.
 
     3. _(3)_ Where an applicant for a building permit proposes to change the
     existing grade of a lot by more than three (3) inches, the Architectural
-    Board of Review shall review, in accordance with Section 1109.05 and this
-    Chapter 1146 of this Planning and Zoning Code, such change to ensure that
-    the proposed building elevations and site grading are compatible with
+    Board of Review shall review, in accordance with [Section 1109.05][] and
+    this Chapter 1146 of this Planning and Zoning Code, such change to ensure
+    that the proposed building elevations and site grading are compatible with
     contiguous property and that the proposed building meets the standards set
-    forth in Section 1115.04, failing which the Architectural Review Board shall
-    deny approval of such grade change.
+    forth in [Section 1115.04][], failing which the Architectural Review Board
+    shall deny approval of such grade change.
 
 2. _(b)_ **Approval/Disapproval.** The Architectural Board of Review shall
 either approve, approve with modification or disapprove the application in
-accordance with the review and approval procedures set forth in Section 1109.05.
-In conjunction with a motion to grant the request of the applicant, the members
-of the Architectural Board of Review shall identify facts which have been
-presented to the Architectural Board of Review which the members believe are
-supportive of their decision in the case. It is not sufficient for the
+accordance with the review and approval procedures set forth in [Section
+1109.05][]. In conjunction with a motion to grant the request of the applicant,
+the members of the Architectural Board of Review shall identify facts which have
+been presented to the Architectural Board of Review which the members believe
+are supportive of their decision in the case. It is not sufficient for the
 Architectural Board of Review to identify the ultimate fact to be determined
 (e.g., Compatibility or Historic Significance), but the members of the
 Architectural Board of Review, when stating or voting on the motion to grant the
@@ -183,7 +184,7 @@ signs and structures within the Municipality and the compatibility of proposed
 changes or proposed new buildings, signs and structures with such existing
 buildings, signs and structures;
 
-2. _(b)_ Consider the design standards of Section 1146.08; and
+2. _(b)_ Consider the design standards of [Section 1146.08][]; and
 
 3. _(c)_ Follow the guidelines set forth below:
 
@@ -260,7 +261,7 @@ this Chapter:
 
     4. _(4)_ If a party proposes the demolition of a Historically Significant
     Property, that party bears the burden of proving, by clear and convincing
-    evidence, that the demolition is permissible pursuant to Section 1146.06
+    evidence, that the demolition is permissible pursuant to [Section 1146.06][]
     hereof.\
     (Ord. 2019-39. Passed 8-13-19.)
 
@@ -310,8 +311,8 @@ not materially and adversely impact the economic or historical value of a
 Historically Significant Property.
 
 3. _(c)_ "Proximity" for the purpose of determining compatibility of design
-pursuant to Section 1146.04 means the potential for one property, by virtue of
-its location, to materially and adversely affect an Historically Significant
+pursuant to [Section 1146.04][] means the potential for one property, by virtue
+of its location, to materially and adversely affect an Historically Significant
 Property.
 
 4. _(d)_ "Economically Feasible" means that the costs of the necessary repair
@@ -448,21 +449,35 @@ in Sections 1131.07(a), 1131.07(b), 1131.07(c), and 1131.07(d).
 1131.08(b).
 
 8. _(h)_ Modification of side yard setback requirements in the Office District
-as set forth in Section 1135.04(c)(2).
+as set forth in [Section 1135.04(c)(2)][].
 
 9. _(i)_ Modification of side yard setback requirements in the Retail Business
-District as set forth in Section 1137.04(c)(2).
+District as set forth in [Section 1137.04(c)(2)][].
 
 10. _(j)_ Design regulations for canopies at automobile service stations in the
-Retail Business District as set forth in Section 1137.05(b)(3).
+Retail Business District as set forth in [Section 1137.05(b)(3)][].
 
 11. _(k)_ Modification of side yard setback requirements in the Central Shopping
-District as set forth in Section 1138.04.
+District as set forth in [Section 1138.04][].
 
-12. _(l)_ Fencing for utility uses as set forth in Section 1142.07(b).
+12. _(l)_ Fencing for utility uses as set forth in [Section 1142.07(b)][].
 
-13. _(m)_ Design standards for signs as set forth in Section 1143.08.
+13. _(m)_ Design standards for signs as set forth in [Section 1143.08][].
 
 14. _(n)_ Design standards for cluster development as set forth in Section
 1126.05(d) and 1125.05(h).\
 (Ord. 2019-39. Passed 8-13-19.)
+
+[Section 1109.05]:</chapters/chapter-1109-administration-and-enforcement/#110905-review-and-approval-procedures>
+[Section 1109.05(b)(1)]:</chapters/chapter-1109-administration-and-enforcement/#110905(b)(1)>
+[Section 1115.04]:</chapters/chapter-1115-design-review/#111504-standards-of-review>
+[Section 1135.04(c)(2)]:</chapters/chapter-1135-office-district/#113504(c)(2)>
+[Section 1137.04(c)(2)]:</chapters/chapter-1137-retail-business-district/#113704(c)(2)>
+[Section 1137.05(b)(3)]:</chapters/chapter-1137-retail-business-district/#113705(a)(3)>
+[Section 1138.04]:</chapters/chapter-1138-central-shopping-district/#113804-yard-and-setback-regulations>
+[Section 1142.07(b)]:</chapters/chapter-1142-landscaping-regulations/#114207(b)>
+[Section 1143.08]:</chapters/chapter-1143-signs/#114308-design-standards>
+[Section 1146.04]:</chapters/chapter-1146-historic-preservation-regulations/#114604-standards-of-review>
+[Section 1146.05]:</chapters/chapter-1146-historic-preservation-regulations/#114605-definitions>
+[Section 1146.06]:</chapters/chapter-1146-historic-preservation-regulations/#114606-demolition-and-moving>
+[Section 1146.08]:</chapters/chapter-1146-historic-preservation-regulations/#114608-supplemental-regulations>

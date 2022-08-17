@@ -108,8 +108,8 @@ conditions are not subject to competitive bidding and may be approved by
 Council, in its discretion, by motion and a majority vote of its members:
 
     1. _(1)_ **Personal or Professional Services.** Except as provided in
-    Section 105.02, contracts that involve personal services requiring unique
-    and special skills, as determined by Council in its discretion, or
+    [Section 105.02][], contracts that involve personal services requiring
+    unique and special skills, as determined by Council in its discretion, or
     professional services;
 
     2. _(2)_ **Co-op Programs.** Contracts authorized pursuant to the Ohio
@@ -179,8 +179,8 @@ the Village and the bidder whose bid the Village accepts and with respect to
 whom the Village subsequently awards and executes a contract. Such an agreed
 extension shall not entitle the contractor to delay costs.
 
-10. _(j)_ **Withdrawal of Bids.** Bidders may withdraw bids pursuant Section
-9.31 of the Ohio Revised Code; such a withdrawal shall not modify the Village's
+10. _(j)_ **Withdrawal of Bids.** Bidders may withdraw bids pursuant [Section
+9.31][ORC Section 9.31] of the Ohio Revised Code; such a withdrawal shall not modify the Village's
 right to award to the next lowest and best bidder.
 
 11. _(k)_ **Bids in Excess of Estimate.** The Village may award contracts
@@ -215,3 +215,6 @@ bonus for completion of a contract prior to a specified date or may exact
 liquidated damages for each day of delay beyond a specified date, or both. The
 amounts of the bonus and liquidated damages may be different.\
 (Ord. 2013-29. Passed 5-13-13.)
+
+[ORC Section 9.31]:<https://codes.ohio.gov/ohio-revised-code/section-9.31>
+[Section 105.02]:</chapters/chapter-105-public-contracts/#10502-professional-design-services-public-works>

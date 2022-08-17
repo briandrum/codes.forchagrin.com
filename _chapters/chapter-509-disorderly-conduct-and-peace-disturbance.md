@@ -531,5 +531,7 @@ may be enforced by the issuance of a citation per Criminal Rule 4.1.\
 
 ## 509.99   Penalty
 
-(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
-classification.)
+(Editor's note: See [Section 501.99][] for penalties applicable to any
+misdemeanor classification.)
+
+[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

@@ -50,8 +50,7 @@ and other applicable municipal ordinances and requirements.
 4. _(d)_ **Occupancy Permits.** Occupancy permits are established to authorize
 initial or replacement occupancy of a building, or part thereof, or land
 subsequent to completion of activity in compliance with the Planning and Zoning
-Code, Building Code and other applicable municipal ordinances and requirements. 
-
+Code, Building Code and other applicable municipal ordinances and requirements.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1109.02   Applicability
@@ -244,7 +243,7 @@ shall issue no permits or certificates prior to required approvals.
         the requirements of the Planning and Zoning Code and the Design
         Guidelines.
 
-            1. _(1)_ **Preliminary plan.** The applicant shall submit a
+            1. _(1)_ **Preliminary plan.** The application shall submit a
             preliminary plan of the proposed design that shall conform with the
             requirements set forth in Section 1109.04.
 

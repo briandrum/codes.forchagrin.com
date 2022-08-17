@@ -39,8 +39,8 @@ the curb, as shall be most appropriate to the particular street location.\
 
 ## 353.02   Designation of areas and zones
 
-Pursuant to Section 353.01, the following streets between the specified termini
-are hereby designated as parking meter areas and zones:
+Pursuant to [Section 353.01][], the following streets between the specified
+termini are hereby designated as parking meter areas and zones:
 
 1. _(a)_ (Editor's note: Former subsection (a) was repealed by Ordinance 2006-
 12, passed March 13, 2006.)
@@ -100,8 +100,8 @@ meter. The notice may be upon the parking meter stand or in the immediate
 vicinity. Any vehicle which remains in a metered parking zone after the
 prescribed time for parking has elapsed is hereby determined to be illegally
 parked. At each place where metered parking zones are so established as provided
-in Section 353.01, and are so marked off, each vehicle shall be parked entirely
-within a metered parking zone.\
+in [Section 353.01][], and are so marked off, each vehicle shall be parked
+entirely within a metered parking zone.\
 (Ord. 2017-74. Passed 11-13-17.)
 
 2. _(b)_ The provisions of this section shall not apply to vehicles parked upon
@@ -114,9 +114,9 @@ section Saturday afternoon shall not be considered a holiday.\
 
 1. _(a)_ No person shall park or cause, allow or permit to be parked any vehicle
 owned or operated by such person in any parking space without depositing the
-coin designated in Section 353.03 in the slot provided in such parking meter,
-and, if a hand-operated parking meter is installed, without turning the lever on
-the parking meter as far as it will go.
+coin designated in [Section 353.03][] in the slot provided in such parking
+meter, and, if a hand-operated parking meter is installed, without turning the
+lever on the parking meter as far as it will go.
 
 2. _(b)_ No person shall cause, allow, permit or suffer any vehicle registered
 in his name to be parked over-time or beyond the lawful period of time
@@ -140,11 +140,12 @@ time period beyond the original maximum authorized period.\
 
 5. _(e)_ It shall be unlawful for the driver, or the person in charge of a
 vehicle, to park a vehicle within the Central Shopping District, as designated
-on the Zone Map of the Municipality of Chagrin Falls, as provided for in Section
-1119.03 for more than three total hours in any nine hour span anywhere in the
-Central Shopping District between the hours of 9AM and 6PM during the weekdays
-of Monday through Friday, except that the provisions of this Section shall not
-apply to vehicles parked on the streets of the Village on declared holidays.\
+on the Zone Map of the Municipality of Chagrin Falls, as provided for in
+[Section 1119.03][] for more than three total hours in any nine hour span
+anywhere in the Central Shopping District between the hours of 9AM and 6PM
+during the weekdays of Monday through Friday, except that the provisions of this
+Section shall not apply to vehicles parked on the streets of the Village on
+declared holidays.\
 (Ord. 2019-15. Passed 3-11-19.)
 
 ## 353.05   Prima-facie evidence of unlawful parking
@@ -174,8 +175,8 @@ provided by such officer to the Clerk of Council.\
 
 ## 353.07   Application of fund
 
-The coins required to be deposited under the provisions of Section 353.06, or
-payment made by other means, including payment made by a mobile application
+The coins required to be deposited under the provisions of [Section 353.06][],
+or payment made by other means, including payment made by a mobile application
 payment system authorized by the Village is hereby levied as a regulation and
 inspection fee to cover the cost of inspection and regulation involved in the
 inspection, installation, operation, control and use of metered parking zones
@@ -209,5 +210,11 @@ Court.\
 
 ## 353.99   Penalty
 
-(Editor's note: See Section 303.99 for General Code Penalty if no specific
+(Editor's note: See [Section 303.99][] for General Code Penalty if no specific
 penalty is provided.)
+
+[Section 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
+[Section 353.01]:</chapters/chapter-351-parking-generally/#35101-police-may-remove-unattended-vehicle-which-obstructs-traffic>
+[Section 353.03]:</chapters/chapter-351-parking-generally/#35103-prohibited-standing-or-parking-places>
+[Section 353.06]:</chapters/chapter-351-parking-generally/#35106-selling-washing-or-repairing-vehicle-upon-roadway-advertising>
+[Section 1119.03]:</chapters/chapter-1119-districts-established-zoning-map/#111903-district-boundary-lines>

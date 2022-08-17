@@ -69,7 +69,7 @@ allocated into the General Fund.
     uniform rate on all persons residing in or earning or receiving income in
     the Municipality. The tax is levied on income, qualifying wages, commissions
     and other compensation, and on net profits as hereinafter provided in
-    Section 124.03 of this chapter and other sections as they may apply.
+    [Section 124.03][] of this chapter and other sections as they may apply.
 
     2. _(2)_ Intentionally left blank.
 
@@ -151,7 +151,7 @@ the feminine and the gender-neutral.
         or indirectly by the taxpayer and included in the taxpayer's federal
         taxable income unless an affiliated group of corporations includes that
         net profit in the group's federal taxable income in accordance with
-        division (V)(3)(b) of Section 124.05.
+        division (V)(3)(b) of [Section 124.05][].
 
         10. _(j)_ Add any loss incurred by a pass-through entity owned directly
         or indirectly by the taxpayer and included in the taxpayer's federal
@@ -3059,7 +3059,7 @@ accommodations, during any calendar year, or part thereof, commencing with the
 effective date of this section, shall file with the Tax Administrator on or
 before July 31st of each calendar year and the January 31 first following such
 calendar year a written report disclosing the name, address and also telephone
-number, if available, of each tenant known to have occupied on June 30th and
+number, if available, of each tenant known to have occupied on June 31st and
 December 31 during such calendar year such apartment, room or other residential
 dwelling rental property.
 
@@ -4351,3 +4351,6 @@ Section 124.16 constitutes a separate offense.
 shall be subject to the penalties provided for in Section 124.99 (A) of this
 Chapter.\
 (Ord. 2018-22. Passed 3-26-18.)
+
+[Section 124.03]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403-imposition-of-tax>
+[Section 124.05]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405-annual-return-filing>

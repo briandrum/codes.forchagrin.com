@@ -20,7 +20,7 @@ title: "Chapter 917: Sanitary Sewer Charges"
 ## Cross references
 
 * Weekly deposit of sewer rentals collected - see Ohio R. C. 729.52
-* Treatment and tests - see [Streets & Public Services 911.09]({% link _chapters/chapter-911-sewers-generally.md %})
+* Treatment and tests - see Streets & Public Services [911.09][Section 911.09]
 
 ## 917.01   Definitions
 
@@ -269,3 +269,5 @@ order to convert the same into acceptable industrial wastes.\
 Whoever violates any of the provisions of this chapter shall be fined not more
 than five hundred dollars ($500.00) or imprisoned not more than six months, or
 both. Each day such violation continues shall constitute a separate offense.
+
+[Section 911.09]:</chapters/chapter-911-sewers-generally/#91109-treatment-tests-special-agreements>

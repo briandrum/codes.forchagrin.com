@@ -19,8 +19,8 @@ title: "Chapter 1151: Riparian Buffer Regulations"
 
 ## 1151.01   Intent
 
-In addition to the applicable provisions stated in Section 1105.03, it is the
-intent of these regulations to achieve the following objectives:
+In addition to the applicable provisions stated in [Section 1105.03][], it is
+the intent of these regulations to achieve the following objectives:
 
 1. _(a)_ Limit impact of land uses on rivers in order to preserve and conserve
 the quality, purity, clarity and free-flowing condition of streams;
@@ -77,3 +77,5 @@ setback is declared inapplicable as a result of any legislative or
 administrative actions, or judicial declaration, the basic underlying district
 provision shall remain applicable.\
 (Ord. 2019-39. Passed 8-13-19.)
+
+[Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>

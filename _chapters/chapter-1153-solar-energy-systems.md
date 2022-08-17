@@ -21,9 +21,9 @@ title: "Chapter 1153: Solar Energy Systems"
 
 ## 1153.01   Intent
 
-In addition to the applicable provisions of the intent stated in Section
-1105.03, it is the intent of these regulations to provide for the placement of
-solar energy systems to achieve the following objectives:
+In addition to the applicable provisions of the intent stated in [Section
+1105.03][], it is the intent of these regulations to provide for the placement
+of solar energy systems to achieve the following objectives:
 
 1. _(a)_ To regulate the construction, modification, operation and abandonment
 of solar energy systems;
@@ -76,7 +76,7 @@ without first obtaining a permit.\
 
 ## 1153.04   Application requirements
 
-In addition to the application requirements set forth in Section 1109.04, an
+In addition to the application requirements set forth in [Section 1109.04][], an
 application for a solar energy system shall include:
 
 1. _(a)_ The manufacturer's specifications.
@@ -207,3 +207,6 @@ include, but not be limited to:
 2. _(b)_ Restoration of the location of the solar energy system to its prior
 condition.\
 (Ord. 2019-39. Passed 8-13-19.)
+
+[Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
+[Section 1109.04]:</chapters/chapter-1109-administration-and-enforcement/#110904-application-requirements>

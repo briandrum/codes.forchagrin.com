@@ -223,8 +223,8 @@ degree.
 
 ## 521.07   Fences
 
-(Editor's note: Former Section 521.07 was repealed by Ordinance 1995-18, passed
-April 10, 1995.)
+(Editor's note: Former [Section 521.07][] was repealed by Ordinance 1995-18,
+passed April 10, 1995.)
 
 ## 521.08   Littering and deposit of garbage, rubbish, junk, etc
 
@@ -506,7 +506,7 @@ person has been notified to do so by the Fire Chief.\
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the first
 degree.
 
-## 521.14   Storage and keeping of manure 
+## 521.14   Storage and keeping of manure
 
 1. _(a)_ No person shall keep, store, gather or accumulate any manure at any
 place within the Municipality for any purposes, other than for use upon the
@@ -542,5 +542,8 @@ convictions thereafter.\
 
 ## 521.99   Penalty
 
-(Editor's note: See Section 501.99 for penalties applicable to any misdemeanor
-classification.)
+(Editor's note: See [Section 501.99][] for penalties applicable to any
+misdemeanor classification.)
+
+[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[Section 521.07]:</chapters/chapter-521-health-safety-and-sanitation/#52107-fences>

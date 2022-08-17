@@ -185,9 +185,10 @@ entered into pursuant to Ohio R.C. 4506.09.
 
 ## 341.02   Exemptions
 
-Section 341.02 has been deleted from the Codified Ordinances. Former Ohio R.C.
-4506.02 from which Section 341.02 was derived was repealed by Am. Sub. H.B. No.
-68, effective June 29, 2005. The exemptions are now contained in Section 341.03.
+[Section 341.02][] has been deleted from the Codified Ordinances. Former Ohio
+R.C. 4506.02 from which [Section 341.02][] was derived was repealed by Am. Sub.
+H.B. No. 68, effective June 29, 2005. The exemptions are now contained in
+[Section 341.03][].
 
 ## 341.03   Prerequisites to operation of a commercial motor vehicle
 
@@ -382,7 +383,7 @@ of the following apply:
     4. _(4)_ The driver has more than one driver's license.
 
 3. _(c)_ No employer shall knowingly permit or authorize a driver to operate a
-commercial motor vehicle in violation of Section 341.05.
+commercial motor vehicle in violation of [Section 341.05][].
 
 4. _(d)_ No employer shall knowingly permit or authorize a driver to operate a
 commercial motor vehicle if the driver does not hold a valid, current commercial
@@ -400,3 +401,7 @@ commercial driver's license temporary instruction permit.
     2. _(2)_ Whoever violates subsection (c) of this section may be assessed a
     fine not to exceed ten thousand dollars.\
     (ORC 4506.20)
+
+[Section 341.02]:</chapters/chapter-341-commercial-drivers/#34102-exemptions>
+[Section 341.03]:</chapters/chapter-341-commercial-drivers/#34103-prerequisites-to-operation-of-a-commercial-motor-vehicle>
+[Section 341.05]:</chapters/chapter-341-commercial-drivers/#34105-criminal-offenses>

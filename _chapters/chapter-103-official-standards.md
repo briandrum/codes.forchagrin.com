@@ -52,5 +52,7 @@ The following bench marks are established as datum planes for the Municipality:
 ## 103.02   Grade to be referenced to bench marks
 
 All grades established shall have reference to the levels of datum planes set
-forth in Section 103.01.\
+forth in [Section 103.01][].\
 (Ord.1957-420. Passed 12-28-57.)
+
+[Section 103.01]:</chapters/chapter-103-official-standards/#10301-bench-marks>

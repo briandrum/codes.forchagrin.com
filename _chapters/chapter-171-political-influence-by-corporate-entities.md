@@ -49,6 +49,8 @@ contributions and spending does not equate to limiting political speech.\
 ## 171.03   Termination of public hearing
 
 The biennial Public Hearings will no longer be required if and when a
-Constitutional Amendment reflecting the principles set forth in Section 171.02
-is ratified by three-quarters (3/4) of the State legislatures.\
+Constitutional Amendment reflecting the principles set forth in [Section
+171.02][] is ratified by three-quarters (3/4) of the State legislatures.\
 (Approval by voters 11-4-14)
+
+[Section 171.02]:</chapters/chapter-171-political-influence-by-corporate-entities/#17102-summary-of-public-hearing>

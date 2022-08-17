@@ -78,7 +78,7 @@ constitutes an unsanitary condition; lends itself to habitation or infestation
 by rodents, termites or other vermin.
 
 3. _(c)_ "Building or Structure" means buildings or structure as defined by
-Section 1107.06 of the Codified Ordinances of the Village of Chagrin Falls.
+[Section 1107.06][] of the Codified Ordinances of the Village of Chagrin Falls.
 
 4. _(d)_ "Demolish" or "Demolition" means any act or process that destroys in
 whole or in part any building or structure.
@@ -359,7 +359,7 @@ and shall be maintained so as to resist decay or deterioration from any cause.
 2. _(b)_ Any main structure or secondary or appurtenant structure whose exterior
 surface is deteriorated shall be repaired, demolished or restored. No
 Historically Significant Property shall be demolished unless one of the
-conditions set forth in Section 1146.06 of the Codified Ordinances exists.
+conditions set forth in [Section 1146.06][] of the Codified Ordinances exists.
 
     1. _(1)_ All buckled, rotted, cracked, missing or decayed walls, doors,
     windows, window panes, porches, floors, steps, railings, soffits, posts,
@@ -642,14 +642,14 @@ utilities to shut off service to the property pursuant to Chapter 1340. Unless
 so declared in writing by the Building Inspector, such securing shall not be
 deemed to constitute "effective boarding" under this section, and it does not
 abate the nuisance condition of an unsafe structure, as declared under division
-(1) of this section. Later notice, issued under Section 1340.08, shall include
-the fact that the Building Inspector found it necessary to take appropriate
-action to secure the structure.\
+(1) of this section. Later notice, issued under [Section 1340.08][], shall
+include the fact that the Building Inspector found it necessary to take
+appropriate action to secure the structure.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.23   Vacating building and prohibiting use
 
-In the notice issued pursuant to Section 1340.08, the Building Inspector may
+In the notice issued pursuant to [Section 1340.08][], the Building Inspector may
 also require that the building, structure or a portion of those be vacated, not
 be reoccupied, or used until the specified repairs and improvements are
 completed, inspected, and approved by the Building Inspector. The Building
@@ -745,18 +745,19 @@ may make written return to the County Fiscal Officer of the action under this
 section with a statement of the charges for services, the amount paid for the
 performing of labor and a proper description of the premises including all costs
 to be paid by the property owner pursuant to this chapter, including the total
-cost of all abatement activity as defined in Revised Code Section 715.261.
+cost of all abatement activity as defined in Revised Code [Section 715.261][ORC
+Section 715.261].
 
 11. _(k)_ Certification to the County Fiscal Officer is for the purpose of
 making expenses and costs a lien upon the lands, to be collected as other taxes
 and returned to the Village with the General Fund, with special accounting under
-Revised Code Section 715.261. Notwithstanding the method of collection set forth
-in this division, the Director of Law, in the Director's sole discretion, may
-take any action necessary to collect the costs of demolition, boarding, or other
-nuisance abatement from the owner or other responsible party, including but not
-limited to filing of legal proceedings, referring the amount due for collection
-action, including filing civil complaints, and initiating post judgment
-execution actions.\
+Revised Code [Section 715.261][ORC Section 715.261]. Notwithstanding the method
+of collection set forth in this division, the Director of Law, in the Director's
+sole discretion, may take any action necessary to collect the costs of
+demolition, boarding, or other nuisance abatement from the owner or other
+responsible party, including but not limited to filing of legal proceedings,
+referring the amount due for collection action, including filing civil
+complaints, and initiating post judgment execution actions.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.25   Utility services
@@ -820,3 +821,8 @@ the first degree, and shall be fined not more than one thousand dollars ($1,000)
 or imprisoned not more than six months, or both. A separate offense shall be
 deemed committed each day during or on which an offense occurs or continues.\
 (Ord. 2016-61. Passed 10-24-16.)
+
+[Section 1107.06]:</chapters/chapter-1107-definitions/#110706-buildings-and-structures>
+[Section 1146.06]:</chapters/chapter-1146-historic-preservation-regulations/#114606-demolition-and-moving>
+[Section 1340.08]:</chapters/chapter-1340-maintenance-of-structures-and-premises/#134008-notice-of-violation>
+[ORC Section 715.261]:<https://codes.ohio.gov/ohio-revised-code/section-715.261>

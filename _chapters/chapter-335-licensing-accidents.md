@@ -279,8 +279,8 @@ of midnight and six a.m.
     custodian holds a current valid driver's or commercial driver's license
     issued by this State and is actually occupying a seat beside the permit
     holder, and does not have a prohibited concentration of alcohol in the whole
-    blood, blood serum or plasma, breath, or urine as provided in Section
-    333.01(a).
+    blood, blood serum or plasma, breath, or urine as provided in [Section
+    333.01(a)][].
 
 3. _(c)_ As used in this section:
 
@@ -664,11 +664,11 @@ this section.
         guilty of a misdemeanor of the first degree.
 
     3. _(3)_ For any violation of this section, in addition to the penalties
-    imposed under Section 303.99, the court may impose a class seven suspension
-    of the offender's driver's license, commercial driver's license, temporary
-    instruction permit, probationary license or nonresident operating privilege
-    from the range specified in division (A)(7) of Ohio R.C. 4510.02, and, if
-    the vehicle involved in the offense is registered in the name of the
+    imposed under [Section 303.99][], the court may impose a class seven
+    suspension of the offender's driver's license, commercial driver's license,
+    temporary instruction permit, probationary license or nonresident operating
+    privilege from the range specified in division (A)(7) of Ohio R.C. 4510.02,
+    and, if the vehicle involved in the offense is registered in the name of the
     offender, the court may order one of the following:
 
         1. _(A)_ Except as otherwise provided in subsection (c)(3)B. or C. of
@@ -1646,3 +1646,6 @@ first degree.
     proximate result of the offender's operation of the motor vehicle before,
     during or after committing the offense charged under this section.\
     (ORC 4549.03)
+
+[Section 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
+[Section 333.01(a)]:</chapters/chapter-333-ovi-willful-misconduct-speed/#33301(a)(1)>

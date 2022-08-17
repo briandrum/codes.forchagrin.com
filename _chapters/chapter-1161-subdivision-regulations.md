@@ -423,10 +423,10 @@ following information:
     tree clusters to be retained and those to be removed.
 
     22. _(22)_ Proposed and existing signs, shown in accordance with the
-    application requirements of Section 1143.05(b).
+    application requirements of [Section 1143.05(b)][].
 
 6. _(f)_ **Supplementary Information.** The following information shall be
-supplied in addition to the requirements in Section 1161.04(c).
+supplied in addition to the requirements in [Section 1161.04(c)][].
 
     1. _(1)_ Statement of proposed use of lots, giving type and number of
     dwelling units and type of business or industry.
@@ -455,7 +455,7 @@ supplied in addition to the requirements in Section 1161.04(c).
     is in effect.
 
     8. _(8)_ Certification of compliance with environmental performance
-    regulations as required in Section 1144.03.
+    regulations as required in [Section 1144.03][].
 
     9. _(9)_ For all uses proposed or to be retained: building and structure
     heights, number of parking spaces, number of dwelling units, total building
@@ -471,7 +471,7 @@ supplied in addition to the requirements in Section 1161.04(c).
 7. _(g)_ **Filing.** The preliminary plat shall be considered officially filed
 after it has been reviewed for all required information and found complete, a
 non-refundable one thousand five hundred dollar ($1,500) filing fee and also a
-professional-fee deposit, pursuant to Section 1161.09(b), are paid and it is
+professional-fee deposit, pursuant to [Section 1161.09(b)][], are paid and it is
 stamped by the Village Administrator and dated.\
 (Ord. 2009-66. Passed 12-14-09.)
 
@@ -625,7 +625,7 @@ the final plat within thirty days to the Commission for it final approval. If a
 plat is refused by the Commission, the person submitting the plat which the
 Commission refused to approve may file with the Administrator an application for
 appeal of the decision, for review by the Board of Zoning Appeals within thirty
-days of Commission refusal of plat, as required in Section 1111.03.
+days of Commission refusal of plat, as required in [Section 1111.03][].
 
 18. _(r)_ **Transmittal of Copies.** When the final plat has been approved by
 the Planning and Zoning Commission, the original tracing shall be returned to
@@ -1213,8 +1213,8 @@ Regulations.
 
 4. _(d)_ **Schedule of Fees, Charges and Expenses.** Council shall establish a
 schedule of fees, charges and expenses, and a collection procedure for same, and
-other matters pertaining to these Regulations, as stated in Section 1109.08. The
-schedule of fees shall be posted in the office of Village Clerk and may be
+other matters pertaining to these Regulations, as stated in [Section 1109.08][].
+The schedule of fees shall be posted in the office of Village Clerk and may be
 altered or amended only by Council. Until all applicable fees, charges and
 expenses have been paid in full, no action shall be taken on any application or
 appeal.
@@ -1253,12 +1253,12 @@ the subdivider.\
 2. _(b)_ Preliminary Plat.
 
     1. _(1)_ Applicant shall submit eight copies of the preliminary plat and
-    supplemental information as listed in Section 1161.04(d), (e) and (f) to the
-    Village Administrator. The Administrator shall file the preliminary plat
-    after he/she has determined it is complete. When it is found complete and
-    the filing fee and required deposit is paid, the preliminary plat shall be
-    stamped, dated and the thirty-day review period shall begin (unless an
-    extension is agreed upon).
+    supplemental information as listed in [Section 1161.04(d)][], [(e)][Section
+    1161.04(e)] and [(f)][Section 1161.04(f)] to the Village Administrator. The
+    Administrator shall file the preliminary plat after he/she has determined it
+    is complete. When it is found complete and the filing fee and required
+    deposit is paid, the preliminary plat shall be stamped, dated and the
+    thirty-day review period shall begin (unless an extension is agreed upon).
 
     2. _(2)_ A deposit shall be made for services performed by the Municipal
     Engineer, Planning Consultant and Law Director and any other professionals
@@ -1404,3 +1404,13 @@ County by the legal representative of the Municipality in the name of the
 Municipality, in addition to any other criminal or civil remedies available
 under law.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
+
+[Section 1109.08]:</chapters/chapter-1109-administration-and-enforcement/#110908-fees-and-deposits>
+[Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
+[Section 1143.05(b)]:</chapters/chapter-1143-signs/#114305(b)>
+[Section 1144.03]:</chapters/chapter-1144-environmental-performance-regulations/#114403-proposed-uses-and-facilities>
+[Section 1161.04(c)]:</chapters/chapter-1161-subdivision-regulations/#116104(c)>
+[Section 1161.04(d)]:</chapters/chapter-1161-subdivision-regulations/#116104(d)>
+[Section 1161.04(e)]:</chapters/chapter-1161-subdivision-regulations/#116104(e)>
+[Section 1161.04(f)]:</chapters/chapter-1161-subdivision-regulations/#116104(f)>
+[Section 1161.09(b)]:</chapters/chapter-1161-subdivision-regulations/#116109(b)>
