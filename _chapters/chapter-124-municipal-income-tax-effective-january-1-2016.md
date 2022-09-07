@@ -1388,27 +1388,28 @@ the benefit of, the employee.
         which the employee spends the greatest number of days in a calendar year
         performing services for or on behalf of the employee's employer.
 
-        If there is not a single municipal corporation in which the employee
-        spent the "greatest number of days in a calendar year" performing
-        services for or on behalf of the employer, but instead there are two or
-        more municipal corporations in which the employee spent an identical
-        number of days that is greater than the number of days the employee
-        spent in any other municipal corporation, the employer shall allocate
-        any of the employee's qualifying wages subject to division (C)(2)(a)(i)
-        of this section among those two or more municipal corporations. The
-        allocation shall be made using any fair and reasonable method,
-        including, but not limited to, an equal allocation among such municipal
-        corporations or an allocation based upon the time spent or sales made by
-        the employee in each such municipal corporation. A municipal corporation
-        to which qualifying wages are allocated under this division shall be the
-        employee's "principal place of work" with respect to those qualifying
-        wages for the purposes of this section.
+            If there is not a single municipal corporation in which the employee
+            spent the "greatest number of days in a calendar year" performing
+            services for or on behalf of the employer, but instead there are two
+            or more municipal corporations in which the employee spent an
+            identical number of days that is greater than the number of days the
+            employee spent in any other municipal corporation, the employer
+            shall allocate any of the employee's qualifying wages subject to
+            division (C)(2)(a)(i) of this section among those two or more
+            municipal corporations. The allocation shall be made using any fair
+            and reasonable method, including, but not limited to, an equal
+            allocation among such municipal corporations or an allocation based
+            upon the time spent or sales made by the employee in each such
+            municipal corporation. A municipal corporation to which qualifying
+            wages are allocated under this division shall be the employee's
+            "principal place of work" with respect to those qualifying wages for
+            the purposes of this section.
 
-        For the purposes of this division, the location at which an employee
-        spends a particular day shall be determined in accordance with division
-        (C)(2)(b) of this section, except that "location" shall be substituted
-        for "municipal corporation" wherever "municipal corporation" appears in
-        that division.
+            For the purposes of this division, the location at which an employee
+            spends a particular day shall be determined in accordance with
+            division (C)(2)(b) of this section, except that "location" shall be
+            substituted for "municipal corporation" wherever "municipal
+            corporation" appears in that division.
 
         4. _(d)_ "Professional athlete" means an athlete who performs services
         in a professional athletic event for wages or other remuneration.

@@ -11,7 +11,7 @@ title: "Chapter 931: Water"
 * [931.01   Mayor's authority to limit water use](#93101-mayors-authority-to-limit-water-use)
 * [931.02   Water rates](#93102-water-rates)
 * [931.03   Water connection charges](#93103-water-connection-charges)
-* [931.04   Billing periods, surcharge for late payment](#93104-billing-periods-surcharge-for-late-payment) (Repealed)
+* [931.04   Billing periods: surcharge for late payments](#93104-billing-periods-surcharge-for-late-payments) (Repealed)
 * [931.05   Meter rental charges](#93105-meter-rental-charges)
 * [931.06   Miscellaneous charges](#93106-miscellaneous-charges) (Repealed)
 * [931.07   Extensions outside Municipality prohibited](#93107-extensions-outside-municipality-prohibited) (Repealed)

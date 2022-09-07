@@ -122,12 +122,11 @@
 }
 
 .Chapter h4 {
-  font-family: var(--Markdown-h3-fontFamily);
-  color: var(--Markdown-h3-color);
-  font-size: var(--Markdown-h3-fontSize);
-  font-weight: var(--Markdown-h3-fontWeight);
-  line-height: var(--Markdown-h3-lineHeight);
-  margin-top: 1em;
+  font-family: var(--Chapter-h4-fontFamily);
+  color: var(--Chapter-h4-color);
+  font-size: var(--Chapter-h4-fontSize);
+  font-weight: var(--Chapter-h4-fontWeight);
+  line-height: var(--Chapter-h4-lineHeight);
 }
 
 .Chapter :is(h2, h3, h4) > a,

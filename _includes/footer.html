@@ -76,7 +76,7 @@
           ($em && $em.nextSibling)) {                                                     // paragraphs with subsection number and content
         $searchTarget = $p.previousElementSibling;                                        // get the previous sibling element
         while ($searchTarget) {
-          if (($searchTarget.tagName === "H2") || ($searchTarget.tagName === "H3") || ($searchTarget.tagName === "H4")) {
+          if (/^H\d/.test($searchTarget.tagName)) {                                       // if it's an H1, H2, H3, H4, or H5 element
             $headingText = $searchTarget.id.match(/^(([\d\.])+)|(appendix-[\w]+)|(section-[ivx]+-[\d]+)/g);
             break;
           };
@@ -98,7 +98,7 @@
         if ($parentList) {
           $searchTarget = $parentList.previousElementSibling;
           while ($searchTarget) {
-            if (($searchTarget.tagName === "H2") || ($searchTarget.tagName === "H3") || ($searchTarget.tagName === "H4")) {
+            if (/^H\d/.test($searchTarget.tagName)) {                                       // if it's an H1, H2, H3, H4, or H5 element
               $headingText = $searchTarget.id.match(/^(([\d\.])+)|(appendix-[\w]+)|(section-[ivx]+-[\d]+)/g);
               break;
             };
@@ -140,7 +140,7 @@
       if ($parentList) {
         $searchTarget = $parentList.previousElementSibling;
         while ($searchTarget) {
-          if (($searchTarget.tagName === "H2") || ($searchTarget.tagName === "H3") || ($searchTarget.tagName === "H4")) {
+          if (/^H\d/.test($searchTarget.tagName) && (/^(([\d\.])+)|(appendix-)|(section-)/.test($searchTarget.id))) {
             $headingText = $searchTarget.id.match(/^(([\d\.])+)|(appendix-[\w]+)|(section-[ivx]+-[\d]+)/g);
             break;
           };

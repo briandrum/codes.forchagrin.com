@@ -1325,7 +1325,7 @@ of this chapter as though the same were continuing.\
 [Section 126.0101]:</chapters/chapter-126-municipal-income-tax/#1260101-purpose-of-levy-of-income-tax>
 [Section 126.0701(a)]:</chapters/chapter-126-municipal-income-tax/#1260701(a)>
 [Section 126.0701(b)]:</chapters/chapter-126-municipal-income-tax/#1260701(b)>
-[Section 126.0701(c)]:<>
+[Section 126.0701(c)]:</chapters/chapter-126-municipal-income-tax/#1260701(c)>
 [Section 126.0701]:</chapters/chapter-126-municipal-income-tax/#1260701-method-of-determination>
 [Section 126.0501(c)]:</chapters/chapter-126-municipal-income-tax/#1260501(c)>
 [Section 126.0501(d)]:</chapters/chapter-126-municipal-income-tax/#1260501(d)>
