@@ -243,7 +243,7 @@ shall issue no permits or certificates prior to required approvals.
         the requirements of the Planning and Zoning Code and the Design
         Guidelines.
 
-            1. _(1)_ **Preliminary plan.** The application shall submit a
+            1. _(1)_ **Preliminary plan.** The applicant shall submit a
             preliminary plan of the proposed design that shall conform with the
             requirements set forth in Section 1109.04.
 

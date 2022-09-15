@@ -93,6 +93,7 @@
   text-decoration-color: inherit;
   text-decoration-line: inherit;
   text-decoration-thickness: inherit;
+  text-transform: none; // prevent any other rules from transforming the text
   text-underline-offset: inherit;
   width: 3em;
 }
