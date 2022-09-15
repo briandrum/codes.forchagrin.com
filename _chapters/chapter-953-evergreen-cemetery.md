@@ -235,8 +235,8 @@ is 11″ wide by 11″ high by 13″ long. The maximum for each urn when there a
 urns is 5″ wide by 6″ long by 11″ high.\
 (Ord. 2020-40. Passed 9-14-20.)
 
-13. _(m)_ Engraving of the face plat is $350.00 for one name and $525.00 for two
-names. All engraving is done through the Village. Only the name and date of
+13. _(m)_ Engraving of the face plate is $350.00 for one name and $525.00 for
+two names. All engraving is done through the Village. Only the name and date of
 birth & death are permitted on the face plate.
 
 14. _(n)_ All interments will be done by Village employees.

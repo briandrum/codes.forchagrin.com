@@ -575,9 +575,7 @@ amounts by the Court.\
     any, to remove the registration block when the fine is paid.\
     (Ord. 2017-05. Passed 2-13-17.)
 
-3. _(c)_ .
-
-4. _(d)_ Payment of the sum of money required by subsection (b) hereof shall be
+4. _(c)_ Payment of the sum of money required by subsection (b) hereof shall be
 paid exclusively by (i) United States legal tender notes, known as Federal
 Reserve notes, (ii) an authorized check drawn on a bank that has readily payable
 funds to cover the check when drawn on by the Municipality, or (iii) by a credit

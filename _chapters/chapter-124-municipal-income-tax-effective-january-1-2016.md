@@ -3060,7 +3060,7 @@ accommodations, during any calendar year, or part thereof, commencing with the
 effective date of this section, shall file with the Tax Administrator on or
 before July 31st of each calendar year and the January 31 first following such
 calendar year a written report disclosing the name, address and also telephone
-number, if available, of each tenant known to have occupied on June 31st and
+number, if available, of each tenant known to have occupied on June 30th and
 December 31 during such calendar year such apartment, room or other residential
 dwelling rental property.
 
