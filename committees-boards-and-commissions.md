@@ -93,6 +93,6 @@ These are groups made up primarily of residents with one member of council as a 
 
 ## Other
 
-### Business District Liason
+### Merchant Liaison
 
 - Angie DeBernardo

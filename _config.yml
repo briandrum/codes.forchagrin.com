@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
 # this and add the path to the pages in order as they should show up
 header_pages:
  - index.md
- - committees-boards-and-commissions.md
+ - search.md
 
 collections:
   articles:

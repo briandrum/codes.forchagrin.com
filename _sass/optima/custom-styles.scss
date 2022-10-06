@@ -31,6 +31,10 @@
   position: relative;
 }
 
+.Markdown *::target-text {
+  background-color: var(--yellow8);
+}
+
 .Markdown :is(h2, h3, h4):target,
 .Markdown :is(h2, h3, h4):target + :is(ol, p, table, ul),
 .Markdown :is(h2, h3, h4):target + :is(ol, p, table, ul) + :is(ol, p, table, ul),
@@ -64,7 +68,7 @@
 .Chapter li:target > em > a:hover,
 .Chapter p:target > small > a,
 .Chapter p:target > small > a:hover {
-    color: var(--yellow8);
+  color: var(--yellow8);
 }
 
 .Markdown :is(h2, h3, h4):target,

@@ -1,0 +1,53 @@
+---
+permalink: /search.json
+---
+
+{%- assign counter = 0 -%}
+{%- assign articles = site.articles | sort: "article_no"  -%}
+{%- assign chapters = site.chapters | sort: "chapter_no"  -%}
+
+{%- capture newline %}
+{% endcapture -%}
+
+{%- comment -%}
+| markdownify            Convert a Markdown-formatted string into HTML.
+| replace: newline, ' '  Removes new lines.
+| replace: '\', '. '     Replace escape character with a space and a period.
+| replace: '&amp;', '&'  Unecape ampersand characters.
+| replace: '</h1>', '. '
+| replace: '</h2>', '. ' Replaces all section heading elements with a
+| replace: '</h3>', '. ' period and a space.
+| replace: '</h4>', '. '
+| replace: '</h5>', '. '
+| replace: '</li>', '. ' Ends list items with a period + space.
+| replace: '</p>', ' '   Add a space after paragraphs.
+| strip_html             Removes any HTML tags from a string.
+| strip_newlines         Removes any newline characters (line breaks) from a string.
+| strip                  Removes all whitespace (tabs, spaces, and newlines) from both the left and right sides of a string.
+| normalize_whitespace   Replace any occurrence of whitespace with a single space.
+| replace: '. . ', '. '  Removes double periods.
+| replace: '. . ', '. '  Removes more double periods.
+| replace: '"', ' '      Replaces quote marks with a space.
+{%- endcomment -%}
+
+[{% for article in articles %}{
+  "id": {{ counter }},
+  "url": "{{ site.url }}{{ article.url }}",
+  "title": "{{ article.title }}",
+  "body": "{{ article.content | markdownify | replace: newline, ' ' | replace: '\', '. ' | replace: '&amp;', '&' | replace: '</h1>', '. ' | replace: '</h2>', '. ' | replace: '</h3>', '. ' | replace: '</h4>', '. ' | replace: '</h5>', '. ' | replace: '</li>', '. ' | replace: '</p>', ' ' | strip_html | strip_newlines | strip | normalize_whitespace | replace: '. . ', '. '| replace: '"', ' '}}"{% assign counter = counter | plus: 1 %}
+  }, {% endfor %}{% for chapter in chapters %}{
+  "id": {{ counter }},
+  "url": "{{ site.url }}{{ chapter.url }}",
+  "title": "{{ chapter.title }}",
+  "body": "{{ chapter.content | markdownify | replace: newline, ' ' | replace: '\', '. ' | replace: '&amp;', '&' | replace: '</h1>', '. ' | replace: '</h2>', '. ' | replace: '</h3>', '. ' | replace: '</h4>', '. ' | replace: '</h5>', '. ' | replace: '</li>', '. ' | replace: '</p>', ' ' | strip_html | strip_newlines | strip | normalize_whitespace | replace: '. . ', '. '| replace: '"', ' '}}"{% assign counter = counter | plus: 1 %}
+  }, {% endfor %}{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' or page.url contains 'search' %}{% else %}{
+  "id": {{ counter }},
+  "url": "{{ site.url }}{{ page.url }}",
+  "title": "{{ page.title }}",
+  "body": "{{ page.content | markdownify | replace: newline, ' ' | replace: '\', '. ' | replace: '&amp;', '&' | replace: '</h1>', '. ' | replace: '</h2>', '. ' | replace: '</h3>', '. ' | replace: '</h4>', '. ' | replace: '</h5>', '. ' | replace: '</li>', '. ' | replace: '</p>', ' ' | strip_html | strip_newlines | strip | normalize_whitespace | replace: '. . ', '. '| replace: '"', ' '}}"{% assign counter = counter | plus: 1 %}
+  }, {% endif %}{% endfor %}{% for page in site.posts %}{
+  "id": {{ counter }},
+  "url": "{{ site.url }}{{ page.url }}",
+  "title": "{{ page.title }}",
+  "body": "{{ page.date | date: "%Y/%m/%d" }}. {{ page.content | markdownify | replace: newline, ' ' | replace: '\', '. ' | replace: '&amp;', '&' | replace: '</h1>', '. ' | replace: '</h2>', '. ' | replace: '</h3>', '. ' | replace: '</h4>', '. ' | replace: '</h5>', '. ' | replace: '</li>', '. ' | replace: '</p>', ' ' | strip_html | strip_newlines | strip | normalize_whitespace | replace: '. . ', '. '| replace: '"', ' '}}"{% assign counter = counter | plus: 1 %}
+}{% if forloop.last %}{% else %}, {% endif %}{% endfor %}]
