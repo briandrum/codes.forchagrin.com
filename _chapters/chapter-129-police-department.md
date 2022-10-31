@@ -151,7 +151,7 @@ available to any individual seeking to apply for an open position within the
 Police Department.
 
 2. _(b)_ **Guidelines.** The Application drafted by the Chief of Police must
-compy with the following guidelines:
+comply with the following guidelines:
 
     1. _(1)_ Applications must be filled out in ink and handwritten. Illegible
     applications shall be rejected.\

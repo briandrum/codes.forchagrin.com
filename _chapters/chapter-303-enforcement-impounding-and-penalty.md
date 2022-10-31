@@ -15,7 +15,7 @@ title: "Chapter 303: Enforcement, Impounding and Penalty"
 * [303.041   Emergency, public safety and coroner's vehicles exempt](#303041-emergency-public-safety-and-coroners-vehicles-exempt)
 * [303.05   Application to persons riding, driving animals upon roadway](#30305-application-to-persons-riding-driving-animals-upon-roadway)
 * [303.06   Freeway use prohibited by pedestrians, bicycles and animals](#30306-freeway-use-prohibited-by-pedestrians-bicycles-and-animals)
-* [303.07   Application to drivers ofgovernment vehicles](#30307-application-to-drivers-ofgovernment-vehicles)
+* [303.07   Application to drivers of government vehicles](#30307-application-to-drivers-of-government-vehicles)
 * [303.08   Impounding of vehicles;redemption](#30308-impounding-of-vehicles-redemption)
 * [303.081   Impounding vehicles on private residential or agricultural property](#303081-impounding-vehicles-on-private-residential-or-agricultural-property)
 * [303.082   Private tow-away zones](#303082-private-tow-away-zones)

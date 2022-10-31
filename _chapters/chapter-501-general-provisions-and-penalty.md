@@ -18,8 +18,8 @@ title: "Chapter 501: General Provisions and Penalty"
 * [501.08   Culpable mental states](#50108-culpable-mental-states)
 * [501.09   Attempt](#50109-attempt)
 * [501.10   Complicity](#50110-complicity)
-* [501.11   Organizational criminalliability](#50111-organizational-criminalliability)
-* [501.12   Personal accountability fororganizational conduct](#50112-personal-accountability-fororganizational-conduct)
+* [501.11   Organizational criminal liability](#50111-organizational-criminal-liability)
+* [501.12   Personal accountability for organizational conduct](#50112-personal-accountability-for-organizational-conduct)
 * [501.13   Conspiracy](#50113-conspiracy)
 * [501.99   Penalties for misdemeanors](#50199-penalties-for-misdemeanors)
 

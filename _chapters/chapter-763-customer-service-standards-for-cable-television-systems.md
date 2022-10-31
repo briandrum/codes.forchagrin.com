@@ -176,7 +176,7 @@ in all contacts with customers.
         1. _(A)_ The cable operator shall provide clear television reception
         that meets or exceeds technical standards established by the United
         States Federal Communications Commission (the "FCC"). The cable operator
-        shall render effficient service, make repairs promptly, and interrupt
+        shall render efficient service, make repairs promptly, and interrupt
         service only for good cause and for the shortest time possible.
         Scheduled interruptions shall be preceded by notice and shall occur
         during periods of minimum use of the system, preferably between midnight
@@ -353,7 +353,7 @@ in all contacts with customers.
     television service, equipment malfunctions, billings or any other matter,
     which remains unsolved for 30 days after it has been brought to the cable
     operator's attention, may file a complaint, in writing, with the Complaint
-    Officer. Upon the filing of such a complaint, said Complaint Offficer shall
+    Officer. Upon the filing of such a complaint, said Complaint Officer shall
     notify the cable operator and make an investigation to determine whether or
     not there is a probable cause to credit the allegations. If the Complaint
     Officer determines after such investigation that there is probable cause to
@@ -370,14 +370,14 @@ in all contacts with customers.
         in writing, the decision rendered by the Complaint Officer. At the
         appeal hearing, the aggrieved party may contest the findings of fact or
         interpretation of controlling law, at which time the Council may
-        afffirm, reject or modify the decision of the Complaint Offficer. The
+        affirm, reject or modify the decision of the Complaint Officer. The
         affirmance, rejection or modification of said decision by the Council
         shall be final unless appealed by the grantee to a court of competent
         jurisdiction.
 
     4. _(4)_ Where there have been similar complaints made, or when there exists
     other evidence which, in the judgment of the Complaint Officer, casts doubt
-    on the reliability or quality of cable service, the Complaint Offficer shall
+    on the reliability or quality of cable service, the Complaint Officer shall
     have the right and authority to compel the cable operator to test, analyze
     and report on the performance of the system. Such report shall be delivered
     to the Complaint Officer no later than 14 days after said Officer formally

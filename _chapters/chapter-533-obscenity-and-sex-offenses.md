@@ -378,7 +378,7 @@ the spouse of the offender:
     (a)(2) or (3) of this section is a misdemeanor of the second degree or, if
     any person who was likely to view and be affronted by the offender's conduct
     was a minor, a misdemeanor of the first degree. If the offender previously
-    has beenconvicted of or pleaded guilty to two or more violations of this
+    has been convicted of or pleaded guilty to two or more violations of this
     section, a violation of subsection (a)(2) or (3) of this section is a
     misdemeanor of the first degree or, if any person who was likely to view and
     be affronted by the offender's conduct was a minor, a felony which shall be

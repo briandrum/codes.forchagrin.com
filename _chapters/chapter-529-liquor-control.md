@@ -16,7 +16,7 @@ title: "Chapter 529: Liquor Control"
 * [529.05   Permit required](#52905-permit-required)
 * [529.06   Low-alcohol beverages: sale to and purchase by underage persons prohibited](#52906-low-alcohol-beverages-sale-to-and-purchase-by-underage-persons-prohibited)
 * [529.07   Open container prohibited](#52907-open-container-prohibited)
-* [529.08   Hours of sale orconsumption](#52908-hours-of-sale-orconsumption)
+* [529.08   Hours of sale or consumption](#52908-hours-of-sale-or-consumption)
 * [529.99   Penalty](#52999-penalty)
 
 ## Cross references

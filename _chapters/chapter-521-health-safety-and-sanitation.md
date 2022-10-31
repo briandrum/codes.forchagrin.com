@@ -17,7 +17,7 @@ title: "Chapter 521: Health, Safety and Sanitation"
 * [521.07   Fences](#52107-fences) (Repealed)
 * [521.08   Littering and deposit of garbage,rubbish, junk, etc](#52108-littering-and-deposit-of-garbage-rubbish-junk-etc)
 * [521.09   Noxious or offensive odors](#52109-noxious-or-offensive-odors)
-* [521.10   Garbage or refuse outside eatingestablishments](#52110-garbage-or-refuse-outside-eatingestablishments)
+* [521.10   Garbage or refuse outside eating establishments](#52110-garbage-or-refuse-outside-eating-establishments)
 * [521.11   Junk and junk vehicles](#52111-junk-and-junk-vehicles)
 * [521.12   Rat control](#52112-rat-control)
 * [521.13   Accumulations as fire hazards](#52113-accumulations-as-fire-hazards)

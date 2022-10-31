@@ -19,7 +19,7 @@ title: "Chapter 549: Weapons and Explosives"
 * [549.09   Throwing or shooting missiles](#54909-throwing-or-shooting-missiles)
 * [549.10   Reporting sale of firearms](#54910-reporting-sale-of-firearms) (Repealed)
 * [549.11   Blasting permit](#54911-blasting-permit)
-* [549.12   Possessing replica firearmin school](#54912-possessing-replica-firearmin-school)
+* [549.12   Possessing replica firearm in school](#54912-possessing-replica-firearm-in-school)
 * [549.13   Defacing identification marks of a firearm; possessing a defaced firearm](#54913-defacing-identification-marks-of-a-firearm-possessing-a-defaced-firearm)
 * [549.99   Penalty](#54999-penalty)
 

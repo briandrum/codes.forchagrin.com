@@ -59,7 +59,7 @@ paid for a chance to win a prize in the following instances:
 
     2. _(2)_ Less than fifty per cent of participants who purchase goods or
     services at any one location do not accept, use or redeem the goods or
-    services sold or purportely sold;
+    services sold or purportedly sold;
 
     3. _(3)_ More than fifty per cent of prizes at any one location are revealed
     to participants through an electronic device simulating a game of chance or

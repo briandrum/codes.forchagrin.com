@@ -14,7 +14,7 @@ title: "Chapter 313: Traffic Control Devices"
 * [313.04   Lane-use control signal indications](#31304-lane-use-control-signal-indications)
 * [313.05   Special pedestrian control signals](#31305-special-pedestrian-control-signals)
 * [313.06   Flashing traffic signals](#31306-flashing-traffic-signals) (Repealed)
-* [313.07   Unauthorized signs andsignals, hiding from view,advertising](#31307-unauthorized-signs-andsignals-hiding-from-view-advertising)
+* [313.07   Unauthorized signs and signals, hiding from view,advertising](#31307-unauthorized-signs-and-signals-hiding-from-view-advertising)
 * [313.08   Alteration, injury, removal of traffic control devices](#31308-alteration-injury-removal-of-traffic-control-devices)
 * [313.09   Driver's duties upon approaching ambiguous or non-working traffic signal](#31309-drivers-duties-upon-approaching-ambiguous-or-non-working-traffic-signal)
 * [313.10   Unlawful purchase,possession or sale](#31310-unlawful-purchase-possession-or-sale)

@@ -102,7 +102,7 @@ is a misdemeanor of the first degree. If the property involved in a violation is
 an aircraft, an aircraft engine, propeller, appliance, spare part, or any other
 equipment or implement used or intended to be used in the operation of an
 aircraft and if the violation creates a risk of physical harm to any person or
-if the property involved in a violation is an occupied aircraft, crimimal
+if the property involved in a violation is an occupied aircraft, criminal
 damaging or endangering is a felony and shall be prosecuted under appropriate
 State law.\
 (ORC 2909.06)

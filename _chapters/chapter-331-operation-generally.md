@@ -30,9 +30,9 @@ title: "Chapter 331: Operation Generally"
 * [331.20   Emergency or public safety vehicles at stop signals or signs](#33120-emergency-or-public-safety-vehicles-at-stop-signals-or-signs)
 * [331.21   Right of way of public safety or coroner's vehicle](#33121-right-of-way-of-public-safety-or-coroners-vehicle)
 * [331.211   Report of vehicle failing to yield right of way to public safety vehicle](#331211-report-of-vehicle-failing-to-yield-right-of-way-to-public-safety-vehicle)
-* [331.22   Driving onto roadwayfrom place other than roadway: duty to yield](#33122-driving-onto-roadwayfrom-place-other-than-roadway-duty-to-yield)
+* [331.22   Driving onto roadway from place other than roadway: duty to yield](#33122-driving-onto-roadway-from-place-other-than-roadway-duty-to-yield)
 * [331.23   Driving onto roadway from place other than roadway: stopping at sidewalk](#33123-driving-onto-roadway-from-place-other-than-roadway-stopping-at-sidewalk)
-* [331.24   Right of way of funeralprocession](#33124-right-of-way-of-funeralprocession)
+* [331.24   Right of way of funeral procession](#33124-right-of-way-of-funeral-procession)
 * [331.25   Driver's view and control to be unobstructed by load or persons](#33125-drivers-view-and-control-to-be-unobstructed-by-load-or-persons)
 * [331.26   Driving upon street posted as closed for repair](#33126-driving-upon-street-posted-as-closed-for-repair)
 * [331.27   Following and parking near emergency or safety vehicles](#33127-following-and-parking-near-emergency-or-safety-vehicles)
@@ -1639,7 +1639,7 @@ proper court to answer the charge.
     any provision of law, the court imposing the sentence upon an offender who
     is convicted of or pleads guilty to a violation of subsection (a) hereof
     shall order the offender to reimburse one or more rescuers for the cost any
-    such rescurer incurred in rescuing the person, excluding any cost of
+    such rescuer incurred in rescuing the person, excluding any cost of
     transporting the rescued person to a hospital or other facility for
     treatment of injuries, up to a cumulative maximum of two thousand dollars
     ($2,000). If more than one rescuer was involved in the emergency response,

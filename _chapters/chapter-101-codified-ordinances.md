@@ -14,7 +14,7 @@ title: "Chapter 101: Codified Ordinances"
 * [101.04   Revivor; effect of amendment or repeal](#10104-revivor-effect-of-amendment-or-repeal)
 * [101.05   Construction of section references](#10105-construction-of-section-references)
 * [101.06   Conflicting provisions](#10106-conflicting-provisions)
-* [101.07   Determination oflegislative intent](#10107-determination-oflegislative-intent)
+* [101.07   Determination of legislative intent](#10107-determination-of-legislative-intent)
 * [101.08   Severability](#10108-severability)
 * [101.99   General penalty](#10199-general-penalty)
 

@@ -77,7 +77,7 @@ R.C. 3715.63.
         a compound, mixture, preparation or substance that is or contains any
         amount of phencyclidine;
 
-        6. _(F)_ An amount equal to or exceeding 120 grams or thity times the
+        6. _(F)_ An amount equal to or exceeding 120 grams or thirty times the
         maximum daily dose in the usual dose range specified in a standard
         pharmaceutical reference manual of a compound, mixture, preparation or
         substance that is or contains any amount of a Schedule II stimulant that
