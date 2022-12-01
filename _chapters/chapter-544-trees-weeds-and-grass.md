@@ -265,7 +265,7 @@ contractor may be licensed on an annual basis, for a Fifty Dollar ($50.00)
 permit fee and providing proof of the required insurance or bond.\
 (Ord. 2019-43. Passed 7-8-19.)
 
-## 544.14   Establishment and powers of shade tree commission
+## 544.14   Establishment and powers of Shade Tree Commission
 
 (Editor's note: The Shade Tree Commission was established on October 1, 1950, by
 Resolution 1950-632.)

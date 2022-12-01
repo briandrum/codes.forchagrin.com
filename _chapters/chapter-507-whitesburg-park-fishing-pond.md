@@ -12,7 +12,7 @@ title: "Chapter 507: Whitesburg Park Fishing Pond"
 * [507.02   Posting of signs](#50702-posting-of-signs)
 * [507.99   Penalty](#50799-penalty)
 
-## 507.01   Fishing at Whitesburg Park fishing pond
+## 507.01   Fishing at Whitesburg Park Fishing Pond
 
 Fishing at Whitesburg Park Fishing Pond is catch and release only. After
 capture, all fish shall be unhooked and returned to the water unharmed. No
