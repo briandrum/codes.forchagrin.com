@@ -8,14 +8,20 @@ plugins:
  - jekyll-remote-theme
  - jekyll-seo-tag
 
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-a-default-image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-image.png
+
 # Title & description: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-title: Codified Ordinances of Chagrin Falls, Ohio
+title: The Codified Ordinances of Chagrin Falls, Ohio
 author:
   name: Brian Drum
-  email: brian@briandrum.com
-  twitter: drumforchagrin
+  email: codes@forchagrin.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Codified Ordinances of Chagrin Falls, Ohio
+  An Unofficial Repository of The Codified Ordinances of Chagrin Falls, Ohio.
 
 permalink: /:title/
 

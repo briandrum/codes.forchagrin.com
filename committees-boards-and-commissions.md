@@ -95,6 +95,12 @@ Appeals](/chapters/chapter-136-board-of-zoning-appeals/).
 - Member, Alternate
 - Member, Alternate
 
+### Volunteer Firefighters’ Dependents Board
+
+- Member, Chair
+- Member
+- Member
+
 ## Commissions
 
 These are groups made up primarily of residents with one member of council as a
