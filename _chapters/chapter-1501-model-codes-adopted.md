@@ -33,8 +33,8 @@ title: "Chapter 1501: Model Codes Adopted"
 * Investigation of fires - see Ohio R.C. 737.27, 3737.08
 * Right to examine buildings - see Ohio R.C. 737.34 et seq., 3737.14
 * Petroleum liquids and gasses - see Ohio R.C. 3737.17 et seq.
-* Dry cleaning and dyeing - see Ohio R.C. Ch. 3739
-* Gasoline, oils and paints - see Ohio R.C. Ch. 3741
+* Dry cleaning and dyeing - see Ohio R.C. [Chapter 3739][ORC Chapter 3739]
+* Gasoline, oils and paints - see Ohio R.C. [Chapter 3741][ORC Chapter 3741]
 * Fireworks and explosives - see GEN. OFF. Ch. 149
 * Fire limits - see BLDG. Ch. 1333
 
@@ -1387,4 +1387,6 @@ enforce this Code.\
 
 [Ord. 2022-19. Passed 6-13-22.]:</ordinance-2022-19/>
 
+[ORC Chapter 3739]:<https://codes.ohio.gov/ohio-revised-code/chapter-3739>
+[ORC Chapter 3741]:<https://codes.ohio.gov/ohio-revised-code/chapter-3741>
 [Section 1501.99]:</chapters/chapter-1501-model-codes-adopted/#150199-penalty>

@@ -479,7 +479,7 @@ operator immediately shall move the vehicle so that it is not parked on the
 property established as a private tow-away zone without the consent of the
 owner.
 
-5. _(e)_ Except as provided in Ohio R. C. 4513.60 to 4513.65 and [Section
+5. _(e)_ Except as provided in Ohio R.C. 4513.60 to 4513.65 and [Section
 303.08][] of this Traffic Code and [Section 521.11][] of the General Offenses
 Code, no person shall remove, or cause to be removed, any vehicle from private
 property other than in accordance with this section.

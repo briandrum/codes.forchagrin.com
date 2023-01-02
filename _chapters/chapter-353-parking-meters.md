@@ -20,7 +20,7 @@ title: "Chapter 353: Parking Meters"
 
 ## Cross references
 
-* Off-street parking facilities - see Ohio R. C. 717.05
+* Off-street parking facilities - see Ohio R.C. 717.05
 * Registered owner prima-facie liable for unlawful parking - see TRAF. 351.03
 * False coin or slug - see GEN. OFF 545.11
 * Tampering with coin machines - see GEN. OFF 545.12

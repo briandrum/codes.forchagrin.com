@@ -269,7 +269,7 @@ following:
 
     2. _(2)_ The lawful practice of veterinary medicine by a person who has been
     issued a license, temporary permit, or registration certificate to do so
-    under Ohio R.C. Chapter 4741;
+    under Ohio R.C. [Chapter 4741][ORC Chapter 4741];
 
     3. _(3)_ Dogs being used or intended for use for hunting or field trial
     purposes, provided that the dogs are being treated in accordance with usual
@@ -281,7 +281,8 @@ following:
 
     5. _(5)_ The administering of medicine to a companion animal that was
     properly prescribed by a person who has been issued a license, temporary
-    permit, or registration certificate under Ohio R.C. Chapter 4741.
+    permit, or registration certificate under Ohio R.C. [Chapter 4741][ORC
+    Chapter 4741].
 
 6. _(f)_ Notwithstanding any section of the Ohio Revised Code that otherwise
 provides for the distribution of fine moneys, the Clerk of Court shall forward
@@ -931,4 +932,5 @@ or for violations of provisions of this chapter other than Section 505.18.\
 (Editor's note: See [Section 501.99][] for penalties applicable to any
 misdemeanor classification.)
 
+[ORC Chapter 4741]:<https://codes.ohio.gov/ohio-revised-code/chapter-4741/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

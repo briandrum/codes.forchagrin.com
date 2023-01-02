@@ -590,7 +590,7 @@ provisions of Ohio R.C. 2913.72.
 5. _(e)_ The sentencing court that suspends an offender's license, permit, or
 nonresident operating privilege under subsection (c) of this section may grant
 the offender limited driving privileges during the period of the suspension in
-accordance with Ohio R.C. Chapter 4510.\
+accordance with Ohio R.C. [Chapter 4510][ORC Chapter 4510].\
 (ORC 2913.02)
 
 ## 545.06   Unauthorized use of a vehicle; vehicle trespass
@@ -1031,4 +1031,5 @@ reclassified from a misdemeanor to a felony offense.)
 (Editor's note: See [Section 501.99][] for penalties applicable to any
 misdemeanor classification.)
 
+[ORC Chapter 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

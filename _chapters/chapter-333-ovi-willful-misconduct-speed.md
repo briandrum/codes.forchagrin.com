@@ -465,9 +465,9 @@ wanton misconduct.
     subsection (a)(1)J. of this section is guilty of operating a vehicle while
     under the influence of a listed controlled substance or a listed metabolite
     of a controlled substance. The court shall sentence the offender for either
-    offense under Ohio R.C. Chapter 2929, and this Traffic Code, except as
-    otherwise authorized or required by subsections (h)(1)A. to E. of this
-    section:
+    offense under Ohio R.C. [Chapter 2929][ORC Chapter 2929], and this Traffic
+    Code, except as otherwise authorized or required by subsections (h)(1)A. to
+    E. of this section:
 
         1. _(A)_ Except as otherwise provided in subsections (h)(1)B., C., D. or
         E. of this section, the offender is guilty of a misdemeanor of the first
@@ -503,20 +503,21 @@ wanton misconduct.
                 control and in addition to the required attendance at a drivers'
                 intervention program, to attend and satisfactorily complete any
                 treatment or education programs that comply with the minimum
-                standards adopted pursuant to Ohio R.C. Chapter 5119 by the
-                Director of Mental Health and Addiction Services that the
-                operators of the drivers' intervention program determine that
-                the offender should attend and to report periodically to the
-                court on the offender's progress in the programs. The court also
-                may impose on the offender any other conditions of community
-                control that it considers necessary. If the court grants
-                unlimited driving privileges to a first-time offender under Ohio
-                R.C. 4510.022, all penalties imposed upon the offender by the
-                court under subsection (h)(1)A.1. of this section for the
-                offense apply, except that the court shall suspend any mandatory
-                or additional jail term imposed by the court under subsection
-                (h)(1)A.1. of this section upon granting unlimited driving
-                privileges in accordance with Ohio R.C. 4510.022.
+                standards adopted pursuant to Ohio R.C. [Chapter 5119][ORC
+                Chapter 5119] by the Director of Mental Health and Addiction
+                Services that the operators of the drivers' intervention program
+                determine that the offender should attend and to report
+                periodically to the court on the offender's progress in the
+                programs. The court also may impose on the offender any other
+                conditions of community control that it considers necessary. If
+                the court grants unlimited driving privileges to a first-time
+                offender under Ohio R.C. 4510.022, all penalties imposed upon
+                the offender by the court under subsection (h)(1)A.1. of this
+                section for the offense apply, except that the court shall
+                suspend any mandatory or additional jail term imposed by the
+                court under subsection (h)(1)A.1. of this section upon granting
+                unlimited driving privileges in accordance with Ohio R.C.
+                4510.022.
 
             2. _(2)_ If the sentence is being imposed for a violation of
             subsection (a)(1)F., G., H. or I. or (a)(2) of this section, except
@@ -545,14 +546,14 @@ wanton misconduct.
                 sanction imposed under Ohio R.C. 2929.25, to attend and
                 satisfactorily complete any treatment or education programs that
                 comply with the minimum standards adopted pursuant to Ohio R.C.
-                Chapter 5119 by the Director of Mental Health and Addiction
-                Services, in addition to the required attendance at drivers'
-                intervention program, that the operators of the drivers'
-                intervention program determine that the offender should attend
-                and to report periodically to the court on the offender's
-                progress in the programs. The court also may impose any other
-                conditions of community control on the offender that it
-                considers necessary.
+                [Chapter 5119][ORC Chapter 5119] by the Director of Mental
+                Health and Addiction Services, in addition to the required
+                attendance at drivers' intervention program, that the operators
+                of the drivers' intervention program determine that the offender
+                should attend and to report periodically to the court on the
+                offender's progress in the programs. The court also may impose
+                any other conditions of community control on the offender that
+                it considers necessary.
 
             3. _(3)_ In all cases, a fine of not less than three hundred
             seventy- five dollars ($375.00) and not more than one thousand
@@ -898,12 +899,13 @@ probationary license, or nonresident operating privilege from the range
 specified in division (A)(7) of Ohio R.C. 4510.02.\
 (ORC 4511.194)
 
-11. _(k)_ Compliance With Ohio R.C. Chapter 5119 Standards.
+11. _(k)_ Compliance With Ohio R.C. [Chapter 5119][ORC Chapter 5119] Standards.
 
     1. _(1)_ No court shall sentence an offender to an alcohol treatment program
     under this section unless the treatment program complies with the minimum
-    standards for alcohol treatment programs adopted under Ohio R.C. Chapter
-    5119 by the Director of Mental Health and Addiction Services.
+    standards for alcohol treatment programs adopted under Ohio R.C. [Chapter
+    5119][ORC Chapter 5119] by the Director of Mental Health and Addiction
+    Services.
 
     2. _(2)_ An offender who stays in a driver's intervention program or in an
     alcohol treatment program under an order issued under this section shall pay
@@ -939,10 +941,9 @@ the same manner as if the offender is being prosecuted for a prohibited
 concentration of alcohol.
 
 15. _(o)_ **Conflict of Terms.** All terms defined in Ohio R.C. 4510.01 apply to
-this section. If the meaning of a term defined in Ohio R.C . 4510.01 conflicts
+this section. If the meaning of a term defined in Ohio R.C. 4510.01 conflicts
 with the meaning of the same term as defined in Ohio R.C. 4501.01 or this
-Traffic Code, the term as defined in Ohio R.C. 4510.01 applies to this
-section.\
+Traffic Code, the term as defined in Ohio R.C. 4510.01 applies to this section.\
 (ORC 4511.19)
 
 16. _(p)_ Indigent Drivers Alcohol Treatment Fund. Twenty-five dollars ($25.00)
@@ -1588,3 +1589,6 @@ section shall not apply when:
     agency, are using electronic wireless communications devices in the course
     of their work.\
     (Ord. 2015-03. Passed 3-9-15.)
+
+[ORC Chapter 2929]:<https://codes.ohio.gov/ohio-revised-code/chapter-2929/>
+[ORC Chapter 5119]:<https://codes.ohio.gov/ohio-revised-code/chapter-5119/>

@@ -112,8 +112,8 @@ is no conflict with this Charter, in accordance with the laws of Ohio. It is
 hereby declared that in the event of a conflict between the Charter and the Ohio
 Revised Code, and as permitted by the home rule powers granted to
 municipalities, and the Ohio Revised Code and in particular Ohio Revised Code
-[Section 731.41][ORC Section 731.41], the manner, means, method, consideration and placement on
-the ballot of initiatives shall be governed by this Charter.
+[Section 731.41][ORC Section 731.41], the manner, means, method, consideration
+and placement on the ballot of initiatives shall be governed by this Charter.
 
 6. _(f)_ This section shall be severable and if any subsection, paragraph, part,
 word or application thereof is held invalid for any reason, such holding shall

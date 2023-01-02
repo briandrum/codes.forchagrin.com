@@ -34,7 +34,7 @@ title: "Chapter 125: Department of Finance"
 * Director's duties - see CHTR. Art. V, Sec. 3
 * Department establishment - see CHTR. Art. VII, Sec. 1
 * State law application on financial matters - see CHTR. Art. VIII, Sec.1
-* Uniform depository act - see Ohio R.C. Ch. 135
+* Uniform depository act - see Ohio R.C. [Chapter 135][ORC Chapter 135]
 
 ## 125.01   Definitions
 
@@ -45,9 +45,9 @@ moneys coming lawfully into the possession of the Municipality's Director of
 Finance.
 
 2. _(b)_ "Eligible depository" or "eligible depositories" means any institution
-mentioned in Ohio R.C. 135.03, that has an office situated within Cuyahoga
-County, Ohio, whose accounts are insured by the Federal Government or agency
-thereof.
+mentioned in Ohio R.C. [135.03][ORC Section 135.03], that has an office situated
+within Cuyahoga County, Ohio, whose accounts are insured by the Federal
+Government or agency thereof.
 
 3. _(c)_ "Active deposit" means a deposit of the Municipality's public moneys
 payable or withdrawable, in whole or in part, on demand, or a deposit in a
@@ -64,11 +64,11 @@ into between the Municipality and such institution in a form approved by the
 Director of Law in connection with holding collateral securities or other
 securities for the Municipality.
 
-6. _(f)_ "Uniform Depository Act" means Ohio R.C. Chapter 135 and any amendment
-or supplement thereto. Wherever any provisions of the Uniform Depository Act are
-made applicable under this chapter, such provisions are applicable only to the
-extent that they are not in conflict with or inconsistent with the Municipal
-Charter and ordinances or resolutions.\
+6. _(f)_ "Uniform Depository Act" means Ohio R.C. [Chapter 135][ORC Chapter 135]
+and any amendment or supplement thereto. Wherever any provisions of the Uniform
+Depository Act are made applicable under this chapter, such provisions are
+applicable only to the extent that they are not in conflict with or inconsistent
+with the Municipal Charter and ordinances or resolutions.\
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.02   Depositories
@@ -247,7 +247,7 @@ whereupon the absolute ownership of such collateral securities shall pass to the
 purchaser. Any surplus remaining after deducting the amount due the Municipality
 and any expenses of the sale shall be paid to the depository bank. This
 provision is in addition to any rights of the Municipality to recover under Ohio
-R.C. Chapter 135.\
+R.C. [Chapter 135][ORC Chapter 135].\
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.06   Pooled collateral security
@@ -367,7 +367,7 @@ eligible for investment:
 
     3. _(3)_ Discount notes of the Federal National Mortgage Association and
     bonds issued by the Homeowners' Loan Corporation as defined in Ohio R.C.
-    731.56;
+    [731.56][ORC Section 731.56];
 
     4. _(4)_ Bonds and notes of the State;
 
@@ -377,13 +377,13 @@ eligible for investment:
 
     6. _(6)_ The Director of Finance or his designee may enter into a repurchase
     agreement with any designated eligible depository mentioned in Ohio R.C.
-    135.03, if, and only if, under the terms of which agreement the Director of
-    Finance or his designee purchases for the Municipality and such institution
-    agrees unconditionally to repurchase within a period of thirty days
-    securities that are direct obligations of, or are fully guaranteed as to
-    principal and interest by, the United States government or agencies thereof
-    that will mature or are redeemable within five years from the date of
-    purchase;
+    [135.03][ORC Section 135.03], if, and only if, under the terms of which
+    agreement the Director of Finance or his designee purchases for the
+    Municipality and such institution agrees unconditionally to repurchase
+    within a period of thirty days securities that are direct obligations of, or
+    are fully guaranteed as to principal and interest by, the United States
+    government or agencies thereof that will mature or are redeemable within
+    five years from the date of purchase;
 
     7. _(7)_ A certificate of deposit of eligible depositories which may
     provide, and if so, shall be shown on its face, that the amount of such
@@ -445,7 +445,8 @@ shall be retained by the Director of Finance.
 
     In lieu of such custody, the Director of Finance may deposit such
     securities, obligations or certificates of deposit with a qualified trustee
-    as set forth in Ohio R.C. 135.18(I) or 135.181(F).
+    as set forth in Ohio R.C. [135.18(I)][ORC Section 135.18] or
+    [135.181(F)][ORC Section 135.181].
 
     Notwithstanding the two preceding paragraphs, the Director of Finance is not
     required to take custody or provide for the deposit of securities acquired
@@ -483,8 +484,9 @@ of the Municipality as required by law.
 
 13. _(m)_ In addition to investments as provided in this chapter, the Director
 of Finance may invest in bonds, notes or other obligations of the Municipality,
-including those issued pursuant to Ohio R.C. 725.01 to 725.11, at a price, rate,
-maturity or other terms as determined by the Director of Finance.\
+including those issued pursuant to Ohio R.C. [725.01][ORC Section 725.01] to
+[725.11][ORC Section 725.11], at a price, rate, maturity or other terms as
+determined by the Director of Finance.\
 (Ord.1986-46. Passed 10-28-86.)
 
 ## 125.09   Miscellaneous provisions
@@ -495,9 +497,10 @@ any liability for the loss of any public moneys deposited or invested pursuant
 to and in compliance with this Chapter 125, including but not limited to, losses
 occasioned by the failure of any depository.
 
-2. _(b)_ Ohio R.C. 731.55 shall be applicable to the Municipality and the
-insurance authorized by such section may be procured by the Director of Finance
-and the costs of such insurance shall be paid by the Municipality.\
+2. _(b)_ Ohio R.C. [731.55][ORC Section 731.55] shall be applicable to the
+Municipality and the insurance authorized by such section may be procured by the
+Director of Finance and the costs of such insurance shall be paid by the
+Municipality.\
 (Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.10   Bonds
@@ -637,6 +640,14 @@ subject to being used by the Village for the purpose for which they were
 deposited.\
 (Ord. 2011-04. Passed 1-10-11.)
 
+[ORC Chapter 135]:<https://codes.ohio.gov/ohio-revised-code/chapter-135/>
+[ORC Section 135.03]:<https://codes.ohio.gov/ohio-revised-code/section-135.03/>
+[ORC Section 135.18]:<https://codes.ohio.gov/ohio-revised-code/section-135.18/>
+[ORC Section 135.181]:<https://codes.ohio.gov/ohio-revised-code/section-135.181/>
+[ORC Section 725.01]:<https://codes.ohio.gov/ohio-revised-code/section-725.01/>
+[ORC Section 725.11]:<https://codes.ohio.gov/ohio-revised-code/section-725.11/>
+[ORC Section 731.55]:<https://codes.ohio.gov/ohio-revised-code/section-731.55/>
+[ORC Section 731.56]:<https://codes.ohio.gov/ohio-revised-code/section-731.56/>
 [Section 125.02]:</chapters/chapter-125-department-of-finance/#12502-depositories>
 [Section 125.04]:</chapters/chapter-125-department-of-finance/#12504-pledged-collateral-securities>
 [Section 125.08]:</chapters/chapter-125-department-of-finance/#12508-investments>

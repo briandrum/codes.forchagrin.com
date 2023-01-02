@@ -32,7 +32,7 @@ title: "Chapter 521: Health, Safety and Sanitation"
 * Flagpole installation in sidewalk - see Ohio R.C. 723.012
 * Excavation liability - see Ohio R.C. 723.49 et seq.
 * Removal of noxious weeds or litter - see Ohio R.C. 731.51 et seq.
-* Nuisances - see Ohio R.C. Ch. 3767
+* Nuisances - see Ohio R.C. [Chapter 3767][ORC Chapter 3767]
 * Tampering with safety devices - see GEN. OFF. 541.04
 
 ## 521.01   Abandoned refrigerators and airtight containers
@@ -241,7 +241,7 @@ following applies:
     carried away by the elements;
 
     3. _(3)_ The person is issued a permit or license covering the litter
-    pursuant to Ohio R. C. Chapter 3734 or 6111.
+    pursuant to Ohio R.C. [Chapter 3734][ORC Chapter 3734] or [6111][ORC Chapter 6111].
 
 2. _(b)_ No person, without privilege to do so, shall knowingly deposit litter,
 or cause it to be deposited, in a litter receptacle located on any public
@@ -545,5 +545,8 @@ convictions thereafter.\
 (Editor's note: See [Section 501.99][] for penalties applicable to any
 misdemeanor classification.)
 
+[ORC Chapter 3734]:<https://codes.ohio.gov/ohio-revised-code/chapter-3734/>
+[ORC Chapter 3767]:<https://codes.ohio.gov/ohio-revised-code/chapter-3767/>
+[ORC Chapter 6111]:<https://codes.ohio.gov/ohio-revised-code/chapter-6111/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [Section 521.07]:</chapters/chapter-521-health-safety-and-sanitation/#52107-fences>

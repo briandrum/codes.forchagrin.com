@@ -126,8 +126,8 @@ title: "Chapter 126: Municipal Income Tax"
 ## Cross references
 
 * Limitation on rate of taxation - see CHTR. Art. VIII, §2
-* Payroll deductions - see Ohio R.C. 9.42
-* Municipal income taxes - see Ohio R.C. Ch. 718
+* Payroll deductions - see Ohio R.C. [9.42][ORC Section 9.42]
+* Municipal income taxes - see Ohio R.C. [Chapter 718][ORC Chapter 718]
 
 ## Purpose
 
@@ -162,8 +162,9 @@ the Internal Revenue Code, but including subsequent adjustments from required
 additions and deductions. Pass-through entities must compute "adjusted federal
 taxable income" as if the pass-through entity was a "C" corporation. This
 definition does not apply to any taxpayer required to file a return under Ohio
-R.C. 5745.03 or to the net profit from a sole proprietorship. This definition is
-effective for tax years beginning on or after January 1, 2005.\
+R.C. [5745.03][ORC Section 5745.03] or to the net profit from a sole
+proprietorship. This definition is effective for tax years beginning on or after
+January 1, 2005.\
 (Ord. 2005-44. Passed 7-11-05.)
 
 ### 126.0302   Administrator
@@ -996,7 +997,7 @@ six months or both, for each offense.\
 ### 126.1506   Limitation on prosecution
 
 All prosecutions under this chapter must be commenced within the time prescribed
-in Ohio R.C. 718.06.\
+in Ohio R.C. [718.06][ORC Section 718.06].\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.1507   Failure to procure forms not excuse
@@ -1026,7 +1027,7 @@ determination of the federal tax liability.\
 ### 126.1702   Refunds of taxes erroneously paid
 
 Taxes erroneously paid shall not be refunded unless a claim for refund is made
-within the time prescribed in Ohio R.C. 718.06.\
+within the time prescribed in Ohio R.C. [718.06][ORC Section 718.06].\
 (Ord.1968-730. Passed 6-18-68.)
 
 ### 126.1703   Amounts of less than one dollar
@@ -1322,11 +1323,15 @@ this chapter shall be due on the date provided in Sections 126.1101 and 126.1302
 of this chapter as though the same were continuing.\
 (Ord.1968-730. Passed 6-18-68.)
 
+[ORC Chapter 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
+[ORC Section 9.42]:<https://codes.ohio.gov/ohio-revised-code/section-9.42>
+[ORC Section 718.06]:<https://codes.ohio.gov/ohio-revised-code/section-718.06>
+[ORC Section 5745.03]:<https://codes.ohio.gov/ohio-revised-code/section-5745.03>
 [Section 126.0101]:</chapters/chapter-126-municipal-income-tax/#1260101-purpose-of-levy-of-income-tax>
+[Section 126.0501(c)]:</chapters/chapter-126-municipal-income-tax/#1260501(c)>
+[Section 126.0501(d)]:</chapters/chapter-126-municipal-income-tax/#1260501(d)>
+[Section 126.0501(e)]:</chapters/chapter-126-municipal-income-tax/#1260501(e)>
 [Section 126.0701(a)]:</chapters/chapter-126-municipal-income-tax/#1260701(a)>
 [Section 126.0701(b)]:</chapters/chapter-126-municipal-income-tax/#1260701(b)>
 [Section 126.0701(c)]:</chapters/chapter-126-municipal-income-tax/#1260701(c)>
 [Section 126.0701]:</chapters/chapter-126-municipal-income-tax/#1260701-method-of-determination>
-[Section 126.0501(c)]:</chapters/chapter-126-municipal-income-tax/#1260501(c)>
-[Section 126.0501(d)]:</chapters/chapter-126-municipal-income-tax/#1260501(d)>
-[Section 126.0501(e)]:</chapters/chapter-126-municipal-income-tax/#1260501(e)>

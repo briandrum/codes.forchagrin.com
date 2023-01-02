@@ -14,7 +14,7 @@ title: "Chapter 105: Public Contracts"
 
 ## Cross references
 
-* Sale or lease of property - see Ohio R.C. Ch. 721
+* Sale or lease of property - see Ohio R.C. [Chapter 721][ORC Chapter 721]
 
 ## 105.01   Surplus property
 
@@ -38,9 +38,9 @@ majority vote, shall determine.\
     legally engaged in rendering professional design services.
 
     2. _(2)_ "Professional Design Services" means services within the scope of
-    practice of an architect or landscape architect registered under Chapter
-    4703 of the Revised Code or a professional engineer or surveyor registered
-    under Chapter 4733 of the Revised Code.
+    practice of an architect or landscape architect registered under [Chapter
+    4703][ORC Chapter 4703] of the Revised Code or a professional engineer or
+    surveyor registered under [ORC Chapter 4733][] of the Revised Code.
 
     3. _(3)_ "Public Works Contract" means any contract awarded by the Village
     for the construction, alteration or repair of any public building, public
@@ -180,8 +180,8 @@ whom the Village subsequently awards and executes a contract. Such an agreed
 extension shall not entitle the contractor to delay costs.
 
 10. _(j)_ **Withdrawal of Bids.** Bidders may withdraw bids pursuant [Section
-9.31][ORC Section 9.31] of the Ohio Revised Code; such a withdrawal shall not modify the Village's
-right to award to the next lowest and best bidder.
+9.31][ORC Section 9.31] of the Ohio Revised Code; such a withdrawal shall not
+modify the Village's right to award to the next lowest and best bidder.
 
 11. _(k)_ **Bids in Excess of Estimate.** The Village may award contracts
 regardless of the amount of the bid as compared to the estimated cost.
@@ -216,5 +216,8 @@ liquidated damages for each day of delay beyond a specified date, or both. The
 amounts of the bonus and liquidated damages may be different.\
 (Ord. 2013-29. Passed 5-13-13.)
 
+[ORC Chapter 721]:<https://codes.ohio.gov/ohio-revised-code/chapter-721>
+[ORC Chapter 4703]:<https://codes.ohio.gov/ohio-revised-code/chapter-4730>
+[ORC Chapter 4733]:<https://codes.ohio.gov/ohio-revised-code/chapter-4733>
 [ORC Section 9.31]:<https://codes.ohio.gov/ohio-revised-code/section-9.31>
 [Section 105.02]:</chapters/chapter-105-public-contracts/#10502-professional-design-services-public-works>

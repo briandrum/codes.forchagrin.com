@@ -685,7 +685,8 @@ the following:
 3. _(c)_ Whoever violates this section is guilty of deception to obtain matter
 harmful to juveniles, a misdemeanor of the second degree. A juvenile who
 violates subsection (b) hereof shall be adjudged an unruly child, with such
-disposition of the case as may be appropriate under Ohio R.C. Chapter 2151.\
+disposition of the case as may be appropriate under Ohio R.C. [Chapter 2151][ORC
+Chapter 2151].\
 (ORC 2907.33)
 
 ## 533.13   Displaying matter harmful to juveniles
@@ -867,7 +868,7 @@ section, the other section, or both sections.
     required by law, the court may order any person who is convicted of a
     violation of this section or who is adjudicated delinquent by reason of a
     violation of this section to criminally forfeit all of the following
-    property to the state under Ohio R.C. Chapter 2981.
+    property to the state under Ohio R.C. [Chapter 2981][ORC Chapter 2981].
 
         1. _(A)_ Any profits or proceeds and any property the person has
         acquired or maintained in violation of this section that the sentencing
@@ -890,4 +891,6 @@ action against the offender, as described in Ohio R.C. 2307.66.\
 (Editor's note: See [Section 501.99][] for penalties applicable to any misdemeanor
 classification.)
 
+[ORC Chapter 2151]:<https://codes.ohio.gov/ohio-revised-code/chapter-2151/>
+[ORC Chapter 2981]:<https://codes.ohio.gov/ohio-revised-code/chapter-2981/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

@@ -22,7 +22,7 @@ title: "Chapter 1303: Inspections; Enforcement and Penalty"
 
 ## Cross references
 
-* Enforcement; supervision; records - see Ohio R. C. 3781.03
+* Enforcement; supervision; records - see Ohio R.C. 3781.03
 * Chief Administrative Officer to enforce Building Code regulations - see ADM. 133.03
 * Driving over sidewalks - see TRAF. 331.29
 * Improper drainage - see GEN. OFF. 517.04

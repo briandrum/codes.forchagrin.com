@@ -27,11 +27,11 @@ title: "Chapter 911: Sewers Generally"
 
 * Power to regulate water closets and privies - see Ohio R.C. 715.40
 * Power to construct sewerage system - see Ohio R.C. 715.40, 717.01
-* Compulsory sewer connections - see Ohio R. C. 729.06; BLDG. 1343.02
-* Management and control of sewerage system - see Ohio R. C. 729.50
-* Regulations to control house sewers and connections - see Ohio R. C. 729.51
-* Untreated sewage - see Ohio R. C. 3701.59
-* Interference with sewage flow - see Ohio R. C. 4933.24
+* Compulsory sewer connections - see Ohio R.C. 729.06; BLDG. 1343.02
+* Management and control of sewerage system - see Ohio R.C. 729.50
+* Regulations to control house sewers and connections - see Ohio R.C. 729.51
+* Untreated sewage - see Ohio R.C. 3701.59
+* Interference with sewage flow - see Ohio R.C. 4933.24
 * Properly connected toilets required - see BLDG. 1343.01
 
 ## 911.01   Definitions

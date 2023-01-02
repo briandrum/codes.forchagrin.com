@@ -44,14 +44,15 @@ event, undertaking or contingency, but does not include a bona fide business
 risk.
 
 3. _(c)_ "Scheme of chance" means a slot machine unless authorized under Ohio
-R.C. Chapter 3772, lottery unless authorized under Ohio R.C. Chapter 3770,
-numbers game, pool conducted for profit, or other scheme in which a participate
-gives a valuable consideration for a chance to win a prize, but does not include
-bingo, a skill-based amusement machine, or a pool not conducted for profit.
-"Scheme of chance" includes the use of an electronic device to reveal the
-results of a game entry if valuable consideration is paid, directly or
-indirectly, for a chance to win a prize. Valuable consideration is deemed to be
-paid for a chance to win a prize in the following instances:
+R.C. [Chapter 3772][ORC Chapter 3772], lottery unless authorized under Ohio R.C.
+[Chapter 3770][ORC Chapter 3770], numbers game, pool conducted for profit, or
+other scheme in which a participate gives a valuable consideration for a chance
+to win a prize, but does not include bingo, a skill-based amusement machine, or
+a pool not conducted for profit. "Scheme of chance" includes the use of an
+electronic device to reveal the results of a game entry if valuable
+consideration is paid, directly or indirectly, for a chance to win a prize.
+Valuable consideration is deemed to be paid for a chance to win a prize in the
+following instances:
 
     1. _(1)_ Less than fifty per cent of the goods or services sold by a scheme
     of chance operator in exchange for game entries are used or redeemed by
@@ -720,9 +721,10 @@ of three years.
 or other promotion where consideration is not required for a person to enter to
 win or become eligible to receive any prize, the determination of which is based
 upon chance. "Sweepstakes" does not include bingo as authorized under this
-chapter, pari-mutuel wagering as authorized by Ohio R.C. Chapter 3769, lotteries
-conducted by the State Lottery Commission as authorized by Ohio R.C. Chapter
-3770, and casino gaming as authorized by Ohio R.C. Chapter 3772.\
+chapter, pari-mutuel wagering as authorized by Ohio R.C. [Chapter 3769][ORC
+Chapter 3769], lotteries conducted by the State Lottery Commission as authorized
+by Ohio R.C. [Chapter 3770][ORC Chapter 3770], and casino gaming as authorized
+by Ohio R.C. [Chapter 3772][ORC Chapter 3772].\
 (ORC 2915.01)
 
 ## 517.02   Gambling
@@ -869,7 +871,8 @@ of a gambling offense, operating a gambling house is a felony and shall be
 prosecuted under appropriate State law.
 
 3. _(c)_ Premises used or occupied in violation of this section constitute a
-nuisance subject to abatement pursuant to Ohio R.C. Chapter 3767.\
+nuisance subject to abatement pursuant to Ohio R.C. [Chapter 3767][ORC Chapter
+3767].\
 (ORC 2915.03)
 
 ## 517.04   Public gaming
@@ -894,7 +897,7 @@ gaming is a misdemeanor of the fourth degree.
 
 5. _(e)_ Premises used or occupied in violation of subsection (b) of this
 section constitute a nuisance subject to abatement under Ohio R.C.
-Chapter 3767.\
+[Chapter 3767][ORC Chapter 3767].\
 (ORC 2915.04)
 
 ## 517.05   Cheating
@@ -1078,10 +1081,10 @@ Section 517.01(o)(1) shall do any of the following:
             electronic bingo aid is used.
 
         2. _(B)_ The Attorney General may adopt rules in accordance with Ohio
-        R.C. Chapter 119 that govern the use of electronic bingo aids. The rules
-        may include a requirement that an electronic bingo aid be capable of
-        being audited by the Attorney General to verify the number of bingo
-        cards or sheets played during each bingo session.
+        R.C. [Chapter 119][ORC Chapter 119] that govern the use of electronic
+        bingo aids. The rules may include a requirement that an electronic bingo
+        aid be capable of being audited by the Attorney General to verify the
+        number of bingo cards or sheets played during each bingo session.
 
     12. _(12)_ Permit any person the charitable organization knows, or should
     have known, to be under eighteen years of age to play bingo described in
@@ -1160,7 +1163,8 @@ the following:
         under subsection 501(a), is described in subsection 501(c)(3) of the
         Internal Revenue Code, is a charitable organization as defined in
         Section 517.01, is in good standing in the State pursuant to Ohio R.C.
-        2915.08, and is in compliance with Ohio R.C. Chapter 1716;
+        2915.08, and is in compliance with Ohio R.C. [Chapter 1716][ORC Chapter
+        1716];
 
         2. _(B)_ That organization is, and has received from the Internal
         Revenue Service a determination letter that is currently in effect
@@ -1357,7 +1361,8 @@ General with all of the following information:
 
     3. _(3)_ That the charitable instant bingo organization is aware of conduct
     by the owner or lessor of a location at which instant bingo is conducted
-    that is in violation of this chapter or Ohio R.C. Chapter 2915.
+    that is in violation of this chapter or Ohio R.C. [Chapter 2915][ORC Chapter
+    2915].
 
 6. _(f)_ Subsection (c) of this section does not apply to a volunteer
 firefighter's organization that is exempt from federal income taxation under
@@ -1383,8 +1388,8 @@ than at a bingo session.
 
 3. _(c)_ No owner or lessor of a location that enters into a written contract as
 prescribed in subsection (a) of this section shall violate any provision of Ohio
-R.C. Chapter 2915, or permit, aid, or abet any other person in violating any
-provision of Ohio R.C. Chapter 2915.
+R.C. [Chapter 2915][ORC Chapter 2915], or permit, aid, or abet any other person
+in violating any provision of Ohio R.C. [Chapter 2915][ORC Chapter 2915].
 
 4. _(d)_ No owner or lessor of a location that enters into a written contract as
 prescribed in subsection (a) of this section shall violate the terms of the
@@ -1468,9 +1473,9 @@ checks or electronic fund transfers drawn on the bingo session or game account.
 all of its bingo supplies as of the first day of November of each year.
 
 5. _(e)_ The Attorney General may adopt rules in accordance with Ohio R.C.
-Chapter 119 that establish standards of accounting, record keeping, and
-reporting to ensure that gross receipts from bingo or games of chance are
-properly accounted for.
+[Chapter 119][ORC Chapter 119] that establish standards of accounting, record
+keeping, and reporting to ensure that gross receipts from bingo or games of
+chance are properly accounted for.
 
 6. _(f)_ A distributor shall maintain, for a period of three years after the
 date of its sale or other provision, a record of each instance of its selling or
@@ -1700,16 +1705,18 @@ good standing in this State.
 
     1. _(1)_ If a veteran's organization, fraternal organization or a sporting
     organization authorized to conduct instant bingo pursuant to subsection (a)
-    of this section has been issued a liquor permit under Ohio R.C. Chapter
-    4303, that permit may be subject to suspension, revocation, or cancellation
-    if the veteran's organization, fraternal organization, or a sporting
-    organization violates a provision of this chapter or Ohio R.C. Chapter 2915.
+    of this section has been issued a liquor permit under Ohio R.C. [Chapter
+    4303][ORC Chapter 4303], that permit may be subject to suspension,
+    revocation, or cancellation if the veteran's organization, fraternal
+    organization, or a sporting organization violates a provision of this
+    chapter or Ohio R.C. [Chapter 2915][ORC Chapter 2915].
 
     2. _(2)_ No veteran's organization, fraternal organization, or a sporting
     organization that enters into a written contract pursuant to subsection (b)
     of this section shall violate any provision of this chapter or Ohio R.C.
-    Chapter 2915, or permit, aid, or abet any other person in violating any
-    provision of this chapter or Ohio R.C. Chapter 2915.
+    [Chapter 2915][ORC Chapter 2915], or permit, aid, or abet any other person
+    in violating any provision of this chapter or Ohio R.C. [Chapter 2915][ORC
+    Chapter 2915].
 
 4. _(d)_ A veteran's organization, fraternal organization, or a sporting
 organization shall give all required proceeds earned from the conduct of instant
@@ -1743,7 +1750,8 @@ a felony and shall be prosecuted under appropriate State law.\
     (ORC 2915.06)
 
 2. _(b)_ Any regulation of skill-based amusement machines shall be governed by
-this chapter and Ohio R.C. Chapter 2915 and not by Ohio R.C. Chapter 1345.\
+this chapter and Ohio R.C. [Chapter 2915][ORC Chapter 2915] and not by Ohio R.C.
+[Chapter 1345][ORC Chapter 1345].\
 (ORC 2915.061)
 
 ## 517.99   Penalty
@@ -1751,4 +1759,13 @@ this chapter and Ohio R.C. Chapter 2915 and not by Ohio R.C. Chapter 1345.\
 (Editor's note: See [Section 501.99][]  for penalties applicable to any
 misdemeanor classification.)
 
+[ORC Chapter 119]:<https://codes.ohio.gov/ohio-revised-code/chapter-119/>
+[ORC Chapter 1345]:<https://codes.ohio.gov/ohio-revised-code/chapter-1345/>
+[ORC Chapter 1716]:<https://codes.ohio.gov/ohio-revised-code/chapter-1716/>
+[ORC Chapter 2915]:<https://codes.ohio.gov/ohio-revised-code/chapter-2915/>
+[ORC Chapter 3767]:<https://codes.ohio.gov/ohio-revised-code/chapter-3767/>
+[ORC Chapter 3769]:<https://codes.ohio.gov/ohio-revised-code/chapter-3769/>
+[ORC Chapter 3770]:<https://codes.ohio.gov/ohio-revised-code/chapter-3770/>
+[ORC Chapter 3772]:<https://codes.ohio.gov/ohio-revised-code/chapter-3772/>
+[ORC Chapter 4303]:<https://codes.ohio.gov/ohio-revised-code/chapter-4303/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

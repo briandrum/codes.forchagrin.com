@@ -146,13 +146,13 @@ Ohio R.C. 4301.01(B)(3), the term does not include cider.\
 
 ## 529.02   Sales to and use by underage persons; securing public accommodations
 
-1. _(a)_ Except as otherwise provided in this chapter or Ohio R.C. Chapter 4301,
-no person shall sell beer or intoxicating liquor to an underage person, or shall
-buy beer or intoxicating liquor for an underage person, or shall furnish it to,
-an underage person, unless given by a physician in the regular line of his
-practice or given for established religious purposes, or unless the underage
-person is supervised by a parent, spouse who is not an underage person or legal
-guardian.
+1. _(a)_ Except as otherwise provided in this chapter or Ohio R.C. [Chapter
+4301][ORC Chapter 4301], no person shall sell beer or intoxicating liquor to an
+underage person, or shall buy beer or intoxicating liquor for an underage
+person, or shall furnish it to, an underage person, unless given by a physician
+in the regular line of his practice or given for established religious purposes,
+or unless the underage person is supervised by a parent, spouse who is not an
+underage person or legal guardian.
 
     In proceedings before the Liquor Control Commission, no permit holder, or no
     employee or agent of a permit holder, charged with a violation of this
@@ -247,24 +247,26 @@ less than five hundred dollars ($500.00).\
 
 ### 529.021   Purchase, consumption or possession by minor; misrepresentation
 
-1. _(a)_ Except as otherwise provided in this chapter or Ohio R.C. Chapter 4301,
-no person under the age of twenty-one years shall purchase beer or intoxicating
-liquor.\
+1. _(a)_ Except as otherwise provided in this chapter or Ohio R.C. [Chapter
+4301][ORC Chapter 4301], no person under the age of twenty-one years shall
+purchase beer or intoxicating liquor.\
 (ORC 4301.63)
 
-2. _(b)_ Except as otherwise provided in this chapter or Ohio R.C. Chapter 4301,
-no person shall knowingly furnish any false information as to the name, age or
-other identification of any person under twenty-one years of age for the purpose
-of obtaining or with the intent to obtain, beer or intoxicating liquor for a
-person under twenty-one years of age, by purchase, or as a gift.\
+2. _(b)_ Except as otherwise provided in this chapter or Ohio R.C. [Chapter
+4301][ORC Chapter 4301], no person shall knowingly furnish any false information
+as to the name, age or other identification of any person under twenty-one years
+of age for the purpose of obtaining or with the intent to obtain, beer or
+intoxicating liquor for a person under twenty-one years of age, by purchase, or
+as a gift.\
 (ORC 4301.633)
 
-3. _(c)_ Except as otherwise provided in this chapter or Ohio R.C. Chapter 4301,
-no person under the age of twenty-one years shall knowingly show or give false
-information concerning the person's name, age or other identification for the
-purpose of purchasing or otherwise obtaining beer or intoxicating liquor in any
-place where beer or intoxicating liquor is sold under a permit issued by the
-Division of Liquor Control or sold by the Division of Liquor Control.\
+3. _(c)_ Except as otherwise provided in this chapter or Ohio R.C. [Chapter
+4301][ORC Chapter 4301], no person under the age of twenty-one years shall
+knowingly show or give false information concerning the person's name, age or
+other identification for the purpose of purchasing or otherwise obtaining beer
+or intoxicating liquor in any place where beer or intoxicating liquor is sold
+under a permit issued by the Division of Liquor Control or sold by the Division
+of Liquor Control.\
 (ORC 4301.634)
 
 4. _(d)_
@@ -713,7 +715,7 @@ permit holder that is located in the market.
 
     1. _(1)_ Leases space in the market to individual vendors, not less than
     fifty percent of which are retail food establishments or food service
-    operations licensed under Ohio R.C. Chapter 3717;
+    operations licensed under Ohio R.C. [Chapter 3717][ORC Chapter 3717];
 
     2. _(2)_ Has an indoor sales floor area of not less than twenty-two thousand
     square feet;
@@ -791,4 +793,6 @@ shall they begin prior to five thirty a.m.\
 (Editor's note: See [Section 501.99][] for penalties applicable to any
 misdemeanor classification.)
 
+[ORC Chapter 3717]:<https://codes.ohio.gov/ohio-revised-code/chapter-3717/>
+[ORC Chapter 4301]:<https://codes.ohio.gov/ohio-revised-code/chapter-4301/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

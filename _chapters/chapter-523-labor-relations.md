@@ -15,7 +15,7 @@ title: "Chapter 523: Labor Relations"
 
 ## Cross references
 
-* Strikes by public employees - see Ohio R. C. Ch. 4117
+* Strikes by public employees - see Ohio R.C. [Chapter 4117][ORC Chapter 4117]
 * Assault - see GEN. OFF. 537.03
 
 ## 523.01   Preventing ingress, egress or access to any person by force or intimidation
@@ -47,3 +47,5 @@ not be permitted.\
 
 Whoever violates any provision of this chapter is guilty of a misdemeanor of
 the first degree.
+
+[ORC Chapter 4117]:<https://codes.ohio.gov/ohio-revised-code/chapter-4117>

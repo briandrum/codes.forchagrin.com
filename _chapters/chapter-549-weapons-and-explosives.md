@@ -688,12 +688,12 @@ person who is carrying a valid concealed handgun license to have one or more
 magazines or speed loaders containing ammunition anywhere in a vehicle, without
 being transported as described in that subsection, as long as no ammunition is
 in a firearm, other than a handgun, in the vehicle other than as permitted under
-any other provision of this chapter or Ohio R.C. Chapter 2923. A person who is
-carrying a valid concealed handgun license may have one or more magazines or
-speed loaders containing ammunition anywhere in a vehicle without further
-restriction, as long as no ammunition is in a firearm, other than a handgun, in
-the vehicle other than as permitted under any provision of this chapter or Ohio
-R.C. Chapter 2923.\
+any other provision of this chapter or Ohio R.C. [Chapter 2923][ORC Chapter
+2923]. A person who is carrying a valid concealed handgun license may have one
+or more magazines or speed loaders containing ammunition anywhere in a vehicle
+without further restriction, as long as no ammunition is in a firearm, other
+than a handgun, in the vehicle other than as permitted under any provision of
+this chapter or Ohio R.C. [Chapter 2923][ORC Chapter 2923].\
 (ORC 2923.16)
 
 ## 549.05   Failure to secure dangerous ordnance
@@ -901,4 +901,5 @@ firearm.\
 (Editor's note: See [Section 501.99][] for penalties applicable to any
 misdemeanor classification.)
 
+[ORC Chapter 2923]:<https://codes.ohio.gov/ohio-revised-code/chapter-2923/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

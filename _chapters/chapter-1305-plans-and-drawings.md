@@ -18,8 +18,8 @@ title: "Chapter 1305: Plans and Drawings"
 
 ## Cross references
 
-* Plans for public buildings to be submitted - see Ohio R. C. 3791.04
-* Fees for plan approval - see Ohio R. C. 3791.07
+* Plans for public buildings to be submitted - see Ohio R.C. 3791.04
+* Fees for plan approval - see Ohio R.C. 3791.07
 
 ## 1305.01   Consideration of applications
 

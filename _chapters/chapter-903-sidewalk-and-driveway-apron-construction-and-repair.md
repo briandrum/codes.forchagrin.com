@@ -16,7 +16,7 @@ title: "Chapter 903: Sidewalk and Driveway Apron Construction and Repair"
 
 ## Cross references
 
-* Construction or repair at owner's expense - see Ohio R. C. 729. 01 et seq.
+* Construction or repair at owner's expense - see Ohio R.C. 729. 01 et seq.
 * Driving over sidewalks - see TRAF. 331.37
 * Care of sidewalks; obstructions - see GEN. OFF. Ch. 543
 * Driveway permits - see BLDG. 1307.13

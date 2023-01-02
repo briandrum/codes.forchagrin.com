@@ -25,7 +25,7 @@ title: "Chapter 509: Disorderly Conduct and Peace Disturbance"
 * See sectional histories for similar State law
 * Use of force to suppress riot - see Ohio R.C. 2917.05
 * Cordoning off riot areas, prohibiting sales of firearms and explosives - see Ohio R.C. 3761.16
-* Emergency suspension of permits and sales by Director of Liquor Control - see Ohio R.C 4301.251
+* Emergency suspension of permits and sales by Director of Liquor Control - see Ohio R.C. 4301.251
 * Criminal trespass - see GEN. OFF. 541.05
 
 ## 509.01   Riot
@@ -324,11 +324,11 @@ or both sections.
         2. _(B)_ A private, nonprofit college, university or other
         post-secondary institution located in this State that possesses a
         certificate of authorization issued by the Ohio Board of Regents
-        pursuant to Ohio R.C. Chapter 1713.
+        pursuant to Ohio R.C. [Chapter 1713][ORC Chapter 1713].
 
         3. _(C)_ A post-secondary institution with a certificate of registration
         issued by the State Board of Career Colleges and Schools under Ohio R.C.
-        Chapter 3332.\
+        [Chapter 3332][ORC Chapter 3332].\
         (ORC 2917.31)
 
 ## 509.07   Making false alarms
@@ -534,4 +534,6 @@ may be enforced by the issuance of a citation per Criminal Rule 4.1.\
 (Editor's note: See [Section 501.99][] for penalties applicable to any
 misdemeanor classification.)
 
+[ORC Chapter 1713]:<https://codes.ohio.gov/ohio-revised-code/chapter-1713/>
+[ORC Chapter 3332]:<https://codes.ohio.gov/ohio-revised-code/chapter-3332/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

@@ -967,7 +967,7 @@ an assistance dog in either of the following circumstances:
         dog or horse that was the subject of the violation.
 
 6. _(f)_ This section does not apply to a licensed veterinarian whose conduct is
-in accordance with Ohio R.C. Chapter 4741.
+in accordance with Ohio R.C. [Chapter 4741][ORC Chapter 4741].
 
 7. _(g)_ This section only applies to an offender who knows or should know at
 the time of the violation that the police dog or horse or assistance dog that is
@@ -1056,4 +1056,5 @@ crime that the person is suspected of committing.\
 (Editor's note: See [Section 501.99][] for penalties applicable to any misdemeanor
 classification.)
 
+[ORC Chapter 4741]:<https://codes.ohio.gov/ohio-revised-code/chapter-4741/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

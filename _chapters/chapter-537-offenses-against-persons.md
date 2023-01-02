@@ -80,7 +80,23 @@ any of the following ways:
     vehicular homicide is a misdemeanor of the first degree. Vehicular homicide
     is a felony and shall be prosecuted under appropriate State law if, at the
     time of the offense, the offender was driving under a suspension or
-    cancellation imposed under Ohio R.C. Chapter 4510 or any other provision of
+    cancellation imposed under Ohio R.C. [Chapter 4510][ORC Chapter 4510] or any
+    other provision of the Ohio Revised Code or was operating a motor vehicle or
+    motorcycle, did not have a valid driver's license, commercial driver's
+    license, temporary instruction permit, probationary license, or nonresident
+    operating privilege, and was not eligible for renewal of the offender's
+    driver's license or commercial driver's license without examination under
+    Ohio R.C. 4507.10 or if the offender previously has been convicted of or
+    pleaded guilty to a violation of this section or any traffic-related
+    homicide, manslaughter or assault offense. The court shall impose a
+    mandatory jail term on the offender when required by Ohio R.C. 2903.06 (E).
+
+    2. _(2)_ Whoever violates subsection (a)(2) of this section is guilty of
+    vehicular manslaughter. Except as otherwise provided in this subsection,
+    vehicular manslaughter is a misdemeanor of the second degree. Vehicular
+    manslaughter is a misdemeanor of the first degree if, at the time of the
+    offense, the offender was driving under a suspension or cancellation imposed
+    under Ohio R.C. [Chapter 4510][ORC Chapter 4510] or any other provision of
     the Ohio Revised Code or was operating a motor vehicle or motorcycle, did
     not have a valid driver's license, commercial driver's license, temporary
     instruction permit, probationary license, or nonresident operating
@@ -88,23 +104,7 @@ any of the following ways:
     license or commercial driver's license without examination under Ohio R.C.
     4507.10 or if the offender previously has been convicted of or pleaded
     guilty to a violation of this section or any traffic-related homicide,
-    manslaughter or assault offense. The court shall impose a mandatory jail
-    term on the offender when required by Ohio R.C. 2903.06 (E).
-
-    2. _(2)_ Whoever violates subsection (a)(2) of this section is guilty of
-    vehicular manslaughter. Except as otherwise provided in this subsection,
-    vehicular manslaughter is a misdemeanor of the second degree. Vehicular
-    manslaughter is a misdemeanor of the first degree if, at the time of the
-    offense, the offender was driving under a suspension or cancellation imposed
-    under Ohio R.C. Chapter 4510 or any other provision of the Ohio Revised Code
-    or was operating a motor vehicle or motorcycle, did not have a valid
-    driver's license, commercial driver's license, temporary instruction permit,
-    probationary license, or nonresident operating privilege, and was not
-    eligible for renewal of the offender's driver's license or commercial
-    driver's license without examination under Ohio R.C. 4507.10 or if the
-    offender previously has been convicted of or pleaded guilty to a violation
-    of this section or any traffic-related homicide, manslaughter, or assault
-    offense.
+    manslaughter, or assault offense.
 
 3. _(c)_ The court shall impose a mandatory jail term of at least fifteen days
 on an offender who is convicted of or pleads guilty to a violation of subsection
@@ -117,13 +117,13 @@ of subsection (a)(1)A. hereof if either of the following applies:
     a violation of this section or Ohio R.C. 2903.06 or 2903.08.
 
     2. _(2)_ At the time of the offense, the offender was driving under
-    suspension or cancellation under Ohio R.C. Chapter 4510 or any other
-    provision of the Ohio Revised Code or was operating a motor vehicle or
-    motorcycle, did not have a valid driver's license, commercial driver's
-    license, temporary instruction permit, probationary license, or nonresident
-    operating privilege, and was not eligible for renewal of the offender's
-    driver's license or commercial driver's license without examination under
-    Ohio R.C. 4507.10.
+    suspension or cancellation under Ohio R.C. [Chapter 4510][ORC Chapter 4510]
+    or any other provision of the Ohio Revised Code or was operating a motor
+    vehicle or motorcycle, did not have a valid driver's license, commercial
+    driver's license, temporary instruction permit, probationary license, or
+    nonresident operating privilege, and was not eligible for renewal of the
+    offender's driver's license or commercial driver's license without
+    examination under Ohio R.C. 4507.10.
 
 4. _(d)_ Subsection (a)(1)B. does not apply in a particular construction zone
 unless signs of the type described in Ohio R.C. 2903.081 are erected in that
@@ -184,11 +184,11 @@ offense in the construction zone and does not apply as described in subsection
 2. _(b)_ Whoever violates this section is guilty of vehicular assault. Except as
 provided in this subsection, vehicular assault is a misdemeanor of the first
 degree. Vehicular assault is a felony if, at the time of the offense, the
-offender was driving under a suspension imposed under Ohio R.C. Chapter 4510, or
-any other provision of the Ohio Revised Code or if the offender previously has
-been convicted of or pleaded guilty to a violation of this section or any
-traffic- related homicide, manslaughter, or assault offense, and shall be
-prosecuted under appropriate state law.
+offender was driving under a suspension imposed under Ohio R.C. [Chapter
+4510][ORC Chapter 4510], or any other provision of the Ohio Revised Code or if
+the offender previously has been convicted of or pleaded guilty to a violation
+of this section or any traffic- related homicide, manslaughter, or assault
+offense, and shall be prosecuted under appropriate state law.
 
     In addition to any other sanctions imposed, the court shall impose upon the
     offender a class four suspension of the offender's driver's license,
@@ -473,12 +473,12 @@ another's unborn.
 
         2. _(B)_ "Hospital" does not include any of the following:
 
-            1. _(1)_ A facility licensed under Ohio R.C. Chapter 3721, a health
-            care facility operated by the Department of Mental Health or the
-            Department of Developmental Disabilities, a health maintenance
-            organization that does not operate a hospital, or the office of any
-            private, licensed health care professional, whether organized for
-            individual or group practice;
+            1. _(1)_ A facility licensed under Ohio R.C. [Chapter 3721][ORC
+            Chapter 3721], a health care facility operated by the Department of
+            Mental Health or the Department of Developmental Disabilities, a
+            health maintenance organization that does not operate a hospital, or
+            the office of any private, licensed health care professional,
+            whether organized for individual or group practice;
 
             2. _(2)_ An institution for the sick that is operated exclusively
             for patients who use spiritual means for healing and for whom the
@@ -488,7 +488,7 @@ another's unborn.
             Revenue Code of 1986", 100 Stat. 2085, 26 U.S.C. 1, as amended, and
             providing twenty-four-hour nursing care pursuant to the exemption in
             division (E) of Ohio R.C. 4723.32 from the licensing requirements of
-            Ohio R.C. Chapter 4723.
+            Ohio R.C. [Chapter 4723][ORC Chapter 4723].
 
     20. _(20)_ "Health maintenance organization" has the same meaning as in Ohio
     R.C. 3727.01.\
@@ -1230,17 +1230,17 @@ emergency service using the telephone number 9-1-1.\
 (ORC 128.01)
 
 2. _(b)_ No person shall knowingly use the telephone number of the 9-1-1 system
-established under Ohio R.C. Chapter 128 to report an emergency if he knows that
-no emergency exists.
+established under Ohio R.C. [Chapter 128][ORC Chapter 128] to report an
+emergency if he knows that no emergency exists.
 
 3. _(c)_ No person shall knowingly use a 9-1-1 system for a purpose other than
 obtaining emergency service.
 
 4. _(d)_ No person shall disclose or use any information concerning telephone
 numbers, addresses, or names obtained from the data base that serves the public
-safety answering point of a 9-1-1 system established under Ohio R.C. Chapter
-128, except for any of the following purposes or under any of the following
-circumstances:
+safety answering point of a 9-1-1 system established under Ohio R.C. [Chapter
+128][ORC Chapter 128], except for any of the following purposes or under any of
+the following circumstances:
 
     1. _(1)_ For the purpose of the 9-1-1 system;
 
@@ -1547,16 +1547,16 @@ Alternative Nicotine Products.**
         described in 21 U.S.C. 321 and 353(g).
 
         8. _(H)_ "Vapor product." Means a product, other than a cigarette or
-        other tobacco product as defined in Ohio R.C. Chapter 5743, that
-        contains or is made or derived from nicotine and that is intended and
-        marketed for human consumption, including by smoking, inhaling,
-        snorting, or sniffing. The phrase includes any component, part, or
-        additive that is intended for use in an electronic smoking device, a
-        mechanical heating element, battery, or electronic circuit and is used
-        to deliver the product. The phrase does not include any product that is
-        a drug, device, or combination product, as those terms are defined or
-        described in 21 U.S.C. 321 and 353(g). The phrase includes any product
-        containing nicotine, regardless of concentration.
+        other tobacco product as defined in Ohio R.C. [Chapter 5743][ORC Chapter
+        5743], that contains or is made or derived from nicotine and that is
+        intended and marketed for human consumption, including by smoking,
+        inhaling, snorting, or sniffing. The phrase includes any component,
+        part, or additive that is intended for use in an electronic smoking
+        device, a mechanical heating element, battery, or electronic circuit and
+        is used to deliver the product. The phrase does not include any product
+        that is a drug, device, or combination product, as those terms are
+        defined or described in 21 U.S.C. 321 and 353(g). The phrase includes
+        any product containing nicotine, regardless of concentration.
 
         9. _(I)_ "Vending machine." Has the same meaning as "coin machine" in
         Ohio R.C. 2913.01.
@@ -1698,7 +1698,7 @@ Alternative Nicotine Products.**
     of this section and that are used, possessed, purchased, or received by a
     person under twenty-one years of age in violation of Ohio R.C. 2151.87 are
     subject to seizure and forfeiture as contraband under Ohio R.C.
-    Chapter 2981.\
+    [Chapter 2981][ORC Chapter 2981].\
     (ORC 2927.02)
 
 2. _(b)_ **Transaction Scan.**
@@ -2008,10 +2008,10 @@ school, university, college or other educational institution who knew or
 reasonably should have known of the hazing and who did not make reasonable
 attempts to prevent it and against the school, university, college or other
 educational institution. If an administrator, employee or faculty member is
-found liable in a civil action for hazing, then notwithstanding Ohio R. C.
-Chapter 2743, the school, university, college or other educational institution
-that employed the administrator, employee or faculty member may also be held
-liable.
+found liable in a civil action for hazing, then notwithstanding Ohio R.C.
+[Chapter 2743][ORC Chapter 2743], the school, university, college or other
+educational institution that employed the administrator, employee or faculty
+member may also be held liable.
 
     The negligence or consent of the plaintiff or any assumption of the risk by
     the plaintiff is not a defense to an action brought pursuant to this
@@ -2032,4 +2032,11 @@ to the civil remedy provided for in subsection (d) hereof.\
 (Editor's note: See [Section 501.99][] for penalties applicable to any
 misdemeanor classification.)
 
+[ORC Chapter 128]:<https://codes.ohio.gov/ohio-revised-code/chapter-128/>
+[ORC Chapter 2743]:<https://codes.ohio.gov/ohio-revised-code/chapter-2743/>
+[ORC Chapter 2981]:<https://codes.ohio.gov/ohio-revised-code/chapter-2981/>
+[ORC Chapter 3721]:<https://codes.ohio.gov/ohio-revised-code/chapter-3721/>
+[ORC Chapter 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510/>
+[ORC Chapter 4723]:<https://codes.ohio.gov/ohio-revised-code/chapter-4723/>
+[ORC Chapter 5743]:<https://codes.ohio.gov/ohio-revised-code/chapter-5743/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

@@ -14,7 +14,7 @@ title: "Chapter 723: Meat and Meat Products"
 
 ## Cross references
 
-* Inspection by Municipality - see Ohio R. C. 715.46
+* Inspection by Municipality - see Ohio R.C. 715.46
 * Rat control - see GEN. OFF. 521.12
 
 ## 723.01   Inspection required

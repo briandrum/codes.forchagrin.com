@@ -21,7 +21,7 @@ title: "Chapter 1161: Subdivision Regulations"
 
 ## Cross references
 
-* State law provisions - see Ohio R.C. Ch. 711
+* State law provisions - see Ohio R.C. [Chapter 711][ORC Chapter 711]
 * Fees and deposits - see P. & Z. 1109.08
 * Appeals - see P. & Z. Ch. 1111
 * Landscaping regulations - see P. & Z. Ch. 1142
@@ -34,7 +34,8 @@ referred to as the "Subdivision Regulations of the Municipality of Chagrin
 Falls".
 
 2. _(b)_ **Intent.** This chapter is enacted in accordance with Ohio R.C.
-Chapter 711 and for the purpose and intent of the following objectives:
+[Chapter 711][ORC Chapter 711] and for the purpose and intent of the following
+objectives:
 
     1. _(1)_ Protecting the public health, safety, comfort, convenience and
     general welfare.
@@ -1405,6 +1406,7 @@ Municipality, in addition to any other criminal or civil remedies available
 under law.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
+[ORC Chapter 711]:<https://codes.ohio.gov/ohio-revised-code/chapter-711/>
 [Section 1109.08]:</chapters/chapter-1109-administration-and-enforcement/#110908-fees-and-deposits>
 [Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
 [Section 1143.05(b)]:</chapters/chapter-1143-signs/#114305(b)>

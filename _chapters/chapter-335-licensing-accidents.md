@@ -36,9 +36,9 @@ title: "Chapter 335: Licensing; Accidents"
 
 * See sectional histories for similar State law
 * Deposit of driver's license as bond - see Ohio R.C. 2937.221
-* Motor vehicle licensing law - see Ohio R.C. Ch. 4503
-* Driver's license law - see Ohio R.C. Ch. 4507
-* Power of trial court of record to suspend or revoke license for certain violations - see Ohio R.C. Ch. 4510
+* Motor vehicle licensing law - see Ohio R.C. [Chapter 4503][ORC Chapter 4503]
+* Driver's license law - see Ohio R.C. [Chapter 4507][ORC Chapter 4507]
+* Power of trial court of record to suspend or revoke license for certain violations - see Ohio R.C. [Chapter 4510][ORC Chapter 4510]
 * State point system suspension - see Ohio R.C. 4510.03.6
 * State accident reports - see Ohio R.C. 4509.01(J), 4509.06, 4509.74, 5502.11
 * Motorized bicycle operator's license - see Ohio R.C. 4511.521
@@ -52,21 +52,22 @@ title: "Chapter 335: Licensing; Accidents"
     4507.04, and 4507.05, shall operate any motor vehicle upon a public road or
     highway or any public or private property used by the public for purposes of
     vehicular travel or parking in this Municipality unless the person has a
-    valid driver's license issued under Ohio R.C. Chapter 4507 or a commercial
-    driver's license issued under Ohio R.C. Chapter 4506.
+    valid driver's license issued under Ohio R.C. [Chapter 4507][ORC Chapter
+    4507] or a commercial driver's license issued under Ohio R.C. [Chapter
+    4506][ORC Chapter 4506].
 
     2. _(2)_ No person, except a person expressly exempted under Ohio R.C.
     4507.03, 4507.04, and 4507.05, shall operate any motorcycle upon a public
     road or highway or any public or private property used by the public for
     purposes of vehicular travel or parking in this Municipality unless the
     person has a valid license as a motorcycle operator that was issued upon
-    application by the Registrar of Motor Vehicles under Ohio R.C. Chapter 4507.
-    The license shall be in the form of an endorsement, as determined by the
-    Registrar, upon a driver's or commercial driver's license, if the person has
-    a valid license to operate a motor vehicle or commercial motor vehicle, or
-    in the form of a restricted license as provided in Ohio R.C. 4507.14, if the
-    person does not have a valid license to operate a motor vehicle or
-    commercial motor vehicle.
+    application by the Registrar of Motor Vehicles under Ohio R.C. [Chapter
+    4507][ORC Chapter 4507]. The license shall be in the form of an endorsement,
+    as determined by the Registrar, upon a driver's or commercial driver's
+    license, if the person has a valid license to operate a motor vehicle or
+    commercial motor vehicle, or in the form of a restricted license as provided
+    in Ohio R.C. 4507.14, if the person does not have a valid license to operate
+    a motor vehicle or commercial motor vehicle.
 
 2. _(b)_ Upon the request or motion of the prosecuting authority, a noncertified
 copy of the law enforcement automated data system report or a noncertified copy
@@ -138,8 +139,8 @@ operating privilege from the range specified in division (A)(7) of Ohio R.C.
 or private property used by the public for purposes of vehicular travel or
 parking knowing the operator does not have a valid driver's license issued to
 the operator by the Registrar of Motor Vehicles or a Deputy Registrar under Ohio
-R.C. Chapter 4507 or a valid commercial driver's license issued under Ohio R.C.
-Chapter 4506.
+R.C. [Chapter 4507][ORC Chapter 4507] or a valid commercial driver's license
+issued under Ohio R.C. [Chapter 4506][ORC Chapter 4506].
 
 2. _(b)_
 
@@ -592,12 +593,12 @@ person's control to be driven by another if any of the following apply:
     2. _(2)_ The offender knows or has reasonable cause to believe that the
     other person's driver's or commercial driver's license or permit or
     nonresident operating privileges have been suspended or canceled under Ohio
-    R.C. Chapter 4510, or any other provision of the Ohio Revised Code or this
-    Traffic Code.
+    R.C. [Chapter 4510][ORC Chapter 4510], or any other provision of the Ohio
+    Revised Code or this Traffic Code.
 
     3. _(3)_ The offender knows or has reasonable cause to believe that the
     other person's act of driving the motor vehicle would violate any
-    prohibition contained in Ohio R.C. Chapter 4509.
+    prohibition contained in Ohio R.C. [Chapter 4509][ORC Chapter 4509].
 
     4. _(4)_ The offender knows or has reasonable cause to believe that the
     other person's act of driving would violate Ohio R.C. 4511.19 or any
@@ -741,9 +742,9 @@ collision in which the licensee may be involved. When a demand is properly made
 and the operator has the operator's driver's license on or about the operator's
 person, the operator shall not refuse to display the license. A person's failure
 to furnish satisfactory evidence that the person is licensed under Ohio R.C.
-Chapter 4507 when the person does not have the person's license on or about the
-person's person shall be prima- facie evidence of the person's not having
-obtained a driver's license.
+[Chapter 4507][ORC Chapter 4507] when the person does not have the person's
+license on or about the person's person shall be prima- facie evidence of the
+person's not having obtained a driver's license.
 
 2. _(b)_
 
@@ -772,13 +773,14 @@ obtained a driver's license.
 1. _(a)_ Except as provided under subsection (b) hereof and Sections 335.072 and
 335.074, no person whose driver's or commercial driver's license or permit or
 nonresident operating privilege has been suspended under any provision of the
-Ohio Revised Code, other than Ohio R.C. Chapter 4509, or under any applicable
-law in any other jurisdiction in which the person's license or permit was issued
-shall operate any motor vehicle upon the public roads and highways or upon any
-public or private property used by the public for purposes of vehicular travel
-or parking within this Municipality during the period of suspension unless the
-person is granted limited driving privileges and is operating the vehicle in
-accordance with the terms of the limited driving privileges.
+Ohio Revised Code, other than Ohio R.C. [Chapter 4509][ORC Chapter 4509], or
+under any applicable law in any other jurisdiction in which the person's license
+or permit was issued shall operate any motor vehicle upon the public roads and
+highways or upon any public or private property used by the public for purposes
+of vehicular travel or parking within this Municipality during the period of
+suspension unless the person is granted limited driving privileges and is
+operating the vehicle in accordance with the terms of the limited driving
+privileges.
 
 2. _(b)_ No person shall operate any motor vehicle upon a highway or any public
 or private property used by the public for purposes of vehicular travel or
@@ -886,8 +888,9 @@ of a municipal OVI ordinance shall operate any motor vehicle upon the public
 roads or highways within this Municipality during the period of the suspension.
 
 2. _(b)_ Whoever violates this section is guilty of driving under OVI
-suspension. The court shall sentence the offender under Ohio R.C. Chapter 2929,
-subject to the differences authorized or required by this section.
+suspension. The court shall sentence the offender under Ohio R.C. [Chapter
+2929][ORC Chapter 2929], subject to the differences authorized or required by
+this section.
 
     1. _(1)_ Except as otherwise provided in subsection (b)(2) or (3) of this
     section, driving under OVI suspension is a misdemeanor of the first degree.
@@ -914,17 +917,17 @@ subject to the differences authorized or required by this section.
     first degree. The court shall sentence the offender to all of the following:
 
         1. _(A)_ A mandatory jail term of ten consecutive days. Notwithstanding
-        the jail terms provided in Ohio R.C. Chapter 2929, the court may
-        sentence the offender to a longer jail term of not more than one year.
-        The ten-day mandatory jail term shall be imposed unless, subject to
-        subsection (c) of this section, the court instead imposes a sentence of
-        not less than ninety consecutive days of house arrest with electronic
-        monitoring. The period of house arrest with electronic monitoring shall
-        not exceed one year.
+        the jail terms provided in Ohio R.C. [Chapter 2929][ORC Chapter 2929],
+        the court may sentence the offender to a longer jail term of not more
+        than one year. The ten-day mandatory jail term shall be imposed unless,
+        subject to subsection (c) of this section, the court instead imposes a
+        sentence of not less than ninety consecutive days of house arrest with
+        electronic monitoring. The period of house arrest with electronic
+        monitoring shall not exceed one year.
 
-        2. _(B)_ Notwithstanding the fines provided for in Ohio R.C. Chapter
-        2929, a fine of not less than five hundred dollars ($500.00) and not
-        more than two thousand five hundred dollars ($2,500).
+        2. _(B)_ Notwithstanding the fines provided for in Ohio R.C. [Chapter
+        2929][ORC Chapter 2929], a fine of not less than five hundred dollars
+        ($500.00) and not more than two thousand five hundred dollars ($2,500).
 
         3. _(C)_ A license suspension under subsection (e) of this section.
 
@@ -935,15 +938,15 @@ subject to the differences authorized or required by this section.
     all of the following:
 
         1. _(A)_ A mandatory jail term of thirty consecutive days.
-        Notwithstanding the jail terms provided in Ohio R.C. Chapter 2929, the
-        court may sentence the offender to a longer jail term of not more than
-        one year. The court shall not sentence the offender to a term of house
-        arrest with electronic monitoring in lieu of the mandatory portion of
-        the jail term.
+        Notwithstanding the jail terms provided in Ohio R.C. [Chapter 2929][ORC
+        Chapter 2929], the court may sentence the offender to a longer jail term
+        of not more than one year. The court shall not sentence the offender to
+        a term of house arrest with electronic monitoring in lieu of the
+        mandatory portion of the jail term.
 
-        2. _(B)_ Notwithstanding the fines set forth in Ohio R.C. Chapter 2929,
-        a fine of not less than five hundred dollars ($500.00) and not more than
-        two thousand five hundred dollars ($2,500).
+        2. _(B)_ Notwithstanding the fines set forth in Ohio R.C. [Chapter
+        2929][ORC Chapter 2929], a fine of not less than five hundred dollars
+        ($500.00) and not more than two thousand five hundred dollars ($2,500).
 
         3. _(C)_ A license suspension under subsection (e) of this section.
 
@@ -982,11 +985,11 @@ the range specified in division (A)(7) of Ohio R.C. 4510.02.
     concurrent with any period of suspension or disqualification under Ohio R.C.
     3123.58 or 4506.16. No person who is disqualified for life from holding a
     commercial driver's license under Ohio R.C. 4506.16 shall be issued a
-    driver's license under Ohio R.C. Chapter 4507 during the period for which
-    the commercial driver's license was suspended under this section, and no
-    person whose commercial driver's license is suspended under this section
-    shall be issued a driver's license under Ohio R.C. Chapter 4507 during the
-    period of the suspension.
+    driver's license under Ohio R.C. [Chapter 4507][ORC Chapter 4507] during the
+    period for which the commercial driver's license was suspended under this
+    section, and no person whose commercial driver's license is suspended under
+    this section shall be issued a driver's license under Ohio R.C. [Chapter
+    4507][ORC Chapter 4507] during the period of the suspension.
 
 6. _(f)_ The offender shall provide the court with proof of financial
 responsibility as defined in Ohio R.C. 4509.01. If the offender fails to provide
@@ -1035,7 +1038,7 @@ which the offender is sentenced.\
         offense.
 
     2. _(2)_ An order for immobilization and impoundment of a vehicle under this
-    section shall be issued and enforced in accordance with Ohio R.C 4503.233
+    section shall be issued and enforced in accordance with Ohio R.C. 4503.233
     and 4507.02, as applicable. The court shall not release a vehicle from
     immobilization ordered under this section unless the court is presented with
     current proof of financial responsibility with respect to that vehicle.
@@ -1088,16 +1091,17 @@ which the offender is sentenced.\
 
 1. _(a)_ No person, whose driver's or commercial driver's license or temporary
 instruction permit or nonresident's operating privilege has been suspended or
-canceled pursuant to Ohio R.C. Chapter 4509, shall operate any motor vehicle
-within this Municipality, or knowingly permit any motor vehicle owned by the
-person to be operated by another person in the Municipality, during the period
-of the suspension or cancellation, except as specifically authorized by Ohio
-R.C. Chapter 4509. No person shall operate a motor vehicle within this
-Municipality, or knowingly permit any motor vehicle owned by the person to be
-operated by another person in the Municipality, during the period in which the
-person is required by Ohio R.C. 4509.45 to file and maintain proof of financial
-responsibility for a violation of Ohio R.C. 4509.101, unless proof of financial
-responsibility is maintained with respect to that vehicle.
+canceled pursuant to Ohio R.C. [Chapter 4509][ORC Chapter 4509], shall operate
+any motor vehicle within this Municipality, or knowingly permit any motor
+vehicle owned by the person to be operated by another person in the
+Municipality, during the period of the suspension or cancellation, except as
+specifically authorized by Ohio R.C. [Chapter 4509][ORC Chapter 4509]. No person
+shall operate a motor vehicle within this Municipality, or knowingly permit any
+motor vehicle owned by the person to be operated by another person in the
+Municipality, during the period in which the person is required by Ohio R.C.
+4509.45 to file and maintain proof of financial responsibility for a violation
+of Ohio R.C. 4509.101, unless proof of financial responsibility is maintained
+with respect to that vehicle.
 
 2. _(b)_ No person shall operate any motor vehicle upon a highway or any public
 or private property used by the public for purposes of vehicular travel or
@@ -1272,37 +1276,41 @@ section.
 
     1. _(1)_ Operate in this Municipality a motor vehicle for which a
     certificate of title is required without having that certificate in
-    accordance with Ohio R.C. Chapter 4505 or, if a physical certificate of
-    title has not been issued for a motor vehicle, operate the motor vehicle in
-    this Municipality knowing that the ownership information relating to the
-    vehicle has not been entered into the automated title processing system by a
-    clerk of a court of common pleas;
+    accordance with Ohio R.C. [Chapter 4505][ORC Chapter 4505] or, if a physical
+    certificate of title has not been issued for a motor vehicle, operate the
+    motor vehicle in this Municipality knowing that the ownership information
+    relating to the vehicle has not been entered into the automated title
+    processing system by a clerk of a court of common pleas;
 
     2. _(2)_ Display or display for sale or sell as a dealer or acting on behalf
     of a dealer, a motor vehicle without having obtained a manufacturer's or
     importer's certificate, a certificate of title, or an assignment of a
-    certificate of title for it as provided in Ohio R.C. Chapter 4505;
+    certificate of title for it as provided in Ohio R.C. [Chapter 4505][ORC
+    Chapter 4505];
 
     3. _(3)_ Fail to surrender any certificate of title or any certificate of
     registration or license plates upon cancellation of the same by the
     Registrar of Motor Vehicles and notice of the cancellation as prescribed in
-    Ohio R.C. Chapter 4505;
+    Ohio R.C. [Chapter 4505][ORC Chapter 4505];
 
     4. _(4)_ Fail to surrender the certificate of title to a clerk of a court of
-    common pleas as provided in Ohio R.C. Chapter 4505 in case of the
-    destruction or dismantling or change of a motor vehicle in such respect that
-    it is not the motor vehicle described in the certificate of title;
+    common pleas as provided in Ohio R.C. [Chapter 4505][ORC Chapter 4505] in
+    case of the destruction or dismantling or change of a motor vehicle in such
+    respect that it is not the motor vehicle described in the certificate of
+    title;
 
-    5. _(5)_ Violate any rules adopted pursuant to Ohio R.C. Chapter 4505;
+    5. _(5)_ Violate any rules adopted pursuant to Ohio R.C. [Chapter 4505][ORC
+    Chapter 4505];
 
-    6. _(6)_ Except as otherwise provided in Ohio R.C. Chapter 4505 and Chapter
-    4517, sell at wholesale a motor vehicle the ownership of which is not
-    evidenced by an Ohio certificate of title, or the current certificate of
-    title issued for the motor vehicle, or the manufacturer's certificate of
-    origin, and all title assignments that evidence the seller's ownership of
-    the motor vehicle, and an odometer disclosure statement that complies with
-    Ohio R.C. 4505.06 and subchapter IV of the "Motor Vehicle Information and
-    Cost Savings Act", 86 Stat. 961 (1972), 15 U.S.C. 1981;
+    6. _(6)_ Except as otherwise provided in Ohio R.C. [Chapter 4505][ORC
+    Chapter 4505] and [Chapter 4517][ORC Chapter 4517], sell at wholesale a
+    motor vehicle the ownership of which is not evidenced by an Ohio certificate
+    of title, or the current certificate of title issued for the motor vehicle,
+    or the manufacturer's certificate of origin, and all title assignments that
+    evidence the seller's ownership of the motor vehicle, and an odometer
+    disclosure statement that complies with Ohio R.C. 4505.06 and subchapter IV
+    of the "Motor Vehicle Information and Cost Savings Act", 86 Stat. 961
+    (1972), 15 U.S.C. 1981;
 
     7. _(7)_ Operate in this Municipality a motor vehicle knowing that the
     certificate of title to the vehicle or ownership of the vehicle as otherwise
@@ -1372,7 +1380,7 @@ operation of a manufacturer's or dealer's motor vehicle, a minor misdemeanor.\
 1. _(a)_ No person who is the owner of a motor vehicle which is parked or
 operated upon the public streets or highways shall fail to annually file the
 application for registration or to pay the tax therefor, as required by Ohio
-R.C. Chapter 4503.\
+R.C. [Chapter 4503][ORC Chapter 4503].\
 (ORC 4503.11)
 
 2. _(b)_ No person shall operate, drive or park upon the public streets or
@@ -1647,5 +1655,13 @@ first degree.
     during or after committing the offense charged under this section.\
     (ORC 4549.03)
 
+[ORC Chapter 2929]:<https://codes.ohio.gov/ohio-revised-code/chapter-2929/>
+[ORC Chapter 4503]:<https://codes.ohio.gov/ohio-revised-code/chapter-4503/>
+[ORC Chapter 4505]:<https://codes.ohio.gov/ohio-revised-code/chapter-4505/>
+[ORC Chapter 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506/>
+[ORC Chapter 4507]:<https://codes.ohio.gov/ohio-revised-code/chapter-4507/>
+[ORC Chapter 4509]:<https://codes.ohio.gov/ohio-revised-code/chapter-4509/>
+[ORC Chapter 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510/>
+[ORC Chapter 4517]:<https://codes.ohio.gov/ohio-revised-code/chapter-4517/>
 [Section 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
 [Section 333.01(a)]:</chapters/chapter-333-ovi-willful-misconduct-speed/#33301(a)(1)>

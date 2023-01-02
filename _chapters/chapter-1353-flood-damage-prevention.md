@@ -1138,6 +1138,8 @@ separate offense. Nothing herein contained shall prevent the Village from taking
 such other lawful action as is necessary to prevent or remedy any violation.\
 (Ord. 2005-22. Passed 4-11-05.)
 
+[ORC Article XVIII, Section 3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
+[ORC Section 111.15]:<https://codes.ohio.gov/ohio-revised-code/section-111.15>
 [Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
 [Section 1111.04]:</chapters/chapter-1111-appeals-and-variances/#111104-notices>
 [Section 1111.05]:</chapters/chapter-1111-appeals-and-variances/#111105-meetings-quorum-and-vote>
@@ -1151,10 +1153,8 @@ such other lawful action as is necessary to prevent or remedy any violation.\
 [Section 1353.04(d)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(4)>
 [Section 1353.04(d)(9)A.1.]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(9)(A)(1)>
 [Section 1353.05]:</chapters/chapter-1353-flood-damage-prevention/#135305-variance-procedure>
-[Section 1353.06]:</chapters/chapter-1353-flood-damage-prevention/#135306-provisions-for-flood-hazard-reduction>
 [Section 1353.06(a)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135306(a)(4)>
 [Section 1353.06(b)(2)]:</chapters/chapter-1353-flood-damage-prevention/#135306(b)(2)>
 [Section 1353.06(b)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135306(b)(4)>
+[Section 1353.06]:</chapters/chapter-1353-flood-damage-prevention/#135306-provisions-for-flood-hazard-reduction>
 [Section 1353.07(a)]:</chapters/chapter-1353-flood-damage-prevention/#135307(a)>
-[ORC Section 111.15]:<https://codes.ohio.gov/ohio-revised-code/section-111.15>
-[ORC Article XVIII, Section 3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>

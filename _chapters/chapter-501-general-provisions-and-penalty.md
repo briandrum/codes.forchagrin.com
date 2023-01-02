@@ -293,10 +293,10 @@ meaning as in Ohio R.C. 2925.01.
 18. _(r)_ "School activity" means any activity held under the auspices of a
 board of education of a city, local, exempted village, joint vocational, or
 cooperative education school district; a governing authority of a community
-school established under Ohio R.C. Chapter 3314; a governing body of an
-educational service center; or the governing body of a nonpublic school for
-which the State Board of Education prescribes minimum standards under Ohio R.C.
-3301.07.
+school established under Ohio R.C. [Chapter 3314][ORC Chapter 3314]; a governing
+body of an educational service center; or the governing body of a nonpublic
+school for which the State Board of Education prescribes minimum standards under
+Ohio R.C. 3301.07.
 
 19. _(s)_ "School bus" has the same meaning as in Ohio R.C. 4511.01. (ORC
 2901.01)
@@ -680,11 +680,11 @@ that is within the next lower range of controlled substance amounts than was
 involved in the attempt. An attempt to commit any other misdemeanor is a
 misdemeanor of the next lesser degree than the misdemeanor attempted. In the
 case of an attempt to commit an offense other than a violation of Ohio R.C.
-Chapter 3734 that is not specifically classified, an attempt is a misdemeanor of
-the first degree if the offense attempted is a felony under the Ohio Revised
-Code, and a misdemeanor of the fourth degree if the offense attempted is a
-misdemeanor. An attempt to commit a minor misdemeanor is not an offense under
-this section.
+[Chapter 3734][ORC Chapter 3734] that is not specifically classified, an attempt
+is a misdemeanor of the first degree if the offense attempted is a felony under
+the Ohio Revised Code, and a misdemeanor of the fourth degree if the offense
+attempted is a misdemeanor. An attempt to commit a minor misdemeanor is not an
+offense under this section.
 
 6. _(f)_ As used in this section, "drug abuse offense" has the same meaning as
 in Ohio R.C. 2925.01.\
@@ -814,8 +814,8 @@ illegal processing of drug documents, the commission of a felony offense of
 unauthorized use of a vehicle, illegally transmitting multiple commercial
 electronic mail messages or unauthorized access of a computer in violation of
 Ohio R.C. 2923.421 or the commission of a violation of any provision of Ohio
-R.C. Chapter 3734, other than Ohio R.C. 3734.18, that relates to hazardous
-wastes, shall do either of the following:
+R.C. [Chapter 3734][ORC Chapter 3734], other than Ohio R.C. 3734.18, that
+relates to hazardous wastes, shall do either of the following:
 
     1. _(1)_ With another person or persons, plan or aid in planning the
     commission of any of the specified offenses;
@@ -919,8 +919,8 @@ other than this section. In such a case, however:
     the most serious offense that is the object of the conspiracy is a felony
     drug trafficking, manufacturing, processing or possession offense, in
     addition to the penalties or sanctions that may be imposed for the
-    conspiracy under subsection (j) hereof and Ohio R.C. Chapter 2929, both of
-    the following apply:
+    conspiracy under subsection (j) hereof and Ohio R.C. [Chapter 2929][ORC
+    Chapter 2929], both of the following apply:
 
         1. _(A)_ The provisions of divisions (D), (F) and (G) of Ohio R.C.
         2925.03, division (D) of Ohio R.C. 2925.04, division (D) of Ohio R.C.
@@ -942,7 +942,7 @@ other than this section. In such a case, however:
         provisions identified as being applicable under subsection (l)(2) of
         this section, in addition to any other penalty or sanction that it
         imposes for the conspiracy under subsection (j) of this section and Ohio
-        R.C. Chapter 2929.
+        R.C. [Chapter 2929][ORC Chapter 2929].
 
 13. _(m)_ As used in this section:
 
@@ -1176,3 +1176,7 @@ fine as follows:
     Section 501.11, either in addition to or in lieu of a fine imposed pursuant
     to this subsection (c).\
     (ORC 2929.31)
+
+[ORC Chapter 2929]:<https://codes.ohio.gov/ohio-revised-code/chapter-2929/>
+[ORC Chapter 3314]:<https://codes.ohio.gov/ohio-revised-code/chapter-3314/>
+[ORC Chapter 3734]:<https://codes.ohio.gov/ohio-revised-code/chapter-3734/>

@@ -40,8 +40,8 @@ of alcohol per the following:
     3. _(3)_ One hundred milliliters of urine.
 
 2. _(b)_ "Commercial driver's license" means a license issued in accordance with
-Ohio R.C. Chapter 4506 that authorizes an individual to drive a commercial motor
-vehicle.
+Ohio R.C. [Chapter 4506][ORC Chapter 4506] that authorizes an individual to
+drive a commercial motor vehicle.
 
 3. _(c)_ "Commercial motor vehicle" means any motor vehicle designed or used to
 transport persons or property that meets any of the following qualifications:
@@ -238,10 +238,11 @@ person when engaged in the operation of any of the following:
     local government and is operating the commercial motor vehicle for the
     purpose of removing snow or ice from a roadway by plowing, sanding, or
     salting, but only if either the employee who holds a commercial driver's
-    license issued under Ohio R.C. Chapter 4506 and ordinarily operates a
-    commercial motor vehicle for these purposes is unable to operate the
-    vehicle, or the employing eligible unit of local government determines that
-    a snow or ice emergency exists that requires additional assistance;
+    license issued under Ohio R.C. [Chapter 4506][ORC Chapter 4506] and
+    ordinarily operates a commercial motor vehicle for these purposes is unable
+    to operate the vehicle, or the employing eligible unit of local government
+    determines that a snow or ice emergency exists that requires additional
+    assistance;
 
     6. _(6)_ A vehicle operated for military purposes by any member or uniformed
     employee of the armed forces of the United States or their reserve
@@ -252,7 +253,8 @@ person when engaged in the operation of any of the following:
     purposes. "Operated for nonbusiness purposes" means that the commercial
     motor vehicle is not used in commerce as "commerce" is defined in 49 C.F.R.
     383.5, as amended, and is not regulated by the Public Utilities Commission
-    pursuant to Ohio R.C. Chapter 4905, 4921, or 4923.
+    pursuant to Ohio R.C. [Chapter 4905][ORC Chapter 4905], [4921][ORC Chapter
+    4921], or [4923][ORC Chapter 4923].
 
     8. _(8)_ A motor vehicle that is designed primarily for the transportation
     of goods and not persons, while that motor vehicle is being used for the
@@ -402,6 +404,10 @@ commercial driver's license temporary instruction permit.
     fine not to exceed ten thousand dollars.\
     (ORC 4506.20)
 
+[ORC Chapter 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506/>
+[ORC Chapter 4905]:<https://codes.ohio.gov/ohio-revised-code/chapter-4905/>
+[ORC Chapter 4921]:<https://codes.ohio.gov/ohio-revised-code/chapter-4921/>
+[ORC Chapter 4923]:<https://codes.ohio.gov/ohio-revised-code/chapter-4923/>
 [Section 341.02]:</chapters/chapter-341-commercial-drivers/#34102-exemptions>
 [Section 341.03]:</chapters/chapter-341-commercial-drivers/#34103-prerequisites-to-operation-of-a-commercial-motor-vehicle>
 [Section 341.05]:</chapters/chapter-341-commercial-drivers/#34105-criminal-offenses>

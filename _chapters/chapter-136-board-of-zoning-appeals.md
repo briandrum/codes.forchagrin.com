@@ -66,8 +66,8 @@ business and the affirmative vote of three members of the Board shall be
 necessary for any official decision. Failure to receive three affirmative votes
 will constitute a denial of the motion pending before the Board and a
 maintenance of the status quo or previous decision being reviewed. The Board
-shall conduct all of its meetings pursuant to Ohio R.C. 2506 and amendments
-thereto.\
+shall conduct all of its meetings pursuant to Ohio R.C. [2506][ORC Chapter 2506]
+and amendments thereto.\
 (Ord.1983-38. Passed 11-28-83.)
 
 ## 136.04   Duties
@@ -79,3 +79,5 @@ governing zoning and building in the Municipality under procedures established
 by Council. Such board shall have such other duties and functions as may be
 provided by ordinance of Council.\
 (CHTR. Art. VII, Sec. 5)
+
+[ORC Chapter 2506]:<https://codes.ohio.gov/ohio-revised-code/chapter-2506>

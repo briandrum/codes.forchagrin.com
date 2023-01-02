@@ -29,7 +29,7 @@ title: "Chapter 513: Drug Abuse Control"
 * See sectional histories for similar State law
 * Federal prosecution bar to local prosecution - see Ohio R.C. 2925.50, 3719.19
 * Analysis report and notarized statement as evidence - see Ohio R.C. 2925.51
-* Criteria for granting probation - see Ohio R.C 3719.70(B)
+* Criteria for granting probation - see Ohio R.C. 3719.70(B)
 * Adulterating food with drug of abuse - see GEN. OFF. 537.13
 * Using weapons while under the influence - see GEN. OFF. 549.03
 
@@ -331,9 +331,9 @@ but means any of the following:
         than 0.3%.
 
     2. _(2)_ The term does not include a hemp byproduct in the possession of a
-    licensed hemp processor under Ohio R.C. Chapter 928, provided that the hemp
-    byproduct is being produced, stored, and disposed of in accordance with
-    rules adopted under Ohio R.C. 928.03.
+    licensed hemp processor under Ohio R.C. [Chapter 928][ORC Chapter 928],
+    provided that the hemp byproduct is being produced, stored, and disposed of
+    in accordance with rules adopted under Ohio R.C. 928.03.
 
 25. _(y)_ "Hypodermic."  Has the same meaning as in Ohio R.C. 3719.01.
 
@@ -405,24 +405,25 @@ licensed person.
 
     1. _(1)_ A person who has received a certificate or temporary certificate as
     a certified public accountant or who has registered as a public accountant
-    under Ohio R.C. Chapter 4701 and who holds an Ohio permit issued under that
-    chapter;
+    under Ohio R.C. [Chapter 4701][ORC Chapter 4701] and who holds an Ohio
+    permit issued under that chapter;
 
     2. _(2)_ A person who holds a certificate of qualification to practice
-    architecture issued or renewed and registered under Ohio R.C. Chapter 4703;
+    architecture issued or renewed and registered under Ohio R.C. [Chapter
+    4703][ORC Chapter 4703];
 
     3. _(3)_ A person who is registered as a landscape architect under Ohio R.C.
-    Chapter 4703 or who holds a permit as a landscape architect issued under
-    that chapter;
+    [Chapter 4703][ORC Chapter 4703] or who holds a permit as a landscape
+    architect issued under that chapter;
 
-    4. _(4)_ A person licensed under Ohio R.C. Chapter 4707;
+    4. _(4)_ A person licensed under Ohio R.C. [Chapter 4707][ORC Chapter 4707];
 
     5. _(5)_ A person who has been issued a certificate of registration as a
-    registered barber under Ohio R.C. Chapter 4709;
+    registered barber under Ohio R.C. [Chapter 4709][ORC Chapter 4709];
 
     6. _(6)_ A person licensed and regulated to engage in the business of a debt
     pooling company by a legislative authority, under authority of Ohio R.C.
-    Chapter 4710;
+    [Chapter 4710][ORC Chapter 4710];
 
     7. _(7)_ A person who has been issued a cosmetologist's license, hair
     designer's license, manicurist's license, esthetician's license, natural
@@ -432,109 +433,113 @@ licensed person.
     license, hair design instructor's license, manicurist instructor's license,
     esthetics instructor's license, natural hair style instructor's license,
     independent contractor's license, or tanning facility permit under Ohio R.C.
-    Chapter 4713;
+    [Chapter 4713][ORC Chapter 4713];
 
     8. _(8)_ A person who has been issued a license to practice dentistry, a
     general anesthesia permit, a conscious sedation permit, a limited resident's
     license, a limited teaching license, a dental hygienist's license or a
-    dental hygienist's teacher's certificate under Ohio R.C. Chapter 4715;
+    dental hygienist's teacher's certificate under Ohio R.C. [Chapter 4715][ORC
+    Chapter 4715];
 
     9. _(9)_ A person who has been issued an embalmer's license, a funeral
     director's license, a funeral home license or a crematory license, or who
     has been registered for an embalmer's or funeral director's apprenticeship
-    under Ohio R.C. Chapter 4717;
+    under Ohio R.C. [Chapter 4717][ORC Chapter 4717];
 
     10. _(10)_ A person who has been licensed as a registered nurse or practical
     nurse, or who has been issued a certificate for the practice of
-    nurse-midwifery under Ohio R.C. Chapter 4723;
+    nurse-midwifery under Ohio R.C. [Chapter 4723][ORC Chapter 4723];
 
     11. _(11)_ A person who has been licensed to practice optometry or to engage
-    in optical dispensing under Ohio R.C. Chapter 4725;
+    in optical dispensing under Ohio R.C. [Chapter 4725][ORC Chapter 4725];
 
-    12. _(12)_ A person licensed to act as a pawnbroker under Ohio R.C. Chapter
-    4727;
+    12. _(12)_ A person licensed to act as a pawnbroker under Ohio R.C. [Chapter
+    4727][ORC Chapter 4727];
 
     13. _(13)_ A person licensed to act as a precious metals dealer under Ohio
-    R.C. Chapter 4728;
+    R.C. [Chapter 4728][ORC Chapter 4728];
 
-    14. _(14)_ A person licensed under Ohio R.C. Chapter 4729 as a pharmacist or
-    pharmacy intern or registered under that chapter as a registered pharmacy
-    technician, certified pharmacy technician, or pharmacy technician trainee;
+    14. _(14)_ A person licensed under Ohio R.C. [Chapter 4729][ORC Chapter
+    4729] as a pharmacist or pharmacy intern or registered under that chapter as
+    a registered pharmacy technician, certified pharmacy technician, or pharmacy
+    technician trainee;
 
-    15. _(15)_ A person licensed under Ohio R.C. Chapter 4729 as a manufacturer
-    of dangerous drugs, outsourcing facility, third-party logistics provider,
-    repackager of dangerous drugs, wholesale distributor of dangerous drugs, or
-    terminal distributor of dangerous drugs;
+    15. _(15)_ A person licensed under Ohio R.C. [Chapter 4729][ORC Chapter
+    4729] as a manufacturer of dangerous drugs, outsourcing facility,
+    third-party logistics provider, repackager of dangerous drugs, wholesale
+    distributor of dangerous drugs, or terminal distributor of dangerous drugs;
 
     16. _(16)_ A person who is authorized to practice as a physician assistant
-    under Ohio R.C. Chapter 4730;
+    under Ohio R.C. [Chapter 4730][ORC Chapter 4730];
 
     17. _(17)_ A person who has been issued a license to practice medicine and
     surgery, osteopathic medicine and surgery, or podiatric medicine and surgery
-    under Ohio R.C. Chapter 4731 or has been issued a certificate to practice a
-    limited branch of medicine under that chapter;
+    under Ohio R.C. [Chapter 4731][ORC Chapter 4731] or has been issued a
+    certificate to practice a limited branch of medicine under that chapter;
 
     18. _(18)_ A person licensed as a psychologist or school psychologist under
-    Ohio R.C. Chapter 4732;
+    Ohio R.C. [Chapter 4732][ORC Chapter 4732];
 
     19. _(19)_ A person registered to practice the profession of engineering or
-    surveying under Ohio R.C. Chapter 4733;
+    surveying under Ohio R.C. [Chapter 4733][ORC Chapter 4733];
 
     20. _(20)_ A person who has been issued a license to practice chiropractic
-    under Ohio R.C. Chapter 4734;
+    under Ohio R.C. [Chapter 4734][ORC Chapter 4734];
 
     21. _(21)_ A person licensed to act as a real estate broker or real estate
-    salesperson under Ohio R.C. Chapter 4735;
+    salesperson under Ohio R.C. [Chapter 4735][ORC Chapter 4735];
 
     22. _(22)_ A person registered as a registered environmental health
-    specialist under Ohio R.C. Chapter 4736;
+    specialist under Ohio R.C. [Chapter 4736][ORC Chapter 4736];
 
     23. _(23)_ A person licensed to operate or maintain a junkyard under Ohio
-    R.C. Chapter 4737;
+    R.C. [Chapter 4737][ORC Chapter 4737];
 
     24. _(24)_ A person who has been issued a motor vehicle salvage dealer's
-    license under Ohio R.C. Chapter 4738;
+    license under Ohio R.C. [Chapter 4738][ORC Chapter 4738];
 
     25. _(25)_ A person who has been licensed to act as a steam engineer under
-    Ohio R.C. Chapter 4739;
+    Ohio R.C. [Chapter 4739][ORC Chapter 4739];
 
     26. _(26)_ A person who has been issued a license or temporary permit to
     practice veterinary medicine or any of its branches, or who is registered as
-    a graduate animal technician under Ohio R.C. Chapter 4741;
+    a graduate animal technician under Ohio R.C. [Chapter 4741][ORC Chapter
+    4741];
 
     27. _(27)_ A person who has been issued a hearing aid dealer's or fitter's
-    license or trainee permit under Ohio R.C. Chapter 4747;
+    license or trainee permit under Ohio R.C. [Chapter 4747][ORC Chapter 4747];
 
     28. _(28)_ A person who has been issued a class A, class B or class C
     license or who has been registered as an investigator or security guard
-    employee under Ohio R.C. Chapter 4749;
+    employee under Ohio R.C. [Chapter 4749][ORC Chapter 4749];
 
     29. _(29)_ A person licensed to practice as a nursing home administrator
-    under Ohio R.C. Chapter 4751;
+    under Ohio R.C. [Chapter 4751][ORC Chapter 4751];
 
     30. _(30)_ A person licensed to practice as a speech-language pathologist or
-    audiologist under Ohio R.C. Chapter 4753;
+    audiologist under Ohio R.C. [Chapter 4753][ORC Chapter 4753];
 
     31. _(31)_ A person issued a license as an occupational therapist or
-    physical therapist under Ohio R.C. Chapter 4755;
+    physical therapist under Ohio R.C. [Chapter 4755][ORC Chapter 4755];
 
     32. _(32)_ A person who is licensed as a licensed professional clinical
     counselor, licensed professional counselor, social worker, independent
     social worker, independent marriage and family therapist, or marriage and
     family therapist, or registered as a social work assistant under Ohio R.C.
-    Chapter 4757;
+    [Chapter 4757][ORC Chapter 4757];
 
     33. _(33)_ A person issued a license to practice dietetics under Ohio R.C.
-    Chapter 4759;
+    [Chapter 4759][ORC Chapter 4759];
 
     34. _(34)_ A person who has been issued a license or limited permit to
-    practice respiratory therapy under Ohio R.C. Chapter 4761;
+    practice respiratory therapy under Ohio R.C. [Chapter 4761][ORC Chapter
+    4761];
 
     35. _(35)_ A person who has been issued a real estate appraiser certificate
-    under Ohio R.C. Chapter 4763;
+    under Ohio R.C. [Chapter 4763][ORC Chapter 4763];
 
     36. _(36)_ A person who has been issued a home inspector license under Ohio
-    R.C. Chapter 4764;
+    R.C. [Chapter 4764][ORC Chapter 4764];
 
     37. _(37)_ A person who has been admitted to the bar by order of the Ohio
     Supreme Court in compliance with its prescribed and published rules.
@@ -554,11 +559,11 @@ manufacturer.
 "Schedule V." Have the same meaning as in Ohio R.C. 3719.01.
 
 49. _(ww)_ "School." Any school operated by a board of education, any community
-school established under Ohio R.C. Chapter 3314, or any nonpublic school for
-which the State Board of Education prescribes minimum standards under Ohio R.C.
-3301.07, whether or not any instruction, extracurricular activities or training
-provided by the school is being conducted at the time a criminal offense is
-committed.
+school established under Ohio R.C. [Chapter 3314][ORC Chapter 3314], or any
+nonpublic school for which the State Board of Education prescribes minimum
+standards under Ohio R.C. 3301.07, whether or not any instruction,
+extracurricular activities or training provided by the school is being conducted
+at the time a criminal offense is committed.
 
 50. _(xx)_ "School building." Any building in which any of the instruction,
 extracurricular activities or training provided by a school is conducted,
@@ -575,13 +580,13 @@ offense is committed.
 
     2. _(2)_ Any other parcel of real property that is owned or leased by a
     board of education of a school, the governing authority of a community
-    school established under Ohio R.C. Chapter 3314, or the governing body of a
-    nonpublic school for which the State Board of Education prescribes minimum
-    standards under Ohio R.C. 3301.07 and on which some of the instruction,
-    extracurricular activities or training of the school is conducted, whether
-    or not any instruction, extracurricular activities, or training provided by
-    the school is being conducted on the parcel of real property at the time a
-    criminal offense is committed.
+    school established under Ohio R.C. [Chapter 3314][ORC Chapter 3314], or the
+    governing body of a nonpublic school for which the State Board of Education
+    prescribes minimum standards under Ohio R.C. 3301.07 and on which some of
+    the instruction, extracurricular activities or training of the school is
+    conducted, whether or not any instruction, extracurricular activities, or
+    training provided by the school is being conducted on the parcel of real
+    property at the time a criminal offense is committed.
 
 52. _(zz)_ "Standard Pharmaceutical Reference Manual." The current edition, with
 cumulative changes if any, of references that are approved by the State Board of
@@ -890,7 +895,7 @@ driver's license or permit for not more than five years.\
 ## 513.05   Permitting drug abuse
 
 1. _(a)_ No person, who is the owner, operator or person in charge of a
-locomotive, watercraft, aircraft or other vehicle as defined in Ohio R.C
+locomotive, watercraft, aircraft or other vehicle as defined in Ohio R.C.
 4501.01(A), shall knowingly permit the vehicle to be used for the commission of
 a felony drug abuse offense.
 
@@ -917,7 +922,7 @@ or permit for not more than five years.
 
 5. _(e)_ Any premises or real estate that is permitted to be used in violation
 of subsection (b) hereof constitutes a nuisance subject to abatement pursuant to
-Ohio R.C. Chapter 3767.\
+Ohio R.C. [Chapter 3767][ORC Chapter 3767].\
 (ORC 2925.13)
 
 ## 513.06   Illegal cultivation of marihuana
@@ -1125,9 +1130,10 @@ a drug abuse offense, a violation is a misdemeanor of the first degree.\
 1. _(a)_ As used in this section, "motor vehicle", "street" and "highway" have
 the same meanings as in Ohio R.C. 4511.01.
 
-2. _(b)_ Unless authorized under Ohio R.C. Chapter 3719, 4715, 4729, 4731, 4741
-or 4765, no person shall possess an open cartridge of nitrous oxide in either of
-the following circumstances:
+2. _(b)_ Unless authorized under Ohio R.C. [Chapter 3719][ORC Chapter 3719],
+[4715][ORC Chapter 4715], [4729][ORC Chapter 4729], [4731][ORC Chapter 4731],
+[4741][ORC Chapter 4741] or [4765][ORC Chapter 4765], no person shall possess an
+open cartridge of nitrous oxide in either of the following circumstances:
 
     1. _(1)_ While operating or being a passenger in or on a motor vehicle on a
     street, highway, or other public or private property open to the public for
@@ -1155,10 +1161,10 @@ harvesting, manufacturing, compounding, converting, producing, processing,
 preparing, testing, analyzing, packaging, repackaging, storing, containing,
 concealing, injecting, ingesting, inhaling or otherwise introducing into the
 human body, a controlled substance in violation of this chapter or Ohio R.C.
-Chapter 2925. "Drug paraphernalia" includes, but is not limited to, any of the
-following equipment, products or materials that are used by the offender,
-intended by the offender for use or designated by the offender for use, in any
-of the following manners:
+[Chapter 2925][ORC Chapter 2925]. "Drug paraphernalia" includes, but is not
+limited to, any of the following equipment, products or materials that are used
+by the offender, intended by the offender for use or designated by the offender
+for use, in any of the following manners:
 
     1. _(1)_ A kit for propagating, cultivating, growing or harvesting any
     species of a plant that is a controlled substance or from which a controlled
@@ -1217,7 +1223,8 @@ other relevant factors, the following:
 
     2. _(2)_ The proximity in time or space of the equipment, product or
     material, or of the act relating to the equipment, product or material, to a
-    violation of any provision of this chapter or Ohio R.C. Chapter 2925;
+    violation of any provision of this chapter or Ohio R.C. [Chapter 2925][ORC
+    Chapter 2925];
 
     3. _(3)_ The proximity of the equipment, product or material to any
     controlled substance;
@@ -1229,12 +1236,12 @@ other relevant factors, the following:
     anyone in control, of the equipment, product or material, to deliver it to
     any person whom the owner or person in control of the equipment, product or
     material knows intends to use the object to facilitate a violation of any
-    provision of this chapter or Ohio R.C. Chapter 2925. A finding that the
-    owner, or anyone in control, of the equipment, product or material, is not
-    guilty of a violation of any other provision of this chapter or Ohio R.C.
-    Chapter 2925, does not prevent a finding that the equipment, product or
-    material was intended or designed by the offender for use as drug
-    paraphernalia;
+    provision of this chapter or Ohio R.C. [Chapter 2925][ORC Chapter 2925]. A
+    finding that the owner, or anyone in control, of the equipment, product or
+    material, is not guilty of a violation of any other provision of this
+    chapter or Ohio R.C. [Chapter 2925][ORC Chapter 2925], does not prevent a
+    finding that the equipment, product or material was intended or designed by
+    the offender for use as drug paraphernalia;
 
     6. _(6)_ Any oral or written instruction provided with the equipment,
     product or material concerning its use;
@@ -1291,10 +1298,11 @@ other relevant factors, the following:
     injecting, ingesting, inhaling or otherwise introducing into the human body
     marihuana.
 
-5. _(e)_ Notwithstanding Ohio R.C. Chapter 2981, any drug paraphernalia that was
-used, possessed, sold or manufactured in violation of this section shall be
-seized, after a conviction for that violation shall be forfeited, and upon
-forfeiture shall be disposed of pursuant to Ohio R.C. 2981.12.
+5. _(e)_ Notwithstanding Ohio R.C. [Chapter 2981][ORC Chapter 2981], any drug
+paraphernalia that was used, possessed, sold or manufactured in violation of
+this section shall be seized, after a conviction for that violation shall be
+forfeited, and upon forfeiture shall be disposed of pursuant to Ohio R.C.
+2981.12.
 
 6. _(f)_
 
@@ -1386,4 +1394,45 @@ permit for not more than five years.\
 (Editor's note: See [Section 501.99][] for penalties applicable to any
 misdemeanor classification.)
 
+[ORC Chapter 928]:<https://codes.ohio.gov/ohio-revised-code/chapter-928/>
+[ORC Chapter 2925]:<https://codes.ohio.gov/ohio-revised-code/chapter-2925/>
+[ORC Chapter 2981]:<https://codes.ohio.gov/ohio-revised-code/chapter-2981/>
+[ORC Chapter 3314]:<https://codes.ohio.gov/ohio-revised-code/chapter-3314/>
+[ORC Chapter 3719]:<https://codes.ohio.gov/ohio-revised-code/chapter-3719/>
+[ORC Chapter 3767]:<https://codes.ohio.gov/ohio-revised-code/chapter-3767/>
+[ORC Chapter 4701]:<https://codes.ohio.gov/ohio-revised-code/chapter-4701/>
+[ORC Chapter 4703]:<https://codes.ohio.gov/ohio-revised-code/chapter-4703/>
+[ORC Chapter 4707]:<https://codes.ohio.gov/ohio-revised-code/chapter-4707/>
+[ORC Chapter 4709]:<https://codes.ohio.gov/ohio-revised-code/chapter-4709/>
+[ORC Chapter 4710]:<https://codes.ohio.gov/ohio-revised-code/chapter-4710/>
+[ORC Chapter 4713]:<https://codes.ohio.gov/ohio-revised-code/chapter-4713/>
+[ORC Chapter 4715]:<https://codes.ohio.gov/ohio-revised-code/chapter-4715/>
+[ORC Chapter 4717]:<https://codes.ohio.gov/ohio-revised-code/chapter-4717/>
+[ORC Chapter 4723]:<https://codes.ohio.gov/ohio-revised-code/chapter-4723/>
+[ORC Chapter 4725]:<https://codes.ohio.gov/ohio-revised-code/chapter-4725/>
+[ORC Chapter 4727]:<https://codes.ohio.gov/ohio-revised-code/chapter-4727/>
+[ORC Chapter 4728]:<https://codes.ohio.gov/ohio-revised-code/chapter-4728/>
+[ORC Chapter 4729]:<https://codes.ohio.gov/ohio-revised-code/chapter-4729/>
+[ORC Chapter 4730]:<https://codes.ohio.gov/ohio-revised-code/chapter-4730/>
+[ORC Chapter 4731]:<https://codes.ohio.gov/ohio-revised-code/chapter-4731/>
+[ORC Chapter 4732]:<https://codes.ohio.gov/ohio-revised-code/chapter-4732/>
+[ORC Chapter 4733]:<https://codes.ohio.gov/ohio-revised-code/chapter-4733/>
+[ORC Chapter 4734]:<https://codes.ohio.gov/ohio-revised-code/chapter-4734/>
+[ORC Chapter 4735]:<https://codes.ohio.gov/ohio-revised-code/chapter-4735/>
+[ORC Chapter 4736]:<https://codes.ohio.gov/ohio-revised-code/chapter-4736/>
+[ORC Chapter 4737]:<https://codes.ohio.gov/ohio-revised-code/chapter-4737/>
+[ORC Chapter 4738]:<https://codes.ohio.gov/ohio-revised-code/chapter-4738/>
+[ORC Chapter 4739]:<https://codes.ohio.gov/ohio-revised-code/chapter-4739/>
+[ORC Chapter 4741]:<https://codes.ohio.gov/ohio-revised-code/chapter-4741/>
+[ORC Chapter 4747]:<https://codes.ohio.gov/ohio-revised-code/chapter-4747/>
+[ORC Chapter 4749]:<https://codes.ohio.gov/ohio-revised-code/chapter-4749/>
+[ORC Chapter 4751]:<https://codes.ohio.gov/ohio-revised-code/chapter-4751/>
+[ORC Chapter 4753]:<https://codes.ohio.gov/ohio-revised-code/chapter-4753/>
+[ORC Chapter 4755]:<https://codes.ohio.gov/ohio-revised-code/chapter-4755/>
+[ORC Chapter 4757]:<https://codes.ohio.gov/ohio-revised-code/chapter-4757/>
+[ORC Chapter 4759]:<https://codes.ohio.gov/ohio-revised-code/chapter-4759/>
+[ORC Chapter 4761]:<https://codes.ohio.gov/ohio-revised-code/chapter-4761/>
+[ORC Chapter 4763]:<https://codes.ohio.gov/ohio-revised-code/chapter-4763/>
+[ORC Chapter 4764]:<https://codes.ohio.gov/ohio-revised-code/chapter-4764/>
+[ORC Chapter 4765]:<https://codes.ohio.gov/ohio-revised-code/chapter-4765/>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

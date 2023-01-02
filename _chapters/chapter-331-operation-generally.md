@@ -660,7 +660,7 @@ the left shall yield the right of way to the vehicle on the right.
 
 2. _(b)_ The right of way rule declared in subsection (a) hereof, is modified at
 through highways and otherwise as stated in this Traffic Code and Ohio R.C.
-Chapter 4511.\
+[Chapter 4511][ORC Chapter 4511].\
 (ORC 4511.41)
 
 3. _(c)_ Subject to compliance with any traffic control device, when two
@@ -1658,6 +1658,7 @@ proper court to answer the charge.
     service, private fire company, or emergency medical service organization.\
     (ORC 4511.714.)
 
+[ORC Chapter 4511]:<https://codes.ohio.gov/ohio-revised-code/chapter-4511/>
 [Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
 [Section 313.03]:</chapters/chapter-313-traffic-control-devices/#31303-traffic-signal-indications>
 [Section 331.01(a)(2)]:</chapters/chapter-331-operation-generally/#33101(a)(2)>

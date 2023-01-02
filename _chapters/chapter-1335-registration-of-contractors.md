@@ -62,10 +62,11 @@ general contracting, except where the work is of a minor nature and pursuant to
 the appropriate fee provided in [Section 1335.10][], any person having a
 qualification certificate to install or perform plumbing, sewer work, heating or
 electrical equipment, which qualification certificate has been issued by the
-State pursuant to Ohio R.C. Chapter 4740 and is in full force and effect, upon
-presentation of such certificate to the Chief Administrative Officer shall have
-issued to such person by the Chief Administrative Officer, upon such evidence
-and without examination, the certificate of registration provided for herein.
+State pursuant to Ohio R.C. [Chapter 4740][ORC Chapter 4740] and is in full
+force and effect, upon presentation of such certificate to the Chief
+Administrative Officer shall have issued to such person by the Chief
+Administrative Officer, upon such evidence and without examination, the
+certificate of registration provided for herein.
 
 2. _(b)_ No person who has recklessly or intentionally violated any provision of
 the Ohio Revised Code or the Codified Ordinances of the Village shall be
@@ -166,6 +167,7 @@ January 1 to January 1, upon payment of the further sum of sixty dollars
 ($60.00) for each year's renewal.\
 (Ord. 2006-48. Passed 7-24-06.)
 
+[ORC Chapter 4740]:<https://codes.ohio.gov/ohio-revised-code/chapter-4740/>
 [Section 501.08]:</chapters/chapter-501-general-provisions-and-penalty/#50108-culpable-mental-states>
 [Section 1307.18]:</chapters/chapter-1307-building-permits/#130718-minor-building-permits>
 [Section 1335.04]:</chapters/chapter-1335-registration-of-contractors/#133504-registration-denial-appeal>

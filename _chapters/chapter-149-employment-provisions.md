@@ -42,10 +42,10 @@ to contact the Director of Finance for copies of relevant legislation.)
 
 * Conflict of interest - see CHTR. Art. XII, Sec. 6
 * Deductions for municipal income tax - see Ohio R.C. 9.42
-* Public employees retirement system - see Ohio R.C. Ch. 145
+* Public employees retirement system - see Ohio R.C. [Chapter 145][ORC Chapter 145]
 * Expenses for attendance at conference or convention - see Ohio R.C. 733.79
-* Strikes by public employees - see Ohio R.C. Ch. 4117
-* Workmen's compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. Ch. 4123
+* Strikes by public employees - see Ohio R.C. [Chapter 4117][ORC Chapter 4117]
+* Workmen's compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. [Chapter 4123][ORC Chapter 4123]
 
 ## 149.01   Within-range pay adjustments
 
@@ -624,5 +624,8 @@ restatements and amendments do not materially change the plans. A current copy
 of each plan is maintained on file by the Finance Director.\
 (Ord. 2011-68. Passed 11-28-11.)
 
+[ORC Chapter 145]:<https://codes.ohio.gov/ohio-revised-code/chapter-145>
+[ORC Chapter 4117]:<https://codes.ohio.gov/ohio-revised-code/chapter-4117>
+[ORC Chapter 4123]:<https://codes.ohio.gov/ohio-revised-code/chapter-4123>
 [Section 149.06]:</chapters/chapter-149-employment-provisions/#14906-overtime>
 [Section 149.21]:</chapters/chapter-149-employment-provisions/#14921-pfdpf-pickup>

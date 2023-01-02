@@ -13,7 +13,7 @@ title: "Chapter 114: Open Meetings"
 
 ## Cross references
 
-* Open meetings - see Ohio R.C. 121.22
+* Open meetings - see Ohio R.C. [121.22][ORC Section 121.22]
 
 ## 114.01   Public meetings
 
@@ -162,4 +162,5 @@ scheduled Council meeting at which time the Council will determine if virtual
 meetings shall continue for one or more public bodies of the Village.\
 ([Ord. 2022-01. Passed 1-3-22.][])
 
+[ORC Section 121.22]:<https://codes.ohio.gov/ohio-revised-code/section-121.22>
 [Ord. 2022-01. Passed 1-3-22.]:</ordinance-2022-01/>

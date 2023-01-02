@@ -28,7 +28,7 @@ title: "Chapter 1301: Definitions"
 
 ## Cross references
 
-* Ohio State Building Code - see Ohio R. C. 3781.01 et seq; BLDG. Ch. 1323
+* Ohio State Building Code - see Ohio R.C. 3781.01 et seq; BLDG. Ch. 1323
 
 ## 1301.01   Definitions generally
 

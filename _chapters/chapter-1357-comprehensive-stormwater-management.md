@@ -1720,6 +1720,7 @@ provisions of this regulation or other applicable laws, ordinances, rules, or
 regulations, or the orders of the Village of Chagrin Falls.\
 (Ord. 2016-79. Passed 12-12-16.)
 
+[ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>
 [Section 1357.01]:</chapters/chapter-1357-comprehensive-stormwater-management/#135701-purpose-and-scope>
 [Section 1357.01(c)]:</chapters/chapter-1357-comprehensive-stormwater-management/#135701(c)>
 [Section 1357.07]:</chapters/chapter-1357-comprehensive-stormwater-management/#135707-compliance-with-state-and-federal-regulations>
@@ -1729,4 +1730,3 @@ regulations, or the orders of the Village of Chagrin Falls.\
 [Section 1357.09(d)(3)]:<>
 [Section 1357.10]:</chapters/chapter-1357-comprehensive-stormwater-management/#135710-alternative-actions>
 [Section 1357.12]:</chapters/chapter-1357-comprehensive-stormwater-management/#135712-maintenance-and-final-inspection-approval>
-[ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>

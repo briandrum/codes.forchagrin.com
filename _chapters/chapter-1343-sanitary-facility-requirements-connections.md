@@ -13,7 +13,7 @@ title: "Chapter 1343: Sanitary Facility Requirements; Connections"
 
 ## Cross references
 
-* Municipal authority to regulate toilets - see Ohio R. C. 715.40
+* Municipal authority to regulate toilets - see Ohio R.C. 715.40
 * Sanitary sewer charges - see S. & P. S. Ch. 917
 * Approval of sewer connections - see BLDG. 1307.12
 

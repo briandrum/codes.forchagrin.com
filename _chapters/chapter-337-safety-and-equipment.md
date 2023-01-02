@@ -316,14 +316,14 @@ be equipped in one of the following ways:
 
     3. _(3)_ With both a slow-moving vehicle emblem and alternate reflective
     material as specified in this subsection (f). The Ohio Director of Public
-    Safety, subject to Ohio R.C. Chapter 119, shall adopt rules establishing
-    standards and specifications for the position of mounting of the alternate
-    reflective material authorized by this subsection (f). The rules shall
-    permit, as a minimum, the alternate reflective material to be black, gray or
-    silver in color. The alternate reflective material shall be mounted on the
-    animal-drawn vehicle so as to be visible at all times specified in Section
-    337.02, from a distance of not less than 500 feet to the rear when
-    illuminated by the lawful lower beams of headlamps.
+    Safety, subject to Ohio R.C. [Chapter 119][ORC Chapter 119], shall adopt
+    rules establishing standards and specifications for the position of mounting
+    of the alternate reflective material authorized by this subsection (f). The
+    rules shall permit, as a minimum, the alternate reflective material to be
+    black, gray or silver in color. The alternate reflective material shall be
+    mounted on the animal-drawn vehicle so as to be visible at all times
+    specified in Section 337.02, from a distance of not less than 500 feet to
+    the rear when illuminated by the lawful lower beams of headlamps.
 
 7. _(g)_ Every unit of farm machinery that is designed by its manufacturer to
 operate at a speed greater than twenty-five miles per hour shall display a
@@ -841,13 +841,14 @@ life of any person operating or occupying a motor vehicle that is being used to
 transport a child who otherwise would be required to be restrained under this
 section. This section does not apply to a person operating a motor vehicle who
 has an affidavit signed by a physician licensed to practice in this State under
-Ohio R.C. Chapter 4731 or a chiropractor licensed to practice in this State
-under Ohio R.C. Chapter 4734 that states that the child who otherwise would be
-required to be restrained under this section has a physical impairment that
-makes use of a child restraint system, booster seat or an occupant restraining
-device impossible or impractical, provided that the person operating the vehicle
-has safely and appropriately restrained the child in accordance with any
-recommendations of the physician or chiropractor as noted on the affidavit.
+Ohio R.C. [Chapter 4731][ORC Chapter 4731] or a chiropractor licensed to
+practice in this State under Ohio R.C. [Chapter 4734][ORC Chapter 4734] that
+states that the child who otherwise would be required to be restrained under
+this section has a physical impairment that makes use of a child restraint
+system, booster seat or an occupant restraining device impossible or
+impractical, provided that the person operating the vehicle has safely and
+appropriately restrained the child in accordance with any recommendations of the
+physician or chiropractor as noted on the affidavit.
 
 9. _(i)_ Nothing in this section shall be construed to require any person to
 carry with the person the birth certificate of a child to prove the age of the
@@ -942,8 +943,9 @@ violation of this section:
 
     3. _(3)_ Subsections (b)(1) and (3) hereof do not apply to a person who has
     an affidavit signed by a physician licensed to practice in this State under
-    Ohio R.C. Chapter 4731 or a chiropractor licensed to practice in this State
-    under Ohio R.C. Chapter 4734 that states the following:
+    Ohio R.C. [Chapter 4731][ORC Chapter 4731] or a chiropractor licensed to
+    practice in this State under Ohio R.C. [Chapter 4734][ORC Chapter 4734] that
+    states the following:
 
         1. _(A)_ That the person has a physical impairment that makes use of an
         occupant restraining device impossible or impractical;
@@ -979,10 +981,11 @@ violation of this section:
     misconduct.
 
     7. _(7)_ The Registrar shall adopt rules in accordance with Ohio R.C.
-    Chapter 119, establishing a process for a person to be included in the
-    database under subsection (c)(5) of this section. The information provided
-    and included in the database under subsection (c)(5) of this section is not
-    a public record subject to inspection or copying under Ohio R.C. 149.43.
+    [Chapter 119][ORC Chapter 119], establishing a process for a person to be
+    included in the database under subsection (c)(5) of this section. The
+    information provided and included in the database under subsection (c)(5) of
+    this section is not a public record subject to inspection or copying under
+    Ohio R.C. 149.43.
 
 4. _(d)_ Notwithstanding any provision of law to the contrary, no law
 enforcement officer shall cause an operator of an automobile being operated on
@@ -1139,14 +1142,14 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
 
     1. _(1)_ A motor vehicle registered in this State in the name of a person,
     or the person's parent, legal guardian or spouse who has an affidavit signed
-    by a physician licensed to practice in this State under Ohio R.C. Chapter
-    4731 or an affidavit signed by an optometrist licensed to practice in this
-    State under Ohio R.C. Chapter 4725 that states that the person has a
-    physical condition that makes it necessary to equip such motor vehicle with
-    sunscreening material which would be of a light transmittance and/or
-    luminous reflectance in violation of this section. Such affidavit shall be
-    in the possession of the person so afflicted or the driver at all times
-    while in the motor vehicle;
+    by a physician licensed to practice in this State under Ohio R.C. [Chapter
+    4731][ORC Chapter 4731] or an affidavit signed by an optometrist licensed to
+    practice in this State under Ohio R.C. [Chapter 4725][ORC Chapter 4725] that
+    states that the person has a physical condition that makes it necessary to
+    equip such motor vehicle with sunscreening material which would be of a
+    light transmittance and/or luminous reflectance in violation of this
+    section. Such affidavit shall be in the possession of the person so
+    afflicted or the driver at all times while in the motor vehicle;
 
     2. _(2)_ The windows to the rear of the driver in chauffeured limousines as
     defined herein;
@@ -1374,3 +1377,8 @@ in use at the times mentioned in Section 337.02.
 
 4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.261)
+
+[ORC Chapter 119]:<https://codes.ohio.gov/ohio-revised-code/chapter-119/>
+[ORC Chapter 4725]:<https://codes.ohio.gov/ohio-revised-code/chapter-4725/>
+[ORC Chapter 4731]:<https://codes.ohio.gov/ohio-revised-code/chapter-4731/>
+[ORC Chapter 4734]:<https://codes.ohio.gov/ohio-revised-code/chapter-4734/>

@@ -120,7 +120,7 @@ of the streets, sidewalks or any other private or public property.\
 ## 373.05   Riding upon seats; handle bars; helmets and glasses
 
 1. _(a)_ For purposes of this section "snowmobile" has the same meaning as given
-that term in Ohio R.C 4519.01.
+that term in Ohio R.C. 4519.01.
 
 2. _(b)_ No person operating a bicycle or electric bicycle shall ride other than
 upon or astride the permanent and regular seat attached thereto, or carry any
@@ -397,12 +397,13 @@ travel or parking, unless all of the following conditions are met:
     probationary motorized bicycle license issued after the person has passed
     the test provided for in Ohio R.C. 4511.521, or the person is sixteen years
     of age or older and holds either a valid commercial driver's license issued
-    under Ohio R.C. Chapter 4506, or a driver's license issued under Ohio R.C.
-    Chapter 4507, or a valid motorized bicycle license issued after the person
-    has passed the test provided for in Ohio R.C. 4511.521, except that if a
-    person is sixteen years of age, has a valid probationary motorized bicycle
-    license and desires a motorized bicycle license, the person is not required
-    to comply with the testing requirements provided for in Ohio R.C. 4511.521;
+    under Ohio R.C. [Chapter 4506][ORC Chapter 4506], or a driver's license
+    issued under Ohio R.C. [Chapter 4507][ORC Chapter 4507], or a valid
+    motorized bicycle license issued after the person has passed the test
+    provided for in Ohio R.C. 4511.521, except that if a person is sixteen years
+    of age, has a valid probationary motorized bicycle license and desires a
+    motorized bicycle license, the person is not required to comply with the
+    testing requirements provided for in Ohio R.C. 4511.521;
 
     2. _(2)_ The motorized bicycle is equipped in accordance with rules adopted
     by the Ohio Director of Public Safety and is in proper working order;
@@ -514,3 +515,6 @@ the third degree.
 In addition to the penalty provided in Section 303.99, whoever violates any
 provision of this chapter may be punished by having his bicycle impounded for a
 period not exceeding thirty days.
+
+[ORC Chapter 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506/>
+[ORC Chapter 4507]:<https://codes.ohio.gov/ohio-revised-code/chapter-4507/>

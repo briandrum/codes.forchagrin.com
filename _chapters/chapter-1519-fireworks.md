@@ -17,7 +17,7 @@ title: "Chapter 1519: Fireworks"
 
 ## Cross references
 
-* Manufacturers to comply with building and zoning ordinances - see Ohio R.C. 3743.06(F)
+* Manufacturers to comply with building and zoning ordinances - see Ohio R.C. [3743.06(F)][ORC Section 3743.06]
 * Wholesalers to comply with building and zoning ordinances - see Ohio R.C. 3743.19(G)
 * Arrests, seizure of fireworks by certified fire safety inspector - see Ohio R.C. 3743.68
 * Conflict of Fire Marshal's rules with rules of Ohio Board of Building Standards - see Ohio R.C. 3781.11(D)
@@ -203,7 +203,7 @@ Inspector, Fire Chief, or Fire Prevention Officer be present before, during, and
 after the exhibition, and shall require the certified Fire Safety Inspector,
 Fire Chief, or Fire Prevention Officer to inspect the premises where the
 exhibition is to take place and determine whether the exhibition is in
-compliance with this chapter and Ohio R.C. Chapter 3743.\
+compliance with this chapter and Ohio R.C. [Chapter 3743][ORC Chapter 3743].\
 (ORC 3743.54)
 
 ## 1519.03   Unlawful conduct by exhibitor
@@ -333,6 +333,8 @@ first degree for a first offense and shall be fined not more than one thousand
 dollars ($1,000) or imprisoned not more than six months or both.\
 (ORC 3743.99(C))
 
+[ORC Chapter 3743]:<https://codes.ohio.gov/ohio-revised-code/chapter-3743/>
+[ORC Section 3743.06]:<https://codes.ohio.gov/ohio-revised-code/section-3743.06>
 [Ord. 2022-05. Passed 3-14-22.]:</ordinance-2022-05/>
 [Section 1519.02]:</chapters/chapter-1519-fireworks/#151902-public-exhibition-permit-required-fee-bond-records>
 [Section 1519.05]:</chapters/chapter-1519-fireworks/#151905-application>

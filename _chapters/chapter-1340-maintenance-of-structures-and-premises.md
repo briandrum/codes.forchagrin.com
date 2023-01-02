@@ -37,7 +37,7 @@ title: "Chapter 1340: Maintenance of Structures and Premises"
 
 ## Cross references
 
-* Removal of unsafe structures - see Ohio R. C. 715.26
+* Removal of unsafe structures - see Ohio R.C. 715.26
 * Health, safety and sanitation - see GEN. OFF. Ch. 521
 
 ## 1340.01   Purpose and scope
@@ -822,7 +822,7 @@ or imprisoned not more than six months, or both. A separate offense shall be
 deemed committed each day during or on which an offense occurs or continues.\
 (Ord. 2016-61. Passed 10-24-16.)
 
+[ORC Section 715.261]:<https://codes.ohio.gov/ohio-revised-code/section-715.261>
 [Section 1107.06]:</chapters/chapter-1107-definitions/#110706-buildings-and-structures>
 [Section 1146.06]:</chapters/chapter-1146-historic-preservation-regulations/#114606-demolition-and-moving>
 [Section 1340.08]:</chapters/chapter-1340-maintenance-of-structures-and-premises/#134008-notice-of-violation>
-[ORC Section 715.261]:<https://codes.ohio.gov/ohio-revised-code/section-715.261>
