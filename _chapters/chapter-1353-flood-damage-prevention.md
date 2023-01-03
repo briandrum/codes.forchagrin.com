@@ -293,7 +293,8 @@ sections, which is built on a permanent chassis and is designed for use with or
 without a permanent foundation when connected to the required utilities. The
 term "manufactured home" does not include a "recreational vehicle". For the
 purposes of these regulations, a manufactured home includes manufactured homes
-and mobile homes as defined in Chapter 3733 of the Ohio Revised Code.
+and mobile homes as defined in [Chapter 3733][ORC Chapter 3733] of the Ohio
+Revised Code.
 
 23. _(w)_ "Manufactured home park" means as specified in the Ohio Administrative
 Code 3701-27-01, a manufactured home park means any tract of land upon which
@@ -347,8 +348,9 @@ Adjutant General's Department, or any court.
     use.
 
 28. _(bb)_ "Registered Professional Architect" means a person registered to
-engage in the practice of architecture under the provisions of sections 4703.01
-to 4703.19 of the Ohio Revised Code.
+engage in the practice of architecture under the provisions of [Sections
+4703.01][ORC Section 4703.01] to [4703.19][ORC Section 4703.19] of the Ohio
+Revised Code.
 
 29. _(cc)_ "Registered Professional Engineer" means a person registered as a
 professional engineer under Chapter 4733 of the Revised Code.
@@ -1139,7 +1141,10 @@ such other lawful action as is necessary to prevent or remedy any violation.\
 (Ord. 2005-22. Passed 4-11-05.)
 
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
+[ORC Chapter 3733]:<https://codes.ohio.gov/ohio-revised-code/chapter-3733/>
 [ORC Section 111.15]:<https://codes.ohio.gov/ohio-revised-code/section-111.15>
+[ORC Section 4703.01]:<https://codes.ohio.gov/ohio-revised-code/section-4703.01>
+[ORC Section 4703.19]:<https://codes.ohio.gov/ohio-revised-code/section-4703.19>
 [Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
 [Section 1111.04]:</chapters/chapter-1111-appeals-and-variances/#111104-notices>
 [Section 1111.05]:</chapters/chapter-1111-appeals-and-variances/#111105-meetings-quorum-and-vote>

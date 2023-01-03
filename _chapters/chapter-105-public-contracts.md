@@ -40,7 +40,8 @@ majority vote, shall determine.\
     2. _(2)_ "Professional Design Services" means services within the scope of
     practice of an architect or landscape architect registered under [Chapter
     4703][ORC Chapter 4703] of the Revised Code or a professional engineer or
-    surveyor registered under [ORC Chapter 4733][] of the Revised Code.
+    surveyor registered under [Chapter 4733][ORC Chapter 4733] of the Revised
+    Code.
 
     3. _(3)_ "Public Works Contract" means any contract awarded by the Village
     for the construction, alteration or repair of any public building, public
@@ -52,8 +53,9 @@ majority vote, shall determine.\
     reconstruction of a public improvement.
 
 2. _(b)_ The Village is hereby exempted from following the procedures set forth
-in Sections 153.65 through 153.73 of the Ohio Revised Code for contracting for
-Professional Design Services or Design-build Services.
+in [Sections 153.65][ORC Section 153.65] through [153.73][ORC Section 153.73] of
+the Ohio Revised Code for contracting for Professional Design Services or
+Design-build Services.
 
 3. _(c)_ The Mayor may contract for Professional Design Services related to a
 Public Works Contract when the amount of the Professional Design Services is
@@ -220,4 +222,6 @@ amounts of the bonus and liquidated damages may be different.\
 [ORC Chapter 4703]:<https://codes.ohio.gov/ohio-revised-code/chapter-4730>
 [ORC Chapter 4733]:<https://codes.ohio.gov/ohio-revised-code/chapter-4733>
 [ORC Section 9.31]:<https://codes.ohio.gov/ohio-revised-code/section-9.31>
+[ORC Section 153.65]:<https://codes.ohio.gov/ohio-revised-code/section-153.65>
+[ORC Section 153.73]:<https://codes.ohio.gov/ohio-revised-code/section-153.73>
 [Section 105.02]:</chapters/chapter-105-public-contracts/#10502-professional-design-services-public-works>

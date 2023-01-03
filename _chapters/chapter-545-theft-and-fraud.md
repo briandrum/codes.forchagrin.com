@@ -643,10 +643,11 @@ misdemeanor of the fourth degree.
     fact.
 
     3. _(3)_ "Insurer" means any person that is authorized to engage in the
-    business of insurance in this State under Title XXXIX of the Ohio Revised
-    Code; The Ohio Fair Plan Underwriting Association created under Ohio R.C.
-    3929.43; any health insuring corporation; and any legal entity that is
-    self-insured and provides benefits to its employees or members.
+    business of insurance in this State under [Title XXXIX][ORC Title 39] of the
+    Ohio Revised Code; The Ohio Fair Plan Underwriting Association created under
+    Ohio R.C. [3929.43][ORC Section 3929.43]; any health insuring corporation;
+    and any legal entity that is self-insured and provides benefits to its
+    employees or members.
 
     4. _(4)_ "Policy" means a policy, certificate, contract or plan that is
     issued by an insurer.
@@ -1032,4 +1033,6 @@ reclassified from a misdemeanor to a felony offense.)
 misdemeanor classification.)
 
 [ORC Chapter 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510/>
+[ORC Section 3929.43]:<https://codes.ohio.gov/ohio-revised-code/section-3929.43>
+[ORC Title 39]:<https://codes.ohio.gov/ohio-revised-code/title-39>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

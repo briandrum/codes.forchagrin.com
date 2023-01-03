@@ -290,10 +290,10 @@ other alteration of the earth's surface where natural or human made ground cover
 is destroyed and that may result in, or contribute to, erosion and sediment
 pollution.
 
-51. _(yy)_ Soil & water conservation district: An entity organized under Chapter
-1515 of the Ohio Revised Code referring to either the Soil and Water
-Conservation District Board or its designated employee(s). Hereafter referred to
-as Cuyahoga SWCD.
+51. _(yy)_ Soil & water conservation district: An entity organized under
+[Chapter 1515][ORC Chapter 1515] of the Ohio Revised Code referring to either
+the Soil and Water Conservation District Board or its designated employee(s).
+Hereafter referred to as Cuyahoga SWCD.
 
 52. _(zz)_ Stabilization: The use of BMPs, such as seeding and mulching, that
 reduce or prevent soil erosion by water, wind, ice, gravity, or a combination of
@@ -1594,6 +1594,7 @@ provisions of this regulation or other applicable laws, ordinances, rules, or
 regulations, or the orders of the Village of Chagrin Falls.\
 (Ord. 2016-80. Passed 12-12-16.)
 
+[ORC Chapter 1515]:<https://codes.ohio.gov/ohio-revised-code/chapter-1515/>
 [ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>
 [Section 1355.01(d)]:</chapters/chapter-1355-erosion-and-sediment-control/#135501(d)>
 [Section 1355.06(a)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(a)>

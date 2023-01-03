@@ -149,13 +149,13 @@ the requirements of the Overlay District shall govern.
 5. _(e)_ Sale of Firearms.
 
     1. _(1)_ As used in this section "firearm" shall have the same meaning as in
-    section 2923.11 of the Ohio Revised Code.
+    [Section 2923.11][ORC Section 2923.11] of the Ohio Revised Code.
 
     2. _(2)_ The commercial storage, sale or manufacture of firearms, firearm
     components, or ammunition for firearms is permitted by an owner or
     authorized tenant in any nonresidential zoning district in accordance with
-    Section 9.68 of the Ohio Revised Code while such Ohio Revised Code Section
-    remains in effect.\
+    [Section 9.68][ORC Section 9.68] of the Ohio Revised Code while such Ohio
+    Revised Code Section remains in effect.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1105.07   Separability
@@ -184,3 +184,6 @@ safeguarded and substantial justice done.\
 ([Ord. 2022-19. Passed 6-13-22.][])
 
 [Ord. 2022-19. Passed 6-13-22.]:</ordinance-2022-19/>
+
+[ORC Section 9.68]:<https://codes.ohio.gov/ohio-revised-code/section-9.68>
+[ORC Section 2923.11]:<https://codes.ohio.gov/ohio-revised-code/section-2923.11>

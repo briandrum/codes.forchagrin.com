@@ -84,13 +84,14 @@ consistent with, the provisions and limitations of Ohio Revised Code 718 (ORC
 
 1. _(A)_ Any term used in this Chapter that is not otherwise defined in this
 Chapter has the same meaning as when used in a comparable context in laws of the
-United States relating to federal income taxation or in Title LVII of the ORC,
-unless a different meaning is clearly required. If a term used in this Chapter
-that is not otherwise defined in this Chapter is used in a comparable context in
-both the laws of the United States relating to federal income tax and in Title
-LVII of the ORC and the use is not consistent, then the use of the term in the
-laws of the United States relating to federal income tax shall control over the
-use of the term in Title LVII of the ORC.
+United States relating to federal income taxation or in [Title LVII][ORC Title
+57] of the ORC, unless a different meaning is clearly required. If a term used
+in this Chapter that is not otherwise defined in this Chapter is used in a
+comparable context in both the laws of the United States relating to federal
+income tax and in [Title LVII][ORC Title 57] of the ORC and the use is not
+consistent, then the use of the term in the laws of the United States relating
+to federal income tax shall control over the use of the term in [Title LVII][ORC
+Title 57] of the ORC.
 
 2. _(B)_ The singular shall include the plural, and the masculine shall include
 the feminine and the gender-neutral.
@@ -3198,16 +3199,17 @@ the Municipality Codified Ordinances.\
 
 If a term used in sections 124.27 to 124.41 of the Codified Ordinances that is
 not otherwise defined in this chapter is used in a comparable context in both
-the laws of the United States relating to federal income tax and in Title LVII
-of the Revised Code and the use is not consistent, then the use of the term in
-the laws of the United States relating to federal income tax shall have control
-over the use of the term in Title LVII of the Revised Code, unless the term is
-defined in Chapter 5703. of the Revised Code, in which case the definition in
-that chapter shall control. Any reference in this chapter to the Internal
-Revenue Code includes other laws of the United States related to federal income
-taxes. If a term is defined in both this section and section 124.02 of the
-Codified Ordinances, the definition in this section shall control for all uses
-of that term in sections 124.27 to 124.41 of the Codified Ordinances.
+the laws of the United States relating to federal income tax and in [Title
+LVII][ORC Title 57] of the Revised Code and the use is not consistent, then the
+use of the term in the laws of the United States relating to federal income tax
+shall have control over the use of the term in [Title LVII][ORC Title 57] of the
+Revised Code, unless the term is defined in Chapter 5703. of the Revised Code,
+in which case the definition in that chapter shall control. Any reference in
+this chapter to the Internal Revenue Code includes other laws of the United
+States related to federal income taxes. If a term is defined in both this
+section and section 124.02 of the Codified Ordinances, the definition in this
+section shall control for all uses of that term in sections 124.27 to 124.41 of
+the Codified Ordinances.
 
 As used in sections 124.27 to 124.41 of the Codified Ordinances only:
 
@@ -4355,5 +4357,6 @@ Chapter.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
+[ORC Title 57]:<https://codes.ohio.gov/ohio-revised-code/title-57>
 [Section 124.03]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403-imposition-of-tax>
 [Section 124.05]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405-annual-return-filing>

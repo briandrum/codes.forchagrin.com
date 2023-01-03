@@ -120,7 +120,7 @@ Commission](/chapters/chapter-145-chagrin-falls-arts-commission/).
 
 Established in [Charter of the Village of Chagrin Falls, Article XI, Section
 XI-2: Charter
-review](/articles/article-xi-amendments-to-charter/#section-xi-2-charter-review/
+review](/articles/article-xi-amendments-to-charter/#section-xi-2-charter-review
 ).
 
 - John Mitchell, Chair

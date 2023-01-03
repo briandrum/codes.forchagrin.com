@@ -1007,7 +1007,8 @@ Ohio R.C. 4511.193.\
 
         2. _(B)_ Except as specifically authorized under this section, the term
         cannot be suspended, reduced or otherwise modified pursuant to Ohio R.C.
-        2929.21 to 2929.28, or any other provision of the Ohio Revised Code.
+        [2929.21][ORC Section 2929.21] to [2929.28][ORC Section 2929.28], or any
+        other provision of the Ohio Revised Code.
 
     3. _(3)_ "Municipal OVI ordinance" and "municipal OVI offense" mean any
     municipal ordinance prohibiting a person from operating a vehicle while
@@ -1592,3 +1593,5 @@ section shall not apply when:
 
 [ORC Chapter 2929]:<https://codes.ohio.gov/ohio-revised-code/chapter-2929/>
 [ORC Chapter 5119]:<https://codes.ohio.gov/ohio-revised-code/chapter-5119/>
+[ORC Section 2929.21]:<https://codes.ohio.gov/ohio-revised-code/section-2929.21>
+[ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>

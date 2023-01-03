@@ -67,11 +67,11 @@ any of the following ways:
         and does not apply as described in subsection (d) of this section.
 
     2. _(2)_ As the proximate result of committing a violation of any provision
-    of any section contained in Title XLV of the Ohio Revised Code that is a
-    minor misdemeanor or of a municipal ordinance that, regardless of the
-    penalty set by ordinance for the violation, is substantially equivalent to
-    any provision of any section contained in Title XLV of the Ohio Revised Code
-    that is a minor misdemeanor.
+    of any section contained in [Title XLV][ORC Title 45] of the Ohio Revised
+    Code that is a minor misdemeanor or of a municipal ordinance that,
+    regardless of the penalty set by ordinance for the violation, is
+    substantially equivalent to any provision of any section contained in [Title
+    XLV][ORC Title 45] of the Ohio Revised Code that is a minor misdemeanor.
 
 2. _(b)_
 
@@ -2039,4 +2039,5 @@ misdemeanor classification.)
 [ORC Chapter 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510/>
 [ORC Chapter 4723]:<https://codes.ohio.gov/ohio-revised-code/chapter-4723/>
 [ORC Chapter 5743]:<https://codes.ohio.gov/ohio-revised-code/chapter-5743/>
+[ORC Title 45]:<https://codes.ohio.gov/ohio-revised-code/title-45>
 [Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
