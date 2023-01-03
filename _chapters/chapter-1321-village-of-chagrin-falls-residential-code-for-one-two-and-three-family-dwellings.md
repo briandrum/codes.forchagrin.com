@@ -45,17 +45,17 @@ of Ohio R.C. 3781.10(A)(2).\
 
 ## 1321.02   Intent
 
-It is the intent of the Village Council, as the legal authority which best
-knows the conditions of and affecting residential buildings within Village, to
-fully exercise all of its constitutionally granted powers of local self
-government and such police powers as do not conflict with general laws of the
-State of Ohio, for the protection of the health, safety and welfare of the
-residents of the Village. Accordingly, the Village is adopting the Village
-Code, which shall be substantially identical to the State Code, but which will
-be enforced under the Village's police powers granted by Article XVIII, Section
-3 of the Ohio Constitution. Other provisions of the Village Codified
-Ordinances shall continue in full force and effect, so long as they do not
-conflict with any general law of the State of Ohio.\
+It is the intent of the Village Council, as the legal authority which best knows
+the conditions of and affecting residential buildings within Village, to fully
+exercise all of its constitutionally granted powers of local self government and
+such police powers as do not conflict with general laws of the State of Ohio,
+for the protection of the health, safety and welfare of the residents of the
+Village. Accordingly, the Village is adopting the Village Code, which shall be
+substantially identical to the State Code, but which will be enforced under the
+Village's police powers granted by [Article XVIII, Section 3][OC 18.3] of the
+Ohio Constitution. Other provisions of the Village Codified Ordinances shall
+continue in full force and effect, so long as they do not conflict with any
+general law of the State of Ohio.\
 (Ord. 2006-57. Passed 9-25-06.)
 
 ## 1321.03   Adoption of the village code
@@ -127,3 +127,5 @@ Whoever violates the provisions of this chapter shall be guilty of a
 misdemeanor of the third degree, punishable by a fine of up to five hundred
 dollars ($500.00) or imprisoned up to sixty days, or both.\
 (Ord. 2006-57. Passed 9-25-06.)
+
+[OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>

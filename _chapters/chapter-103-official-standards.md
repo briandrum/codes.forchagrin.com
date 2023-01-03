@@ -47,13 +47,13 @@ The following bench marks are established as datum planes for the Municipality:
 | Water and Center Sts.              | Top Hyd. - S.E. Corner                    |  El. 84.92 |
 | Water and Center Sts               | X on Water Table N. E. Corner Brick House |  El. 83.65 |
 
-(Ord.1957-420. Passed 12-28-57.)
+(Ord. 1957-420. Passed 12-28-57.)
 
 ## 103.02   Grade to be referenced to bench marks
 
 All grades established shall have reference to the levels of datum planes set
 forth in [Section 103.01][].\
-(Ord.1957-420. Passed 12-28-57.)
+(Ord. 1957-420. Passed 12-28-57.)
 
 [ORC Section 1.04]:<https://codes.ohio.gov/ohio-revised-code/section-1.04>
 [ORC Section 1.14]:<https://codes.ohio.gov/ohio-revised-code/section-1.14>

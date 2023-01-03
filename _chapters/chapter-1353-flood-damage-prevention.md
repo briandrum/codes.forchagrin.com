@@ -28,11 +28,11 @@ title: "Chapter 1353: Flood Damage Prevention"
 
 ## 1353.01   Statutory authorization; findings of fact; purpose and objectives
 
-1. _(a)_ **Statutory Authorization.** [Article XVIII, Section 3][ORC Article
-XVIII, Section 3] of the Ohio Constitution grants municipalities, the legal
-authority to adopt land use and control measures for promoting the health,
-safety and general welfare of its citizens. Therefore, the Council of the
-Village of Chagrin Falls, State of Ohio does ordain as follows:
+1. _(a)_ **Statutory Authorization.** [Article XVIII, Section 3][OC 18.3] of the
+Ohio Constitution grants municipalities, the legal authority to adopt land use
+and control measures for promoting the health, safety and general welfare of its
+citizens. Therefore, the Council of the Village of Chagrin Falls, State of Ohio
+does ordain as follows:
 
 2. _(b)_ **Findings of Fact.**
 
@@ -1138,7 +1138,7 @@ separate offense. Nothing herein contained shall prevent the Village from taking
 such other lawful action as is necessary to prevent or remedy any violation.\
 (Ord. 2005-22. Passed 4-11-05.)
 
-[ORC Article XVIII, Section 3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
+[OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
 [ORC Section 111.15]:<https://codes.ohio.gov/ohio-revised-code/section-111.15>
 [Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
 [Section 1111.04]:</chapters/chapter-1111-appeals-and-variances/#111104-notices>

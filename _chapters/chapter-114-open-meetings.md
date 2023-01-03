@@ -24,7 +24,7 @@ Municipality, shall be held at the Village Hall.
 All meetings of the described public bodies shall be open to the public, unless
 an executive session is expressly authorized under the applicable provisions of
 State law.\
-(Ord.1975-992. Passed 12-2-75.)
+(Ord. 1975-992. Passed 12-2-75.)
 
 ## 114.02   Public notification
 
@@ -43,7 +43,7 @@ special meeting.
 such emergency meeting shall be communicated to the news media who have
 requested notification of the time, place and purpose of the emergency
 meeting.\
-(Ord.1975-992. Passed 12-2-75.)
+(Ord. 1975-992. Passed 12-2-75.)
 
 ## 114.03   Personal notification
 
@@ -59,7 +59,7 @@ will be discussed and/or acted upon. To obtain this notice, such persons are
 required to fill out a form provided by the Clerk of Council for such purpose,
 and shall deposit the sum provided under subsection (a) hereof in advance for
 such notices of the calendar of monthly meetings.\
-(Ord.1975-992. Passed 12-2-75; Ord.1990-79. Passed 10-8-90.)
+(Ord. 1975-992. Passed 12-2-75; Ord. 1990-79. Passed 10-8-90.)
 
 ## 114.04   Minutes of meetings
 
@@ -73,7 +73,7 @@ executive session.
 book for each public body. The minute books shall contain the minutes of all
 meetings of each public body. The public may inspect the minute books at all
 reasonable times.\
-(Ord.1975-992. Passed 12-2-75.)
+(Ord. 1975-992. Passed 12-2-75.)
 
 ## 114.05   Virtual public meetings and hearings
 

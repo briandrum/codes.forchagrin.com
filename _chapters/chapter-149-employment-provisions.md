@@ -147,7 +147,7 @@ overtime rate multiplied by the actual number of hours worked to the nearest
 quarter of an hour. Employees shall be notified of scheduled overtime no less
 than seventy-two hours prior to the beginning of the scheduled overtime
 service.\
-(Ord.1986-65. Passed 12-22-86.)
+(Ord. 1986-65. Passed 12-22-86.)
 
 ## 149.05   Police professional liability insurance
 
@@ -157,7 +157,7 @@ the purchase by the Village of a police professional liability insurance policy
 in amounts of not less than one hundred thousand dollars/three hundred thousand
 dollars($100,000/$300,000) with five hundred thousand dollars ($500,000)
 aggregate for any one occurrence, covering all Police Department personnel.\
-(Ord.1986-65. Passed 12-22-86.)
+(Ord. 1986-65. Passed 12-22-86.)
 
 ## 149.06   Overtime
 
@@ -338,7 +338,7 @@ specific days shall be entitled to receive compensation for the aforementioned
 ten legal holidays if the holiday occurs on the employee's regular working day;
 compensation shall be computed on the basis of the employee's regular scheduled
 hours at straight time.\
-(Ord.1988-109. Passed 12-12-88.)
+(Ord. 1988-109. Passed 12-12-88.)
 
 ## 149.11   Vacations
 
@@ -361,7 +361,7 @@ the best interests of the Municipality.
 3. _(c)_ Except with the approval of the Mayor, accumulated vacation time will
 not be paid if less than two weeks notice of intention to leave the employ of
 the Municipality is given.\
-(Ord.1986-65. Passed 12-22-86.)
+(Ord. 1986-65. Passed 12-22-86.)
 
 ## 149.12   Sick leave
 
@@ -434,7 +434,7 @@ entire cost of the hospitalization plan for either a single or family coverage,
 depending upon his or her status. Employees are eligible to enroll in the Group
 Hospitalization Plan on the first day of the month following the fulfilling of
 thirty calendar days of employment with the Village.\
-(Ord.1986-65. Passed 12-22-86; Ord.1990-104. Passed 12-10-90.)
+(Ord. 1986-65. Passed 12-22-86; Ord. 1990-104. Passed 12-10-90.)
 
 ## 149.15   Payroll savings plan
 
@@ -445,7 +445,7 @@ receipt of a written request and authorization for such deduction by the
 employee, designating the amount of the monthly deduction to be made and the
 bank or savings and loan association in the Municipality where such deposit is
 to be made.\
-(Ord.1986-65. Passed 12-22-86.)
+(Ord. 1986-65. Passed 12-22-86.)
 
 ## 149.16   Retirement provision
 
@@ -453,7 +453,7 @@ No full-time regular employee of the Municipality in any of its departments
 shall continue in such service after attaining the age of sixty-five years,
 unless the Mayor recommends, with reasons therefor, to Council, a waiver of this
 age prohibition and Council confirms such recommendation by resolution.\
-(Ord.1986-65. Passed 12-22-86.)
+(Ord. 1986-65. Passed 12-22-86.)
 
 ## 149.17   Service with prior political subdivision
 
@@ -461,7 +461,7 @@ No credit for prior service with another political subdivision will be accepted
 as credit toward sick leave or vacation time unless so approved by the Mayor. No
 credit for prior service with another political subdivision will be accepted as
 credit for the purpose of calculating longevity pay.\
-(Ord.1986-65. Passed 12-22-86.)
+(Ord. 1986-65. Passed 12-22-86.)
 
 ## 149.18   Funeral leave
 
@@ -473,14 +473,14 @@ Such absence shall not be deducted from the employee's accumulated sick leave.
 Paid time shall be determined by multiplying the hourly equivalent rate in
 effect at the time the death occurred by the scheduled number of hours in the
 employee's regular work day.\
-(Ord.1986-65. Passed 12-22-86.)
+(Ord. 1986-65. Passed 12-22-86.)
 
 ## 149.19   Probation
 
 All full-time employees are required to serve a one-year probation period,
 during which time he/she is required to demonstrate his/her ability to perform
 the duties of the position to which the employee has been appointed.\
-(Ord.1986-65. Passed 12-22-86.)
+(Ord. 1986-65. Passed 12-22-86.)
 
 ## 149.20   Employee contributions to OPERS and OP&F
 

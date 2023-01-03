@@ -26,7 +26,7 @@ title: "Chapter 133: Department of Public Service"
 Pursuant to Article VII of the Charter, there is hereby established a Department
 of Public Service. The head of the Department shall be the Chief Administrative
 Officer.\
-(Ord.1964-609. Passed 12-19-64.)
+(Ord. 1964-609. Passed 12-19-64.)
 
 ## 133.02   Chief administrative officer established
 
@@ -34,7 +34,7 @@ Pursuant to Article VI of the Charter, there is hereby established the position
 of Chief Administrative Officer, who shall be appointed by the Mayor, subject to
 the confirmation by a majority vote of the members of Council, and shall serve
 at the pleasure of the Mayor.\
-(Ord.1963-559. Passed 2-25-63.)
+(Ord. 1963-559. Passed 2-25-63.)
 
 ## 133.03   Duties of chief administrative officer
 
@@ -75,7 +75,7 @@ and duties in connection therewith as prescribed by Council.
 
 9. _(i)_ Have such other powers and duties as may be prescribed by ordinance of
 Council.\
-(Ord.1963-559. Passed 2-25-63.)
+(Ord. 1963-559. Passed 2-25-63.)
 
 ## 133.04   Expense account
 

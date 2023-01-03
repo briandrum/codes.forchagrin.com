@@ -33,14 +33,14 @@ appointed by the Mayor, subject to confirmation by a majority vote of all
 members elected to Council. He may be removed from office by the Mayor, but such
 removal shall not take place without the concurrence of a majority of the
 members of Council.\
-(Ord.1965-638. Passed 12-27-65.)
+(Ord. 1965-638. Passed 12-27-65.)
 
 ## 123.03   Qualifications of director
 
 No person shall act as Director of Law unless duly admitted to the practice of
 law in Ohio and in good standing. He need not be a resident of the
 Municipality.\
-(Ord.1965-638. Passed 12-27-65.)
+(Ord. 1965-638. Passed 12-27-65.)
 
 ## 123.04   Duties of director
 

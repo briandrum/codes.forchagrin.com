@@ -17,7 +17,7 @@ No building of any kind or character shall hereafter be constructed within, be
 moved into or be moved within the fire limits of the Municipality as set forth
 in [Section 1333.02][], unless the outer walls of such building are made either
 of iron, brick, stone, concrete blocks or concrete.\
-(Ord.1988-68. Passed 10-10-88.)
+(Ord. 1988-68. Passed 10-10-88.)
 
 ## 1333.02   Limits established
 

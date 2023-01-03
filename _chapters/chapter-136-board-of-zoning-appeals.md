@@ -56,7 +56,7 @@ regulations; and shall keep a journal of its proceedings. The Board shall
 appoint or reappoint its officers at its first regular meeting in January of
 each year. Members of the Board shall serve without compensation unless
 otherwise provided by ordinance.\
-(Ord.1979-1172. Passed 10-8-79.)
+(Ord. 1979-1172. Passed 10-8-79.)
 
 ## 136.03   Meetings; voting
 
@@ -68,7 +68,7 @@ will constitute a denial of the motion pending before the Board and a
 maintenance of the status quo or previous decision being reviewed. The Board
 shall conduct all of its meetings pursuant to Ohio R.C. [2506][ORC Chapter 2506]
 and amendments thereto.\
-(Ord.1983-38. Passed 11-28-83.)
+(Ord. 1983-38. Passed 11-28-83.)
 
 ## 136.04   Duties
 

@@ -74,9 +74,10 @@ allocated into the General Fund.
     2. _(2)_ Intentionally left blank.
 
 3. _(C)_ The tax on income and the withholding tax established by this Chapter
-124 are authorized by Article XVIII, Section 3 of the Ohio Constitution. The tax
-is levied in accordance with, and is intended to be consistent with, the
-provisions and limitations of Ohio Revised Code 718 (ORC 718).\
+124 are authorized by [Article XVIII, Section 3][OC 18.3] of the Ohio
+Constitution. The tax is levied in accordance with, and is intended to be
+consistent with, the provisions and limitations of Ohio Revised Code 718 (ORC
+718).\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.02   Definitions
@@ -4353,5 +4354,6 @@ shall be subject to the penalties provided for in Section 124.99 (A) of this
 Chapter.\
 (Ord. 2018-22. Passed 3-26-18.)
 
+[OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
 [Section 124.03]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403-imposition-of-tax>
 [Section 124.05]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405-annual-return-filing>

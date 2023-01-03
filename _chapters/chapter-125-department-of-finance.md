@@ -69,7 +69,7 @@ and any amendment or supplement thereto. Wherever any provisions of the Uniform
 Depository Act are made applicable under this chapter, such provisions are
 applicable only to the extent that they are not in conflict with or inconsistent
 with the Municipal Charter and ordinances or resolutions.\
-(Ord.1986-46. Passed 10-28-86.)
+(Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.02   Depositories
 
@@ -163,7 +163,7 @@ acceptance of the Municipality's active deposits.
 6. _(f)_ The limitations on the aggregate amounts of public moneys that may be
 on deposit with eligible depositories as set forth in the Uniform Depository Act
 shall apply under this Chapter 125.\
-(Ord.1986-46. Passed 10-28-86.)
+(Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.03   Collateral securities
 
@@ -195,7 +195,7 @@ and for which the full faith and credit of the issuing subdivision is pledged;
 full faith and credit of the state is pledged, which states have not during the
 ten years immediately preceding the time of such deposit defaulted in payments
 of either interest or principal on any of their bonds.\
-(Ord.1986-46. Passed 10-28-86.)
+(Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.04   Pledged collateral securities
 
@@ -228,7 +228,7 @@ setting forth the face and market values of all collateral securities pledged.
 The Director of Finance may require additional collateral securities to be
 delivered or deposited to provide for any depreciation that may occur in the
 market value of any of the collateral securities so delivered or deposited.\
-(Ord.1986-46. Passed 10-28-86.)
+(Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.05   Failure to pay deposit
 
@@ -248,7 +248,7 @@ purchaser. Any surplus remaining after deducting the amount due the Municipality
 and any expenses of the sale shall be paid to the depository bank. This
 provision is in addition to any rights of the Municipality to recover under Ohio
 R.C. [Chapter 135][ORC Chapter 135].\
-(Ord.1986-46. Passed 10-28-86.)
+(Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.06   Pooled collateral security
 
@@ -297,7 +297,7 @@ depository for any public moneys.
 
     Collateral securities held in a pooled escrow account may be substituted and
     exchanged in the same manner as described in [Section 125.04][].\
-    (Ord.1986-46. Passed 10-28-86.)
+    (Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.07   Investment objectives
 
@@ -339,7 +339,7 @@ Finance are equal, placement shall be made with the designated eligible
 depository situated within the Municipality. The right is reserved to reject all
 bids or proposals or any bid if such is inconsistent with the Municipality's
 investment objectives.\
-(Ord.1986-46. Passed 10-28-86.)
+(Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.08   Investments
 
@@ -487,7 +487,7 @@ of Finance may invest in bonds, notes or other obligations of the Municipality,
 including those issued pursuant to Ohio R.C. [725.01][ORC Section 725.01] to
 [725.11][ORC Section 725.11], at a price, rate, maturity or other terms as
 determined by the Director of Finance.\
-(Ord.1986-46. Passed 10-28-86.)
+(Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.09   Miscellaneous provisions
 
@@ -573,7 +573,7 @@ Village upon the following basis:
 the future. Such charges shall cover transportation, unless otherwise stated,
 from the emergency site to the nearest appropriate hospital and/or emergency
 facility.\
-(Ord.1993-25. Passed 3-8-93; Ord. 2005-43. Passed 7-11-05.)
+(Ord. 1993-25. Passed 3-8-93; Ord. 2005-43. Passed 7-11-05.)
 
 ## 125.14   Fire/burglar alarm monitoring fees
 
@@ -586,7 +586,7 @@ and who are already under agreement with the Village, or, who are delinquent in
 payment thereof for more than thirty days, shall be terminated from the service.
 The Village reserves the right to change these charges at anytime in the
 future.\
-(Ord.1990-83. Passed 10-8-90; Ord. 2005-28. Passed 6-13-05.)
+(Ord. 1990-83. Passed 10-8-90; Ord. 2005-28. Passed 6-13-05.)
 
 ## 125.15   Funds to be retained by village
 
@@ -596,7 +596,7 @@ interest earned thereon, by the Village in any account or investment as
 determined by the Director of Finance pursuant to the powers vested in him by
 this chapter. Any interest or dividends earned shall become the sole and
 exclusive property of the Village.\
-(Ord.1991-6. Passed 2-11-91.)
+(Ord. 1991-6. Passed 2-11-91.)
 
 ## 125.16   Petty cash and change drawer funds
 

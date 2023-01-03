@@ -40,7 +40,7 @@ unexpired portion of the term.\
 ## 140.03   Compensation
 
 Members of the Commission shall serve without compensation.\
-(Ord.1987-17. Passed 4-13-87. )
+(Ord. 1987-17. Passed 4-13-87. )
 
 ## 140.04   Authority
 
@@ -61,7 +61,7 @@ commissions involved, as to the advisability of approving these requests.
 
 4. _(d)_ To recommend to Council and the Mayor the use of all funds that have
 been donated or bequeathed for use in the parks.\
-(Ord.1987-17. Passed 4-13-87. )
+(Ord. 1987-17. Passed 4-13-87. )
 
 ## 140.05   Organization
 
@@ -73,11 +73,11 @@ designate by name those members of the Commission approving or concurring
 therein, and members who do not so approve or concur therein shall have the
 right, as a part of such report, to state their reasons for refusing to approve
 or concur.\
-(Ord.1987-17. Passed 4-13-87.)
+(Ord. 1987-17. Passed 4-13-87.)
 
 ## 140.06   Referral
 
 The Commission, when requested by Council, the Mayor or the Chief Administrative
 Officer, shall consider, investigate, make findings, report and recommend upon
 any special matter or question coming within the scope of its work.\
-(Ord.1987-17. Passed 4-13-87.)
+(Ord. 1987-17. Passed 4-13-87.)

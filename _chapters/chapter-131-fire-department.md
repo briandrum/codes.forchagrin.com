@@ -60,7 +60,7 @@ approved by resolution of Council.
 
 Any such code of by-laws may provide for officers lower in rank but in addition
 to the Fire Chief.\
-(Ord.1930-142. Passed 12-8-30.)
+(Ord. 1930-142. Passed 12-8-30.)
 
 ## 131.03   Duties of firemen
 
@@ -70,7 +70,7 @@ served by such Fire Department. Firemen shall also perform such other duties as
 are usually performed by firemen in other municipalities. Each of such
 volunteers shall be subject to call at any time and shall receive compensation
 as prescribed by Council.\
-(Ord.1954-301. Passed 2-22-54. )
+(Ord. 1954-301. Passed 2-22-54. )
 
 ## 131.04   Monthly fire drill
 
@@ -78,7 +78,7 @@ The Volunteer Fire Department shall hold a fire drill at least once each month,
 at a time and place as directed by the Fire Chief. Each volunteer fireman
 performing his duties at such fire drill shall receive the compensation
 prescribed by Council for each drill.\
-(Ord.1954-301. Passed 2-22-54.)
+(Ord. 1954-301. Passed 2-22-54.)
 
 ## 131.05   Employee rights of volunteer firemen
 
@@ -89,7 +89,7 @@ rights and duties of regularly-employed firemen in Ohio villages, except as such
 rights may be otherwise herein specified, limited or abridged. The Municipality
 shall, if it so desires, carry such insurance against loss or damage or injury
 to persons or property as it deems advisable.\
-(Ord.1930-142. Passed 12-8-30.)
+(Ord. 1930-142. Passed 12-8-30.)
 
 [ORC Chapter 146]:<https://codes.ohio.gov/ohio-revised-code/chapter-146>
 [ORC Section 307.05]:<https://codes.ohio.gov/ohio-revised-code/section-307.05>
