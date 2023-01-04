@@ -29,38 +29,38 @@ requires the deliberation of the entire Council.
 ### Administration & Compensation Committee
 
 - Jack Subel, Chair
-- Angie DeBernardo
+- Erinn Grube
 - Mike Corkran
 
 ### Facilities & Services Committee
 
-- Angie DeBernardo, Chair
-- Andrew Rockey
+- Andrew Rockey, Chair
+- Angie DeBernardo
 - Brian Drum
 
 ### Finance Committee
 
-- Erinn Grube, Chair
+- Nancy Rogoff, Chair
+- Angie DeBernardo
 - Mike Corkran
-- Nancy Rogoff
 
 ### Safety Committee
 
-- Andrew Rockey, Chair
+- Brian Drum, Chair
+- Erinn Grube
 - Jack Subel
-- Nancy Rogoff
 
 ### Streets & Sidewalks Committee
 
 - Erin Grubbe, Chair
-- Andrew Rockey
 - Jack Subel
+- Nancy Rogoff
 
 ### Utilities Committee
 
 - Mike Corkran, Chair
+- Andrew Rockey
 - Brian Drum
-- Erinn Grube
 
 ## Boards
 
@@ -87,7 +87,7 @@ Established in [Part One, Title Five, Chapter 136: Board of Zoning
 Appeals](/chapters/chapter-136-board-of-zoning-appeals/).
 
 - Wade Fricke, Chair
-- Brian Drum, Council Representative
+- Andrew Rockey, Council Representative
 - Elizabeth Hijar
 - Jim Holdren
 - Rachel Freshman-Johnson
@@ -98,8 +98,8 @@ Appeals](/chapters/chapter-136-board-of-zoning-appeals/).
 ### Volunteer Firefighters’ Dependents Board
 
 - Member, Chair
-- Member
-- Member
+- Jack Subel, Council Representative
+- Nancy Rogoff
 
 ## Commissions
 
