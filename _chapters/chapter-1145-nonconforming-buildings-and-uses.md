@@ -17,7 +17,7 @@ title: "Chapter 1145: Nonconforming Buildings and Uses"
 
 ## Cross references
 
-* Nonconforming uses - see Ohio R.C. 713.15
+* Nonconforming uses - see Ohio R.C. [713.15][ORC Section 713.15]
 
 ## 1145.01   Intent
 
@@ -221,4 +221,5 @@ the two uses were on adjacent lots; provided however, that in a one-family and
 two-family district only one main building shall be permitted on a zoning lot.\
 (Ord. 2019-39. Passed 8-13-19.)
 
+[ORC Section 713.15]:<https://codes.ohio.gov/ohio-revised-code/section-713.15>
 [Section 1145.02(d)]:</chapters/chapter-1145-nonconforming-buildings-and-uses/#114502(d)>

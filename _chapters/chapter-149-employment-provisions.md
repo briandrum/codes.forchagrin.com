@@ -41,9 +41,9 @@ to contact the Director of Finance for copies of relevant legislation.)
 ## Cross references
 
 * Conflict of interest - see CHTR. Art. XII, Sec. 6
-* Deductions for municipal income tax - see Ohio R.C. 9.42
+* Deductions for municipal income tax - see Ohio R.C. [9.42][ORC Section 9.42]
 * Public employees retirement system - see Ohio R.C. [Chapter 145][ORC Chapter 145]
-* Expenses for attendance at conference or convention - see Ohio R.C. 733.79
+* Expenses for attendance at conference or convention - see Ohio R.C. [733.79][ORC Section 733.79]
 * Strikes by public employees - see Ohio R.C. [Chapter 4117][ORC Chapter 4117]
 * Workmen's compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. [Chapter 4123][ORC Chapter 4123]
 
@@ -220,10 +220,10 @@ Superintendent of Utilities and Superintendent of Streets.\
     regular starting time of his work shift should not be changed.
 
     2. _(2)_ **Hours Worked for Overtime Calculation.** For purposes of
-    calculating all employee overtime in this [Section 149.06][], paid holiday
-    time, paid vacation time, and paid sick leave shall be counted as hours
-    worked. Other paid and unpaid time-off shall not be counted as hours
-    worked.\
+    calculating all employee overtime in this [Section 149.06][CF Section
+    149.06], paid holiday time, paid vacation time, and paid sick leave shall be
+    counted as hours worked. Other paid and unpaid time-off shall not be counted
+    as hours worked.\
     (Ord. 2011-22. Passed 4-25-11.)
 
 5. _(e)_ **Call-In Pay.** Regular full-time Public Service and Finance
@@ -562,8 +562,8 @@ retirement boards.\
 
 ## 149.21   PFDPF pickup
 
-Editor's note: Former [Section 149.21][] was repealed by Ordinance 2011-26, passed
-May 23, 2011.
+Editor's note: Former [Section 149.21][CF Section 149.21] was repealed by
+Ordinance 2011-26, passed May 23, 2011.
 
 ## 149.22   Pre-employment physical
 
@@ -624,8 +624,10 @@ restatements and amendments do not materially change the plans. A current copy
 of each plan is maintained on file by the Finance Director.\
 (Ord. 2011-68. Passed 11-28-11.)
 
+[CF Section 149.06]:</chapters/chapter-149-employment-provisions/#14906-overtime>
+[CF Section 149.21]:</chapters/chapter-149-employment-provisions/#14921-pfdpf-pickup>
 [ORC Chapter 145]:<https://codes.ohio.gov/ohio-revised-code/chapter-145>
 [ORC Chapter 4117]:<https://codes.ohio.gov/ohio-revised-code/chapter-4117>
 [ORC Chapter 4123]:<https://codes.ohio.gov/ohio-revised-code/chapter-4123>
-[Section 149.06]:</chapters/chapter-149-employment-provisions/#14906-overtime>
-[Section 149.21]:</chapters/chapter-149-employment-provisions/#14921-pfdpf-pickup>
+[ORC Section 9.42]:<https://codes.ohio.gov/ohio-revised-code/section-9.42>
+[ORC Section 733.79]:<https://codes.ohio.gov/ohio-revised-code/section-733.79>

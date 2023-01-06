@@ -114,14 +114,14 @@ hazards, the Administrator may waive the fencing requirement.
 
 7. _(g)_ **Exceptions.** The requirements of this chapter shall not apply to a
 hedge which is planted as a perimeter screen under the landscaping regulations
-set forth in [Section 1142.06][].\
+set forth in [Section 1142.06][CF Section 1142.06].\
 (Ord. 2019-39. Passed 8-13-19; Ord. 2020-10. Passed 3-9-20.)
 
 ## 1148.04   Permits
 
 1. _(a)_ **Permit Required.** No person shall erect any fence, wall, or
 retaining wall without first obtaining a building permit and making payment of
-the fee required by [Section 1309.14][] of the Building Code.
+the fee required by [Section 1309.14][CF Section 1309.14] of the Building Code.
 
 2. _(b)_ **Survey Required.** If documentation of the property line locations is
 not conclusive, the Administrator may require a professional survey to identify
@@ -208,10 +208,10 @@ features shall be installed in accordance with Sections 1142.05 and 1142.06.
 1. _(a)_ A retaining wall may be constructed on property where topographic
 conditions warrant or where necessary to retain fill or cut slopes.
 
-2. _(b)_ In addition to the permit requirements of [Section 1148.04][], all
-retaining walls over three (3) feet in height shall require the submission of
-plans and specifications for approval by the Municipal Engineer. Such plans
-shall be prepared by a professional engineer.
+2. _(b)_ In addition to the permit requirements of [Section 1148.04][CF Section
+1148.04], all retaining walls over three (3) feet in height shall require the
+submission of plans and specifications for approval by the Municipal Engineer.
+Such plans shall be prepared by a professional engineer.
 
 3. _(c)_ Retaining walls shall be set back from any property line a minimum of
 three (3) feet plus one (1) foot for every foot of wall height greater than
@@ -238,7 +238,7 @@ Board of Review in consideration of factors of safety and visual impact on
 nearby uses.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[Section 1142.06]:</chapters/chapter-1142-landscaping-regulations/#114206-perimeter-screens>
+[CF Section 1142.06]:</chapters/chapter-1142-landscaping-regulations/#114206-perimeter-screens>
+[CF Section 1148.04]:</chapters/chapter-1148-fences-walls-and-hedges/#114804-permits>
+[CF Section 1309.14]:</chapters/chapter-1309-fees-for-permits-and-inspections/#130914-fence-or-wall-near-property-line>
 [Section 1148.03(b)]:</chapters/chapter-1148-fences-walls-and-hedges/#114803(b)>
-[Section 1148.04]:</chapters/chapter-1148-fences-walls-and-hedges/#114804-permits>
-[Section 1309.14]:</chapters/chapter-1309-fees-for-permits-and-inspections/#130914-fence-or-wall-near-property-line>

@@ -8,8 +8,9 @@ title: "Chapter 953: Evergreen Cemetery"
 
 Editor's note: Prices and payments covering the sale of lots and fees for
 interments within the Municipal Cemetery are set by the Board of Cemetery
-Trustees pursuant to Ohio R.C. 759.13 and 759.23. Please consult the
-Department of Finance for information concerning current costs and fees.
+Trustees pursuant to Ohio R.C. [759.13][ORC Section 759.13] and 759.23. Please
+consult the Department of Finance for information concerning current costs and
+fees.
 
 * [953.01   Definitions](#95301-definitions)
 * [953.02   General](#95302-general)
@@ -26,11 +27,11 @@ Department of Finance for information concerning current costs and fees.
 ## Cross references
 
 * Cemetery Commission - see ADM. Ch. 142
-* Burials may be prohibited - see Ohio R.C. 759.05
-* Management and control - see Ohio R.C. 759.20
-* Union cemeteries - see Ohio R.C. 759.27 et seq.
-* Burial permits - see Ohio R.C. 3705.24 et seq.
-* Burial of indigent persons - see Ohio R.C. 5113.15
+* Burials may be prohibited - see Ohio R.C. [759.05][ORC Section 759.05]
+* Management and control - see Ohio R.C. [759.20][ORC Section 759.20]
+* Union cemeteries - see Ohio R.C. [759.27][ORC Section 759.27] et seq.
+* Burial permits - see Ohio R.C. [3705.24][ORC Section 3705.24] et seq.
+* Burial of indigent persons - see Ohio R.C. [5113.15][ORC Section 5113.15]
 * Malicious damage to tombstone or cemetery property - see GEN. OFF. 541.04, 541.07
 
 ## 953.01   Definitions
@@ -264,7 +265,7 @@ Administrative Officer.
 1. _(a)_ The owner shall produce their Right to Bury form.
 
 2. _(b)_ There will be no burials on Sundays or Village holidays as listed in
-Codified Ordinance [Section 149.10][].
+Codified Ordinance [Section 149.10][CF Section 149.10].
 
 3. _(c)_ The Village must receive 48 hour notice (two business days) for
 burials. There will be no burials after 12:00 noon on Saturdays.
@@ -451,4 +452,10 @@ imprisoned for not more than one year, or both. Each day such violation
 continues shall constitute a separate offense.\
 (Ord. 2016-77. Passed 12-12-16.)
 
-[Section 149.10]:</chapters/chapter-149-employment-provisions/#14910-holidays>
+[CF Section 149.10]:</chapters/chapter-149-employment-provisions/#14910-holidays>
+[ORC Section 759.05]:<https://codes.ohio.gov/ohio-revised-code/section-759.05>
+[ORC Section 759.13]:<https://codes.ohio.gov/ohio-revised-code/section-759.13>
+[ORC Section 759.20]:<https://codes.ohio.gov/ohio-revised-code/section-759.20>
+[ORC Section 759.27]:<https://codes.ohio.gov/ohio-revised-code/section-759.27>
+[ORC Section 3705.24]:<https://codes.ohio.gov/ohio-revised-code/section-3705.24>
+[ORC Section 5113.15]:<https://codes.ohio.gov/ohio-revised-code/section-5113.15>

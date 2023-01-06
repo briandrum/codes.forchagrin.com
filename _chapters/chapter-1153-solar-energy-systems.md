@@ -76,8 +76,8 @@ without first obtaining a permit.\
 
 ## 1153.04   Application requirements
 
-In addition to the application requirements set forth in [Section 1109.04][], an
-application for a solar energy system shall include:
+In addition to the application requirements set forth in [Section 1109.04][CF
+Section 1109.04], an application for a solar energy system shall include:
 
 1. _(a)_ The manufacturer's specifications.
 
@@ -171,13 +171,13 @@ other obstructions that might interfere with solar access. Nothing in this
 section shall prohibit the owner of the solar energy system from requesting or
 obtaining a solar access easement from any person.
 
-6. _(f)_ Solar access easements shall be in compliance with Ohio R.C. 5301.63
-which sets forth the requirements for solar access. In order to ensure adequate
-access of solar energy collection devices to sunlight, any person may grant a
-solar access easement. Such easements shall be in writing and subject to the
-same conveyance and recording requirements as other easements. Any instrument
-creating a solar easement shall be recorded in the Cuyahoga County Recorder's
-Office.
+6. _(f)_ Solar access easements shall be in compliance with Ohio R.C.
+[5301.63][ORC Section 5301.63] which sets forth the requirements for solar
+access. In order to ensure adequate access of solar energy collection devices to
+sunlight, any person may grant a solar access easement. Such easements shall be
+in writing and subject to the same conveyance and recording requirements as
+other easements. Any instrument creating a solar easement shall be recorded in
+the Cuyahoga County Recorder's Office.
 
 7. _(g)_ Solar panels and related equipment shall be located, oriented or
 screened and constructed of such material to prevent to the fullest extent
@@ -208,5 +208,6 @@ include, but not be limited to:
 condition.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
-[Section 1109.04]:</chapters/chapter-1109-administration-and-enforcement/#110904-application-requirements>
+[CF Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
+[CF Section 1109.04]:</chapters/chapter-1109-administration-and-enforcement/#110904-application-requirements>
+[ORC Section 5301.63]:<https://codes.ohio.gov/ohio-revised-code/section-5301.63>

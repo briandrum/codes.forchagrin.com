@@ -163,4 +163,4 @@ meetings shall continue for one or more public bodies of the Village.\
 ([Ord. 2022-01. Passed 1-3-22.][])
 
 [ORC Section 121.22]:<https://codes.ohio.gov/ohio-revised-code/section-121.22>
-[Ord. 2022-01. Passed 1-3-22.]:</ordinance-2022-01/>
+[Ord. 2022-01. Passed 1-3-22.]:</ordinance-2022-01>

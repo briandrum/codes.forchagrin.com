@@ -23,9 +23,9 @@ title: "Chapter 509: Disorderly Conduct and Peace Disturbance"
 ## Cross references
 
 * See sectional histories for similar State law
-* Use of force to suppress riot - see Ohio R.C. 2917.05
-* Cordoning off riot areas, prohibiting sales of firearms and explosives - see Ohio R.C. 3761.16
-* Emergency suspension of permits and sales by Director of Liquor Control - see Ohio R.C. 4301.251
+* Use of force to suppress riot - see Ohio R.C. [2917.05][ORC Section 2917.05]
+* Cordoning off riot areas, prohibiting sales of firearms and explosives - see Ohio R.C. [3761.16][ORC Section 3761.16]
+* Emergency suspension of permits and sales by Director of Liquor Control - see Ohio R.C. [4301.251][ORC Section 4301.251]
 * Criminal trespass - see GEN. OFF. 541.05
 
 ## 509.01   Riot
@@ -156,15 +156,17 @@ subsection (b) hereof.
 6. _(f)_ As used in this section:
 
     1. _(1)_ "Emergency medical services person" is the singular of "emergency
-    medical services personnel" as defined in Ohio R.C. 2133.21.
+    medical services personnel" as defined in Ohio R.C. [2133.21][ORC Section
+    2133.21].
 
     2. _(2)_ "Emergency facility person" is the singular of "emergency facility
-    personnel" as defined in Ohio R.C. 2909.04.
+    personnel" as defined in Ohio R.C. [2909.04][ORC Section 2909.04].
 
-    3. _(3)_ "Emergency facility" has the same meaning as in Ohio R.C. 2909.04.
+    3. _(3)_ "Emergency facility" has the same meaning as in Ohio R.C.
+    [2909.04][ORC Section 2909.04].
 
     4. _(4)_ "Committed in the vicinity of a school" has the same meaning as in
-    Ohio R.C. 2925.01.\
+    Ohio R.C. [2925.01][ORC Section 2925.01].\
     (ORC 2917.11)
 
 ## 509.04   Disturbing a lawful meeting
@@ -211,13 +213,14 @@ misdemeanor of the first degree.
 4. _(d)_ As used in this section:
 
     1. _(1)_ "Emergency medical services person" is the singular of "emergency
-    medical services personnel" as defined in Ohio R.C. 2133.21.
+    medical services personnel" as defined in Ohio R.C. [2133.21][ORC Section
+    2133.21].
 
     2. _(2)_ "Emergency facility person" is the singular of "emergency facility
-    personnel" as defined in Ohio R.C. 2909.04.
+    personnel" as defined in Ohio R.C. [2909.04][ORC Section 2909.04].
 
     3. _(3)_ "Emergency facility" has the same meaning as in Ohio R.C.
-    2909.04.\
+    [2909.04][ORC Section 2909.04].\
     (ORC 2917.13)
 
 ## 509.06   Inducing panic
@@ -280,9 +283,9 @@ or both sections.
 
     2. _(2)_ "School" means any school operated by a board of education or any
     school for which the state board of education prescribes minimum standards
-    under Ohio R.C. 3301.07, whether or not any instruction, extracurricular
-    activities, or training provided by the school is being conducted at the
-    time a violation of this section is committed.
+    under Ohio R.C. [3301.07][ORC Section 3301.07], whether or not any
+    instruction, extracurricular activities, or training provided by the school
+    is being conducted at the time a violation of this section is committed.
 
     3. _(3)_ "Weapon of mass destruction" means any of the following:
 
@@ -310,16 +313,17 @@ or both sections.
             described in division (e)(3)D.1. of this section and from which an
             item or device described in that division may be readily assembled.
 
-    4. _(4)_ "Biological agent" has the same meaning as in Ohio R.C. 2917.33.
+    4. _(4)_ "Biological agent" has the same meaning as in Ohio R.C.
+    [2917.33][ORC Section 2917.33].
 
     5. _(5)_ "Emergency medical services personnel" has the same meaning as in
-    Ohio R.C. 2133.21.
+    Ohio R.C. [2133.21][ORC Section 2133.21].
 
     6. _(6)_ "Institution of higher education" means any of the following:
 
         1. _(A)_ A state university or college as defined in Ohio R.C.
-        3345.12(A) (1), community college, state community college, university
-        branch, or technical college;
+        [3345.12(A)][ORC Section 3345.12] (1), community college, state
+        community college, university branch, or technical college;
 
         2. _(B)_ A private, nonprofit college, university or other
         post-secondary institution located in this State that possesses a
@@ -369,7 +373,7 @@ or both sections.
 5. _(e)_ As used in this section:
 
     1. _(1)_ "Critical infrastructure facility" has the same meaning as in Ohio
-    R.C. 2911.21.
+    R.C. [2911.21][ORC Section 2911.21].
 
     2. _(2)_ "Economic harm"and "weapon of mass destruction" have the same
     meaning as in Section 509.06.\
@@ -531,9 +535,19 @@ may be enforced by the issuance of a citation per Criminal Rule 4.1.\
 
 ## 509.99   Penalty
 
-(Editor's note: See [Section 501.99][] for penalties applicable to any
-misdemeanor classification.)
+(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
+to any misdemeanor classification.)
 
-[ORC Chapter 1713]:<https://codes.ohio.gov/ohio-revised-code/chapter-1713/>
-[ORC Chapter 3332]:<https://codes.ohio.gov/ohio-revised-code/chapter-3332/>
-[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[ORC Chapter 1713]:<https://codes.ohio.gov/ohio-revised-code/chapter-1713>
+[ORC Chapter 3332]:<https://codes.ohio.gov/ohio-revised-code/chapter-3332>
+[ORC Section 2133.21]:<https://codes.ohio.gov/ohio-revised-code/section-2133.21>
+[ORC Section 2909.04]:<https://codes.ohio.gov/ohio-revised-code/section-2909.04>
+[ORC Section 2911.21]:<https://codes.ohio.gov/ohio-revised-code/section-2911.21>
+[ORC Section 2917.05]:<https://codes.ohio.gov/ohio-revised-code/section-2917.05>
+[ORC Section 2917.33]:<https://codes.ohio.gov/ohio-revised-code/section-2917.33>
+[ORC Section 2925.01]:<https://codes.ohio.gov/ohio-revised-code/section-2925.01>
+[ORC Section 3301.07]:<https://codes.ohio.gov/ohio-revised-code/section-3301.07>
+[ORC Section 3345.12]:<https://codes.ohio.gov/ohio-revised-code/section-3345.12>
+[ORC Section 3761.16]:<https://codes.ohio.gov/ohio-revised-code/section-3761.16>
+[ORC Section 4301.251]:<https://codes.ohio.gov/ohio-revised-code/section-4301.251>

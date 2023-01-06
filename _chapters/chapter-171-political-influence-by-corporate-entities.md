@@ -53,4 +53,4 @@ Constitutional Amendment reflecting the principles set forth in [Section
 171.02][] is ratified by three-quarters (3/4) of the State legislatures.\
 (Approval by voters 11-4-14)
 
-[Section 171.02]:</chapters/chapter-171-political-influence-by-corporate-entities/#17102-summary-of-public-hearing>
+[CF Section 171.02]:</chapters/chapter-171-political-influence-by-corporate-entities/#17102-summary-of-public-hearing>

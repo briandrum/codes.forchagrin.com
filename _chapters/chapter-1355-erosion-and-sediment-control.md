@@ -1416,7 +1416,7 @@ Village of Chagrin Falls may require other BMPs as site conditions warrant.
     protect adjacent properties and water resources from sediment discharged via
     sheet (diffused) flow. Silt fence shall be placed along level contours and
     the permissible drainage area is limited to those indicated in Table 3 in
-    [Section 1355.09][] of these regulations.
+    [Section 1355.09][CF Section 1355.09] of these regulations.
 
     7. _(7)_ **Internal Inspection and Maintenance.** All controls on the
     development area shall be inspected at least once every seven calendar days
@@ -1594,12 +1594,12 @@ provisions of this regulation or other applicable laws, ordinances, rules, or
 regulations, or the orders of the Village of Chagrin Falls.\
 (Ord. 2016-80. Passed 12-12-16.)
 
-[ORC Chapter 1515]:<https://codes.ohio.gov/ohio-revised-code/chapter-1515/>
+[CF Section 1355.09]:</chapters/chapter-1355-erosion-and-sediment-control/#135509-performance-standards>
+[CF Section 1355.14]:</chapters/chapter-1355-erosion-and-sediment-control/#135514-violations>
+[ORC Chapter 1515]:<https://codes.ohio.gov/ohio-revised-code/chapter-1515>
 [ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>
 [Section 1355.01(d)]:</chapters/chapter-1355-erosion-and-sediment-control/#135501(d)>
 [Section 1355.06(a)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(a)>
 [Section 1355.06(b)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(b)>
 [Section 1355.09(b)(1)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(b)(1)>
 [Section 1355.09(g)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(g)>
-[Section 1355.09]:</chapters/chapter-1355-erosion-and-sediment-control/#135509-performance-standards>
-[Section 1355.14]:</chapters/chapter-1355-erosion-and-sediment-control/#135514-violations>

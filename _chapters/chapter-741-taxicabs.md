@@ -16,9 +16,9 @@ title: "Chapter 741: Taxicabs"
 
 ## Cross references
 
-* Licensing operators - see Ohio R.C. 715.22(A), (B)
-* Taxicab stands - see Ohio R.C. 715.25(A)
-* Establishing rates - see Ohio R.C. 715.25(C)
+* Licensing operators - see Ohio R.C. [715.22(A)][ORC Section 715.22], (B)
+* Taxicab stands - see Ohio R.C. [715.25(A)][ORC Section 715.25]
+* Establishing rates - see Ohio R.C. [715.25(C)][ORC Section 715.25]
 * Traffic regulations - see Traffic Code - Part Three
 
 ## 741.01   Franchise required
@@ -74,3 +74,6 @@ Whoever violates any of the provisions of this chapter shall be fined not
 more than five hundred dollars ($500.00) or imprisoned for not more than six
 months, or both. Each day such violation continues shall constitute a separate
 offense.
+
+[ORC Section 715.22]:<https://codes.ohio.gov/ohio-revised-code/section-715.22>
+[ORC Section 715.25]:<https://codes.ohio.gov/ohio-revised-code/section-715.25>

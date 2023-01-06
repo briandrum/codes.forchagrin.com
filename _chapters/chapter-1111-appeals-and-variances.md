@@ -378,5 +378,5 @@ extending the time period to file an appeal pursuant to Ohio R.C. [Chapter
 2506][ORC Chapter 2506].\
 (Ord. 2021-20. Passed 5-24-21.)
 
-[ORC Chapter 2506]:<https://codes.ohio.gov/ohio-revised-code/chapter-2506/>
-[Ord. 2022-10. Passed 4-11-22.]:</ordinance-2022-10/>
+[ORC Chapter 2506]:<https://codes.ohio.gov/ohio-revised-code/chapter-2506>
+[Ord. 2022-10. Passed 4-11-22.]:</ordinance-2022-10>

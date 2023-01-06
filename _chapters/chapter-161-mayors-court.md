@@ -16,5 +16,8 @@ and any future legislation.
 ## Cross references
 
 * Mayor's judicial powers - see CHTR. Art. III, Sec. 5(d)
-* Notification to Director of liquor law convictions - see Ohio R.C. 4301.991
-* Record of traffic violations - see Ohio R.C. 4513.37
+* Notification to Director of liquor law convictions - see Ohio R.C. [4301.991][ORC Section 4301.991]
+* Record of traffic violations - see Ohio R.C. [4513.37][ORC Section 4513.37]
+
+[ORC Section 4301.991]:<https://codes.ohio.gov/ohio-revised-code/section-4301.991>
+[ORC Section 4513.37]:<https://codes.ohio.gov/ohio-revised-code/section-4513.37>

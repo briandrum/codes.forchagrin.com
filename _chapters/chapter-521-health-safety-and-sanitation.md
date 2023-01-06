@@ -29,9 +29,9 @@ title: "Chapter 521: Health, Safety and Sanitation"
 ## Cross references
 
 * See sectional histories for similar State law
-* Flagpole installation in sidewalk - see Ohio R.C. 723.012
-* Excavation liability - see Ohio R.C. 723.49 et seq.
-* Removal of noxious weeds or litter - see Ohio R.C. 731.51 et seq.
+* Flagpole installation in sidewalk - see Ohio R.C. [723.012][ORC Section 723.012]
+* Excavation liability - see Ohio R.C. [723.49][ORC Section 723.49] et seq.
+* Removal of noxious weeds or litter - see Ohio R.C. [731.51][ORC Section 731.51] et seq.
 * Nuisances - see Ohio R.C. [Chapter 3767][ORC Chapter 3767]
 * Tampering with safety devices - see GEN. OFF. 541.04
 
@@ -87,17 +87,18 @@ to any natural gas-fired or liquid petroleum gas-fired space or room heater that
 is equipped with an oxygen depletion safety shutoff system, and that has its
 fuel piped from a source outside of the building in which it is located, that
 are approved by an authoritative source recognized by the State Fire Marshal in
-the State Fire Code adopted by him under Ohio R.C. 3737.82.
+the State Fire Code adopted by him under Ohio R.C. [3737.82][ORC Section
+3737.82].
 
 5. _(e)_ The State Fire Marshal may make rules to ensure the safe use of
 unvented kerosene, natural gas or liquid petroleum gas heaters exempted from
 subsection (a) hereof when used in assembly buildings, business buildings, high
 hazard buildings, institutional buildings, mercantile buildings and type R- 1
 and R-2 residential buildings, as these groups of buildings are defined in rules
-adopted by the Board of Building Standards under Ohio R.C. 3781.10. No person
-shall negligently use, or, being the owner, person in charge or occupant of
-premises, negligently permit the use of a heater in violation of any rules
-adopted under this subsection.
+adopted by the Board of Building Standards under Ohio R.C. [3781.10][ORC Section
+3781.10]. No person shall negligently use, or, being the owner, person in charge
+or occupant of premises, negligently permit the use of a heater in violation of
+any rules adopted under this subsection.
 
 6. _(f)_ The State Fire Marshal may make rules prescribing standards for written
 instructions containing ventilation requirements and warning of any potential
@@ -125,7 +126,7 @@ with the phrase "Not Approved For Home Use."
 10. _(j)_ No person shall use a cabinet-type, liquid petroleum gas-fired heater
 having a fuel source within the heater, inside any building, except as permitted
 by the State Fire Marshal in the State Fire Code adopted by him under Ohio R.C.
-3737.82.\
+[3737.82][ORC Section 3737.82].\
 (ORC 3701.82)
 
 11. _(k)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -184,7 +185,7 @@ as required by law:
 
     To fill or drain any lot or land or remove all putrid substances therefrom,
     or remove all obstructions from culverts, covered drains or natural
-    watercourses as provided in Ohio R.C. 715.47.
+    watercourses as provided in Ohio R.C. [715.47][ORC Section 715.47].
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
 degree.
@@ -223,8 +224,8 @@ degree.
 
 ## 521.07   Fences
 
-(Editor's note: Former [Section 521.07][] was repealed by Ordinance 1995-18,
-passed April 10, 1995.)
+(Editor's note: Former [Section 521.07][CF Section 521.07] was repealed by
+Ordinance 1995-18, passed April 10, 1995.)
 
 ## 521.08   Littering and deposit of garbage, rubbish, junk, etc
 
@@ -542,11 +543,17 @@ convictions thereafter.\
 
 ## 521.99   Penalty
 
-(Editor's note: See [Section 501.99][] for penalties applicable to any
-misdemeanor classification.)
+(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
+to any misdemeanor classification.)
 
-[ORC Chapter 3734]:<https://codes.ohio.gov/ohio-revised-code/chapter-3734/>
-[ORC Chapter 3767]:<https://codes.ohio.gov/ohio-revised-code/chapter-3767/>
-[ORC Chapter 6111]:<https://codes.ohio.gov/ohio-revised-code/chapter-6111/>
-[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[Section 521.07]:</chapters/chapter-521-health-safety-and-sanitation/#52107-fences>
+[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CF Section 521.07]:</chapters/chapter-521-health-safety-and-sanitation/#52107-fences>
+[ORC Chapter 3734]:<https://codes.ohio.gov/ohio-revised-code/chapter-3734>
+[ORC Chapter 3767]:<https://codes.ohio.gov/ohio-revised-code/chapter-3767>
+[ORC Chapter 6111]:<https://codes.ohio.gov/ohio-revised-code/chapter-6111>
+[ORC Section 715.47]:<https://codes.ohio.gov/ohio-revised-code/section-715.47>
+[ORC Section 723.012]:<https://codes.ohio.gov/ohio-revised-code/section-723.012>
+[ORC Section 723.49]:<https://codes.ohio.gov/ohio-revised-code/section-723.49>
+[ORC Section 731.51]:<https://codes.ohio.gov/ohio-revised-code/section-731.51>
+[ORC Section 3737.82]:<https://codes.ohio.gov/ohio-revised-code/section-3737.82>
+[ORC Section 3781.10]:<https://codes.ohio.gov/ohio-revised-code/section-3781.10>

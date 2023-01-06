@@ -342,9 +342,9 @@ organization.\
 
 ### 126.0501   Rate and income taxable
 
-An annual tax for the purposes specified in [Section 126.0101][] hereof shall be
-imposed on and after July 1, 1981 at the rate of one and one-half percent per
-annum upon the following:
+An annual tax for the purposes specified in [Section 126.0101][CF Section
+126.0101] hereof shall be imposed on and after July 1, 1981 at the rate of one
+and one-half percent per annum upon the following:
 
 1. _(a)_ On all salaries, qualifying wages, commissions and other compensation
 earned on and after July 1, 1981, by residents of the Municipality.
@@ -524,7 +524,7 @@ Add together the percentages determined in accordance with [Section
 such of the aforesaid percentages as are applicable to the particular taxpayer
 and divide the total so obtained by the number of percentages used in deriving
 such total in order to obtain the business allocation percentage referred to in
-[Section 126.0701][].
+[Section 126.0701][CF Section 126.0701].
 
 A factor is applicable even though it may be allocable entirely in or outside
 the Municipality.\
@@ -1323,15 +1323,15 @@ this chapter shall be due on the date provided in Sections 126.1101 and 126.1302
 of this chapter as though the same were continuing.\
 (Ord. 1968-730. Passed 6-18-68.)
 
+[CF Section 126.0101]:</chapters/chapter-126-municipal-income-tax/#1260101-purpose-of-levy-of-income-tax>
+[CF Section 126.0701]:</chapters/chapter-126-municipal-income-tax/#1260701-method-of-determination>
 [ORC Chapter 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
 [ORC Section 9.42]:<https://codes.ohio.gov/ohio-revised-code/section-9.42>
 [ORC Section 718.06]:<https://codes.ohio.gov/ohio-revised-code/section-718.06>
 [ORC Section 5745.03]:<https://codes.ohio.gov/ohio-revised-code/section-5745.03>
-[Section 126.0101]:</chapters/chapter-126-municipal-income-tax/#1260101-purpose-of-levy-of-income-tax>
 [Section 126.0501(c)]:</chapters/chapter-126-municipal-income-tax/#1260501(c)>
 [Section 126.0501(d)]:</chapters/chapter-126-municipal-income-tax/#1260501(d)>
 [Section 126.0501(e)]:</chapters/chapter-126-municipal-income-tax/#1260501(e)>
 [Section 126.0701(a)]:</chapters/chapter-126-municipal-income-tax/#1260701(a)>
 [Section 126.0701(b)]:</chapters/chapter-126-municipal-income-tax/#1260701(b)>
 [Section 126.0701(c)]:</chapters/chapter-126-municipal-income-tax/#1260701(c)>
-[Section 126.0701]:</chapters/chapter-126-municipal-income-tax/#1260701-method-of-determination>

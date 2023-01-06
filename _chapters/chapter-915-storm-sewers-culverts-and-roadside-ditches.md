@@ -20,7 +20,7 @@ title: "Chapter 915: Storm Sewers, Culverts and Roadside Ditches"
 ## Cross references
 
 * Storm sewer waste prohibited in sanitary sewer - see Streets & Public Services [911.04][Section 911.04]
-* Street openings and excavations - see Streets & Public Services [Chapter 901][]
+* Street openings and excavations - see Streets & Public Services [Chapter 901][CF Chapter 901]
 
 ## 915.01   Necessity to construct before street improvements
 
@@ -101,5 +101,5 @@ Whoever violates any provision of this chapter is guilty of a misdemeanor of
 the third degree. Each day's violation shall constitute a separate offense.\
 (Ord. 2000-84. Passed 11-27-00.)
 
-[Chapter 901]:</chapters/chapter-901-street-openings-and-excavations/>
-[Section 911.04]:</chapters/chapter-911-sewers-generally/#91104-storm-sewer-waste-prohibited-in-sanitary-sewer>
+[CF Chapter 901]:</chapters/chapter-901-street-openings-and-excavations>
+[CF Section 911.04]:</chapters/chapter-911-sewers-generally/#91104-storm-sewer-waste-prohibited-in-sanitary-sewer>

@@ -68,7 +68,7 @@ motor vehicle would be cited for the same violation. A person who commits any
 such violation while operating a bicycle or electric bicycle shall not have any
 points assessed against the person's driver's license, commercial driver's
 license, temporary instruction permit, or probationary license under Ohio R.C.
-4510.036.
+[4510.036][ORC Section 4510.036].
 
 3. _(c)_ Except as provided in subsection (d) of this section, in the case of a
 violation of any section of this Traffic Code described in subsection (a) of
@@ -120,7 +120,7 @@ of the streets, sidewalks or any other private or public property.\
 ## 373.05   Riding upon seats; handle bars; helmets and glasses
 
 1. _(a)_ For purposes of this section "snowmobile" has the same meaning as given
-that term in Ohio R.C. 4519.01.
+that term in Ohio R.C. [4519.01][ORC Section 4519.01].
 
 2. _(b)_ No person operating a bicycle or electric bicycle shall ride other than
 upon or astride the permanent and regular seat attached thereto, or carry any
@@ -159,14 +159,15 @@ or saddle.
     subsection (i)(3) of this section, no person who is under the age of
     eighteen years, or who holds a motorcycle operator's endorsement or license
     bearing "novice" designation that is currently in effect as provided in Ohio
-    R.C. 4507.13, shall operate a motorcycle on a highway, or be a passenger on
-    a motorcycle, unless wearing a United States Department of Transportation-
-    approved protective helmet on the person's head, and no other person shall
-    be a passenger on a motorcycle operated by such a person unless similarly
-    wearing a protective helmet. The helmet, safety glasses or other protective
-    eye device shall conform with rules adopted by the Ohio Director of Public
-    Safety. The provisions of this subsection or a violation thereof shall not
-    be used in the trial of any civil action.
+    R.C. [4507.13][ORC Section 4507.13], shall operate a motorcycle on a
+    highway, or be a passenger on a motorcycle, unless wearing a United States
+    Department of Transportation- approved protective helmet on the person's
+    head, and no other person shall be a passenger on a motorcycle operated by
+    such a person unless similarly wearing a protective helmet. The helmet,
+    safety glasses or other protective eye device shall conform with rules
+    adopted by the Ohio Director of Public Safety. The provisions of this
+    subsection or a violation thereof shall not be used in the trial of any
+    civil action.
 
     2. _(2)_ Subsection (h)(1) of this section does not apply to a person
     operating an autocycle or cab-enclosed motorcycle when the occupant
@@ -176,15 +177,16 @@ or saddle.
 
     1. _(1)_ No person shall operate a motorcycle with a valid temporary permit
     and temporary instruction permit identification card issued by the Ohio
-    Registrar of Motor Vehicles pursuant to Ohio R.C. 4507.05 unless the person,
-    at the time of such operation, is wearing on the person's head a protective
-    helmet that has been approved by the United States Department of
-    Transportation that conforms with rules adopted by the Director.
+    Registrar of Motor Vehicles pursuant to Ohio R.C. [4507.05][ORC Section
+    4507.05] unless the person, at the time of such operation, is wearing on the
+    person's head a protective helmet that has been approved by the United
+    States Department of Transportation that conforms with rules adopted by the
+    Director.
 
     2. _(2)_ No person shall operate a motorcycle with a valid temporary
     instruction permit and temporary instruction permit identification card
-    issued by the Registrar pursuant to Ohio R.C. 4507.05 in any of the
-    following circumstances:
+    issued by the Registrar pursuant to Ohio R.C. [4507.05][ORC Section 4507.05]
+    in any of the following circumstances:
 
         1. _(A)_ At any time when lighted lights are required by Section
         337.02(a)(1);
@@ -395,15 +397,16 @@ travel or parking, unless all of the following conditions are met:
 
     1. _(1)_ The person is fourteen or fifteen years of age and holds a valid
     probationary motorized bicycle license issued after the person has passed
-    the test provided for in Ohio R.C. 4511.521, or the person is sixteen years
-    of age or older and holds either a valid commercial driver's license issued
-    under Ohio R.C. [Chapter 4506][ORC Chapter 4506], or a driver's license
-    issued under Ohio R.C. [Chapter 4507][ORC Chapter 4507], or a valid
-    motorized bicycle license issued after the person has passed the test
-    provided for in Ohio R.C. 4511.521, except that if a person is sixteen years
-    of age, has a valid probationary motorized bicycle license and desires a
-    motorized bicycle license, the person is not required to comply with the
-    testing requirements provided for in Ohio R.C. 4511.521;
+    the test provided for in Ohio R.C. [4511.521][ORC Section 4511.521], or the
+    person is sixteen years of age or older and holds either a valid commercial
+    driver's license issued under Ohio R.C. [Chapter 4506][ORC Chapter 4506], or
+    a driver's license issued under Ohio R.C. [Chapter 4507][ORC Chapter 4507],
+    or a valid motorized bicycle license issued after the person has passed the
+    test provided for in Ohio R.C. [4511.521][ORC Section 4511.521], except that
+    if a person is sixteen years of age, has a valid probationary motorized
+    bicycle license and desires a motorized bicycle license, the person is not
+    required to comply with the testing requirements provided for in Ohio R.C.
+    [4511.521][ORC Section 4511.521];
 
     2. _(2)_ The motorized bicycle is equipped in accordance with rules adopted
     by the Ohio Director of Public Safety and is in proper working order;
@@ -504,10 +507,10 @@ the third degree.
 
     2. _(2)_ The offenses established under subsection (c)(1) of this section
     are strict liability offenses and strict liability is a culpable mental
-    state for purposes of Ohio R.C. 2901.20. The designation of these offenses
-    as strict liability offenses shall not be construed to imply that any other
-    offense, for which there is no specified degree of culpability, is not a
-    strict liability offense.\
+    state for purposes of Ohio R.C. [2901.20][ORC Section 2901.20]. The
+    designation of these offenses as strict liability offenses shall not be
+    construed to imply that any other offense, for which there is no specified
+    degree of culpability, is not a strict liability offense.\
     (ORC 4511.522)
 
 ## 373.99   Penalty
@@ -516,5 +519,11 @@ In addition to the penalty provided in Section 303.99, whoever violates any
 provision of this chapter may be punished by having his bicycle impounded for a
 period not exceeding thirty days.
 
-[ORC Chapter 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506/>
-[ORC Chapter 4507]:<https://codes.ohio.gov/ohio-revised-code/chapter-4507/>
+[ORC Chapter 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506>
+[ORC Chapter 4507]:<https://codes.ohio.gov/ohio-revised-code/chapter-4507>
+[ORC Section 2901.20]:<https://codes.ohio.gov/ohio-revised-code/section-2901.20>
+[ORC Section 4507.05]:<https://codes.ohio.gov/ohio-revised-code/section-4507.05>
+[ORC Section 4507.13]:<https://codes.ohio.gov/ohio-revised-code/section-4507.13>
+[ORC Section 4510.036]:<https://codes.ohio.gov/ohio-revised-code/section-4510.036>
+[ORC Section 4511.521]:<https://codes.ohio.gov/ohio-revised-code/section-4511.521>
+[ORC Section 4519.01]:<https://codes.ohio.gov/ohio-revised-code/section-4519.01>

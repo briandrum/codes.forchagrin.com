@@ -22,8 +22,8 @@ title: "Chapter 529: Liquor Control"
 ## Cross references
 
 * See sectional histories for similar State law
-* Prohibiting sale of intoxicating liquor on Sunday - see Ohio R.C. 4301.22(D)
-* Local option - see Ohio R.C. 4301.32 et seq., 4303.29
+* Prohibiting sale of intoxicating liquor on Sunday - see Ohio R.C. [4301.22(D)][ORC Section 4301.22]
+* Local option - see Ohio R.C. [4301.32][ORC Section 4301.32] et seq., 4303.29
 * Disorderly conduct; intoxication - see GEN. OFF. 509.03
 * Using weapons while intoxicated - see GEN. OFF. 549.03
 
@@ -57,7 +57,7 @@ flavored, sparkling, or carbonated cider and cider made from pure condensed
 apple must.
 
 5. _(e)_ "Hotel". The same meaning as in Oho R.C. 3731.01, subject to the
-exceptions mentioned in Ohio R.C. 3731.03.
+exceptions mentioned in Ohio R.C. [3731.03][ORC Section 3731.03].
 
 6. _(f)_ "Intoxicating Liquor" and "Liquor". All liquids and compounds, other
 than beer, containing one half of one percent (0.5%) or more of alcohol by
@@ -121,11 +121,12 @@ distribution, and delivery of any kind, and the transfer of title or possession
 of beer and intoxicating liquor either by constructive or actual delivery by any
 means or devices whatever, including the sale of beer or intoxicating liquor by
 means of a controlled access alcohol and beverage cabinet pursuant to Ohio R.C.
-4301.21. Such terms do not include the mere solicitation of orders for beer or
-intoxicating liquor from the holders of permits issued by the Division of Liquor
-Control authorizing the sale of the beer or intoxicating liquor, but no
-solicitor shall solicit any orders until the solicitor has been registered with
-the Division pursuant to Ohio R.C. 4303.25.
+[4301.21][ORC Section 4301.21]. Such terms do not include the mere solicitation
+of orders for beer or intoxicating liquor from the holders of permits issued by
+the Division of Liquor Control authorizing the sale of the beer or intoxicating
+liquor, but no solicitor shall solicit any orders until the solicitor has been
+registered with the Division pursuant to Ohio R.C. [4303.25][ORC Section
+4303.25].
 
 15. _(o)_ "Sealed Container". Any container having a capacity of not more than
 128 fluid ounces, the opening of which is closed to prevent the entrance of air.
@@ -141,7 +142,8 @@ and everything made use of in any way for such transportation.
 less than one-half of one percent (0.5%) of alcohol by volume and not more than
 twenty-one percent (21%) of alcohol by volume, which is made from the fermented
 juices of grapes, fruits, or other agricultural products. Except as provided in
-Ohio R.C. 4301.01(B)(3), the term does not include cider.\
+Ohio R.C. [4301.01(B)(3)][ORC Section 4301.01], the term does not include
+cider.\
 (ORC 4301.01, 4301.244)
 
 ## 529.02   Sales to and use by underage persons; securing public accommodations
@@ -157,7 +159,7 @@ underage person or legal guardian.
     In proceedings before the Liquor Control Commission, no permit holder, or no
     employee or agent of a permit holder, charged with a violation of this
     subsection shall be charged, for the same offense, with a violation of Ohio
-    R.C. 4301.22(A)(1).
+    R.C. [4301.22(A)(1)][ORC Section 4301.22].
 
 2. _(b)_ No person who is the owner or occupant of any public or private place
 shall knowingly allow any underage person to remain in or on the place while
@@ -227,12 +229,15 @@ accommodations at the hotel, inn, cabin or campground.
 
 8. _(h)_ As used in this section:
 
-    1. _(1)_ "Drug of abuse" has the same meaning as in Ohio R.C. 3719.011.
+    1. _(1)_ "Drug of abuse" has the same meaning as in Ohio R.C. [3719.011][ORC
+    Section 3719.011].
 
-    2. _(2)_ "Hotel" has the same meaning as in Ohio R.C. 3731.01.
+    2. _(2)_ "Hotel" has the same meaning as in Ohio R.C. [3731.01][ORC Section
+    3731.01].
 
     3. _(3)_ "Licensed health professional authorized to prescribe drugs" and
-    "prescription" have the same meanings as in Ohio R.C. 4729.01.
+    "prescription" have the same meanings as in Ohio R.C. [4729.01][ORC Section
+    4729.01].
 
     4. _(4)_ "Minor" means a person under the age of eighteen years.
 
@@ -305,7 +310,7 @@ of Liquor Control.\
         more than six months. The court also may impose a class seven suspension
         of the offender's driver's or commercial driver's license or permit or
         nonresident operating privilege from the range specified in Ohio R.C.
-        4510.02(A)(7).
+        [4510.02(A)(7)][ORC Section 4510.02].
 
         3. _(C)_ On a third or subsequent violation in which, for the third or
         subsequent time, the offender presented to the permit holder or the
@@ -319,13 +324,14 @@ of Liquor Control.\
         this subsection, the court also may impose a class six suspension of the
         offender's driver's or commercial driver's license or permit or
         nonresident operating privilege from the range specified in Ohio R.C.
-        4510.02(A)(6), and the court may order that the suspension or denial
-        remain in effect until the offender attains the age of twenty-one years.
-        The court, in lieu of suspending the offenders temporary instruction
-        permit, probationary driver's license or driver's license, instead may
-        order the offender to perform a determinate number of hours of community
-        service, with the court determining the actual number of hours and the
-        nature of the community service the offender shall perform.\
+        [4510.02(A)(6)][ORC Section 4510.02], and the court may order that the
+        suspension or denial remain in effect until the offender attains the age
+        of twenty-one years. The court, in lieu of suspending the offenders
+        temporary instruction permit, probationary driver's license or driver's
+        license, instead may order the offender to perform a determinate number
+        of hours of community service, with the court determining the actual
+        number of hours and the nature of the community service the offender
+        shall perform.\
         (ORC 4301.99)
 
 ## 529.03   Sales to intoxicated persons
@@ -442,10 +448,10 @@ public work shall be completed.\
 1. _(a)_ As used in this section:
 
     1. _(1)_ "Chauffeured limousine" means a vehicle registered under Ohio R.C.
-    4503.24.
+    [4503.24][ORC Section 4503.24].
 
     2. _(2)_ "Street," "highway" and "motor vehicle" have the same meanings as
-    in Ohio R.C. 4511.01.
+    in Ohio R.C. [4511.01][ORC Section 4511.01].
 
 2. _(b)_ No person shall have in the person's possession an opened container of
 beer or intoxicating liquor in any of the following circumstances:
@@ -486,13 +492,14 @@ beer or intoxicating liquor in any of the following circumstances:
         or F-6 permit;
 
         3. _(C)_ Beer or intoxicating liquor consumed on the premises of a
-        convention facility as provided in Ohio R.C. 4303.201;
+        convention facility as provided in Ohio R.C. [4303.201][ORC Section
+        4303.201];
 
         4. _(D)_ Beer or intoxicating liquor to be consumed during tastings and
         samplings approved by rule of the Liquor Control Commission.
 
         5. _(E)_ Spirituous liquor to be consumed for purposes of a tasting
-        sample, as defined in Ohio R.C. 4301.171.
+        sample, as defined in Ohio R.C. [4301.171][ORC Section 4301.171].
 
     2. _(2)_ A person may have in the person's possession on an F liquor permit
     premises an opened container of beer or intoxicating liquor that was not
@@ -586,10 +593,10 @@ beer or intoxicating liquor in any of the following circumstances:
 
         1. _(A)_ A person may have in the person's possession an opened
         container of beer or intoxicating liquor at an outdoor location within
-        an outdoor refreshment area created under Ohio R.C. 4301.82, if the
-        opened container of beer or intoxicating liquor was purchased from an
-        A-1, A-1-A, A- 1c, A-2, A-2f, D class or F class permit holder to which
-        both of the following apply:
+        an outdoor refreshment area created under Ohio R.C. [4301.82][ORC
+        Section 4301.82], if the opened container of beer or intoxicating liquor
+        was purchased from an A-1, A-1-A, A- 1c, A-2, A-2f, D class or F class
+        permit holder to which both of the following apply:
 
             1. _(1)_ The permit holder's premises is located within the outdoor
             refreshment area.
@@ -626,7 +633,8 @@ beer or intoxicating liquor in any of the following circumstances:
 
             2. _(2)_ The market is hosting an event pursuant to an F-8 permit
             and the market has notified the Division of Liquor Control about the
-            event in accordance with division (A)(3) of Ohio R.C. 4303.208.
+            event in accordance with division (A)(3) of Ohio R.C. [4303.208][ORC
+            Section 4303.208].
 
         2. _(B)_ As used in subsection (c)(8) of this section, market means a
         market, for which an F-8 permit is held, that has been in operation
@@ -727,13 +735,14 @@ permit holder that is located in the market.
 8. _(h)_
 
     1. _(1)_ As used in this section, "alcoholic beverage" has the same meaning
-    as in Ohio R.C. 4303.185.
+    as in Ohio R.C. [4303.185][ORC Section 4303.185].
 
     2. _(2)_ An alcoholic beverage in a closed container being transported under
-    Ohio R.C. 4303.185 to its final destination is not an opened container for
-    the purposes of this section if the closed container is securely sealed in
-    such a manner that it is visibly apparent if the closed container has been
-    subsequently opened or tampered with after sealing.\
+    Ohio R.C. [4303.185][ORC Section 4303.185] to its final destination is not
+    an opened container for the purposes of this section if the closed container
+    is securely sealed in such a manner that it is visibly apparent if the
+    closed container has been subsequently opened or tampered with after
+    sealing.\
     (ORC 4301.62)
 
 9. _(i)_ Whoever violates this section is guilty of a minor misdemeanor.\
@@ -790,9 +799,27 @@ shall they begin prior to five thirty a.m.\
 
 ## 529.99   Penalty
 
-(Editor's note: See [Section 501.99][] for penalties applicable to any
-misdemeanor classification.)
+(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
+to any misdemeanor classification.)
 
-[ORC Chapter 3717]:<https://codes.ohio.gov/ohio-revised-code/chapter-3717/>
-[ORC Chapter 4301]:<https://codes.ohio.gov/ohio-revised-code/chapter-4301/>
-[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[ORC Chapter 3717]:<https://codes.ohio.gov/ohio-revised-code/chapter-3717>
+[ORC Chapter 4301]:<https://codes.ohio.gov/ohio-revised-code/chapter-4301>
+[ORC Section 3719.011]:<https://codes.ohio.gov/ohio-revised-code/section-3719.011>
+[ORC Section 3731.01]:<https://codes.ohio.gov/ohio-revised-code/section-3731.01>
+[ORC Section 3731.03]:<https://codes.ohio.gov/ohio-revised-code/section-3731.03>
+[ORC Section 4301.01]:<https://codes.ohio.gov/ohio-revised-code/section-4301.01>
+[ORC Section 4301.21]:<https://codes.ohio.gov/ohio-revised-code/section-4301.21>
+[ORC Section 4301.22]:<https://codes.ohio.gov/ohio-revised-code/section-4301.22>
+[ORC Section 4301.32]:<https://codes.ohio.gov/ohio-revised-code/section-4301.32>
+[ORC Section 4301.82]:<https://codes.ohio.gov/ohio-revised-code/section-4301.82>
+[ORC Section 4301.171]:<https://codes.ohio.gov/ohio-revised-code/section-4301.171>
+[ORC Section 4303.25]:<https://codes.ohio.gov/ohio-revised-code/section-4303.25>
+[ORC Section 4303.185]:<https://codes.ohio.gov/ohio-revised-code/section-4303.185>
+[ORC Section 4303.185]:<https://codes.ohio.gov/ohio-revised-code/section-4303.185>
+[ORC Section 4303.201]:<https://codes.ohio.gov/ohio-revised-code/section-4303.201>
+[ORC Section 4303.208]:<https://codes.ohio.gov/ohio-revised-code/section-4303.208>
+[ORC Section 4503.24]:<https://codes.ohio.gov/ohio-revised-code/section-4503.24>
+[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
+[ORC Section 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
+[ORC Section 4729.01]:<https://codes.ohio.gov/ohio-revised-code/section-4729.01>

@@ -76,8 +76,8 @@ ownership, possession, control, license or interest is unlawful.
 
 5. _(e)_ "Services" include labor, personal services, professional services,
 rental services, public utility services, including wireless service as defined
-in Ohio R.C. 5507.01(F)(1), common carrier services, and food, drink,
-transportation, entertainment and cable television services.
+in Ohio R.C. [5507.01(F)(1)][ORC Section 5507.01], common carrier services, and
+food, drink, transportation, entertainment and cable television services.
 
 6. _(f)_ "Writing" means any computer software, document, letter, memorandum,
 note, paper, plate, data, film or other thing having in or upon it any written,
@@ -107,15 +107,17 @@ an improper substitute for a genuine coin, bill or token made for that purpose.
 
 11. _(k)_ "Theft offense" means any of the following:
 
-    1. _(1)_ A violation of Ohio R.C. 2911.01, 2911.02, 2911.11, 2911.12,
-    2911.13, 2911.31, 2911.32, 2913.02, 2913.03, 2913.04, 2913.041, 2913.11,
-    2913.21, 2913.31, 2913.32, 2913.33, 2913.34, 2913.40, 2913.42 to 2913.45,
-    2913.47, 2913.48, 2913.51, 2915.05, 2915.06, 2921.41 or 4737.04(B)(2).
+    1. _(1)_ A violation of Ohio R.C. [2911.01][ORC Section 2911.01], 2911.02,
+    2911.11, 2911.12, 2911.13, 2911.31, 2911.32, 2913.02, 2913.03, 2913.04,
+    2913.041, 2913.11, 2913.21, 2913.31, 2913.32, 2913.33, 2913.34, 2913.40,
+    2913.42 to 2913.45, 2913.47, 2913.48, 2913.51, 2915.05, 2915.06, 2921.41 or
+    4737.04(B)(2).
 
     2. _(2)_ A violation of an existing or former municipal ordinance or law of
     this or any other state or the United States substantially equivalent to any
     section listed in subsection (k)(1) hereof or a violation of Ohio R.C.
-    2913.41, 2913.81 or 2915.06 as it existed prior to July 1, 1996;
+    [2913.41][ORC Section 2913.41], 2913.81 or 2915.06 as it existed prior to
+    July 1, 1996;
 
     3. _(3)_ An offense under an existing or former municipal ordinance or law
     of this or any other state or the United States involving robbery, burglary,
@@ -244,15 +246,19 @@ as permanently and totally disabled by an agency of this State or the United
 States that has the function of so classifying persons.
 
 31. _(ee)_ "Firearm" and "dangerous ordnance" have the same meanings as in Ohio
-R.C. 2923.11.
+R.C. [2923.11][ORC Section 2923.11].
 
-32. _(ff)_ "Motor vehicle" has the same meaning as in Ohio R.C. 4501.01.
+32. _(ff)_ "Motor vehicle" has the same meaning as in Ohio R.C. [4501.01][ORC
+Section 4501.01].
 
-33. _(gg)_ "Dangerous drug" has the same meaning as in Ohio R.C. 4729.01.
+33. _(gg)_ "Dangerous drug" has the same meaning as in Ohio R.C. [4729.01][ORC
+Section 4729.01].
 
-34. _(hh)_ "Drug abuse offense" has the same meaning as in Ohio R.C. 2925.01.
+34. _(hh)_ "Drug abuse offense" has the same meaning as in Ohio R.C.
+[2925.01][ORC Section 2925.01].
 
-35. _(ii)_ "Police dog or horse" has the same meaning as in Ohio R.C. 2921.321.
+35. _(ii)_ "Police dog or horse" has the same meaning as in Ohio R.C.
+[2921.321][ORC Section 2921.321].
 
 36. _(jj)_ "Anhydrous ammonia" is a compound formed by the combination of two
 gaseous elements, nitrogen and hydrogen, in the manner described in this
@@ -261,7 +267,8 @@ subsection. Anhydrous ammonia is one part nitrogen to three parts hydrogen
 hydrogen, which is approximately eighty-two per cent nitrogen to eighteen per
 cent hydrogen.
 
-37. _(kk)_ "Assistance dog" has the same meaning as in Ohio R.C. 955.011.
+37. _(kk)_ "Assistance dog" has the same meaning as in Ohio R.C. [955.011][ORC
+Section 955.011].
 
 38. _(ll)_ "Active duty service member" means any member of the armed forces of
 the United States performing active duty under Title 10 of the United States
@@ -319,7 +326,7 @@ involved in the offense.
     Rather, it is sufficient to allege and prove that the offender, within a
     given span of time, committed one or more theft offenses in the offender's
     same employment, capacity, or relationship to another as described in
-    subsection (b) (1) of this section or that involve a common course of
+    subsection (b)(1) of this section or that involve a common course of
     conduct to defraud multiple victims or a scheme or course of conduct as
     described in subsection (b)(2) of this section. While it is not necessary to
     separately allege and prove each offense in the series in order to prosecute
@@ -414,14 +421,17 @@ the account on which it is to be drawn, and that has not been executed by the
 drawer or maker or on which the amount is blank;
 
 3. _(c)_ A motor vehicle identification license plate as prescribed by Ohio R.C.
-4503.22, a temporary motor vehicle license registration as prescribed by Ohio
-R.C. 4503.182, or any comparable temporary motor vehicle license registration as
-prescribed by the applicable law of another state or the United States;
+[4503.22][ORC Section 4503.22], a temporary motor vehicle license registration
+as prescribed by Ohio R.C. [4503.182][ORC Section 4503.182], or any comparable
+temporary motor vehicle license registration as prescribed by the applicable law
+of another state or the United States;
 
 4. _(d)_ A blank form for a certificate of title or a manufacturer's or
-importer's certificate to a motor vehicle, as prescribed by Ohio R.C. 4505.07;
+importer's certificate to a motor vehicle, as prescribed by Ohio R.C.
+[4505.07][ORC Section 4505.07];
 
-5. _(e)_ A blank form for any license listed in Ohio R.C. 4507.01(A).\
+5. _(e)_ A blank form for any license listed in Ohio R.C. [4507.01(A)][ORC
+Section 4507.01].\
 (ORC 2913.71)
 
 ## 545.04   Detention of shoplifters; rights of museums and libraries
@@ -547,8 +557,8 @@ appropriate State law if:
     7. _(7)_ The property stolen is anhydrous ammonia, or
 
     8. _(8)_ The property stolen is a special purpose article as defined in Ohio
-    R.C. 4737.04 or a bulk merchandise container as defined in Ohio R.C.
-    4737.012.
+    R.C. [4737.04][ORC Section 4737.04] or a bulk merchandise container as
+    defined in Ohio R.C. [4737.012][ORC Section 4737.012].
 
 3. _(c)_ In addition to the penalties described in subsection (b) of this
 section, if the offender committed the violation by causing a motor vehicle to
@@ -567,8 +577,8 @@ do one of the following:
     operating privilege has previously been suspended pursuant to subsection
     (c)(1) of this section, impose a class seven suspension of the offender's
     license, permit, or privilege from the range specified in Ohio R.C.
-    4510.02(A)(7), provided that the suspension shall be for at least six
-    months.
+    [4510.02(A)(7)][ORC Section 4510.02], provided that the suspension shall be
+    for at least six months.
 
     3. _(3)_ The court, in lieu of suspending the offender's driver's or
     commercial driver's license, probationary driver's license, temporary
@@ -579,13 +589,13 @@ do one of the following:
 4. _(d)_ In addition to the penalties described in subsection (b) hereof, if the
 offender committed the violation by stealing rented property or rental services,
 the court may order that the offender make restitution pursuant to Ohio R.C.
-2929.18 or 2929.28. Restitution may include, but is not limited to, the cost of
-repairing or replacing the stolen property, or the cost of repairing the stolen
-property and any loss of revenue resulting from deprivation of the property due
-to theft of rental services that is less than or equal to the actual value of
-the property at the time it was rented. Evidence of intent to commit theft of
-rented property or rental services shall be determined pursuant to the
-provisions of Ohio R.C. 2913.72.
+[2929.18][ORC Section 2929.18] or 2929.28. Restitution may include, but is not
+limited to, the cost of repairing or replacing the stolen property, or the cost
+of repairing the stolen property and any loss of revenue resulting from
+deprivation of the property due to theft of rental services that is less than or
+equal to the actual value of the property at the time it was rented. Evidence of
+intent to commit theft of rented property or rental services shall be determined
+pursuant to the provisions of Ohio R.C. [2913.72][ORC Section 2913.72].
 
 5. _(e)_ The sentencing court that suspends an offender's license, permit, or
 nonresident operating privilege under subsection (c) of this section may grant
@@ -682,7 +692,7 @@ deceptive is one thousand dollars ($1,000) or more, insurance fraud is a felony
 and shall be prosecuted under appropriate State law.
 
 4. _(d)_ This section shall not be construed to abrogate, waive or modify Ohio
-R.C. 2317.02(A).\
+R.C. [2317.02(A)][ORC Section 2317.02].\
 (ORC 2913.47)
 
 ## 545.08   Unauthorized use of property
@@ -833,9 +843,9 @@ into any coin machine.
 
 2. _(b)_ Whoever violates this section is guilty of tampering with coin
 machines, a misdemeanor of the first degree. If the offender has previously been
-convicted of a violation of Ohio R.C. 2911.32 or of any theft offense, tampering
-with coin machines is a felony and shall be prosecuted under appropriate State
-law.\
+convicted of a violation of Ohio R.C. [2911.32][ORC Section 2911.32] or of any
+theft offense, tampering with coin machines is a felony and shall be prosecuted
+under appropriate State law.\
 (ORC 2911.32)
 
 ## 545.13   Criminal simulation
@@ -961,12 +971,15 @@ be prosecuted under appropriate State law if:
 
         1. _(A)_ Listed in Section 545.03; or
 
-        2. _(B)_ A motor vehicle as defined in Ohio R.C. 4501.01; or
+        2. _(B)_ A motor vehicle as defined in Ohio R.C. [4501.01][ORC Section
+        4501.01]; or
 
-        3. _(C)_ A dangerous drug as defined in Ohio R.C. 4729.01.
+        3. _(C)_ A dangerous drug as defined in Ohio R.C. [4729.01][ORC Section
+        4729.01].
 
-        4. _(D)_ A special purchase article as defined in Ohio R.C. 4737.04 or a
-        bulk merchandise container as defined in Ohio R.C. 4737.012.\
+        4. _(D)_ A special purchase article as defined in Ohio R.C.
+        [4737.04][ORC Section 4737.04] or a bulk merchandise container as
+        defined in Ohio R.C. [4737.012][ORC Section 4737.012].\
         (ORC 2913.51)
 
 ## 545.19   Possession of criminal tools
@@ -1015,24 +1028,47 @@ identification cards or selling or distributing forged identification cards.
 Except as otherwise provided in this subsection, forging or selling or
 distributing forged identification cards is a misdemeanor of the first degree.
 If the offender previously has been convicted of a violation of this section or
-Ohio R.C. 2913.31 (B), forging identification cards or selling or distributing
-forged identification cards is a misdemeanor of the first degree and, in
-addition, the court shall impose upon the offender a fine of not less than two
-hundred fifty dollars ($250.00).\
+Ohio R.C. [2913.31][ORC Section 2913.31] (B), forging identification cards or
+selling or distributing forged identification cards is a misdemeanor of the
+first degree and, in addition, the court shall impose upon the offender a fine
+of not less than two hundred fifty dollars ($250.00).\
 (ORC 2913.31)
 
 ## 545.21   Identity fraud
 
 (Editor's note: Former Section 545.21 has been deleted from the Codified
-Ordinances. Ohio R.C. 2913.49, from which Section 545.21 was derived, has been
-reclassified from a misdemeanor to a felony offense.)
+Ordinances. Ohio R.C. [2913.49][ORC Section 2913.49], from which Section 545.21
+was derived, has been reclassified from a misdemeanor to a felony offense.)
 
 ## 545.99   Penalty
 
-(Editor's note: See [Section 501.99][] for penalties applicable to any
-misdemeanor classification.)
+(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
+to any misdemeanor classification.)
 
-[ORC Chapter 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510/>
+[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[ORC Chapter 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510>
+[ORC Section 955.011]:<https://codes.ohio.gov/ohio-revised-code/section-955.011>
+[ORC Section 2317.02]:<https://codes.ohio.gov/ohio-revised-code/section-2317.02>
+[ORC Section 2911.01]:<https://codes.ohio.gov/ohio-revised-code/section-2911.01>
+[ORC Section 2911.32]:<https://codes.ohio.gov/ohio-revised-code/section-2911.32>
+[ORC Section 2913.31]:<https://codes.ohio.gov/ohio-revised-code/section-2913.31>
+[ORC Section 2913.41]:<https://codes.ohio.gov/ohio-revised-code/section-2913.41>
+[ORC Section 2913.49]:<https://codes.ohio.gov/ohio-revised-code/section-2913.49>
+[ORC Section 2913.72]:<https://codes.ohio.gov/ohio-revised-code/section-2913.72>
+[ORC Section 2921.321]:<https://codes.ohio.gov/ohio-revised-code/section-2921.321>
+[ORC Section 2923.11]:<https://codes.ohio.gov/ohio-revised-code/section-2923.11>
+[ORC Section 2925.01]:<https://codes.ohio.gov/ohio-revised-code/section-2925.01>
+[ORC Section 2929.18]:<https://codes.ohio.gov/ohio-revised-code/section-2929.18>
 [ORC Section 3929.43]:<https://codes.ohio.gov/ohio-revised-code/section-3929.43>
+[ORC Section 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
+[ORC Section 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
+[ORC Section 4503.22]:<https://codes.ohio.gov/ohio-revised-code/section-4503.22>
+[ORC Section 4503.182]:<https://codes.ohio.gov/ohio-revised-code/section-4503.182>
+[ORC Section 4505.07]:<https://codes.ohio.gov/ohio-revised-code/section-4505.07>
+[ORC Section 4507.01]:<https://codes.ohio.gov/ohio-revised-code/section-4507.01>
+[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
+[ORC Section 4729.01]:<https://codes.ohio.gov/ohio-revised-code/section-4729.01>
+[ORC Section 4737.04]:<https://codes.ohio.gov/ohio-revised-code/section-4737.04>
+[ORC Section 4737.012]:<https://codes.ohio.gov/ohio-revised-code/section-4737.012>
+[ORC Section 5507.01]:<https://codes.ohio.gov/ohio-revised-code/section-5507.01>
 [ORC Title 39]:<https://codes.ohio.gov/ohio-revised-code/title-39>
-[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

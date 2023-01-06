@@ -20,7 +20,7 @@ title: "Chapter 1331: Air Pollution"
 
 ## Cross references
 
-* Power to prevent dense smoke - see Ohio R.C. 715.44
+* Power to prevent dense smoke - see Ohio R.C. [715.44][ORC Section 715.44]
 * Noxious or offensive odors - see GEN. OFF. 521.09
 
 ## 1331.01   Scope; compliance required
@@ -204,9 +204,9 @@ test period.
 
 3. _(c)_ **Authorization of Testing.** When the Environmental Control Officer
 has cause to believe that an emission from fuel-burning equipment (or any other
-device) violates [Section 1331.05][] he shall notify the owner of the equipment
-and set a time for a hearing, which hearing shall be set not less than ten nor
-more than twenty days from the time of notification.
+device) violates [Section 1331.05][CF Section 1331.05] he shall notify the owner
+of the equipment and set a time for a hearing, which hearing shall be set not
+less than ten nor more than twenty days from the time of notification.
 
     Following the hearing, the Environmental Control Officer may further require
     the owner to make or cause to be made such tests as may be necessary to
@@ -234,8 +234,9 @@ measures have been taken.\
 
 ## 1331.99   Penalty
 
-(Editor's note: See [Section 1303.99][] for general Code penalty if no specific
-penalty is provided.)
+(Editor's note: See [Section 1303.99][CF Section 1303.99] for general Code
+penalty if no specific penalty is provided.)
 
-[Section 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
-[Section 1331.05]:</chapters/chapter-1331-air-pollution/#133105-stack-and-vent-emissions>
+[CF Section 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
+[CF Section 1331.05]:</chapters/chapter-1331-air-pollution/#133105-stack-and-vent-emissions>
+[ORC Section 715.44]:<https://codes.ohio.gov/ohio-revised-code/section-715.44>

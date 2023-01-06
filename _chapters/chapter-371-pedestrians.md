@@ -36,10 +36,10 @@ title: "Chapter 371: Pedestrians"
 1. _(a)_ When traffic control signals are not in place, not in operation or are
 not clearly assigning the right of way, the driver of a vehicle shall yield the
 right of way, slowing down or stopping if need be to so yield or if required by
-[Section 313.09][], to a pedestrian crossing the roadway within a crosswalk when
-the pedestrian is upon the half of the roadway upon which the vehicle is
-traveling, or when the pedestrian is approaching so closely from the opposite
-half of the roadway as to be in danger.
+[Section 313.09][CF Section 313.09], to a pedestrian crossing the roadway within
+a crosswalk when the pedestrian is upon the half of the roadway upon which the
+vehicle is traveling, or when the pedestrian is approaching so closely from the
+opposite half of the roadway as to be in danger.
 
 2. _(b)_ No pedestrian shall suddenly leave a curb or other place of safety and
 walk or run into the path of a vehicle which is so close as to constitute an
@@ -160,9 +160,9 @@ walking along and upon a highway shall walk as near as practicable to an outside
 edge of the roadway, and, if on a two-way roadway, shall walk only on the left
 side of the roadway.
 
-4. _(d)_ Except as otherwise provided in [Section 313.03][] and [371.01][Section
-371.01], any pedestrian upon a roadway shall yield the right of way to all
-vehicles upon the roadway.
+4. _(d)_ Except as otherwise provided in [Section 313.03][CF Section 313.03] and
+[371.01][Section 371.01], any pedestrian upon a roadway shall yield the right of
+way to all vehicles upon the roadway.
 
 5. _(e)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
@@ -189,12 +189,13 @@ from the driver of any vehicle.
     charitable organization to allow a person acting on behalf of the
     organization to solicit charitable contributions from the occupant of a
     vehicle by standing on a highway, other than a freeway, as provided in Ohio
-    R.C. 4511.051(A), that is under the jurisdiction of the Municipality. The
-    permit shall be valid for only one period or time, which shall be specified
-    in the permit, in any calendar year. Council also may specify the locations
-    where contributions may be solicited and may impose any other restrictions
-    on or requirements regarding the manner in which the solicitations are to be
-    conducted that Council considers advisable.
+    R.C. [4511.051(A)][ORC Section 4511.051], that is under the jurisdiction of
+    the Municipality. The permit shall be valid for only one period or time,
+    which shall be specified in the permit, in any calendar year. Council also
+    may specify the locations where contributions may be solicited and may
+    impose any other restrictions on or requirements regarding the manner in
+    which the solicitations are to be conducted that Council considers
+    advisable.
 
     3. _(3)_ As used herein, "charitable organization" means an organization
     that has received from the Internal Revenue Service a currently valid ruling
@@ -221,9 +222,10 @@ applies:
     1. _(1)_ The cargo storage area of the vehicle is equipped with a properly
     secured seat to which is attached a seat safety belt that is in compliance
     with federal standards for an occupant restraining device as defined in Ohio
-    R.C. 4513.263(A)(2), the seat and seat safety belt were installed at the
-    time the vehicle was originally assembled and the person riding in the cargo
-    storage area is in the seat and is wearing the seat safety belt;
+    R.C. [4513.263(A)(2)][ORC Section 4513.263], the seat and seat safety belt
+    were installed at the time the vehicle was originally assembled and the
+    person riding in the cargo storage area is in the seat and is wearing the
+    seat safety belt;
 
     2. _(2)_ An emergency exists that threatens the life of the driver or the
     person being transported in the cargo storage area of the truck, trailer or
@@ -274,8 +276,8 @@ the third degree.
 ## 371.08   Yielding to public safety vehicle
 
 1. _(a)_ Upon the immediate approach of a public safety vehicle as stated in
-[Section 331.21][], every pedestrian shall yield the right of way to the public
-safety vehicle.
+[Section 331.21][CF Section 331.21], every pedestrian shall yield the right of
+way to the public safety vehicle.
 
 2. _(b)_ This section shall not relieve the driver of a public safety vehicle
 from the duty to exercise due care to avoid colliding with any pedestrian.
@@ -416,10 +418,10 @@ misdemeanor and shall be punished as follows:
     1. _(1)_ The offender shall be fined ten dollars ($10.00).
 
     2. _(2)_ If the offender previously has been convicted of or pleaded guilty
-    to a violation of division (B) or (C) of Ohio R.C. 4511.512 or a
-    substantially similar municipal ordinance, the court, in addition to
-    imposing the fine required under subsection (f)(1) hereof, shall do one of
-    the following:
+    to a violation of division (B) or (C) of Ohio R.C. [4511.512][ORC Section
+    4511.512] or a substantially similar municipal ordinance, the court, in
+    addition to imposing the fine required under subsection (f)(1) hereof, shall
+    do one of the following:
 
         1. _(A)_ Order the impoundment for not less than one day but not more
         than thirty days of the electric personal assistive mobility device that
@@ -591,10 +593,10 @@ greater than twenty miles per hour.
 
     2. _(2)_ Unless a mens rea is otherwise specified in this section, an
     offense established under this section is a strict liability offense and
-    Ohio R.C. 2901.20 does not apply. The designation of that offense as a
-    strict liability offense shall not be construed to imply that any other
-    offense, for which there is no specified degree of culpability, is not a
-    strict liability offense.
+    Ohio R.C. [2901.20][ORC Section 2901.20] does not apply. The designation of
+    that offense as a strict liability offense shall not be construed to imply
+    that any other offense, for which there is no specified degree of
+    culpability, is not a strict liability offense.
 
 6. _(f)_ Notwithstanding subsection (a)(1) of this section, the municipality,
 may do any of the following:
@@ -616,9 +618,13 @@ may do any of the following:
     occurrence and two million dollars ($2,000,000) per aggregate.\
     (ORC 4511.514)
 
-[Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
-[Section 313.03]:</chapters/chapter-313-traffic-control-devices/#31303-traffic-signal-indications>
-[Section 313.09]:</chapters/chapter-313-traffic-control-devices/#31309-drivers-duties-upon-approaching-ambiguous-or-non-working-traffic-signal>
-[Section 331.21]:</chapters/chapter-331-operation-generally/#33121-right-of-way-of-public-safety-or-coroners-vehicle>
-[Section 371.01]:</chapters/chapter-371-pedestrians/#37101-right-of-way-in-crosswalk>
+[CF Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
+[CF Section 313.03]:</chapters/chapter-313-traffic-control-devices/#31303-traffic-signal-indications>
+[CF Section 313.09]:</chapters/chapter-313-traffic-control-devices/#31309-drivers-duties-upon-approaching-ambiguous-or-non-working-traffic-signal>
+[CF Section 331.21]:</chapters/chapter-331-operation-generally/#33121-right-of-way-of-public-safety-or-coroners-vehicle>
+[CF Section 371.01]:</chapters/chapter-371-pedestrians/#37101-right-of-way-in-crosswalk>
+[ORC Section 2901.20]:<https://codes.ohio.gov/ohio-revised-code/section-2901.20>
+[ORC Section 4511.051]:<https://codes.ohio.gov/ohio-revised-code/section-4511.051>
+[ORC Section 4511.512]:<https://codes.ohio.gov/ohio-revised-code/section-4511.512>
+[ORC Section 4513.263]:<https://codes.ohio.gov/ohio-revised-code/section-4513.263>
 [Section 371.03(b)]:</chapters/chapter-371-pedestrians/#37103(b)>

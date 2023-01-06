@@ -17,7 +17,7 @@ title: "Chapter 113: Ordinances and Resolutions"
 * Legislative power of Council - see CHTR. Art. IV, Sec. 8
 * Effective date; emergency measures - see CHTR. Art. IV, Sec. 9
 * Initiative and referendum - see CHTR. Art. X, Sec. 1, 3
-* Publication in book form - see Ohio R.C. [731.23][[ORC Section 731.23]]
+* Publication in book form - see Ohio R.C. [731.23][ORC Section 731.23]
 * Adoption of technical codes - see Ohio R.C. [731.231][ORC Section 731.231]
 * Adoption of Codified Ordinances - see ADM. 101.02
 

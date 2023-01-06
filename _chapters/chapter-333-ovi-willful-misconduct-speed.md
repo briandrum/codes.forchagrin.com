@@ -22,9 +22,9 @@ title: "Chapter 333: OVI; Willful Misconduct; Speed"
 ## Cross references
 
 * See sectional histories for similar State law
-* Drug of abuse defined - see Ohio R.C. 3719.011(A)
-* Alcohol defined - see Ohio R.C. 4301.01(B)(1)
-* Alteration of prima-facie speed limits - see Ohio R.C. 4511.21, 4511.22 (B), 4511.23
+* Drug of abuse defined - see Ohio R.C. [3719.011(A)][ORC Section 3719.011]
+* Alcohol defined - see Ohio R.C. [4301.01(B)(1)][ORC Section 4301.01]
+* Alteration of prima-facie speed limits - see Ohio R.C. [4511.21][ORC Section 4511.21], 4511.22 (B), 4511.23
 * Failure to control vehicle - see TRAF. 331.34
 * Walking on highway while under the influence - see TRAF. 371.09
 
@@ -164,20 +164,21 @@ title: "Chapter 333: OVI; Willful Misconduct; Speed"
             person's whole blood or blood serum or plasma.
 
             11. _(11)_ The State Board of Pharmacy has adopted a rule pursuant
-            to Ohio R.C. 4729.041 that specifies the amount of salvia divinorum
-            and the amount of salvinorin A that constitute concentrations of
-            salvia divinorum and salvinorin A in a person's urine, in a person's
-            whole blood, or in a person's blood serum or plasma at or above
-            which the person is impaired for purposes of operating any vehicle
-            within this Municipality, the rule is in effect, and the person has
-            a concentration of salvia divinorum or salvinorin A of at least that
-            amount so specified by rule in the person's urine, in the person's
-            whole blood, or in the person's blood serum or plasma.
+            to Ohio R.C. [4729.041][ORC Section 4729.041] that specifies the
+            amount of salvia divinorum and the amount of salvinorin A that
+            constitute concentrations of salvia divinorum and salvinorin A in a
+            person's urine, in a person's whole blood, or in a person's blood
+            serum or plasma at or above which the person is impaired for
+            purposes of operating any vehicle within this Municipality, the rule
+            is in effect, and the person has a concentration of salvia divinorum
+            or salvinorin A of at least that amount so specified by rule in the
+            person's urine, in the person's whole blood, or in the person's
+            blood serum or plasma.
 
     2. _(2)_ No person who, within twenty years of the conduct described in
     subsection (a)(2)A. of this section, previously has been convicted of or
-    pleaded guilty to a violation of Ohio R.C. 4511.19(A) or (B), or any other
-    equivalent offense shall do both of the following:
+    pleaded guilty to a violation of Ohio R.C. [4511.19(A)][ORC Section 4511.19]
+    or (B), or any other equivalent offense shall do both of the following:
 
         1. _(A)_ Operate any vehicle within this Municipality while under the
         influence of alcohol, a drug of abuse or a combination of them;
@@ -185,9 +186,10 @@ title: "Chapter 333: OVI; Willful Misconduct; Speed"
         2. _(B)_ Subsequent to being arrested for operating the vehicle as
         described in subsection (a)(2)A. of this section, being asked by a law
         enforcement officer to submit to a chemical test or tests under Ohio
-        R.C. 4511.191, and being advised by the officer in accordance with Ohio
-        R.C. 4511.192 of the consequences of the person's refusal or submission
-        to the test or tests, refuse to submit to the test or tests.
+        R.C. [4511.191][ORC Section 4511.191], and being advised by the officer
+        in accordance with Ohio R.C. [4511.192][ORC Section 4511.192] of the
+        consequences of the person's refusal or submission to the test or tests,
+        refuse to submit to the test or tests.
 
 2. _(b)_ **Operation After Under-Age Consumption.** No person under twenty-one
 years of age shall operate any vehicle within this Municipality, if, at the time
@@ -267,9 +269,9 @@ person may not be convicted of more than one violation of these subsections.\
         violation of (a)(1)A. of this section or for any equivalent offense,
         that is vehicle-related the result of any test of any blood or urine
         withdrawn and analyzed at any health care provider, as defined in Ohio
-        R.C. 2317.02, may be admitted with expert testimony to be considered
-        with any other relevant and competent evidence in determining the guilt
-        or innocence of the defendant.
+        R.C. [2317.02][ORC Section 2317.02], may be admitted with expert
+        testimony to be considered with any other relevant and competent
+        evidence in determining the guilt or innocence of the defendant.
 
         2. _(B)_ In any criminal prosecution or juvenile court proceeding for a
         violation of subsection (a) or (b) of this section or for an equivalent
@@ -281,34 +283,36 @@ person may not be convicted of more than one violation of these subsections.\
         chemical analysis of the substance withdrawn within three hours of the
         time of the alleged violation. The three-hour time limit specified in
         this subsection regarding the admission of evidence does not extend or
-        affect the two-hour time limit specified in Ohio R.C. 4511.192(A) as the
-        maximum period of time during which a person may consent to a chemical
-        test or tests as described in that section.
+        affect the two-hour time limit specified in Ohio R.C. [4511.192(A)][ORC
+        Section 4511.192] as the maximum period of time during which a person
+        may consent to a chemical test or tests as described in that section.
 
             The court may admit evidence on the concentration of alcohol, drugs
             of abuse, or a combination of them as described in this section when
             a person submits to a blood, breath, urine or other bodily substance
             test at the request of a law enforcement officer under Ohio R.C.
-            4511.191, or a blood or urine sample is obtained pursuant to a
-            search warrant. Only a physician, a registered nurse, an emergency
-            medical technician-intermediate, an emergency medical
-            technician-paramedic or a qualified technician, chemist, or
-            phlebotomist shall withdraw a blood sample for the purpose of
-            determining the alcohol, drug, controlled substance, metabolite of a
-            controlled substance, or combination content of the whole blood,
-            blood serum, or blood plasma. This limitation does not apply to the
-            taking of breath or urine specimens. A person authorized to withdraw
-            blood under this subsection may refuse to withdraw blood under this
-            subsection, if in that person's opinion, the physical welfare of the
-            person would be endangered by the withdrawing of blood. The bodily
-            substance withdrawn under subsection (e)(1)B. hereof shall be
-            analyzed in accordance with methods approved by the Director of
-            Health by an individual possessing a valid permit issued by the
-            Director pursuant to Ohio R.C. 3701.143.
+            [4511.191][ORC Section 4511.191], or a blood or urine sample is
+            obtained pursuant to a search warrant. Only a physician, a
+            registered nurse, an emergency medical technician-intermediate, an
+            emergency medical technician-paramedic or a qualified technician,
+            chemist, or phlebotomist shall withdraw a blood sample for the
+            purpose of determining the alcohol, drug, controlled substance,
+            metabolite of a controlled substance, or combination content of the
+            whole blood, blood serum, or blood plasma. This limitation does not
+            apply to the taking of breath or urine specimens. A person
+            authorized to withdraw blood under this subsection may refuse to
+            withdraw blood under this subsection, if in that person's opinion,
+            the physical welfare of the person would be endangered by the
+            withdrawing of blood. The bodily substance withdrawn under
+            subsection (e)(1)B. hereof shall be analyzed in accordance with
+            methods approved by the Director of Health by an individual
+            possessing a valid permit issued by the Director pursuant to Ohio
+            R.C. [3701.143][ORC Section 3701.143].
 
         3. _(C)_ As used in subsection (e)(1)B. of this section, "emergency
         medical technician-intermediate" and "emergency medical
-        technician-paramedic" have the same meanings as in Ohio R.C. 4765.01.
+        technician-paramedic" have the same meanings as in Ohio R.C.
+        [4765.01][ORC Section 4765.01].
 
     2. _(2)_ In a criminal prosecution or juvenile court proceeding for
     violation of subsection (a) of this section or for an equivalent offense
@@ -331,16 +335,17 @@ person may not be convicted of more than one violation of these subsections.\
     technician, chemist or phlebotomist of the person's own choosing administer
     a chemical test or tests, at the person's expense, in addition to any
     administered at the request of a law enforcement officer. If the person was
-    under arrest as described in division (A)(5) of Ohio R.C. 4511.191, the
-    arresting officer shall advise the person at the time of the arrest that the
-    person may have an independent chemical test taken at the person's own
-    expense. If the person was under arrest other than described in division (A)
-    (5) of Ohio R.C. 4511.191, the form to be read to the person to be tested,
-    as required under Ohio R.C. 4511.192, shall state that the person may have
-    an independent test performed at the person's expense. The failure or
-    inability to obtain an additional chemical test by a person shall not
-    preclude the admission of evidence relating to the chemical test or tests
-    taken at the request of a law enforcement officer.
+    under arrest as described in division (A)(5) of Ohio R.C. [4511.191][ORC
+    Section 4511.191], the arresting officer shall advise the person at the time
+    of the arrest that the person may have an independent chemical test taken at
+    the person's own expense. If the person was under arrest other than
+    described in division (A)(5) of Ohio R.C. [4511.191][ORC Section 4511.191],
+    the form to be read to the person to be tested, as required under Ohio R.C.
+    [4511.192][ORC Section 4511.192], shall state that the person may have an
+    independent test performed at the person's expense. The failure or inability
+    to obtain an additional chemical test by a person shall not preclude the
+    admission of evidence relating to the chemical test or tests taken at the
+    request of a law enforcement officer.
 
     4. _(4)_
 
@@ -441,21 +446,21 @@ person may not be convicted of more than one violation of these subsections.\
 provided in this subsection, any physician, registered nurse, emergency medical
 technician-intermediate, emergency medical technician-paramedic, or qualified
 technician, chemist, or phlebotomist who withdraws blood from a person pursuant
-to this section or Ohio R.C. 4511.191 or 4511.192, and any hospital, first-aid
-station, or clinic at which blood is withdrawn from a person pursuant to this
-section or Ohio R.C. 4511.191 or 4511.192, is immune from criminal liability and
-civil liability based upon a claim of assault and battery or any other claim
-that is not a claim of malpractice, for any act performed in withdrawing blood
-from the person. The immunity provided in this subsection also extends to an
-emergency medical service organization that employs an emergency medical
-technician-intermediate or emergency medical technician-paramedic who withdraws
-blood under this section. The immunity provided in this subsection is not
-available to a person who withdraws blood if the person engaged in willful or
-wanton misconduct.
+to this section or Ohio R.C. [4511.191][ORC Section 4511.191] or 4511.192, and
+any hospital, first-aid station, or clinic at which blood is withdrawn from a
+person pursuant to this section or Ohio R.C. [4511.191][ORC Section 4511.191] or
+4511.192, is immune from criminal liability and civil liability based upon a
+claim of assault and battery or any other claim that is not a claim of
+malpractice, for any act performed in withdrawing blood from the person. The
+immunity provided in this subsection also extends to an emergency medical
+service organization that employs an emergency medical technician-intermediate
+or emergency medical technician-paramedic who withdraws blood under this
+section. The immunity provided in this subsection is not available to a person
+who withdraws blood if the person engaged in willful or wanton misconduct.
 
     As used in this subsection, "emergency medical technician-intermediate" and
     "emergency medical technician-paramedic" have the same meanings as in Ohio
-    R.C. 4765.01.
+    R.C. [4765.01][ORC Section 4765.01].
 
 8. _(h)_ **General OVI Penalty.**
 
@@ -487,73 +492,76 @@ wanton misconduct.
                 The court may suspend the execution of the three-day jail term
                 under this subsection if the court, in lieu of that suspended
                 term, places the offender under a community control sanction
-                pursuant to Ohio R.C. 2929.25 and requires the offender to
-                attend, for three consecutive days, a drivers' intervention
-                program certified under Ohio R.C. 5119.38.
+                pursuant to Ohio R.C. [2929.25][ORC Section 2929.25] and
+                requires the offender to attend, for three consecutive days, a
+                drivers' intervention program certified under Ohio R.C.
+                [5119.38][ORC Section 5119.38].
 
                 The court also may suspend the execution of any part of the
                 three-day jail term under this subsection if it places the
                 offender under a community control sanction pursuant to Ohio
-                R.C. 2929.25 for part of the three days, requires the offender
-                to attend for the suspended part of the term a drivers'
-                intervention program so certified, and sentences the offender to
-                a jail term equal to the remainder of the three consecutive days
-                that the offender does not spend attending the program. The
-                court may require the offender, as a condition of community
-                control and in addition to the required attendance at a drivers'
-                intervention program, to attend and satisfactorily complete any
-                treatment or education programs that comply with the minimum
-                standards adopted pursuant to Ohio R.C. [Chapter 5119][ORC
-                Chapter 5119] by the Director of Mental Health and Addiction
-                Services that the operators of the drivers' intervention program
-                determine that the offender should attend and to report
-                periodically to the court on the offender's progress in the
-                programs. The court also may impose on the offender any other
-                conditions of community control that it considers necessary. If
-                the court grants unlimited driving privileges to a first-time
-                offender under Ohio R.C. 4510.022, all penalties imposed upon
-                the offender by the court under subsection (h)(1)A.1. of this
+                R.C. [2929.25][ORC Section 2929.25] for part of the three days,
+                requires the offender to attend for the suspended part of the
+                term a drivers' intervention program so certified, and sentences
+                the offender to a jail term equal to the remainder of the three
+                consecutive days that the offender does not spend attending the
+                program. The court may require the offender, as a condition of
+                community control and in addition to the required attendance at
+                a drivers' intervention program, to attend and satisfactorily
+                complete any treatment or education programs that comply with
+                the minimum standards adopted pursuant to Ohio R.C. [Chapter
+                5119][ORC Chapter 5119] by the Director of Mental Health and
+                Addiction Services that the operators of the drivers'
+                intervention program determine that the offender should attend
+                and to report periodically to the court on the offender's
+                progress in the programs. The court also may impose on the
+                offender any other conditions of community control that it
+                considers necessary. If the court grants unlimited driving
+                privileges to a first-time offender under Ohio R.C.
+                [4510.022][ORC Section 4510.022], all penalties imposed upon the
+                offender by the court under subsection (h)(1)A.1. of this
                 section for the offense apply, except that the court shall
                 suspend any mandatory or additional jail term imposed by the
                 court under subsection (h)(1)A.1. of this section upon granting
                 unlimited driving privileges in accordance with Ohio R.C.
-                4510.022.
+                [4510.022][ORC Section 4510.022].
 
             2. _(2)_ If the sentence is being imposed for a violation of
             subsection (a)(1)F., G., H. or I. or (a)(2) of this section, except
             as otherwise provided in this subsection, a mandatory jail term of
             at least three consecutive days and a requirement that the offender
             attend, for three consecutive days, a drivers' intervention program
-            that is certified pursuant to Ohio R.C. 5119.38. As used in this
-            subsection, three consecutive days means seventy-two consecutive
-            hours. If the court determines that the offender is not conducive to
-            treatment in a drivers' intervention program, if the offender
-            refuses to attend a drivers' intervention program, or if the jail at
-            which the offender is to serve the jail term imposed can provide a
-            drivers' intervention program, the court shall sentence the offender
-            to a mandatory jail term of at least six consecutive days.
+            that is certified pursuant to Ohio R.C. [5119.38][ORC Section
+            5119.38]. As used in this subsection, three consecutive days means
+            seventy-two consecutive hours. If the court determines that the
+            offender is not conducive to treatment in a drivers' intervention
+            program, if the offender refuses to attend a drivers' intervention
+            program, or if the jail at which the offender is to serve the jail
+            term imposed can provide a drivers' intervention program, the court
+            shall sentence the offender to a mandatory jail term of at least six
+            consecutive days.
 
                 If the court grants unlimited driving privileges to a first-time
-                offender under Ohio R.C. 4510.022, all penalties imposed upon
-                the offender by the court under subsection (h)(1)A.2. of this
-                section for the offense apply, except that the court shall
-                suspend any mandatory or additional jail term imposed by the
-                court under subsection (h)(1)A.2. of this section upon granting
-                unlimited driving privileges in accordance with Ohio R.C.
-                4510.022.
+                offender under Ohio R.C. [4510.022][ORC Section 4510.022], all
+                penalties imposed upon the offender by the court under
+                subsection (h)(1)A.2. of this section for the offense apply,
+                except that the court shall suspend any mandatory or additional
+                jail term imposed by the court under subsection (h)(1)A.2. of
+                this section upon granting unlimited driving privileges in
+                accordance with Ohio R.C. [4510.022][ORC Section 4510.022].
 
                 The court may require the offender, under a community control
-                sanction imposed under Ohio R.C. 2929.25, to attend and
-                satisfactorily complete any treatment or education programs that
-                comply with the minimum standards adopted pursuant to Ohio R.C.
-                [Chapter 5119][ORC Chapter 5119] by the Director of Mental
-                Health and Addiction Services, in addition to the required
-                attendance at drivers' intervention program, that the operators
-                of the drivers' intervention program determine that the offender
-                should attend and to report periodically to the court on the
-                offender's progress in the programs. The court also may impose
-                any other conditions of community control on the offender that
-                it considers necessary.
+                sanction imposed under Ohio R.C. [2929.25][ORC Section 2929.25],
+                to attend and satisfactorily complete any treatment or education
+                programs that comply with the minimum standards adopted pursuant
+                to Ohio R.C. [Chapter 5119][ORC Chapter 5119] by the Director of
+                Mental Health and Addiction Services, in addition to the
+                required attendance at drivers' intervention program, that the
+                operators of the drivers' intervention program determine that
+                the offender should attend and to report periodically to the
+                court on the offender's progress in the programs. The court also
+                may impose any other conditions of community control on the
+                offender that it considers necessary.
 
             3. _(3)_ In all cases, a fine of not less than three hundred
             seventy- five dollars ($375.00) and not more than one thousand
@@ -563,10 +571,11 @@ wanton misconduct.
             commercial driver's license or permit or nonresident operating
             privilege for a definite period of one to three years. The court may
             grant limited driving privileges relative to the suspension under
-            Ohio R.C. 4510.021 and 4510.13. The court may grant unlimited
-            driving privileges with an ignition interlock device relative to the
-            suspension and may reduce the period of suspension as authorized
-            under Ohio R.C. 4510.022.
+            Ohio R.C. [4510.021][ORC Section 4510.021] and 4510.13. The court
+            may grant unlimited driving privileges with an ignition interlock
+            device relative to the suspension and may reduce the period of
+            suspension as authorized under Ohio R.C. [4510.022][ORC Section
+            4510.022].
 
         2. _(B)_ Except as otherwise provided in subsection (h)(1)E. of this
         section, an offender who, within ten years of the offense, previously
@@ -591,15 +600,15 @@ wanton misconduct.
                 electronic monitoring or continuous alcohol monitoring or both
                 types of monitoring and jail term, the court shall require the
                 offender to be assessed by a community addiction services
-                provider that is authorized by Ohio R.C. 5119.21, subject to
-                subsection (k) of this section, and shall order the offender to
-                follow the treatment recommendations of the services provider.
-                The purpose of the assessment is to determine the degree of the
-                offender's alcohol usage and to determine whether or not
-                treatment is warranted. Upon the request of the court, the
-                services provider shall submit the results of the assessment to
-                the court, including all treatment recommendations and clinical
-                diagnoses related to alcohol use.
+                provider that is authorized by Ohio R.C. [5119.21][ORC Section
+                5119.21], subject to subsection (k) of this section, and shall
+                order the offender to follow the treatment recommendations of
+                the services provider. The purpose of the assessment is to
+                determine the degree of the offender's alcohol usage and to
+                determine whether or not treatment is warranted. Upon the
+                request of the court, the services provider shall submit the
+                results of the assessment to the court, including all treatment
+                recommendations and clinical diagnoses related to alcohol use.
 
             2. _(2)_ If the sentence is being imposed for a violation of
             subsection (a)(1)F., G., H. or I. or (a)(2) of this section, except
@@ -618,15 +627,15 @@ wanton misconduct.
                 electronic monitoring or continuous alcohol monitoring or both
                 types of monitoring and jail term, the court shall require the
                 offender to be assessed by a community addiction services
-                provider that is authorized by Ohio R.C. 5119.21, subject to
-                subsection (k) of this section, and shall order the offender to
-                follow the treatment recommendations of the services provider.
-                The purpose of the assessment is to determine the degree of the
-                offender's alcohol usage and to determine whether or not
-                treatment is warranted. Upon the request of the court, the
-                services provider shall submit the results of the assessment to
-                the court, including all treatment recommendations and clinical
-                diagnoses related to alcohol use.
+                provider that is authorized by Ohio R.C. [5119.21][ORC Section
+                5119.21], subject to subsection (k) of this section, and shall
+                order the offender to follow the treatment recommendations of
+                the services provider. The purpose of the assessment is to
+                determine the degree of the offender's alcohol usage and to
+                determine whether or not treatment is warranted. Upon the
+                request of the court, the services provider shall submit the
+                results of the assessment to the court, including all treatment
+                recommendations and clinical diagnoses related to alcohol use.
 
             3. _(3)_ In all cases, notwithstanding the fines set forth in
             Section 303.99, a fine of not less than five hundred twenty-five
@@ -638,13 +647,14 @@ wanton misconduct.
             probationary license, or nonresident operating privilege for a
             definite period of one to seven years. The court may grant limited
             driving privileges relative to the suspension under Ohio R.C.
-            4510.021 and 4510.13.\
+            [4510.021][ORC Section 4510.021] and 4510.13.\
             (ORC 4511.19)
 
             5. _(5)_ In all cases, if the vehicle is registered in the
             offender's name, immobilization of the vehicle involved in the
-            offense for ninety days in accordance with Ohio R.C. 4503.233 and
-            impoundment of the license plates of that vehicle for ninety days.\
+            offense for ninety days in accordance with Ohio R.C. [4503.233][ORC
+            Section 4503.233] and impoundment of the license plates of that
+            vehicle for ninety days.\
             (ORC 4511.193)
 
         3. _(C)_ Except as otherwise provided in subsection (h)(1)E. of this
@@ -692,26 +702,28 @@ wanton misconduct.
             probationary license, or nonresident operating privilege for a
             definite period of two to twelve years. The court may grant limited
             driving privileges relative to the suspension under Ohio R.C.
-            4510.021 and 4510.13.\
+            [4510.021][ORC Section 4510.021] and 4510.13.\
             (ORC 4511.19)
 
             5. _(5)_ In all cases, if the vehicle is registered in the
             offender's name, criminal forfeiture of the vehicle involved in the
-            offense in accordance with Ohio R.C. 4503.234. Subsection (h)(5) of
-            this section applies regarding any vehicle that is subject to an
-            order of criminal forfeiture under this subsection.\
+            offense in accordance with Ohio R.C. [4503.234][ORC Section
+            4503.234]. Subsection (h)(5) of this section applies regarding any
+            vehicle that is subject to an order of criminal forfeiture under
+            this subsection.\
             (ORC 4511.193)
 
             6. _(6)_ In all cases, the court shall order the offender to
             participate with a community addiction services provider authorized
-            by Ohio R.C. 5119.21, subject to subsection (k) of this section, and
-            shall order the offender to follow the treatment recommendations of
-            the services provider. The operator of the services provider shall
-            determine and assess the degree of the offender's alcohol dependency
-            and shall make recommendations for treatment. Upon the request of
-            the court, the services provider shall submit the results of the
-            assessment to the court, including all treatment recommendations and
-            clinical diagnoses related to alcohol use.
+            by Ohio R.C. [5119.21][ORC Section 5119.21], subject to subsection
+            (k) of this section, and shall order the offender to follow the
+            treatment recommendations of the services provider. The operator of
+            the services provider shall determine and assess the degree of the
+            offender's alcohol dependency and shall make recommendations for
+            treatment. Upon the request of the court, the services provider
+            shall submit the results of the assessment to the court, including
+            all treatment recommendations and clinical diagnoses related to
+            alcohol use.
 
         4. _(D)_ Except as otherwise provided in subsection (h)(1)E. of this
         section, an offender who, within ten years of the offense, previously
@@ -723,17 +735,17 @@ wanton misconduct.
         appropriate state law.
 
         5. _(E)_ An offender who previously has been convicted of or pleaded
-        guilty to a violation of Ohio R.C. 4511.19(A) that was a felony,
-        regardless of when the violation and the conviction or guilty plea
-        occurred, is guilty of a felony of the third degree and shall be
-        prosecuted under appropriate state law.
+        guilty to a violation of Ohio R.C. [4511.19(A)][ORC Section 4511.19]
+        that was a felony, regardless of when the violation and the conviction
+        or guilty plea occurred, is guilty of a felony of the third degree and
+        shall be prosecuted under appropriate state law.
 
     2. _(2)_ An offender who is convicted of or pleads guilty to a violation of
     subsection (a) of this section and who subsequently seeks reinstatement of
     the driver's or occupational driver's license or permit or nonresident
     operating privilege suspended under this section as a result of the
     conviction or guilty plea shall pay a reinstatement fee as provided in
-    division (F)(2) of Ohio R.C. 4511.191.
+    division (F)(2) of Ohio R.C. [4511.191][ORC Section 4511.191].
 
     3. _(3)_ If an offender is sentenced to a jail term under subsection (h)
     (1)B.1. or 2. or (h)(1)C.1. or 2. of this section and if, within sixty days
@@ -796,34 +808,36 @@ wanton misconduct.
 
     4. _(4)_ If an offender's driver's or occupational driver's license or
     permit or nonresident operating privilege is suspended under subsection (h)
-    of this section and if Ohio R.C. 4510.13 permits the court to grant limited
-    driving privileges, the court may grant the limited driving privileges in
-    accordance with that section. If division (A)(7) of that section requires
-    that the court impose as a condition of the privileges that the offender
-    must display on the vehicle that is driven subject to the privileges
-    restricted license plates that are issued under Ohio R.C. 4503.231, except
-    as provided in division (B) of that section, the court shall impose that
-    condition as one of the conditions of the limited driving privileges granted
-    to the offender, except as provided in division (B) of Ohio R.C. 4503.231.
+    of this section and if Ohio R.C. [4510.13][ORC Section 4510.13] permits the
+    court to grant limited driving privileges, the court may grant the limited
+    driving privileges in accordance with that section. If division (A)(7) of
+    that section requires that the court impose as a condition of the privileges
+    that the offender must display on the vehicle that is driven subject to the
+    privileges restricted license plates that are issued under Ohio R.C.
+    [4503.231][ORC Section 4503.231], except as provided in division (B) of that
+    section, the court shall impose that condition as one of the conditions of
+    the limited driving privileges granted to the offender, except as provided
+    in division (B) of Ohio R.C. [4503.231][ORC Section 4503.231].
 
     5. _(5)_ If title to a motor vehicle that is subject to an order of criminal
     forfeiture under this section is assigned or transferred and division (B)(2)
-    or (3) of Ohio R.C. 4503.234 applies, in addition to or independent of any
-    other penalty established by law, the court may fine the offender the value
-    of the vehicle as determined by publications of the national auto dealers
-    association. The proceeds of any fine so imposed shall be distributed in
-    accordance with division (C)(2) of that section.
+    or (3) of Ohio R.C. [4503.234][ORC Section 4503.234] applies, in addition to
+    or independent of any other penalty established by law, the court may fine
+    the offender the value of the vehicle as determined by publications of the
+    national auto dealers association. The proceeds of any fine so imposed shall
+    be distributed in accordance with division (C)(2) of that section.
 
     6. _(6)_ In all cases in which an offender is sentenced under subsection (h)
     of this section, the offender shall provide the court with proof of
-    financial responsibility as defined in Ohio R.C. 4509.01. If the offender
-    fails to provide that proof of financial responsibility, the court, in
-    addition to any other penalties provided by law, may order restitution
-    pursuant to Ohio R.C. 2929.18 or 2929.28 in an amount not exceeding five
-    thousand dollars ($5,000) for any economic loss arising from an accident or
-    collision that was the direct and proximate result of the offender's
-    operation of the vehicle before, during or after committing the offense for
-    which the offender is sentenced under subsection (h) of this section.
+    financial responsibility as defined in Ohio R.C. [4509.01][ORC Section
+    4509.01]. If the offender fails to provide that proof of financial
+    responsibility, the court, in addition to any other penalties provided by
+    law, may order restitution pursuant to Ohio R.C. [2929.18][ORC Section
+    2929.18] or 2929.28 in an amount not exceeding five thousand dollars
+    ($5,000) for any economic loss arising from an accident or collision that
+    was the direct and proximate result of the offender's operation of the
+    vehicle before, during or after committing the offense for which the
+    offender is sentenced under subsection (h) of this section.
 
     7. _(7)_ A court may order an offender to reimburse a law enforcement agency
     for any costs incurred by the agency with respect to a chemical test or
@@ -842,7 +856,7 @@ wanton misconduct.
 
     8. _(8)_ As used in subsection (h) of this section, "electronic monitoring",
     "mandatory prison term" and "mandatory term of local incarceration" have the
-    same meanings as in Ohio R.C. 2929.01.
+    same meanings as in Ohio R.C. [2929.01][ORC Section 2929.01].
 
 9. _(i)_ Vehicle Operation After Underage Alcohol Consumption Penalty. Whoever
 violates subsection (b) of this section is guilty of operating a vehicle after
@@ -854,13 +868,15 @@ underage alcohol consumption and shall be punished as follows:
     six suspension of the offender's driver's license, commercial driver's
     license, temporary instruction permit, probationary license, or nonresident
     operating privilege from the range specified in division (A)(6) of Ohio R.C.
-    4510.02. The court may grant limited driving privileges relative to the
-    suspension under Ohio R.C. 4510.021 and 4510.13. The court may grant
-    unlimited driving privileges with an ignition interlock device relative to
-    the suspension and may reduce the period of suspension as authorized under
-    Ohio R.C. 4510.022. If the court grants unlimited driving privileges under
-    Ohio R.C. 4510.022, the court shall suspend any jail term imposed under
-    subsection (i)(1) of this section as required under that section.
+    [4510.02][ORC Section 4510.02]. The court may grant limited driving
+    privileges relative to the suspension under Ohio R.C. [4510.021][ORC Section
+    4510.021] and 4510.13. The court may grant unlimited driving privileges with
+    an ignition interlock device relative to the suspension and may reduce the
+    period of suspension as authorized under Ohio R.C. [4510.022][ORC Section
+    4510.022]. If the court grants unlimited driving privileges under Ohio R.C.
+    [4510.022][ORC Section 4510.022], the court shall suspend any jail term
+    imposed under subsection (i)(1) of this section as required under that
+    section.
 
     2. _(2)_ If, within one year of the offense, the offender previously has
     been convicted of or pleaded guilty to one or more violations of subsection
@@ -869,25 +885,27 @@ underage alcohol consumption and shall be punished as follows:
     sanction imposed for the offense, the court shall impose a class four
     suspension of the offender's driver's license, commercial driver's license,
     temporary instruction permit, probationary license, or nonresident operating
-    privilege from the range specified in division (A)(4) of Ohio R.C. 4510.02.
-    The court may grant limited driving privileges relative to the suspension
-    under Ohio R.C. 4510.021 and 4510.13.
+    privilege from the range specified in division (A)(4) of Ohio R.C.
+    [4510.02][ORC Section 4510.02]. The court may grant limited driving
+    privileges relative to the suspension under Ohio R.C. [4510.021][ORC Section
+    4510.021] and 4510.13.
 
     3. _(3)_ If the offender also is convicted of or also pleads guilty to a
-    specification of the type described in Ohio R.C. 2941.1416 and if the court
-    imposes a jail term for the violation of subsection (b) of this section, the
-    court shall impose upon the offender an additional definite jail term
-    pursuant to division (E) of Ohio R.C. 2929.24.
+    specification of the type described in Ohio R.C. [2941.1416][ORC Section
+    2941.1416] and if the court imposes a jail term for the violation of
+    subsection (b) of this section, the court shall impose upon the offender an
+    additional definite jail term pursuant to division (E) of Ohio R.C.
+    [2929.24][ORC Section 2929.24].
 
     4. _(4)_ The offender shall provide the court with proof of financial
-    responsibility as defined in Ohio R.C. 4509.01. If the offender fails to
-    provide that proof of financial responsibility, then, in addition to any
-    other penalties provided by law, the court may order restitution pursuant to
-    Ohio R.C. 2929.28, in an amount not exceeding five thousand dollars ($5,000)
-    for any economic loss arising from an accident or collision that was the
-    direct and proximate result of the offender's operation of the vehicle
-    before, during or after committing the violation of subsection (b) of this
-    section.\
+    responsibility as defined in Ohio R.C. [4509.01][ORC Section 4509.01]. If
+    the offender fails to provide that proof of financial responsibility, then,
+    in addition to any other penalties provided by law, the court may order
+    restitution pursuant to Ohio R.C. [2929.28][ORC Section 2929.28], in an
+    amount not exceeding five thousand dollars ($5,000) for any economic loss
+    arising from an accident or collision that was the direct and proximate
+    result of the offender's operation of the vehicle before, during or after
+    committing the violation of subsection (b) of this section.\
     (ORC 4511.19)
 
 10. _(j)_ **Physical Control Penalty.** Whoever violates subsection (d) hereof
@@ -896,7 +914,7 @@ misdemeanor of the first degree. In addition to other sanctions imposed, the
 court may impose on the offender a class seven suspension of the offender's
 driver's license, commercial driver's license, temporary instruction permit,
 probationary license, or nonresident operating privilege from the range
-specified in division (A)(7) of Ohio R.C. 4510.02.\
+specified in division (A)(7) of Ohio R.C. [4510.02][ORC Section 4510.02].\
 (ORC 4511.194)
 
 11. _(k)_ Compliance With Ohio R.C. [Chapter 5119][ORC Chapter 5119] Standards.
@@ -936,46 +954,52 @@ specified in that subsection, if both of the following apply:
 
 14. _(n)_ The prohibited concentrations of a controlled substance or a
 metabolite of a controlled substance listed in subsection (a)(1)J. of this
-section also apply in a prosecution of a violation of Ohio R.C. 2923.16(D) in
-the same manner as if the offender is being prosecuted for a prohibited
-concentration of alcohol.
+section also apply in a prosecution of a violation of Ohio R.C. [2923.16(D)][ORC
+Section 2923.16] in the same manner as if the offender is being prosecuted for a
+prohibited concentration of alcohol.
 
-15. _(o)_ **Conflict of Terms.** All terms defined in Ohio R.C. 4510.01 apply to
-this section. If the meaning of a term defined in Ohio R.C. 4510.01 conflicts
-with the meaning of the same term as defined in Ohio R.C. 4501.01 or this
-Traffic Code, the term as defined in Ohio R.C. 4510.01 applies to this section.\
+15. _(o)_ **Conflict of Terms.** All terms defined in Ohio R.C. [4510.01][ORC
+Section 4510.01] apply to this section. If the meaning of a term defined in Ohio
+R.C. [4510.01][ORC Section 4510.01] conflicts with the meaning of the same term
+as defined in Ohio R.C. [4501.01][ORC Section 4501.01] or this Traffic Code, the
+term as defined in Ohio R.C. [4510.01][ORC Section 4510.01] applies to this
+section.\
 (ORC 4511.19)
 
 16. _(p)_ Indigent Drivers Alcohol Treatment Fund. Twenty-five dollars ($25.00)
 of any fine imposed for a violation of subsection (a) hereof shall be deposited
 into the municipal or county indigent drivers alcohol treatment fund pursuant to
-Ohio R.C. 4511.193.\
+Ohio R.C. [4511.193][ORC Section 4511.193].\
 (ORC 4511.193)
 
 17. _(q)_ **Definitions.** As used in this section:
 
     1. _(1)_ "Equivalent offense" means any of the following:
 
-        1. _(A)_ A violation of division (A) or (B) of Ohio R.C. 4511.19;
+        1. _(A)_ A violation of division (A) or (B) of Ohio R.C. [4511.19][ORC
+        Section 4511.19];
 
         2. _(B)_ A violation of a municipal OVI ordinance;
 
-        3. _(C)_ A violation of Ohio R.C. 2903.04 in a case in which the
-        offender was subject to the sanctions described in division (D) of that
-        section;
+        3. _(C)_ A violation of Ohio R.C. [2903.04][ORC Section 2903.04] in a
+        case in which the offender was subject to the sanctions described in
+        division (D) of that section;
 
-        4. _(D)_ A violation of division (A)(1) of Ohio R.C. 2903.06 or 2903.08
-        or a municipal ordinance that is substantially equivalent to either of
-        those divisions;
+        4. _(D)_ A violation of division (A)(1) of Ohio R.C. [2903.06][ORC
+        Section 2903.06] or 2903.08 or a municipal ordinance that is
+        substantially equivalent to either of those divisions;
 
         5. _(E)_ A violation of division (A)(2), (3) or (4) of Ohio R.C.
-        2903.06, division (A)(2) of Ohio R.C. 2903.08, or former Ohio R.C.
-        2903.07, or a municipal ordinance that is substantially equivalent to
-        any of those divisions or that former section, in a case in which a
-        judge or jury as the trier of fact found that the offender was under the
-        influence of alcohol, a drug of abuse, or a combination of them;
+        [2903.06][ORC Section 2903.06], division (A)(2) of Ohio R.C.
+        [2903.08][ORC Section 2903.08], or former Ohio R.C. [2903.07][ORC
+        Section 2903.07], or a municipal ordinance that is substantially
+        equivalent to any of those divisions or that former section, in a case
+        in which a judge or jury as the trier of fact found that the offender
+        was under the influence of alcohol, a drug of abuse, or a combination of
+        them;
 
-        6. _(F)_ A violation of division (A) or (B) of Ohio R.C. 1547.11;
+        6. _(F)_ A violation of division (A) or (B) of Ohio R.C. [1547.11][ORC
+        Section 1547.11];
 
         7. _(G)_ A violation of a municipal ordinance prohibiting a person from
         operating or being in physical control of any vessel underway or from
@@ -990,12 +1014,14 @@ Ohio R.C. 4511.193.\
 
         8. _(H)_ A violation of an existing or former municipal ordinance, law
         of another state, or law of the United States that is substantially
-        equivalent to division (A) or (B) of Ohio R.C. 4511.19 or division (A)
-        or (B) or Ohio R.C. 1547.11;
+        equivalent to division (A) or (B) of Ohio R.C. [4511.19][ORC Section
+        4511.19] or division (A) or (B) or Ohio R.C. [1547.11][ORC Section
+        1547.11];
 
         9. _(I)_ A violation of a former law of this State that was
-        substantially equivalent to division (A) or (B) of Ohio R.C. 4511.19 or
-        division (A) or (B) of Ohio R.C. 1547.11;
+        substantially equivalent to division (A) or (B) of Ohio R.C.
+        [4511.19][ORC Section 4511.19] or division (A) or (B) of Ohio R.C.
+        [1547.11][ORC Section 1547.11];
 
     2. _(2)_ "Mandatory jail term" means the mandatory term in jail of three,
     six, ten, twenty, thirty, or sixty days that must be imposed under
@@ -1020,9 +1046,11 @@ Ohio R.C. 4511.193.\
 
     4. _(4)_ "Community residential sanction", "continuous alcohol monitoring",
     "jail", "mandatory prison term", "mandatory term of local incarceration",
-    "sanction" and "prison term" have the same meanings as in Ohio R.C. 2929.01.
+    "sanction" and "prison term" have the same meanings as in Ohio R.C.
+    [2929.01][ORC Section 2929.01].
 
-    5. _(5)_ "Drug of abuse" has the same meaning as in Ohio R.C. 4506.01.
+    5. _(5)_ "Drug of abuse" has the same meaning as in Ohio R.C. [4506.01][ORC
+    Section 4506.01].
 
     6. _(6)_ "Equivalent offense that is vehicle-related" means an equivalent
     offense that is any of the following:
@@ -1032,10 +1060,12 @@ Ohio R.C. 4511.193.\
 
         2. _(B)_ A violation of an existing or former municipal ordinance, law
         of another state, or law of the United States that is substantially
-        equivalent to division (A) or (B) of Ohio R.C. 4511.19;
+        equivalent to division (A) or (B) of Ohio R.C. [4511.19][ORC Section
+        4511.19];
 
         3. _(C)_ A violation of a former law of this state that was
-        substantially equivalent to division (A) or (B) of Ohio R.C. 4511.19.\
+        substantially equivalent to division (A) or (B) of Ohio R.C.
+        [4511.19][ORC Section 4511.19].\
         (ORC 4511.181)
 
 ## 333.02   Reckless operation; willful misconduct
@@ -1078,7 +1108,8 @@ motor vehicle in violation of this section relating to reckless operation, the
 trial court of any court of record, in addition to or independent of all other
 penalties provided by law, may impose a class five suspension of the offender's
 driver's or commercial driver's license or permit or nonresident operating
-privilege from the range specified in division (A)(5) of Ohio R.C. 4510.02.\
+privilege from the range specified in division (A)(5) of Ohio R.C. [4510.02][ORC
+Section 4510.02].\
 (ORC 4510.15)
 
 ## 333.03   Maximum speed limits; assured clear distance ahead
@@ -1090,9 +1121,9 @@ motor vehicle in and upon any street or highway at a greater speed than will
 permit the person to bring it to a stop within the assured clear distance ahead.
 
 2. _(b)_ It is prima-facie lawful, in the absence of a lower limit declared or
-established pursuant to Ohio R.C. 4511.21 by the Ohio Director of Transportation
-or Council, for the operator of a motor vehicle to operate the same at a speed
-not exceeding the following:
+established pursuant to Ohio R.C. [4511.21][ORC Section 4511.21] by the Ohio
+Director of Transportation or Council, for the operator of a motor vehicle to
+operate the same at a speed not exceeding the following:
 
     1. _(1)_
 
@@ -1113,7 +1144,8 @@ not exceeding the following:
 
         2. _(B)_ As used in this section, "school" means all of the following:
 
-            1. _(1)_ Any school chartered under Ohio R.C. 3301.16;
+            1. _(1)_ Any school chartered under Ohio R.C. [3301.16][ORC Section
+            3301.16];
 
             2. _(2)_ Any nonchartered school that during the preceding year
             filed with the Department of Education in compliance with O.A.C. §
@@ -1247,7 +1279,8 @@ follows:
 
     5. _(5)_ At a speed exceeding the posted speed limit upon a highway,
     expressway or freeway for which the Director has determined and declared a
-    speed limit pursuant to Ohio R.C. 4511.21(I)(2) or (L)(2).
+    speed limit pursuant to Ohio R.C. [4511.21(I)(2)][ORC Section 4511.21] or
+    [(L)(2)][ORC Section 4511.21].
 
 5. _(e)_ In every charge of violation of this section the affidavit and warrant
 shall specify the time, place and speed at which the defendant is alleged to
@@ -1274,14 +1307,14 @@ or established pursuant to this section, it shall then consider whether the
 evidence supports a conviction under subsection (d) hereof.
 
 7. _(g)_ Points shall be assessed for violation of a limitation under subsection
-(d) hereof in accordance with Ohio R.C. 4510.036.
+(d) hereof in accordance with Ohio R.C. [4510.036][ORC Section 4510.036].
 
-8. _(h)_ Whenever, in accordance with Ohio R.C. 4511.21 or this section, the
-speed limitations as established herein have been altered, either higher or
-lower, and the appropriate signs giving notice have been erected as required,
-operators of motor vehicles shall be governed by the speed limitations set forth
-on such signs. It is prima-facie unlawful for any person to exceed the speed
-limits posted upon such signs.
+8. _(h)_ Whenever, in accordance with Ohio R.C. [4511.21][ORC Section 4511.21]
+or this section, the speed limitations as established herein have been altered,
+either higher or lower, and the appropriate signs giving notice have been
+erected as required, operators of motor vehicles shall be governed by the speed
+limitations set forth on such signs. It is prima-facie unlawful for any person
+to exceed the speed limits posted upon such signs.
 
 9. _(i)_ As used in this section:
 
@@ -1321,36 +1354,38 @@ limits posted upon such signs.
 
         2. _(B)_ If, within one year of the offense, the offender previously has
         been convicted of or pleaded guilty to two violations of any provision
-        of this section or of any provision of Ohio R.C. 4511.21 or a municipal
-        ordinance that is substantially similar to any provision of this
-        section, a misdemeanor of the fourth degree;
+        of this section or of any provision of Ohio R.C. [4511.21][ORC Section
+        4511.21] or a municipal ordinance that is substantially similar to any
+        provision of this section, a misdemeanor of the fourth degree;
 
         3. _(C)_ If, within one year of the offense, the offender previously has
         been convicted of or pleaded guilty to three or more violations of any
-        provision of this section or of any provision of Ohio R.C. 4511.21 or a
-        municipal ordinance that is substantially similar to any provision of
-        this section, a misdemeanor of the third degree.
+        provision of this section or of any provision of Ohio R.C. [4511.21][ORC
+        Section 4511.21] or a municipal ordinance that is substantially similar
+        to any provision of this section, a misdemeanor of the third degree.
 
     2. _(2)_ If the offender has not previously been convicted of or pleaded
-    guilty to a violation of any provision of Ohio R.C. 4511.21 or of any
-    provision of a municipal ordinance that is substantially similar to Ohio
-    R.C. 4511.21 and operated a motor vehicle faster than thirty-five miles an
-    hour in a business district of a municipal corporation, faster than fifty
-    miles an hour in other portions of a municipal corporation, or faster than
-    thirty-five miles an hour in a school zone during recess or while children
-    are going to or leaving school during the school's opening or closing hours,
-    a misdemeanor of the fourth degree.
+    guilty to a violation of any provision of Ohio R.C. [4511.21][ORC Section
+    4511.21] or of any provision of a municipal ordinance that is substantially
+    similar to Ohio R.C. [4511.21][ORC Section 4511.21] and operated a motor
+    vehicle faster than thirty-five miles an hour in a business district of a
+    municipal corporation, faster than fifty miles an hour in other portions of
+    a municipal corporation, or faster than thirty-five miles an hour in a
+    school zone during recess or while children are going to or leaving school
+    during the school's opening or closing hours, a misdemeanor of the fourth
+    degree.
 
     3. _(3)_ Notwithstanding subsection (j)(1) of this section, if the offender
     operated a motor vehicle in a construction zone where a sign was then posted
-    in accordance with Ohio R.C. 4511.98, the court, in addition to all other
-    penalties provided by law, shall impose upon the offender a fine of two
-    times the usual amount imposed for the violation. No court shall impose a
-    fine of two times the usual amount imposed for the violation upon an
-    offender if the offender alleges, in an affidavit filed with the court prior
-    to the offender's sentencing, that the offender is indigent and is unable to
-    pay the fine imposed pursuant to this subsection and if the court determines
-    that the offender is an indigent person and unable to pay the fine.
+    in accordance with Ohio R.C. [4511.98][ORC Section 4511.98], the court, in
+    addition to all other penalties provided by law, shall impose upon the
+    offender a fine of two times the usual amount imposed for the violation. No
+    court shall impose a fine of two times the usual amount imposed for the
+    violation upon an offender if the offender alleges, in an affidavit filed
+    with the court prior to the offender's sentencing, that the offender is
+    indigent and is unable to pay the fine imposed pursuant to this subsection
+    and if the court determines that the offender is an indigent person and
+    unable to pay the fine.
 
     4. _(4)_ If the offender commits the offense while distracted and the
     distracting activity is a contributing factor to the commission of the
@@ -1363,10 +1398,10 @@ limits posted upon such signs.
 1. _(a)_ The driver of a motor vehicle, upon approaching a stationary public
 safety vehicle, emergency vehicle, road service vehicle, waste collection
 vehicle, vehicle used by the Public Utilities Commission to conduct motor
-vehicle inspections in accordance with Ohio R.C. 4923.04 and 4923.06 or a
-highway maintenance vehicle that is displaying the appropriate visual signals by
-means of flashing, oscillating or rotating lights, as prescribed in Section
-337.16, shall do either of the following:
+vehicle inspections in accordance with Ohio R.C. [4923.04][ORC Section 4923.04]
+and 4923.06 or a highway maintenance vehicle that is displaying the appropriate
+visual signals by means of flashing, oscillating or rotating lights, as
+prescribed in Section 337.16, shall do either of the following:
 
     1. _(1)_ If the driver of the motor vehicle is traveling on a street or
     highway that consists of at least two lanes that carry traffic in the same
@@ -1376,7 +1411,8 @@ means of flashing, oscillating or rotating lights, as prescribed in Section
     adjacent to that of the stationary public safety vehicle, emergency vehicle,
     road service vehicle, waste collection vehicle, vehicle used by the Public
     Utilities Commission to conduct motor vehicle inspections in accordance with
-    Ohio R.C. 4923.04 and 4923.06 or a highway maintenance vehicle.
+    Ohio R.C. [4923.04][ORC Section 4923.04] and 4923.06 or a highway
+    maintenance vehicle.
 
     2. _(2)_ If the driver is not traveling on a street or highway of a type
     described in subsection (a)(1) of this section, or if the driver is
@@ -1388,9 +1424,9 @@ means of flashing, oscillating or rotating lights, as prescribed in Section
 2. _(b)_ This section does not relieve the driver of a public safety vehicle,
 emergency vehicle, road service vehicle, waste collection vehicle, vehicle used
 by the Public Utilities Commission to conduct motor vehicle inspections in
-accordance with Ohio R.C. 4923.04 and 4923.06, or a highway maintenance vehicle
-from the duty to drive with due regard for the safety of all persons and
-property upon the highway.
+accordance with Ohio R.C. [4923.04][ORC Section 4923.04] and 4923.06, or a
+highway maintenance vehicle from the duty to drive with due regard for the
+safety of all persons and property upon the highway.
 
 3. _(c)_ No person shall fail to drive a motor vehicle in compliance with
 subsection (a)(1) or (2) of this section when so required by subsection (a) of
@@ -1418,10 +1454,10 @@ this section.
     Section 303.991 of the Traffic Code.
 
 5. _(e)_ The offense established under this section is a strict liability
-offense and Ohio R.C. 2901.20 does not apply. The designation of this offense as
-a strict liability offense shall not be construed to imply that any other
-offense, for which there is no specified degree of culpability, is not a strict
-liability offense.\
+offense and Ohio R.C. [2901.20][ORC Section 2901.20] does not apply. The
+designation of this offense as a strict liability offense shall not be construed
+to imply that any other offense, for which there is no specified degree of
+culpability, is not a strict liability offense.\
 (ORC 4511.213)
 
 ## 333.04   Stopping vehicle; slow speed; posted minimum speeds
@@ -1431,13 +1467,13 @@ speed as to impede or block the normal and reasonable movement of traffic,
 except when stopping or reduced speed is necessary for safe operation or to
 comply with law.
 
-2. _(b)_ Whenever, in accordance with Ohio R.C. 4511.22(B), the minimum speed
-limit of a controlled-access highway, expressway or freeway has been declared
-and the appropriate signs giving notice have been erected as required, operators
-of motor vehicles shall be governed by the speed limitations set forth on such
-signs. No person shall operate a motor vehicle below the speed limits posted
-upon such signs except when necessary for safe operation or in compliance with
-law.
+2. _(b)_ Whenever, in accordance with Ohio R.C. [4511.22(B)][ORC Section
+4511.22], the minimum speed limit of a controlled-access highway, expressway or
+freeway has been declared and the appropriate signs giving notice have been
+erected as required, operators of motor vehicles shall be governed by the speed
+limitations set forth on such signs. No person shall operate a motor vehicle
+below the speed limits posted upon such signs except when necessary for safe
+operation or in compliance with law.
 
 3. _(c)_ In a case involving a violation of this section, the trier of fact, in
 determining whether the vehicle was being operated at an unreasonably slow
@@ -1534,11 +1570,11 @@ privilege imposed under this subsection.\
 motor vehicle upon any public or private property used by the public for
 vehicular travel or parking knowing or having reasonable cause to believe that
 the motor vehicle has been ordered immobilized pursuant to an immobilization
-order issued under Ohio R.C. 4503.233.
+order issued under Ohio R.C. [4503.233][ORC Section 4503.233].
 
 2. _(b)_ A motor vehicle that is operated by a person during a violation of
 subsection (a) hereof shall be criminally forfeited in accordance with the
-procedures contained in Ohio R.C. 4503.234.
+procedures contained in Ohio R.C. [4503.234][ORC Section 4503.234].
 
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the second
 degree.\
@@ -1591,7 +1627,54 @@ section shall not apply when:
     of their work.\
     (Ord. 2015-03. Passed 3-9-15.)
 
-[ORC Chapter 2929]:<https://codes.ohio.gov/ohio-revised-code/chapter-2929/>
-[ORC Chapter 5119]:<https://codes.ohio.gov/ohio-revised-code/chapter-5119/>
+[ORC Chapter 2929]:<https://codes.ohio.gov/ohio-revised-code/chapter-2929>
+[ORC Chapter 5119]:<https://codes.ohio.gov/ohio-revised-code/chapter-5119>
+[ORC Section 1547.11]:<https://codes.ohio.gov/ohio-revised-code/section-1547.11>
+[ORC Section 2317.02]:<https://codes.ohio.gov/ohio-revised-code/section-2317.02>
+[ORC Section 2901.20]:<https://codes.ohio.gov/ohio-revised-code/section-2901.20>
+[ORC Section 2903.04]:<https://codes.ohio.gov/ohio-revised-code/section-2903.04>
+[ORC Section 2903.06]:<https://codes.ohio.gov/ohio-revised-code/section-2903.06>
+[ORC Section 2903.07]:<https://codes.ohio.gov/ohio-revised-code/section-2903.07>
+[ORC Section 2903.08]:<https://codes.ohio.gov/ohio-revised-code/section-2903.08>
+[ORC Section 2923.16]:<https://codes.ohio.gov/ohio-revised-code/section-2923.16>
+[ORC Section 2929.01]:<https://codes.ohio.gov/ohio-revised-code/section-2929.01>
+[ORC Section 2929.18]:<https://codes.ohio.gov/ohio-revised-code/section-2929.18>
 [ORC Section 2929.21]:<https://codes.ohio.gov/ohio-revised-code/section-2929.21>
+[ORC Section 2929.24]:<https://codes.ohio.gov/ohio-revised-code/section-2929.24>
+[ORC Section 2929.25]:<https://codes.ohio.gov/ohio-revised-code/section-2929.25>
 [ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
+[ORC Section 2941.1416]:<https://codes.ohio.gov/ohio-revised-code/section-2941.1416>
+[ORC Section 3301.16]:<https://codes.ohio.gov/ohio-revised-code/section-3301.16>
+[ORC Section 3701.143]:<https://codes.ohio.gov/ohio-revised-code/section-3701.143>
+[ORC Section 3719.011]:<https://codes.ohio.gov/ohio-revised-code/section-3719.011>
+[ORC Section 4301.01]:<https://codes.ohio.gov/ohio-revised-code/section-4301.01>
+[ORC Section 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
+[ORC Section 4503.231]:<https://codes.ohio.gov/ohio-revised-code/section-4503.231>
+[ORC Section 4503.231]:<https://codes.ohio.gov/ohio-revised-code/section-4503.231>
+[ORC Section 4503.233]:<https://codes.ohio.gov/ohio-revised-code/section-4503.233>
+[ORC Section 4503.233]:<https://codes.ohio.gov/ohio-revised-code/section-4503.233>
+[ORC Section 4503.234]:<https://codes.ohio.gov/ohio-revised-code/section-4503.234>
+[ORC Section 4503.234]:<https://codes.ohio.gov/ohio-revised-code/section-4503.234>
+[ORC Section 4506.01]:<https://codes.ohio.gov/ohio-revised-code/section-4506.01>
+[ORC Section 4509.01]:<https://codes.ohio.gov/ohio-revised-code/section-4509.01>
+[ORC Section 4510.01]:<https://codes.ohio.gov/ohio-revised-code/section-4510.01>
+[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
+[ORC Section 4510.13]:<https://codes.ohio.gov/ohio-revised-code/section-4510.13>
+[ORC Section 4510.021]:<https://codes.ohio.gov/ohio-revised-code/section-4510.021>
+[ORC Section 4510.022]:<https://codes.ohio.gov/ohio-revised-code/section-4510.022>
+[ORC Section 4510.022]:<https://codes.ohio.gov/ohio-revised-code/section-4510.022>
+[ORC Section 4510.036]:<https://codes.ohio.gov/ohio-revised-code/section-4510.036>
+[ORC Section 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
+[ORC Section 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
+[ORC Section 4511.21]:<https://codes.ohio.gov/ohio-revised-code/section-4511.21>
+[ORC Section 4511.22]:<https://codes.ohio.gov/ohio-revised-code/section-4511.22>
+[ORC Section 4511.98]:<https://codes.ohio.gov/ohio-revised-code/section-4511.98>
+[ORC Section 4511.191]:<https://codes.ohio.gov/ohio-revised-code/section-4511.191>
+[ORC Section 4511.191]:<https://codes.ohio.gov/ohio-revised-code/section-4511.191>
+[ORC Section 4511.192]:<https://codes.ohio.gov/ohio-revised-code/section-4511.192>
+[ORC Section 4511.193]:<https://codes.ohio.gov/ohio-revised-code/section-4511.193>
+[ORC Section 4729.041]:<https://codes.ohio.gov/ohio-revised-code/section-4729.041>
+[ORC Section 4765.01]:<https://codes.ohio.gov/ohio-revised-code/section-4765.01>
+[ORC Section 4923.04]:<https://codes.ohio.gov/ohio-revised-code/section-4923.04>
+[ORC Section 5119.21]:<https://codes.ohio.gov/ohio-revised-code/section-5119.21>
+[ORC Section 5119.38]:<https://codes.ohio.gov/ohio-revised-code/section-5119.38>

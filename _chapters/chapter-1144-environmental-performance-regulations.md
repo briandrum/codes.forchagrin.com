@@ -34,7 +34,8 @@ and 1340 of the Building Code.
 1. _(a)_ **Outdoor Lighting.** Outdoor lighting shall comply with Chapter 1150
 of this Planning and Zoning Code.
 
-2. _(b)_ **Noise.** No use shall emit noise in violation of [Section 509.08][].
+2. _(b)_ **Noise.** No use shall emit noise in violation of [Section 509.08][CF
+Section 509.08].
 
 3. _(c)_ **Fire, Explosive and Radioactive Hazards.** Storage, handling and use
 of flammable and explosive material shall be conducted with adequate safeguards
@@ -60,8 +61,8 @@ beyond the lot occupied by the use.
 6. _(f)_ **Air-Borne Pollution.** There shall be no emissions of noxious, toxic
 or corrosive fumes or gases and no emissions of dust or other particulate matter
 injurious to health, vegetation or property beyond the lot occupied by the use.
-Stack and vent emissions are further regulated in [Section 1331.05][] of the
-Building Code.
+Stack and vent emissions are further regulated in [Section 1331.05][CF Section
+1331.05] of the Building Code.
 
 7. _(g)_ **Liquid Wastes.** Liquid wastes or sewerage shall not be discharged
 into a reservoir, stream or other open body of water or into a storm or sanitary
@@ -112,5 +113,5 @@ period of time as determined by the Administrator in accordance with Chapter
 1109.07 of this Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[Section 509.08]:</chapters/chapter-509-disorderly-conduct-and-peace-disturbance/#50908-unnecessary-noise>
-[Section 1331.05]:</chapters/chapter-1331-air-pollution/#133105-stack-and-vent-emissions>
+[CF Section 509.08]:</chapters/chapter-509-disorderly-conduct-and-peace-disturbance/#50908-unnecessary-noise>
+[CF Section 1331.05]:</chapters/chapter-1331-air-pollution/#133105-stack-and-vent-emissions>

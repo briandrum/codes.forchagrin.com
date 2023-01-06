@@ -314,5 +314,5 @@ Historic Preservation Regulations.
 of incidental signs as permitted by Chapter 1143, Signs.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
-[Section 1109.05]:</chapters/chapter-1109-administration-and-enforcement/#110905-review-and-approval-procedures>
+[CF Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
+[CF Section 1109.05]:</chapters/chapter-1109-administration-and-enforcement/#110905-review-and-approval-procedures>

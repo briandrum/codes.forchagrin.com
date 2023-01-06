@@ -15,7 +15,7 @@ title: "Chapter 1351: Safety During Building Operations"
 
 ## Cross references
 
-* Removal of unsafe structures - see Ohio R.C. 715.26(B), 715.261
+* Removal of unsafe structures - see Ohio R.C. [715.26(B)][ORC Section 715.26], [715.261][ORC Section 715.261]
 * Inspection of dangerous equipment and structures - see BLDG. 1303.08
 
 ## 1351.01   Provisions for safety of employees
@@ -56,7 +56,9 @@ sufficient to prevent the accumulation of mud on the wheels of such vehicles.\
 
 ## 1351.99   Penalty
 
-(Editor's note: See [Section 1303.99][] for general Code penalty if no specific
-penalty is provided.)
+(Editor's note: See [Section 1303.99][CF Section 1303.99] for general Code
+penalty if no specific penalty is provided.)
 
-[Section 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
+[CF Section 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
+[ORC Section 715.26]:<https://codes.ohio.gov/ohio-revised-code/section-715.26>
+[ORC Section 715.261]:<https://codes.ohio.gov/ohio-revised-code/section-715.261>

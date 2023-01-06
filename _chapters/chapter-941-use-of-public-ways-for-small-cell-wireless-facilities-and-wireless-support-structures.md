@@ -792,4 +792,4 @@ remedies that the Village may have, at law or in equity, for enforcement of this
 Chapter.\
 (Ord. 2019-10. Passed 1-14-19.)
 
-[ORC Chapter 4939]:<https://codes.ohio.gov/ohio-revised-code/chapter-4939/>
+[ORC Chapter 4939]:<https://codes.ohio.gov/ohio-revised-code/chapter-4939>

@@ -138,5 +138,5 @@ meeting.
 
 ([Ord. 2022-04. Passed 2-14-22.][])
 
-[Ord. 2022-01. Passed 1-3-22.]:</ordinance-2022-01/>
-[Ord. 2022-04. Passed 2-14-22.]:</ordinance-2022-04/>
+[Ord. 2022-01. Passed 1-3-22.]:</ordinance-2022-01>
+[Ord. 2022-04. Passed 2-14-22.]:</ordinance-2022-04>

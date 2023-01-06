@@ -178,9 +178,10 @@ proceeding in the same direction:
 
     3. _(3)_ The operator of a vehicle overtaking and passing another vehicle
     proceeding in the same direction on a divided street or highway as defined
-    in [Section 331.31][], a limited access highway as defined in Ohio R.C.
-    5511.02 or a highway with four or more traffic lanes, is not required to
-    signal audibly to the vehicle being overtaken and passed.
+    in [Section 331.31][CF Section 331.31], a limited access highway as defined
+    in Ohio R.C. [5511.02][ORC Section 5511.02] or a highway with four or more
+    traffic lanes, is not required to signal audibly to the vehicle being
+    overtaken and passed.
 
 2. _(b)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
@@ -310,7 +311,7 @@ indicate the beginning and end of each no passing zone.
     When appropriate signs or markings indicating hazardous or no passing zones
     are in place and clearly visible, every operator of a vehicle shall obey the
     directions of the signs or markings, notwithstanding the distance set out in
-    [Section 331.06][].
+    [Section 331.06][CF Section 331.06].
 
 2. _(b)_ Subsection (a) of this section does not apply when all of the following
 apply:
@@ -323,7 +324,8 @@ apply:
 
     3. _(3)_ There is sufficient clear sight distance to the left of the center
     or center line of the roadway to meet the overtaking and passing provisions
-    of [Section 331.05][], considering the speed of the slower vehicle.
+    of [Section 331.05][CF Section 331.05], considering the speed of the slower
+    vehicle.
 
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
@@ -499,11 +501,11 @@ misdemeanor of the third degree.
 
 ## 331.12   "U" turns restricted
 
-1. _(a)_ Except as provided in [Section 313.03][] and subsection (b) hereof, no
-vehicle shall be turned so as to proceed in the opposite direction upon any
-curve, or upon the approach to or near the crest of a grade, if the vehicle
-cannot be seen within 500 feet by the driver of any other vehicle approaching
-from either direction.
+1. _(a)_ Except as provided in [Section 313.03][CF Section 313.03] and
+subsection (b) hereof, no vehicle shall be turned so as to proceed in the
+opposite direction upon any curve, or upon the approach to or near the crest of
+a grade, if the vehicle cannot be seen within 500 feet by the driver of any
+other vehicle approaching from either direction.
 
 2. _(b)_ The driver of an emergency vehicle or public safety vehicle, when
 responding to an emergency call, may turn the vehicle so as to proceed in the
@@ -804,18 +806,18 @@ coroner's vehicle from the duty to drive with due regard for the safety of all
 persons and property upon the street.
 
 3. _(c)_ This section applies to a coroner's vehicle only when the vehicle is
-operated in accordance with Ohio R.C. 4513.171. As used in this section,
-"coroner's vehicle" means a vehicle used by a coroner, deputy coroner or
-coroner's investigator that is equipped with a flashing, oscillating or rotating
-red or blue light and a siren, exhaust whistle, or bell capable of giving an
-audible signal.
+operated in accordance with Ohio R.C. [4513.171][ORC Section 4513.171]. As used
+in this section, "coroner's vehicle" means a vehicle used by a coroner, deputy
+coroner or coroner's investigator that is equipped with a flashing, oscillating
+or rotating red or blue light and a siren, exhaust whistle, or bell capable of
+giving an audible signal.
 
-4. _(d)_ Except as otherwise provided in this subsection or [Section 331.211][],
-whoever violates subsection (a) of this section is guilty of a misdemeanor of
-the fourth degree on a first offense. On a second offense within one year after
-the first offense, the person is guilty of a misdemeanor of the third degree,
-and, on each subsequent offense within one year after the first offense, the
-person is guilty of a misdemeanor of the second degree.\
+4. _(d)_ Except as otherwise provided in this subsection or [Section 331.211][CF
+Section 331.211], whoever violates subsection (a) of this section is guilty of a
+misdemeanor of the fourth degree on a first offense. On a second offense within
+one year after the first offense, the person is guilty of a misdemeanor of the
+third degree, and, on each subsequent offense within one year after the first
+offense, the person is guilty of a misdemeanor of the second degree.\
 (ORC 4511.45)
 
 ### 331.211   Report of vehicle failing to yield right of way to public safety vehicle
@@ -866,8 +868,8 @@ violation occurred.
 4. _(d)_ As used in this section:
 
     1. _(1)_ "License plate" includes any temporary motor vehicle license
-    registration issued under Ohio R.C. 4503.182 or similar law of another
-    jurisdiction.
+    registration issued under Ohio R.C. [4503.182][ORC Section 4503.182] or
+    similar law of another jurisdiction.
 
     2. _(2)_ "Public safety vehicle" does not include an unmarked public safety
     vehicle or a vehicle used by a public law enforcement officer or other
@@ -1253,21 +1255,21 @@ resumes motion, or until signaled by the school bus driver to proceed.
     extended stop warning sign as required by subsection (b) hereof.
 
 2. _(b)_ Every school bus shall be equipped with amber and red visual signals
-meeting the requirements of Ohio R.C. 4511.771, and an automatically extended
-stop warning sign of a type approved by the State Board of Education, which
-shall be actuated by the driver of the bus whenever but only whenever the bus is
-stopped or stopping on the roadway for the purpose of receiving or discharging
-school children, persons attending programs offered by community boards of
-mental health and County boards of developmental disabilities, or children
-attending programs offered by head start agencies. A school bus driver shall not
-actuate the visual signals or the stop warning sign in designated school bus
-loading areas where the bus is entirely off the roadway or at school buildings
-when children or persons attending programs offered by community boards of
-mental health and County boards of developmental disabilities are loading or
-unloading at curbside or at buildings when children attending programs offered
-by head start agencies are boarding or unloading at curbside. The visual signals
-and stop warning sign shall be synchronized or otherwise operated as required by
-rule of the Board.
+meeting the requirements of Ohio R.C. [4511.771][ORC Section 4511.771], and an
+automatically extended stop warning sign of a type approved by the State Board
+of Education, which shall be actuated by the driver of the bus whenever but only
+whenever the bus is stopped or stopping on the roadway for the purpose of
+receiving or discharging school children, persons attending programs offered by
+community boards of mental health and County boards of developmental
+disabilities, or children attending programs offered by head start agencies. A
+school bus driver shall not actuate the visual signals or the stop warning sign
+in designated school bus loading areas where the bus is entirely off the roadway
+or at school buildings when children or persons attending programs offered by
+community boards of mental health and County boards of developmental
+disabilities are loading or unloading at curbside or at buildings when children
+attending programs offered by head start agencies are boarding or unloading at
+curbside. The visual signals and stop warning sign shall be synchronized or
+otherwise operated as required by rule of the Board.
 
 3. _(c)_ Where a highway has been divided into four or more traffic lanes, a
 driver of a vehicle need not stop for a school bus approaching from the opposite
@@ -1291,18 +1293,19 @@ place of safety on the child or person's residence side of the road.
 
 6. _(f)_ As used in this section:
 
-    1. _(1)_ "Head start agency" has the same meaning as in Ohio R.C. 3301.32.
+    1. _(1)_ "Head start agency" has the same meaning as in Ohio R.C.
+    [3301.32][ORC Section 3301.32].
 
     2. _(2)_ "School bus", as used in relation to children who attend a program
     offered by a head start agency, means a bus that is owned and operated by a
     head start agency, is equipped with an automatically extended stop warning
     sign of a type approved by the State Board of Education, is painted the
-    color and displays the markings described in Ohio R.C. 4511.77, and is
-    equipped with amber and red visual signals meeting the requirements of Ohio
-    R.C. 4511.771, irrespective of whether or not the bus has fifteen or more
-    children aboard at any time. "School bus" does not include a van owned and
-    operated by a head start agency, irrespective of its color, lights, or
-    markings.
+    color and displays the markings described in Ohio R.C. [4511.77][ORC Section
+    4511.77], and is equipped with amber and red visual signals meeting the
+    requirements of Ohio R.C. [4511.771][ORC Section 4511.771], irrespective of
+    whether or not the bus has fifteen or more children aboard at any time.
+    "School bus" does not include a van owned and operated by a head start
+    agency, irrespective of its color, lights, or markings.
 
 7. _(g)_
 
@@ -1318,11 +1321,11 @@ place of safety on the child or person's residence side of the road.
     section a class seven suspension of the offender's driver's license,
     commercial driver's license, temporary instruction permit, probationary
     license, or nonresident operating privilege from the range specified in
-    division (a)(7) of Ohio R.C. 4510.02. When a license is suspended under this
-    section, the court or mayor shall cause the offender to deliver the license
-    to the court, and the court or clerk of the court immediately shall forward
-    the license to the Registrar of Motor Vehicles, together with notice of the
-    court's action.\
+    division (a)(7) of Ohio R.C. [4510.02][ORC Section 4510.02]. When a license
+    is suspended under this section, the court or mayor shall cause the offender
+    to deliver the license to the court, and the court or clerk of the court
+    immediately shall forward the license to the Registrar of Motor Vehicles,
+    together with notice of the court's action.\
     (ORC 4511.75)
 
 ## 331.39   Driving across grade crossing
@@ -1434,10 +1437,11 @@ degree.\
     4. _(4)_ Except as otherwise provided in this subsection (a)(4), whoever
     violates subsection (a) hereof is guilty of a minor misdemeanor. If the
     offender previously has been convicted of or pleaded guilty to one or more
-    violations of subsection (a) hereof or Ohio R.C. 4511.76, 4511.761,
-    4511.762, 4511.764, 4511.77 or 4511.79, or a municipal ordinance that is
-    substantially similar to any of those sections, whoever violates subsection
-    (a) hereof is guilty of a misdemeanor of the fourth degree.\
+    violations of subsection (a) hereof or Ohio R.C. [4511.76][ORC Section
+    4511.76], 4511.761, 4511.762, 4511.764, 4511.77 or 4511.79, or a municipal
+    ordinance that is substantially similar to any of those sections, whoever
+    violates subsection (a) hereof is guilty of a misdemeanor of the fourth
+    degree.\
     (ORC 4511.63)
 
 2. _(b)_
@@ -1635,37 +1639,50 @@ proper court to answer the charge.
     misdemeanor.
 
     2. _(2)_ In addition to the financial sanctions authorized or required under
-    [Section 501.99][] and to any costs otherwise authorized or required under
-    any provision of law, the court imposing the sentence upon an offender who
-    is convicted of or pleads guilty to a violation of subsection (a) hereof
-    shall order the offender to reimburse one or more rescuers for the cost any
-    such rescuer incurred in rescuing the person, excluding any cost of
-    transporting the rescued person to a hospital or other facility for
+    [Section 501.99][CF Section 501.99] and to any costs otherwise authorized or
+    required under any provision of law, the court imposing the sentence upon an
+    offender who is convicted of or pleads guilty to a violation of subsection
+    (a) hereof shall order the offender to reimburse one or more rescuers for
+    the cost any such rescuer incurred in rescuing the person, excluding any
+    cost of transporting the rescued person to a hospital or other facility for
     treatment of injuries, up to a cumulative maximum of two thousand dollars
     ($2,000). If more than one rescuer was involved in the emergency response,
     the court shall allocate the reimbursement proportionately, according to the
     cost each rescuer incurred. A financial sanction imposed under this section
     is a judgment in favor of the rescuer and, subject to a determination of
-    indigency under division (B) of Ohio R.C. 2929.28, a rescuer may collect the
-    financial sanction in the same manner as provided in Ohio R.C. 2929.28.
+    indigency under division (B) of Ohio R.C. [2929.28][ORC Section 2929.28], a
+    rescuer may collect the financial sanction in the same manner as provided in
+    Ohio R.C. [2929.28][ORC Section 2929.28].
 
 4. _(d)_ As used in this section:
 
     1. _(1)_ "Emergency medical service organization", "firefighting agency" and
-    "private fire company" have the same meanings as in Ohio R.C. 9.60.
+    "private fire company" have the same meanings as in Ohio R.C. [9.60][ORC
+    Section 9.60].
 
     2. _(2)_ "Rescuer" means a state agency, political subdivision, firefighting
     service, private fire company, or emergency medical service organization.\
     (ORC 4511.714.)
 
-[ORC Chapter 4511]:<https://codes.ohio.gov/ohio-revised-code/chapter-4511/>
-[Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
-[Section 313.03]:</chapters/chapter-313-traffic-control-devices/#31303-traffic-signal-indications>
+[CF Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
+[CF Section 313.03]:</chapters/chapter-313-traffic-control-devices/#31303-traffic-signal-indications>
+[CF Section 331.05]:</chapters/chapter-331-operation-generally/#33105-overtaking-passing-to-left-of-center>
+[CF Section 331.06]:</chapters/chapter-331-operation-generally/#33106-additional-restrictions-on-driving-upon-left-side-of-roadway>
+[CF Section 331.21]:</chapters/chapter-331-operation-generally/#33121-right-of-way-of-public-safety-or-coroners-vehicle>
+[CF Section 331.31]:</chapters/chapter-331-operation-generally/#33131-driving-upon-divided-roadways>
+[CF Section 331.211]:</chapters/chapter-331-operation-generally/#331211-report-of-vehicle-failing-to-yield-right-of-way-to-public-safety-vehicle>
+[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[ORC Chapter 4511]:<https://codes.ohio.gov/ohio-revised-code/chapter-4511>
+[ORC Section 9.60]:<https://codes.ohio.gov/ohio-revised-code/section-9.60>
+[ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
+[ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
+[ORC Section 3301.32]:<https://codes.ohio.gov/ohio-revised-code/section-3301.32>
+[ORC Section 4503.182]:<https://codes.ohio.gov/ohio-revised-code/section-4503.182>
+[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
+[ORC Section 4511.76]:<https://codes.ohio.gov/ohio-revised-code/section-4511.76>
+[ORC Section 4511.77]:<https://codes.ohio.gov/ohio-revised-code/section-4511.77>
+[ORC Section 4511.771]:<https://codes.ohio.gov/ohio-revised-code/section-4511.771>
+[ORC Section 4513.171]:<https://codes.ohio.gov/ohio-revised-code/section-4513.171>
+[ORC Section 5511.02]:<https://codes.ohio.gov/ohio-revised-code/section-5511.02>
 [Section 331.01(a)(2)]:</chapters/chapter-331-operation-generally/#33101(a)(2)>
-[Section 331.05]:</chapters/chapter-331-operation-generally/#33105-overtaking-passing-to-left-of-center>
-[Section 331.06]:</chapters/chapter-331-operation-generally/#33106-additional-restrictions-on-driving-upon-left-side-of-roadway>
-[Section 331.21]:</chapters/chapter-331-operation-generally/#33121-right-of-way-of-public-safety-or-coroners-vehicle>
 [Section 331.21(a)]:</chapters/chapter-331-operation-generally/#33121(a)>
-[Section 331.211]:</chapters/chapter-331-operation-generally/#331211-report-of-vehicle-failing-to-yield-right-of-way-to-public-safety-vehicle>
-[Section 331.31]:</chapters/chapter-331-operation-generally/#33131-driving-upon-divided-roadways>
-[Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>

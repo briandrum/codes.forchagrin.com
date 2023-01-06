@@ -163,7 +163,7 @@ another, and for a specified purpose, of any designated part of his property.
 
 18. _(18)_ "Engineer" means a person registered to practice professional
 engineering by the State Board of Registration as specified in Ohio R.C.
-4733.14.
+[4733.14][ORC Section 4733.14].
 
 19. _(19)_ "Final plat" means the drawing on which the applicant's plan of
 subdivision is presented to the Planning and Zoning Commission for approval.
@@ -456,7 +456,7 @@ supplied in addition to the requirements in [Section 1161.04(c)][].
     is in effect.
 
     8. _(8)_ Certification of compliance with environmental performance
-    regulations as required in [Section 1144.03][].
+    regulations as required in [Section 1144.03][CF Section 1144.03].
 
     9. _(9)_ For all uses proposed or to be retained: building and structure
     heights, number of parking spaces, number of dwelling units, total building
@@ -626,7 +626,8 @@ the final plat within thirty days to the Commission for it final approval. If a
 plat is refused by the Commission, the person submitting the plat which the
 Commission refused to approve may file with the Administrator an application for
 appeal of the decision, for review by the Board of Zoning Appeals within thirty
-days of Commission refusal of plat, as required in [Section 1111.03][].
+days of Commission refusal of plat, as required in [Section 1111.03][CF Section
+1111.03].
 
 18. _(r)_ **Transmittal of Copies.** When the final plat has been approved by
 the Planning and Zoning Commission, the original tracing shall be returned to
@@ -1183,13 +1184,13 @@ the subdivider.
 
 30. _(dd)_ **Final Inspections.** Upon completion of all improvements, the
 subdivider shall request, in writing, a final inspection by the Village Engineer
-as required under Ohio R.C. 711.091. Such inspection may include core borings
-and related structural tests with respect to paving improvements. Such
-inspections shall include an internal pipe inspection of sanitary and storm
-sewers, two photography, television and hydrostatic tests, the first immediately
-following installation and the second internal pipe inspection at the discretion
-of the Village Engineer. With respect to sewer improvements, these inspections
-shall be completed at the developer's expense.\
+as required under Ohio R.C. [711.091][ORC Section 711.091]. Such inspection may
+include core borings and related structural tests with respect to paving
+improvements. Such inspections shall include an internal pipe inspection of
+sanitary and storm sewers, two photography, television and hydrostatic tests,
+the first immediately following installation and the second internal pipe
+inspection at the discretion of the Village Engineer. With respect to sewer
+improvements, these inspections shall be completed at the developer's expense.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
 ## 1161.07   Revisions; enforcement
@@ -1214,11 +1215,11 @@ Regulations.
 
 4. _(d)_ **Schedule of Fees, Charges and Expenses.** Council shall establish a
 schedule of fees, charges and expenses, and a collection procedure for same, and
-other matters pertaining to these Regulations, as stated in [Section 1109.08][].
-The schedule of fees shall be posted in the office of Village Clerk and may be
-altered or amended only by Council. Until all applicable fees, charges and
-expenses have been paid in full, no action shall be taken on any application or
-appeal.
+other matters pertaining to these Regulations, as stated in [Section 1109.08][CF
+Section 1109.08]. The schedule of fees shall be posted in the office of Village
+Clerk and may be altered or amended only by Council. Until all applicable fees,
+charges and expenses have been paid in full, no action shall be taken on any
+application or appeal.
 
 5. _(e)_ **Variances.** Chapter 1111 shall be adhered to in the regulation of
 subdivision appeals and variances.
@@ -1406,11 +1407,13 @@ Municipality, in addition to any other criminal or civil remedies available
 under law.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
-[ORC Chapter 711]:<https://codes.ohio.gov/ohio-revised-code/chapter-711/>
-[Section 1109.08]:</chapters/chapter-1109-administration-and-enforcement/#110908-fees-and-deposits>
-[Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
+[CF Section 1109.08]:</chapters/chapter-1109-administration-and-enforcement/#110908-fees-and-deposits>
+[CF Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
+[CF Section 1144.03]:</chapters/chapter-1144-environmental-performance-regulations/#114403-proposed-uses-and-facilities>
+[ORC Chapter 711]:<https://codes.ohio.gov/ohio-revised-code/chapter-711>
+[ORC Section 711.091]:<https://codes.ohio.gov/ohio-revised-code/section-711.091>
+[ORC Section 4733.14]:<https://codes.ohio.gov/ohio-revised-code/section-4733.14>
 [Section 1143.05(b)]:</chapters/chapter-1143-signs/#114305(b)>
-[Section 1144.03]:</chapters/chapter-1144-environmental-performance-regulations/#114403-proposed-uses-and-facilities>
 [Section 1161.04(c)]:</chapters/chapter-1161-subdivision-regulations/#116104(c)>
 [Section 1161.04(d)]:</chapters/chapter-1161-subdivision-regulations/#116104(d)>
 [Section 1161.04(e)]:</chapters/chapter-1161-subdivision-regulations/#116104(e)>

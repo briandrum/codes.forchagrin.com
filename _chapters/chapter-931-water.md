@@ -19,12 +19,12 @@ title: "Chapter 931: Water"
 
 ## Cross references
 
-* Power to provide and regulate system - see Ohio R.C. 715.08, 717.01, 743.01
-* Water pollution - see Ohio R.C. 715.08, 743.24 et seq; GEN. OFF. 521.05
-* Water works mortgage revenue bonds - see Ohio R.C. 715.09 et seq.
-* Compulsory connections - see Ohio R.C. 729.06, 743.23
-* Weekly deposit of water works money collected - see Ohio R.C. 743.06
-* Tampering with hydrants, pipes or meters; unauthorized connections - see Ohio R.C. 4933.22
+* Power to provide and regulate system - see Ohio R.C. [715.08][ORC Section 715.08], 717.01, 743.01
+* Water pollution - see Ohio R.C. [715.08][ORC Section 715.08], 743.24 et seq; GEN. OFF. 521.05
+* Water works mortgage revenue bonds - see Ohio R.C. [715.09][ORC Section 715.09] et seq.
+* Compulsory connections - see Ohio R.C. [729.06][ORC Section 729.06], 743.23
+* Weekly deposit of water works money collected - see Ohio R.C. [743.06][ORC Section 743.06]
+* Tampering with hydrants, pipes or meters; unauthorized connections - see Ohio R.C. [4933.22][ORC Section 4933.22]
 * Interference with system - see GEN. OFF. 521.04
 * Water permits - see BLDG. 1307.07
 * Approval of water connections - see BLDG. 1307.12
@@ -100,3 +100,9 @@ May 9, l 988.)
 Whoever violates any of the provisions of this chapter shall be fined not more
 than five hundred dollars ($500.00) or imprisoned not more than six months, or
 both. Each day such violation continues shall constitute a separate offense.
+
+[ORC Section 715.08]:<https://codes.ohio.gov/ohio-revised-code/section-715.08>
+[ORC Section 715.09]:<https://codes.ohio.gov/ohio-revised-code/section-715.09>
+[ORC Section 729.06]:<https://codes.ohio.gov/ohio-revised-code/section-729.06>
+[ORC Section 743.06]:<https://codes.ohio.gov/ohio-revised-code/section-743.06>
+[ORC Section 4933.22]:<https://codes.ohio.gov/ohio-revised-code/section-4933.22>

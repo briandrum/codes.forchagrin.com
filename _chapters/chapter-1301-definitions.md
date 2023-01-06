@@ -28,7 +28,7 @@ title: "Chapter 1301: Definitions"
 
 ## Cross references
 
-* Ohio State Building Code - see Ohio R.C. 3781.01 et seq; BLDG. Ch. 1323
+* Ohio State Building Code - see Ohio R.C. [3781.01][ORC Section 3781.01] et seq; BLDG. Ch. 1323
 
 ## 1301.01   Definitions generally
 
@@ -148,3 +148,5 @@ foundations by a skeleton or framework of metal.\
 "Street line" means the line of demarcation between a waterfront, public park or
 thoroughfare and land adjacent thereto and abutting thereon.\
 (Ord. 1940-276. Passed 9-9-40.)
+
+[ORC Section 3781.01]:<https://codes.ohio.gov/ohio-revised-code/section-3781.01>

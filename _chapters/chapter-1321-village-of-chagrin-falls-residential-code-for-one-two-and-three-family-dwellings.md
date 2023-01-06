@@ -18,10 +18,10 @@ title: "Chapter 1321: Village of Chagrin Falls Residential Code for One-, Two- a
 
 ## Cross references
 
-* Adoption by reference - see Ohio R.C. 731.231
-* Authority to regulate and inspect building construction, alteration, sanitation, etc. - see Ohio R.C. 715.26 et seq.
-* State building regulations do not prevent municipalities from making further regulations - see Ohio R.C. 3781.01
-* Building standard provisions of Ohio Revised Code - see Ohio R.C. 3781.01 et seq.
+* Adoption by reference - see Ohio R.C. [731.231][ORC Section 731.231]
+* Authority to regulate and inspect building construction, alteration, sanitation, etc. - see Ohio R.C. [715.26][ORC Section 715.26] et seq.
+* State building regulations do not prevent municipalities from making further regulations - see Ohio R.C. [3781.01][ORC Section 3781.01]
+* Building standard provisions of Ohio Revised Code - see Ohio R.C. [3781.01][ORC Section 3781.01] et seq.
 
 ## 1321.01   Definitions
 
@@ -40,7 +40,7 @@ Building Department will not be required to be certified by the Ohio Board of
 Building Standards in order to enforce the Village Code, and the State Code
 will, unless the Village Building Department becomes certified, not be
 applicable within the Municipal Corporation limits of the Village by operation
-of Ohio R.C. 3781.10(A)(2).\
+of Ohio R.C. [3781.10(A)(2)][ORC Section 3781.10].\
 (Ord. 2006-57. Passed 9-25-06; Ord. 2021-07. Passed 1-25-21.)
 
 ## 1321.02   Intent
@@ -60,18 +60,18 @@ general law of the State of Ohio.\
 
 ## 1321.03   Adoption of the village code
 
-Pursuant to Ohio R.C. 731.231, there is hereby adopted by the Council of the
-Village of Chagrin Falls, Ohio, and incorporated by reference for the purpose
-of regulating the construction, alteration, addition, repair, removal,
-demolition, use, location, occupancy and maintenance of one, two- and three-
-family dwellings in the Village, the substance of that certain code known as
-the Residential Code of Ohio for One-, Two- and Three-family Dwellings, adopted
-by rule at Ohio Administrative Code 4101:8, or its current equivalent, as
-adopted by the Ohio Board of Building Standards, which shall serve as the model
-code being particularly adopted and incorporated as if fully set forth herein;
-for purposes of plan review and enforcement it shall be considered as and
-referred to as the "Residential Code of the Village of Chagrin Falls for One-,
-Two- and Three- family Dwellings" (or "Village Code"). The Village
+Pursuant to Ohio R.C. [731.231][ORC Section 731.231], there is hereby adopted by
+the Council of the Village of Chagrin Falls, Ohio, and incorporated by reference
+for the purpose of regulating the construction, alteration, addition, repair,
+removal, demolition, use, location, occupancy and maintenance of one, two- and
+three- family dwellings in the Village, the substance of that certain code known
+as the Residential Code of Ohio for One-, Two- and Three-family Dwellings,
+adopted by rule at Ohio Administrative Code 4101:8, or its current equivalent,
+as adopted by the Ohio Board of Building Standards, which shall serve as the
+model code being particularly adopted and incorporated as if fully set forth
+herein; for purposes of plan review and enforcement it shall be considered as
+and referred to as the "Residential Code of the Village of Chagrin Falls for
+One-, Two- and Three- family Dwellings" (or "Village Code"). The Village
 Administrator shall maintain a current copy of the State Code (as adopted under
 law), for purposes of reference in determining the current law of the Village,
 but no municipal official shall enforce the State Code.\
@@ -129,3 +129,7 @@ dollars ($500.00) or imprisoned up to sixty days, or both.\
 (Ord. 2006-57. Passed 9-25-06.)
 
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
+[ORC Section 715.26]:<https://codes.ohio.gov/ohio-revised-code/section-715.26>
+[ORC Section 731.231]:<https://codes.ohio.gov/ohio-revised-code/section-731.231>
+[ORC Section 3781.01]:<https://codes.ohio.gov/ohio-revised-code/section-3781.01>
+[ORC Section 3781.10]:<https://codes.ohio.gov/ohio-revised-code/section-3781.10>

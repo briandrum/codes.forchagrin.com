@@ -16,7 +16,7 @@ title: "Chapter 919: Private Sewage Disposal Systems"
 
 ## Cross references
 
-* Power to license sewer tappers and vault cleaners - see Ohio R.C. 715.27
+* Power to license sewer tappers and vault cleaners - see Ohio R.C. [715.27][ORC Section 715.27]
 
 ## 919.01   Permit required; installation; standards
 
@@ -155,3 +155,5 @@ violation continues shall constitute a separate offense.
 2. _(b)_ Whoever violates any provision of this chapter shall become liable to
 the Municipality for any expense, loss or damage occasioned the Municipality by
 reason of such violation.
+
+[ORC Section 715.27]:<https://codes.ohio.gov/ohio-revised-code/section-715.27>

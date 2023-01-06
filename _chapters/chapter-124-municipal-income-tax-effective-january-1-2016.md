@@ -69,7 +69,8 @@ allocated into the General Fund.
     uniform rate on all persons residing in or earning or receiving income in
     the Municipality. The tax is levied on income, qualifying wages, commissions
     and other compensation, and on net profits as hereinafter provided in
-    [Section 124.03][] of this chapter and other sections as they may apply.
+    [Section 124.03][CF Section 124.03] of this chapter and other sections as
+    they may apply.
 
     2. _(2)_ Intentionally left blank.
 
@@ -85,13 +86,13 @@ consistent with, the provisions and limitations of Ohio Revised Code 718 (ORC
 1. _(A)_ Any term used in this Chapter that is not otherwise defined in this
 Chapter has the same meaning as when used in a comparable context in laws of the
 United States relating to federal income taxation or in [Title LVII][ORC Title
-57] of the ORC, unless a different meaning is clearly required. If a term used
-in this Chapter that is not otherwise defined in this Chapter is used in a
+57] of the Ohio R.C., unless a different meaning is clearly required. If a term
+used in this Chapter that is not otherwise defined in this Chapter is used in a
 comparable context in both the laws of the United States relating to federal
-income tax and in [Title LVII][ORC Title 57] of the ORC and the use is not
+income tax and in [Title LVII][ORC Title 57] of the Ohio R.C. and the use is not
 consistent, then the use of the term in the laws of the United States relating
 to federal income tax shall control over the use of the term in [Title LVII][ORC
-Title 57] of the ORC.
+Title 57] of the Ohio R.C.
 
 2. _(B)_ The singular shall include the plural, and the masculine shall include
 the feminine and the gender-neutral.
@@ -144,7 +145,7 @@ the feminine and the gender-neutral.
         7. _(g)_ Deduct, to the extent not otherwise deducted or excluded in
         computing federal taxable income, any income derived from a transfer
         agreement or from the enterprise transferred under that agreement under
-        Section 4313.02 of the ORC;
+        [Section 4313.02][ORC Section 4313.02] of the Ohio R.C.;
 
         8. _(h)_ Deduct exempt income to the extent not otherwise deducted or
         excluded in computing adjusted federal income tax.
@@ -153,13 +154,13 @@ the feminine and the gender-neutral.
         or indirectly by the taxpayer and included in the taxpayer's federal
         taxable income unless an affiliated group of corporations includes that
         net profit in the group's federal taxable income in accordance with
-        division (V)(3)(b) of [Section 124.05][].
+        [division (V)(3)(b) of Section 124.05][[Section 124.05(V)(3)(b)].
 
         10. _(j)_ Add any loss incurred by a pass-through entity owned directly
         or indirectly by the taxpayer and included in the taxpayer's federal
         taxable income unless an affiliated group of corporations includes that
         loss in the group's federal taxable income in accordance with division
-        (V)(3) (b) of Section 124.05.
+        (V)(3)(b) of Section 124.05.
 
         If the taxpayer is not a C corporation, is not a disregarded entity that
         has made an election described in division (C)(48)(b) of this section,
@@ -219,11 +220,11 @@ the feminine and the gender-neutral.
     day of March, June, September, or December.
 
     6. _(6)_ "Casino operator" and "casino facility" have the same meanings as
-    in Section 3772.01 of the ORC.
+    in [Section 3772.01][ORC Section 3772.01] of the Ohio R.C.
 
     7. _(7)_ "Certified mail," "express mail," "United States mail," "postal
     service," and similar terms include any delivery service authorized pursuant
-    to Section 5703.056 of the ORC.
+    to [Section 5703.056][ORC Section 5703.056] of the Ohio R.C.
 
     8. _(8)_ "Disregarded entity" means a single member limited liability
     company, a qualifying subchapter S subsidiary, or another entity if the
@@ -255,7 +256,7 @@ the feminine and the gender-neutral.
         disability payments received from private industry or local, state, or
         federal governments or from charitable, religious or educational
         organizations, and the proceeds of sickness, accident, or liability
-        insurance policies. As used in division (C) (12)(c) of this section,
+        insurance policies. As used in division (C)(12)(c) of this section,
         "unemployment compensation" does not include supplemental unemployment
         compensation described in Section 3402(o)(2) of the Internal Revenue
         Code.
@@ -265,13 +266,13 @@ the feminine and the gender-neutral.
         derived from tax-exempt real estate, tax-exempt tangible or intangible
         property, or tax- exempt activities.
 
-        5. _(e)_ Compensation paid under Section 3501.28 or 3501.36 of the ORC
-        to a person serving as a precinct election official to the extent that
-        such compensation does not exceed $1,000 for the taxable year. Such
-        compensation in excess of $1,000 for the taxable year may be subject to
-        taxation by a municipal corporation. A municipal corporation shall not
-        require the payer of such compensation to withhold any tax from that
-        compensation.
+        5. _(e)_ Compensation paid under [Section 3501.28][ORC Section 3501.28]
+        or [3501.36][ORC Section 3501.36] of the Ohio R.C. to a person serving
+        as a precinct election official to the extent that such compensation
+        does not exceed $1,000 for the taxable year. Such compensation in excess
+        of $1,000 for the taxable year may be subject to taxation by a municipal
+        corporation. A municipal corporation shall not require the payer of such
+        compensation to withhold any tax from that compensation.
 
         6. _(f)_ Dues, contributions, and similar payments received by
         charitable, religious, educational, or literary organizations or labor
@@ -284,9 +285,10 @@ the feminine and the gender-neutral.
         lost salaries or wages or compensation from punitive damages.
 
         9. _(i)_ Income of a public utility when that public utility is subject
-        to the tax levied under Section 5727.24 or 5727.30 of the ORC. Division
-        (C)(12)(i) of this section does not apply for purposes of Chapter 5745
-        of the ORC.
+        to the tax levied under [Section 5727.24][ORC Section 5727.24] or
+        [5727.30][ORC Section 5727.30] of the Ohio R.C. Division (C)(12)(i) of
+        this section does not apply for purposes of [Chapter 5745][ORC Chapter
+        5745] of the Ohio R.C.
 
         10. _(j)_ Gains from involuntary conversions, interest on federal
         obligations, items of income subject to a tax levied by the state and
@@ -317,13 +319,13 @@ the feminine and the gender-neutral.
 
         16. _(p)_
 
-            1. _(i)_ Except as provided in divisions (C)(12)(p) (ii), (iii), and
+            1. _(i)_ Except as provided in divisions (C)(12)(p)(ii), (iii), and
             (iv) of this section, qualifying wages described in division (C)(2)
             or (5) of Section 124.04 to the extent the qualifying wages are not
             subject to withholding for the Municipality under either of those
             divisions.
 
-            2. _(ii)_ The exemption provided in division (C)(12)(p) (i) of this
+            2. _(ii)_ The exemption provided in division (C)(12)(p)(i) of this
             section does not apply with respect to the municipal corporation in
             which the employee resided at the time the employee earned the
             qualifying wages.
@@ -332,11 +334,11 @@ the feminine and the gender-neutral.
             section does not apply to qualifying wages that an employer elects
             to withhold under division (C)(4)(b) of Section 124.04.
 
-            4. _(iv)_ The exemption provided in division (C)(12)(p) (i) of this
+            4. _(iv)_ The exemption provided in division (C)(12)(p)(i) of this
             section does not apply to qualifying wages if both of the following
             conditions apply:
 
-                1. _(a)_ For qualifying wages described in division (C) (2) of
+                1. _(a)_ For qualifying wages described in division (C)(2) of
                 Section 124.04, the employee's employer withholds and remits tax
                 on the qualifying wages to the municipal corporation in which
                 the employee's principal place of work is situated, or, for
@@ -388,11 +390,11 @@ the feminine and the gender-neutral.
         employee of the subdivision or another person performing services for
         the subdivision under a contract with the subdivision, if the property
         on which services are performed is annexed to a municipal corporation
-        pursuant to Section 709.023 of the ORC on or after March 27, 2013,
-        unless the person is subject to such taxation because of residence. If
-        the compensation is subject to taxation because of residence, municipal
-        income tax shall be payable only to the municipal corporation of
-        residence.
+        pursuant to [Section 709.023][ORC Section 709.023] of the Ohio R.C. on
+        or after March 27, 2013, unless the person is subject to such taxation
+        because of residence. If the compensation is subject to taxation because
+        of residence, municipal income tax shall be payable only to the
+        municipal corporation of residence.
 
         19. _(s)_ Income the taxation of which is prohibited by the constitution
         or laws of the United States. Any item of income that is exempt income
@@ -487,22 +489,25 @@ the feminine and the gender-neutral.
     income yield, interest, capital gains, dividends, or other income arising
     from the ownership, sale, exchange, or other disposition of intangible
     property including, but not limited to, investments, deposits, money, or
-    credits as those terms are defined in Chapter 5701 of the ORC, and patents,
-    copyrights, trademarks, tradenames, investments in real estate investment
-    trusts, investments in regulated investment companies, and appreciation on
-    deferred compensation. "Intangible income" does not include prizes, awards,
-    or other income associated with any lottery winnings, gambling winnings, or
-    other similar games of chance.
+    credits as those terms are defined in [Chapter 5701][ORC Chapter 5701] of
+    the Ohio R.C., and patents, copyrights, trademarks, tradenames, investments
+    in real estate investment trusts, investments in regulated investment
+    companies, and appreciation on deferred compensation. "Intangible income"
+    does not include prizes, awards, or other income associated with any lottery
+    winnings, gambling winnings, or other similar games of chance.
 
-    18. _(18)_ "Internal Revenue Code" has the same meaning as in Section
-    5747.01 of the ORC.
+    18. _(18)_ "Internal Revenue Code" has the same meaning as in [Section
+    5747.01][ORC Section 5747.01] of the Ohio R.C.
 
     19. _(19)_ "Limited liability company" means a limited liability company
-    formed under Chapter 1705 of the ORC or under the laws of another state.
+    formed under [Chapter 1705][ORC Chapter 1705] of the Ohio R.C. or under the
+    laws of another state.
 
     20. _(20)_ "Municipal corporation" includes a joint economic development
     district or joint economic development zone that levies an income tax under
-    Section 715.691, 715.70, 715.71, or 715.74 of the ORC.
+    [Section 715.691][ORC Section 715.691], [715.70][ORC Section 715.70],
+    [715.71][ORC Section 715.71], or [715.74][ORC Section 715.74] of the Ohio
+    R.C.
 
     21. _(21)_
 
@@ -581,8 +586,8 @@ the feminine and the gender-neutral.
             incurred, but in no case for more years than necessary for the
             deduction to be fully utilized.
 
-            2. _(ii)_ No person shall use the deduction allowed by division(C)
-            (24)(c) of this section to offset qualifying wages.
+            2. _(ii)_ No person shall use the deduction allowed by division
+            (C)(24)(c) of this section to offset qualifying wages.
 
             3. _(iii)_
 
@@ -606,7 +611,7 @@ the feminine and the gender-neutral.
             of net operating loss that was not fully utilized by operation of
             division (C)(24)(c)(iii)(a) of this section. To the extent that an
             amount of net operating loss that was not fully utilized in one or
-            more taxable years by operation of division (C)(1)(h)(iii) (a) of
+            more taxable years by operation of division (C)(1)(h)(iii)(a) of
             this section is carried forward for use with respect to a return
             filed for a taxable year beginning in 2019, 2020, 2021, or 2022, the
             limitation described in division (C)(24)(c)(iii)(a) of this section
@@ -628,9 +633,9 @@ the feminine and the gender-neutral.
     25. _(25)_ "Nonresident" means an individual that is not a resident.
 
     26. _(26)_ "Ohio Business Gateway" means the online computer network system,
-    created under Section 125.30 of the ORC, that allows persons to
-    electronically file business reply forms with state agencies and includes
-    any successor electronic filing and payment system.
+    created under [Section 125.30][ORC Section 125.30] of the Ohio R.C., that
+    allows persons to electronically file business reply forms with state
+    agencies and includes any successor electronic filing and payment system.
 
     27. _(27)_ "Other payer" means any person, other than an individual's
     employer or the employer's agent, that pays an individual any amount
@@ -661,7 +666,7 @@ the feminine and the gender-neutral.
 
     32. _(32)_ "Postmark date," "date of postmark," and similar terms include
     the date recorded and marked in the manner described in division (B)(3) of
-    Section 5703.056 of the ORC.
+    [Section 5703.056][ORC Section 5703.056] of the Ohio R.C.
 
     33. _(33)_
 
@@ -749,9 +754,9 @@ the feminine and the gender-neutral.
 
                 4. _(d)_ For any taxable year the amount has not otherwise been
                 added to wages pursuant to either division (C)(35)(b) of this
-                section or ORC Section 718.03, as that section existed before
-                the effective date of H.B. 5 of the 130th General Assembly,
-                March 23, 2015.
+                section or Ohio R.C. [Section 718.03][ORC Section 718.03], as
+                that section existed before the effective date of H.B. 5 of the
+                130th General Assembly, March 23, 2015.
 
     36. _(36)_ "Related entity" means any of the following:
 
@@ -844,7 +849,7 @@ the feminine and the gender-neutral.
         1. _(a)_ "Taxpayer" means a person subject to a tax levied on income by
         a municipal corporation in accordance with this Chapter. "Taxpayer" does
         not include a grantor trust or, except as provided in division
-        (C)(48)(b) (i) of this section, a disregarded entity.
+        (C)(48)(b)(i) of this section, a disregarded entity.
 
         2. _(b)_
 
@@ -864,8 +869,9 @@ the feminine and the gender-neutral.
 
                 3. _(c)_ Not later than December 31, 2004, the limited liability
                 company and its single member each made an election to be
-                treated as a separate taxpayer under division (L) of ORC 718.01
-                as that section existed on December 31, 2004.
+                treated as a separate taxpayer under division (L) of Ohio R.C.
+                [718.01][ORC Section 718.01] as that section existed on December
+                31, 2004.
 
                 4. _(d)_ The limited liability company was not formed for the
                 purpose of evading or reducing Ohio municipal corporation income
@@ -885,20 +891,23 @@ the feminine and the gender-neutral.
             taxable year ending in 2003 was at least $400,000.
 
     49. _(49)_ "Taxpayers' rights and responsibilities" means the rights
-    provided to taxpayers in Sections 124.09, 124.12, 124.13, 124.19(B), 124.20,
-    124.21, and Sections 5717.011 and 5717.03 of the ORC, and the
-    responsibilities of taxpayers to file, report, withhold, remit, and pay
-    municipal income tax and otherwise comply with Chapter 718 of the ORC and
-    resolutions, ordinances, and rules and regulations adopted by the
-    Municipality for the imposition and administration of a municipal income
-    tax.
+    provided to taxpayers in [Sections 124.09][ORC Section 124.09], [124.12][ORC
+    Section 124.12], [124.13][ORC Section 124.13], [124.19(B)][ORC Section
+    124.19], [124.20][ORC Section 124.20], [124.21][ORC Section 124.21], and
+    [Sections 5717.011][ORC Sections 5717.011] and [5717.03][ORC Section
+    5717.03] of the Ohio R.C., and the responsibilities of taxpayers to file,
+    report, withhold, remit, and pay municipal income tax and otherwise comply
+    with [Chapter 718][ORC Chapter 718] of the Ohio R.C. and resolutions,
+    ordinances, and rules and regulations adopted by the Municipality for the
+    imposition and administration of a municipal income tax.
 
-    50. _(50)_ "Video lottery terminal" has the same meaning as in Section
-    3770.21 of the ORC.
+    50. _(50)_ "Video lottery terminal" has the same meaning as in [Section
+    3770.21][ORC Section 3770.21] of the Ohio R.C.
 
     51. _(51)_ "Video lottery terminal sales agent" means a lottery sales agent
-    licensed under Chapter 3770 of the ORC to conduct video lottery terminals on
-    behalf of the state pursuant to Section 3770.21 of the ORC.\
+    licensed under [Chapter 3770][ORC Chapter 3770] of the Ohio R.C. to conduct
+    video lottery terminals on behalf of the state pursuant to [Section
+    3770.21][ORC Section 3770.21] of the Ohio R.C.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.03   Imposition of tax
@@ -1049,8 +1058,8 @@ Deferred Compensation Plan.
 6. _(F)_ This division applies to any taxpayer engaged in a business or
 profession in the Municipality, unless the taxpayer is an individual who resides
 in the Municipality or the taxpayer is an electric company, combined company, or
-telephone company that is subject to and required to file reports under Chapter
-5745 of the ORC.
+telephone company that is subject to and required to file reports under [Chapter
+5745][ORC Chapter 5745] of the Ohio R.C.
 
     1. _(1)_ Except as otherwise provided in division (F)(2) of this section,
     net profit from a business or profession conducted both within and without
@@ -1671,11 +1680,11 @@ and filed by the fiduciary of the estate or trust.
         Administrator shall grant the taxpayer's requested extension.
 
     3. _(3)_ If the Tax Commissioner extends for all taxpayers the date for
-    filing state income tax returns under division (G) of Section 5747.08 of the
-    ORC, a taxpayer shall automatically receive an extension for the filing of
-    the Municipality's income tax return. The extended due date of the
-    Municipality's income tax return shall be the same as the extended due date
-    of the state income tax return.
+    filing state income tax returns under division (G) of [Section 5747.08][ORC
+    Section 5747.08] of the Ohio R.C., a taxpayer shall automatically receive an
+    extension for the filing of the Municipality's income tax return. The
+    extended due date of the Municipality's income tax return shall be the same
+    as the extended due date of the state income tax return.
 
     4. _(4)_ If the Tax Administrator considers it necessary in order to ensure
     the payment of the tax imposed by the Municipality, the Tax Administrator
@@ -1695,7 +1704,7 @@ and filed by the fiduciary of the estate or trust.
 
     2. _(2)_ Any taxpayer not required to remit tax to the Municipality for a
     taxable year pursuant to division (H)(1) of this section shall file with the
-    Municipality an annual net profit return under division (F) (3) of this
+    Municipality an annual net profit return under division (F)(3) of this
     section, unless the provisions of division (H)(3) of this section apply.
 
     3. _(3)_
@@ -1816,7 +1825,7 @@ eligibility for the extension.
     eighty-first (181st) day after the applicant's active duty or service
     terminates.
 
-    3. _(3)_ Taxes paid pursuant to a contract entered into under (O) (1) of
+    3. _(3)_ Taxes paid pursuant to a contract entered into under (O)(1) of
     this division are not delinquent. The Tax Administrator shall not require
     any payments of penalties or interest in connection with those taxes for the
     extension period.
@@ -1876,13 +1885,13 @@ Consolidated Municipal income tax return.
     consideration of net operating losses or special deductions. "Consolidated
     federal taxable income" does not include income or loss of an incumbent
     local exchange carrier that is excluded from the affiliated group under
-    division (R) (1) of this section.
+    division (R)(1) of this section.
 
     4. _(4)_ "Incumbent local exchange carrier" has the same meaning as in
-    Section 4927.01 of the ORC.
+    [Section 4927.01][ORC Section 4927.01] of the Ohio R.C.
 
     5. _(5)_ "Local exchange telephone service" has the same meaning as in
-    Section 5727.01 of the ORC.
+    [Section 5727.01][ORC Section 5727.01] of the Ohio R.C.
 
 19. _(S)_
 
@@ -1897,7 +1906,7 @@ Consolidated Municipal income tax return.
     change in the reporting method is required under federal law. The election
     continues to be binding for each subsequent five (5) year period unless the
     taxpayer elects to discontinue filing consolidated municipal income tax
-    returns under division (S) (2) of this section or a taxpayer receives
+    returns under division (S)(2) of this section or a taxpayer receives
     permission from the Tax Administrator. The Tax Administrator shall approve
     such a request for good cause shown.
 
@@ -2043,9 +2052,10 @@ this Chapter.
 2. _(B)_ The Municipality shall grant a credit against its tax on income to a
 resident of the Municipality who works in a joint economic development zone
 created under Section 715.691 or a joint economic development district created
-under Section 715.70, 715.71, or 715.72 of the ORC to the same extent that it
-grants a credit against its tax on income to its residents who are employed in
-another municipal corporation.
+under [Section 715.70][ORC Section 715.70], [715.71][ORC Section 715.71], or
+[715.72][ORC 715.72] of the Ohio R.C. to the same extent that it grants a credit
+against its tax on income to its residents who are employed in another municipal
+corporation.
 
 3. _(C)_ If the amount of tax withheld or paid to the other municipality is less
 than the amount of tax required to be withheld or paid to the other
@@ -2500,21 +2510,22 @@ taxpayer, shall excuse the taxpayer from penalties and interest.\
     the time a document is originally sent by certified mail, or any address the
     Tax Administrator can ascertain using reasonable means such as the use of a
     change of address service offered by the postal service or an authorized
-    delivery service under Section 5703.056 of the ORC.
+    delivery service under [Section 5703.056][ORC Section 5703.056] of the Ohio
+    R.C.
 
     2. _(2)_ "Undeliverable address" means an address to which the postal
-    service or an authorized delivery service under Section 5703.056 of the ORC
-    is not able to deliver an assessment of the Tax Administrator, except when
-    the reason for non-delivery is because the addressee fails to acknowledge or
-    accept the assessment.
+    service or an authorized delivery service under [Section 5703.056][ORC
+    Section 5703.056] of the Ohio R.C. is not able to deliver an assessment of
+    the Tax Administrator, except when the reason for non-delivery is because
+    the addressee fails to acknowledge or accept the assessment.
 
 2. _(B)_ Subject to division (C) of this section, a copy of each assessment
 shall be served upon the person affected thereby either by personal service, by
-certified mail, or by a delivery service authorized under Section 5703.056 of
-the ORC. With the permission of the person affected by an assessment, the Tax
-Administrator may deliver the assessment through alternative means as provided
-in this section, including, but not limited to, delivery by secure electronic
-mail.
+certified mail, or by a delivery service authorized under [Section 5703.056][ORC
+Section 5703.056] of the Ohio R.C. With the permission of the person affected by
+an assessment, the Tax Administrator may deliver the assessment through
+alternative means as provided in this section, including, but not limited to,
+delivery by secure electronic mail.
 
 3. _(C)_
 
@@ -2524,12 +2535,12 @@ mail.
         address, a Tax Administrator shall utilize reasonable means to ascertain
         a new last known address, including the use of a change of address
         service offered by the postal service or an authorized delivery service
-        under Section 5703.056 of the ORC. If the Tax Administrator is unable to
-        ascertain a new last known address, the assessment shall be sent by
-        ordinary mail and considered served. If the ordinary mail is
-        subsequently returned because of an undeliverable address, the
-        assessment remains appealable within sixty (60) days after the
-        assessment's postmark.
+        under [Section 5703.056][ORC Section 5703.056] of the Ohio R.C. If the
+        Tax Administrator is unable to ascertain a new last known address, the
+        assessment shall be sent by ordinary mail and considered served. If the
+        ordinary mail is subsequently returned because of an undeliverable
+        address, the assessment remains appealable within sixty (60) days after
+        the assessment's postmark.
 
         2. _(b)_ Once the Tax Administrator or other Municipal official, or the
         designee of either, serves an assessment on the person to whom the
@@ -2779,7 +2790,7 @@ and fees, including attorney's fees.\
 1. _(A)_ Nothing in this Chapter shall limit the authority of the Tax
 Administrator to perform any of the following duties or functions, unless the
 performance of such duties or functions is expressly limited by a provision of
-the ORC:
+the Ohio R.C.:
 
     1. _(1)_
 
@@ -3029,14 +3040,15 @@ after the Board of Tax Review's final hearing on the appeal, and send a copy of
 its final determination by ordinary mail to all of the parties to the appeal
 within fifteen (15) days after issuing the final determination. The taxpayer or
 the Tax Administrator may appeal the Board of Tax Review's final determination
-as provided in Section 5717.011 of the ORC.
+as provided in [Section 5717.011][ORC Section 5717.011] of the Ohio R.C.
 
 6. _(F)_ The Board of Tax Review created pursuant to this section shall adopt
 rules governing its procedures and shall keep a record of its transactions. Such
-records are not public records available for inspection under Section 149.43 of
-the ORC. Hearings requested by a taxpayer before a Board of Tax Review created
-pursuant to this section are not meetings of a public body subject to Section
-121.22 of the ORC.\
+records are not public records available for inspection under [Section
+149.43][ORC Section 149.43] of the Ohio R.C. Hearings requested by a taxpayer
+before a Board of Tax Review created pursuant to this section are not meetings
+of a public body subject to [Section 121.22][ORC Section 121.22] of the Ohio
+R.C.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.22   Authority to create rules and regulations
@@ -3708,7 +3720,7 @@ returns or make the payments by nonelectronic means.
     consideration of net operating losses or special deductions. "Consolidated
     federal taxable income" does not include income or loss of an incumbent
     local exchange carrier that is excluded from the affiliated group under
-    division (A) (1) of this section.
+    division (A)(1) of this section.
 
     4. _(4)_ "Incumbent local exchange carrier" has the same meaning as in
     section 4927.01 of the Revised Code.
@@ -4356,7 +4368,43 @@ shall be subject to the penalties provided for in Section 124.99 (A) of this
 Chapter.\
 (Ord. 2018-22. Passed 3-26-18.)
 
+[CF Section 124.03]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403-imposition-of-tax>
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
+[ORC Chapter 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
+[ORC Chapter 1705]:<https://codes.ohio.gov/ohio-revised-code/chapter-1705>
+[ORC Chapter 3770]:<https://codes.ohio.gov/ohio-revised-code/chapter-3770>
+[ORC Chapter 5701]:<https://codes.ohio.gov/ohio-revised-code/chapter-5701>
+[ORC Chapter 5745]:<https://codes.ohio.gov/ohio-revised-code/chapter-5745>
+[ORC Section 121.22]:<https://codes.ohio.gov/ohio-revised-code/section-121.22>
+[ORC Section 124.09]:<https://codes.ohio.gov/ohio-revised-code/section-124.09>
+[ORC Section 124.12]:<https://codes.ohio.gov/ohio-revised-code/section-124.12>
+[ORC Section 124.13]:<https://codes.ohio.gov/ohio-revised-code/section-124.13>
+[ORC Section 124.19]:<https://codes.ohio.gov/ohio-revised-code/section-124.19>
+[ORC Section 124.20]:<https://codes.ohio.gov/ohio-revised-code/section-124.20>
+[ORC Section 124.21]:<https://codes.ohio.gov/ohio-revised-code/section-124.21>
+[ORC Section 125.30]:<https://codes.ohio.gov/ohio-revised-code/section-125.30>
+[ORC Section 149.43]:<https://codes.ohio.gov/ohio-revised-code/section-149.43>
+[ORC Section 709.023]:<https://codes.ohio.gov/ohio-revised-code/section-709.023>
+[ORC Section 715.70]:<https://codes.ohio.gov/ohio-revised-code/section-715.70>
+[ORC Section 715.71]:<https://codes.ohio.gov/ohio-revised-code/section-715.71>
+[ORC Section 715.72]:<https://codes.ohio.gov/ohio-revised-code/section-715.72>
+[ORC Section 715.74]:<https://codes.ohio.gov/ohio-revised-code/section-715.74>
+[ORC Section 715.691]:<https://codes.ohio.gov/ohio-revised-code/section-715.691>
+[ORC Section 718.01]:<https://codes.ohio.gov/ohio-revised-code/section-718.01>
+[ORC Section 718.03]:<https://codes.ohio.gov/ohio-revised-code/section-718.03>
+[ORC Section 3501.28]:<https://codes.ohio.gov/ohio-revised-code/section-3501.28>
+[ORC Section 3501.36]:<https://codes.ohio.gov/ohio-revised-code/section-3501.36>
+[ORC Section 3770.21]:<https://codes.ohio.gov/ohio-revised-code/section-3770.21>
+[ORC Section 3772.01]:<https://codes.ohio.gov/ohio-revised-code/section-3772.01>
+[ORC Section 4313.02]:<https://codes.ohio.gov/ohio-revised-code/section-4313.02>
+[ORC Section 4927.01]:<https://codes.ohio.gov/ohio-revised-code/section-4927.01>
+[ORC Section 5703.056]:<https://codes.ohio.gov/ohio-revised-code/section-5703.056>
+[ORC Section 5717.03]:<https://codes.ohio.gov/ohio-revised-code/section-5717.03>
+[ORC Section 5717.011]:<https://codes.ohio.gov/ohio-revised-code/section-5717.011>
+[ORC Section 5727.01]:<https://codes.ohio.gov/ohio-revised-code/section-5727.01>
+[ORC Section 5727.24]:<https://codes.ohio.gov/ohio-revised-code/section-5727.24>
+[ORC Section 5727.30]:<https://codes.ohio.gov/ohio-revised-code/section-5727.30>
+[ORC Section 5747.01]:<https://codes.ohio.gov/ohio-revised-code/section-5747.01>
+[ORC Section 5747.08]:<https://codes.ohio.gov/ohio-revised-code/section-5747.08>
 [ORC Title 57]:<https://codes.ohio.gov/ohio-revised-code/title-57>
-[Section 124.03]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403-imposition-of-tax>
-[Section 124.05]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405-annual-return-filing>
+[Section 124.05(V)(3)(b)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(V)(3)(b)>

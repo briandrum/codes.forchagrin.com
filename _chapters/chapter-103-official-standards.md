@@ -52,10 +52,10 @@ The following bench marks are established as datum planes for the Municipality:
 ## 103.02   Grade to be referenced to bench marks
 
 All grades established shall have reference to the levels of datum planes set
-forth in [Section 103.01][].\
+forth in [Section 103.01][CF Section 103.01].\
 (Ord. 1957-420. Passed 12-28-57.)
 
+[CF Section 103.01]:</chapters/chapter-103-official-standards/#10301-bench-marks>
 [ORC Section 1.04]:<https://codes.ohio.gov/ohio-revised-code/section-1.04>
 [ORC Section 1.14]:<https://codes.ohio.gov/ohio-revised-code/section-1.14>
 [ORC Section 5.20]:<https://codes.ohio.gov/ohio-revised-code/section-5.20>
-[Section 103.01]:</chapters/chapter-103-official-standards/#10301-bench-marks>

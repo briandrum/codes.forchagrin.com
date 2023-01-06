@@ -14,7 +14,7 @@ title: "Chapter 723: Meat and Meat Products"
 
 ## Cross references
 
-* Inspection by Municipality - see Ohio R.C. 715.46
+* Inspection by Municipality - see Ohio R.C. [715.46][ORC Section 715.46]
 * Rat control - see GEN. OFF. 521.12
 
 ## 723.01   Inspection required
@@ -46,3 +46,5 @@ the domestic use of himself or his family.\
 Whoever violates any of the provisions of this chapter shall be fined not more
 than five hundred dollars ($500.00) or imprisoned for not more than six months,
 or both. Each day such violation continues shall constitute a separate offense.
+
+[ORC Section 715.46]:<https://codes.ohio.gov/ohio-revised-code/section-715.46>

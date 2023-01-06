@@ -42,9 +42,9 @@ title: "Chapter 337: Safety and Equipment"
 ## Cross references
 
 * See sectional histories for similar State law
-* Warning devices for commercial vehicles disabled upon freeways - see Ohio R.C. 4513.28
+* Warning devices for commercial vehicles disabled upon freeways - see Ohio R.C. [4513.28][ORC Section 4513.28]
 * Slow moving vehicle emblem - see OAC Ch. 4501.13
-* Motorized bicycle lights and equipment - see Ohio R.C. 4511.521
+* Motorized bicycle lights and equipment - see Ohio R.C. [4511.521][ORC Section 4511.521]
 * Vehicle lighting - see OAC 4501-15
 * Use of stop and turn signals - see TRAF. 331.14
 * Wheel protectors for commercial vehicles - see TRAF. 339.05
@@ -87,9 +87,9 @@ this chapter during all of the following times:
     3. _(3)_ At any time when the windshield wipers of the vehicle are in use
     because of precipitation on the windshield. Every motorized bicycle shall
     display at such times lighted lights meeting the rules adopted by the Ohio
-    Director of Public Safety under Ohio R.C. 4511.521. No motor vehicle, during
-    any time specified in this section, shall be operated upon a street or
-    highway using only parking lights as illumination.
+    Director of Public Safety under Ohio R.C. [4511.521][ORC Section 4511.521].
+    No motor vehicle, during any time specified in this section, shall be
+    operated upon a street or highway using only parking lights as illumination.
 
 2. _(b)_ Whenever in this chapter a requirement is declared as to the distance
 from which certain lights and devices shall render objects visible, or within
@@ -246,16 +246,16 @@ where flares are used, or when operating or traveling within the limits of a
 construction area designated by the Ohio Director of Transportation, or the
 Municipal or County Engineer, when such construction area is marked in
 accordance with requirements of the Director and the Manual of Uniform Traffic
-Control Devices, as set forth in Ohio R.C. 4511.09, which is designed for
-operation at a speed of twenty-five miles per hour or less shall be operated at
-a speed not exceeding twenty-five miles per hour, and shall display a triangular
-slow-moving vehicle emblem (SMV). The emblem shall be mounted so as to be
-visible from a distance of not less than 500 feet to the rear. The Ohio Director
-of Public Safety shall adopt standards and specifications for the design and
-position of mounting the SMV emblem. The standards and specifications for SMV
-emblems referred to in this section shall correlate with and, so far as
-possible, conform with those approved by the American Society of Agricultural
-Engineers.
+Control Devices, as set forth in Ohio R.C. [4511.09][ORC Section 4511.09], which
+is designed for operation at a speed of twenty-five miles per hour or less shall
+be operated at a speed not exceeding twenty-five miles per hour, and shall
+display a triangular slow-moving vehicle emblem (SMV). The emblem shall be
+mounted so as to be visible from a distance of not less than 500 feet to the
+rear. The Ohio Director of Public Safety shall adopt standards and
+specifications for the design and position of mounting the SMV emblem. The
+standards and specifications for SMV emblems referred to in this section shall
+correlate with and, so far as possible, conform with those approved by the
+American Society of Agricultural Engineers.
 
     A unit of farm machinery that is designed by its manufacturer to operate at
     a speed greater than twenty-five miles per hour may be operated on a street
@@ -451,14 +451,14 @@ vehicle.
     vehicles servicing or towing a disabled vehicle, stationary waste collection
     vehicles actively collecting garbage, refuse, trash or recyclable materials
     on the roadside, rural mail delivery vehicles, vehicles transporting
-    preschool children as provided in Ohio R.C. 4513.182, highway maintenance
-    vehicles, funeral hearses, funeral escort vehicles and similar equipment
-    operated by the Department or local authorities, which shall be equipped
-    with and display, when used on a street or highway for the special purpose
-    necessitating such lights, a flashing, oscillating or rotating amber light,
-    but shall not display a flashing, oscillating or rotating light of any other
-    color, nor to vehicles or machinery permitted by Section 337.10 to have a
-    flashing red light.
+    preschool children as provided in Ohio R.C. [4513.182][ORC Section
+    4513.182], highway maintenance vehicles, funeral hearses, funeral escort
+    vehicles and similar equipment operated by the Department or local
+    authorities, which shall be equipped with and display, when used on a street
+    or highway for the special purpose necessitating such lights, a flashing,
+    oscillating or rotating amber light, but shall not display a flashing,
+    oscillating or rotating light of any other color, nor to vehicles or
+    machinery permitted by Section 337.10 to have a flashing red light.
 
     2. _(2)_ When used on a street or highway, farm machinery and vehicles
     escorting farm machinery may be equipped with and display a flashing,
@@ -525,7 +525,7 @@ this subsection.
 
     3. _(3)_ Every motorized bicycle shall be equipped with brakes meeting the
     rules adopted by the Ohio Director of Public Safety under Ohio R.C.
-    4511.521.
+    [4511.521][ORC Section 4511.521].
 
     4. _(4)_ When operated upon the streets or highways of this Municipality,
     the following vehicles shall be equipped with brakes adequate to control the
@@ -736,10 +736,11 @@ the distance specified.
     lights are used as required by this section, they shall be constructed or
     installed so as to provide adequate and reliable illumination and shall
     conform to the appropriate rules and regulations established under Ohio R.C.
-    4513.19.
+    [4513.19][ORC Section 4513.19].
 
-    Historical motor vehicles as defined in Ohio R.C. 4503.181, not originally
-    manufactured with stop lights, are not subject to this section.
+    Historical motor vehicles as defined in Ohio R.C. [4503.181][ORC Section
+    4503.181], not originally manufactured with stop lights, are not subject to
+    this section.
 
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.071)
@@ -767,11 +768,12 @@ misdemeanor of the third degree.
 
 1. _(a)_ When any child who is in either or both of the following categories is
 being transported in a motor vehicle, other than a taxicab or public safety
-vehicle as defined in Ohio R.C. 4511.01, that is required by the United States
-Department of Transportation to be equipped with seat belts at the time of
-manufacture or assembly, the operator of the motor vehicle shall have the child
-properly secured in accordance with the manufacturer's instructions in a child
-restraint system that meets federal motor safety standards:
+vehicle as defined in Ohio R.C. [4511.01][ORC Section 4511.01], that is required
+by the United States Department of Transportation to be equipped with seat belts
+at the time of manufacture or assembly, the operator of the motor vehicle shall
+have the child properly secured in accordance with the manufacturer's
+instructions in a child restraint system that meets federal motor safety
+standards:
 
     1. _(1)_ A child who is less than four years of age;
 
@@ -792,23 +794,24 @@ meets federal motor vehicle safety standards:
 feet nine inches in height, who is not required by subsection (a) or (b) of this
 section to be secured in a child restraint system, is being transported in a
 motor vehicle, other than a taxicab or public safety vehicle as defined in Ohio
-R.C. 4511.01 or a vehicle that is regulated under Ohio R.C. 5104.011, that is
-required by the United States Department of Transportation to be equipped with
-seat belts at the time of manufacture or assembly, the operator of the motor
-vehicle shall have the child properly secured in accordance with the
-manufacturer's instructions on a booster seat that meets federal motor vehicle
-safety standards.
+R.C. [4511.01][ORC Section 4511.01] or a vehicle that is regulated under Ohio
+R.C. [5104.011][ORC Section 5104.011], that is required by the United States
+Department of Transportation to be equipped with seat belts at the time of
+manufacture or assembly, the operator of the motor vehicle shall have the child
+properly secured in accordance with the manufacturer's instructions on a booster
+seat that meets federal motor vehicle safety standards.
 
 4. _(d)_ When any child who is at least eight years of age but not older that
 fifteen years of age and who is not otherwise required by subsection (a), (b) or
 (c) hereof to be secured in a child restraint system or booster seat, is being
 transported in a motor vehicle, other than a taxicab or public safety vehicle as
-defined in Ohio R.C. 4511.01, that is required by the United States Department
-of Transportation to be equipped with seat belts at the time of manufacture or
-assembly, the operator of the motor vehicle shall have the child properly
-restrained either in accordance with the manufacturer's instructions in a child
-restraint system that meets federal motor vehicle safety standards or in an
-occupant restraining device as defined in Ohio R.C. 4513.263.
+defined in Ohio R.C. [4511.01][ORC Section 4511.01], that is required by the
+United States Department of Transportation to be equipped with seat belts at the
+time of manufacture or assembly, the operator of the motor vehicle shall have
+the child properly restrained either in accordance with the manufacturer's
+instructions in a child restraint system that meets federal motor vehicle safety
+standards or in an occupant restraining device as defined in Ohio R.C.
+[4513.263][ORC Section 4513.263].
 
 5. _(e)_ Notwithstanding any provision of law to the contrary, no law
 enforcement officer shall cause an operator of a motor vehicle being operated on
@@ -897,7 +900,7 @@ violation of this section:
     restraining device is provided.
 
     4. _(4)_ "Commercial tractor," "passenger car," and "commercial car" have
-    the same meanings as provided in Ohio R.C. 4501.01.
+    the same meanings as provided in Ohio R.C. [4501.01][ORC Section 4501.01].
 
     5. _(5)_ "Vehicle" and "motor vehicle", as used in the definitions of the
     terms set forth in subsection (a)(4) hereof, have the same meanings as
@@ -905,9 +908,10 @@ violation of this section:
 
     6. _(6)_ "Tort action" means a civil action for damages for injury, death,
     or loss to person or property. "Tort action" includes a product liability
-    claim, as defined in Ohio R.C. 2307.71 and an asbestos claim, as defined in
-    Ohio R.C. 2307.91, but does not include a civil action for damages for
-    breach of contract or another agreement between persons.
+    claim, as defined in Ohio R.C. [2307.71][ORC Section 2307.71] and an
+    asbestos claim, as defined in Ohio R.C. [2307.91][ORC Section 2307.91], but
+    does not include a civil action for damages for breach of contract or
+    another agreement between persons.
 
 2. _(b)_ No person shall do either of the following:
 
@@ -985,7 +989,7 @@ violation of this section:
     included in the database under subsection (c)(5) of this section. The
     information provided and included in the database under subsection (c)(5) of
     this section is not a public record subject to inspection or copying under
-    Ohio R.C. 149.43.
+    Ohio R.C. [149.43][ORC Section 149.43].
 
 4. _(d)_ Notwithstanding any provision of law to the contrary, no law
 enforcement officer shall cause an operator of an automobile being operated on
@@ -1000,7 +1004,7 @@ has been or is being committed.
 
 5. _(e)_ All fines collected for violations of subsection (b) hereof shall be
 forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
-4513.263.
+[4513.263][ORC Section 4513.263].
 
 6. _(f)_
 
@@ -1015,14 +1019,14 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     the trier of fact may determine based on evidence admitted consistent with
     the Ohio rules of evidence that the failure contributed to the harm alleged
     in the tort action and may diminish a recovery of compensatory damages that
-    represents noneconomic loss, as defined in Ohio R.C. 2307.011 in a tort
-    action that could have been recovered but for the plaintiff's failure to
-    wear all of the available elements of a properly adjusted occupant
-    restraining device. Evidence of that failure shall not be used as a basis
-    for a criminal prosecution of the person other than a prosecution for a
-    violation of this section; and shall not be admissible as evidence in a
-    criminal action involving the person other than a prosecution for a
-    violation of this section.
+    represents noneconomic loss, as defined in Ohio R.C. [2307.011][ORC Section
+    2307.011] in a tort action that could have been recovered but for the
+    plaintiff's failure to wear all of the available elements of a properly
+    adjusted occupant restraining device. Evidence of that failure shall not be
+    used as a basis for a criminal prosecution of the person other than a
+    prosecution for a violation of this section; and shall not be admissible as
+    evidence in a criminal action involving the person other than a prosecution
+    for a violation of this section.
 
     2. _(2)_ If, at the time of an accident involving a passenger car equipped
     with occupant restraining devices, any occupant of the passenger car who
@@ -1117,8 +1121,8 @@ forwarded to the Treasurer of State for deposit as provided in Ohio R.C.
     material that fails to conform to the specifications of this section.
 
     3. _(3)_ No used motor vehicle dealer or new motor vehicle dealer, as
-    defined in Ohio R.C. 4517.01, shall sell any motor vehicle that fails to
-    conform to the specifications of this section.
+    defined in Ohio R.C. [4517.01][ORC Section 4517.01], shall sell any motor
+    vehicle that fails to conform to the specifications of this section.
 
     4. _(4)_ No reflectorized materials shall be permitted upon or in any front
     windshield, side windows, sidewings or rear window.
@@ -1226,7 +1230,8 @@ misdemeanor.\
     semitrailers, designed and used to carry property and having a gross vehicle
     weight rating of 10,000 pounds or less.
 
-    4. _(4)_ "Manufacturer" has the same meaning as in Ohio R.C. 4501.01.
+    4. _(4)_ "Manufacturer" has the same meaning as in Ohio R.C. [4501.01][ORC
+    Section 4501.01].
 
     5. _(5)_ "Gross vehicle weight rating" means the manufacturer's gross
     vehicle weight rating established for the vehicle.
@@ -1378,7 +1383,23 @@ in use at the times mentioned in Section 337.02.
 4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4513.261)
 
-[ORC Chapter 119]:<https://codes.ohio.gov/ohio-revised-code/chapter-119/>
-[ORC Chapter 4725]:<https://codes.ohio.gov/ohio-revised-code/chapter-4725/>
-[ORC Chapter 4731]:<https://codes.ohio.gov/ohio-revised-code/chapter-4731/>
-[ORC Chapter 4734]:<https://codes.ohio.gov/ohio-revised-code/chapter-4734/>
+[ORC Chapter 119]:<https://codes.ohio.gov/ohio-revised-code/chapter-119>
+[ORC Chapter 4725]:<https://codes.ohio.gov/ohio-revised-code/chapter-4725>
+[ORC Chapter 4731]:<https://codes.ohio.gov/ohio-revised-code/chapter-4731>
+[ORC Chapter 4734]:<https://codes.ohio.gov/ohio-revised-code/chapter-4734>
+[ORC Section 149.43]:<https://codes.ohio.gov/ohio-revised-code/section-149.43>
+[ORC Section 2307.011]:<https://codes.ohio.gov/ohio-revised-code/section-2307.011>
+[ORC Section 2307.71]:<https://codes.ohio.gov/ohio-revised-code/section-2307.71>
+[ORC Section 2307.91]:<https://codes.ohio.gov/ohio-revised-code/section-2307.91>
+[ORC Section 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
+[ORC Section 4503.181]:<https://codes.ohio.gov/ohio-revised-code/section-4503.181>
+[ORC Section 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
+[ORC Section 4511.09]:<https://codes.ohio.gov/ohio-revised-code/section-4511.09>
+[ORC Section 4511.521]:<https://codes.ohio.gov/ohio-revised-code/section-4511.521>
+[ORC Section 4511.521]:<https://codes.ohio.gov/ohio-revised-code/section-4511.521>
+[ORC Section 4513.19]:<https://codes.ohio.gov/ohio-revised-code/section-4513.19>
+[ORC Section 4513.28]:<https://codes.ohio.gov/ohio-revised-code/section-4513.28>
+[ORC Section 4513.182]:<https://codes.ohio.gov/ohio-revised-code/section-4513.182>
+[ORC Section 4513.263]:<https://codes.ohio.gov/ohio-revised-code/section-4513.263>
+[ORC Section 4517.01]:<https://codes.ohio.gov/ohio-revised-code/section-4517.01>
+[ORC Section 5104.011]:<https://codes.ohio.gov/ohio-revised-code/section-5104.011>

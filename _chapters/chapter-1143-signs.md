@@ -248,8 +248,8 @@ thereto the following information:
     8. _(8)_ Such other information as the Administrator shall require, to show
     full compliance with this and all other ordinances of the Municipality;
 
-    9. _(9)_ Payment of the nonrefundable fee required by [Section 1309.12][] of
-    the Building Code.
+    9. _(9)_ Payment of the nonrefundable fee required by [Section 1309.12][CF
+    Section 1309.12] of the Building Code.
 
 3. _(c)_ **Referral of Application to Architectural Board of Review.** Approval
 of the Architectural Board of Review shall be obtained before issuance of any
@@ -274,7 +274,8 @@ licenses, and all sign permits shall contain this provision.
 apply to the following signs; such signs, however, are still subject to the
 regulations provided for in this chapter:
 
-    1. _(1)_ Temporary signs as regulated in [Section 1143.09][].
+    1. _(1)_ Temporary signs as regulated in [Section 1143.09][CF Section
+    1143.09].
 
     2. _(2)_ Incidental signs.
 
@@ -598,9 +599,9 @@ type, and other conditions and specifications that apply to the sign for which
 they are being substituted.\
 (Ord. 2019-39. Passed 8-13-19.)
 
+[CF Section 1143.09]:</chapters/chapter-1143-signs/#114309-temporary-signs>
+[CF Section 1309.12]:</chapter-1309-fees-for-permits-and-inspections/#130912-sign-fees>
 [Section 1143.06(a)]:</chapters/chapter-1143-signs/#114306(a)>
 [Section 1143.06(c)(2)]:</chapters/chapter-1143-signs/#114306(c)(2)>
 [Section 1143.06(d)]:</chapters/chapter-1143-signs/#114306(d)>
-[Section 1143.09]:</chapters/chapter-1143-signs/#114309-temporary-signs>
 [Section 1145.03(d)]:</chapters/chapter-1145-nonconforming-buildings-and-uses/#114503(d)>
-[Section 1309.12]:</chapter-1309-fees-for-permits-and-inspections/#130912-sign-fees>

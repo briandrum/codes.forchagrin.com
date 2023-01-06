@@ -16,7 +16,7 @@ title: "Chapter 903: Sidewalk and Driveway Apron Construction and Repair"
 
 ## Cross references
 
-* Construction or repair at owner's expense - see Ohio R.C. 729. 01 et seq.
+* Construction or repair at owner's expense - see Ohio R.C. [729][ORC Section 729]. 01 et seq.
 * Driving over sidewalks - see TRAF. 331.37
 * Care of sidewalks; obstructions - see GEN. OFF. Ch. 543
 * Driveway permits - see BLDG. 1307.13
@@ -352,3 +352,5 @@ conform in all respects with the provisions of this chapter.\
 Whoever violates any of the provisions of this chapter shall be fined not more
 than five hundred dollars ($500.00) or imprisoned not more than six months or
 both. Each day such violation continues shall constitute a separate offense.
+
+[ORC Section 729]:<https://codes.ohio.gov/ohio-revised-code/section-729>

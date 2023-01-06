@@ -52,8 +52,8 @@ on a proposed amendment, or in the event no action is taken by the Commission on
 the proposed amendment within 45 days after (i) the referral by Council, or (ii)
 60 days after a complete rezoning application is received from a property owner,
 Council shall hold a public hearing. For all proposed text or Map amendments,
-notice shall conform to the requirements of [Section 1109.09][] of the Planning
-and Zoning Code.
+notice shall conform to the requirements of [Section 1109.09][CF Section
+1109.09] of the Planning and Zoning Code.
 
 2. _(b)_ After the public hearing, Council may adopt the proposal whether it is
 recommended or not recommended by the Commission by majority vote of those
@@ -100,4 +100,4 @@ be similar and permitted in the requested use district. No public hearing shall
 be required to include the similar use in a use district.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[Section 1109.09]:</chapters/chapter-1109-administration-and-enforcement/#110909-public-hearing-notifications-and-hearings>
+[CF Section 1109.09]:</chapters/chapter-1109-administration-and-enforcement/#110909-public-hearing-notifications-and-hearings>

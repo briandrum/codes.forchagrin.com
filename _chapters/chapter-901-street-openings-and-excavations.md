@@ -15,9 +15,9 @@ title: "Chapter 901: Street Openings and Excavations"
 
 ## Cross references
 
-* Establishment and care of streets - see Ohio R.C. 715.19, 717.01, 723.01
-* Openings by the Municipality - see Ohio R.C. 723.02
-* Excavation liability - see Ohio R.C. 723.49
+* Establishment and care of streets - see Ohio R.C. [715.19][ORC Section 715.19], 717.01, 723.01
+* Openings by the Municipality - see Ohio R.C. [723.02][ORC Section 723.02]
+* Excavation liability - see Ohio R.C. [723.49][ORC Section 723.49]
 * Street obstructions and special uses - see TRAF. Ch. 311
 * Driving on street while closed for repair - see TRAF. 331.26
 * Abandoned excavations - see GEN. OFF. 521.03
@@ -250,3 +250,7 @@ third degree. Each day's violation shall constitute a separate offense.\
 ### Exhibit C
 
 [Image]
+
+[ORC Section 715.19]:<https://codes.ohio.gov/ohio-revised-code/section-715.19>
+[ORC Section 723.02]:<https://codes.ohio.gov/ohio-revised-code/section-723.02>
+[ORC Section 723.49]:<https://codes.ohio.gov/ohio-revised-code/section-723.49>

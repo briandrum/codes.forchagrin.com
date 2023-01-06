@@ -331,12 +331,12 @@ shall be conducted by the Board of Zoning Appeals.
 
 5. _(e)_ Injunctive Relief: It shall be unlawful for any owner/operator to
 violate any provision or fail to comply with any of the requirements of this
-regulation pursuant to Ohio R.C. 3709.211. If a owner/operator has violated or
-continues to violate the provisions of this regulation, the Village of Chagrin
-Falls may petition for a preliminary or permanent injunction restraining the
-owner/operator from activities that would create further violations or
-compelling the owner/operator to perform abatement or remediation of the
-violation.\
+regulation pursuant to Ohio R.C. [3709.211][ORC Section 3709.211]. If a
+owner/operator has violated or continues to violate the provisions of this
+regulation, the Village of Chagrin Falls may petition for a preliminary or
+permanent injunction restraining the owner/operator from activities that would
+create further violations or compelling the owner/operator to perform abatement
+or remediation of the violation.\
 (Ord. 2011-40. Passed 6-27-11.)
 
 ## 1359.10   Remedies not exclusive
@@ -346,6 +346,7 @@ available under any applicable federal, state or local law and it is in the
 discretion of the Village of Chagrin Falls to seek cumulative remedies.\
 (Ord. 2011-40. Passed 6-27-11.)
 
-[Section 1359.07]:</chapters/chapter-1359-illicit-discharge-and-illegal-connection-control/#135907-discharge-and-connection-prohibitions>
+[CF Section 1359.07]:</chapters/chapter-1359-illicit-discharge-and-illegal-connection-control/#135907-discharge-and-connection-prohibitions>
+[ORC Section 3709.211]:<https://codes.ohio.gov/ohio-revised-code/section-3709.211>
 [Section 1359.07(a)(1)]:</chapters/chapter-1359-illicit-discharge-and-illegal-connection-control/#135907(a)(1)>
 [Section 1359.07(a)(3)]:</chapters/chapter-1359-illicit-discharge-and-illegal-connection-control/#135907(a)(3)>

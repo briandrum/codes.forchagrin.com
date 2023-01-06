@@ -18,16 +18,16 @@ title: "Chapter 1519: Fireworks"
 ## Cross references
 
 * Manufacturers to comply with building and zoning ordinances - see Ohio R.C. [3743.06(F)][ORC Section 3743.06]
-* Wholesalers to comply with building and zoning ordinances - see Ohio R.C. 3743.19(G)
-* Arrests, seizure of fireworks by certified fire safety inspector - see Ohio R.C. 3743.68
-* Conflict of Fire Marshal's rules with rules of Ohio Board of Building Standards - see Ohio R.C. 3781.11(D)
+* Wholesalers to comply with building and zoning ordinances - see Ohio R.C. [3743.19(G)][ORC Section 3743.19]
+* Arrests, seizure of fireworks by certified fire safety inspector - see Ohio R.C. [3743.68][ORC Section 3743.68]
+* Conflict of Fire Marshal's rules with rules of Ohio Board of Building Standards - see Ohio R.C. [3781.11(D)][ORC Section 3781.11]
 
 ## 1519.01   Definitions
 
 As used in this chapter:
 
 1. _(a)_ "Beer" and "intoxicating liquor" have the same meanings as in Ohio R.C.
-4301.01.
+[4301.01][ORC Section 4301.01].
 
 2. _(b)_ "Booby trap" means a small tube that has a string protruding from both
 ends, that has a friction-sensitive composition and that is ignited by pulling
@@ -47,7 +47,8 @@ quantity of explosive composition and that is ignited in a cigarette.
     using the designation "Division 1.4" in Title 49, Code of Federal
     Regulations.
 
-5. _(e)_ "Controlled substance" has the same meaning as in Ohio R.C. 3719.01.
+5. _(e)_ "Controlled substance" has the same meaning as in Ohio R.C.
+[3719.01][ORC Section 3719.01].
 
 6. _(f)_ "Fireworks" means any composition or device prepared for the purpose of
 producing a visible or an audible effect by combustion, deflagration or
@@ -55,13 +56,13 @@ detonation, except ordinary matches and except as provided in [Section
 1519.05][].
 
 7. _(g)_ "Licensed exhibitor of fireworks" or "licensed exhibitor" means a
-person licensed pursuant to Ohio R.C. 3743.50 to 3743.55.
+person licensed pursuant to Ohio R.C. [3743.50][ORC Section 3743.50] to 3743.55.
 
 8. _(h)_ "Licensed manufacturer of fireworks" or "licensed manufacturer" means a
-person licensed pursuant to Ohio R.C. 3743.02 to 3743.08.
+person licensed pursuant to Ohio R.C. [3743.02][ORC Section 3743.02] to 3743.08.
 
 9. _(i)_ "Licensed wholesaler of fireworks" or "licensed wholesaler" means a
-person licensed pursuant to Ohio R.C. 3743.15 to 3743.21.
+person licensed pursuant to Ohio R.C. [3743.15][ORC Section 3743.15] to 3743.21.
 
 10. _(j)_ "Novelties and trick noisemakers" include the following items:
 
@@ -139,13 +140,13 @@ Fire Chief or Fire Prevention Officer.
     public fireworks exhibition only if satisfied, based on the inspection, that
     the premises on which the exhibition will be conducted allow the exhibitor
     to comply with the rules adopted by the Fire Marshal pursuant to Ohio R.C.
-    3743.53 (B) and (E) and that the applicant is, in fact, a licensed exhibitor
-    of fireworks. The Fire Chief or Fire Prevention Officer in consultation with
-    the Police Chief or other similar chief law enforcement officer, or a
-    designee of such Police Chief or similar chief law enforcement officer, may
-    inspect the premises immediately prior to the exhibition to determine if the
-    exhibitor has complied with the rules, and may revoke the permit for
-    noncompliance with the rules.
+    [3743.53][ORC Section 3743.53] (B) and (E) and that the applicant is, in
+    fact, a licensed exhibitor of fireworks. The Fire Chief or Fire Prevention
+    Officer in consultation with the Police Chief or other similar chief law
+    enforcement officer, or a designee of such Police Chief or similar chief law
+    enforcement officer, may inspect the premises immediately prior to the
+    exhibition to determine if the exhibitor has complied with the rules, and
+    may revoke the permit for noncompliance with the rules.
 
 3. _(c)_ The Fire Chief or Fire Prevention Officer and the Police Chief shall
 not issue a permit until the applicant pays a permit fee of one hundred twenty-
@@ -210,8 +211,8 @@ compliance with this chapter and Ohio R.C. [Chapter 3743][ORC Chapter 3743].\
 
 1. _(a)_ No licensed exhibitor of fireworks shall fail to comply with the
 applicable requirements of the rules adopted by the Fire Marshal pursuant to
-Ohio R.C. 3743.53(B) and (E) or to comply with Divisions (C) and (D) of that
-section.
+Ohio R.C. [3743.53(B)][ORC Section 3743.53] and (E) or to comply with Divisions
+(C) and (D) of that section.
 
 2. _(b)_ No licensed exhibitor of fireworks shall conduct a fireworks exhibition
 unless a permit has been secured for the exhibition pursuant to [Section
@@ -221,8 +222,8 @@ law enforcement official or a designee of such Police Chief or other similar law
 enforcement official pursuant to that section.
 
 3. _(c)_ No licensed exhibitor of fireworks shall acquire fireworks for use at a
-fireworks exhibition other than in accordance with Ohio R.C. 3743.54 and
-3743.55.
+fireworks exhibition other than in accordance with Ohio R.C. [3743.54][ORC
+Section 3743.54] and [3743.55][ORC Section 3743.55].
 
 4. _(d)_ No licensed exhibitor of fireworks or other person associated with the
 conduct of a fireworks exhibition shall have possession or control of, or be
@@ -231,29 +232,34 @@ while on the premises on which the exhibition is being conducted.
 
 5. _(e)_ No licensed exhibitor of fireworks shall permit an employee to assist
 the licensed exhibitor in conducting fireworks exhibitions unless the employee
-is registered with the Fire Marshal under Ohio R.C. 3743.56.\
+is registered with the Fire Marshal under Ohio R.C. [3743.56][ORC Section
+3743.56].\
 (ORC 3743.64)
 
 ## 1519.04   Possession, sale or discharge prohibited; exceptions
 
 1. _(a)_ No person shall possess fireworks in this Municipality or shall possess
 for sale or sell fireworks in this Municipality, except a licensed manufacturer
-of fireworks as authorized by Ohio R.C. 3743.02 to 3743.08, a licensed
-wholesaler of fireworks as authorized by Ohio R.C. 3743.15 to 3743.21, a
-shipping permit holder as authorized by Ohio R.C. 3743.40, an out-of-state
-resident as authorized by Ohio R.C. 3743.44, a resident of this State as
-authorized by Ohio R.C. 3743.45, or a licensed exhibitor of fireworks as
-authorized by Ohio R.C. 3743.50 to 3743.55 and [Section 1519.02][] of this
-Chapter 1519 and except as provided in [Section 1519.05][] of this Chapter 1519.
+of fireworks as authorized by Ohio R.C. [3743.02][ORC Section 3743.02] to
+3743.08, a licensed wholesaler of fireworks as authorized by Ohio R.C.
+[3743.15][ORC Section 3743.15] to 3743.21, a shipping permit holder as
+authorized by Ohio R.C. [3743.40][ORC Section 3743.40], an out-of-state resident
+as authorized by Ohio R.C. [3743.44][ORC Section 3743.44], a resident of this
+State as authorized by Ohio R.C. [3743.45][ORC Section 3743.45], or a licensed
+exhibitor of fireworks as authorized by Ohio R.C. [3743.50][ORC Section 3743.50]
+to 3743.55 and [Section 1519.02][CF Section 1519.02] of this Chapter 1519 and
+except as provided in [Section 1519.05][CF Section 1519.05] of this Chapter
+1519.
 
-2. _(b)_ Except as provided in [Section 1519.05][] and except for licensed
-exhibitors of fireworks authorized to conduct a fireworks exhibition pursuant to
-Ohio R.C. 3743.50 to 3743.55 and [Section 1519.02][] of this Chapter 1519, no
-person shall discharge, ignite or explode any fireworks in this Municipality,
-including a prohibition of the discharge, ignition or explosion of fireworks
-purchased pursuant to Section R. C. 3743.45, intending to prohibit the
-discharge, ignition or explosion of fireworks on private property on any of the
-days set forth in Ohio R.C. 3743.45(b).\
+2. _(b)_ Except as provided in [Section 1519.05][CF Section 1519.05] and except
+for licensed exhibitors of fireworks authorized to conduct a fireworks
+exhibition pursuant to Ohio R.C. [3743.50][ORC Section 3743.50] to 3743.55 and
+[Section 1519.02][CF Section 1519.02] of this Chapter 1519, no person shall
+discharge, ignite or explode any fireworks in this Municipality, including a
+prohibition of the discharge, ignition or explosion of fireworks purchased
+pursuant to Section R. C. 3743.45, intending to prohibit the discharge, ignition
+or explosion of fireworks on private property on any of the days set forth in
+Ohio R.C. [3743.45(b)][ORC Section 3743.45].\
 ([Ord. 2022-05. Passed 3-14-22.][])
 
 3. _(c)_ No person shall use in a theater or public hall, what is technically
@@ -269,9 +275,10 @@ licensee may eject any person from a licensed premises that is in any way
 disruptive to the safe operation of the premises.\
 ([Ord. 2022-05. Passed 3-14-22.][])
 
-5. _(e)_ Except as otherwise provided in Ohio R.C. 3743.44, no person, other
-than a licensed manufacturer, licensed wholesaler, licensed exhibitor, or
-shipping permit holder, shall possess 1.3 G fireworks or 1.4 G fireworks.\
+5. _(e)_ Except as otherwise provided in Ohio R.C. [3743.44][ORC Section
+3743.44], no person, other than a licensed manufacturer, licensed wholesaler,
+licensed exhibitor, or shipping permit holder, shall possess 1.3 G fireworks or
+1.4 G fireworks.\
 ([Ord. 2022-05. Passed 3-14-22.][])
 
 ## 1519.05   Application
@@ -333,8 +340,22 @@ first degree for a first offense and shall be fined not more than one thousand
 dollars ($1,000) or imprisoned not more than six months or both.\
 (ORC 3743.99(C))
 
-[ORC Chapter 3743]:<https://codes.ohio.gov/ohio-revised-code/chapter-3743/>
+[CF Section 1519.02]:</chapters/chapter-1519-fireworks/#151902-public-exhibition-permit-required-fee-bond-records>
+[CF Section 1519.05]:</chapters/chapter-1519-fireworks/#151905-application>
+[ORC Chapter 3743]:<https://codes.ohio.gov/ohio-revised-code/chapter-3743>
+[ORC Section 3719.01]:<https://codes.ohio.gov/ohio-revised-code/section-3719.01>
+[ORC Section 3743.02]:<https://codes.ohio.gov/ohio-revised-code/section-3743.02>
 [ORC Section 3743.06]:<https://codes.ohio.gov/ohio-revised-code/section-3743.06>
-[Ord. 2022-05. Passed 3-14-22.]:</ordinance-2022-05/>
-[Section 1519.02]:</chapters/chapter-1519-fireworks/#151902-public-exhibition-permit-required-fee-bond-records>
-[Section 1519.05]:</chapters/chapter-1519-fireworks/#151905-application>
+[ORC Section 3743.15]:<https://codes.ohio.gov/ohio-revised-code/section-3743.15>
+[ORC Section 3743.19]:<https://codes.ohio.gov/ohio-revised-code/section-3743.19>
+[ORC Section 3743.40]:<https://codes.ohio.gov/ohio-revised-code/section-3743.40>
+[ORC Section 3743.44]:<https://codes.ohio.gov/ohio-revised-code/section-3743.44>
+[ORC Section 3743.45]:<https://codes.ohio.gov/ohio-revised-code/section-3743.45>
+[ORC Section 3743.50]:<https://codes.ohio.gov/ohio-revised-code/section-3743.50>
+[ORC Section 3743.53]:<https://codes.ohio.gov/ohio-revised-code/section-3743.53>
+[ORC Section 3743.54]:<https://codes.ohio.gov/ohio-revised-code/section-3743.54>
+[ORC Section 3743.56]:<https://codes.ohio.gov/ohio-revised-code/section-3743.56>
+[ORC Section 3743.68]:<https://codes.ohio.gov/ohio-revised-code/section-3743.68>
+[ORC Section 3781.11]:<https://codes.ohio.gov/ohio-revised-code/section-3781.11>
+[ORC Section 4301.01]:<https://codes.ohio.gov/ohio-revised-code/section-4301.01>
+[Ord. 2022-05. Passed 3-14-22.]:</ordinance-2022-05>

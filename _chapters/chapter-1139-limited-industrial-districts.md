@@ -286,5 +286,5 @@ signs and environmental performance, refer to Chapters 1141 - 1150 of the
 Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
+[CF Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
 [Section 1139.02(b)(5)]:</chapters/chapter-1139-limited-industrial-districts/#113902(b)(5)>

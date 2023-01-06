@@ -18,8 +18,8 @@ title: "Chapter 933: Garbage and Refuse Collection"
 
 ## Cross references
 
-* Collection and disposal of garbage and refuse - see Ohio R.C. 715.43, 717.01
-* Employment of scavengers - see Ohio R.C. 3707.39
+* Collection and disposal of garbage and refuse - see Ohio R.C. [715.43][ORC Section 715.43], 717.01
+* Employment of scavengers - see Ohio R.C. [3707.39][ORC Section 3707.39]
 * Littering and deposit of garbage or refuse - see GEN. OFF. 521.08
 * Rat control - see GEN. OFF. 521.12
 
@@ -90,3 +90,6 @@ Whoever violates any of the provisions of this chapter shall be fined not
 more than five hundred dollars ($500.00) or imprisoned not more than six
 months, or both. Each day such violation continues shall constitute a separate
 offense.
+
+[ORC Section 715.43]:<https://codes.ohio.gov/ohio-revised-code/section-715.43>
+[ORC Section 3707.39]:<https://codes.ohio.gov/ohio-revised-code/section-3707.39>

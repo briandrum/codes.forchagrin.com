@@ -21,10 +21,10 @@ title: "Chapter 1353: Flood Damage Prevention"
 
 ## Cross references
 
-* Reduction of assessed valuation for establishing reservoirs - see Ohio R.C. 1521.09
-* Construction permits and prohibitions for dams, dikes and levees - see Ohio R.C. 1521.06
-* Flood control bonds; public capital improvements - see Ohio Const., Art. VIII, §2(i); ORC 129.70 et seq.
-* Basis of zoning districts - see Ohio R.C. 713.10
+* Reduction of assessed valuation for establishing reservoirs - see Ohio R.C. [1521.09][ORC Section 1521.09]
+* Construction permits and prohibitions for dams, dikes and levees - see Ohio R.C. [1521.06][ORC Section 1521.06]
+* Flood control bonds; public capital improvements - see Ohio Const., Art. VIII, §2(i); Ohio R.C. [129.70][ORC Section 129.70] et seq.
+* Basis of zoning districts - see Ohio R.C. [713.10][ORC Section 713.10]
 
 ## 1353.01   Statutory authorization; findings of fact; purpose and objectives
 
@@ -656,7 +656,7 @@ Administrative Officer shall include but are not limited to:
         elevations delineated in the Flood Elevation Profile for the Village
         shall prevail. The person contesting the location of the boundary shall
         be given a reasonable opportunity to appeal the interpretation as
-        provided in [Section 1353.05][].
+        provided in [Section 1353.05][CF Section 1353.05].
 
         2. _(B)_ Provide information, testimony or other evidence as needed
         during variance hearings.
@@ -774,15 +774,15 @@ Administrative Officer shall include but are not limited to:
     Administrative Officer in the enforcement or administration of this chapter.
 
     3. _(3)_ Meetings and hearings of the Board shall be conducted in accordance
-    with [Section 1111.04][] of the Zoning Code.
+    with [Section 1111.04][CF Section 1111.04] of the Zoning Code.
 
     4. _(4)_ Determination of a quorum, requirements for official decisions and
     the conduct of meetings of the Board shall be in accordance with [Section
     1111.05][] of the Zoning Code.
 
     5. _(5)_ Applications for appeals and variances shall be considered by the
-    Board in accordance with [Section 1111.03][] of the Zoning Code. Variances
-    shall be issued upon a determination that:
+    Board in accordance with [Section 1111.03][CF Section 1111.03] of the Zoning
+    Code. Variances shall be issued upon a determination that:
 
         1. _(A)_ The granting of a variance will not result in increased flood
         heights beyond that which is allowed in this chapter, additional threats
@@ -838,10 +838,10 @@ Administrative Officer shall include but are not limited to:
     granting of variances as it deems necessary to further the purposes of this
     chapter.
 
-    8. _(8)_ In addition to the requirements of [Section 1111.06][] of the
-    Zoning Code, the Chief Administrative Officer shall maintain the records of
-    all appeal actions and report any variances to the Federal Emergency
-    Management Agency upon request.
+    8. _(8)_ In addition to the requirements of [Section 1111.06][CF Section
+    1111.06] of the Zoning Code, the Chief Administrative Officer shall maintain
+    the records of all appeal actions and report any variances to the Federal
+    Emergency Management Agency upon request.
 
 2. _(b)_ **Conditions for Variances.**
 
@@ -853,7 +853,7 @@ Administrative Officer shall include but are not limited to:
     2. _(2)_ Additionally, variances for new construction and substantial
     improvements to existing structures in the floodplain shall be granted only
     after the Board considers and makes findings of fact as required in
-    paragraph (a) (6).
+    paragraph (a)(6).
 
     3. _(3)_ Notwithstanding the other provisions of this section, variances may
     be issued for the reconstruction, rehabilitation or restoration of historic
@@ -876,7 +876,8 @@ Administrative Officer shall include but are not limited to:
     resulting from the reduced lowest floor elevation.
 
 3. _(c)_ **Lapse of Variances.** A variance, once granted, shall expire in one
-year subject to the requirements of [Section 1111.10][] of the Zoning Code.
+year subject to the requirements of [Section 1111.10][CF Section 1111.10] of the
+Zoning Code.
 
 4. _(d)_ **Action by Council.** Following a decision by the Board, each case
 shall be referred to Council. After reviewing the Board's decision, Council may
@@ -1042,7 +1043,8 @@ following provisions are required:
 
         2. _(B)_ They must be fully licensed and ready for highway use, or
 
-        3. _(C)_ They must meet all standards of [Section 1353.06][].\
+        3. _(C)_ They must meet all standards of [Section 1353.06][CF Section
+        1353.06].\
         (Ord. 2010-45. Passed 9-13-10.)
 
 ## 1353.07   Floodways
@@ -1063,7 +1065,7 @@ base flood discharge.
 
 2. _(b)_ If subsection (a) hereof is satisfied, all new construction and
 substantial improvements shall comply with all applicable flood hazard reduction
-provisions of [Section 1353.06][] and this section.
+provisions of [Section 1353.06][CF Section 1353.06] and this section.
 
 3. _(c)_ Any encroachment within the floodway that would result in an increase
 in base flood elevations can only be granted upon the prior approval by the
@@ -1140,16 +1142,22 @@ separate offense. Nothing herein contained shall prevent the Village from taking
 such other lawful action as is necessary to prevent or remedy any violation.\
 (Ord. 2005-22. Passed 4-11-05.)
 
+[CF Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
+[CF Section 1111.04]:</chapters/chapter-1111-appeals-and-variances/#111104-notices>
+[CF Section 1111.05]:</chapters/chapter-1111-appeals-and-variances/#111105-meetings-quorum-and-vote>
+[CF Section 1111.06]:</chapters/chapter-1111-appeals-and-variances/#111106-record-of-decision>
+[CF Section 1111.10]:</chapters/chapter-1111-appeals-and-variances/#111110-action-by-council>
+[CF Section 1353.05]:</chapters/chapter-1353-flood-damage-prevention/#135305-variance-procedure>
+[CF Section 1353.06]:</chapters/chapter-1353-flood-damage-prevention/#135306-provisions-for-flood-hazard-reduction>
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
-[ORC Chapter 3733]:<https://codes.ohio.gov/ohio-revised-code/chapter-3733/>
+[ORC Chapter 3733]:<https://codes.ohio.gov/ohio-revised-code/chapter-3733>
 [ORC Section 111.15]:<https://codes.ohio.gov/ohio-revised-code/section-111.15>
+[ORC Section 129.70]:<https://codes.ohio.gov/ohio-revised-code/section-129.70>
+[ORC Section 713.10]:<https://codes.ohio.gov/ohio-revised-code/section-713.10>
+[ORC Section 1521.06]:<https://codes.ohio.gov/ohio-revised-code/section-1521.06>
+[ORC Section 1521.09]:<https://codes.ohio.gov/ohio-revised-code/section-1521.09>
 [ORC Section 4703.01]:<https://codes.ohio.gov/ohio-revised-code/section-4703.01>
 [ORC Section 4703.19]:<https://codes.ohio.gov/ohio-revised-code/section-4703.19>
-[Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
-[Section 1111.04]:</chapters/chapter-1111-appeals-and-variances/#111104-notices>
-[Section 1111.05]:</chapters/chapter-1111-appeals-and-variances/#111105-meetings-quorum-and-vote>
-[Section 1111.06]:</chapters/chapter-1111-appeals-and-variances/#111106-record-of-decision>
-[Section 1111.10]:</chapters/chapter-1111-appeals-and-variances/#111110-action-by-council>
 [Section 1353.03(b)]:</chapters/chapter-1353-flood-damage-prevention/#135303(b)>
 [Section 1353.04(a)(3)]:</chapters/chapter-1353-flood-damage-prevention/#135304(a)(3)>
 [Section 1353.04(a)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135304(a)(4)>
@@ -1157,9 +1165,7 @@ such other lawful action as is necessary to prevent or remedy any violation.\
 [Section 1353.04(d)(3)]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(3)>
 [Section 1353.04(d)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(4)>
 [Section 1353.04(d)(9)A.1.]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(9)(A)(1)>
-[Section 1353.05]:</chapters/chapter-1353-flood-damage-prevention/#135305-variance-procedure>
 [Section 1353.06(a)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135306(a)(4)>
 [Section 1353.06(b)(2)]:</chapters/chapter-1353-flood-damage-prevention/#135306(b)(2)>
 [Section 1353.06(b)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135306(b)(4)>
-[Section 1353.06]:</chapters/chapter-1353-flood-damage-prevention/#135306-provisions-for-flood-hazard-reduction>
 [Section 1353.07(a)]:</chapters/chapter-1353-flood-damage-prevention/#135307(a)>

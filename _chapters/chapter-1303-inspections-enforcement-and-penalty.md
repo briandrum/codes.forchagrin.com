@@ -22,7 +22,7 @@ title: "Chapter 1303: Inspections; Enforcement and Penalty"
 
 ## Cross references
 
-* Enforcement; supervision; records - see Ohio R.C. 3781.03
+* Enforcement; supervision; records - see Ohio R.C. [3781.03][ORC Section 3781.03]
 * Chief Administrative Officer to enforce Building Code regulations - see ADM. 133.03
 * Driving over sidewalks - see TRAF. 331.29
 * Improper drainage - see GEN. OFF. 517.04
@@ -91,7 +91,7 @@ repair, alteration or removal or any building which the Inspector has
 reasonable cause to believe is unsafe or a menace to life or limb or damaged or
 menaced by fire, upon showing their badge of office. Any person or persons
 interfering with them in the performance of such duties shall be liable to the
-penalty provided in [Section 1303.99][].\
+penalty provided in [Section 1303.99][CF Section 1303.99].\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1303.06   Records of inspector
@@ -168,4 +168,5 @@ imprisoned not more than six months, or both. Each day such violation continues
 shall constitute a separate offense.\
 (Ord. 69-771. Passed 7-l-68; Ord. 1990-79. Passed 10-8-90.)
 
-[Section 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
+[CF Section 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
+[ORC Section 3781.03]:<https://codes.ohio.gov/ohio-revised-code/section-3781.03>

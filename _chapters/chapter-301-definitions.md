@@ -161,10 +161,10 @@ electric bicycle", or a "class 3 electric bicycle" as defined in this section.\
 
 "Bus" means every motor vehicle designed for carrying more than nine passengers
 and used for the transportation of persons other than in a ridesharing
-arrangement as defined in Ohio R.C. 4511.01, and every motor vehicle, automobile
-for hire or funeral car, other than a taxicab or motor vehicle used in a
-ridesharing arrangement, designed and used for the transportation of persons for
-compensation.\
+arrangement as defined in Ohio R.C. [4511.01][ORC Section 4511.01], and every
+motor vehicle, automobile for hire or funeral car, other than a taxicab or motor
+vehicle used in a ridesharing arrangement, designed and used for the
+transportation of persons for compensation.\
 (ORC 4511.01(L))
 
 ## 301.06   Business district
@@ -379,8 +379,8 @@ loading or unloading merchandise or passengers.
 ## 301.22   Pedestrian
 
 "Pedestrian" means any natural person afoot. The term includes a personal
-delivery device as defined in Ohio R.C. 4511.513 unless the context clearly
-suggests otherwise.\
+delivery device as defined in Ohio R.C. [4511.513][ORC Section 4511.513] unless
+the context clearly suggests otherwise.\
 (ORC 4511.01(X))
 
 ## 301.23   Person
@@ -408,24 +408,26 @@ or to make arrests for violations of traffic regulations.\
 
 "Predicate motor vehicle or traffic offense" means any of the following:
 
-1. _(a)_ A violation of Ohio R.C. 4511.03, 4511.051, 4511.12, 4511.132, 4511.16,
-4511.20, 4511.201, 4511.21, 4511.211, 4511.213, 4511.22, 4511.23, 4511.25,
-4511.26, 4511.27, 4511.28, 4511.29, 4511.30, 4511.31, 4511.32, 4511.33, 4511.34,
-4511.35, 4511.36, 4511.37, 4511.38, 4511.39, 4511.40, 4511.41, 4511.42, 4511.43,
-4511.431, 4511.432, 4511.44, 4511.441, 4511.451, 4511.452, 4511.46, 4511.47,
-4511.48, 4511.481, 4511.49, 4511.50, 4511.511, 4511.522, 4511.53, 4511.54,
-4511.55, 4511.56, 4511.57, 4511.58, 4511.59, 4511.60, 4511.61, 4511.64, 4511.66,
-4511.661, 4511.68, 4511.70, 4511.701, 4511.71, 4511.711, 4511.712, 4511.713,
-4511.72, 4511.73, 4511.763, 4511.771, 4511.78 or 4511.84;
+1. _(a)_ A violation of Ohio R.C. [4511.03][ORC Section 4511.03], 4511.051,
+4511.12, 4511.132, 4511.16, 4511.20, 4511.201, 4511.21, 4511.211, 4511.213,
+4511.22, 4511.23, 4511.25, 4511.26, 4511.27, 4511.28, 4511.29, 4511.30, 4511.31,
+4511.32, 4511.33, 4511.34, 4511.35, 4511.36, 4511.37, 4511.38, 4511.39, 4511.40,
+4511.41, 4511.42, 4511.43, 4511.431, 4511.432, 4511.44, 4511.441, 4511.451,
+4511.452, 4511.46, 4511.47, 4511.48, 4511.481, 4511.49, 4511.50, 4511.511,
+4511.522, 4511.53, 4511.54, 4511.55, 4511.56, 4511.57, 4511.58, 4511.59,
+4511.60, 4511.61, 4511.64, 4511.66, 4511.661, 4511.68, 4511.70, 4511.701,
+4511.71, 4511.711, 4511.712, 4511.713, 4511.72, 4511.73, 4511.763, 4511.771,
+4511.78 or 4511.84;
 
-2. _(b)_ A violation of division (A)(2) of Ohio R.C. 4511.17, divisions (A) to
-(D) of Ohio R.C. 4511.51, or division (A) of Ohio R.C. 4511.74;
+2. _(b)_ A violation of division (A)(2) of Ohio R.C. [4511.17][ORC Section
+4511.17], divisions (A) to (D) of Ohio R.C. [4511.51][ORC Section 4511.51], or
+division (A) of Ohio R.C. [4511.74][ORC Section 4511.74];
 
-3. _(c)_ A violation of any provision of Ohio R.C. 4511.01 to 4511.76 for which
-no penalty otherwise is provided in the section that contains the provision
-violated;
+3. _(c)_ A violation of any provision of Ohio R.C. [4511.01][ORC Section
+4511.01] to 4511.76 for which no penalty otherwise is provided in the section
+that contains the provision violated;
 
-4. _(d)_ A violation of Ohio R.C. 4511.214.
+4. _(d)_ A violation of Ohio R.C. [4511.214][ORC Section 4511.214].
 
 5. _(e)_ A violation of a municipal ordinance that is substantially similar to
 any section or provision set forth or described in subsection (a) to (d) of this
@@ -455,7 +457,8 @@ aisle within a parking area, or a private grade crossing.\
 
 1. _(a)_ Ambulances, including private ambulance companies under contract to a
 municipal corporation, township or county and private ambulances and transport
-vehicles bearing license plates issued under Ohio R.C. 4503.49;
+vehicles bearing license plates issued under Ohio R.C. [4503.49][ORC Section
+4503.49];
 
 2. _(b)_ Motor vehicles used by public law enforcement officers or other persons
 sworn to enforce the criminal and traffic laws of the State or the Municipality;
@@ -480,7 +483,7 @@ regardless of whether such vehicle has already passed a hospital.\
 
 5. _(e)_ Vehicles used by the Commercial Motor Vehicle Safety Enforcement Unit
 for the enforcement of orders and rules of the Public Utilities Commission as
-specified in Ohio R.C. 5503.34.
+specified in Ohio R.C. [5503.34][ORC Section 5503.34].
 
 ## 301.28   Railroad
 
@@ -566,7 +569,7 @@ care center or type A family day-care home to transport children from the child
 day-care center or type A family day-care home to a school if the van or bus
 does not have more than fifteen children in the van or bus at any time. "Child
 day-care center" and "type A family day-care home" have the same meanings as in
-Ohio R.C. 5104.01.\
+Ohio R.C. [5104.01][ORC Section 5104.01].\
 (ORC 4511.01(F), (FFF))
 
 ## 301.36   Semitrailer
@@ -640,7 +643,7 @@ part of a major arterial system of streets or highways.\
 ## 301.43   Through street or highway
 
 "Through street or highway" means every street or highway as provided in
-[Section 313.02][].\
+[Section 313.02][CF Section 313.02].\
 (ORC 4511.01(HH))
 
 ## 301.44   Thruway
@@ -725,4 +728,14 @@ miles per hour.\
 refuse, trash or recyclable materials.\
 (ORC 4511.01(RRR))
 
-[Section 313.02]:</chapters/chapter-313-traffic-control-devices/#31302-through-streets-stop-and-yield-right-of-way-signs>
+[CF Section 313.02]:</chapters/chapter-313-traffic-control-devices/#31302-through-streets-stop-and-yield-right-of-way-signs>
+[ORC Section 4503.49]:<https://codes.ohio.gov/ohio-revised-code/section-4503.49>
+[ORC Section 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
+[ORC Section 4511.03]:<https://codes.ohio.gov/ohio-revised-code/section-4511.03>
+[ORC Section 4511.17]:<https://codes.ohio.gov/ohio-revised-code/section-4511.17>
+[ORC Section 4511.51]:<https://codes.ohio.gov/ohio-revised-code/section-4511.51>
+[ORC Section 4511.74]:<https://codes.ohio.gov/ohio-revised-code/section-4511.74>
+[ORC Section 4511.214]:<https://codes.ohio.gov/ohio-revised-code/section-4511.214>
+[ORC Section 4511.513]:<https://codes.ohio.gov/ohio-revised-code/section-4511.513>
+[ORC Section 5104.01]:<https://codes.ohio.gov/ohio-revised-code/section-5104.01>
+[ORC Section 5503.34]:<https://codes.ohio.gov/ohio-revised-code/section-5503.34>

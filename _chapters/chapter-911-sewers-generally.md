@@ -25,13 +25,13 @@ title: "Chapter 911: Sewers Generally"
 
 ## Cross references
 
-* Power to regulate water closets and privies - see Ohio R.C. 715.40
-* Power to construct sewerage system - see Ohio R.C. 715.40, 717.01
-* Compulsory sewer connections - see Ohio R.C. 729.06; BLDG. 1343.02
-* Management and control of sewerage system - see Ohio R.C. 729.50
-* Regulations to control house sewers and connections - see Ohio R.C. 729.51
-* Untreated sewage - see Ohio R.C. 3701.59
-* Interference with sewage flow - see Ohio R.C. 4933.24
+* Power to regulate water closets and privies - see Ohio R.C. [715.40][ORC Section 715.40]
+* Power to construct sewerage system - see Ohio R.C. [715.40][ORC Section 715.40], 717.01
+* Compulsory sewer connections - see Ohio R.C. [729.06][ORC Section 729.06]; BLDG. 1343.02
+* Management and control of sewerage system - see Ohio R.C. [729.50][ORC Section 729.50]
+* Regulations to control house sewers and connections - see Ohio R.C. [729.51][ORC Section 729.51]
+* Untreated sewage - see Ohio R.C. [3701.59][ORC Section 3701.59]
+* Interference with sewage flow - see Ohio R.C. [4933.24][ORC Section 4933.24]
 * Properly connected toilets required - see BLDG. 1343.01
 
 ## 911.01   Definitions
@@ -498,3 +498,10 @@ violation continues shall constitute a separate offense.
 liable to the Municipality for any expense, loss or damage occasioned the
 Municipality by reason of such violation.\
 (Ord. 1968-738. Passed 9-17-68.)
+
+[ORC Section 715.40]:<https://codes.ohio.gov/ohio-revised-code/section-715.40>
+[ORC Section 729.06]:<https://codes.ohio.gov/ohio-revised-code/section-729.06>
+[ORC Section 729.50]:<https://codes.ohio.gov/ohio-revised-code/section-729.50>
+[ORC Section 729.51]:<https://codes.ohio.gov/ohio-revised-code/section-729.51>
+[ORC Section 3701.59]:<https://codes.ohio.gov/ohio-revised-code/section-3701.59>
+[ORC Section 4933.24]:<https://codes.ohio.gov/ohio-revised-code/section-4933.24>

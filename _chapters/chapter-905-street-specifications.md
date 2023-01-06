@@ -12,9 +12,8 @@ title: "Chapter 905: Street Specifications"
 
 ## Cross references
 
-* Power to establish and care for streets - see Ohio R.C. 715.19, 717.01,
-723.01
-* Dedication and acceptance - see Ohio R.C. 723.03
+* Power to establish and care for streets - see Ohio R.C. [715.19][ORC Section 715.19], 717.01, 723.01
+* Dedication and acceptance - see Ohio R.C. [723.03][ORC Section 723.03]
 
 ## 905.01   Construction specifications
 
@@ -25,3 +24,6 @@ standards attached to original Ordinance 1973-903 and made a part hereof as
 though fully set forth, marked "Exhibit A," prepared by the Village Engineer, C.
 W. Courtney Engineering Company, dated October 11, 1965.\
 (Ord. 1973-903. Passed 4-3-73.)
+
+[ORC Section 715.19]:<https://codes.ohio.gov/ohio-revised-code/section-715.19>
+[ORC Section 723.03]:<https://codes.ohio.gov/ohio-revised-code/section-723.03>

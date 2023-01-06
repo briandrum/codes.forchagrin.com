@@ -21,9 +21,9 @@ title: "Chapter 129: Police Department"
 
 * Police Department - see CHTR. Art. VII, Sec. 1
 * Appointment and removal of police officers - see CHTR. Art. VII, Sec. 2
-* Assistance of State Criminal Bureau - see Ohio R.C. 109.51 et seq.
-* Police protection contracts - see Ohio R.C. 505.441, 737.04
-* Recovered property and disposition - see Ohio R.C. 737.29 et seq.
+* Assistance of State Criminal Bureau - see Ohio R.C. [109.51][ORC Section 109.51] et seq.
+* Police protection contracts - see Ohio R.C. [505.441][ORC Section 505.441], 737.04
+* Recovered property and disposition - see Ohio R.C. [737.29][ORC Section 737.29] et seq.
 * Resisting an officer - see GEN. OFF. 525.09
 * Chief blocking off streets - see TRAF. 311.03
 * Assisting Police Department - see GEN. OFF. 525.06
@@ -72,7 +72,7 @@ positions as authorized by ordinance of Council, including:
     position of Parking Enforcement Official, who shall serve as a member of the
     Parking Enforcement Unit of the Police Department. The responsibilities of
     Parking Enforcement Official and the Parking Enforcement Unit are more fully
-    described in [Section 129.10][] of this chapter.
+    described in [Section 129.10][CF Section 129.10] of this chapter.
 
     7. _(7)_ **Officer in Charge.** The Chief of Police shall designate an
     Officer in Charge of the Department during the absence, disability or
@@ -130,7 +130,7 @@ the pool of Applicants who:
     1. _(1)_ Fall within the age range set forth within this Section;
 
     2. _(2)_ Have timely completed an Application for Appointment, as described
-    in [Section 129.04][] of this Chapter;
+    in [Section 129.04][CF Section 129.04] of this Chapter;
 
     3. _(3)_ Have earned a high school diploma or general equivalency degree.
 
@@ -218,13 +218,14 @@ under control of the Police Chief, and shall at all times be considered as being
 on official police duty.
 
 2. _(b)_ Such patrol officers shall be paid by the Municipality at the officer's
-rate of pay set forth in [Section 149.23][].
+rate of pay set forth in [Section 149.23][CF Section 149.23].
 
 3. _(c)_ The Municipality shall be reimbursed by the private entity requesting
 such services at the patrol officer's actual rate now or hereafter established
-by [Section 149.23][], plus a fee for overhead amounting to forty percent (40%)
-of each patrol officer's pay for such service. A minimum charge of four hours
-shall be paid by the entity even if actual hours are less than four.
+by [Section 149.23][CF Section 149.23], plus a fee for overhead amounting to
+forty percent (40%) of each patrol officer's pay for such service. A minimum
+charge of four hours shall be paid by the entity even if actual hours are less
+than four.
 
 4. _(d)_ Such duty shall be restricted to the limits of the Municipality and/or
 any Valley Enforcement Group municipality.
@@ -257,11 +258,11 @@ individuals shall serve as Parking Enforcement Officers.
 
 2. _(b)_ **Head of the Parking Enforcement Unit.** The Mayor, pursuant to his
 authority under the Charter of Chagrin Falls and consistent with Ohio R.C.
-737.161, shall be the executive head of the Parking Enforcement Unit and shall
-make all appointments and removals of Parking Enforcement Officers, subject to
-any general rules prescribed by the Village Council by ordinance. The Mayor
-shall prescribe rules for the organization, training, administration, control,
-and conduct of the Parking Enforcement Unit.
+[737.161][ORC Section 737.161], shall be the executive head of the Parking
+Enforcement Unit and shall make all appointments and removals of Parking
+Enforcement Officers, subject to any general rules prescribed by the Village
+Council by ordinance. The Mayor shall prescribe rules for the organization,
+training, administration, control, and conduct of the Parking Enforcement Unit.
 
 3. _(c)_ **Enforcement Authority.** The authority of Parking Enforcement
 Officers is limited to the enforcement of all parking violations listed in
@@ -269,9 +270,14 @@ Chapter 351. The Fire Prevention Officer is also authorized to enforce Chapter
 1503.
 
 4. _(d)_ **Training.** Parking Enforcement Officers shall receive training as
-directed by Ohio R.C. 737.161.\
+directed by Ohio R.C. [737.161][ORC Section 737.161].\
 (Ord. 2015-21. Passed 7-27-15.)
 
-[Section 129.04]:</chapters/chapter-129-police-department/#12904-application-examination-and-evaluation-of-candidates>
-[Section 129.10]:<>
-[Section 149.23]:</chapters/chapter-149-employment-provisions/#14923-payment-of-part-time-police-officers-at-construction-projects-regulation-of-part-time-employment-of-police-officers>
+[CF Section 129.04]:</chapters/chapter-129-police-department/#12904-application-examination-and-evaluation-of-candidates>
+[CF Section 129.10]:<>
+[CF Section 149.23]:</chapters/chapter-149-employment-provisions/#14923-payment-of-part-time-police-officers-at-construction-projects-regulation-of-part-time-employment-of-police-officers>
+[ORC Section 109.51]:<https://codes.ohio.gov/ohio-revised-code/section-109.51>
+[ORC Section 505.441]:<https://codes.ohio.gov/ohio-revised-code/section-505.441>
+[ORC Section 737.29]:<https://codes.ohio.gov/ohio-revised-code/section-737.29>
+[ORC Section 737.161]:<https://codes.ohio.gov/ohio-revised-code/section-737.161>
+[ORC Section 737.161]:<https://codes.ohio.gov/ohio-revised-code/section-737.161>

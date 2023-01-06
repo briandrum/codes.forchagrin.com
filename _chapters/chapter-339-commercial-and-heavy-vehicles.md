@@ -29,25 +29,26 @@ title: "Chapter 339: Commercial and Heavy Vehicles"
 ## Cross references
 
 * See sectional histories for similar State law
-* Weighing vehicle; removal of excess load - see Ohio R.C. 4513.33
-* Arrest notice of driver - see Ohio R.C. 5577.14
+* Weighing vehicle; removal of excess load - see Ohio R.C. [4513.33][ORC Section 4513.33]
+* Arrest notice of driver - see Ohio R.C. [5577.14][ORC Section 5577.14]
 * Slower moving vehicles to be driven in right-hand lane - see TRAF. 331.01(b)
 
 ## 339.01   Oversize or overweight vehicle operation on state routes; state permit
 
 1. _(a)_ No person shall operate or move a vehicle or combination of vehicles of
 a size or weight of vehicle or load exceeding the maximum specified in Ohio R.C.
-5577.01 to 5577.09, inclusive, or otherwise not in conformity with Ohio R.C.
-4513.01 to 4513.37, inclusive, upon any State route within the Municipality,
-except pursuant to special written permit issued by the Ohio Director of
-Transportation, or upon any local truck route. Every such permit shall be
-carried in the vehicle or combination of vehicles to which it refers and shall
-be open to inspection by any police officer. No holder of a permit issued by the
-Ohio Director of Transportation shall be required to obtain any local permit or
-license or pay any local fee or charge for movement on any State route within
-the Municipality; however, it shall be unlawful to operate any such vehicle or
-combination of vehicles upon any roadway within the Municipality which is not a
-State route, except as provided in [Section 339.02][].\
+[5577.01][ORC Section 5577.01] to 5577.09, inclusive, or otherwise not in
+conformity with Ohio R.C. [4513.01][ORC Section 4513.01] to 4513.37, inclusive,
+upon any State route within the Municipality, except pursuant to special written
+permit issued by the Ohio Director of Transportation, or upon any local truck
+route. Every such permit shall be carried in the vehicle or combination of
+vehicles to which it refers and shall be open to inspection by any police
+officer. No holder of a permit issued by the Ohio Director of Transportation
+shall be required to obtain any local permit or license or pay any local fee or
+charge for movement on any State route within the Municipality; however, it
+shall be unlawful to operate any such vehicle or combination of vehicles upon
+any roadway within the Municipality which is not a State route, except as
+provided in [Section 339.02][CF Section 339.02].\
 (ORC 4513.34)
 
 2. _(b)_
@@ -74,10 +75,11 @@ and highways under jurisdiction of the Municipality may, in his discretion, upon
 application in writing and good cause being shown therefor, issue a special
 permit in writing authorizing the applicant to operate or move a vehicle or
 combination of vehicles of a size or weight or load exceeding the maximum
-specified in Ohio R.C. 5577.01 through 5577.09 or otherwise not in conformity
-with the provisions of this Traffic Code upon any highway under the jurisdiction
-of the Municipality. Any such permit may be issued for a single or round trip,
-in special instances, for a certain period of time.
+specified in Ohio R.C. [5577.01][ORC Section 5577.01] through 5577.09 or
+otherwise not in conformity with the provisions of this Traffic Code upon any
+highway under the jurisdiction of the Municipality. Any such permit may be
+issued for a single or round trip, in special instances, for a certain period of
+time.
 
 2. _(b)_ The application for any such permit shall be in such form as the Mayor
 or his authorized representative may prescribe.
@@ -126,7 +128,7 @@ this section.
 
     1. _(1)_ 66 feet for passenger bus type vehicles and articulated passenger
     bus type vehicles operated by a regional transit authority pursuant to Ohio
-    R.C. 306.30 to 306.54;
+    R.C. [306.30][ORC Section 306.30] to 306.54;
 
     2. _(2)_ 45 feet for all other passenger bus type vehicles;
 
@@ -214,10 +216,10 @@ equipment. The owner or operator of any vehicle, machinery or equipment not
 specifically enumerated in this section but the dimensions of which exceed the
 dimensions provided by this section, when operating the same on the highways and
 streets of this State shall comply with the rules of the Director governing such
-movement, that the Director may adopt. Ohio R.C. 119.01 to 119.13 apply to any
-rules the Director adopts under this section, or the amendment or rescission of
-the rules, and any person adversely affected shall have the same right of appeal
-as provided in those sections.
+movement, that the Director may adopt. Ohio R.C. [119.01][ORC Section 119.01] to
+119.13 apply to any rules the Director adopts under this section, or the
+amendment or rescission of the rules, and any person adversely affected shall
+have the same right of appeal as provided in those sections.
 
     This section does not require the State, the Municipality, County, township
     or any railroad or other private corporation to provide sufficient vertical
@@ -226,7 +228,7 @@ as provided in those sections.
     thoroughfares in the Municipality.
 
 8. _(h)_ As used in this section, "recreational vehicle" has the same meaning as
-in Ohio R.C. 4501.01.\
+in Ohio R.C. [4501.01][ORC Section 4501.01].\
 (ORC 5577.05)
 
 9. _(i)_ Whoever violates this section is guilty of a minor misdemeanor on a
@@ -311,16 +313,16 @@ drawing vehicle with stay chains or cables of sufficient size and strength to
 prevent the towed vehicle's parting from the drawing vehicle.
 
 4. _(d)_ Every trailer or semitrailer, except pole and cable trailers and pole
-and cable dollies operated by a public utility, as defined in Ohio R.C. 5727.01,
-shall be equipped with a coupling device which shall be so designed and
-constructed that the trailer will follow substantially in the path of the
-vehicle drawing it, without whipping or swerving from side to side. Vehicles
-used to transport agricultural produce or agricultural production materials
-between a local place of storage and supply and the farm, when drawn or towed on
-a street or highway at a speed of twenty-five miles per hour or less, and
-vehicles designed and used exclusively to transport a boat between a place of
-storage and a marina, or in and around a marina, when drawn or towed on a street
-or highway for a distance of no more than ten miles and at a speed of
+and cable dollies operated by a public utility, as defined in Ohio R.C.
+[5727.01][ORC Section 5727.01], shall be equipped with a coupling device which
+shall be so designed and constructed that the trailer will follow substantially
+in the path of the vehicle drawing it, without whipping or swerving from side to
+side. Vehicles used to transport agricultural produce or agricultural production
+materials between a local place of storage and supply and the farm, when drawn
+or towed on a street or highway at a speed of twenty-five miles per hour or
+less, and vehicles designed and used exclusively to transport a boat between a
+place of storage and a marina, or in and around a marina, when drawn or towed on
+a street or highway for a distance of no more than ten miles and at a speed of
 twenty-five miles per hour or less shall have a drawbar or other connection,
 including the hitch mounted on the towing vehicle, which shall be of sufficient
 strength to pull all the weight towed thereby. Only one such vehicle used to
@@ -384,7 +386,7 @@ tailgate, tarpaulins, chains (except ground or contact chains), ropes, stakes,
 poles, and the like, or any part of the load, are securely fastened to prevent
 dangling, flapping, swinging or falling from the side, end or top of the load or
 body. All projecting cargo shall be properly guarded by a red flag or cloth or a
-red light or lantern as required by [Section 337.08][].
+red light or lantern as required by [Section 337.08][CF Section 337.08].
 
 3. _(c)_ Whoever violates this section is guilty of a minor misdemeanor on a
 first offense; on a second offense within one year after the first offense, the
@@ -653,6 +655,14 @@ necessary to reduce the weight of such vehicle to the limit permitted under this
 chapter.\
 (ORC 4513.33)
 
-[Section 337.08]:</chapters/chapter-337-safety-and-equipment/#33708-red-light-or-red-flag-on-extended-loads>
-[Section 339.02]:</chapters/chapter-339-commercial-and-heavy-vehicles/#33902-use-of-local-streets-local-permit-and-conditions>
-[Section 339.13]:</chapters/chapter-339-commercial-and-heavy-vehicles/#33913-equipment-required-at-night>
+[CF Section 337.08]:</chapters/chapter-337-safety-and-equipment/#33708-red-light-or-red-flag-on-extended-loads>
+[CF Section 339.02]:</chapters/chapter-339-commercial-and-heavy-vehicles/#33902-use-of-local-streets-local-permit-and-conditions>
+[CF Section 339.13]:</chapters/chapter-339-commercial-and-heavy-vehicles/#33913-equipment-required-at-night>
+[ORC Section 119.01]:<https://codes.ohio.gov/ohio-revised-code/section-119.01>
+[ORC Section 306.30]:<https://codes.ohio.gov/ohio-revised-code/section-306.30>
+[ORC Section 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
+[ORC Section 4513.01]:<https://codes.ohio.gov/ohio-revised-code/section-4513.01>
+[ORC Section 4513.33]:<https://codes.ohio.gov/ohio-revised-code/section-4513.33>
+[ORC Section 5577.01]:<https://codes.ohio.gov/ohio-revised-code/section-5577.01>
+[ORC Section 5577.14]:<https://codes.ohio.gov/ohio-revised-code/section-5577.14>
+[ORC Section 5727.01]:<https://codes.ohio.gov/ohio-revised-code/section-5727.01>

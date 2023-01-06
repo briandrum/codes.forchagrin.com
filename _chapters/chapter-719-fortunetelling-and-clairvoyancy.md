@@ -13,7 +13,7 @@ title: "Chapter 719: Fortunetelling and Clairvoyancy"
 
 ## Cross references
 
-* Power to regulate - see Ohio R.C. 2911.16
+* Power to regulate - see Ohio R.C. [2911.16][ORC Section 2911.16]
 
 ## 719.01   License required
 
@@ -25,3 +25,5 @@ astrologer, fortuneteller, clairvoyant, palmist or tea leaf reader.
 Whoever violates Section 719.01 shall be fined not more than five hundred dollars ($500.00) or
 imprisoned not more than six months, or both. Each day such violation continues
 shall constitute a separate offense.
+
+[ORC Section 2911.16]:<https://codes.ohio.gov/ohio-revised-code/section-2911.16>

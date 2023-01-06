@@ -558,4 +558,4 @@ the foregoing sections, shall be guilty of a misdemeanor of the first degree.
 Each day shall constitute a separate offense.\
 (Ord. 2004-17. Passed 5-10-04.)
 
-[ORC Chapter 1509]:<https://codes.ohio.gov/ohio-revised-code/chapter-1509/>
+[ORC Chapter 1509]:<https://codes.ohio.gov/ohio-revised-code/chapter-1509>

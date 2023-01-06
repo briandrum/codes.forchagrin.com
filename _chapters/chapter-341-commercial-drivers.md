@@ -18,10 +18,10 @@ title: "Chapter 341: Commercial Drivers"
 ## Cross references
 
 * See sectional histories for similar State law
-* Disqualification - see Ohio R.C. 4506.16
-* Suspension or revocation of license - see Ohio R.C. 4507.16
-* Warning devices when disabled on freeways - see Ohio R.C. 4513.28
-* Arrest notice of driver - see Ohio R.C. 5577.14
+* Disqualification - see Ohio R.C. [4506.16][ORC Section 4506.16]
+* Suspension or revocation of license - see Ohio R.C. [4507.16][ORC Section 4507.16]
+* Warning devices when disabled on freeways - see Ohio R.C. [4513.28][ORC Section 4513.28]
+* Arrest notice of driver - see Ohio R.C. [5577.14][ORC Section 5577.14]
 * Load limits - see TRAF. Ch. 339
 
 ## 341.01   Definitions
@@ -107,9 +107,9 @@ driver's license.
 Vehicles that authorizes an individual to drive.
 
 9. _(i)_ "Drug of abuse" means any controlled substance, dangerous drug as
-defined in Ohio R.C. 4729.01 or over-the-counter medication that, when taken in
-quantities exceeding the recommended dosage, can result in impairment of
-judgment or reflexes.
+defined in Ohio R.C. [4729.01][ORC Section 4729.01] or over-the-counter
+medication that, when taken in quantities exceeding the recommended dosage, can
+result in impairment of judgment or reflexes.
 
 10. _(j)_ "Employer" means any person, including the Federal Government, any
 state and a political subdivision of any state, that owns or leases a commercial
@@ -130,7 +130,7 @@ livestock and poultry production, and livestock, poultry and other animals and
 things used for breeding, feeding, or other purposes connected with the
 operation of the farm, when the truck is operated in accordance with this
 subsection and is not used in the operations of a motor carrier, as defined in
-Ohio R.C. 4923.01.
+Ohio R.C. [4923.01][ORC Section 4923.01].
 
 13. _(m)_ "Fatality" means the death of a person as the result of a motor
 vehicle accident occurring not more than three hundred sixty-five days prior to
@@ -164,31 +164,34 @@ declaring that a driver, commercial motor vehicle or commercial motor carrier
 operation is out of service as defined in 49 C.F.R. 390.5.
 
 20. _(t)_ "Public safety vehicle" has the same meaning as in divisions (E)(1)
-and (3) of Ohio R.C. 4511.01.
+and (3) of Ohio R.C. [4511.01][ORC Section 4511.01].
 
 21. _(u)_ "Recreational vehicle" includes every vehicle that is defined as a
-recreational vehicle in Ohio R.C. 4501.01 and is used exclusively for purposes
-other than engaging in business for profit.
+recreational vehicle in Ohio R.C. [4501.01][ORC Section 4501.01] and is used
+exclusively for purposes other than engaging in business for profit.
 
-22. _(v)_ "School bus" has the same meaning as in Ohio R.C. 4511.01.
+22. _(v)_ "School bus" has the same meaning as in Ohio R.C. [4511.01][ORC
+Section 4511.01].
 
 23. _(w)_ "State" means a state of the United States and includes the District
 of Columbia.
 
 24. _(x)_ "Tester" means a person or entity acting pursuant to a valid agreement
-entered into pursuant to Ohio R.C. 4506.09.
+entered into pursuant to Ohio R.C. [4506.09][ORC Section 4506.09].
 
 25. _(y)_ "United States" means the fifty states and the District of Columbia.
 
-26. _(z)_ "Vehicle" has the same meaning as in Ohio R.C. 4511.01.\
+26. _(z)_ "Vehicle" has the same meaning as in Ohio R.C. [4511.01][ORC Section
+4511.01].\
 (ORC 4506.01)
 
 ## 341.02   Exemptions
 
-[Section 341.02][] has been deleted from the Codified Ordinances. Former Ohio
-R.C. 4506.02 from which [Section 341.02][] was derived was repealed by Am. Sub.
-H.B. No. 68, effective June 29, 2005. The exemptions are now contained in
-[Section 341.03][].
+[Section 341.02][CF Section 341.02] has been deleted from the Codified
+Ordinances. Former Ohio R.C. [4506.02][ORC Section 4506.02] from which [Section
+341.02][CF Section 341.02] was derived was repealed by Am. Sub. H.B. No. 68,
+effective June 29, 2005. The exemptions are now contained in [Section 341.03][CF
+Section 341.03].
 
 ## 341.03   Prerequisites to operation of a commercial motor vehicle
 
@@ -204,17 +207,18 @@ following shall apply:
         Vehicles, or by another jurisdiction recognized by this State;
 
         2. _(B)_ A valid examiner's commercial driving permit issued under Ohio
-        R.C. 4506.13;
+        R.C. [4506.13][ORC Section 4506.13];
 
         3. _(C)_ A valid restricted commercial driver's license and waiver for
-        farm- related service industries issued under Ohio R.C. 4506.24;
+        farm- related service industries issued under Ohio R.C. [4506.24][ORC
+        Section 4506.24];
 
         4. _(D)_ A valid commercial driver's license temporary instruction
         permit issued by the Registrar, provided that the person is accompanied
         by an authorized state driver's license examiner or tester or a person
         who has been issued and has in the person's immediate possession a
         current, valid commercial driver's license and who meets the
-        requirements of Ohio R.C. 4506.06(B).
+        requirements of Ohio R.C. [4506.06(B)][ORC Section 4506.06].
 
     2. _(2)_ No person who has been a resident of this State for thirty days or
     longer shall drive a commercial motor vehicle under the authority of a
@@ -321,12 +325,14 @@ the following:
     5. _(5)_ Drive a motor vehicle while under the influence of a controlled
     substance;
 
-    6. _(6)_ Drive a motor vehicle in violation of Ohio R.C. 4511.19 or a
-    municipal OVI ordinance as defined in Ohio R.C. 4511.181;
+    6. _(6)_ Drive a motor vehicle in violation of Ohio R.C. [4511.19][ORC
+    Section 4511.19] or a municipal OVI ordinance as defined in Ohio R.C.
+    [4511.181][ORC Section 4511.181];
 
     7. _(7)_ Use a motor vehicle in the commission of a felony;
 
-    8. _(8)_ Refuse to submit to a test under Ohio R.C. 4506.17 or 4511.191;
+    8. _(8)_ Refuse to submit to a test under Ohio R.C. [4506.17][ORC Section
+    4506.17] or 4511.191;
 
     9. _(9)_ Operate a commercial motor vehicle while the person's commercial
     driver's license or permit or other commercial driving privileges are
@@ -340,13 +346,13 @@ the following:
     335.14;
 
     12. _(12)_ Drive a commercial motor vehicle in violation of any provision of
-    Ohio R.C. 4511.61 to 4511.63 or any federal or local law or ordinance
-    pertaining to railroad-highway grade crossings;
+    Ohio R.C. [4511.61][ORC Section 4511.61] to 4511.63 or any federal or local
+    law or ordinance pertaining to railroad-highway grade crossings;
 
     13. _(13)_ Use a motor vehicle in the commission of a felony involving the
     manufacture, distribution, or dispensing of a controlled substance as
-    defined in Ohio R.C. 3719.01 or the possession with intent to manufacture,
-    distribute, or dispose a controlled substance.
+    defined in Ohio R.C. [3719.01][ORC Section 3719.01] or the possession with
+    intent to manufacture, distribute, or dispose a controlled substance.
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
 degree.\
@@ -385,7 +391,7 @@ of the following apply:
     4. _(4)_ The driver has more than one driver's license.
 
 3. _(c)_ No employer shall knowingly permit or authorize a driver to operate a
-commercial motor vehicle in violation of [Section 341.05][].
+commercial motor vehicle in violation of [Section 341.05][CF Section 341.05].
 
 4. _(d)_ No employer shall knowingly permit or authorize a driver to operate a
 commercial motor vehicle if the driver does not hold a valid, current commercial
@@ -404,10 +410,28 @@ commercial driver's license temporary instruction permit.
     fine not to exceed ten thousand dollars.\
     (ORC 4506.20)
 
-[ORC Chapter 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506/>
-[ORC Chapter 4905]:<https://codes.ohio.gov/ohio-revised-code/chapter-4905/>
-[ORC Chapter 4921]:<https://codes.ohio.gov/ohio-revised-code/chapter-4921/>
-[ORC Chapter 4923]:<https://codes.ohio.gov/ohio-revised-code/chapter-4923/>
-[Section 341.02]:</chapters/chapter-341-commercial-drivers/#34102-exemptions>
-[Section 341.03]:</chapters/chapter-341-commercial-drivers/#34103-prerequisites-to-operation-of-a-commercial-motor-vehicle>
-[Section 341.05]:</chapters/chapter-341-commercial-drivers/#34105-criminal-offenses>
+[CF Section 341.02]:</chapters/chapter-341-commercial-drivers/#34102-exemptions>
+[CF Section 341.03]:</chapters/chapter-341-commercial-drivers/#34103-prerequisites-to-operation-of-a-commercial-motor-vehicle>
+[CF Section 341.05]:</chapters/chapter-341-commercial-drivers/#34105-criminal-offenses>
+[ORC Chapter 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506>
+[ORC Chapter 4905]:<https://codes.ohio.gov/ohio-revised-code/chapter-4905>
+[ORC Chapter 4921]:<https://codes.ohio.gov/ohio-revised-code/chapter-4921>
+[ORC Chapter 4923]:<https://codes.ohio.gov/ohio-revised-code/chapter-4923>
+[ORC Section 3719.01]:<https://codes.ohio.gov/ohio-revised-code/section-3719.01>
+[ORC Section 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
+[ORC Section 4506.02]:<https://codes.ohio.gov/ohio-revised-code/section-4506.02>
+[ORC Section 4506.06]:<https://codes.ohio.gov/ohio-revised-code/section-4506.06>
+[ORC Section 4506.09]:<https://codes.ohio.gov/ohio-revised-code/section-4506.09>
+[ORC Section 4506.13]:<https://codes.ohio.gov/ohio-revised-code/section-4506.13>
+[ORC Section 4506.16]:<https://codes.ohio.gov/ohio-revised-code/section-4506.16>
+[ORC Section 4506.17]:<https://codes.ohio.gov/ohio-revised-code/section-4506.17>
+[ORC Section 4506.24]:<https://codes.ohio.gov/ohio-revised-code/section-4506.24>
+[ORC Section 4507.16]:<https://codes.ohio.gov/ohio-revised-code/section-4507.16>
+[ORC Section 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
+[ORC Section 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
+[ORC Section 4511.61]:<https://codes.ohio.gov/ohio-revised-code/section-4511.61>
+[ORC Section 4511.181]:<https://codes.ohio.gov/ohio-revised-code/section-4511.181>
+[ORC Section 4513.28]:<https://codes.ohio.gov/ohio-revised-code/section-4513.28>
+[ORC Section 4729.01]:<https://codes.ohio.gov/ohio-revised-code/section-4729.01>
+[ORC Section 4923.01]:<https://codes.ohio.gov/ohio-revised-code/section-4923.01>
+[ORC Section 5577.14]:<https://codes.ohio.gov/ohio-revised-code/section-5577.14>
