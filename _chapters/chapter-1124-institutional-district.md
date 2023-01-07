@@ -69,8 +69,8 @@ the main and accessory uses set forth below.
 
     5. _(5)_ Signs, as regulated in Chapter 1143 .
 
-    6. _(6)_ Lighting structures as regulated in Chapter 1150 of this Planning
-    and Zoning Code, and flag poles.
+    6. _(6)_ Lighting structures as regulated in [Chapter 1150][CF
+    Chapter 1150] of this Planning and Zoning Code, and flag poles.
 
     7. _(7)_ Limited sales incidental to the main use and completely enclosed
     within an otherwise permitted main building and further provided that such
@@ -90,18 +90,20 @@ Planning and Zoning Code
 for all main and accessory buildings.\
 (Ord. 1987-19. Passed 9-28-87.)
 
-3. _(c)_ Height.
+3. _(c)_ **Height.**
 
-    1. _(1)_ Main buildings. Three stories maximum and not exceeding forty feet.
+    1. _(1)_ **Main buildings.** Three stories maximum and not exceeding
+    forty feet.
 
-    2. _(2)_ Accessory structures. Eight feet maximum for fences and walls,
-    except fifteen feet maximum for fences necessary to enclose tennis courts;
-    fifteen feet maximum for other accessory structures.
+    2. _(2)_ **Accessory structures.** Eight feet maximum for fences and
+    walls, except fifteen feet maximum for fences necessary to enclose
+    tennis courts; fifteen feet maximum for other accessory structures.
 
-    3. _(3)_ Exceptions to height limitations. Rooftop mechanical equipment,
-    steeples, spires, cupolas, domes and similar features that do not add
-    additional floor area to the main building may extend a maximum of ten feet
-    above the highest point of the building on which they are located.
+    3. _(3)_ **Exceptions to height limitations.** Rooftop mechanical
+    equipment, steeples, spires, cupolas, domes and similar features
+    that do not add additional floor area to the main building may
+    extend a maximum of ten feet above the highest point of the building
+    on which they are located.
 
     4. _(4)_ Rooftop mechanical equipment shall be set back from any building
     face a distance at least equal to the height by which it exceeds the
@@ -154,8 +156,9 @@ grouping shall comply with the requirements of this District.\
 
 ## 1124.06   Lighting
 
-Outdoor lighting shall be governed by Chapter 1150, except that all lighting
-shall be extinguished between the hours of 11:00 p.m. and 7:00 a.m.\
+Outdoor lighting shall be governed by [Chapter 1150][CF Chapter 1150],
+except that all lighting shall be extinguished between the hours of
+11:00 p.m. and 7:00 a.m.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.07   Screening
@@ -175,3 +178,5 @@ For regulations regarding off-street parking and loading, landscaping, lighting,
 signs and environmental performance, refer to Chapters 1141 - 1150 of the
 Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
+
+[CF Chapter 1150]:</chapters/chapter-1150-outdoor-lighting/>
