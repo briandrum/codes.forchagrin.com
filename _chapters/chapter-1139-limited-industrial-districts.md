@@ -234,10 +234,11 @@ all main and accessory buildings.
     structures.
 
     3. _(3)_ Exceptions to height limitations. Rooftop mechanical equipment as
-    permitted under [Section 1139.02(b)(5)][] may extend a maximum of ten feet
-    above the highest point of the building on which it is located, provided
-    that such equipment is set back from any building face a distance at least
-    equal to the height by which it exceeds the building height.\
+    permitted under [Section 1139.02(b)(5)][CF Section 1139.02(b)(5)] may extend
+    a maximum of ten feet above the highest point of the building on which it is
+    located, provided that such equipment is set back from any building face a
+    distance at least equal to the height by which it exceeds the building
+    height.\
     (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1139.04   Yard and setback regulations
@@ -287,4 +288,4 @@ Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 [CF Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
-[Section 1139.02(b)(5)]:</chapters/chapter-1139-limited-industrial-districts/#113902(b)(5)>
+[CF Section 1139.02(b)(5)]:</chapters/chapter-1139-limited-industrial-districts/#113902(b)(5)>

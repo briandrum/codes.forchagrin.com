@@ -453,19 +453,19 @@ purposes of these regulations, the following studies and/or maps are adopted:
 
     3. _(3)_ Any hydrologic and hydraulic engineering analysis authored by a
     registered Professional Engineer in the State of Ohio, which has been
-    approved by the Village, as required by [Section 1353.06(a)(4)][]
-    Subdivision Proposals. Any revisions to the aforementioned maps and/or
-    studies are hereby adopted by reference and declared to be a part of these
-    regulations. Such maps and/or studies are on file at 21 West Washington
-    Street, Chagrin Falls, Ohio.\
+    approved by the Village, as required by [Section 1353.06(a)(4)][CF Section
+    1353.06(a)(4)] Subdivision Proposals. Any revisions to the aforementioned
+    maps and/or studies are hereby adopted by reference and declared to be a
+    part of these regulations. Such maps and/or studies are on file at 21 West
+    Washington Street, Chagrin Falls, Ohio.\
     (Ord. 2010-45. Passed 9-13-10.)
 
 3. _(c)_ **Compliance.** Unless specifically exempted from filing for a
-development permit as stated in [Section 1353.04(b)][], no structure or land
-shall hereafter be located, erected, constructed, reconstructed, repaired,
-extended, converted, enlarged or altered without full compliance with the terms
-of this chapter and all other applicable regulations which apply to uses within
-the jurisdiction of this chapter.
+development permit as stated in [Section 1353.04(b)][CF Section 1353.04(b)], no
+structure or land shall hereafter be located, erected, constructed,
+reconstructed, repaired, extended, converted, enlarged or altered without full
+compliance with the terms of this chapter and all other applicable regulations
+which apply to uses within the jurisdiction of this chapter.
 
 4. _(d)_ **Abrogation and Greater Restrictions.** This chapter is not intended
 to repeal, abrogate or impair any existing easements, covenants or deed
@@ -520,8 +520,8 @@ required:
 
     2. _(2)_ Elevation in relation to mean sea level to which any proposed
     nonresidential structure will be floodproofed in accordance with [Section
-    1353.06(b)(2)][] where base flood elevation data are utilized from any
-    source;
+    1353.06(b)(2)][CF Section 1353.06(b)(2)] where base flood elevation data are
+    utilized from any source;
 
     3. _(3)_ Certification by a registered professional engineer or architect
     that the floodproofing methods for any nonresidential structure meet the
@@ -587,7 +587,8 @@ Administrative Officer shall include but are not limited to:
         Insurance Rate Map of the Flood Insurance Study. Floodways may also be
         delineated in other sources of flood information. If the proposed
         development is located within a designated floodway, assure that the
-        encroachment provision of [Section 1353.07(a)][] is met.
+        encroachment provision of [Section 1353.07(a)][CF Section 1353.07(a)] is
+        met.
 
         4. _(D)_ Inspect all development projects before, during, and after
         construction to ensure proper elevation of the structure and to ensure
@@ -644,8 +645,9 @@ Administrative Officer shall include but are not limited to:
         that the flood-carrying capacity will not be diminished.
 
         3. _(C)_ Maintain engineering documentation required in [Section
-        1353.04(a)(4)][] that the flood carrying capacity of the altered or
-        relocated portion of said watercourse will not be diminished.
+        1353.04(a)(4)][CF Section 1353.04(a)(4)] that the flood carrying
+        capacity of the altered or relocated portion of said watercourse will
+        not be diminished.
 
     6. _(6)_ **Interpretation and appeals.**
 
@@ -712,14 +714,15 @@ Administrative Officer shall include but are not limited to:
 
                 4. _(d)_ Subdivision or large scale development proposals
                 requiring the establishment of base flood elevations in
-                accordance with [Section 1353.06(a)(4)][].
+                accordance with [Section 1353.06(a)(4)][CF Section
+                1353.06(a)(4)].
 
             2. _(2)_ It is the responsibility of the applicant to have technical
-            data, required in accordance with [Section 1353.04(d)(9)A.1.][],
-            prepared in a format required for a Conditional Letter of Map
-            Revision or Letter of Map Revision, and submitted to FEMA. Submittal
-            and processing fees for these map revisions shall be the
-            responsibility of the applicant.
+            data, required in accordance with [Section 1353.04(d)(9)A.1.][CF
+            Section 1353.04(d)(9)A.1.], prepared in a format required for a
+            Conditional Letter of Map Revision or Letter of Map Revision, and
+            submitted to FEMA. Submittal and processing fees for these map
+            revisions shall be the responsibility of the applicant.
 
             3. _(3)_ The Floodplain Administrator shall require a Conditional
             Letter of Map Revision prior to the issuance of a floodplain
@@ -735,7 +738,7 @@ Administrative Officer shall include but are not limited to:
             4. _(4)_ Floodplain development permits issued by the Floodplain
             Administrator shall be conditioned upon the applicant obtaining a
             Letter of Map Revision from FEMA for any development proposal
-            subject to [Section 1353.04(d)(9)A.1.][]
+            subject to [Section 1353.04(d)(9)A.1.][CF Section 1353.04(d)(9)A.1.]
 
         2. _(B)_ **Right to Submit New Technical Data.** The Floodplain
         Administrator may request changes to any of the information shown on an
@@ -758,7 +761,8 @@ Administrative Officer shall include but are not limited to:
         owner or owner's representative.
 
         2. _(B)_ For all development activities subject to the standards of
-        [Section 1353.04(d)(4)][], a Letter of Map Revision.\
+        [Section 1353.04(d)(4)][CF Section 1353.04(d)(4)], a Letter of Map
+        Revision.\
         (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.05   Variance procedure
@@ -950,10 +954,10 @@ standards are required:
     (Ord. 2005-22. Passed 4-11-05.)
 
 2. _(b)_ **Specific Standards.** In all special flood hazard areas where base
-flood elevation data have been provided as set forth in [Section 1353.03(b)][]
-or [Section 1353.04(d)(3)][], and in all areas that constitute flood protection
-elevations as determined by the Flood Damage Prevention Administrator, the
-following provisions are required:
+flood elevation data have been provided as set forth in [Section 1353.03(b)][CF
+Section 1353.03(b)] or [Section 1353.04(d)(3)][CF Section 1353.04(d)(3)], and in
+all areas that constitute flood protection elevations as determined by the Flood
+Damage Prevention Administrator, the following provisions are required:
 
     1. _(1)_ **Residential construction.** New construction and substantial
     improvement of any residential structures, including manufactured homes,
@@ -977,7 +981,7 @@ following provisions are required:
         that the design and methods of construction are in accordance with
         accepted standards of practice for meeting the standards of this
         subsection. Such certification shall be provided to the official as set
-        forth in [Section 1353.04(a)(3)][].
+        forth in [Section 1353.04(a)(3)][CF Section 1353.04(a)(3)].
 
     3. _(3)_ **Accessory structures.** New construction and substantial
     improvement of any accessory structures shall have the lowest floor,
@@ -985,8 +989,8 @@ following provisions are required:
     base flood elevation An exemption to the elevation or dry floodproofing
     standards may be granted for accessory structures (e.g., sheds, detached
     garages) containing 576 square feet or less in gross floor area. Such
-    structures shall meet the encroachment provisions of [Section 1353.07(a)][]
-    and the following additional standards:
+    structures shall meet the encroachment provisions of [Section 1353.07(a)][CF
+    Section 1353.07(a)] and the following additional standards:
 
         1. _(A)_ They shall not be used for human habitation;
 
@@ -1002,7 +1006,7 @@ following provisions are required:
         6. _(F)_ Service facilities, such as electrical and heating equipment,
         shall be elevated or floodproofed to or above the level of the flood
         protection elevation; and, they shall meet the opening requirements of
-        [Section 1353.06(b)(4)][].
+        [Section 1353.06(b)(4)][CF Section 1353.06(b)(4)].
 
     4. _(4)_ **Enclosures below the lowest floor base flood elevation.** The
     following standards apply to all new and substantially improved residential
@@ -1052,10 +1056,10 @@ following provisions are required:
 The Flood Insurance Study referenced in [Section 1353.03(b)][] identifies a
 segment within special flood hazard areas known as a floodway. Floodways may
 also be delineated in other sources of flood information as specified in
-[Section 1353.04(d)(3)][]. The floodway is an extremely hazardous area due to
-the velocity of floodwaters which carry debris, potential projectiles and
-erosion potential. The following provisions apply within all delineated floodway
-areas:
+[Section 1353.04(d)(3)][CF Section 1353.04(d)(3)]. The floodway is an extremely
+hazardous area due to the velocity of floodwaters which carry debris, potential
+projectiles and erosion potential. The following provisions apply within all
+delineated floodway areas:
 
 1. _(a)_ Prohibit encroachments, new construction, substantial improvements and
 other development unless a hydrologic and hydraulic analysis performed in
@@ -1147,8 +1151,19 @@ such other lawful action as is necessary to prevent or remedy any violation.\
 [CF Section 1111.05]:</chapters/chapter-1111-appeals-and-variances/#111105-meetings-quorum-and-vote>
 [CF Section 1111.06]:</chapters/chapter-1111-appeals-and-variances/#111106-record-of-decision>
 [CF Section 1111.10]:</chapters/chapter-1111-appeals-and-variances/#111110-action-by-council>
+[CF Section 1353.03(b)]:</chapters/chapter-1353-flood-damage-prevention/#135303(b)>
+[CF Section 1353.04(a)(3)]:</chapters/chapter-1353-flood-damage-prevention/#135304(a)(3)>
+[CF Section 1353.04(a)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135304(a)(4)>
+[CF Section 1353.04(b)]:</chapters/chapter-1353-flood-damage-prevention/#135304(b)>
+[CF Section 1353.04(d)(3)]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(3)>
+[CF Section 1353.04(d)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(4)>
+[CF Section 1353.04(d)(9)A.1.]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(9)(A)(1)>
 [CF Section 1353.05]:</chapters/chapter-1353-flood-damage-prevention/#135305-variance-procedure>
+[CF Section 1353.06(a)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135306(a)(4)>
+[CF Section 1353.06(b)(2)]:</chapters/chapter-1353-flood-damage-prevention/#135306(b)(2)>
+[CF Section 1353.06(b)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135306(b)(4)>
 [CF Section 1353.06]:</chapters/chapter-1353-flood-damage-prevention/#135306-provisions-for-flood-hazard-reduction>
+[CF Section 1353.07(a)]:</chapters/chapter-1353-flood-damage-prevention/#135307(a)>
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
 [ORC Chapter 3733]:<https://codes.ohio.gov/ohio-revised-code/chapter-3733>
 [ORC Section 111.15]:<https://codes.ohio.gov/ohio-revised-code/section-111.15>
@@ -1158,14 +1173,3 @@ such other lawful action as is necessary to prevent or remedy any violation.\
 [ORC Section 1521.09]:<https://codes.ohio.gov/ohio-revised-code/section-1521.09>
 [ORC Section 4703.01]:<https://codes.ohio.gov/ohio-revised-code/section-4703.01>
 [ORC Section 4703.19]:<https://codes.ohio.gov/ohio-revised-code/section-4703.19>
-[Section 1353.03(b)]:</chapters/chapter-1353-flood-damage-prevention/#135303(b)>
-[Section 1353.04(a)(3)]:</chapters/chapter-1353-flood-damage-prevention/#135304(a)(3)>
-[Section 1353.04(a)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135304(a)(4)>
-[Section 1353.04(b)]:</chapters/chapter-1353-flood-damage-prevention/#135304(b)>
-[Section 1353.04(d)(3)]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(3)>
-[Section 1353.04(d)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(4)>
-[Section 1353.04(d)(9)A.1.]:</chapters/chapter-1353-flood-damage-prevention/#135304(d)(9)(A)(1)>
-[Section 1353.06(a)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135306(a)(4)>
-[Section 1353.06(b)(2)]:</chapters/chapter-1353-flood-damage-prevention/#135306(b)(2)>
-[Section 1353.06(b)(4)]:</chapters/chapter-1353-flood-damage-prevention/#135306(b)(4)>
-[Section 1353.07(a)]:</chapters/chapter-1353-flood-damage-prevention/#135307(a)>

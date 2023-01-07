@@ -448,8 +448,8 @@ of Zoning Appeals regarding the Planning and Zoning Code of Chagrin Falls.
     provision, regulation, order, requirement, determination or any other action
     by the Village in relation to the Building Code, the standard of review for
     any appeal regarding an area regulation shall be the same as provided for
-    area variances found in [Section 1111.07(c)][] of the Planning and Zoning
-    Code.
+    area variances found in [Section 1111.07(c)][CF Section 1111.07(c)] of the
+    Planning and Zoning Code.
 
     2. _(2)_ Whenever the appeal relates to seeking a variance from required
     construction materials or methods, the standard of review shall be as
@@ -494,6 +494,7 @@ provide such advice and attend any hearing or meeting.\
 if no specific penalty is provided.)
 
 [CF Section 137.08]:</chapters/chapter-137-architectural-board-of-review/#13708-review-of-plans-time-limit>
+[CF Section 1111.07(c)]:</chapters/chapter-1111-appeals-and-variances/#111107(c)>
 [CF Section 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
 [CF Section 1307.01]:</chapters/chapter-1307-building-permits/#130701-building-permits-required-application-plans-and-drawings>
 [CF Section 1307.03]:</chapters/chapter-1307-building-permits/#130703-bonds>
@@ -503,4 +504,3 @@ if no specific penalty is provided.)
 [CF Section 1307.15]:</chapters/chapter-1307-building-permits/#130715-heating-installations>
 [ORC Section 971.02]:<https://codes.ohio.gov/ohio-revised-code/section-971.02>
 [Ord. 2022-19. Passed 6-13-22.]:</ordinance-2022-19>
-[Section 1111.07(c)]:</chapters/chapter-1111-appeals-and-variances/#111107(c)>

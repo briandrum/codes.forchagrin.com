@@ -459,7 +459,7 @@ and the applicable fees to the Cuyahoga SWCD as follows:
     by the Zoning Inspector.
 
 3. _(c)_ The Village Engineer and the Cuyahoga SWCD shall review the plans
-submitted under [Section 1355.06(a)][] or [(b)][Section 1355.06(b)] for
+submitted under [Section 1355.06(a)][] or [(b)][CF Section 1355.06(b)] for
 conformance with this regulation and approve, or return for revisions with
 comments and recommendations for revisions. A plan rejected because of
 deficiencies shall receive a narrative report stating specific problems and the
@@ -1594,12 +1594,12 @@ provisions of this regulation or other applicable laws, ordinances, rules, or
 regulations, or the orders of the Village of Chagrin Falls.\
 (Ord. 2016-80. Passed 12-12-16.)
 
+[CF Section 1355.01(d)]:</chapters/chapter-1355-erosion-and-sediment-control/#135501(d)>
+[CF Section 1355.06(a)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(a)>
+[CF Section 1355.06(b)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(b)>
+[CF Section 1355.09(b)(1)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(b)(1)>
+[CF Section 1355.09(g)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(g)>
 [CF Section 1355.09]:</chapters/chapter-1355-erosion-and-sediment-control/#135509-performance-standards>
 [CF Section 1355.14]:</chapters/chapter-1355-erosion-and-sediment-control/#135514-violations>
 [ORC Chapter 1515]:<https://codes.ohio.gov/ohio-revised-code/chapter-1515>
 [ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>
-[Section 1355.01(d)]:</chapters/chapter-1355-erosion-and-sediment-control/#135501(d)>
-[Section 1355.06(a)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(a)>
-[Section 1355.06(b)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(b)>
-[Section 1355.09(b)(1)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(b)(1)>
-[Section 1355.09(g)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(g)>

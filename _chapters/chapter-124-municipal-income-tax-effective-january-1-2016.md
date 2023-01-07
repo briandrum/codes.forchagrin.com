@@ -154,7 +154,7 @@ the feminine and the gender-neutral.
         or indirectly by the taxpayer and included in the taxpayer's federal
         taxable income unless an affiliated group of corporations includes that
         net profit in the group's federal taxable income in accordance with
-        [division (V)(3)(b) of Section 124.05][[Section 124.05(V)(3)(b)].
+        [division (V)(3)(b) of Section 124.05][[CF Section 124.05(V)(3)(b)].
 
         10. _(j)_ Add any loss incurred by a pass-through entity owned directly
         or indirectly by the taxpayer and included in the taxpayer's federal
@@ -4369,6 +4369,7 @@ Chapter.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 [CF Section 124.03]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403-imposition-of-tax>
+[CF Section 124.05(V)(3)(b)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(V)(3)(b)>
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
 [ORC Chapter 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
 [ORC Chapter 1705]:<https://codes.ohio.gov/ohio-revised-code/chapter-1705>
@@ -4407,4 +4408,3 @@ Chapter.\
 [ORC Section 5747.01]:<https://codes.ohio.gov/ohio-revised-code/section-5747.01>
 [ORC Section 5747.08]:<https://codes.ohio.gov/ohio-revised-code/section-5747.08>
 [ORC Title 57]:<https://codes.ohio.gov/ohio-revised-code/title-57>
-[Section 124.05(V)(3)(b)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(V)(3)(b)>

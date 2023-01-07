@@ -398,11 +398,11 @@ resulting therefrom.\
 Plan be developed and implemented for all soil disturbing activities disturbing
 one (1) or more acres of total land, or less than one (1) acre if part of a
 larger common plan of development or sale disturbing one (1) or more acres of
-total land, and on which any regulated activity of [Section 1357.01(c)][] is
-proposed. A Comprehensive Stormwater Management Plan must be developed and
-implemented for all commercial and industrial site development disturbing more
-than ¼-acre. The Village Engineer may require a comprehensive stormwater
-management plan on any site development regardless of disturbed area.
+total land, and on which any regulated activity of [Section 1357.01(c)][CF
+Section 1357.01(c)] is proposed. A Comprehensive Stormwater Management Plan must
+be developed and implemented for all commercial and industrial site development
+disturbing more than ¼-acre. The Village Engineer may require a comprehensive
+stormwater management plan on any site development regardless of disturbed area.
 
 2. _(b)_ The Village of Chagrin Falls shall administer this regulation, shall be
 responsible for determination of compliance with this regulation, and shall
@@ -1122,15 +1122,16 @@ in flow velocities. This shall include but not be limited to:
         comprehensive stormwater management plan, the Village Engineer may
         approve other SCMs if the applicant demonstrates to the Village
         Engineer's satisfaction that these SCMs meet the objectives of this
-        regulation as stated in [Section 1357.09(c)(6)][] of this Chapter.
+        regulation as stated in [Section 1357.09(c)(6)][CF Section
+        1357.09(c)(6)] of this Chapter.
 
         3. _(C)_ For sites greater than five (5) acres, or less than five (5)
         acres but part of a larger common plan of development or sale which will
         disturb five (5) or more acres, the Village Engineer may approve other
         SCMs if the applicant demonstrates to the [community engineer's]
         satisfaction that these SCMs meet the objectives of this regulation as
-        stated in [Section 1357.09(c)(6)][] of this Chapter, and has prior
-        written approval from the Ohio EPA.
+        stated in [Section 1357.09(c)(6)][CF Section 1357.09(c)(6)] of this
+        Chapter, and has prior written approval from the Ohio EPA.
 
         4. _(D)_ For the construction of new roads and roadway improvement
         projects by public entities (i.e. the state, counties, townships,
@@ -1452,10 +1453,10 @@ in flow velocities. This shall include but not be limited to:
                 as asphalt or concrete for all parking areas and driveways,
                 regardless of the surface proposed in the site description
                 except in instances of engineered permeable pavement systems.
-                From the volume determined in [Section 1357.09(d)(3)][] of this
-                Chapter, determine the percent increase in volume of runoff due
-                to development. Using the percentage, select the 24-hour
-                Critical Storm from Table 3.
+                From the volume determined in [Section 1357.09(d)(3)][CF Section
+                1357.09(d)(3)] of this Chapter, determine the percent increase
+                in volume of runoff due to development. Using the percentage,
+                select the 24-hour Critical Storm from Table 3.
 
                     **Table 3: 24-Hour Critical Storm**
 
@@ -1723,13 +1724,13 @@ provisions of this regulation or other applicable laws, ordinances, rules, or
 regulations, or the orders of the Village of Chagrin Falls.\
 (Ord. 2016-79. Passed 12-12-16.)
 
+[CF Section 1357.01(c)]:</chapters/chapter-1357-comprehensive-stormwater-management/#135701(c)>
 [CF Section 1357.01]:</chapters/chapter-1357-comprehensive-stormwater-management/#135701-purpose-and-scope>
 [CF Section 1357.07]:</chapters/chapter-1357-comprehensive-stormwater-management/#135707-compliance-with-state-and-federal-regulations>
 [CF Section 1357.08]:</chapters/chapter-1357-comprehensive-stormwater-management/#135708-comprehensive-stormwater-management-plan>
+[CF Section 1357.09(c)(6)]:<>
+[CF Section 1357.09(d)(3)]:<>
 [CF Section 1357.09]:</chapters/chapter-1357-comprehensive-stormwater-management/#135709-performance-standards>
 [CF Section 1357.10]:</chapters/chapter-1357-comprehensive-stormwater-management/#135710-alternative-actions>
 [CF Section 1357.12]:</chapters/chapter-1357-comprehensive-stormwater-management/#135712-maintenance-and-final-inspection-approval>
 [ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>
-[Section 1357.01(c)]:</chapters/chapter-1357-comprehensive-stormwater-management/#135701(c)>
-[Section 1357.09(c)(6)]:<>
-[Section 1357.09(d)(3)]:<>

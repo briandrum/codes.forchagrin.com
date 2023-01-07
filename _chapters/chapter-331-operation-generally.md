@@ -274,7 +274,8 @@ following conditions:
 
 2. _(b)_ This section does not apply to vehicles upon a one-way roadway, upon a
 roadway where traffic is lawfully directed to be driven to the left side or
-under the conditions described in [Section 331.01(a)(2)][].
+under the conditions described in [Section 331.01(a)(2)][CF Section
+331.01(a)(2)].
 
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
@@ -823,12 +824,12 @@ offense, the person is guilty of a misdemeanor of the second degree.\
 ### 331.211   Report of vehicle failing to yield right of way to public safety vehicle
 
 1. _(a)_ When the failure of a motor vehicle operator to yield the right-of-way
-to a public safety vehicle as required by [Section 331.21(a)][] impedes the
-ability of the public safety vehicle to respond to an emergency, any emergency
-personnel in the public safety vehicle may report the license plate number and a
-general description of the vehicle and the operator of the vehicle to the law
-enforcement agency exercising jurisdiction over the area where the alleged
-violation occurred.
+to a public safety vehicle as required by [Section 331.21(a)][CF Section
+331.21(a)] impedes the ability of the public safety vehicle to respond to an
+emergency, any emergency personnel in the public safety vehicle may report the
+license plate number and a general description of the vehicle and the operator
+of the vehicle to the law enforcement agency exercising jurisdiction over the
+area where the alleged violation occurred.
 
 2. _(b)_
 
@@ -838,10 +839,10 @@ violation occurred.
     alleged violation.
 
     2. _(2)_ If the identity of the operator at the time of an alleged violation
-    of [Section 331.21(a)][] is established, the law enforcement agency has
-    probable cause to issue either a written warning or a citation for that
-    violation, and the agency shall issue a written warning or a citation to the
-    operator.
+    of [Section 331.21(a)][CF Section 331.21(a)] is established, the law
+    enforcement agency has probable cause to issue either a written warning or a
+    citation for that violation, and the agency shall issue a written warning or
+    a citation to the operator.
 
     3. _(3)_ If the identity of the operator of the vehicle at the time of the
     alleged violation cannot be established, the law enforcement agency may
@@ -852,18 +853,18 @@ violation occurred.
 
 3. _(c)_
 
-    1. _(1)_ Whoever violates [Section 331.21(a)][] based on a report filed
-    under subsection (a) of this section is guilty of a minor misdemeanor and
-    shall be fined one hundred fifty dollars ($150.00).
+    1. _(1)_ Whoever violates [Section 331.21(a)][CF Section 331.21(a)] based on
+    a report filed under subsection (a) of this section is guilty of a minor
+    misdemeanor and shall be fined one hundred fifty dollars ($150.00).
 
     2. _(2)_ If a person who is issued a citation for a violation of [Section
-    331.21(a)][] based on a report filed under subsection (a) of this section
-    does not enter a written plea of guilty and does not waive the person's
-    right to contest the citation but instead appears in person in the proper
-    court to answer the charge, the trier of fact cannot find beyond a
-    reasonable doubt that the person committed that violation unless the
-    emergency personnel who filed the report appears in person in the court and
-    testifies.
+    331.21(a)][CF Section 331.21(a)] based on a report filed under subsection
+    (a) of this section does not enter a written plea of guilty and does not
+    waive the person's right to contest the citation but instead appears in
+    person in the proper court to answer the charge, the trier of fact cannot
+    find beyond a reasonable doubt that the person committed that violation
+    unless the emergency personnel who filed the report appears in person in the
+    court and testifies.
 
 4. _(d)_ As used in this section:
 
@@ -1666,8 +1667,10 @@ proper court to answer the charge.
 
 [CF Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
 [CF Section 313.03]:</chapters/chapter-313-traffic-control-devices/#31303-traffic-signal-indications>
+[CF Section 331.01(a)(2)]:</chapters/chapter-331-operation-generally/#33101(a)(2)>
 [CF Section 331.05]:</chapters/chapter-331-operation-generally/#33105-overtaking-passing-to-left-of-center>
 [CF Section 331.06]:</chapters/chapter-331-operation-generally/#33106-additional-restrictions-on-driving-upon-left-side-of-roadway>
+[CF Section 331.21(a)]:</chapters/chapter-331-operation-generally/#33121(a)>
 [CF Section 331.21]:</chapters/chapter-331-operation-generally/#33121-right-of-way-of-public-safety-or-coroners-vehicle>
 [CF Section 331.31]:</chapters/chapter-331-operation-generally/#33131-driving-upon-divided-roadways>
 [CF Section 331.211]:</chapters/chapter-331-operation-generally/#331211-report-of-vehicle-failing-to-yield-right-of-way-to-public-safety-vehicle>
@@ -1684,5 +1687,3 @@ proper court to answer the charge.
 [ORC Section 4511.771]:<https://codes.ohio.gov/ohio-revised-code/section-4511.771>
 [ORC Section 4513.171]:<https://codes.ohio.gov/ohio-revised-code/section-4513.171>
 [ORC Section 5511.02]:<https://codes.ohio.gov/ohio-revised-code/section-5511.02>
-[Section 331.01(a)(2)]:</chapters/chapter-331-operation-generally/#33101(a)(2)>
-[Section 331.21(a)]:</chapters/chapter-331-operation-generally/#33121(a)>

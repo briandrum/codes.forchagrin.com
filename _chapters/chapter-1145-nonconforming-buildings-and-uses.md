@@ -35,7 +35,7 @@ with the permitted uses in the districts involved.
 upon, expanded or extended, that nonconforming uses be changed only to a more
 restrictive use, and that the rebuilding of a nonconforming building, if
 substantially destroyed, shall be regulated in accordance with [Section
-1145.02(d)][] of this Planning and Zoning Code.
+1145.02(d)][CF Section 1145.02(d)] of this Planning and Zoning Code.
 
 4. _(d)_ Furthermore, the continuation of a lawful nonconformity shall not be
 construed as a reason for permitting nonconformities not specifically permitted
@@ -221,5 +221,5 @@ the two uses were on adjacent lots; provided however, that in a one-family and
 two-family district only one main building shall be permitted on a zoning lot.\
 (Ord. 2019-39. Passed 8-13-19.)
 
+[CF Section 1145.02(d)]:</chapters/chapter-1145-nonconforming-buildings-and-uses/#114502(d)>
 [ORC Section 713.15]:<https://codes.ohio.gov/ohio-revised-code/section-713.15>
-[Section 1145.02(d)]:</chapters/chapter-1145-nonconforming-buildings-and-uses/#114502(d)>

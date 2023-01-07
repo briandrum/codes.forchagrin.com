@@ -139,7 +139,7 @@ comply with subsection (c).
 
 2. _(b)_ **Side and Rear Yards.** Fences, walls and hedges shall not exceed six
 feet in height, except as required for tennis courts in subsection (d)(2) hereof
-or utility fences as permitted in [Section 1148.03(b)][].
+or utility fences as permitted in [Section 1148.03(b)][CF Section 1148.03(b)].
 
 3. _(c)_ **Corner Lots.**  The installation of a fence, wall or combination
 thereof shall not create a visibility or safety concern for vehicular or
@@ -239,6 +239,6 @@ nearby uses.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 [CF Section 1142.06]:</chapters/chapter-1142-landscaping-regulations/#114206-perimeter-screens>
+[CF Section 1148.03(b)]:</chapters/chapter-1148-fences-walls-and-hedges/#114803(b)>
 [CF Section 1148.04]:</chapters/chapter-1148-fences-walls-and-hedges/#114804-permits>
 [CF Section 1309.14]:</chapters/chapter-1309-fees-for-permits-and-inspections/#130914-fence-or-wall-near-property-line>
-[Section 1148.03(b)]:</chapters/chapter-1148-fences-walls-and-hedges/#114803(b)>

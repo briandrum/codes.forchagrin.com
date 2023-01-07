@@ -70,12 +70,12 @@ accordance with the regulations of this chapter.
 
 1. _(a)_ **Mandatory Referral.**
 
-    1. _(1)_ As directed by [Section 1109.05(b)(1)][], all requests for building
-    permits shall be referred to the Architectural Board of Review for a
-    determination of compliance with this Chapter. The Architectural Board of
-    Review may obtain the assistance of an expert in historic architecture to
-    assist it in determining whether a proposed project satisfies the
-    requirements of this chapter.
+    1. _(1)_ As directed by [Section 1109.05(b)(1)][CF Section 1109.05(b)(1)],
+    all requests for building permits shall be referred to the Architectural
+    Board of Review for a determination of compliance with this Chapter. The
+    Architectural Board of Review may obtain the assistance of an expert in
+    historic architecture to assist it in determining whether a proposed project
+    satisfies the requirements of this chapter.
 
     2. _(2)_ All requests for demolition of a structure or portion of a
     structure which is more than fifty (50) years old shall be accompanied by a
@@ -142,23 +142,23 @@ accordance with the regulations of this chapter.
 2. _(b)_ **Approval/Disapproval.** The Architectural Board of Review shall
 either approve, approve with modification or disapprove the application in
 accordance with the review and approval procedures set forth in [Section
-1109.05][]. In conjunction with a motion to grant the request of the applicant,
-the members of the Architectural Board of Review shall identify facts which have
-been presented to the Architectural Board of Review which the members believe
-are supportive of their decision in the case. It is not sufficient for the
-Architectural Board of Review to identify the ultimate fact to be determined
-(e.g., Compatibility or Historic Significance), but the members of the
-Architectural Board of Review, when stating or voting on the motion to grant the
-request of the applicant(s), shall identify the specific facts presented in the
-matter before them which cause them to reach their conclusion and support their
-vote; if a member states facts with which a second member agrees, the second
-member may indicate so, generally, and/or may distinguish his or her findings
-relative to facts previously stated. The facts identified and agreed upon by a
-majority of the Architectural Board of Review shall be deemed the Conclusions of
-Fact of the Architectural Board of Review; provided that if no majority vote is
-obtained, the motion shall be deemed defeated and facts adopted by those who
-voted in opposition to the motion shall be deemed the Conclusions of Fact of the
-Architectural Board of Review.
+1109.05][CF Section 1109.05]. In conjunction with a motion to grant the request
+of the applicant, the members of the Architectural Board of Review shall
+identify facts which have been presented to the Architectural Board of Review
+which the members believe are supportive of their decision in the case. It is
+not sufficient for the Architectural Board of Review to identify the ultimate
+fact to be determined (e.g., Compatibility or Historic Significance), but the
+members of the Architectural Board of Review, when stating or voting on the
+motion to grant the request of the applicant(s), shall identify the specific
+facts presented in the matter before them which cause them to reach their
+conclusion and support their vote; if a member states facts with which a second
+member agrees, the second member may indicate so, generally, and/or may
+distinguish his or her findings relative to facts previously stated. The facts
+identified and agreed upon by a majority of the Architectural Board of Review
+shall be deemed the Conclusions of Fact of the Architectural Board of Review;
+provided that if no majority vote is obtained, the motion shall be deemed
+defeated and facts adopted by those who voted in opposition to the motion shall
+be deemed the Conclusions of Fact of the Architectural Board of Review.
 
 3. _(c)_ **Notifications.**  The Architectural Board of Review shall notify the
 applicant in writing of the time and location of its meeting. Subsequent to that
@@ -451,18 +451,20 @@ in Sections 1131.07(a), 1131.07(b), 1131.07(c), and 1131.07(d).
 1131.08(b).
 
 8. _(h)_ Modification of side yard setback requirements in the Office District
-as set forth in [Section 1135.04(c)(2)][].
+as set forth in [Section 1135.04(c)(2)][CF Section 1135.04(c)(2)].
 
 9. _(i)_ Modification of side yard setback requirements in the Retail Business
-District as set forth in [Section 1137.04(c)(2)][].
+District as set forth in [Section 1137.04(c)(2)][CF Section 1137.04(c)(2)].
 
 10. _(j)_ Design regulations for canopies at automobile service stations in the
-Retail Business District as set forth in [Section 1137.05(b)(3)][].
+Retail Business District as set forth in [Section 1137.05(b)(3)][CF Section
+1137.05(b)(3)].
 
 11. _(k)_ Modification of side yard setback requirements in the Central Shopping
 District as set forth in [Section 1138.04][CF Section 1138.04].
 
-12. _(l)_ Fencing for utility uses as set forth in [Section 1142.07(b)][].
+12. _(l)_ Fencing for utility uses as set forth in [Section 1142.07(b)][CF
+Section 1142.07(b)].
 
 13. _(m)_ Design standards for signs as set forth in [Section 1143.08][CF
 Section 1143.08].
@@ -471,16 +473,16 @@ Section 1143.08].
 1126.05(d) and 1125.05(h).\
 (Ord. 2019-39. Passed 8-13-19.)
 
+[CF Section 1109.05(b)(1)]:</chapters/chapter-1109-administration-and-enforcement/#110905(b)(1)>
 [CF Section 1109.05]:</chapters/chapter-1109-administration-and-enforcement/#110905-review-and-approval-procedures>
 [CF Section 1115.04]:</chapters/chapter-1115-design-review/#111504-standards-of-review>
+[CF Section 1135.04(c)(2)]:</chapters/chapter-1135-office-district/#113504(c)(2)>
+[CF Section 1137.04(c)(2)]:</chapters/chapter-1137-retail-business-district/#113704(c)(2)>
+[CF Section 1137.05(b)(3)]:</chapters/chapter-1137-retail-business-district/#113705(a)(3)>
 [CF Section 1138.04]:</chapters/chapter-1138-central-shopping-district/#113804-yard-and-setback-regulations>
+[CF Section 1142.07(b)]:</chapters/chapter-1142-landscaping-regulations/#114207(b)>
 [CF Section 1143.08]:</chapters/chapter-1143-signs/#114308-design-standards>
 [CF Section 1146.04]:</chapters/chapter-1146-historic-preservation-regulations/#114604-standards-of-review>
 [CF Section 1146.05]:</chapters/chapter-1146-historic-preservation-regulations/#114605-definitions>
 [CF Section 1146.06]:</chapters/chapter-1146-historic-preservation-regulations/#114606-demolition-and-moving>
 [CF Section 1146.08]:</chapters/chapter-1146-historic-preservation-regulations/#114608-supplemental-regulations>
-[Section 1109.05(b)(1)]:</chapters/chapter-1109-administration-and-enforcement/#110905(b)(1)>
-[Section 1135.04(c)(2)]:</chapters/chapter-1135-office-district/#113504(c)(2)>
-[Section 1137.04(c)(2)]:</chapters/chapter-1137-retail-business-district/#113704(c)(2)>
-[Section 1137.05(b)(3)]:</chapters/chapter-1137-retail-business-district/#113705(a)(3)>
-[Section 1142.07(b)]:</chapters/chapter-1142-landscaping-regulations/#114207(b)>

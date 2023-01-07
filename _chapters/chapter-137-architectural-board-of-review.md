@@ -160,8 +160,8 @@ follows:
 Village for applications to the Architectural Board of Review shall have an
 attachment in an appropriate form determined by the Chief Administrative
 Officer, incorporating the criteria set forth in Codified Ordinance [Section
-137.08(c)][].\
+137.08(c)][CF Section 137.08(c)].\
 (Ord. 2016-70. Passed 11-14-16.)
 
 [Article VII, Section 9]:</articles/article-vii-administrative-officers-departments-boards-and-commissions/#section-vii-9-architectural-board-of-review>
-[Section 137.08(c)]:</chapters/chapter-137-architectural-board-of-review/#13708(c)>
+[CF Section 137.08(c)]:</chapters/chapter-137-architectural-board-of-review/#13708(c)>

@@ -198,7 +198,7 @@ that allows the light to be seen through the face of the sign.
 
 7. _(g)_ Any permanent sign placed upon or projecting over any public land,
 street, sidewalk or other public right-of-way, except as expressly permitted in
-[Section 1143.06(d)][].
+[Section 1143.06(d)][CF Section 1143.06(d)].
 
 8. _(h)_ Roof signs.
 
@@ -305,7 +305,8 @@ two permanent signs shall be permitted for each building.
 2. _(b)_ **Wall Signs.**
 
     1. _(1)_ Wall signs for each building shall not exceed twelve square feet in
-    combined area, except as permitted in [Section 1143.06(c)(2)][] below.
+    combined area, except as permitted in [Section 1143.06(c)(2)][CF Section
+    1143.06(c)(2)] below.
 
     2. _(2)_ Wall signs which occupy a single space two feet or less in vertical
     dimension may extend to a width ninety percent (90%) or less of the width
@@ -316,11 +317,11 @@ two permanent signs shall be permitted for each building.
 
 3. _(c)_ **Ground Signs.**
 
-    1. _(1)_ In addition to those signs permitted in [Section 1143.06(a)][], one
-    additional ground sign shall be permitted for each lot with a frontage of at
-    least 120 feet measured along the line providing principal access to the
-    building(s) on such lot. The minimum spacing between ground signs on the
-    same lot shall be twenty- five feet.
+    1. _(1)_ In addition to those signs permitted in [Section 1143.06(a)][CF
+    Section 1143.06(a)], one additional ground sign shall be permitted for each
+    lot with a frontage of at least 120 feet measured along the line providing
+    principal access to the building(s) on such lot. The minimum spacing between
+    ground signs on the same lot shall be twenty- five feet.
 
     2. _(2)_ Ground signs shall be twenty square feet or less in area and six
     feet or less above finished grade in height except that a ground sign
@@ -364,10 +365,10 @@ permanently affixed to a ground floor awning or canopy in a space not exceeding
 eight inches in height on the front and side portions thereof.
 
 6. _(f)_ **Secondary and Rear Entrances.** In addition to those signs permitted
-in [Section 1143.06(a)][], buildings or units thereof with a secondary or rear
-customer entrance shall be permitted an additional wall or window sign six
-square feet or less in area. Such signs shall be located in proximity to the
-secondary or rear entrance.
+in [Section 1143.06(a)][CF Section 1143.06(a)], buildings or units thereof with
+a secondary or rear customer entrance shall be permitted an additional wall or
+window sign six square feet or less in area. Such signs shall be located in
+proximity to the secondary or rear entrance.
 
 7. _(g)_ **Multi-tenant buildings.**  In multi-tenant buildings, the allowable
 sign area for all tenants shall not exceed the maximum sign area computed as if
@@ -584,7 +585,7 @@ removal to the owner of the lot and/or use when feasible.
 
 5. _(e)_ **Nonconforming Signs.** Signs lawfully erected but made nonconforming
 by adoption of this Code or amendments thereto, are regulated by the provisions
-of [Section 1145.03(d)][].
+of [Section 1145.03(d)][CF Section 1145.03(d)].
 
 6. _(f)_ **Presumption of Responsibility.** The owner or occupant of any
 premises upon which a violation of any of the provisions of this chapter is
@@ -601,7 +602,7 @@ they are being substituted.\
 
 [CF Section 1143.09]:</chapters/chapter-1143-signs/#114309-temporary-signs>
 [CF Section 1309.12]:</chapter-1309-fees-for-permits-and-inspections/#130912-sign-fees>
-[Section 1143.06(a)]:</chapters/chapter-1143-signs/#114306(a)>
-[Section 1143.06(c)(2)]:</chapters/chapter-1143-signs/#114306(c)(2)>
-[Section 1143.06(d)]:</chapters/chapter-1143-signs/#114306(d)>
-[Section 1145.03(d)]:</chapters/chapter-1145-nonconforming-buildings-and-uses/#114503(d)>
+[CF Section 1143.06(a)]:</chapters/chapter-1143-signs/#114306(a)>
+[CF Section 1143.06(c)(2)]:</chapters/chapter-1143-signs/#114306(c)(2)>
+[CF Section 1143.06(d)]:</chapters/chapter-1143-signs/#114306(d)>
+[CF Section 1145.03(d)]:</chapters/chapter-1145-nonconforming-buildings-and-uses/#114503(d)>

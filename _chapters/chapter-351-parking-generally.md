@@ -515,25 +515,25 @@ avenue, alley, lane, boulevard, road or highway, except in case of emergency.\
 ## 351.17   Waiver
 
 1. _(a)_ Whoever violates any provisions of this chapter, except [Section
-351.03(q)][] or [351.04(f)][Section 351.04(f)], may execute and file with the
-Clerk or Deputy Clerk of the Bedford Municipal Court who is on duty at the
-Village Police Department an instrument waiving the formal issuance of an
-affidavit and warrant, together with the reading of such affidavit and the right
-to be present personally at the trial of such action, and further waiving the
-right of appeal in error, and authorizing a plea of guilty to be entered and the
-defendant submitted to the mercy of the Court, and upon depositing with the
-Clerk or Deputy Clerk the sum of twenty dollars ($20.00) within thirty (30) days
-of the date of the citation, or if not deposited within thirty (30) days of the
-date of the citation, by depositing with the Clerk or Deputy Clerk the sum of
-forty dollars ($40.00) within thirty-one (31) to sixty (60) days from the date
-of the citation, and if not deposited within sixty (60) days of the date of the
-citation, deposit with the Clerk or Deputy Clerk of the Bedford Municipal Court
-the sum of sixty dollars ($60.00) and the Police Department shall notify the
-Bureau of Motor Vehicles to place a registration block upon the vehicle cited
-until the fine is deposited if not deposited within sixty (60) days of the
-citation date, and in which event the violator shall pay the cost, if any, to
-remove the registration block when the fine is deposited, may be fined such
-amounts by the Court.\
+351.03(q)][CF Section 351.03(q)] or [351.04(f)][CF Section 351.04(f)], may
+execute and file with the Clerk or Deputy Clerk of the Bedford Municipal Court
+who is on duty at the Village Police Department an instrument waiving the formal
+issuance of an affidavit and warrant, together with the reading of such
+affidavit and the right to be present personally at the trial of such action,
+and further waiving the right of appeal in error, and authorizing a plea of
+guilty to be entered and the defendant submitted to the mercy of the Court, and
+upon depositing with the Clerk or Deputy Clerk the sum of twenty dollars
+($20.00) within thirty (30) days of the date of the citation, or if not
+deposited within thirty (30) days of the date of the citation, by depositing
+with the Clerk or Deputy Clerk the sum of forty dollars ($40.00) within
+thirty-one (31) to sixty (60) days from the date of the citation, and if not
+deposited within sixty (60) days of the date of the citation, deposit with the
+Clerk or Deputy Clerk of the Bedford Municipal Court the sum of sixty dollars
+($60.00) and the Police Department shall notify the Bureau of Motor Vehicles to
+place a registration block upon the vehicle cited until the fine is deposited if
+not deposited within sixty (60) days of the citation date, and in which event
+the violator shall pay the cost, if any, to remove the registration block when
+the fine is deposited, may be fined such amounts by the Court.\
 (Ord. 2017-75. Passed 11-13-17.)
 
 2. _(b)_
@@ -622,6 +622,8 @@ penalty.)
 
 [CF Section 303.08]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30308-impounding-of-vehicles-redemption>
 [CF Section 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
+[CF Section 351.03(q)]:</chapters/chapter-351-parking-generally/#35103(q)>
+[CF Section 351.04(f)]:</chapters/chapter-351-parking-generally/#35104(f)>
 [CF Section 521.11]:</chapters/chapter-521-health-safety-and-sanitation/#52111-junk-and-junk-vehicles>
 [ORC Section 3781.111]:<https://codes.ohio.gov/ohio-revised-code/section-3781.111>
 [ORC Section 4503.41]:<https://codes.ohio.gov/ohio-revised-code/section-4503.41>
@@ -629,5 +631,3 @@ penalty.)
 [ORC Section 4503.44]:<https://codes.ohio.gov/ohio-revised-code/section-4503.44>
 [ORC Section 4511.071]:<https://codes.ohio.gov/ohio-revised-code/section-4511.071>
 [ORC Section 4513.60]:<https://codes.ohio.gov/ohio-revised-code/section-4513.60>
-[Section 351.03(q)]:</chapters/chapter-351-parking-generally/#35103(q)>
-[Section 351.04(f)]:</chapters/chapter-351-parking-generally/#35104(f)>

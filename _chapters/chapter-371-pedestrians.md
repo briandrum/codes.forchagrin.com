@@ -161,8 +161,8 @@ edge of the roadway, and, if on a two-way roadway, shall walk only on the left
 side of the roadway.
 
 4. _(d)_ Except as otherwise provided in [Section 313.03][CF Section 313.03] and
-[371.01][Section 371.01], any pedestrian upon a roadway shall yield the right of
-way to all vehicles upon the roadway.
+[371.01][CF Section 371.01], any pedestrian upon a roadway shall yield the right
+of way to all vehicles upon the roadway.
 
 5. _(e)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
@@ -623,8 +623,8 @@ may do any of the following:
 [CF Section 313.09]:</chapters/chapter-313-traffic-control-devices/#31309-drivers-duties-upon-approaching-ambiguous-or-non-working-traffic-signal>
 [CF Section 331.21]:</chapters/chapter-331-operation-generally/#33121-right-of-way-of-public-safety-or-coroners-vehicle>
 [CF Section 371.01]:</chapters/chapter-371-pedestrians/#37101-right-of-way-in-crosswalk>
+[CF Section 371.03(b)]:</chapters/chapter-371-pedestrians/#37103(b)>
 [ORC Section 2901.20]:<https://codes.ohio.gov/ohio-revised-code/section-2901.20>
 [ORC Section 4511.051]:<https://codes.ohio.gov/ohio-revised-code/section-4511.051>
 [ORC Section 4511.512]:<https://codes.ohio.gov/ohio-revised-code/section-4511.512>
 [ORC Section 4513.263]:<https://codes.ohio.gov/ohio-revised-code/section-4513.263>
-[Section 371.03(b)]:</chapters/chapter-371-pedestrians/#37103(b)>

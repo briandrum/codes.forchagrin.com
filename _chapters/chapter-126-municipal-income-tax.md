@@ -520,11 +520,11 @@ made.\
 ### 126.0703   Total allocation
 
 Add together the percentages determined in accordance with [Section
-126.0701(a)][], [(b)][Section 126.0701(b)] and [(c)][Section 126.0701(c)] or
-such of the aforesaid percentages as are applicable to the particular taxpayer
-and divide the total so obtained by the number of percentages used in deriving
-such total in order to obtain the business allocation percentage referred to in
-[Section 126.0701][CF Section 126.0701].
+126.0701(a)][CF Section 126.0701(a)], [(b)][CF Section 126.0701(b)] and [(c)][CF
+Section 126.0701(c)] or such of the aforesaid percentages as are applicable to
+the particular taxpayer and divide the total so obtained by the number of
+percentages used in deriving such total in order to obtain the business
+allocation percentage referred to in [Section 126.0701][CF Section 126.0701].
 
 A factor is applicable even though it may be allocable entirely in or outside
 the Municipality.\
@@ -533,12 +533,13 @@ the Municipality.\
 ### 126.0704   Rentals
 
 Rental income received by a taxpayer shall be included in the computation of net
-profits from business activities under [Section 126.0501(c)][], [(d)][Section
-126.0501(d)] and [(e)][Section 126.0501(e)], only if and to the extent that the
-rental, ownership, management or operation of the real estate from which such
-rentals are derived (whether so rented, managed or operated by a taxpayer
-individually or through agents or other representatives) constitutes a business
-activity of the taxpayer in whole or in part.
+profits from business activities under [Section 126.0501(c)]CF Section
+126.0501(c)[], [(d)][CF Section 126.0501(d)] and [(e)][CF Section 126.0501(e)],
+only if and to the extent that the rental, ownership, management or operation of
+the real estate from which such rentals are derived (whether so rented, managed
+or operated by a taxpayer individually or through agents or other
+representatives) constitutes a business activity of the taxpayer in whole or in
+part.
 
 Where the gross monthly rental of any and all real properties, regardless of
 number and value, aggregate in excess of two hundred fifty dollars ($250.00) per
@@ -1324,14 +1325,14 @@ of this chapter as though the same were continuing.\
 (Ord. 1968-730. Passed 6-18-68.)
 
 [CF Section 126.0101]:</chapters/chapter-126-municipal-income-tax/#1260101-purpose-of-levy-of-income-tax>
+[CF Section 126.0501(c)]:</chapters/chapter-126-municipal-income-tax/#1260501(c)>
+[CF Section 126.0501(d)]:</chapters/chapter-126-municipal-income-tax/#1260501(d)>
+[CF Section 126.0501(e)]:</chapters/chapter-126-municipal-income-tax/#1260501(e)>
+[CF Section 126.0701(a)]:</chapters/chapter-126-municipal-income-tax/#1260701(a)>
+[CF Section 126.0701(b)]:</chapters/chapter-126-municipal-income-tax/#1260701(b)>
+[CF Section 126.0701(c)]:</chapters/chapter-126-municipal-income-tax/#1260701(c)>
 [CF Section 126.0701]:</chapters/chapter-126-municipal-income-tax/#1260701-method-of-determination>
 [ORC Chapter 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
 [ORC Section 9.42]:<https://codes.ohio.gov/ohio-revised-code/section-9.42>
 [ORC Section 718.06]:<https://codes.ohio.gov/ohio-revised-code/section-718.06>
 [ORC Section 5745.03]:<https://codes.ohio.gov/ohio-revised-code/section-5745.03>
-[Section 126.0501(c)]:</chapters/chapter-126-municipal-income-tax/#1260501(c)>
-[Section 126.0501(d)]:</chapters/chapter-126-municipal-income-tax/#1260501(d)>
-[Section 126.0501(e)]:</chapters/chapter-126-municipal-income-tax/#1260501(e)>
-[Section 126.0701(a)]:</chapters/chapter-126-municipal-income-tax/#1260701(a)>
-[Section 126.0701(b)]:</chapters/chapter-126-municipal-income-tax/#1260701(b)>
-[Section 126.0701(c)]:</chapters/chapter-126-municipal-income-tax/#1260701(c)>

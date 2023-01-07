@@ -1255,12 +1255,13 @@ the subdivider.\
 2. _(b)_ Preliminary Plat.
 
     1. _(1)_ Applicant shall submit eight copies of the preliminary plat and
-    supplemental information as listed in [Section 1161.04(d)][], [(e)][Section
-    1161.04(e)] and [(f)][Section 1161.04(f)] to the Village Administrator. The
-    Administrator shall file the preliminary plat after he/she has determined it
-    is complete. When it is found complete and the filing fee and required
-    deposit is paid, the preliminary plat shall be stamped, dated and the
-    thirty-day review period shall begin (unless an extension is agreed upon).
+    supplemental information as listed in [Section 1161.04(d)][CF Section
+    1161.04(d)], [(e)][CF Section 1161.04(e)] and [(f)][CF Section 1161.04(f)]
+    to the Village Administrator. The Administrator shall file the preliminary
+    plat after he/she has determined it is complete. When it is found complete
+    and the filing fee and required deposit is paid, the preliminary plat shall
+    be stamped, dated and the thirty-day review period shall begin (unless an
+    extension is agreed upon).
 
     2. _(2)_ A deposit shall be made for services performed by the Municipal
     Engineer, Planning Consultant and Law Director and any other professionals
@@ -1409,13 +1410,13 @@ under law.\
 
 [CF Section 1109.08]:</chapters/chapter-1109-administration-and-enforcement/#110908-fees-and-deposits>
 [CF Section 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
+[CF Section 1143.05(b)]:</chapters/chapter-1143-signs/#114305(b)>
 [CF Section 1144.03]:</chapters/chapter-1144-environmental-performance-regulations/#114403-proposed-uses-and-facilities>
+[CF Section 1161.04(c)]:</chapters/chapter-1161-subdivision-regulations/#116104(c)>
+[CF Section 1161.04(d)]:</chapters/chapter-1161-subdivision-regulations/#116104(d)>
+[CF Section 1161.04(e)]:</chapters/chapter-1161-subdivision-regulations/#116104(e)>
+[CF Section 1161.04(f)]:</chapters/chapter-1161-subdivision-regulations/#116104(f)>
+[CF Section 1161.09(b)]:</chapters/chapter-1161-subdivision-regulations/#116109(b)>
 [ORC Chapter 711]:<https://codes.ohio.gov/ohio-revised-code/chapter-711>
 [ORC Section 711.091]:<https://codes.ohio.gov/ohio-revised-code/section-711.091>
 [ORC Section 4733.14]:<https://codes.ohio.gov/ohio-revised-code/section-4733.14>
-[Section 1143.05(b)]:</chapters/chapter-1143-signs/#114305(b)>
-[Section 1161.04(c)]:</chapters/chapter-1161-subdivision-regulations/#116104(c)>
-[Section 1161.04(d)]:</chapters/chapter-1161-subdivision-regulations/#116104(d)>
-[Section 1161.04(e)]:</chapters/chapter-1161-subdivision-regulations/#116104(e)>
-[Section 1161.04(f)]:</chapters/chapter-1161-subdivision-regulations/#116104(f)>
-[Section 1161.09(b)]:</chapters/chapter-1161-subdivision-regulations/#116109(b)>

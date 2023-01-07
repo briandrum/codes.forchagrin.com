@@ -287,7 +287,7 @@ or parking between the hours of midnight and six a.m.
     driver's or commercial driver's license issued by this State and is actually
     occupying a seat beside the permit holder, and does not have a prohibited
     concentration of alcohol in the whole blood, blood serum or plasma, breath,
-    or urine as provided in [Section 333.01(a)][].
+    or urine as provided in [Section 333.01(a)][CF Section 333.01(a)].
 
 3. _(c)_ As used in this section:
 
@@ -1699,6 +1699,7 @@ first degree.
     (ORC 4549.03)
 
 [CF Section 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
+[CF Section 333.01(a)]:</chapters/chapter-333-ovi-willful-misconduct-speed/#33301(a)(1)>
 [ORC Chapter 2929]:<https://codes.ohio.gov/ohio-revised-code/chapter-2929>
 [ORC Chapter 4503]:<https://codes.ohio.gov/ohio-revised-code/chapter-4503>
 [ORC Chapter 4505]:<https://codes.ohio.gov/ohio-revised-code/chapter-4505>
@@ -1768,4 +1769,3 @@ first degree.
 [ORC Section 4513.263]:<https://codes.ohio.gov/ohio-revised-code/section-4513.263>
 [ORC Section 4513.263]:<https://codes.ohio.gov/ohio-revised-code/section-4513.263>
 [ORC Section 4549.65]:<https://codes.ohio.gov/ohio-revised-code/section-4549.65>
-[Section 333.01(a)]:</chapters/chapter-333-ovi-willful-misconduct-speed/#33301(a)(1)>
