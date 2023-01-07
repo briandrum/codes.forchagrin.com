@@ -915,10 +915,10 @@ firearm.\
 
 ## 549.99   Penalty
 
-(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
+(Editor's note: See [Section 501.99][CFCO 501.99] for penalties applicable
 to any misdemeanor classification.)
 
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [ORC Chapter 2923]:<https://codes.ohio.gov/ohio-revised-code/chapter-2923>
 [ORC Section 109.69]:<https://codes.ohio.gov/ohio-revised-code/section-109.69>
 [ORC Section 109.801]:<https://codes.ohio.gov/ohio-revised-code/section-109.801>

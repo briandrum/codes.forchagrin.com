@@ -342,9 +342,9 @@ organization.\
 
 ### 126.0501   Rate and income taxable
 
-An annual tax for the purposes specified in [Section 126.0101][CF Section
-126.0101] hereof shall be imposed on and after July 1, 1981 at the rate of one
-and one-half percent per annum upon the following:
+An annual tax for the purposes specified in [Section 126.0101][CFCO 126.0101]
+hereof shall be imposed on and after July 1, 1981 at the rate of one and
+one-half percent per annum upon the following:
 
 1. _(a)_ On all salaries, qualifying wages, commissions and other compensation
 earned on and after July 1, 1981, by residents of the Municipality.
@@ -498,7 +498,8 @@ a substitute method, by applying the following:
 
 ### 126.0702   Sales made in the municipality
 
-As used in [Section 126.0701(c)][] sales made in the Municipality means:
+As used in [Section 126.0701(c)][CFCO 126.0701(c)] sales made in the
+Municipality means:
 
 1. _(a)_ All sales of tangible personal property which is delivered within the
 Municipality regardless of where title passes if shipped or delivered from a
@@ -520,11 +521,11 @@ made.\
 ### 126.0703   Total allocation
 
 Add together the percentages determined in accordance with [Section
-126.0701(a)][CF Section 126.0701(a)], [(b)][CF Section 126.0701(b)] and [(c)][CF
-Section 126.0701(c)] or such of the aforesaid percentages as are applicable to
-the particular taxpayer and divide the total so obtained by the number of
+126.0701(a)][CFCO 126.0701(a)], [(b)][CFCO 126.0701(b)] and [(c)][CFCO
+126.0701(c)] or such of the aforesaid percentages as are applicable to the
+particular taxpayer and divide the total so obtained by the number of
 percentages used in deriving such total in order to obtain the business
-allocation percentage referred to in [Section 126.0701][CF Section 126.0701].
+allocation percentage referred to in [Section 126.0701][CFCO 126.0701].
 
 A factor is applicable even though it may be allocable entirely in or outside
 the Municipality.\
@@ -534,12 +535,11 @@ the Municipality.\
 
 Rental income received by a taxpayer shall be included in the computation of net
 profits from business activities under [Section 126.0501(c)]CF Section
-126.0501(c)[], [(d)][CF Section 126.0501(d)] and [(e)][CF Section 126.0501(e)],
-only if and to the extent that the rental, ownership, management or operation of
-the real estate from which such rentals are derived (whether so rented, managed
-or operated by a taxpayer individually or through agents or other
-representatives) constitutes a business activity of the taxpayer in whole or in
-part.
+126.0501(c)[], [(d)][CFCO 126.0501(d)] and [(e)][CFCO 126.0501(e)], only if and
+to the extent that the rental, ownership, management or operation of the real
+estate from which such rentals are derived (whether so rented, managed or
+operated by a taxpayer individually or through agents or other representatives)
+constitutes a business activity of the taxpayer in whole or in part.
 
 Where the gross monthly rental of any and all real properties, regardless of
 number and value, aggregate in excess of two hundred fifty dollars ($250.00) per
@@ -1324,14 +1324,14 @@ this chapter shall be due on the date provided in Sections 126.1101 and 126.1302
 of this chapter as though the same were continuing.\
 (Ord. 1968-730. Passed 6-18-68.)
 
-[CF Section 126.0101]:</chapters/chapter-126-municipal-income-tax/#1260101-purpose-of-levy-of-income-tax>
-[CF Section 126.0501(c)]:</chapters/chapter-126-municipal-income-tax/#1260501(c)>
-[CF Section 126.0501(d)]:</chapters/chapter-126-municipal-income-tax/#1260501(d)>
-[CF Section 126.0501(e)]:</chapters/chapter-126-municipal-income-tax/#1260501(e)>
-[CF Section 126.0701(a)]:</chapters/chapter-126-municipal-income-tax/#1260701(a)>
-[CF Section 126.0701(b)]:</chapters/chapter-126-municipal-income-tax/#1260701(b)>
-[CF Section 126.0701(c)]:</chapters/chapter-126-municipal-income-tax/#1260701(c)>
-[CF Section 126.0701]:</chapters/chapter-126-municipal-income-tax/#1260701-method-of-determination>
+[CFCO 126.0101]:</chapters/chapter-126-municipal-income-tax/#1260101-purpose-of-levy-of-income-tax>
+[CFCO 126.0501(c)]:</chapters/chapter-126-municipal-income-tax/#1260501(c)>
+[CFCO 126.0501(d)]:</chapters/chapter-126-municipal-income-tax/#1260501(d)>
+[CFCO 126.0501(e)]:</chapters/chapter-126-municipal-income-tax/#1260501(e)>
+[CFCO 126.0701(a)]:</chapters/chapter-126-municipal-income-tax/#1260701(a)>
+[CFCO 126.0701(b)]:</chapters/chapter-126-municipal-income-tax/#1260701(b)>
+[CFCO 126.0701(c)]:</chapters/chapter-126-municipal-income-tax/#1260701(c)>
+[CFCO 126.0701]:</chapters/chapter-126-municipal-income-tax/#1260701-method-of-determination>
 [ORC Chapter 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
 [ORC Section 9.42]:<https://codes.ohio.gov/ohio-revised-code/section-9.42>
 [ORC Section 718.06]:<https://codes.ohio.gov/ohio-revised-code/section-718.06>

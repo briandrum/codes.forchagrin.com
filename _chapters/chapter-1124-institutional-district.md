@@ -69,8 +69,8 @@ the main and accessory uses set forth below.
 
     5. _(5)_ Signs, as regulated in Chapter 1143 .
 
-    6. _(6)_ Lighting structures as regulated in [Chapter 1150][CF
-    Chapter 1150] of this Planning and Zoning Code, and flag poles.
+    6. _(6)_ Lighting structures as regulated in [Chapter 1150][CFCO 1150] of
+    this Planning and Zoning Code, and flag poles.
 
     7. _(7)_ Limited sales incidental to the main use and completely enclosed
     within an otherwise permitted main building and further provided that such
@@ -156,9 +156,8 @@ grouping shall comply with the requirements of this District.\
 
 ## 1124.06   Lighting
 
-Outdoor lighting shall be governed by [Chapter 1150][CF Chapter 1150],
-except that all lighting shall be extinguished between the hours of
-11:00 p.m. and 7:00 a.m.\
+Outdoor lighting shall be governed by [Chapter 1150][CFCO 1150], except that all
+lighting shall be extinguished between the hours of 11:00 p.m. and 7:00 a.m.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 ## 1124.07   Screening
@@ -179,4 +178,4 @@ signs and environmental performance, refer to Chapters 1141 - 1150 of the
 Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[CF Chapter 1150]:</chapters/chapter-1150-outdoor-lighting/>
+[CFCO 1150]:</chapters/chapter-1150-outdoor-lighting/>

@@ -110,10 +110,9 @@ any of the following ways:
 3. _(c)_ The court shall impose a mandatory jail term of at least fifteen days
 on an offender who is convicted of or pleads guilty to a violation of subsection
 (a)(1)B. of this section and may impose upon the offender a longer jail term as
-authorized pursuant to [Section 501.99][CF Section 501.99]. The court shall
-impose a mandatory prison term on an offender who is convicted of or pleads
-guilty to a violation of subsection (a)(1)A. hereof if either of the following
-applies:
+authorized pursuant to [Section 501.99][CFCO 501.99]. The court shall impose a
+mandatory prison term on an offender who is convicted of or pleads guilty to a
+violation of subsection (a)(1)A. hereof if either of the following applies:
 
     1. _(1)_ The offender previously has been convicted of or pleaded guilty to
     a violation of this section or Ohio R.C. [2903.06][ORC Section 2903.06] or
@@ -206,7 +205,7 @@ offense, and shall be prosecuted under appropriate state law.
 3. _(c)_ The court shall impose a mandatory jail term of at least seven days on
 an offender who is convicted of or pleads guilty to a violation of this section
 and may impose upon the offender a longer jail term as authorized pursuant to
-[Section 501.99][CF Section 501.99].
+[Section 501.99][CFCO 501.99].
 
 4. _(d)_ This section does not apply in a particular construction zone unless
 signs of the type described in Ohio R.C. [2903.081][ORC Section 2903.081] are
@@ -2075,10 +2074,10 @@ to the civil remedy provided for in subsection (d) hereof.\
 
 ## 537.99   Penalty
 
-(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
-to any misdemeanor classification.)
+(Editor's note: See [Section 501.99][CFCO 501.99] for penalties applicable to
+any misdemeanor classification.)
 
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [ORC Chapter 128]:<https://codes.ohio.gov/ohio-revised-code/chapter-128>
 [ORC Chapter 2743]:<https://codes.ohio.gov/ohio-revised-code/chapter-2743>
 [ORC Chapter 2981]:<https://codes.ohio.gov/ohio-revised-code/chapter-2981>

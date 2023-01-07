@@ -932,10 +932,10 @@ or for violations of provisions of this chapter other than Section 505.18.\
 
 ## 505.99   Penalty
 
-(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
-to any misdemeanor classification.)
+(Editor's note: See [Section 501.99][CFCO 501.99] for penalties applicable to
+any misdemeanor classification.)
 
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [ORC Chapter 4741]:<https://codes.ohio.gov/ohio-revised-code/chapter-4741>
 [ORC Section 951.10]:<https://codes.ohio.gov/ohio-revised-code/section-951.10>
 [ORC Section 955.01]:<https://codes.ohio.gov/ohio-revised-code/section-955.01>

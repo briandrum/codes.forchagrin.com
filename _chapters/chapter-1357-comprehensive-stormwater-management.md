@@ -86,7 +86,7 @@ either wholly or partially, for new or relocated projects involving highways and
 roads; subdivisions or larger common plans of development; industrial,
 commercial, institutional, or residential projects; building activities on
 farms; redevelopment activities; grading; and all other uses that are not
-specifically exempted in [Section 1357.01][CF Section 1357.01].
+specifically exempted in [Section 1357.01][CFCO 1357.01].
 
 4. _(d)_ Public entities, including the State of Ohio, Cuyahoga County, and the
 Village of Chagrin Falls shall comply with this regulation for roadway projects
@@ -398,9 +398,9 @@ resulting therefrom.\
 Plan be developed and implemented for all soil disturbing activities disturbing
 one (1) or more acres of total land, or less than one (1) acre if part of a
 larger common plan of development or sale disturbing one (1) or more acres of
-total land, and on which any regulated activity of [Section 1357.01(c)][CF
-Section 1357.01(c)] is proposed. A Comprehensive Stormwater Management Plan must
-be developed and implemented for all commercial and industrial site development
+total land, and on which any regulated activity of [Section 1357.01(c)][CFCO
+1357.01(c)] is proposed. A Comprehensive Stormwater Management Plan must be
+developed and implemented for all commercial and industrial site development
 disturbing more than ¼-acre. The Village Engineer may require a comprehensive
 stormwater management plan on any site development regardless of disturbed area.
 
@@ -446,10 +446,10 @@ submit two (2) sets of a Final Comprehensive Stormwater Management Plan (Final
 Plan) and the applicable fees to the Village Engineer and/or the Chief
 Administrative Officer in conjunction with the submittal of the final plat,
 improvement plans, or application for a building or zoning permit for the site.
-The Final Plan shall meet the requirements of [Section 1357.08][CF Section
-1357.08] of this Chapter and shall be approved by the Village Engineer prior to
-approval of the final plat and/or before issuance of a [zoning permit by the
-Zoning Inspector] or [building permit by the Building Inspector].
+The Final Plan shall meet the requirements of [Section 1357.08][CFCO 1357.08] of
+this Chapter and shall be approved by the Village Engineer prior to approval of
+the final plat and/or before issuance of a [zoning permit by the Zoning
+Inspector] or [building permit by the Building Inspector].
 
 4. _(d)_ Review and Comment: The Village Engineer and/or the Chief
 Administrative Officer shall review the Preliminary and Final Plans submitted,
@@ -743,8 +743,8 @@ information provided:
     by the applicant and reviewed by the Village of Chagrin Falls. Once the
     Inspection and Maintenance Plan is approved, a recorded copy of the Plan
     must be submitted to the Village of Chagrin Falls as part of the final
-    inspection approval as described in [Section 1357.12][CF Section 1357.12] of
-    this Chapter. The plan will include at a minimum:
+    inspection approval as described in [Section 1357.12][CFCO 1357.12] of this
+    Chapter. The plan will include at a minimum:
 
         1. _(A)_ The location of each SCM and identification of the drainage
         area served by each SCM.
@@ -775,7 +775,7 @@ information provided:
     for projected stormwater runoff flows, volumes, and timing into and through
     all SCMs for flood control, channel protection, water quality, and the
     condition of the habitat, stability, and incision of each water resource and
-    its floodplain, as required in [Section 1357.09][CF Section 1357.09] of this
+    its floodplain, as required in [Section 1357.09][CFCO 1357.09] of this
     Chapter. These submittals shall be completed for both pre- and
     post-development land use conditions and shall include the underlying
     assumptions and hydrologic and hydraulic methods and parameters used for
@@ -867,10 +867,10 @@ runoff patterns, flows, and volumes; and to meet the following criteria:
     activities shall not be constructed in water resources unless the applicant
     shows proof of compliance with all appropriate permits from the Ohio EPA,
     the U.S. Army Corps, and other applicable federal, state, and local agencies
-    as required in [Section 1357.07][CF Section 1357.07] of this Chapter, and
-    the activity is in compliance with Chapter 1355 of the Building Code and
-    Chapter 1151 of the Planning and Zoning Code, all as determined by the
-    Village Engineer.
+    as required in [Section 1357.07][CFCO 1357.07] of this Chapter, and the
+    activity is in compliance with Chapter 1355 of the Building Code and Chapter
+    1151 of the Planning and Zoning Code, all as determined by the Village
+    Engineer.
 
     5. _(5)_ Stormwater ponds and surface conveyance channels:  All stormwater
     pond and surface conveyance designs must provide a minimum of one (1) foot
@@ -881,7 +881,7 @@ runoff patterns, flows, and volumes; and to meet the following criteria:
     preclude a safe design.
 
     6. _(6)_ Exemption: The site where soil-disturbing activities are conducted
-    shall be exempt from the requirements of this [Section 1357.09][CF Section
+    shall be exempt from the requirements of this [Section 1357.09][CFCO
     1357.09] if it can be shown to the satisfaction of the Village Engineer that
     the site is part of a larger common plan of development where the stormwater
     management requirements for the site are provided by an existing SCMs, or if
@@ -891,8 +891,7 @@ runoff patterns, flows, and volumes; and to meet the following criteria:
 
     7. _(7)_ Maintenance: All SCMs shall be maintained in accordance with the
     Inspection and Maintenance Plan and Agreements approved by the Village
-    Engineer as detailed in [Section 1357.08][CF Section 1357.08] of this
-    Chapter.
+    Engineer as detailed in [Section 1357.08][CFCO 1357.08] of this Chapter.
 
     8. _(8)_ Ownership: Unless otherwise required by the Village of Chagrin
     Falls, SCMs serving multiple lots in subdivisions shall be on a separate lot
@@ -952,7 +951,7 @@ in flow velocities. This shall include but not be limited to:
     streams, rivers, lakes, wetlands or other surface waters only if the
     applicant shows proof of compliance with all appropriate permits from the
     Ohio EPA, the U.S. Army Corps, and other applicable federal, state, and
-    local agencies as required in [Section 1357.07][CF Section 1357.07] of this
+    local agencies as required in [Section 1357.07][CFCO 1357.07] of this
     Chapter, and the activity is in compliance with Chapter 1355 of the Building
     Code and Chapter 1151  of the Planning and Zoning Code, all as determined by
     the Village Engineer. At a minimum, stream relocation designs must show how
@@ -1122,16 +1121,16 @@ in flow velocities. This shall include but not be limited to:
         comprehensive stormwater management plan, the Village Engineer may
         approve other SCMs if the applicant demonstrates to the Village
         Engineer's satisfaction that these SCMs meet the objectives of this
-        regulation as stated in [Section 1357.09(c)(6)][CF Section
-        1357.09(c)(6)] of this Chapter.
+        regulation as stated in [Section 1357.09(c)(6)][CFCO 1357.09(c)(6)] of
+        this Chapter.
 
         3. _(C)_ For sites greater than five (5) acres, or less than five (5)
         acres but part of a larger common plan of development or sale which will
         disturb five (5) or more acres, the Village Engineer may approve other
         SCMs if the applicant demonstrates to the [community engineer's]
         satisfaction that these SCMs meet the objectives of this regulation as
-        stated in [Section 1357.09(c)(6)][CF Section 1357.09(c)(6)] of this
-        Chapter, and has prior written approval from the Ohio EPA.
+        stated in [Section 1357.09(c)(6)][CFCO 1357.09(c)(6)] of this Chapter,
+        and has prior written approval from the Ohio EPA.
 
         4. _(D)_ For the construction of new roads and roadway improvement
         projects by public entities (i.e. the state, counties, townships,
@@ -1453,7 +1452,7 @@ in flow velocities. This shall include but not be limited to:
                 as asphalt or concrete for all parking areas and driveways,
                 regardless of the surface proposed in the site description
                 except in instances of engineered permeable pavement systems.
-                From the volume determined in [Section 1357.09(d)(3)][CF Section
+                From the volume determined in [Section 1357.09(d)(3)][CFCO
                 1357.09(d)(3)] of this Chapter, determine the percent increase
                 in volume of runoff due to development. Using the percentage,
                 select the 24-hour Critical Storm from Table 3.
@@ -1504,8 +1503,8 @@ in flow velocities. This shall include but not be limited to:
 
             4. _(4)_ Where conditions prevent impervious area reduction or
             on-site stormwater management for redevelopment projects, practical
-            alternatives as detailed in [Section 1357.10][CF Section 1357.10] of
-            this Chapter may be approved by the Village Engineer.\
+            alternatives as detailed in [Section 1357.10][CFCO 1357.10] of this
+            Chapter may be approved by the Village Engineer.\
             (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.10   Alternative actions
@@ -1601,8 +1600,8 @@ such practices and include the entity responsible for long-term maintenance as
 detailed in the Inspection and Maintenance Agreement.
 
 3. _(c)_ A copy of the complete and recorded Inspection and Maintenance Plan and
-Inspection and Maintenance Agreement as specified in [Section 1357.08][CF
-Section 1357.08] of this Chapter must be provided to the Village Engineer.\
+Inspection and Maintenance Agreement as specified in [Section 1357.08][CFCO
+1357.08] of this Chapter must be provided to the Village Engineer.\
 (Ord. 2016-79. Passed 12-12-16.)
 
 ## 1357.13   On-going inspections
@@ -1651,8 +1650,8 @@ following three criteria are met:
     the time of permanent stabilization have passed.
 
     2. _(2)_ An As-Built Inspection of all stormwater control measures as
-    described in [Section 1357.12][CF Section 1357.12] of this Chapter is
-    approved by the Village Engineer.
+    described in [Section 1357.12][CFCO 1357.12] of this Chapter is approved by
+    the Village Engineer.
 
     3. _(3)_ An Inspection and Maintenance Plan has been approved by the Village
     of Chagrin Falls and Inspection and Maintenance Agreement has been signed by
@@ -1724,13 +1723,13 @@ provisions of this regulation or other applicable laws, ordinances, rules, or
 regulations, or the orders of the Village of Chagrin Falls.\
 (Ord. 2016-79. Passed 12-12-16.)
 
-[CF Section 1357.01(c)]:</chapters/chapter-1357-comprehensive-stormwater-management/#135701(c)>
-[CF Section 1357.01]:</chapters/chapter-1357-comprehensive-stormwater-management/#135701-purpose-and-scope>
-[CF Section 1357.07]:</chapters/chapter-1357-comprehensive-stormwater-management/#135707-compliance-with-state-and-federal-regulations>
-[CF Section 1357.08]:</chapters/chapter-1357-comprehensive-stormwater-management/#135708-comprehensive-stormwater-management-plan>
-[CF Section 1357.09(c)(6)]:<>
-[CF Section 1357.09(d)(3)]:<>
-[CF Section 1357.09]:</chapters/chapter-1357-comprehensive-stormwater-management/#135709-performance-standards>
-[CF Section 1357.10]:</chapters/chapter-1357-comprehensive-stormwater-management/#135710-alternative-actions>
-[CF Section 1357.12]:</chapters/chapter-1357-comprehensive-stormwater-management/#135712-maintenance-and-final-inspection-approval>
+[CFCO 1357.01(c)]:</chapters/chapter-1357-comprehensive-stormwater-management/#135701(c)>
+[CFCO 1357.01]:</chapters/chapter-1357-comprehensive-stormwater-management/#135701-purpose-and-scope>
+[CFCO 1357.07]:</chapters/chapter-1357-comprehensive-stormwater-management/#135707-compliance-with-state-and-federal-regulations>
+[CFCO 1357.08]:</chapters/chapter-1357-comprehensive-stormwater-management/#135708-comprehensive-stormwater-management-plan>
+[CFCO 1357.09(c)(6)]:<>
+[CFCO 1357.09(d)(3)]:<>
+[CFCO 1357.09]:</chapters/chapter-1357-comprehensive-stormwater-management/#135709-performance-standards>
+[CFCO 1357.10]:</chapters/chapter-1357-comprehensive-stormwater-management/#135710-alternative-actions>
+[CFCO 1357.12]:</chapters/chapter-1357-comprehensive-stormwater-management/#135712-maintenance-and-final-inspection-approval>
 [ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>

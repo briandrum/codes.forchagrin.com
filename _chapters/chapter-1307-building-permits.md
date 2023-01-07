@@ -54,13 +54,13 @@ removals, be accompanied by a complete set of plans and working drawings
 conforming to the requirements of Chapter 1305. In addition to the above plans,
 and where heating equipment is to be installed, there shall be submitted, at the
 time of applying for a building permit, an approved set of heating plans in
-accordance with [Section 1307.15][CF Section 1307.15]. When plans and drawings
-are found to conform to the requirements of this Building Code and the Zoning
-Code, and such plans and drawings have been approved by the Architectural Board
-of Review as provided in [Section 137.08][CF Section 137.08] of the
-Administrative Code, the Inspector shall issue a permit, except as otherwise
-provided by ordinance or statute, which permit shall be effective for one year
-from the date of its issuance.\
+accordance with [Section 1307.15][CFCO 1307.15]. When plans and drawings are
+found to conform to the requirements of this Building Code and the Zoning Code,
+and such plans and drawings have been approved by the Architectural Board of
+Review as provided in [Section 137.08][CFCO 137.08] of the Administrative Code,
+the Inspector shall issue a permit, except as otherwise provided by ordinance or
+statute, which permit shall be effective for one year from the date of its
+issuance.\
 (Ord. 1955-350. Passed 10-10-55.)
 
 Whenever any board, commission, or official (collectively "Approving Authority")
@@ -72,7 +72,7 @@ ordinance and standards, on such approval with such conditions that the
 Approving Authority believes are necessary to impose in order that the public
 health, safety, convenience, comfort and general welfare of the resident and the
 Village may be safeguarded and substantial justice done.\
-([Ord. 2022-19. Passed 6-13-22.][])
+([Ord. 2022-19. Passed 6-13-22.][CFO 2022-19])
 
 ## 1307.02   Issuance of permit; certification of compliance with zoning code
 
@@ -105,10 +105,10 @@ promptly and at the proper time, or at such times as instructed by the
 Inspector, replace and restore the street, pavement, sidewalk, tree lawn or
 other public property over any such opening to as good a state and condition as
 found previous to opening the same. Such deposit shall be held for such purposes
-and also in accordance with the provisions of [Section 1307.11][CF Section
-1307.11] and the provisions of Chapter 901. Upon the completion of the work for
-which a permit has been granted, and when the Inspector is satisfied that all
-the conditions and requirements provided for herein have been satisfied, such
+and also in accordance with the provisions of [Section 1307.11][CFCO 1307.11]
+and the provisions of Chapter 901. Upon the completion of the work for which a
+permit has been granted, and when the Inspector is satisfied that all the
+conditions and requirements provided for herein have been satisfied, such
 deposit or any unused portion thereof may be returned to the permittee.
 
 Where an application for a permit involves industrial or commercial
@@ -126,20 +126,20 @@ Code shall prevent the Inspector from issuing a permit for the erection of part
 of a building or structure, where the plans and detailed statements have been
 presented for the same, before the entire plans and detailed statements of such
 building or structure have been submitted, provided that a complete set of all
-such plans and working drawings as prescribed in [Section 1307.01][CF Section
-1307.01] is placed on file before the foundation wall is brought to grade or to
-a height to receive the first tier of beams, girders or joists.\
+such plans and working drawings as prescribed in [Section 1307.01][CFCO 1307.01]
+is placed on file before the foundation wall is brought to grade or to a height
+to receive the first tier of beams, girders or joists.\
 (Ord. 1940-276. Passed 9-9-40.)
 
 ## 1307.05   Permits for superstructure
 
-(Editor's note: Former [Section 1307.05][CF Section 1307.05] was repealed by
-Ordinance 1980-5, passed January 28, 1980.)
+(Editor's note: Former [Section 1307.05][CFCO 1307.05] was repealed by Ordinance
+1980-5, passed January 28, 1980.)
 
 ## 1307.06   Permits for minor interior repairs and alterations
 
-(Editor's note: Former [Section 1307.06][CF Section 1307.06] was repealed by
-Ordinance 1980-5, passed January 28, 1980.)
+(Editor's note: Former [Section 1307.06][CFCO 1307.06] was repealed by Ordinance
+1980-5, passed January 28, 1980.)
 
 ## 1307.07   Water permit required
 
@@ -220,17 +220,17 @@ tree lawns, trees, sidewalks and property of adjoining owners. Damage to
 municipal property not repaired within five days after notice to repair from the
 Inspector may be repaired in such manner as the Inspector may determine and the
 cost of such repairs may be deducted from the cash deposited as provided in
-[Section 1307.03][CF Section 1307.03]. Should the deposit be insufficient to
-cover such repairs and all other work for which it is security, and the
-resulting deficit is not paid into the Municipal Treasury within thirty days
-after completion of the work, such deficit shall become a lien on the property
-on which the construction work was authorized and shall be collected as other
-taxes are collected. A sum equivalent to five percent of the cost of repairs
-made on the authority and under the direction of the Inspector shall be deducted
-from the deposit to reimburse the Municipality for the time and expense
-involved. Failure to remove refuse and surplus materials from streets and from
-that portion of the land which is immediately adjacent to a public street,
-within thirty days after the substantial completion of work, shall constitute
+[Section 1307.03][CFCO 1307.03]. Should the deposit be insufficient to cover
+such repairs and all other work for which it is security, and the resulting
+deficit is not paid into the Municipal Treasury within thirty days after
+completion of the work, such deficit shall become a lien on the property on
+which the construction work was authorized and shall be collected as other taxes
+are collected. A sum equivalent to five percent of the cost of repairs made on
+the authority and under the direction of the Inspector shall be deducted from
+the deposit to reimburse the Municipality for the time and expense involved.
+Failure to remove refuse and surplus materials from streets and from that
+portion of the land which is immediately adjacent to a public street, within
+thirty days after the substantial completion of work, shall constitute
 authorization to the Inspector to have such materials and refuse removed. The
 cost of such removal shall be assessed and collected in the manner provided for
 the making of repairs to municipal property.\
@@ -448,7 +448,7 @@ of Zoning Appeals regarding the Planning and Zoning Code of Chagrin Falls.
     provision, regulation, order, requirement, determination or any other action
     by the Village in relation to the Building Code, the standard of review for
     any appeal regarding an area regulation shall be the same as provided for
-    area variances found in [Section 1111.07(c)][CF Section 1111.07(c)] of the
+    area variances found in [Section 1111.07(c)][CFCO 1111.07(c)] of the
     Planning and Zoning Code.
 
     2. _(2)_ Whenever the appeal relates to seeking a variance from required
@@ -490,17 +490,17 @@ provide such advice and attend any hearing or meeting.\
 
 ## 1307.99   Penalty
 
-(Editor's note: See [Section 1303.99][CF Section 1303.99] general Code penalty
-if no specific penalty is provided.)
+(Editor's note: See [Section 1303.99][CFCO 1303.99] general Code penalty if no
+specific penalty is provided.)
 
-[CF Section 137.08]:</chapters/chapter-137-architectural-board-of-review/#13708-review-of-plans-time-limit>
-[CF Section 1111.07(c)]:</chapters/chapter-1111-appeals-and-variances/#111107(c)>
-[CF Section 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
-[CF Section 1307.01]:</chapters/chapter-1307-building-permits/#130701-building-permits-required-application-plans-and-drawings>
-[CF Section 1307.03]:</chapters/chapter-1307-building-permits/#130703-bonds>
-[CF Section 1307.05]:</chapters/chapter-1307-building-permits/#130705-permits-for-superstructure>
-[CF Section 1307.06]:</chapters/chapter-1307-building-permits/#130706-permits-for-minor-interior-repairs-and-alterations>
-[CF Section 1307.11]:</chapters/chapter-1307-building-permits/#130711-deposit-to-cover-repairs>
-[CF Section 1307.15]:</chapters/chapter-1307-building-permits/#130715-heating-installations>
+[CFCO 137.08]:</chapters/chapter-137-architectural-board-of-review/#13708-review-of-plans-time-limit>
+[CFCO 1111.07(c)]:</chapters/chapter-1111-appeals-and-variances/#111107(c)>
+[CFCO 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
+[CFCO 1307.01]:</chapters/chapter-1307-building-permits/#130701-building-permits-required-application-plans-and-drawings>
+[CFCO 1307.03]:</chapters/chapter-1307-building-permits/#130703-bonds>
+[CFCO 1307.05]:</chapters/chapter-1307-building-permits/#130705-permits-for-superstructure>
+[CFCO 1307.06]:</chapters/chapter-1307-building-permits/#130706-permits-for-minor-interior-repairs-and-alterations>
+[CFCO 1307.11]:</chapters/chapter-1307-building-permits/#130711-deposit-to-cover-repairs>
+[CFCO 1307.15]:</chapters/chapter-1307-building-permits/#130715-heating-installations>
+[CFO 2022-19]:</ordinance-2022-19>
 [ORC Section 971.02]:<https://codes.ohio.gov/ohio-revised-code/section-971.02>
-[Ord. 2022-19. Passed 6-13-22.]:</ordinance-2022-19>

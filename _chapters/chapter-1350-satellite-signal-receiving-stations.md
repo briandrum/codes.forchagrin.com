@@ -28,9 +28,9 @@ title: "Chapter 1350: Satellite Signal Receiving Stations"
 
 ## 1350.01   Intent
 
-In addition to the provisions of the intent stated in [Section 1105.03][CF
-Section 1105.03], it is the intent of these regulations to ensure the following
-health, safety and aesthetic objectives:
+In addition to the provisions of the intent stated in [Section 1105.03][CFCO
+1105.03], it is the intent of these regulations to ensure the following health,
+safety and aesthetic objectives:
 
 1. _(a)_ To limit interference with natural sunlight and the circulation of air
 and to preserve space for trees and other plants;
@@ -117,7 +117,7 @@ or Limited Industrial Zoning Districts subject to the following:
 
 ## 1350.04   Permit required; fee
 
-Except as provided in [Section 1350.03][CF Section 1350.03], no person, firm or
+Except as provided in [Section 1350.03][CFCO 1350.03], no person, firm or
 corporation shall erect a satellite dish-type earth station without a permit and
 no installation or erection shall commence before a permit is issued in
 accordance with this Chapter. The permit fee for a satellite dish earth station
@@ -247,8 +247,7 @@ structure shall not exceed thirteen feet from natural grade level.\
 
 1. _(a)_ The dish shall be screened so as to permanently shield most of the
 structure from view from adjoining properties and public rights of way, pursuant
-to the guideline of [Section 1142.06(b)][CF Section 1142.06(b)] of the Zoning
-Code.
+to the guideline of [Section 1142.06(b)][CFCO 1142.06(b)] of the Zoning Code.
 
 2. _(b)_ No lettering, numerals, symbols, pictorial signs or designs shall be
 permitted on any surface of the earth station. No earth station dish shall be
@@ -279,6 +278,6 @@ Whoever violates or fails to comply with any provision of this chapter is guilty
 of a misdemeanor of the first degree.\
 (Ord. 2000-95. Passed 11-27-00.)
 
-[CF Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
-[CF Section 1142.06(b)]:</chapters/chapter-1142-landscaping-regulations/#114206(b)>
-[CF Section 1350.03]:</chapters/chapter-1350-satellite-signal-receiving-stations/#135003-permit-not-required>
+[CFCO 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
+[CFCO 1142.06(b)]:</chapters/chapter-1142-landscaping-regulations/#114206(b)>
+[CFCO 1350.03]:</chapters/chapter-1350-satellite-signal-receiving-stations/#135003-permit-not-required>

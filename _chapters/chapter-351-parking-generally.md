@@ -427,9 +427,9 @@ following:
     regulation posted by the owner.
 
 2. _(b)_ Except as provided in Ohio R.C. [4513.60][ORC Section 4513.60] to
-4513.65 and [Section 303.08][CF Section 303.08] of this Traffic Code and
-[Section 521.11][CF Section 521.11] of the General Offenses Code, and subject to
-the requirements of this section, the owner of private property or his or her
+4513.65 and [Section 303.08][CFCO 303.08] of this Traffic Code and [Section
+521.11][CFCO 521.11] of the General Offenses Code, and subject to the
+requirements of this section, the owner of private property or his or her
 authorized agent may remove, or cause to be removed, any vehicle parked on the
 property in violation of a posted parking prohibition condition or regulation.
 
@@ -481,10 +481,10 @@ property established as a private tow-away zone without the consent of the
 owner.
 
 5. _(e)_ Except as provided in Ohio R.C. [4513.60][ORC Section 4513.60] to
-4513.65 and [Section 303.08][CF Section 303.08] of this Traffic Code and
-[Section 521.11][CF Section 521.11] of the General Offenses Code, no person
-shall remove, or cause to be removed, any vehicle from private property other
-than in accordance with this section.
+4513.65 and [Section 303.08][CFCO 303.08] of this Traffic Code and [Section
+521.11][CFCO 521.11] of the General Offenses Code, no person shall remove, or
+cause to be removed, any vehicle from private property other than in accordance
+with this section.
 
 6. _(f)_ If an owner of private property, or his or her authorized agent,
 removes or causes the removal of a vehicle from that property pursuant to this
@@ -495,7 +495,7 @@ and of the vehicle's license plate number.\
 7. _(g)_ Whoever violates subsection (e) hereof is guilty of a minor misdemeanor
 for a first offense and a misdemeanor of the third degree for a second or
 subsequent offense. Whoever violates any other provision of this section shall
-be punished as provided in [Section 303.99][CF Section 303.99].\
+be punished as provided in [Section 303.99][CFCO 303.99].\
 (ORC 4511.99(D); Ord. 1983-7. Passed 3-14-83.)
 
 ## 351.15   Night parking of commercial vehicles in residential districts
@@ -515,52 +515,53 @@ avenue, alley, lane, boulevard, road or highway, except in case of emergency.\
 ## 351.17   Waiver
 
 1. _(a)_ Whoever violates any provisions of this chapter, except [Section
-351.03(q)][CF Section 351.03(q)] or [351.04(f)][CF Section 351.04(f)], may
-execute and file with the Clerk or Deputy Clerk of the Bedford Municipal Court
-who is on duty at the Village Police Department an instrument waiving the formal
-issuance of an affidavit and warrant, together with the reading of such
-affidavit and the right to be present personally at the trial of such action,
-and further waiving the right of appeal in error, and authorizing a plea of
-guilty to be entered and the defendant submitted to the mercy of the Court, and
-upon depositing with the Clerk or Deputy Clerk the sum of twenty dollars
-($20.00) within thirty (30) days of the date of the citation, or if not
-deposited within thirty (30) days of the date of the citation, by depositing
-with the Clerk or Deputy Clerk the sum of forty dollars ($40.00) within
-thirty-one (31) to sixty (60) days from the date of the citation, and if not
-deposited within sixty (60) days of the date of the citation, deposit with the
-Clerk or Deputy Clerk of the Bedford Municipal Court the sum of sixty dollars
-($60.00) and the Police Department shall notify the Bureau of Motor Vehicles to
-place a registration block upon the vehicle cited until the fine is deposited if
-not deposited within sixty (60) days of the citation date, and in which event
-the violator shall pay the cost, if any, to remove the registration block when
-the fine is deposited, may be fined such amounts by the Court.\
+351.03(q)][CFCO 351.03(q)] or [351.04(f)][CFCO 351.04(f)], may execute and file
+with the Clerk or Deputy Clerk of the Bedford Municipal Court who is on duty at
+the Village Police Department an instrument waiving the formal issuance of an
+affidavit and warrant, together with the reading of such affidavit and the right
+to be present personally at the trial of such action, and further waiving the
+right of appeal in error, and authorizing a plea of guilty to be entered and the
+defendant submitted to the mercy of the Court, and upon depositing with the
+Clerk or Deputy Clerk the sum of twenty dollars ($20.00) within thirty (30) days
+of the date of the citation, or if not deposited within thirty (30) days of the
+date of the citation, by depositing with the Clerk or Deputy Clerk the sum of
+forty dollars ($40.00) within thirty-one (31) to sixty (60) days from the date
+of the citation, and if not deposited within sixty (60) days of the date of the
+citation, deposit with the Clerk or Deputy Clerk of the Bedford Municipal Court
+the sum of sixty dollars ($60.00) and the Police Department shall notify the
+Bureau of Motor Vehicles to place a registration block upon the vehicle cited
+until the fine is deposited if not deposited within sixty (60) days of the
+citation date, and in which event the violator shall pay the cost, if any, to
+remove the registration block when the fine is deposited, may be fined such
+amounts by the Court.\
 (Ord. 2017-75. Passed 11-13-17.)
 
 2. _(b)_
 
-    1. _(1)_ Whoever violates [Section 351.03(q)][] may execute a waiver and
-    deposit fifty dollars ($50.00) with the Clerk or Deputy Clerk of the Bedford
-    Municipal Court, who is on duty at the Village Police Department, an
-    instrument waiving the formal issuance of an affidavit and warrant, together
-    with the reading of such affidavit and the right to be present personally at
-    the trial of such action, and further waiving the right of appeal in error,
-    and authorizing a plea of guilty to be entered and the defendant submitting
-    to the mercy of the Court, within thirty (30) days of the date of citation,
-    or if not deposited within thirty (30) days, seventy dollars ($70.00) may be
-    deposited with the Clerk or Deputy Clerk of the Bedford Municipal Court if
-    made within thirty-one (31) to sixty (60) days of the date of the citation,
-    and if not deposited within sixty (60) days of the date of the citation,
-    deposit the sum of ninety dollars ($90.00), and the Police Department shall
-    notify the Bureau of Motor Vehicles to place a registration block upon the
-    vehicle cited until the fine is deposited if not deposited within sixty (60)
-    days of the citation date, in which event the violator shall pay the cost,
-    if any, to remove the registration block after the fine is paid.
-
-    2. _(2)_ Whoever violates [Section 351.04(f)][] may execute a waiver and
-    deposit two hundred and fifty dollars ($250.00) with the Clerk or Deputy
-    Clerk of the Bedford Municipal Court, who is on duty at the Village Police
+    1. _(1)_ Whoever violates [Section 351.03(q)][CFCO 351.03(q)] may execute a
+    waiver and deposit fifty dollars ($50.00) with the Clerk or Deputy Clerk of
+    the Bedford Municipal Court, who is on duty at the Village Police
     Department, an instrument waiving the formal issuance of an affidavit and
     warrant, together with the reading of such affidavit and the right to be
+    present personally at the trial of such action, and further waiving the
+    right of appeal in error, and authorizing a plea of guilty to be entered and
+    the defendant submitting to the mercy of the Court, within thirty (30) days
+    of the date of citation, or if not deposited within thirty (30) days,
+    seventy dollars ($70.00) may be deposited with the Clerk or Deputy Clerk of
+    the Bedford Municipal Court if made within thirty-one (31) to sixty (60)
+    days of the date of the citation, and if not deposited within sixty (60)
+    days of the date of the citation, deposit the sum of ninety dollars
+    ($90.00), and the Police Department shall notify the Bureau of Motor
+    Vehicles to place a registration block upon the vehicle cited until the fine
+    is deposited if not deposited within sixty (60) days of the citation date,
+    in which event the violator shall pay the cost, if any, to remove the
+    registration block after the fine is paid.
+
+    2. _(2)_ Whoever violates [Section 351.04(f)][CFCO 351.04(f)] may execute a
+    waiver and deposit two hundred and fifty dollars ($250.00) with the Clerk or
+    Deputy Clerk of the Bedford Municipal Court, who is on duty at the Village
+    Police Department, an instrument waiving the formal issuance of an affidavit
+    and warrant, together with the reading of such affidavit and the right to be
     present personally at the trial of such action, and further waiving the
     right of appeal in error, and authorizing a plea of guilty to be entered and
     the defendant submitting to the mercy of the Court within the first thirty
@@ -612,19 +613,19 @@ Village without a permit required by this Section.
 
 2. _(b)_ Any person who violates subsection (a) hereof is guilty of a minor
 misdemeanor and subject to the penalties provided in Codified Ordinance [Section
-303.99][].\
+303.99][CFCO 303.99].\
 (Ord. 2019-26. Passed 4-8-19.)
 
 ## 351.99   Penalty
 
-(Editor's note: See [Section 303.99][CF Section 303.99] for general Traffic Code
+(Editor's note: See [Section 303.99][CFCO 303.99] for general Traffic Code
 penalty.)
 
-[CF Section 303.08]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30308-impounding-of-vehicles-redemption>
-[CF Section 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
-[CF Section 351.03(q)]:</chapters/chapter-351-parking-generally/#35103(q)>
-[CF Section 351.04(f)]:</chapters/chapter-351-parking-generally/#35104(f)>
-[CF Section 521.11]:</chapters/chapter-521-health-safety-and-sanitation/#52111-junk-and-junk-vehicles>
+[CFCO 303.08]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30308-impounding-of-vehicles-redemption>
+[CFCO 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
+[CFCO 351.03(q)]:</chapters/chapter-351-parking-generally/#35103(q)>
+[CFCO 351.04(f)]:</chapters/chapter-351-parking-generally/#35104(f)>
+[CFCO 521.11]:</chapters/chapter-521-health-safety-and-sanitation/#52111-junk-and-junk-vehicles>
 [ORC Section 3781.111]:<https://codes.ohio.gov/ohio-revised-code/section-3781.111>
 [ORC Section 4503.41]:<https://codes.ohio.gov/ohio-revised-code/section-4503.41>
 [ORC Section 4503.44]:<https://codes.ohio.gov/ohio-revised-code/section-4503.44>

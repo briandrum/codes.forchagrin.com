@@ -54,7 +54,7 @@ shall be attached to and is incorporated as a part of the Traffic Code.\
 There is hereby established a Traffic Control File which shall be prepared and
 kept to date by the Police Department and maintained in the Police Department
 office. The file shall constitute the permanent and official record of the
-traffic control designations provided in [Section 305.01][CF Section 305.01].
+traffic control designations provided in [Section 305.01][CFCO 305.01].
 
 The Traffic Control File existing as of the date of passage of this Traffic Code
 is incorporated as part of this Traffic Code.
@@ -87,7 +87,7 @@ File.
 After the effective date of any ordinance regulating the control of traffic by
 amending the Traffic Control Map, and the erection of signs giving notice
 thereof, any person found guilty of violating any such traffic control area
-regulation shall be punished as provided in [Section 303.99][CF Section 303.99].
+regulation shall be punished as provided in [Section 303.99][CFCO 303.99].
 
 ## Appendix A - Traffic map amendments
 
@@ -346,6 +346,6 @@ regulation shall be punished as provided in [Section 303.99][CF Section 303.99].
 | **2019-20**   |      4-8-19 | A stop sign shall be added for northbound traffic on North Street at its intersection with North Cleveland Street and Falls Road at the point where it first intersects with North Cleveland Street. All vehicles shall stop before entering the intersection of the second street. |
 | **2021-57**   |     9-27-21 | No parking shall be permitted on either side of Low Street. |
 
-[CF Section 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
-[CF Section 305.01]:</chapters/chapter-305-traffic-control-map-and-file/#30501-traffic-control-map>
+[CFCO 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
+[CFCO 305.01]:</chapters/chapter-305-traffic-control-map-and-file/#30501-traffic-control-map>
 [ORC Section 4511.07]:<https://codes.ohio.gov/ohio-revised-code/section-4511.07>

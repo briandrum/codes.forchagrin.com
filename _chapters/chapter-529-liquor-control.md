@@ -799,10 +799,10 @@ shall they begin prior to five thirty a.m.\
 
 ## 529.99   Penalty
 
-(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
-to any misdemeanor classification.)
+(Editor's note: See [Section 501.99][CFCO 501.99] for penalties applicable to
+any misdemeanor classification.)
 
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [ORC Chapter 3717]:<https://codes.ohio.gov/ohio-revised-code/chapter-3717>
 [ORC Chapter 4301]:<https://codes.ohio.gov/ohio-revised-code/chapter-4301>
 [ORC Section 3719.011]:<https://codes.ohio.gov/ohio-revised-code/section-3719.011>

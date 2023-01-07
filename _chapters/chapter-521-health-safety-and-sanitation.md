@@ -224,8 +224,8 @@ degree.
 
 ## 521.07   Fences
 
-(Editor's note: Former [Section 521.07][CF Section 521.07] was repealed by
-Ordinance 1995-18, passed April 10, 1995.)
+(Editor's note: Former [Section 521.07][CFCO 521.07] was repealed by Ordinance
+1995-18, passed April 10, 1995.)
 
 ## 521.08   Littering and deposit of garbage, rubbish, junk, etc
 
@@ -543,11 +543,11 @@ convictions thereafter.\
 
 ## 521.99   Penalty
 
-(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
-to any misdemeanor classification.)
+(Editor's note: See [Section 501.99][CFCO 501.99] for penalties applicable to
+any misdemeanor classification.)
 
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[CF Section 521.07]:</chapters/chapter-521-health-safety-and-sanitation/#52107-fences>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 521.07]:</chapters/chapter-521-health-safety-and-sanitation/#52107-fences>
 [ORC Chapter 3734]:<https://codes.ohio.gov/ohio-revised-code/chapter-3734>
 [ORC Chapter 3767]:<https://codes.ohio.gov/ohio-revised-code/chapter-3767>
 [ORC Chapter 6111]:<https://codes.ohio.gov/ohio-revised-code/chapter-6111>

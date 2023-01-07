@@ -181,9 +181,8 @@ standards, on any such approval with such conditions the Approving Authority
 believes are necessary to impose in order that the public health, safety,
 convenience, comfort and general welfare of the residents and the Village may be
 safeguarded and substantial justice done.\
-([Ord. 2022-19. Passed 6-13-22.][])
+([Ord. 2022-19. Passed 6-13-22.][CFO 2022-19])
 
-[Ord. 2022-19. Passed 6-13-22.]:</ordinance-2022-19>
-
+[CFO 2022-19]:</ordinance-2022-19>
 [ORC Section 9.68]:<https://codes.ohio.gov/ohio-revised-code/section-9.68>
 [ORC Section 2923.11]:<https://codes.ohio.gov/ohio-revised-code/section-2923.11>

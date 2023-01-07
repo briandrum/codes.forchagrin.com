@@ -21,10 +21,10 @@ title: "Chapter 123: Department of Law"
 
 ## 123.01   Department established
 
-Pursuant to [Article VII, Section 3][], of the Charter, there is hereby
+Pursuant to [Article VII, Section 3][CFC 7.3], of the Charter, there is hereby
 established a Department of Law, which shall be composed of a Director of Law
-and Prosecutor, who shall be an Assistant Director of Law. (Ord. 2006-23. Passed
-5-22-06.)
+and Prosecutor, who shall be an Assistant Director of Law.\
+(Ord. 2006-23. Passed 5-22-06.)
 
 ## 123.02   Appointment and removal of director
 
@@ -74,5 +74,5 @@ Municipal Court; and perform such other duties consistent with the office as the
 Mayor, Council or the Director of Law may request.\
 (Ord. 2006-23. Passed 5-22-06.)
 
-[Article VII, Section 3]:</articles/article-vii-administrative-officers-departments-boards-and-commissions/#section-vii-3-director-of-law>
+[CFC 7.3]:</articles/article-vii-administrative-officers-departments-boards-and-commissions/#section-vii-3-director-of-law>
 [ORC Section 733.48]:<https://codes.ohio.gov/ohio-revised-code/section-733.48>

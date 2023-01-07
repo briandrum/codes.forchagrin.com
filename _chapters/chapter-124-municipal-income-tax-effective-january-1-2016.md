@@ -69,16 +69,16 @@ allocated into the General Fund.
     uniform rate on all persons residing in or earning or receiving income in
     the Municipality. The tax is levied on income, qualifying wages, commissions
     and other compensation, and on net profits as hereinafter provided in
-    [Section 124.03][CF Section 124.03] of this chapter and other sections as
-    they may apply.
+    [Section 124.03][CFCO 124.03] of this chapter and other sections as they may
+    apply.
 
     2. _(2)_ Intentionally left blank.
 
 3. _(C)_ The tax on income and the withholding tax established by this Chapter
 124 are authorized by [Article XVIII, Section 3][OC 18.3] of the Ohio
 Constitution. The tax is levied in accordance with, and is intended to be
-consistent with, the provisions and limitations of Ohio Revised Code 718 (ORC
-718).\
+consistent with, the provisions and limitations of Ohio Revised Code [718][ORC
+718] (ORC 718).\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.02   Definitions
@@ -154,13 +154,14 @@ the feminine and the gender-neutral.
         or indirectly by the taxpayer and included in the taxpayer's federal
         taxable income unless an affiliated group of corporations includes that
         net profit in the group's federal taxable income in accordance with
-        [division (V)(3)(b) of Section 124.05][[CF Section 124.05(V)(3)(b)].
+        [division (V)(3)(b)][CFCO 124.05(V)(3)(b)] of [Section 124.05][CFCO
+        124.05].
 
         10. _(j)_ Add any loss incurred by a pass-through entity owned directly
         or indirectly by the taxpayer and included in the taxpayer's federal
         taxable income unless an affiliated group of corporations includes that
-        loss in the group's federal taxable income in accordance with division
-        (V)(3)(b) of Section 124.05.
+        loss in the group's federal taxable income in accordance with [division
+        (V)(3)(b)][CFCO 124.05(V)(3)(b)] of [Section 124.05][CFCO 124.05].
 
         If the taxpayer is not a C corporation, is not a disregarded entity that
         has made an election described in division (C)(48)(b) of this section,
@@ -4368,8 +4369,9 @@ shall be subject to the penalties provided for in Section 124.99 (A) of this
 Chapter.\
 (Ord. 2018-22. Passed 3-26-18.)
 
-[CF Section 124.03]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403-imposition-of-tax>
-[CF Section 124.05(V)(3)(b)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(V)(3)(b)>
+[CFCO 124.03]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403-imposition-of-tax>
+[CFCO 124.05]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405-annual-return-filing>
+[CFCO 124.05(V)(3)(b)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(V)(3)(b)>
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
 [ORC Chapter 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
 [ORC Chapter 1705]:<https://codes.ohio.gov/ohio-revised-code/chapter-1705>
@@ -4391,6 +4393,7 @@ Chapter.\
 [ORC Section 715.72]:<https://codes.ohio.gov/ohio-revised-code/section-715.72>
 [ORC Section 715.74]:<https://codes.ohio.gov/ohio-revised-code/section-715.74>
 [ORC Section 715.691]:<https://codes.ohio.gov/ohio-revised-code/section-715.691>
+[ORC 718]:<https://codes.ohio.gov/orc/718>
 [ORC Section 718.01]:<https://codes.ohio.gov/ohio-revised-code/section-718.01>
 [ORC Section 718.03]:<https://codes.ohio.gov/ohio-revised-code/section-718.03>
 [ORC Section 3501.28]:<https://codes.ohio.gov/ohio-revised-code/section-3501.28>

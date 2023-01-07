@@ -53,7 +53,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.12)
 
 ## 313.02   Through streets; stop and yield right-of-way signs
@@ -150,12 +150,12 @@ following meanings:
     3. _(3)_
 
         1. _(A)_ Unless otherwise directed by a pedestrian signal indication, as
-        provided in [Section 313.05][CF Section 313.05], pedestrians facing a
-        circular green signal indication are permitted to proceed across the
-        roadway within any marked or unmarked associated crosswalk. The
-        pedestrian shall yield the right-of-way to vehicles lawfully within the
-        intersection or so close as to create an immediate hazard at the time
-        that the green signal indication is first displayed.
+        provided in [Section 313.05][CFCO 313.05], pedestrians facing a circular
+        green signal indication are permitted to proceed across the roadway
+        within any marked or unmarked associated crosswalk. The pedestrian shall
+        yield the right-of-way to vehicles lawfully within the intersection or
+        so close as to create an immediate hazard at the time that the green
+        signal indication is first displayed.
 
         2. _(B)_ Pedestrians facing a green arrow signal indication, unless
         otherwise directed by a pedestrian signal indication or other traffic
@@ -179,8 +179,8 @@ following meanings:
 
     3. _(3)_ Pedestrians facing a steady circular yellow or yellow arrow signal
     indication, unless otherwise directed by a pedestrian signal indication as
-    provided in [Section 313.05][CF Section 313.05] or other traffic control
-    device, shall not start to cross the roadway.
+    provided in [Section 313.05][CFCO 313.05] or other traffic control device,
+    shall not start to cross the roadway.
 
 3. _(c)_ **Steady Red Signal Indication:**
 
@@ -224,8 +224,8 @@ following meanings:
         provisions that are applicable after making a stop at a stop sign.
 
     3. _(3)_ Unless otherwise directed by a pedestrian signal indication as
-    provided in [Section 313.05][CF Section 313.05] or other traffic control
-    device, pedestrians facing a steady circular red or steady red arrow signal
+    provided in [Section 313.05][CFCO 313.05] or other traffic control device,
+    pedestrians facing a steady circular red or steady red arrow signal
     indication shall not enter the roadway.
 
     4. _(4)_ Local authorities by ordinance, or the Director of Transportation
@@ -414,9 +414,9 @@ the third degree.\
 
 ## 313.06   Flashing traffic signals
 
-(Former Ohio R.C. [4511.15][ORC Section 4511.15] from which [Section 313.06][CF
-Section 313.06] was derived was repealed by House Bill 349, effective April 20,
-2012.)
+(Former Ohio R.C. [4511.15][ORC Section 4511.15] from which [Section
+313.06][CFCO 313.06] was derived was repealed by House Bill 349, effective April
+20, 2012.)
 
 ## 313.07   Unauthorized signs and signals, hiding from view, advertising
 
@@ -519,7 +519,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.132)
 
 ## 313.10   Unlawful purchase, possession or sale
@@ -595,9 +595,9 @@ device that, if activated by a person, is capable of changing a traffic control
 signal to green out of sequence.\
 (ORC 4513.031)
 
-[CF Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
-[CF Section 313.05]:</chapters/chapter-313-traffic-control-devices/#31305-special-pedestrian-control-signals>
-[CF Section 313.06]:</chapters/chapter-313-traffic-control-devices/#31306-flashing-traffic-signals>
+[CFCO 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
+[CFCO 313.05]:</chapters/chapter-313-traffic-control-devices/#31305-special-pedestrian-control-signals>
+[CFCO 313.06]:</chapters/chapter-313-traffic-control-devices/#31306-flashing-traffic-signals>
 [ORC Section 109.71]:<https://codes.ohio.gov/ohio-revised-code/section-109.71>
 [ORC Section 2913.02]:<https://codes.ohio.gov/ohio-revised-code/section-2913.02>
 [ORC Section 2913.51]:<https://codes.ohio.gov/ohio-revised-code/section-2913.51>

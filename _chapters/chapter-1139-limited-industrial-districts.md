@@ -24,9 +24,9 @@ title: "Chapter 1139: Limited Industrial Districts"
 ## 1139.01   Intent
 
 In addition to the applicable provisions of the intent stated in [Section
-1105.03][], it is the intent of these district regulations to promote limited
-industrial development appropriately designed and located to achieve, among
-others, the following objectives:
+1105.03][CFCO 1105.03], it is the intent of these district regulations to
+promote limited industrial development appropriately designed and located to
+achieve, among others, the following objectives:
 
 1. _(a)_ To provide opportunities for local employment.
 
@@ -234,8 +234,8 @@ all main and accessory buildings.
     structures.
 
     3. _(3)_ Exceptions to height limitations. Rooftop mechanical equipment as
-    permitted under [Section 1139.02(b)(5)][CF Section 1139.02(b)(5)] may extend
-    a maximum of ten feet above the highest point of the building on which it is
+    permitted under [Section 1139.02(b)(5)][CFCO 1139.02(b)(5)] may extend a
+    maximum of ten feet above the highest point of the building on which it is
     located, provided that such equipment is set back from any building face a
     distance at least equal to the height by which it exceeds the building
     height.\
@@ -287,5 +287,5 @@ signs and environmental performance, refer to Chapters 1141 - 1150 of the
 Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[CF Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
-[CF Section 1139.02(b)(5)]:</chapters/chapter-1139-limited-industrial-districts/#113902(b)(5)>
+[CFCO 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
+[CFCO 1139.02(b)(5)]:</chapters/chapter-1139-limited-industrial-districts/#113902(b)(5)>

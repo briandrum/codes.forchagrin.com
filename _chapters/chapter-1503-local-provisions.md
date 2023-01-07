@@ -97,7 +97,7 @@ manner.
 be immediately moved upon direction of any member of the Department of Public
 Safety and Service. Any unattended motor vehicles found standing or parked in a
 fire lane may be impounded in a manner and subject to the penalties and charges
-set forth in [Section 303.08][CF Section 303.08] of the Traffic Code.
+set forth in [Section 303.08][CFCO 303.08] of the Traffic Code.
 
 5. _(e)_ Obstructions, other than motor vehicles, found in fire lanes shall be
 removed by the owner, occupant, or other person in charge of the premises
@@ -219,7 +219,7 @@ shall be deemed to be a separate offense.\
 
 ## 1503.071   Central Station Monitored Fire Alarm System Requirement.
 
-1. _(a)_ **Definitions.** For purposes of this [Section 1503.071][CF Section
+1. _(a)_ **Definitions.** For purposes of this [Section 1503.071][CFCO
 1503.071], the following terms shall have the following meanings:
 
     1. _(1)_ "Central Station Monitored Fire Alarm System" means an NFPA 72
@@ -296,13 +296,13 @@ obtain an occupancy permit.\
 
 ## 1503.99   Penalty
 
-(Editor's note: See [Section 1501.99][CF Section 1501.99] for general Code
-penalty if no specific penalty is provided.)\
+(Editor's note: See [Section 1501.99][CFCO 1501.99] for general Code penalty if
+no specific penalty is provided.)\
 (Ord. 1975-970. Passed 4-15-75.)
 
-[CF Section 303.08]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30308-impounding-of-vehicles-redemption>
-[CF Section 1501.99]:</chapters/chapter-1501-model-codes-adopted/#150199-penalty>
-[CF Section 1503.071]:</chapters/chapter-1503-local-provisions/#1503071-central-station-monitored-fire-alarm-system-requirement>
+[CFCO 303.08]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30308-impounding-of-vehicles-redemption>
+[CFCO 1501.99]:</chapters/chapter-1501-model-codes-adopted/#150199-penalty>
+[CFCO 1503.071]:</chapters/chapter-1503-local-provisions/#1503071-central-station-monitored-fire-alarm-system-requirement>
 [ORC Section 737.21]:<https://codes.ohio.gov/ohio-revised-code/section-737.21>
 [ORC Section 737.27]:<https://codes.ohio.gov/ohio-revised-code/section-737.27>
 [ORC Section 3929.86]:<https://codes.ohio.gov/ohio-revised-code/section-3929.86>

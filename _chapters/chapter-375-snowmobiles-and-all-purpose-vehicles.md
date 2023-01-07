@@ -40,7 +40,7 @@ but excluding any self-propelled vehicle not principally used for purposes of
 personal transportation, any vehicle principally used in playing golf, any motor
 vehicle or aircraft required to be registered under Ohio R.C. [Chapter 4503][ORC
 Chapter 4503] or [Chapter 4561][ORC Chapter 4561] and any vehicle excepted from
-definition as a motor vehicle by [Section 301.20][CF Section 301.20].
+definition as a motor vehicle by [Section 301.20][CFCO 301.20].
 
 4. _(d)_ "Public thoroughfares" means the entire width between the boundary
 lines of any highway, road, street, avenue, alley, public place or public
@@ -85,7 +85,7 @@ declared when snowfall in the Municipality exceeds a depth of four inches during
 any twenty-four hour or less period.\
 (Ord. 1972-860. Passed 3-21-72.)
 
-[CF Section 301.20]:</chapters/chapter-301-definitions/#30120-motor-vehicle>
+[CFCO 301.20]:</chapters/chapter-301-definitions/#30120-motor-vehicle>
 [ORC Chapter 4561]:<https://codes.ohio.gov/ohio-revised-code/chapter-4503>
 [ORC Chapter 4561]:<https://codes.ohio.gov/ohio-revised-code/chapter-4561>
 [ORC Section 4519.47]:<https://codes.ohio.gov/ohio-revised-code/section-4519.47>

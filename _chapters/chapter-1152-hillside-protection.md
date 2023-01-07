@@ -113,7 +113,7 @@ height of the slope.
 that is required and specified by this chapter.
 
 12. _(l)_ "Impervious surface" means roads, buildings and structures as defined
-in [Section 1107.05][CF Section 1107.05] of the Planning and Zoning Code, tennis
+in [Section 1107.05][CFCO 1107.05] of the Planning and Zoning Code, tennis
 courts, roofs, driveways, sidewalks, pools, patios, pool decks, decks, parking
 lots and other similar surfaces.
 
@@ -153,8 +153,8 @@ then notify the Administrator if a hillside protection permit is required.
 
 3. _(c)_ If a hillside protection permit is required, the owner/developer shall
 be required to include hillside control measures with grading, hydrological and
-landscaping plans as specified in [Section 1152.04][CF Section 1152.04].These
-plans shall be submitted to the Municipal Engineer for approval.
+landscaping plans as specified in [Section 1152.04][CFCO 1152.04].These plans
+shall be submitted to the Municipal Engineer for approval.
 
 4. _(d)_ If it is determined by the Administrator that the action is governed by
 these provisions, then a hillside protection permit shall be required before a
@@ -163,7 +163,7 @@ Municipality. A hillside protection permit shall be issued in phases as
 determined by the Administrator and the Municipal Engineer before the next phase
 permit will be issued.
 
-    Refer to [Section 1152.06][CF Section 1152.06] for additional information on
+    Refer to [Section 1152.06][CFCO 1152.06] for additional information on
     administration and enforcement.\
     (Ord. 2019-39. Passed 8-13-19.)
 
@@ -208,11 +208,11 @@ be required by the Municipal, and shall include the following:
     current engineering standards and site conditions.
 
 3. _(c)_ **Grading Plans.** A grading plan shall be required for each lot in
-conformance with [Section 1307.19][CF Section 1307.19] of the Building Code and
-in addition shall show the natural topography of the total parcel to be
-developed and any steep slopes on contiguous properties that, in the opinion of
-the Municipal Engineer, may be affected by the development, the location and
-size of all structures, the finished grade of all improvement locations and the
+conformance with [Section 1307.19][CFCO 1307.19] of the Building Code and in
+addition shall show the natural topography of the total parcel to be developed
+and any steep slopes on contiguous properties that, in the opinion of the
+Municipal Engineer, may be affected by the development, the location and size of
+all structures, the finished grade of all improvement locations and the
 dimensions, elevations and contours of any proposed earth moving and shall be
 submitted with each application for a hillside protection permit and shall show
 the following. No building or demolition permits may be issued and no
@@ -423,7 +423,7 @@ as the Hillside Protection Regulations, the more restrictive or that imposing
 the higher standards shall govern.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[CF Section 1107.05]:</chapters/chapter-1107-definitions/#110705-bank-credit-union-savings-association>
-[CF Section 1152.04]:</chapters/chapter-1152-hillside-protection/#115204-required-hillside-control-measures-standards-and-plans>
-[CF Section 1152.06]:</chapters/chapter-1152-hillside-protection/#115206-administration-and-enforcement>
-[CF Section 1307.19]:</chapters/chapter-1307-building-permits/#130719-preliminary-plot-plan-required>
+[CFCO 1107.05]:</chapters/chapter-1107-definitions/#110705-bank-credit-union-savings-association>
+[CFCO 1152.04]:</chapters/chapter-1152-hillside-protection/#115204-required-hillside-control-measures-standards-and-plans>
+[CFCO 1152.06]:</chapters/chapter-1152-hillside-protection/#115206-administration-and-enforcement>
+[CFCO 1307.19]:</chapters/chapter-1307-building-permits/#130719-preliminary-plot-plan-required>

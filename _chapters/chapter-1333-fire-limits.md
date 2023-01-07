@@ -15,8 +15,8 @@ title: "Chapter 1333: Fire Limits"
 
 No building of any kind or character shall hereafter be constructed within, be
 moved into or be moved within the fire limits of the Municipality as set forth
-in [Section 1333.02][CF Section 1333.02], unless the outer walls of such
-building are made either of iron, brick, stone, concrete blocks or concrete.\
+in [Section 1333.02][CFCO 1333.02], unless the outer walls of such building are
+made either of iron, brick, stone, concrete blocks or concrete.\
 (Ord. 1988-68. Passed 10-10-88.)
 
 ## 1333.02   Limits established
@@ -26,4 +26,4 @@ District, Office District, Retail-Business District and Limited Industrial
 District as set forth on the Zoning Map of the Municipality.\
 (Ord. 1988-68. Passed 10-10-88.)
 
-[CF Section 1333.02]:</chapters/chapter-1333-fire-limits/#133302-limits-established>
+[CFCO 1333.02]:</chapters/chapter-1333-fire-limits/#133302-limits-established>

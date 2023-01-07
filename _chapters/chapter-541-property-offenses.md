@@ -265,8 +265,8 @@ authorization was secured by deception.
     trespass in violation of subsection (a)(5) of this section is a misdemeanor
     of the first degree.
 
-    2. _(2)_ Notwithstanding [Section 501.99][CF Section 501.99], if the person,
-    in committing the violation of this section, used a snowmobile, off-highway
+    2. _(2)_ Notwithstanding [Section 501.99][CFCO 501.99], if the person, in
+    committing the violation of this section, used a snowmobile, off-highway
     motorcycle, or all-purpose vehicle, the court shall impose a fine of two
     times the usual amount imposed for the violation.
 
@@ -597,10 +597,10 @@ public amusement.
 
 ## 541.99   Penalty
 
-(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
-to any misdemeanor classification.)
+(Editor's note: See [Section 501.99][CFCO 501.99] for penalties applicable to
+any misdemeanor classification.)
 
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [ORC Section 1332.21]:<https://codes.ohio.gov/ohio-revised-code/section-1332.21>
 [ORC Section 1509.01]:<https://codes.ohio.gov/ohio-revised-code/section-1509.01>
 [ORC Section 1546.01]:<https://codes.ohio.gov/ohio-revised-code/section-1546.01>

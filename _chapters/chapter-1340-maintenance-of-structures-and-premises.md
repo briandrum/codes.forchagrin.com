@@ -78,8 +78,8 @@ constitutes an unsanitary condition; lends itself to habitation or infestation
 by rodents, termites or other vermin.
 
 3. _(c)_ "Building or Structure" means buildings or structure as defined by
-[Section 1107.06][CF Section 1107.06] of the Codified Ordinances of the Village
-of Chagrin Falls.
+[Section 1107.06][CFCO 1107.06] of the Codified Ordinances of the Village of
+Chagrin Falls.
 
 4. _(d)_ "Demolish" or "Demolition" means any act or process that destroys in
 whole or in part any building or structure.
@@ -360,7 +360,7 @@ and shall be maintained so as to resist decay or deterioration from any cause.
 2. _(b)_ Any main structure or secondary or appurtenant structure whose exterior
 surface is deteriorated shall be repaired, demolished or restored. No
 Historically Significant Property shall be demolished unless one of the
-conditions set forth in [Section 1146.06][CF Section 1146.06] of the Codified
+conditions set forth in [Section 1146.06][CFCO 1146.06] of the Codified
 Ordinances exists.
 
     1. _(1)_ All buckled, rotted, cracked, missing or decayed walls, doors,
@@ -644,23 +644,23 @@ utilities to shut off service to the property pursuant to Chapter 1340. Unless
 so declared in writing by the Building Inspector, such securing shall not be
 deemed to constitute "effective boarding" under this section, and it does not
 abate the nuisance condition of an unsafe structure, as declared under division
-(1) of this section. Later notice, issued under [Section 1340.08][CF Section
-1340.08], shall include the fact that the Building Inspector found it necessary
-to take appropriate action to secure the structure.\
+(1) of this section. Later notice, issued under [Section 1340.08][CFCO 1340.08],
+shall include the fact that the Building Inspector found it necessary to take
+appropriate action to secure the structure.\
 (Ord. 2018-10. Passed 3-12-18.)
 
 ## 1340.23   Vacating building and prohibiting use
 
-In the notice issued pursuant to [Section 1340.08][CF Section 1340.08], the
-Building Inspector may also require that the building, structure or a portion of
-those be vacated, not be reoccupied, or used until the specified repairs and
-improvements are completed, inspected, and approved by the Building Inspector.
-The Building Inspector may cause to be posted at each entrance to the building
-or structure a notice as follows: "THIS STRUCTURE IS IN A DANGEROUS CONDITION
-AND HAS BEEN CONDEMNED AND ITS USE HAS BEEN PROHIBITED BY THE BUILDING INSPECTOR
-FOR THE VILLAGE OF CHAGRIN FALLS." The notice shall remain posted until the
-required corrections are made or demolition is completed. No person shall remove
-the notice without written permission of the Building Inspector, nor shall any
+In the notice issued pursuant to [Section 1340.08][CFCO 1340.08], the Building
+Inspector may also require that the building, structure or a portion of those be
+vacated, not be reoccupied, or used until the specified repairs and improvements
+are completed, inspected, and approved by the Building Inspector. The Building
+Inspector may cause to be posted at each entrance to the building or structure a
+notice as follows: "THIS STRUCTURE IS IN A DANGEROUS CONDITION AND HAS BEEN
+CONDEMNED AND ITS USE HAS BEEN PROHIBITED BY THE BUILDING INSPECTOR FOR THE
+VILLAGE OF CHAGRIN FALLS." The notice shall remain posted until the required
+corrections are made or demolition is completed. No person shall remove the
+notice without written permission of the Building Inspector, nor shall any
 person use or enter the building or structure except for the purpose of making
 the required corrections or demolishing or effectively boarding the building or
 structure, or securing the structure pursuant to Chapter 1340.\
@@ -824,8 +824,8 @@ or imprisoned not more than six months, or both. A separate offense shall be
 deemed committed each day during or on which an offense occurs or continues.\
 (Ord. 2016-61. Passed 10-24-16.)
 
-[CF Section 1107.06]:</chapters/chapter-1107-definitions/#110706-buildings-and-structures>
-[CF Section 1146.06]:</chapters/chapter-1146-historic-preservation-regulations/#114606-demolition-and-moving>
-[CF Section 1340.08]:</chapters/chapter-1340-maintenance-of-structures-and-premises/#134008-notice-of-violation>
+[CFCO 1107.06]:</chapters/chapter-1107-definitions/#110706-buildings-and-structures>
+[CFCO 1146.06]:</chapters/chapter-1146-historic-preservation-regulations/#114606-demolition-and-moving>
+[CFCO 1340.08]:</chapters/chapter-1340-maintenance-of-structures-and-premises/#134008-notice-of-violation>
 [ORC Section 715.26]:<https://codes.ohio.gov/ohio-revised-code/section-715.26>
 [ORC Section 715.261]:<https://codes.ohio.gov/ohio-revised-code/section-715.261>

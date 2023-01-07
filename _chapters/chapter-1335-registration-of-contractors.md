@@ -53,17 +53,17 @@ electrical equipment, or by a firm or corporation employing a person registered
 pursuant to the terms of this chapter. No general contracting shall be done
 within the Municipality unless the same is done by a person registered to do
 general contracting, except where the work is of a minor nature and pursuant to
-[Section 1307.18][CF Section 1307.18].\
+[Section 1307.18][CFCO 1307.18].\
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.03   Holders of Ohio qualification certificate; exception
 
 1. _(a)_ Except as provided in subsection (b) hereof, and upon the payment of
-the appropriate fee provided in [Section 1335.10][CF Section 1335.10], any
-person having a qualification certificate to install or perform plumbing, sewer
-work, heating or electrical equipment, which qualification certificate has been
-issued by the State pursuant to Ohio R.C. [Chapter 4740][ORC Chapter 4740] and
-is in full force and effect, upon presentation of such certificate to the Chief
+the appropriate fee provided in [Section 1335.10][CFCO 1335.10], any person
+having a qualification certificate to install or perform plumbing, sewer work,
+heating or electrical equipment, which qualification certificate has been issued
+by the State pursuant to Ohio R.C. [Chapter 4740][ORC Chapter 4740] and is in
+full force and effect, upon presentation of such certificate to the Chief
 Administrative Officer shall have issued to such person by the Chief
 Administrative Officer, upon such evidence and without examination, the
 certificate of registration provided for herein.
@@ -73,7 +73,7 @@ the Ohio Revised Code or the Codified Ordinances of the Village shall be
 eligible to obtain or renew a certificate of registration under this chapter.
 The Chief Administrative Officer shall determine whether a violation has been
 committed recklessly or intentionally, as those terms are defined in [Section
-501.08][CF Section 501.08] of the General Offenses Code.\
+501.08][CFCO 501.08] of the General Offenses Code.\
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.04   Registration denial; appeal
@@ -131,9 +131,9 @@ the Chief Administrative Officer if that person recklessly or intentionally
 violates the Ohio Revised Code, the Codified Ordinances of the Village, or any
 other provision of state or federal law. The Chief Administrative Officer shall
 determine whether a violation has been committed recklessly or intentionally, as
-those terms are defined in [Section 501.08][CF Section 501.08] of the General
-Offenses Code. The order of revocation may be appealed pursuant to [Section
-1335.04][CF Section 1335.04].\
+those terms are defined in [Section 501.08][CFCO 501.08] of the General Offenses
+Code. The order of revocation may be appealed pursuant to [Section 1335.04][CFCO
+1335.04].\
 (Ord. 2006-48. Passed 7-24-06.)
 
 ## 1335.08   Homeowner's exception
@@ -168,9 +168,9 @@ January 1 to January 1, upon payment of the further sum of sixty dollars
 ($60.00) for each year's renewal.\
 (Ord. 2006-48. Passed 7-24-06.)
 
-[CF Section 501.08]:</chapters/chapter-501-general-provisions-and-penalty/#50108-culpable-mental-states>
-[CF Section 1307.18]:</chapters/chapter-1307-building-permits/#130718-minor-building-permits>
-[CF Section 1335.04]:</chapters/chapter-1335-registration-of-contractors/#133504-registration-denial-appeal>
-[CF Section 1335.10]:</chapters/chapter-1335-registration-of-contractors/#133510-fees>
+[CFCO 501.08]:</chapters/chapter-501-general-provisions-and-penalty/#50108-culpable-mental-states>
+[CFCO 1307.18]:</chapters/chapter-1307-building-permits/#130718-minor-building-permits>
+[CFCO 1335.04]:</chapters/chapter-1335-registration-of-contractors/#133504-registration-denial-appeal>
+[CFCO 1335.10]:</chapters/chapter-1335-registration-of-contractors/#133510-fees>
 [ORC Chapter 4740]:<https://codes.ohio.gov/ohio-revised-code/chapter-4740>
 [ORC Section 715.27]:<https://codes.ohio.gov/ohio-revised-code/section-715.27>

@@ -1766,10 +1766,10 @@ this chapter and Ohio R.C. [Chapter 2915][ORC Chapter 2915] and not by Ohio R.C.
 
 ## 517.99   Penalty
 
-(Editor's note: See [Section 501.99][CF Section 501.99]  for penalties
-applicable to any misdemeanor classification.)
+(Editor's note: See [Section 501.99][CFCO 501.99]  for penalties applicable to
+any misdemeanor classification.)
 
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [ORC Chapter 119]:<https://codes.ohio.gov/ohio-revised-code/chapter-119>
 [ORC Chapter 1345]:<https://codes.ohio.gov/ohio-revised-code/chapter-1345>
 [ORC Chapter 1716]:<https://codes.ohio.gov/ohio-revised-code/chapter-1716>

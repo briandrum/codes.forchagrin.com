@@ -535,10 +535,10 @@ may be enforced by the issuance of a citation per Criminal Rule 4.1.\
 
 ## 509.99   Penalty
 
-(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
-to any misdemeanor classification.)
+(Editor's note: See [Section 501.99][CFCO 501.99] for penalties applicable to
+any misdemeanor classification.)
 
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [ORC Chapter 1713]:<https://codes.ohio.gov/ohio-revised-code/chapter-1713>
 [ORC Chapter 3332]:<https://codes.ohio.gov/ohio-revised-code/chapter-3332>
 [ORC Section 2133.21]:<https://codes.ohio.gov/ohio-revised-code/section-2133.21>

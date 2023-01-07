@@ -19,7 +19,7 @@ title: "Chapter 1151: Riparian Buffer Regulations"
 
 ## 1151.01   Intent
 
-In addition to the applicable provisions stated in [Section 1105.03][CF Section
+In addition to the applicable provisions stated in [Section 1105.03][CFCO
 1105.03], it is the intent of these regulations to achieve the following
 objectives:
 
@@ -79,4 +79,4 @@ administrative actions, or judicial declaration, the basic underlying district
 provision shall remain applicable.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[CF Section 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
+[CFCO 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>

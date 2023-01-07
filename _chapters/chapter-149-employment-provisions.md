@@ -220,10 +220,10 @@ Superintendent of Utilities and Superintendent of Streets.\
     regular starting time of his work shift should not be changed.
 
     2. _(2)_ **Hours Worked for Overtime Calculation.** For purposes of
-    calculating all employee overtime in this [Section 149.06][CF Section
-    149.06], paid holiday time, paid vacation time, and paid sick leave shall be
-    counted as hours worked. Other paid and unpaid time-off shall not be counted
-    as hours worked.\
+    calculating all employee overtime in this [Section 149.06][CFCO 149.06],
+    paid holiday time, paid vacation time, and paid sick leave shall be counted
+    as hours worked. Other paid and unpaid time-off shall not be counted as
+    hours worked.\
     (Ord. 2011-22. Passed 4-25-11.)
 
 5. _(e)_ **Call-In Pay.** Regular full-time Public Service and Finance
@@ -562,8 +562,8 @@ retirement boards.\
 
 ## 149.21   PFDPF pickup
 
-Editor's note: Former [Section 149.21][CF Section 149.21] was repealed by
-Ordinance 2011-26, passed May 23, 2011.
+Editor's note: Former [Section 149.21][CFCO 149.21] was repealed by Ordinance
+2011-26, passed May 23, 2011.
 
 ## 149.22   Pre-employment physical
 
@@ -624,8 +624,8 @@ restatements and amendments do not materially change the plans. A current copy
 of each plan is maintained on file by the Finance Director.\
 (Ord. 2011-68. Passed 11-28-11.)
 
-[CF Section 149.06]:</chapters/chapter-149-employment-provisions/#14906-overtime>
-[CF Section 149.21]:</chapters/chapter-149-employment-provisions/#14921-pfdpf-pickup>
+[CFCO 149.06]:</chapters/chapter-149-employment-provisions/#14906-overtime>
+[CFCO 149.21]:</chapters/chapter-149-employment-provisions/#14921-pfdpf-pickup>
 [ORC Chapter 145]:<https://codes.ohio.gov/ohio-revised-code/chapter-145>
 [ORC Chapter 4117]:<https://codes.ohio.gov/ohio-revised-code/chapter-4117>
 [ORC Chapter 4123]:<https://codes.ohio.gov/ohio-revised-code/chapter-4123>

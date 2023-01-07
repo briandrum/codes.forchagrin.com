@@ -110,9 +110,9 @@ conditions are not subject to competitive bidding and may be approved by
 Council, in its discretion, by motion and a majority vote of its members:
 
     1. _(1)_ **Personal or Professional Services.** Except as provided in
-    [Section 105.02][CF Section 105.02], contracts that involve personal
-    services requiring unique and special skills, as determined by Council in
-    its discretion, or professional services;
+    [Section 105.02][CFCO 105.02], contracts that involve personal services
+    requiring unique and special skills, as determined by Council in its
+    discretion, or professional services;
 
     2. _(2)_ **Co-op Programs.** Contracts authorized pursuant to the Ohio
     Department of Administrative Services Cooperative Purchasing Program, or any
@@ -218,7 +218,7 @@ liquidated damages for each day of delay beyond a specified date, or both. The
 amounts of the bonus and liquidated damages may be different.\
 (Ord. 2013-29. Passed 5-13-13.)
 
-[CF Section 105.02]:</chapters/chapter-105-public-contracts/#10502-professional-design-services-public-works>
+[CFCO 105.02]:</chapters/chapter-105-public-contracts/#10502-professional-design-services-public-works>
 [ORC Chapter 721]:<https://codes.ohio.gov/ohio-revised-code/chapter-721>
 [ORC Chapter 4703]:<https://codes.ohio.gov/ohio-revised-code/chapter-4730>
 [ORC Chapter 4733]:<https://codes.ohio.gov/ohio-revised-code/chapter-4733>

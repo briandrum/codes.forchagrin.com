@@ -131,7 +131,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.25)
 
 ## 331.02   Passing to right when proceeding in opposite directions
@@ -154,7 +154,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.26)
 
 ## 331.03   Overtaking, passing to left; driver's duties
@@ -178,8 +178,8 @@ proceeding in the same direction:
 
     3. _(3)_ The operator of a vehicle overtaking and passing another vehicle
     proceeding in the same direction on a divided street or highway as defined
-    in [Section 331.31][CF Section 331.31], a limited access highway as defined
-    in Ohio R.C. [5511.02][ORC Section 5511.02] or a highway with four or more
+    in [Section 331.31][CFCO 331.31], a limited access highway as defined in
+    Ohio R.C. [5511.02][ORC Section 5511.02] or a highway with four or more
     traffic lanes, is not required to signal audibly to the vehicle being
     overtaken and passed.
 
@@ -195,7 +195,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.27)
 
 ## 331.04   Overtaking and passing upon right
@@ -225,7 +225,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.28)
 
 ## 331.05   Overtaking, passing to left of center
@@ -253,7 +253,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.29)
 
 ## 331.06   Additional restrictions on driving upon left side of roadway
@@ -274,8 +274,7 @@ following conditions:
 
 2. _(b)_ This section does not apply to vehicles upon a one-way roadway, upon a
 roadway where traffic is lawfully directed to be driven to the left side or
-under the conditions described in [Section 331.01(a)(2)][CF Section
-331.01(a)(2)].
+under the conditions described in [Section 331.01(a)(2)][CFCO 331.01(a)(2)].
 
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
 section is guilty of a minor misdemeanor. If, within one year of the offense,
@@ -289,7 +288,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.30)
 
 ## 331.07   Hazardous or no passing zones
@@ -312,7 +311,7 @@ indicate the beginning and end of each no passing zone.
     When appropriate signs or markings indicating hazardous or no passing zones
     are in place and clearly visible, every operator of a vehicle shall obey the
     directions of the signs or markings, notwithstanding the distance set out in
-    [Section 331.06][CF Section 331.06].
+    [Section 331.06][CFCO 331.06].
 
 2. _(b)_ Subsection (a) of this section does not apply when all of the following
 apply:
@@ -325,7 +324,7 @@ apply:
 
     3. _(3)_ There is sufficient clear sight distance to the left of the center
     or center line of the roadway to meet the overtaking and passing provisions
-    of [Section 331.05][CF Section 331.05], considering the speed of the slower
+    of [Section 331.05][CFCO 331.05], considering the speed of the slower
     vehicle.
 
 3. _(c)_ Except as otherwise provided in this subsection, whoever violates this
@@ -340,7 +339,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.31)
 
 ## 331.08   Driving in marked lanes or continuous lines of traffic
@@ -389,7 +388,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.33)
 
 ## 331.09   Following too closely
@@ -420,7 +419,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.34)
 
 ## 331.10   Turning at intersections
@@ -469,7 +468,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.36)
 
 ## 331.11   Turning into private driveway, alley or building
@@ -502,11 +501,11 @@ misdemeanor of the third degree.
 
 ## 331.12   "U" turns restricted
 
-1. _(a)_ Except as provided in [Section 313.03][CF Section 313.03] and
-subsection (b) hereof, no vehicle shall be turned so as to proceed in the
-opposite direction upon any curve, or upon the approach to or near the crest of
-a grade, if the vehicle cannot be seen within 500 feet by the driver of any
-other vehicle approaching from either direction.
+1. _(a)_ Except as provided in [Section 313.03][CFCO 313.03] and subsection (b)
+hereof, no vehicle shall be turned so as to proceed in the opposite direction
+upon any curve, or upon the approach to or near the crest of a grade, if the
+vehicle cannot be seen within 500 feet by the driver of any other vehicle
+approaching from either direction.
 
 2. _(b)_ The driver of an emergency vehicle or public safety vehicle, when
 responding to an emergency call, may turn the vehicle so as to proceed in the
@@ -540,7 +539,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.37)
 
 ## 331.13   Starting and backing vehicles
@@ -566,7 +565,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.38)
 
 ## 331.14   Signals before changing course, turning or stopping
@@ -619,7 +618,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.39)
 
 ## 331.15   Hand and arm signals
@@ -652,7 +651,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.40)
 
 ## 331.16   Right of way at intersections
@@ -683,7 +682,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.41)
 
 ## 331.17   Right of way when turning left
@@ -706,7 +705,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.42)
 
 ## 331.18   Operation of vehicle at yield signs
@@ -737,7 +736,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.43(B))
 
 ## 331.19   Operation of vehicle at stop signs
@@ -764,7 +763,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.43(A))
 
 ## 331.20   Emergency or public safety vehicles at stop signals or signs
@@ -787,7 +786,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.03)
 
 ## 331.21   Right of way of public safety or coroner's vehicle
@@ -813,23 +812,24 @@ coroner or coroner's investigator that is equipped with a flashing, oscillating
 or rotating red or blue light and a siren, exhaust whistle, or bell capable of
 giving an audible signal.
 
-4. _(d)_ Except as otherwise provided in this subsection or [Section 331.211][CF
-Section 331.211], whoever violates subsection (a) of this section is guilty of a
-misdemeanor of the fourth degree on a first offense. On a second offense within
-one year after the first offense, the person is guilty of a misdemeanor of the
-third degree, and, on each subsequent offense within one year after the first
-offense, the person is guilty of a misdemeanor of the second degree.\
+4. _(d)_ Except as otherwise provided in this subsection or [Section
+331.211][CFCO 331.211], whoever violates subsection (a) of this section is
+guilty of a misdemeanor of the fourth degree on a first offense. On a second
+offense within one year after the first offense, the person is guilty of a
+misdemeanor of the third degree, and, on each subsequent offense within one year
+after the first offense, the person is guilty of a misdemeanor of the second
+degree.\
 (ORC 4511.45)
 
 ### 331.211   Report of vehicle failing to yield right of way to public safety vehicle
 
 1. _(a)_ When the failure of a motor vehicle operator to yield the right-of-way
-to a public safety vehicle as required by [Section 331.21(a)][CF Section
-331.21(a)] impedes the ability of the public safety vehicle to respond to an
-emergency, any emergency personnel in the public safety vehicle may report the
-license plate number and a general description of the vehicle and the operator
-of the vehicle to the law enforcement agency exercising jurisdiction over the
-area where the alleged violation occurred.
+to a public safety vehicle as required by [Section 331.21(a)][CFCO 331.21(a)]
+impedes the ability of the public safety vehicle to respond to an emergency, any
+emergency personnel in the public safety vehicle may report the license plate
+number and a general description of the vehicle and the operator of the vehicle
+to the law enforcement agency exercising jurisdiction over the area where the
+alleged violation occurred.
 
 2. _(b)_
 
@@ -839,10 +839,10 @@ area where the alleged violation occurred.
     alleged violation.
 
     2. _(2)_ If the identity of the operator at the time of an alleged violation
-    of [Section 331.21(a)][CF Section 331.21(a)] is established, the law
-    enforcement agency has probable cause to issue either a written warning or a
-    citation for that violation, and the agency shall issue a written warning or
-    a citation to the operator.
+    of [Section 331.21(a)][CFCO 331.21(a)] is established, the law enforcement
+    agency has probable cause to issue either a written warning or a citation
+    for that violation, and the agency shall issue a written warning or a
+    citation to the operator.
 
     3. _(3)_ If the identity of the operator of the vehicle at the time of the
     alleged violation cannot be established, the law enforcement agency may
@@ -853,18 +853,18 @@ area where the alleged violation occurred.
 
 3. _(c)_
 
-    1. _(1)_ Whoever violates [Section 331.21(a)][CF Section 331.21(a)] based on
-    a report filed under subsection (a) of this section is guilty of a minor
+    1. _(1)_ Whoever violates [Section 331.21(a)][CFCO 331.21(a)] based on a
+    report filed under subsection (a) of this section is guilty of a minor
     misdemeanor and shall be fined one hundred fifty dollars ($150.00).
 
     2. _(2)_ If a person who is issued a citation for a violation of [Section
-    331.21(a)][CF Section 331.21(a)] based on a report filed under subsection
-    (a) of this section does not enter a written plea of guilty and does not
-    waive the person's right to contest the citation but instead appears in
-    person in the proper court to answer the charge, the trier of fact cannot
-    find beyond a reasonable doubt that the person committed that violation
-    unless the emergency personnel who filed the report appears in person in the
-    court and testifies.
+    331.21(a)][CFCO 331.21(a)] based on a report filed under subsection (a) of
+    this section does not enter a written plea of guilty and does not waive the
+    person's right to contest the citation but instead appears in person in the
+    proper court to answer the charge, the trier of fact cannot find beyond a
+    reasonable doubt that the person committed that violation unless the
+    emergency personnel who filed the report appears in person in the court and
+    testifies.
 
 4. _(d)_ As used in this section:
 
@@ -898,7 +898,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.44)
 
 ## 331.23   Driving onto roadway from place other than roadway: stopping at sidewalk
@@ -923,7 +923,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.431)
 
 ## 331.24   Right of way of funeral procession
@@ -935,14 +935,14 @@ purple and white or an orange and white pennant attached to each vehicle in such
 a manner as to be clearly visible to traffic approaching from any direction.
 
 2. _(b)_ Excepting public safety vehicles proceeding in accordance with [Section
-331.21][] or when directed otherwise by a police officer, pedestrians and the
-operators of all vehicles shall yield the right of way to each vehicle that is a
-part of a funeral procession. Whenever the lead vehicle in a funeral procession
-lawfully enters an intersection, the remainder of the vehicles in the procession
-may continue to follow the lead vehicle through the intersection notwithstanding
-any traffic control devices or right-of-way provisions of this Traffic Code,
-provided that the operator of each vehicle exercises due care to avoid colliding
-with any other vehicle or pedestrian.
+331.21][CFCO 331.21] or when directed otherwise by a police officer, pedestrians
+and the operators of all vehicles shall yield the right of way to each vehicle
+that is a part of a funeral procession. Whenever the lead vehicle in a funeral
+procession lawfully enters an intersection, the remainder of the vehicles in the
+procession may continue to follow the lead vehicle through the intersection
+notwithstanding any traffic control devices or right-of-way provisions of this
+Traffic Code, provided that the operator of each vehicle exercises due care to
+avoid colliding with any other vehicle or pedestrian.
 
 3. _(c)_ No person shall operate any vehicle as a part of a funeral procession
 without having the headlights of the vehicle lighted and without displaying a
@@ -961,7 +961,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.451)
 
 ## 331.25   Driver's view and control to be unobstructed by load or persons
@@ -1004,7 +1004,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.71)
 
 ## 331.27   Following and parking near emergency or safety vehicles
@@ -1028,7 +1028,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.72)
 
 ## 331.28   Driving over fire hose
@@ -1049,7 +1049,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.73)
 
 ## 331.29   Driving through safety zone
@@ -1068,7 +1068,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.60)
 
 ## 331.30   One-way streets and rotary traffic islands
@@ -1090,7 +1090,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.32)
 
 ## 331.31   Driving upon divided roadways
@@ -1117,7 +1117,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.35)
 
 ## 331.32   Entering and exiting controlled-access highway
@@ -1153,7 +1153,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.712)
 
 ## 331.34   Failure to control; weaving; full time and attention
@@ -1238,7 +1238,7 @@ the third degree.
     If the offender commits the offense while distracted and the distracting
     activity is a contributing factor to the commission of the offense, the
     offender is subject to the additional fine established under [Section
-    303.991][] of the Traffic Code.\
+    303.991][CFCO 303.991] of the Traffic Code.\
     (ORC 4511.711)
 
 ## 331.38   Stopping for school bus; discharging children
@@ -1464,7 +1464,7 @@ degree.\
         If the offender commits the offense while distracted and the distracting
         activity is a contributing factor to the commission of the offense, the
         offender is subject to the additional fine established under [Section
-        303.991][] of the Traffic Code.\
+        303.991][CFCO 303.991] of the Traffic Code.\
         (ORC 4511.61)
 
 ## 331.41   Slow moving vehicles and equipment at grade crossings
@@ -1640,7 +1640,7 @@ proper court to answer the charge.
     misdemeanor.
 
     2. _(2)_ In addition to the financial sanctions authorized or required under
-    [Section 501.99][CF Section 501.99] and to any costs otherwise authorized or
+    [Section 501.99][CFCO 501.99] and to any costs otherwise authorized or
     required under any provision of law, the court imposing the sentence upon an
     offender who is convicted of or pleads guilty to a violation of subsection
     (a) hereof shall order the offender to reimburse one or more rescuers for
@@ -1665,16 +1665,16 @@ proper court to answer the charge.
     service, private fire company, or emergency medical service organization.\
     (ORC 4511.714.)
 
-[CF Section 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
-[CF Section 313.03]:</chapters/chapter-313-traffic-control-devices/#31303-traffic-signal-indications>
-[CF Section 331.01(a)(2)]:</chapters/chapter-331-operation-generally/#33101(a)(2)>
-[CF Section 331.05]:</chapters/chapter-331-operation-generally/#33105-overtaking-passing-to-left-of-center>
-[CF Section 331.06]:</chapters/chapter-331-operation-generally/#33106-additional-restrictions-on-driving-upon-left-side-of-roadway>
-[CF Section 331.21(a)]:</chapters/chapter-331-operation-generally/#33121(a)>
-[CF Section 331.21]:</chapters/chapter-331-operation-generally/#33121-right-of-way-of-public-safety-or-coroners-vehicle>
-[CF Section 331.31]:</chapters/chapter-331-operation-generally/#33131-driving-upon-divided-roadways>
-[CF Section 331.211]:</chapters/chapter-331-operation-generally/#331211-report-of-vehicle-failing-to-yield-right-of-way-to-public-safety-vehicle>
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
+[CFCO 313.03]:</chapters/chapter-313-traffic-control-devices/#31303-traffic-signal-indications>
+[CFCO 331.01(a)(2)]:</chapters/chapter-331-operation-generally/#33101(a)(2)>
+[CFCO 331.05]:</chapters/chapter-331-operation-generally/#33105-overtaking-passing-to-left-of-center>
+[CFCO 331.06]:</chapters/chapter-331-operation-generally/#33106-additional-restrictions-on-driving-upon-left-side-of-roadway>
+[CFCO 331.21(a)]:</chapters/chapter-331-operation-generally/#33121(a)>
+[CFCO 331.21]:</chapters/chapter-331-operation-generally/#33121-right-of-way-of-public-safety-or-coroners-vehicle>
+[CFCO 331.31]:</chapters/chapter-331-operation-generally/#33131-driving-upon-divided-roadways>
+[CFCO 331.211]:</chapters/chapter-331-operation-generally/#331211-report-of-vehicle-failing-to-yield-right-of-way-to-public-safety-vehicle>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [ORC Chapter 4511]:<https://codes.ohio.gov/ohio-revised-code/chapter-4511>
 [ORC Section 9.60]:<https://codes.ohio.gov/ohio-revised-code/section-9.60>
 [ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>

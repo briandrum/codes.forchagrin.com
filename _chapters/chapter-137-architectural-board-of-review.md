@@ -28,22 +28,22 @@ Editor's note: The Architectural Board of Review was established by Ordinance
 
 ## 137.01   Board appointments, terms and vacancies
 
-Pursuant to [Article VII, Section 9][] of the Charter of the Village of Chagrin
-Falls, the Architectural Board of Review shall consist of three voting members
-and two architect advisors appointed by the Mayor and confirmed by Council for
-three-year terms. Vacancies shall be filled for the remainder of unexpired terms
-in the same manner as the original appointment. The Mayor shall appoint up to
-three alternate members who shall be confirmed by majority vote of the members
-of Council for three-year terms. Alternate members shall serve whenever one or
-more regular members are unable to hear a particular matter or are unavailable
-for a particular meeting. The alternate members shall either be residents of the
-Village or registered architects in the State of Ohio, including architects who
-were previously licensed for ten years or more who are retired and are
-registered as emeritus architects. In the event of the absence of an architect
-member or if a conflict arises and such member must not hear a matter pending
-before the Architectural Board of Review, then the alternate member appointment
-preference for a particular matter or meeting shall be for any alternate member
-who is a registered architect.\
+Pursuant to [Article VII, Section 9][CFC 7.9] of the Charter of the Village of
+Chagrin Falls, the Architectural Board of Review shall consist of three voting
+members and two architect advisors appointed by the Mayor and confirmed by
+Council for three-year terms. Vacancies shall be filled for the remainder of
+unexpired terms in the same manner as the original appointment. The Mayor shall
+appoint up to three alternate members who shall be confirmed by majority vote of
+the members of Council for three-year terms. Alternate members shall serve
+whenever one or more regular members are unable to hear a particular matter or
+are unavailable for a particular meeting. The alternate members shall either be
+residents of the Village or registered architects in the State of Ohio,
+including architects who were previously licensed for ten years or more who are
+retired and are registered as emeritus architects. In the event of the absence
+of an architect member or if a conflict arises and such member must not hear a
+matter pending before the Architectural Board of Review, then the alternate
+member appointment preference for a particular matter or meeting shall be for
+any alternate member who is a registered architect.\
 (Ord. 2019-33. Passed 4-22-19.)
 
 ## 137.02   Membership
@@ -160,8 +160,8 @@ follows:
 Village for applications to the Architectural Board of Review shall have an
 attachment in an appropriate form determined by the Chief Administrative
 Officer, incorporating the criteria set forth in Codified Ordinance [Section
-137.08(c)][CF Section 137.08(c)].\
+137.08(c)][CFCO 137.08(c)].\
 (Ord. 2016-70. Passed 11-14-16.)
 
-[Article VII, Section 9]:</articles/article-vii-administrative-officers-departments-boards-and-commissions/#section-vii-9-architectural-board-of-review>
-[CF Section 137.08(c)]:</chapters/chapter-137-architectural-board-of-review/#13708(c)>
+[CFC 7.9]:</articles/article-vii-administrative-officers-departments-boards-and-commissions/#section-vii-9-architectural-board-of-review>
+[CFCO 137.08(c)]:</chapters/chapter-137-architectural-board-of-review/#13708(c)>

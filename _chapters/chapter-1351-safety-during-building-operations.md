@@ -56,9 +56,9 @@ sufficient to prevent the accumulation of mud on the wheels of such vehicles.\
 
 ## 1351.99   Penalty
 
-(Editor's note: See [Section 1303.99][CF Section 1303.99] for general Code
-penalty if no specific penalty is provided.)
+(Editor's note: See [Section 1303.99][CFCO 1303.99] for general Code penalty if
+no specific penalty is provided.)
 
-[CF Section 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
+[CFCO 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
 [ORC Section 715.26]:<https://codes.ohio.gov/ohio-revised-code/section-715.26>
 [ORC Section 715.261]:<https://codes.ohio.gov/ohio-revised-code/section-715.261>

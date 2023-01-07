@@ -265,7 +265,7 @@ Administrative Officer.
 1. _(a)_ The owner shall produce their Right to Bury form.
 
 2. _(b)_ There will be no burials on Sundays or Village holidays as listed in
-Codified Ordinance [Section 149.10][CF Section 149.10].
+Codified Ordinance [Section 149.10][CFCO 149.10].
 
 3. _(c)_ The Village must receive 48 hour notice (two business days) for
 burials. There will be no burials after 12:00 noon on Saturdays.
@@ -378,11 +378,11 @@ the service.
 3. _(c)_ GRAVE MARKER FOUNDATION FEES: All monuments shall have a concrete
 foundation built by the cemetery sexton, pursuant to municipal specifications.
 
-    * 2′×12″: $ 275.00
-    * 3′×12″: $ 325.00
-    * 4′×12″: $ 375.00
-    * 5′×12″: $ 425.00
-    * 6′×12″: $ 475.00
+    * 2′×12″: $275.00
+    * 3′×12″: $325.00
+    * 4′×12″: $375.00
+    * 5′×12″: $425.00
+    * 6′×12″: $475.00
 
     No charge for 2′×12″ foundation for approved Veterans Administration
     marker.\
@@ -452,7 +452,7 @@ imprisoned for not more than one year, or both. Each day such violation
 continues shall constitute a separate offense.\
 (Ord. 2016-77. Passed 12-12-16.)
 
-[CF Section 149.10]:</chapters/chapter-149-employment-provisions/#14910-holidays>
+[CFCO 149.10]:</chapters/chapter-149-employment-provisions/#14910-holidays>
 [ORC Section 759.05]:<https://codes.ohio.gov/ohio-revised-code/section-759.05>
 [ORC Section 759.13]:<https://codes.ohio.gov/ohio-revised-code/section-759.13>
 [ORC Section 759.20]:<https://codes.ohio.gov/ohio-revised-code/section-759.20>

@@ -1042,10 +1042,10 @@ was derived, has been reclassified from a misdemeanor to a felony offense.)
 
 ## 545.99   Penalty
 
-(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
-to any misdemeanor classification.)
+(Editor's note: See [Section 501.99][CFCO 501.99] for penalties applicable to
+any misdemeanor classification.)
 
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [ORC Chapter 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510>
 [ORC Section 955.011]:<https://codes.ohio.gov/ohio-revised-code/section-955.011>
 [ORC Section 2317.02]:<https://codes.ohio.gov/ohio-revised-code/section-2317.02>

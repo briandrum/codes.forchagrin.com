@@ -109,10 +109,10 @@ whoever violates this section is guilty of a misdemeanor of the third degree.\
 
 ## 553.99   Penalty
 
-(Editor's note: See [Section 501.99][CF Section 501.99] for penalties applicable
-to any misdemeanor classification.)
+(Editor's note: See [Section 501.99][CFCO 501.99] for penalties applicable to
+any misdemeanor classification.)
 
-[CF Section 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
+[CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
 [ORC Section 723.33]:<https://codes.ohio.gov/ohio-revised-code/section-723.33>
 [ORC Section 723.48]:<https://codes.ohio.gov/ohio-revised-code/section-723.48>
 [ORC Section 2935.10]:<https://codes.ohio.gov/ohio-revised-code/section-2935.10>

@@ -51,7 +51,8 @@ wholly or partially, for new or relocated projects involving highways,
 underground cables, or pipelines; subdivisions or larger common plans of
 development; industrial, commercial, institutional, or residential projects;
 building activities on farms; redevelopment activities; general clearing; and
-all other uses that are not specifically exempted in [Section 1355.01(d)][].
+all other uses that are not specifically exempted in [Section 1355.01(d)][CFCO
+1355.01(d)].
 
 4. _(d)_ This regulation does not apply to activities regulated by, and in
 compliance with, the Ohio Agricultural Sediment Pollution Abatement Rules.\
@@ -459,8 +460,8 @@ and the applicable fees to the Cuyahoga SWCD as follows:
     by the Zoning Inspector.
 
 3. _(c)_ The Village Engineer and the Cuyahoga SWCD shall review the plans
-submitted under [Section 1355.06(a)][] or [(b)][CF Section 1355.06(b)] for
-conformance with this regulation and approve, or return for revisions with
+submitted under [Section 1355.06(a)][CFCO 1355.06(a)] or [(b)][CFCO 1355.06(b)]
+for conformance with this regulation and approve, or return for revisions with
 comments and recommendations for revisions. A plan rejected because of
 deficiencies shall receive a narrative report stating specific problems and the
 procedures for filing a revised plan.
@@ -1086,11 +1087,11 @@ Sediment control must meet the following requirements:
     provided around surface waters of the state unless infeasible. If it is
     infeasible to provide and maintain an undisturbed 50-foot natural buffer,
     the SWP3 shall comply with the stabilization requirements in [Section
-    1355.09(b)(1)][] for areas within 50 feet of a surface water or riparian or
-    wetland setbacks if applicable, whichever is greater; and minimize soil
-    compaction and, unless infeasible, preserve topsoil. If the applicant is
-    permitted to disturb areas within 50 feet of a water resource, the following
-    conditions shall be addressed in the SWP3:
+    1355.09(b)(1)][CFCO 1355.09(b)(1)] for areas within 50 feet of a surface
+    water or riparian or wetland setbacks if applicable, whichever is greater;
+    and minimize soil compaction and, unless infeasible, preserve topsoil. If
+    the applicant is permitted to disturb areas within 50 feet of a water
+    resource, the following conditions shall be addressed in the SWP3:
 
         1. _(A)_ All BMPs and stream crossings shall be designed as specified in
         the most recent edition of Rainwater and Land Development.
@@ -1416,7 +1417,7 @@ Village of Chagrin Falls may require other BMPs as site conditions warrant.
     protect adjacent properties and water resources from sediment discharged via
     sheet (diffused) flow. Silt fence shall be placed along level contours and
     the permissible drainage area is limited to those indicated in Table 3 in
-    [Section 1355.09][CF Section 1355.09] of these regulations.
+    [Section 1355.09][CFCO 1355.09] of these regulations.
 
     7. _(7)_ **Internal Inspection and Maintenance.** All controls on the
     development area shall be inspected at least once every seven calendar days
@@ -1496,7 +1497,7 @@ Cuyahoga SWCD shall prepare and distribute a status report to the applicant.
 4. _(d)_ If an external inspection determines that operations are being
 conducted in violation of the approved SWP3 or Abbreviated SWP3 the Village
 Engineer and/or the Cuyahoga SWCD may take action as detailed in [Section
-1355.14][] of this regulation.
+1355.14][CFCO 1355.14] of this regulation.
 
 5. _(e)_ Failure to maintain and repair erosion and sediment controls per the
 approved SWP3 or swp3 plan may result in the following escalation:
@@ -1594,12 +1595,12 @@ provisions of this regulation or other applicable laws, ordinances, rules, or
 regulations, or the orders of the Village of Chagrin Falls.\
 (Ord. 2016-80. Passed 12-12-16.)
 
-[CF Section 1355.01(d)]:</chapters/chapter-1355-erosion-and-sediment-control/#135501(d)>
-[CF Section 1355.06(a)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(a)>
-[CF Section 1355.06(b)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(b)>
-[CF Section 1355.09(b)(1)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(b)(1)>
-[CF Section 1355.09(g)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(g)>
-[CF Section 1355.09]:</chapters/chapter-1355-erosion-and-sediment-control/#135509-performance-standards>
-[CF Section 1355.14]:</chapters/chapter-1355-erosion-and-sediment-control/#135514-violations>
+[CFCO 1355.01(d)]:</chapters/chapter-1355-erosion-and-sediment-control/#135501(d)>
+[CFCO 1355.06(a)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(a)>
+[CFCO 1355.06(b)]:</chapters/chapter-1355-erosion-and-sediment-control/#135506(b)>
+[CFCO 1355.09(b)(1)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(b)(1)>
+[CFCO 1355.09(g)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(g)>
+[CFCO 1355.09]:</chapters/chapter-1355-erosion-and-sediment-control/#135509-performance-standards>
+[CFCO 1355.14]:</chapters/chapter-1355-erosion-and-sediment-control/#135514-violations>
 [ORC Chapter 1515]:<https://codes.ohio.gov/ohio-revised-code/chapter-1515>
 [ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>

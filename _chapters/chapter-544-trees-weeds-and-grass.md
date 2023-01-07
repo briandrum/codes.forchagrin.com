@@ -31,7 +31,7 @@ title: "Chapter 544: Trees, Weeds and Grass"
 * Notice to cut noxious weeds - see Ohio R.C. [731.51][ORC Section 731.51]
 * Destruction of weeds - see Ohio R.C. [971.33][ORC Section 971.33] et seq.
 * Injury or destruction of trees and growing products - see GEN. OFF. 541.06
-* Care of trees during street excavations - see Streets & Public Services [901.03(q)][CF Section 901.03(q)]
+* Care of trees during street excavations - see Streets & Public Services [901.03(q)][CFCO 901.03(q)]
 
 ## 544.01   Trimming of trees, shrubbery
 
@@ -322,7 +322,7 @@ Whoever violates any provision of this chapter is guilty of a misdemeanor of the
 first degree.\
 (Ord. 1982-36. Passed 1-24-83.)
 
-[CF Section 901.03(q)]:</chapters/chapter-901-street-openings-and-excavations/#90103-rules-and-regulations>
+[CFCO 901.03(q)]:</chapters/chapter-901-street-openings-and-excavations/#90103-rules-and-regulations>
 [ORC Section 715.20]:<https://codes.ohio.gov/ohio-revised-code/section-715.20>
 [ORC Section 727.011]:<https://codes.ohio.gov/ohio-revised-code/section-727.011>
 [ORC Section 731.51]:<https://codes.ohio.gov/ohio-revised-code/section-731.51>
