@@ -15,7 +15,7 @@ basis, often in the hour or so before council meetings start.
 ### Committee of the Whole
 
 The Committee of the Whole is a committee meeting of the entire council.
-Meetings are called on an as needed basis when an issue is before Council that
+Meetings are called on an as-needed basis when an issue is before Council that
 requires the deliberation of the entire Council.
 
 - Andrew Rockey
@@ -194,26 +194,6 @@ Commission](/articles/article-vii-administrative-officers-departments-boards-and
 - Dale Markowitz, Law Director
 - Angela Gergye, Director of Finance
 - Laura Gorretta
-
-### Riverside Park Playground Proposal Submission Evaluation Commission
-
-- Craig Bauman, nominated by Mike Corkran
-- Janine Bauman, nominated by The Beautification Committee
-- Marianne Canter, nominated by Erinn Grube
-- Anne Clark, nominated by Brian Drum
-- Adriane Emig, nominated by The CFEVS Gurney Elementary School PTO
-- Molly Franz, nominated by The CFEVS Intermediate School PTO
-- Padi Hallam Joseph, nominated by The Chagrin Falls Rec Council
-- Abby Hoopingarner, nominated by The CFEVS Middle School PTO
-- John Liber, nominated by The Chagrin Valley Jaycees
-- Tara Martin, nominated by Angie DeBernardo
-- Gwen McCuaig, nominated by Jack Subel
-- Kristen Rankin, nominated by The CFEVS High School PTO
-- Carolyn Sihler, nominated by The Chagrin Falls Historical Society
-- Susan Strauss, nominated by Nancy Rogoff
-- Steve Thompson, nominated by Chagrin Falls Tiger Prep
-- Scott Tucholka, nominated by Chagrin Falls Dads’ Club
-- Hillary Veverka, nominated by Andrew Rockey
 
 ### Shade Tree Commission
 
