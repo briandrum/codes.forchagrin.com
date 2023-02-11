@@ -11,12 +11,12 @@ title: "Chapter 103: Official Standards"
 * [103.01   Bench marks](#10301-bench-marks)
 * [103.02   Grade to be referenced to bench marks](#10302-grade-to-be-referenced-to-bench-marks)
 
-## Cross references
+## Cross References
 
 * State standard of time - see Ohio R.C. [1.04][ORC Section 1.04]
 * State legal holidays - see Ohio R.C. [1.14][ORC Section 1.14], [5.20][ORC Section 5.20] et seq.
 
-## 103.01   Bench marks
+## 103.01   Bench Marks
 
 The following bench marks are established as datum planes for the Municipality:
 
@@ -49,7 +49,7 @@ The following bench marks are established as datum planes for the Municipality:
 
 (Ord. 1957-420. Passed 12-28-57.)
 
-## 103.02   Grade to be referenced to bench marks
+## 103.02   Grade to Be Referenced to Bench Marks
 
 All grades established shall have reference to the levels of datum planes set
 forth in [Section 103.01][CFCO 103.01].\

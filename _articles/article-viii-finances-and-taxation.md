@@ -19,7 +19,7 @@ necessarily inconsistent with the provisions of this Charter and except when
 provision therefor is made in the Constitution of the State of Ohio. Separate
 books of account shall be maintained for each Municipally-owned utility.
 
-## Section VIII-2: Limitation on rate of taxation
+## Section VIII-2: Limitation on Rate of Taxation
 
 The power of Council to levy taxes shall be subject to the limitations now or
 hereafter provided by the Constitution and the general laws of the State of Ohio

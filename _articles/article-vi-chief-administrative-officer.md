@@ -10,7 +10,7 @@ title: "Article VI: Chief Administrative Officer"
 * [Section VI-1: Appointment and term](#section-vi-1-appointment-and-term)
 * [Section VI-2: Duties](#section-vi-2-duties)
 
-## Section VI-1: Appointment and term
+## Section VI-1: Appointment and Term
 
 A Chief Administrative Officer shall be appointed by the Mayor, subject to
 confirmation by a majority vote of all members of Council. The Chief

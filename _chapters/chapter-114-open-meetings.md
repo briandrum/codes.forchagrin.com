@@ -11,11 +11,11 @@ title: "Chapter 114: Open Meetings"
 - [114.03   Personal notification](#11403-personal-notification)
 - [114.04   Minutes of meetings](#11404-minutes-of-meetings)
 
-## Cross references
+## Cross References
 
 * Open meetings - see Ohio R.C. [121.22][ORC Section 121.22]
 
-## 114.01   Public meetings
+## 114.01   Public Meetings
 
 Unless otherwise provided in the Codified Ordinances, all meetings of Council,
 Council Committees, Commissions, Boards and other similar public bodies of the
@@ -26,7 +26,7 @@ an executive session is expressly authorized under the applicable provisions of
 State law.\
 (Ord. 1975-992. Passed 12-2-75.)
 
-## 114.02   Public notification
+## 114.02   Public Notification
 
 1. _(a)_ **Regular Meetings.** The time and place of all regular meetings of
 Council, Council Committees, Commissions, Boards and other similar public bodies
@@ -45,7 +45,7 @@ requested notification of the time, place and purpose of the emergency
 meeting.\
 (Ord. 1975-992. Passed 12-2-75.)
 
-## 114.03   Personal notification
+## 114.03   Personal Notification
 
 1. _(a)_ Any person, organization or group of persons is entitled to mail notice
 of the calendar of monthly meetings. To obtain this notice, such persons are
@@ -61,7 +61,7 @@ and shall deposit the sum provided under subsection (a) hereof in advance for
 such notices of the calendar of monthly meetings.\
 (Ord. 1975-992. Passed 12-2-75; Ord. 1990-79. Passed 10-8-90.)
 
-## 114.04   Minutes of meetings
+## 114.04   Minutes of Meetings
 
 1. _(a)_ **Minutes.** Minutes of all regular and special meetings of Council,
 Council Committees, Commissions and Boards shall promptly be recorded in writing
@@ -75,7 +75,7 @@ meetings of each public body. The public may inspect the minute books at all
 reasonable times.\
 (Ord. 1975-992. Passed 12-2-75.)
 
-## 114.05   Virtual public meetings and hearings
+## 114.05   Virtual Public Meetings and Hearings
 
 1. _(a)_ **Definitions.** As used in this section:
 

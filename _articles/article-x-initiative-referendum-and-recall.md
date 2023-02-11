@@ -12,7 +12,7 @@ title: "Article X: Initiative, Referendum and Recall"
 * [Section X-3: Petitions](#section-x-3-petitions)
 * [Section X-4: Rezoning-referendum](#section-x-4-rezoning-referendum)
 
-## Section X-1: Initiative and referendum
+## Section X-1: Initiative and Referendum
 
 Ordinances and resolutions may be proposed by initiative petition and adopted by
 election, and ordinances and resolutions adopted by Council shall be subject to

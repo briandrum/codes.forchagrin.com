@@ -43,7 +43,7 @@ of a public hearing upon such charge, and the Mayor or the Mayor's counsel has
 been given an opportunity at such hearing to be heard, present evidence, or
 examine any witness appearing in support of the charge.
 
-## Section III-4: Absence and vacancy
+## Section III-4: Absence and Vacancy
 
 1. _(a)_ **Absence.** When the Mayor is for any reason unable to perform Mayoral
 duties, the President of Council shall become the acting Mayor, and while so
@@ -76,7 +76,7 @@ becomes vacant, shall be held at the next general election which is more than
 one hundred twenty (120) days after the office of Mayor becomes vacant.\
 (Amended 11-2-21)
 
-## Section III-5: Duties and powers
+## Section III-5: Duties and Powers
 
 1. _(a)_ **Executive Powers.** The Mayor shall be the chief executive officer of
 the Municipality, and shall:

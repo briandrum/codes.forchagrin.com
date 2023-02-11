@@ -12,11 +12,11 @@ title: "Chapter 105: Public Contracts"
 * [105.02   Professional design services; public works](#10502-professional-design-services-public-works)
 * [105.03   Contract procedures](#10503-contract-procedures)
 
-## Cross references
+## Cross References
 
 * Sale or lease of property - see Ohio R.C. [Chapter 721][ORC Chapter 721]
 
-## 105.01   Surplus property
+## 105.01   Surplus Property
 
 Except for property in the possession of the Police Department, which is subject
 to other provisions of law, all personal property owned by the Village and not
@@ -30,7 +30,7 @@ in such manner and under such conditions as Council by motion, passed by
 majority vote, shall determine.\
 (Ord. 2013-29. Passed 5-13-13.)
 
-## 105.02   Professional design services; public works
+## 105.02   Professional Design Services; Public Works
 
 1. _(a)_ Definitions.
 
@@ -71,7 +71,7 @@ may satisfy itself as to the Professional Design Firm's qualifications and
 abilities in the manner it deems most suitable.\
 (Ord. 2013-29. Passed 5- 13-13.)
 
-## 105.03   Contract procedures
+## 105.03   Contract Procedures
 
 1. _(a)_ **Proper Authorization.** No contract, or an amendment or a change
 order to a contract, shall be enforceable against the Village unless it has been

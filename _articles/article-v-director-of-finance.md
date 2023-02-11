@@ -12,7 +12,7 @@ title: "Article V: Director of Finance"
 * [Section V-3: Duties](#section-v-3-duties)
 * [Section V-4: Assistant director of finance and employees in department of finance](#section-v-4-assistant-director-of-finance-and-employees-in-department-of-finance) (Repealed)
 
-## Section V-1: Appointment and term
+## Section V-1: Appointment and Term
 
 The Director of Finance shall be appointed by the Mayor, subject to confirmation
 by a majority vote of all members of Council. The Director of Finance may be
@@ -60,7 +60,7 @@ instruments of the Municipality on which authentication is necessary.
 inconsistent with the provisions of this Charter.\
 (Amended 11-8-66)
 
-## Section V-4: Assistant director of finance and employees in department of finance
+## Section V-4: Assistant Director of Finance and Employees in Department of Finance
 
 (Editor's note: Article V, Section 4. Assistant Director of Finance and
 Employees in Department of Finance was repealed by the voters 11-2-76.)

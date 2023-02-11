@@ -12,7 +12,7 @@ title: "Chapter 111: Council"
 * [111.02   Special meetings](#11102-special-meetings)
 * [111.03   Agenda for council meetings](#11103-agenda-for-council-meetings)
 
-## Cross references
+## Cross References
 
 * Mayor's attendance at meetings - see CHTR. Art. III, Sec. 5(b)
 * Composition and term - see CHTR. Art. IV, Sec. 1
@@ -29,7 +29,7 @@ title: "Chapter 111: Council"
 * Fixation of salary, compensation and bonds - see CHTR. Art. XII, Sec. 5
 * Conflict of interest - see CHTR. Art. XII, Sec. 6
 
-## 111.01   Regular meetings
+## 111.01   Regular Meetings
 
 Regular meetings of Council shall be either held in the Village Hall, or held
 virtually, when determined by Council or the Council President to hold a virtual
@@ -44,7 +44,7 @@ the Friday prior to the regularly scheduled Council meeting if cancellation was
 not declared at the last regular Council meeting.\
 ([Ord. 2022-01. Passed 1-3-22.][CFO 2022-01])
 
-## 111.02   Special meetings
+## 111.02   Special Meetings
 
 Special meetings of Council may be called by the Mayor, the President of Council
 or by any three members of Council by having the Clerk of Council serve written
@@ -54,7 +54,7 @@ of such persons not less than twenty-four hours prior to the holding of such
 meeting. Such notice shall specify the time and place for the holding of such
 meeting.
 
-## 111.03   Agenda for council meetings
+## 111.03   Agenda for Council Meetings
 
 1. _(1)_ **Regular Meetings:**
 

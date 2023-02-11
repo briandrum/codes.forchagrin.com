@@ -22,7 +22,7 @@ proposed amendments on the same subject shall be submitted at the same election,
 only the one of such amendments receiving the highest number of affirmative
 votes, not less than a majority, shall become a part of this Charter.
 
-## Section XI-2: Charter review
+## Section XI-2: Charter Review
 
 In January, 1966 and each five years thereafter, the Mayor shall appoint,
 subject to confirmation by a majority vote of Council, five electors of the

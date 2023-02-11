@@ -14,7 +14,7 @@ title: "Article IX: Nominations and Elections"
 * [Section IX-5: Independent candidates](#section-ix-5-independent-candidates)
 * [Section IX-6: General provision](#section-ix-6-general-provision)
 
-## Section IX-1: Municipal elections
+## Section IX-1: Municipal Elections
 
 Regular Municipal elections shall be held on the first Tuesday after the first
 Monday of November in each odd numbered year. Such other elections shall be held
@@ -23,7 +23,7 @@ the terms of this Charter may be submitted to the electors at any special
 election, may be submitted at the time of a primary or regular election.\
 (Amended 11-2-71)
 
-## Section IX-2: General provision
+## Section IX-2: General Provision
 
 Nominations for elective officers of this Municipality shall be made only by
 petition, signed by registered electors of the Municipality not less in number
@@ -41,7 +41,7 @@ govern the nomination and election of the elective officers of the
 Municipality.\
 (Amended 11-2-71)
 
-## Section IX-3: Declaration of candidacy
+## Section IX-3: Declaration of Candidacy
 
 Each person desiring to become a candidate shall, not later than 4:00 p.m. of
 the seventy-fifth (75th) day before the first (1st) Tuesday after the first
@@ -49,14 +49,14 @@ the seventy-fifth (75th) day before the first (1st) Tuesday after the first
 Ohio, the petition and written acceptance of the nominee.\
 (Amended 11-3-81)
 
-## Section IX-4: Designation of candidates
+## Section IX-4: Designation of Candidates
 
 (Repealed 11-2-71)
 
-## Section IX-5: Independent candidates
+## Section IX-5: Independent Candidates
 
 (Repealed 11-2-71)
 
-## Section IX-6: General provision
+## Section IX-6: General Provision
 
 (Repealed 11-2-71)

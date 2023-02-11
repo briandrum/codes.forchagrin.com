@@ -18,7 +18,7 @@ title: "Chapter 101: Codified Ordinances"
 * [101.08   Severability](#10108-severability)
 * [101.99   General penalty](#10199-general-penalty)
 
-## Cross references
+## Cross References
 
 * See sectional histories for similar State law
 * Statute of limitations on prosecutions - see Ohio R.C. [718.06][ORC Section 718.06]; GEN. OFF. 501.06
@@ -28,7 +28,7 @@ title: "Chapter 101: Codified Ordinances"
 * Ordinances and resolutions - see Administrative Code [Chapter 123][CFCO 123]
 * Rules of construction for offenses and penalties - see GEN. OFF. 501.04
 
-## 101.01   Designation; citation; headings
+## 101.01   Designation; Citation; Headings
 
 1. _(a)_ All ordinances of a permanent and general nature of the Municipality as
 revised, codified, rearranged, renumbered and consolidated into component codes,
@@ -44,7 +44,7 @@ code may be referred to and cited by its name, such as the "Traffic Code".
 Sections may be referred to and cited by the designation "Section" followed by
 the number, such as "Section 101.01".
 
-## 101.02   General definitions
+## 101.02   General Definitions
 
 As used in the Codified Ordinances, unless another definition is provided or the
 context otherwise requires:
@@ -130,7 +130,7 @@ letters, symbols or figures. This provision does not affect any law relating to
 signatures.\
 (ORC 1.59(J))
 
-## 101.03   Rules of construction
+## 101.03   Rules of Construction
 
 1. _(a)_ **Common and Technical Usage.** Words and phrases shall be read in
 context and construed according to the rules of grammar and common usage. Words
@@ -200,7 +200,7 @@ with State statute or Charter provisions.
 which shall contain any express provision excluding such construction, or when
 the subject matter or context of such law may be repugnant thereto.
 
-## 101.04   Revivor; effect of amendment or repeal
+## 101.04   Revivor; Effect of Amendment or Repeal
 
 1. _(a)_ The repeal of a repealing ordinance does not revive the ordinance
 originally repealed nor impair the effect of any saving clause therein.\
@@ -235,7 +235,7 @@ punishment, if not already imposed, shall be imposed according to the ordinance
 as amended.\
 (ORC 1.58)
 
-## 101.05   Construction of section references
+## 101.05   Construction of Section References
 
 1. _(a)_ A reference to any portion of the Codified Ordinances applies to all
 re-enactments or amendments thereof.\
@@ -256,7 +256,7 @@ reference.
     is superseded by the Codified Ordinances.\
     (ORC 1.23)
 
-## 101.06   Conflicting provisions
+## 101.06   Conflicting Provisions
 
 1. _(a)_ If there is a conflict between figures and words in expressing a
 number, the words govern.\
@@ -286,7 +286,7 @@ provision prevail.\
     reasonably be put into simultaneous operation.\
     (ORC 1.52)
 
-## 101.07   Determination of legislative intent
+## 101.07   Determination of Legislative Intent
 
 1. _(a)_ In enacting an ordinance, it is presumed that:
 
@@ -330,7 +330,7 @@ which can be given effect without the invalid provision or application, and to
 this end the provisions are severable.\
 (ORC 1.50)
 
-## 101.99   General penalty
+## 101.99   General Penalty
 
 Whenever, in the Codified Ordinances or in any ordinance of the Municipality,
 any act is prohibited or is made or declared to be unlawful or an offense or a

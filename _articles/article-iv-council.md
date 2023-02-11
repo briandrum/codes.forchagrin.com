@@ -19,7 +19,7 @@ title: "Article IV: Council"
 * [Section IV-9: Effective date of ordinances and resolutions](#section-iv-9-effective-date-of-ordinances-and-resolutions)
 * [Section IV-10: Employees of council](#section-iv-10-employees-of-council)
 
-## Section IV-1: Number and term
+## Section IV-1: Number and Term
 
 Council shall consist of seven (7) Council members elected at large for terms of
 four (4) years, except as herein provided, commencing on the first day of
@@ -55,7 +55,7 @@ the purpose of organization. The Council shall adopt its own rules, regulations
 and/or by-laws except as otherwise provided in this Charter.\
 (Amended 11-3-81)
 
-## Section IV-4: President of council and president pro tem
+## Section IV-4: President of Council and President Pro Tem
 
 The Council shall at the time of its organization choose one of its members as
 President of Council and another as President pro tom, who shall preside at
@@ -88,7 +88,7 @@ vote of the remaining members of Council for the unexpired term. If the vacancy
 is not filled within thirty days after it shall have occurred, the Mayor shall
 fill it by appointment.
 
-## Section IV-7: Council meetings
+## Section IV-7: Council Meetings
 
 Council shall hold at least one (1) regular meeting in each calendar month. A
 majority of the Council members shall constitute a quorum for the transaction of
@@ -109,7 +109,7 @@ Revised Code, or a private executive session is held with the Director of Law or
 an Assistant Director of Law.\
 (Amended 11-8-88; 11-2-21)
 
-## Section IV-8: Power and duties
+## Section IV-8: Power and Duties
 
 The legislative powers of the Municipality, except as otherwise provided by this
 Charter and by the Constitution of the State of Ohio, shall be vested in the
@@ -161,7 +161,7 @@ allocated, must be reallocated for any one (1) budget year appropriation, due to
 exigent circumstances existing at the time such reallocation action is taken.\
 (Amended 11-8-16; 11-2-21)
 
-## Section IV-8A: Administrative authority
+## Section IV-8A: Administrative Authority
 
 In addition to the legislative power granted herein, Council shall have the
 power to hear appeals and to grant exceptions to and variances in the
@@ -186,7 +186,7 @@ the Board of Zoning Appeals is received by the Clerk of Council, the decision of
 the Board of Zoning Appeals shall be final.\
 (Amended 11-8-16)
 
-## Section IV-9: Effective date of ordinances and resolutions
+## Section IV-9: Effective Date of Ordinances and Resolutions
 
 Each ordinance or resolution providing for (a) the appropriation of money, (b)
 an annual tax levy, (c) improvements petitioned for by the owners of a majority
@@ -207,7 +207,7 @@ surrender or joint exercise of any of its powers, (c) granting any franchise, or
 product or service of any utility, whether Municipally owned or not, shall be
 enacted as an emergency measure.
 
-## Section IV-10: Employees of council
+## Section IV-10: Employees of Council
 
 Council may employ such employees as it may deem necessary for the proper
 discharge of its legislative duties. Any person employed by the Council shall

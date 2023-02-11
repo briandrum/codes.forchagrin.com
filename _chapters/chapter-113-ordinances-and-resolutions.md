@@ -10,7 +10,7 @@ title: "Chapter 113: Ordinances and Resolutions"
 
 * [113.01   Publication and posting](#11301-publication-and-posting)
 
-## Cross references
+## Cross References
 
 * Mayor may introduce legislation - see CHTR. Art. III, Sec. 5(b)
 * Mayor's power to sign or veto - see CHTR. Art. III, Sec. 5(c)
@@ -21,7 +21,7 @@ title: "Chapter 113: Ordinances and Resolutions"
 * Adoption of technical codes - see Ohio R.C. [731.231][ORC Section 731.231]
 * Adoption of Codified Ordinances - see ADM. 101.02
 
-## 113.01   Publication and posting
+## 113.01   Publication and Posting
 
 Public notice of ordinances and resolutions shall be given by publishing the
 ordinance or resolution number, the title thereof and the date of passage or

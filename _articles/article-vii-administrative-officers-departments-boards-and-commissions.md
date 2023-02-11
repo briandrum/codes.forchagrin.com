@@ -18,7 +18,7 @@ title: "Article VII: Administrative Officers, Departments, Boards and Commission
 * [Section VII-9: Architectural Board of Review](#section-vii-9-architectural-board-of-review)
 * [Section VII-10: Removal of members of the Planning and Zoning Commission, Board of Zoning Appeals, and Architectural Board of Review](#section-vii-10-removal-of-members-of-the-planning-and-zoning-commission-board-of-zoning-appeals-and-architectural-board-of-review)
 
-## Section VII-1: General provisions
+## Section VII-1: General Provisions
 
 The Municipality shall have a Department of Finance, a Department of Public
 Service, a Police Department, a Fire Department, a Director of Law, a Planning
@@ -34,7 +34,7 @@ necessary and may authorize one person to be head of two or more departments or
 divisions.\
 (Amended 11-3-81)
 
-## Section VII-2: Police and fire officers
+## Section VII-2: Police and Fire Officers
 
 1. _(a)_ The Police Chief shall be the head of the Department of Police and
 shall be appointed by the Mayor, subject to confirmation by a majority of all
@@ -239,7 +239,7 @@ members of the Board and, if neither of the voting members of the Board is an
 architect, one architect advisor must be present to establish the quorum.\
 (Amended 11-4-08; 11-6-18)
 
-## Section VII-10: Removal of members of the Planning and Zoning Commission, Board of Zoning Appeals, and Architectural Board of Review
+## Section VII-10: Removal of Members of the Planning and Zoning Commission, Board of Zoning Appeals, and Architectural Board of Review
 
 The Mayor may remove any member appointed to the Planning and Zoning Commission,
 Board of Zoning Appeals, or Architectural Board of Review, at any time for
