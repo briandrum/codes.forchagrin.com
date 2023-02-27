@@ -1,33 +1,37 @@
-<footer class="Footer">
+<footer class="Footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
   {%- assign default_paths = site.pages | map: "path" -%}
-  {%- assign page_paths = site.header_pages | default: default_paths -%}
+  {%- assign page_paths = site.optima.footer_pages | default: default_paths -%}
   {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-  <nav class="Footer-nav u-flex u-flexCol u-md-flexRow u-lg-flexRow">
-    <ul class="u-sm-sizeFull u-md-size1of3 u-lg-size1of3">
-      <li class="Footer-navListItem">
-        <a class="Footer-link" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-      </li>
-      {%- for path in page_paths -%}
-        {%- assign my_page = site.pages | where: "path", path | first -%}
+  <div class="Footer-nav Grid Grid--withGutter">
+    <div class="Grid-cell u-sm-sizeFull u-md-size1of3 u-lg-size1of3">
+      <p><strong><a class="Footer-link" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></strong></p>
+      <p>{{ site.description | escape }}</p>
+      <ul>
+        {%- for path in page_paths -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
 
-        {%- if my_page.title -%}
+          {%- if my_page.title -%}
+          <li class="Footer-navListItem">
+            <a class="Footer-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          </li>
+          {%- endif -%}
+        {%- endfor -%}
         <li class="Footer-navListItem">
-          <a class="Footer-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          Please contact <a href="mailto:codes@forchagrin.com">codes@forchagrin.com</a><br />with corrections, questions, or comments.
         </li>
-        {%- endif -%}
-      {%- endfor -%}
-      <li class="Footer-navListItem">
-        Please contact <a href="mailto:codes@forchagrin.com">codes@forchagrin.com</a><br />with corrections, questions, or comments.
-      </li>
-      <li class="Footer-navListItem">
-        <a class="Footer-link" href="{{ 'feed.xml' | relative_url }}">
-          <svg class="Icon"><use xlink:href="{{ 'assets/social-icons.svg#rss' | relative_url }}"></use></svg>
-          <span>Subscribe to updates</span>
-        </a>
-      </li>
-    </ul>
-    <div class="u-sm-sizeFull u-md-size2of3 u-lg-size2of3">
-      <p class="Footer-finePrint">
+        <li class="Footer-navListItem">
+          <a class="Footer-link" href="{{ 'feed.xml' | relative_url }}">
+            <svg class="Footer-linkIcon Icon">
+              <use xlink:href="{{ 'assets/optima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg>
+            <span>Subscribe</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="Grid-cell u-sm-sizeFull u-md-size2of3 u-lg-size2of3">
+      <p class="Footer-legalese">
         <strong>Disclaimer:</strong> The Codified Ordinances and other documents
         that appear in this repository may not reflect the most current
         legislation adopted by the Municipality. The Codified Ordinances are
@@ -38,17 +42,17 @@
         copy of the Codified Ordinances should be consulted prior to any action
         being taken.
       </p>
-      <p class="Footer-finePrint">
+      <p class="Footer-legalese">
         For further information regarding the official version of any portion of
         the Codified Ordinances in this repository, please contact the
         Municipality directly.
       </p>
     </div>
-  </nav>
+  </div>
   <div>
-    <p class="Footer-finePrint">
-    {%- for fine_print in site.optima.fine_prints -%}
-      <span class="u-textNoWrap">{{- fine_print.text }}</span> 2
+    <p class="Footer-legalese">
+    {%- for fine_print in site.optima.footer_legalese -%}
+      <span class="u-textNoWrap">{{- fine_print.text }}</span>
     {% endfor %}
     </p>
   </div>

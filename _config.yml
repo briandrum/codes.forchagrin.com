@@ -1,42 +1,80 @@
-# _config.yml
-
-# Build settings
-remote_theme: briandrum/jekyll-theme-optima
-
-plugins:
- - jekyll-feed
- - jekyll-remote-theme
- - jekyll-seo-tag
-
-# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-a-default-image
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: /assets/images/og-image.png
-
-# Title & description: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: The Codified Ordinances of Chagrin Falls, Ohio
 author:
   name: Brian Drum
   email: codes@forchagrin.com
-description: > # this means to ignore newlines until "show_excerpts:"
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
   An Unofficial Repository of The Codified Ordinances of Chagrin Falls, Ohio.
 
-permalink: /:title/
+# Build settings
 
-show_excerpts: false # set to true to show excerpts on the homepage
-excerpt_separator: <!--more-->
-future: true # set to true to generate future-date posts
+remote_theme: briandrum/jekyll-theme-optima
 
-# Plausible analytics: https://plausible.io/
-plausible_analytics: codes.forchagrin.com
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
- - index.md
- - search.md
+# Theme-specific settings
+
+optima:
+  # Optima date format
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #
+  # date_format: "%b %-d, %Y"
+
+  # Generate social links in footer.
+  #
+  # social_links:
+  #   - { platform: devto,          user_name: "jekyll",                  user_url: "https://dev.to/jekyll" }
+  #   - { platform: dribbble,       user_name: "jekyll",                  user_url: "https://dribbble.com/jekyll" }
+  #   - { platform: facebook,       user_name: "jekyll",                  user_url: "https://www.facebook.com/jekyll" }
+  #   - { platform: flickr,         user_name: "jekyll",                  user_url: "https://www.flickr.com/photos/jekyll" }
+  #   - { platform: github,         user_name: "minima",                  user_url: "https://github.com/jekyll/minima" }
+  #   - { platform: google_scholar, user_name: "jekyll",                  user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+  #   - { platform: instagram,      user_name: "jekyll",                  user_url: "https://www.instagram.com/jekyll" }
+  #   - { platform: keybase,        user_name: "jekyll",                  user_url: "https://keybase.io/jekyll" }
+  #   - { platform: linkedin,       user_name: "jekyll",                  user_url: "https://www.linkedin.com/in/jekyll" }
+  #   - { platform: mastodon,       user_name: "@minima@mastodon.social", user_url: "https://mastodon.social/@minima" }
+  #   - { platform: microdotblog,   user_name: "jekyll",                  user_url: "https://micro.blog/jekyll" }
+  #   - { platform: pinterest,      user_name: "jekyll",                  user_url: "https://www.pinterest.com/jekyll" }
+  #   - { platform: stackoverflow,  user_name: "jekyll",                  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
+  #   - { platform: telegram,       user_name: "jekyll",                  user_url: "https://t.me/jekyll" }
+  #   - { platform: twitter,        user_name: "@jekyllrb",                user_url: "https://twitter.com/jekyllrb" }
+  #   - { platform: youtube,        user_name: "jekyll",                  user_url: "https://www.youtube.com/jekyll" }
+
+  # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
+  # order as they should show up.
+  #
+  header_pages:
+    - posts.md
+    - search.md
+
+  # If you want to link only specific pages in your footer, uncomment this and add the path to the pages in
+  # order as they should show up.
+  #
+  footer_pages:
+    - posts.md
+    - search.md
+
+  # add some fine print in footer
+  #
+  footer_legalese:
+    - text: "Copyright © 2023."
+    - text: "All rights reserved."
+
+  # Plausible analytics: https://plausible.io/
+  #
+  plausible_analytics: codes.forchagrin.com
+
+# Set to `true` to show excerpts on the homepage.
+#
+# show_excerpts: false
+
+# Set to true to generate future-date posts
+#
+future: true
 
 collections:
   articles:
@@ -47,3 +85,12 @@ collections:
     output: true
   titles:
     output: false
+
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-a-default-image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-image.png
+
+permalink: /:title/
