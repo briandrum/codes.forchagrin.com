@@ -1,53 +1,10 @@
 ---
-layout: post
-title: "An Ordinance of the Village of Chagrin Falls to Establish Regulations for Mobile Food Unit Operations in the Village of Chagrin Falls"
-ordinance_no: "2023-04"
+layout: chapter
+part_no: 7
+title_no: 0
+chapter_no: 767
+title: "Chapter 767: Mobile Food Units"
 ---
-
-- Introduced by: Rogoff
-- 1st Reading (02/13/2023)
-- 2nd Reading (02/27/2023)
-- Passed (02/27/2023)
-
-_Whereas,_ the Planning and Zoning Commission, at their November 21, 2022
-meeting recommended to Council to regulate Mobile Food Units when operating in
-the Village of Chagrin Falls to add new Chapter 767: and
-
-_Whereas,_ Council desires to enact new Chapter 767 to be added to the Codified
-Ordinances to regulate, at present, Mobile Food Units on Village owned property,
-as more fully set forth in Exhibit "A" attached hereto and made a part hereof.
-
-**_Now Therefore, Be It Ordained by the Council of the Village of Chagrin Falls,
-Cuyahoga County, State of Ohio:_**
-
-**Section 1.** That Chapter 767, attached hereto as Exhibit "A", regulating the
-operation of Mobile Food Units, as defined in new Chapter 767, is hereby adopted
-and the Codified Ordinances shall be amended to add new Chapter 767.
-
-**Section 2.** The ordinances of the Village, to the extent inconsistent with
-the newly enacted provision herein regarding Chapter 767, attached hereto as
-Exhibit "A", are hereby repealed, except to the extent that such code sections
-are the subject of an enforcement action they shall be considered effective for
-the purposes of an enforcement for any violations that occurred prior to repeal.
-
-**Section 3.** That actions of this Council concerning and relating to the
-passage of this legislation were adopted in lawful meetings of this Council and
-that all deliberations of this Council and of any of its committees that
-resulted in such formal action were in compliance with all legal requirements,
-including Chapter 114 of the Codified Ordinances of the Village of Chagrin
-Falls.
-
-**Section 4.** That in accordance with [Section 113.01][CFCO 113.01] of the
-Codified Ordinances of the Village of Chagrin Falls, public notice of this
-Ordinance shall be given by posting a copy thereof for not less than fifteen
-(15) days in the Village Hall.
-
-**Section 5.** That this Ordinance shall take effect and be in force after the
-earliest period allowed by law.
-
-## Exhibit "A"
-
-# Chapter 767: Mobile Food Units
 
 ## Sections
 
