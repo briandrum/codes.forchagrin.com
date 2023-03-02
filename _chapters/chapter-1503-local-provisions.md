@@ -217,7 +217,7 @@ imprisoned not more than six months, or both. Each day of a continuing violation
 shall be deemed to be a separate offense.\
 (Ord. 2011-06. Passed 1-24-11; Ord. 2019-64. Passed 11-11-19.)
 
-## 1503.071   Central Station Monitored Fire Alarm System Requirement.
+### 1503.071   Central Station Monitored Fire Alarm System Requirement.
 
 1. _(a)_ **Definitions.** For purposes of this [Section 1503.071][CFCO
 1503.071], the following terms shall have the following meanings:

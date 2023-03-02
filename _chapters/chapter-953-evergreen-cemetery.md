@@ -14,8 +14,8 @@ fees.
 
 * [953.01   Definitions](#95301-definitions)
 * [953.02   General](#95302-general)
-* [953.03   Purchase of graves and mausoleums](#95303-purchase-of-graves-and-mausoleums)
-* [953.031   Purchase of Columbarium niches](#953031-purchase-of-columbarium-niches)
+* [953.03   Purchase of graves](#95303-purchase-of-graves)
+* [953.031   Purchase of columbarium niches](#953031-purchase-of-columbarium-niches)
 * [953.04   Cemetery rules and regulations](#95304-cemetery-rules-and-regulations)
 * [953.05   Grave markers](#95305-grave-markers)
 * [953.06   Authority having jurisdiction](#95306-authority-having-jurisdiction)
@@ -110,7 +110,7 @@ permitted by the Village to do so, a perpetual right of ingress and egress over
 graves for the purpose of passage to and from other graves.\
 (Ord. 2016-77. Passed 12-12-16.)
 
-## 953.03   Purchase of graves and mausoleums
+## 953.03   Purchase of graves
 
 Evergreen Hill Cemetery is provided for the residents of the Village of Chagrin
 Falls. All sales or purchases of graves and crypts must be made through the
@@ -123,10 +123,10 @@ limited to the purchase of one grave only.
 
 2. _(b)_ A maximum of four graves may be purchased, per family, by Village
 residents only. The cost of a 4′×12′ full size grave that allows three cremation
-urns or one casket & two cremation urns is $800.00. The cost of a 4′×12′ full
+urns or one casket & two cremation urns is $1,500.00. The cost of a 4′×12′ full
 size grave in sections that allow three cremation urns only shall cost $700.
 
-3. _(c)_ Graves in Section 3-C are for cremations only, and cost $1,300.00 each
+3. _(c)_ Graves in Section 3-C are for cremations only, and cost $3,000.00 each
 for residents and are limited to three cremation urns.
 
 4. _(d)_ Village residents may not purchase graves for a non-resident.
@@ -145,30 +145,8 @@ current sales price, at the discretion of the Village.
 7. _(g)_ Graves may be transferred by will or the laws of Ohio if intestate, and
 a new deed will be issued by the Cemetery Clerk for purpose of record. No other
 transfers shall be permitted, except resale to the Village of Chagrin Falls
-pursuant to Subsection 953.03(g).\
-(Ord. 2017-14. Passed 3-13-17.)
-
-8. _(h)_ Mausoleums shall be permitted in Evergreen Hill Cemetery on
-specifically designated lots with a minimum size of 20 feet by 20 feet.
-
-9. _(i)_ The cost of the mausoleum lot shall be $30,000 for a resident and
-$60,000 for a non-resident, which includes the concrete foundation that will be
-provided by the Village at its expense.
-
-10. _(j)_ All sales are final upon payment of the purchase price. The Village
-may repurchase an unused mausoleum lot for no more than 75% of the then current
-sale price at the discretion of the Cemetery Commission.
-
-11. _(k)_ All caskets to be buried in mausoleum crypts shall be of the type
-approved for use in mausoleums and approved in each case by the Chief
-Administrative Officer.
-
-12. _(l)_ A Mausoleum lot may not be transferred or sold to any person or
-entity, other than in the event of the death of the owner of an unused mausoleum
-lot, and pursuant to their last will and testament, or intestate succession in
-accordance with Ohio law, the mausoleum lot may be transferred to their devisee,
-or next of kin in the case of intestate succession.\
-(Ord. 2019-28. Passed 3-25-19.)
+pursuant to [Subsection 953.03(g)][CFCO 953.03(g)].\
+(Ord. 2023-01. Passed 1-9-23.)
 
 ### 953.031   Purchase of columbarium niches
 
@@ -180,40 +158,29 @@ Cemetery Trustees.
 
 2. _(b)_ No Village resident may purchase a niche for a non-resident.
 
-3. _(c)_ (Editor's note: Former subsection (c) hereof was repealed by Ordinance
-2019-23.)
+3. _(c)_ The sale of a niche to a nonresident will be considered on a
+case-by-case basis upon receipt of a written request.
 
 4. _(d)_ The cost of a memorial bench is $7,500, which includes the foundation
-and engraving.\
-(Ord. 2017-14. Passed 3-13-17.)
+and engraving.
 
-5. _(e)_ Niche prices: Two cremations may be interred in each niche.
+5. _(e)_ Niche prices: Two cremains may be interred in each niche.
 
-    |                                          | Resident  | Non-Resident |
-    |------------------------------------------|----------:|-------------:|
-    | **Columbarium 1 (up to two cremations)** |           |              |
-    | Tier A                                   | $1,600.00 |    $2,400.00 |
-    | Tier B                                   | $1,500.00 |    $2,300.00 |
-    | Tier C                                   | $1,400.00 |    $2,200.00 |
-    | Tier D                                   | $1,300.00 |    $2,100.00 |
-    | **Columbarium 3 (up to two cremations)** |           |              |
-    | Tier A                                   | $3,500.00 |    $6,000.00 |
-    | Tier B                                   | $3,000.00 |    $5,000.00 |
-    | Tier C                                   | $2,500.00 |    $4,000.00 |
-    | Tier D                                   | $2,000.00 |    $3,000.00 |
-    | **Engraving**                            |           |              |
-    | One Name                                 |   $350.00 |      $350.00 |
-    | Two Names                                |   $525.00 |      $525.00 |
+    |               | Resident  | Non-Resident |
+    |---------------|----------:|-------------:|
+    | **One Niche** |           |              |
+    | Tier A        | $1,600.00 |    $2,400.00 |
+    | Tier B        | $1,500.00 |    $2,300.00 |
+    | Tier C        | $1,400.00 |    $2,200.00 |
+    | Tier D        | $1,300.00 |    $2,100.00 |
+    | **Engraving** |           |              |
+    | One Name      |   $400.00 |      $400.00 |
+    | Two Names     |   $575.00 |      $575.00 |
 
-    (Ord. 2020-40. Passed 9-14-20.)
+6. _(f)_ NICHE BURIAL PROCEDURES & COSTS (OPENING & CLOSING):
 
-6. _(f)_ NICHE BURIAL PROCEDURES & COSTS (OPENING & CLOSING): After 3:00 PM on a
-weekday is $500.00.
-
-7. _(g)_ The cost for a niche interment before 2:00 PM Monday through Saturday
-is $600.00 for residents and non-residents. The cost for a niche interment after
-2:00 PM Monday through Saturday is $850.00.\
-(Ord. 2019-23. Passed 2-26-19.)
+7. _(g)_ The cost for a niche interment before 3:00 pm on a weekday is $400.00
+and $450.00 after 3:00 pm and on a Saturday.
 
 8. _(h)_ Payment is due upon the scheduling of a burial. Interments shall not be
 made until full payment is made.
@@ -225,18 +192,13 @@ stating that they are the sole beneficiary of the burial site.
 10. _(j)_ There shall be no burials on Sundays nor legal holidays.
 
 11. _(k)_ The Village must receive 12-hour notice (one business day) for an
-interment. There will be no burials after 12:00 p.m. (noon) on Saturdays.\
-(Ord. 2017-14. Passed 3-13-17.)
+interment. There will be no burials after 12:00 p.m. (noon) on Saturdays.
 
-12. _(l)_ Columbarium 1 niches are 12″ long, 12″ high and 12″ wide. A single urn
-maximum dimension may be 11″ wide by 11″ high by 11″ long. For two urns, the
-maximum dimension for each urn is 5″ wide by 5″ long by 11″ high. Columbarium 3
-niches are 12″ wide by 14″ long by 12″ high. Maximum dimension for a single urn
-is 11″ wide by 11″ high by 13″ long. The maximum for each urn when there are two
-urns is 5″ wide by 6″ long by 11″ high.\
-(Ord. 2020-40. Passed 9-14-20.)
+12. _(l)_ The niche is 12″ long, 12″ wide, and 12″ high. For two urns, each one
+must measure less than 5″ wide, 5″ long, and 11″ tall. For one urn, it shall
+measure 11″ long, 11″ wide, and 11″ tall or less.
 
-13. _(m)_ Engraving of the face plate is $350.00 for one name and $525.00 for
+13. _(m)_ Engraving of the face plate is $400.00 for one name and $575.00 for
 two names. All engraving is done through the Village. Only the name and date of
 birth & death are permitted on the face plate.
 
@@ -247,7 +209,7 @@ than an urn.
 
 16. _(p)_ The cost for a disinterment is $375.00 plus the cost of replacing the
 face plate.\
-(Ord. 2017-14. Passed 3-13-17.)
+(Ord. 2023-01. Passed 1-9-23.)
 
 ## 953.04   Cemetery rules and regulations
 
@@ -351,42 +313,34 @@ The following costs will be charged by the Cemetery. The Owner is responsible
 for any and all additional costs that may be charged by Contractors involved in
 the service.
 
-1. _(a)_  BURIALS
+1. _(a)_ **Burials.**
 
-    |               |                                         Weekday |
-    |---------------|------------------------------------------------:|
-    | Adult Casket  | $1,000.00 (per person/burial-transit permit)    |
-    | Infant Casket |   $700.00 (per person/burial-transit permit)    |
-    | Cremation Urn |   $600.00 (per person/certificate of cremation) |
+    |               | Weekday | Saturday |                                       |
+    |---------------|--------:|---------:|---------------------------------------|
+    | Adult Casket  | $850.00 |  $950.00 | (per person/burial-transit permit)    |
+    | Infant Casket | $500.00 |  $600.00 | (per person/burial-transit permit)    |
+    | Cremation Urn | $450.00 |  $500.00 | (per person/certificate of cremation) |
 
-    Burials after 2:00 PM Monday through Saturday:
+2. _(b)_ **Disinterment.**
 
-    |               |                              Monday-Saturday    |
-    |---------------|------------------------------------------------:|
-    | Adult Casket  | $1,500.00 (per person/burial-transit permit)    |
-    | Infant Casket |   $800.00 (per person/burial-transit permit)    |
-    | Cremation Urn |   $850.00 (per person/certificate of cremation) |
+    |               |   Weekday |  Saturday |
+    |---------------|----------:|----------:|
+    | Adult Casket  | $1,000.00 | $1,100.00 |
+    | Infant Casket |   $500.00 |   $600.00 |
+    | Cremation Urn |   $475.00 |   $575.00 |
 
-2. _(b)_ DISINTERMENT
-
-    |               | Weekday and Saturday |
-    |---------------|---------------------:|
-    | Adult Casket  |            $1,500.00 |
-    | Infant Casket |              $800.00 |
-    | Cremation Urn |              $850.00 |
-
-3. _(c)_ GRAVE MARKER FOUNDATION FEES: All monuments shall have a concrete
+3. _(c)_ **Grave marker foundation fees.** All monuments shall have a concrete
 foundation built by the cemetery sexton, pursuant to municipal specifications.
 
-    * 2′×12″: $275.00
-    * 3′×12″: $325.00
-    * 4′×12″: $375.00
-    * 5′×12″: $425.00
-    * 6′×12″: $475.00
+    * 2′×12″: $325.00
+    * 3′×12″: $375.00
+    * 4′×12″: $425.00
+    * 5′×12″: $500.00
+    * 6′×12″: $550.00
 
     No charge for 2′×12″ foundation for approved Veterans Administration
     marker.\
-    (Ord. 2019-23. Passed 2-26-19.)
+    (Ord. 2023-01. Passed 1-9-23.)
 
 ## 953.08   Indigent burial policy
 
@@ -453,6 +407,7 @@ continues shall constitute a separate offense.\
 (Ord. 2016-77. Passed 12-12-16.)
 
 [CFCO 149.10]:</chapters/chapter-149-employment-provisions/#14910-holidays>
+[CFCO 953.03(g)]:</chapters/chapter-953-evergreen-cemetery/#95303(g)>
 [ORC Section 759.05]:<https://codes.ohio.gov/ohio-revised-code/section-759.05>
 [ORC Section 759.13]:<https://codes.ohio.gov/ohio-revised-code/section-759.13>
 [ORC Section 759.20]:<https://codes.ohio.gov/ohio-revised-code/section-759.20>

@@ -209,7 +209,7 @@ than fifty percent of the horizontal section of the exterior walls is enclosed
 with materials other than screen material that allows air to flow through.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-## 1107.061   Cultural and social institutions
+### 1107.061   Cultural and social institutions
 
 1. _(a)_ "Club, Lodge or Fraternal and Service Organization" means an
 establishment owned or operated by a group of people formally organized for a
@@ -417,14 +417,14 @@ noxious matter, vibrations, drainage, erosion and other conditions created by or
 inherent in uses of land or buildings.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-## 1107.160   Planning and zoning code
+### 1107.160   Planning and zoning code
 
 "Planning and Zoning Code", or "this Code" means Ordinance 1963-586, passed
 December 9, 1963, as amended, which is codified as Titles One to Five of this
 Part Eleven - Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-## 1107.161   Recreational vehicles and trailers
+### 1107.161   Recreational vehicles and trailers
 
 1. _(a)_ "Recreational vehicle" means a vehicle or portable structure designed
 and constructed to be used for travel, recreational or vacation uses, including
@@ -476,7 +476,7 @@ A "Sign" shall have the meaning provided in Chapter 1143 of this Planning and
 Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-## 1107.191   Site plan
+### 1107.191   Site plan
 
 "Site Plan" means a plan, to scale, showing uses and structures existing and
 proposed for a parcel of land and containing those elements as required by
