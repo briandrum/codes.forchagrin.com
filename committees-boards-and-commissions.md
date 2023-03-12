@@ -70,28 +70,27 @@ architecture and zoning.
 ### Architectural Board of Review (ABR)
 
 Established in [Part One, Title Five, Chapter 137: Architectural Board of
-Review](/chapters/chapter-137-architectural-board-of-review/).
+Review][1].
 
-- Steven King, Chair
+- Steven King, Chair (2023 mayoral appointment)
 - Philip Koepf, Voting Member
 - Wendy Naylor, Voting Member
-- George Clemens, Architect Advisor
+- George Clemens, Architect Advisor (2023 mayoral appointment)
 - William Childs, Architect Advisor
 - Janna Lutz, Alternate
 - Member, Alternate <!-- - Joan Andersen, Alternate -->
-- Member, Alternate <!-- - Phil O’Neil, Alternate -->
+- Chuck Fazio, Alternate (2023 mayoral appointment)
 
 ### Board of Zoning Appeals (BZA)
 
-Established in [Part One, Title Five, Chapter 136: Board of Zoning
-Appeals](/chapters/chapter-136-board-of-zoning-appeals/).
+Established in [Part One, Title Five, Chapter 136: Board of Zoning Appeals][2].
 
 - Wade Fricke, Chair
 - Andrew Rockey, Council Representative
 - Elizabeth Hijar
 - Jim Holdren
 - Rachel Freshman-Johnson
-- Dori Loomis, Alternate
+- Dori Loomis, Alternate (2023 mayoral appointment)
 - Member, Alternate
 - Member, Alternate
 
@@ -109,7 +108,7 @@ liaison.
 ### Arts Commission
 
 Established in [Part One, Title Five, Chapter 145: Chagrin Falls Arts
-Commission](/chapters/chapter-145-chagrin-falls-arts-commission/).
+Commission][3].
 
 - Pam Spremulli, Chair
 - Angie DeBernardo, Council Representative
@@ -119,9 +118,7 @@ Commission](/chapters/chapter-145-chagrin-falls-arts-commission/).
 ### Charter Review Commission
 
 Established in [Charter of the Village of Chagrin Falls, Article XI, Section
-XI-2: Charter
-review](/articles/article-xi-amendments-to-charter/#section-xi-2-charter-review
-).
+XI-2: Charter review][4].
 
 - John Mitchell, Chair
 - Anne Griffiths
@@ -131,13 +128,12 @@ review](/articles/article-xi-amendments-to-charter/#section-xi-2-charter-review
 
 ### Cemetery Commission
 
-Established in [Part One, Title Five, Chapter 142: Cemetery
-Commission](/chapters/chapter-142-cemetery-commission/).
+Established in [Part One, Title Five, Chapter 142: Cemetery Commission][5].
 
 - Larry Trace, Chair
 - Erinn Grube, Council Representative
 - Moira Carr
-- Susan Harris White
+- Susan Harris White (2023 mayoral appointment)
 
 ### Economic Development Commission
 
@@ -147,7 +143,8 @@ Commission](/chapters/chapter-142-cemetery-commission/).
 
 ### Grove Hill Park Commission
 
-Established in the donation agreement with Western Reserve Land Conservancy.
+Established in the [donation agreement with Western Reserve Land
+Conservancy][6].
 
 - Nancy Rogoff, Council Representative
 - George Warnock, WRLC
@@ -156,8 +153,7 @@ Established in the donation agreement with Western Reserve Land Conservancy.
 
 ### Parking Commission
 
-Established in [Part One, Title Five, Chapter 141: Parking
-Commission](/chapters/chapter-141-parking-commission/).
+Established in [Part One, Title Five, Chapter 141: Parking Commission][7].
 
 - Member, Chair
 - Mike Corkran, Council Representative
@@ -166,27 +162,24 @@ Commission](/chapters/chapter-141-parking-commission/).
 
 ### Parks Commission
 
-Established in [Part One, Title Five, Chapter 140: Parks
-Commission](/chapters/chapter-140-parks-commission/).
+Established in [Part One, Title Five, Chapter 140: Parks Commission][8].
 
 - Anne Wombwell deConingh, Chair
 - Brian Drum, Council Representative
 - Greta Insolia
 - Jeff Opperman
-- Tod White
+- Tod White (2023 mayoral appointment)
 
 ### Planning & Zoning Commission
 
 Established in [Charter of the Village of Chagrin Falls, Article VII, Section
-VII-4: Planning & Zoning
-Commission](/articles/article-vii-administrative-officers-departments-boards-and
--commissions/#section-vii-4-planning-and-zoning-commission).
+VII-4: Planning & Zoning Commission][9].
 
 - Patti Baker, Chair
 - Nancy Rogoff, Council Representative
 - Rodger Cahn
 - Matt Hicks
-- Wendy Davis
+- Wendy Davis (2023 mayoral appointment)
 
 ### Records Retention Commission
 
@@ -198,23 +191,21 @@ Commission](/articles/article-vii-administrative-officers-departments-boards-and
 ### Shade Tree Commission
 
 Established in [Part Five, Chapter 544, Section 14: Establishment and powers of
-Shade Tree
-Commission](/chapters/chapter-544-trees-weeds-and-grass/#54414-establishment-and
--powers-of-shade-tree-commission).
+Shade Tree Commission][10].
 
 - Terry Rounds, Chair
 - Andrew Rockey, Council Representative
 - Ben Himes
 - Edward Wells
-- Gary Nelson
+- Gary Nelson (2023 mayoral appointment)
 - Michael McGuire
-- Robert Weitzel
+- Robert Weitzel (2023 mayoral appointment)
 - Stuart Lipp
 
 ### Whitesburg Park Commission
 
 Established in [Part One, Title Five, Chapter 143: Whitesburg Park
-Commission](/chapters/chapter-143-whitesburg-park-commission/).
+Commission][11].
 
 - Member, Chair
 - Member, Council Representative
@@ -229,3 +220,15 @@ Commission](/chapters/chapter-143-whitesburg-park-commission/).
 ### Merchant Liaison
 
 - Angie DeBernardo, Council Representative
+
+[1]:</chapters/chapter-137-architectural-board-of-review/>
+[2]:</chapters/chapter-136-board-of-zoning-appeals/>
+[3]:</chapters/chapter-145-chagrin-falls-arts-commission/>
+[4]:</articles/article-xi-amendments-to-charter/#section-xi-2-charter-review>
+[5]:</chapters/chapter-142-cemetery-commission/>
+[6]:</ordinance-2020-32/>
+[7]:</chapters/chapter-141-parking-commission/>
+[8]:</chapters/chapter-140-parks-commission/>
+[9]:</articles/article-vii-administrative-officers-departments-boards-and-commissions/#section-vii-4-planning-and-zoning-commission>
+[10]:</chapters/chapter-544-trees-weeds-and-grass/#54414-establishment-and-powers-of-shade-tree-commission>
+[11]:</chapters/chapter-143-whitesburg-park-commission/>
