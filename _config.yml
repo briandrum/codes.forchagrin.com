@@ -1,3 +1,9 @@
+################################################################################
+#                                                                              #
+# Jekyll Configuration Settings                                                #
+#                                                                              #
+################################################################################
+
 title: The Codified Ordinances of Chagrin Falls, Ohio
 author:
   name: Brian Drum
@@ -16,13 +22,30 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-# Theme-specific settings
+# Set to `true` to show excerpts on the homepage.
+show_excerpts: false
+
+# Set to true to generate future-date posts
+future: true
+
+permalink: /:title/
+
+timezone: America/New_York
+
+# Include these files/folders that are excluded by default
+# include: [ "/.well-known" ]
+
+################################################################################
+#                                                                              #
+# Optima Theme Configuration Settings                                          #
+#                                                                              #
+################################################################################
 
 optima:
   # Optima date format
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
-  # date_format: "%b %-d, %Y"
+  date_format: "%b %-d, %Y"
 
   # Generate social links in footer.
   #
@@ -55,6 +78,7 @@ optima:
   # order as they should show up.
   #
   footer_pages:
+    - committees-boards-and-commissions.md
     - posts.md
     - search.md
 
@@ -68,13 +92,11 @@ optima:
   #
   plausible_analytics: codes.forchagrin.com
 
-# Set to `true` to show excerpts on the homepage.
-#
-# show_excerpts: false
-
-# Set to true to generate future-date posts
-#
-future: true
+################################################################################
+#                                                                              #
+# Jekyll Collections                                                           #
+#                                                                              #
+################################################################################
 
 collections:
   articles:
@@ -93,4 +115,3 @@ defaults:
     values:
       image: /assets/images/og-image.png
 
-permalink: /:title/
