@@ -22,15 +22,15 @@ requires the deliberation of the entire Council.
 - Angie DeBernardo
 - Brian Drum
 - Erinn Grube
-- Jack Subel
 - Mike Corkran
 - Nancy Rogoff
+- [Vacancy]
 
 ### Administration & Compensation Committee
 
-- Jack Subel, Chair
 - Erinn Grube
 - Mike Corkran
+- [Vacancy]
 
 ### Facilities & Services Committee
 
@@ -48,13 +48,13 @@ requires the deliberation of the entire Council.
 
 - Brian Drum, Chair
 - Erinn Grube
-- Jack Subel
+- [Vacancy]
 
 ### Streets & Sidewalks Committee
 
 - Erin Grubbe, Chair
-- Jack Subel
 - Nancy Rogoff
+- [Vacancy]
 
 ### Utilities Committee
 
@@ -97,7 +97,6 @@ Established in [Part One, Title Five, Chapter 136: Board of Zoning Appeals][2].
 ### Volunteer Firefighters’ Dependents Board
 
 - Member, Chair
-- Jack Subel, Council Representative
 - Nancy Rogoff
 
 ## Commissions
