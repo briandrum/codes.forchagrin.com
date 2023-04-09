@@ -49,5 +49,5 @@ permalink: /search.json
   "id": {{ counter }},
   "url": "{{ site.url }}{{ page.url }}",
   "title": "{{ page.title }}",
-  "body": "{{ page.date | date: "%Y/%m/%d" }}. {{ page.content | markdownify | replace: newline, ' ' | replace: '\', '. ' | replace: '&amp;', '&' | replace: '</h1>', '. ' | replace: '</h2>', '. ' | replace: '</h3>', '. ' | replace: '</h4>', '. ' | replace: '</h5>', '. ' | replace: '</li>', '. ' | replace: '</p>', ' ' | strip_html | strip_newlines | strip | normalize_whitespace | replace: '. . ', '. '| replace: '"', ' '}}"{% assign counter = counter | plus: 1 %}
+  "body": "{{ page.date | date: "%b %e, %Y" }}. {{ page.content | markdownify | replace: newline, ' ' | replace: '\', '. ' | replace: '&amp;', '&' | replace: '</h1>', '. ' | replace: '</h2>', '. ' | replace: '</h3>', '. ' | replace: '</h4>', '. ' | replace: '</h5>', '. ' | replace: '</li>', '. ' | replace: '</p>', ' ' | strip_html | strip_newlines | strip | normalize_whitespace | replace: '. . ', '. '| replace: '"', ' '}}"{% assign counter = counter | plus: 1 %}
 }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}]
