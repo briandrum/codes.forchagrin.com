@@ -931,8 +931,8 @@ include any similar occupied connecting room or space in the same story, or in a
 story or stories above or below, where entrance is common to the rooms or
 spaces.
 
-/* May be measured by folding a piece to five thicknesses and measuring
-to see if the thickness of five layers exceeds one-eighth inch.
+\* May be measured by folding a piece to five thicknesses and measuring to see
+if the thickness of five layers exceeds one-eighth inch.
 
 **Section 27.11   Number of Occupants Permitted. (Amended):**
 
