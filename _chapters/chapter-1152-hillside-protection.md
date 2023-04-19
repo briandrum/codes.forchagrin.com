@@ -60,16 +60,16 @@ habitats in the Municipality.\
 
 1. _(a)_ "Average percent slope."
 
-    Average percent slope "S" is computed by the formula:
+    Average percent slope $$S$$ is computed by the formula:
 
-    $$ S = {0.00229 I L  \over A} $$
+    $$S = {0.00229 \times I \times L \over A}$$
 
-    where
+    where:
 
-    - S = Average percent slope
-    - I = Contour interval, in feet*
-    - L = Summation of length of contours, in feet
-    - A = Area in acres of parcel being considered
+    * $$S$$ = Average percent slope
+    * $$I$$ = Contour interval, in feet*
+    * $$L$$ = Summation of length of contours, in feet
+    * $$A$$ = Area in acres of parcel being considered
 
     \* Calculations of average percent slope should be based upon accurate
     topographic surveys using a contour interval no greater than ten feet and a
