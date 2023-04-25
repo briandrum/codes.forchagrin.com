@@ -20,7 +20,7 @@ title: "Chapter 353: Parking Meters"
 
 ## Cross references
 
-* Off-street parking facilities - see Ohio R.C. [717.05][ORC Section 717.05]
+* Off-street parking facilities - see Ohio R.C. [717.05][ORC 717.05]
 * Registered owner prima-facie liable for unlawful parking - see TRAF. 351.03
 * False coin or slug - see GEN. OFF 545.11
 * Tampering with coin machines - see GEN. OFF 545.12
@@ -219,4 +219,4 @@ specific penalty is provided.)
 [CFCO 353.03]:</chapters/chapter-351-parking-generally/#35103-prohibited-standing-or-parking-places>
 [CFCO 353.06]:</chapters/chapter-351-parking-generally/#35106-selling-washing-or-repairing-vehicle-upon-roadway-advertising>
 [CFCO 1119.03]:</chapters/chapter-1119-districts-established-zoning-map/#111903-district-boundary-lines>
-[ORC Section 717.05]:<https://codes.ohio.gov/ohio-revised-code/section-717.05>
+[ORC 717.05]:<https://codes.ohio.gov/ohio-revised-code/section-717.05>

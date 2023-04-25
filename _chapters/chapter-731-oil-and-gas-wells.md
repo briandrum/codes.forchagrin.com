@@ -21,7 +21,7 @@ title: "Chapter 731: Oil and Gas Wells"
 
 ## Cross references
 
-* Oil and gas wells - see Ohio R.C. [Chapter 1509][ORC Chapter 1509]
+* Oil and gas wells - see Ohio R.C. [Chapter 1509][ORC 1509]
 
 ## 731.01   Objectives
 
@@ -157,7 +157,7 @@ and the permit shall only be granted subject to the following:
     3. _(3)_ No local permit pursuant to this chapter shall be issued until the
     applicant has received a permit for the proposed well from the Division of
     Oil and Gas (Department of Natural Resources) pursuant to Ohio R.C. [Chapter
-    1509][ORC Chapter 1509] and a copy of such permit is submitted to the Chief
+    1509][ORC 1509] and a copy of such permit is submitted to the Chief
     Administrative Officer's office.
 
     4. _(4)_ If drilling has not commenced within ninety days from the date of
@@ -202,7 +202,7 @@ shall be located to conform with the following:
     and equipment may be within 100 feet of a public street right of way.
 
     5. _(5)_ Any greater distances which may be required pursuant to Ohio R.C.
-    [Chapter 1509][ORC Chapter 1509] shall govern.
+    [Chapter 1509][ORC 1509] shall govern.
 
         These spacing requirements shall remain in effect until the well has
         been plugged to the satisfaction of the Village and the Division of Oil
@@ -558,4 +558,4 @@ the foregoing sections, shall be guilty of a misdemeanor of the first degree.
 Each day shall constitute a separate offense.\
 (Ord. 2004-17. Passed 5-10-04.)
 
-[ORC Chapter 1509]:<https://codes.ohio.gov/ohio-revised-code/chapter-1509>
+[ORC 1509]:<https://codes.ohio.gov/ohio-revised-code/chapter-1509>

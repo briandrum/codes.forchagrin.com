@@ -18,8 +18,8 @@ title: "Chapter 1305: Plans and Drawings"
 
 ## Cross references
 
-* Plans for public buildings to be submitted - see Ohio R.C. [3791.04][ORC Section 3791.04]
-* Fees for plan approval - see Ohio R.C. [3791.07][ORC Section 3791.07]
+* Plans for public buildings to be submitted - see Ohio R.C. [3791.04][ORC 3791.04]
+* Fees for plan approval - see Ohio R.C. [3791.07][ORC 3791.07]
 
 ## 1305.01   Consideration of applications
 
@@ -129,5 +129,5 @@ thereof shall be submitted to the Inspector for approval.\
 specific penalty is provided.)
 
 [CFCO 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
-[ORC Section 3791.04]:<https://codes.ohio.gov/ohio-revised-code/section-3791.04>
-[ORC Section 3791.07]:<https://codes.ohio.gov/ohio-revised-code/section-3791.07>
+[ORC 3791.04]:<https://codes.ohio.gov/ohio-revised-code/section-3791.04>
+[ORC 3791.07]:<https://codes.ohio.gov/ohio-revised-code/section-3791.07>

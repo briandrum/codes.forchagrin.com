@@ -41,11 +41,11 @@ to contact the Director of Finance for copies of relevant legislation.)
 ## Cross references
 
 * Conflict of interest - see CHTR. Art. XII, Sec. 6
-* Deductions for municipal income tax - see Ohio R.C. [9.42][ORC Section 9.42]
-* Public employees retirement system - see Ohio R.C. [Chapter 145][ORC Chapter 145]
-* Expenses for attendance at conference or convention - see Ohio R.C. [733.79][ORC Section 733.79]
-* Strikes by public employees - see Ohio R.C. [Chapter 4117][ORC Chapter 4117]
-* Workmen's compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. [Chapter 4123][ORC Chapter 4123]
+* Deductions for municipal income tax - see Ohio R.C. [9.42][ORC 9.42]
+* Public employees retirement system - see Ohio R.C. [Chapter 145][ORC 145]
+* Expenses for attendance at conference or convention - see Ohio R.C. [733.79][ORC 733.79]
+* Strikes by public employees - see Ohio R.C. [Chapter 4117][ORC 4117]
+* Workmen's compensation - see Ohio Const., Art. II, Sec. 35; Ohio R.C. [Chapter 4123][ORC 4123]
 
 ## 149.01   Within-range pay adjustments
 
@@ -626,8 +626,8 @@ of each plan is maintained on file by the Finance Director.\
 
 [CFCO 149.06]:</chapters/chapter-149-employment-provisions/#14906-overtime>
 [CFCO 149.21]:</chapters/chapter-149-employment-provisions/#14921-pfdpf-pickup>
-[ORC Chapter 145]:<https://codes.ohio.gov/ohio-revised-code/chapter-145>
-[ORC Chapter 4117]:<https://codes.ohio.gov/ohio-revised-code/chapter-4117>
-[ORC Chapter 4123]:<https://codes.ohio.gov/ohio-revised-code/chapter-4123>
-[ORC Section 9.42]:<https://codes.ohio.gov/ohio-revised-code/section-9.42>
-[ORC Section 733.79]:<https://codes.ohio.gov/ohio-revised-code/section-733.79>
+[ORC 145]:<https://codes.ohio.gov/ohio-revised-code/chapter-145>
+[ORC 4117]:<https://codes.ohio.gov/ohio-revised-code/chapter-4117>
+[ORC 4123]:<https://codes.ohio.gov/ohio-revised-code/chapter-4123>
+[ORC 9.42]:<https://codes.ohio.gov/ohio-revised-code/section-9.42>
+[ORC 733.79]:<https://codes.ohio.gov/ohio-revised-code/section-733.79>

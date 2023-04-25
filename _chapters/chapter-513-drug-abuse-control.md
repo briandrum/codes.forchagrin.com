@@ -27,9 +27,9 @@ title: "Chapter 513: Drug Abuse Control"
 ## Cross references
 
 * See sectional histories for similar State law
-* Federal prosecution bar to local prosecution - see Ohio R.C. [2925.50][ORC Section 2925.50], 3719.19
-* Analysis report and notarized statement as evidence - see Ohio R.C. [2925.51][ORC Section 2925.51]
-* Criteria for granting probation - see Ohio R.C. [3719.70(B)][ORC Section 3719.70]
+* Federal prosecution bar to local prosecution - see Ohio R.C. [2925.50][ORC 2925.50], 3719.19
+* Analysis report and notarized statement as evidence - see Ohio R.C. [2925.51][ORC 2925.51]
+* Criteria for granting probation - see Ohio R.C. [3719.70(B)][ORC 3719.70]
 * Adulterating food with drug of abuse - see GEN. OFF. 537.13
 * Using weapons while under the influence - see GEN. OFF. 549.03
 
@@ -41,10 +41,10 @@ phrases and their derivatives used in this chapter which are not defined in this
 section shall have the meanings given to them in the Ohio Revised Code.
 
 1. _(a)_ "Administer." Has the same meaning as in Ohio R.C. [3719.01][ORC
-Section 3719.01].
+3719.01].
 
 2. _(b)_ "Adulterate." To cause a drug to be adulterated as described in Ohio
-R.C. [3715.63][ORC Section 3715.63].
+R.C. [3715.63][ORC 3715.63].
 
 3. _(c)_ "Bulk amount." Of a controlled substance, means any of the following:
 
@@ -119,8 +119,8 @@ R.C. [3715.63][ORC Section 3715.63].
     combination of a fentanyl-related compound and any other compound, mixture,
     preparation, or substance included in Schedule III, Schedule IV, or Schedule
     V, if the defendant is charged with a violation of Ohio R.C. [2925.11][ORC
-    Section 2925.11] and the sentencing provisions set forth in Ohio R.C.
-    [2925.11(C)(10)(b)][ORC Section 2925.11] and [(C)(11)][ORC Section 2925.11]
+    2925.11] and the sentencing provisions set forth in Ohio R.C.
+    [2925.11(C)(10)(b)][ORC 2925.11] and [(C)(11)][ORC 2925.11]
     will not apply regarding the defendant and the violation, the bulk amount of
     the controlled substance for purposes of the violation is the amount
     specified in division (1), (2), (3), (4), or (5) of this definition for the
@@ -162,10 +162,10 @@ committed on school premises, in a school building, or within 1,000 feet of the
 boundaries of any school premises.
 
 8. _(h)_ "Controlled substance." Has the same meaning as in Ohio R.C.
-[3719.01][ORC Section 3719.01].
+[3719.01][ORC 3719.01].
 
 9. _(i)_ "Controlled substance analog." Has the same meaning as in Ohio R.C.
-[3719.01][ORC Section 3719.01].
+[3719.01][ORC 3719.01].
 
 10. _(j)_ "Counterfeit controlled substance." Any of the following:
 
@@ -189,29 +189,27 @@ boundaries of any school premises.
 11. _(k)_ "Cultivate." Includes planting, watering, fertilizing or tilling.
 
 12. _(l)_ "Dangerous drug." Has the same meaning as in Ohio R.C. [4729.01][ORC
-Section 4729.01].
+4729.01].
 
 13. _(m)_ "Deception." Has the same meaning as in Ohio R.C. [2913.01][ORC
-Section 2913.01].
+2913.01].
 
 14. _(n)_ "Disciplinary counsel." The disciplinary counsel appointed by the
 Board of Commissioners on Grievances and Discipline of the Ohio Supreme Court
 under the Rules for the Government of the Bar of Ohio.
 
-15. _(o)_ "Dispense." Has the same meaning as in Ohio R.C. [3719.01][ORC Section
-3719.01].
+15. _(o)_ "Dispense." Has the same meaning as in Ohio R.C. [3719.01][ORC 3719.01].
 
 16. _(p)_ "Distribute." Has the same meaning as in Ohio R.C. [3719.01][ORC
-Section 3719.01].
+3719.01].
 
-17. _(q)_ "Drug." Has the same meaning as in Ohio R.C. [4729.01][ORC Section
-4729.01].
+17. _(q)_ "Drug." Has the same meaning as in Ohio R.C. [4729.01][ORC 4729.01].
 
 18. _(r)_ "Drug abuse offense." Any of the following:
 
-    1. _(1)_ A violation of Ohio R.C. [2913.02(A)][ORC Section 2913.02] that
+    1. _(1)_ A violation of Ohio R.C. [2913.02(A)][ORC 2913.02] that
     constitutes theft of drugs, or any violation of Ohio R.C. [2925.02][ORC
-    Section 2925.02], 2925.03, 2925.04, 2925.041, 2925.05, 2925.06, 2925.11,
+    2925.02], 2925.03, 2925.04, 2925.041, 2925.05, 2925.06, 2925.11,
     2925.12, 2925.13, 2925.22, 2925.23, 2925.24, 2925.31, 2925.32, 2925.36 or
     2925.37.
 
@@ -231,10 +229,10 @@ Section 3719.01].
     or (3) of this definition.
 
 19. _(s)_ "Drug dependent person." Has the same meaning as in Ohio R.C.
-[3719.011][ORC Section 3719.011].
+[3719.011][ORC 3719.011].
 
 20. _(t)_ "Drug of abuse." Has the same meaning as in Ohio R.C. [3719.011][ORC
-Section 3719.011].
+3719.011].
 
 21. _(u)_ "Felony drug abuse offense." Any drug abuse offense that would
 constitute a felony under the laws of this state, any other state or the United
@@ -341,26 +339,25 @@ but means any of the following:
         than 0.3%.
 
     2. _(2)_ The term does not include a hemp byproduct in the possession of a
-    licensed hemp processor under Ohio R.C. [Chapter 928][ORC Chapter 928],
+    licensed hemp processor under Ohio R.C. [Chapter 928][ORC 928],
     provided that the hemp byproduct is being produced, stored, and disposed of
-    in accordance with rules adopted under Ohio R.C. [928.03][ORC Section
-    928.03].
+    in accordance with rules adopted under Ohio R.C. [928.03][ORC 928.03].
 
 25. _(y)_ "Hypodermic."  Has the same meaning as in Ohio R.C. [3719.01][ORC
-Section 3719.01].
+3719.01].
 
 26. _(z)_ "Juvenile." A person under eighteen years of age.
 
 27. _(aa)_ "Licensed health professional authorized to prescribe drugs." Has the
-same meaning as in Ohio R.C. [4729.01][ORC Section 4729.01].
+same meaning as in Ohio R.C. [4729.01][ORC 4729.01].
 
 28. _(bb)_ "L.S.D." Lysergic acid diethylamide.
 
 29. _(cc)_ "Major drug offender." Has the same meaning as in Ohio R.C.
-[2929.01][ORC Section 2929.01].
+[2929.01][ORC 2929.01].
 
 30. _(dd)_ "Mandatory prison term." Has the same meaning as in Ohio R.C.
-[2929.01][ORC Section 2929.01].
+[2929.01][ORC 2929.01].
 
 31. _(ee)_ "Manufacture." To plant, cultivate, harvest, process, make, prepare
 or otherwise engage in any part of the production of a drug, by propagation,
@@ -369,10 +366,10 @@ and includes packaging, repackaging, labeling and other activities incident to
 production.
 
 32. _(ff)_ "Manufacturer." Has the same meaning as in Ohio R.C. [3719.01][ORC
-Section 3719.01].
+3719.01].
 
 33. _(gg)_ "Marihuana." Has the same meaning as in Ohio R.C. [3719.01][ORC
-Section 3719.01], except that it does not include hashish.
+3719.01], except that it does not include hashish.
 
 34. _(hh)_ "Methamphetamine." Methamphetamine, any salt, isomer or salt of an
 isomer of methamphetamine, or any compound, mixture, preparation or substance
@@ -381,25 +378,24 @@ methamphetamine.
 
 35. _(ii)_ "Minor drug possession offense." Either of the following:
 
-    1. _(1)_ A violation of Ohio R.C. [2925.11][ORC Section 2925.11], as it
+    1. _(1)_ A violation of Ohio R.C. [2925.11][ORC 2925.11], as it
     existed prior to July 1, 1996, or a substantially equivalent municipal
     ordinance.
 
-    2. _(2)_ A violation of Ohio R.C. [2925.11][ORC Section 2925.11], as it
+    2. _(2)_ A violation of Ohio R.C. [2925.11][ORC 2925.11], as it
     exists on and after July 1, 1996, or a substantially equivalent municipal
     ordinance, that is a misdemeanor or a felony of the fifth degree.
 
 36. _(jj)_ "Official written order." Has the same meaning as in Ohio R.C.
-[3719.01][ORC Section 3719.01].
+[3719.01][ORC 3719.01].
 
-37. _(kk)_ "Person." Has the same meaning as in Ohio R.C. [3719.01][ORC Section
-3719.01].
+37. _(kk)_ "Person." Has the same meaning as in Ohio R.C. [3719.01][ORC 3719.01].
 
 38. _(ll)_ "Pharmacist." Has the same meaning as in Ohio R.C. [3719.01][ORC
-Section 3719.01].
+3719.01].
 
 39. _(mm)_ "Pharmacy." Has the same meaning as in Ohio R.C. [3719.01][ORC
-Section 3719.01].
+3719.01].
 
 40. _(nn)_ "Possess" or "possession." Having control over a thing or substance
 but may not be inferred solely from mere access to the thing or substance
@@ -407,43 +403,43 @@ through ownership or occupation of the premises upon which the thing or
 substance is found.
 
 41. _(oo)_ "Prescription." Has the same meaning as in Ohio R.C. [4729.01][ORC
-Section 4729.01].
+4729.01].
 
 42. _(pp)_ "Presumption for a prison term" or "presumption that a prison term
 shall be imposed." A presumption as described in Ohio R.C. [2929.13(D)][ORC
-Section 2929.13] that a prison term is a necessary sanction for a felony in
+2929.13] that a prison term is a necessary sanction for a felony in
 order to comply with the purposes and principles of sentencing under Ohio R.C.
-[2929.11][ORC Section 2929.11].
+[2929.11][ORC 2929.11].
 
 43. _(qq)_ "Professional license." Any license, permit, certificate,
 registration, qualification, admission, temporary license, temporary permit,
 temporary certificate or temporary registration that is described in Ohio R.C.
-[2925.01(W)(1)][ORC Section 2925.01] to [(W)(37)][ORC Section 2925.01] and that
+[2925.01(W)(1)][ORC 2925.01] to [(W)(37)][ORC 2925.01] and that
 qualifies a person as a professionally licensed person.
 
 44. _(rr)_ "Professionally licensed person." Any of the following:
 
     1. _(1)_ A person who has received a certificate or temporary certificate as
     a certified public accountant or who has registered as a public accountant
-    under Ohio R.C. [Chapter 4701][ORC Chapter 4701] and who holds an Ohio
+    under Ohio R.C. [Chapter 4701][ORC 4701] and who holds an Ohio
     permit issued under that chapter;
 
     2. _(2)_ A person who holds a certificate of qualification to practice
     architecture issued or renewed and registered under Ohio R.C. [Chapter
-    4703][ORC Chapter 4703];
+    4703][ORC 4703];
 
     3. _(3)_ A person who is registered as a landscape architect under Ohio R.C.
-    [Chapter 4703][ORC Chapter 4703] or who holds a permit as a landscape
+    [Chapter 4703][ORC 4703] or who holds a permit as a landscape
     architect issued under that chapter;
 
-    4. _(4)_ A person licensed under Ohio R.C. [Chapter 4707][ORC Chapter 4707];
+    4. _(4)_ A person licensed under Ohio R.C. [Chapter 4707][ORC 4707];
 
     5. _(5)_ A person who has been issued a certificate of registration as a
-    registered barber under Ohio R.C. [Chapter 4709][ORC Chapter 4709];
+    registered barber under Ohio R.C. [Chapter 4709][ORC 4709];
 
     6. _(6)_ A person licensed and regulated to engage in the business of a debt
     pooling company by a legislative authority, under authority of Ohio R.C.
-    [Chapter 4710][ORC Chapter 4710];
+    [Chapter 4710][ORC 4710];
 
     7. _(7)_ A person who has been issued a cosmetologist's license, hair
     designer's license, manicurist's license, esthetician's license, natural
@@ -453,113 +449,109 @@ qualifies a person as a professionally licensed person.
     license, hair design instructor's license, manicurist instructor's license,
     esthetics instructor's license, natural hair style instructor's license,
     independent contractor's license, or tanning facility permit under Ohio R.C.
-    [Chapter 4713][ORC Chapter 4713];
+    [Chapter 4713][ORC 4713];
 
     8. _(8)_ A person who has been issued a license to practice dentistry, a
     general anesthesia permit, a conscious sedation permit, a limited resident's
     license, a limited teaching license, a dental hygienist's license or a
     dental hygienist's teacher's certificate under Ohio R.C. [Chapter 4715][ORC
-    Chapter 4715];
+    4715];
 
     9. _(9)_ A person who has been issued an embalmer's license, a funeral
     director's license, a funeral home license or a crematory license, or who
     has been registered for an embalmer's or funeral director's apprenticeship
-    under Ohio R.C. [Chapter 4717][ORC Chapter 4717];
+    under Ohio R.C. [Chapter 4717][ORC 4717];
 
     10. _(10)_ A person who has been licensed as a registered nurse or practical
     nurse, or who has been issued a certificate for the practice of
-    nurse-midwifery under Ohio R.C. [Chapter 4723][ORC Chapter 4723];
+    nurse-midwifery under Ohio R.C. [Chapter 4723][ORC 4723];
 
     11. _(11)_ A person who has been licensed to practice optometry or to engage
-    in optical dispensing under Ohio R.C. [Chapter 4725][ORC Chapter 4725];
+    in optical dispensing under Ohio R.C. [Chapter 4725][ORC 4725];
 
     12. _(12)_ A person licensed to act as a pawnbroker under Ohio R.C. [Chapter
-    4727][ORC Chapter 4727];
+    4727][ORC 4727];
 
     13. _(13)_ A person licensed to act as a precious metals dealer under Ohio
-    R.C. [Chapter 4728][ORC Chapter 4728];
+    R.C. [Chapter 4728][ORC 4728];
 
-    14. _(14)_ A person licensed under Ohio R.C. [Chapter 4729][ORC Chapter
-    4729] as a pharmacist or pharmacy intern or registered under that chapter as
+    14. _(14)_ A person licensed under Ohio R.C. [Chapter 4729][ORC 4729] as a pharmacist or pharmacy intern or registered under that chapter as
     a registered pharmacy technician, certified pharmacy technician, or pharmacy
     technician trainee;
 
-    15. _(15)_ A person licensed under Ohio R.C. [Chapter 4729][ORC Chapter
-    4729] as a manufacturer of dangerous drugs, outsourcing facility,
+    15. _(15)_ A person licensed under Ohio R.C. [Chapter 4729][ORC 4729] as a manufacturer of dangerous drugs, outsourcing facility,
     third-party logistics provider, repackager of dangerous drugs, wholesale
     distributor of dangerous drugs, or terminal distributor of dangerous drugs;
 
     16. _(16)_ A person who is authorized to practice as a physician assistant
-    under Ohio R.C. [Chapter 4730][ORC Chapter 4730];
+    under Ohio R.C. [Chapter 4730][ORC 4730];
 
     17. _(17)_ A person who has been issued a license to practice medicine and
     surgery, osteopathic medicine and surgery, or podiatric medicine and surgery
-    under Ohio R.C. [Chapter 4731][ORC Chapter 4731] or has been issued a
+    under Ohio R.C. [Chapter 4731][ORC 4731] or has been issued a
     certificate to practice a limited branch of medicine under that chapter;
 
     18. _(18)_ A person licensed as a psychologist or school psychologist under
-    Ohio R.C. [Chapter 4732][ORC Chapter 4732];
+    Ohio R.C. [Chapter 4732][ORC 4732];
 
     19. _(19)_ A person registered to practice the profession of engineering or
-    surveying under Ohio R.C. [Chapter 4733][ORC Chapter 4733];
+    surveying under Ohio R.C. [Chapter 4733][ORC 4733];
 
     20. _(20)_ A person who has been issued a license to practice chiropractic
-    under Ohio R.C. [Chapter 4734][ORC Chapter 4734];
+    under Ohio R.C. [Chapter 4734][ORC 4734];
 
     21. _(21)_ A person licensed to act as a real estate broker or real estate
-    salesperson under Ohio R.C. [Chapter 4735][ORC Chapter 4735];
+    salesperson under Ohio R.C. [Chapter 4735][ORC 4735];
 
     22. _(22)_ A person registered as a registered environmental health
-    specialist under Ohio R.C. [Chapter 4736][ORC Chapter 4736];
+    specialist under Ohio R.C. [Chapter 4736][ORC 4736];
 
     23. _(23)_ A person licensed to operate or maintain a junkyard under Ohio
-    R.C. [Chapter 4737][ORC Chapter 4737];
+    R.C. [Chapter 4737][ORC 4737];
 
     24. _(24)_ A person who has been issued a motor vehicle salvage dealer's
-    license under Ohio R.C. [Chapter 4738][ORC Chapter 4738];
+    license under Ohio R.C. [Chapter 4738][ORC 4738];
 
     25. _(25)_ A person who has been licensed to act as a steam engineer under
-    Ohio R.C. [Chapter 4739][ORC Chapter 4739];
+    Ohio R.C. [Chapter 4739][ORC 4739];
 
     26. _(26)_ A person who has been issued a license or temporary permit to
     practice veterinary medicine or any of its branches, or who is registered as
-    a graduate animal technician under Ohio R.C. [Chapter 4741][ORC Chapter
-    4741];
+    a graduate animal technician under Ohio R.C. [Chapter 4741][ORC 4741];
 
     27. _(27)_ A person who has been issued a hearing aid dealer's or fitter's
-    license or trainee permit under Ohio R.C. [Chapter 4747][ORC Chapter 4747];
+    license or trainee permit under Ohio R.C. [Chapter 4747][ORC 4747];
 
     28. _(28)_ A person who has been issued a class A, class B or class C
     license or who has been registered as an investigator or security guard
-    employee under Ohio R.C. [Chapter 4749][ORC Chapter 4749];
+    employee under Ohio R.C. [Chapter 4749][ORC 4749];
 
     29. _(29)_ A person licensed to practice as a nursing home administrator
-    under Ohio R.C. [Chapter 4751][ORC Chapter 4751];
+    under Ohio R.C. [Chapter 4751][ORC 4751];
 
     30. _(30)_ A person licensed to practice as a speech-language pathologist or
-    audiologist under Ohio R.C. [Chapter 4753][ORC Chapter 4753];
+    audiologist under Ohio R.C. [Chapter 4753][ORC 4753];
 
     31. _(31)_ A person issued a license as an occupational therapist or
-    physical therapist under Ohio R.C. [Chapter 4755][ORC Chapter 4755];
+    physical therapist under Ohio R.C. [Chapter 4755][ORC 4755];
 
     32. _(32)_ A person who is licensed as a licensed professional clinical
     counselor, licensed professional counselor, social worker, independent
     social worker, independent marriage and family therapist, or marriage and
     family therapist, or registered as a social work assistant under Ohio R.C.
-    [Chapter 4757][ORC Chapter 4757];
+    [Chapter 4757][ORC 4757];
 
     33. _(33)_ A person issued a license to practice dietetics under Ohio R.C.
-    [Chapter 4759][ORC Chapter 4759];
+    [Chapter 4759][ORC 4759];
 
     34. _(34)_ A person who has been issued a license or limited permit to
-    practice respiratory therapy under Ohio R.C. [Chapter 4761][ORC Chapter
-    4761];
+    practice respiratory therapy under Ohio R.C. [Chapter 4761][ORC 4761];
 
     35. _(35)_ A person who has been issued a real estate appraiser certificate
-    under Ohio R.C. [Chapter 4763][ORC Chapter 4763];
+    under Ohio R.C. [Chapter 4763][ORC 4763];
 
     36. _(36)_ A person who has been issued a home inspector license under Ohio
-    R.C. [Chapter 4764][ORC Chapter 4764];
+    R.C. [Chapter 4764][ORC 4764];
 
     37. _(37)_ A person who has been admitted to the bar by order of the Ohio
     Supreme Court in compliance with its prescribed and published rules.
@@ -567,8 +559,7 @@ qualifies a person as a professionally licensed person.
 45. _(ss)_ "Public premises." Any hotel, restaurant, tavern, store, arena, hall
 or other place of public accommodation, business, amusement or resort.
 
-46. _(tt)_ "Sale." Has the same meaning as in Ohio R.C. [3719.01][ORC Section
-3719.01].
+46. _(tt)_ "Sale." Has the same meaning as in Ohio R.C. [3719.01][ORC 3719.01].
 
 47. _(uu)_ "Sample drug." A drug or pharmaceutical preparation that would be
 hazardous to health or safety if used without the supervision of a licensed
@@ -577,13 +568,12 @@ at one time, had been placed in a container plainly marked as a sample by a
 manufacturer.
 
 48. _(vv)_ "Schedule I", "Schedule II", "Schedule III", "Schedule IV" or
-"Schedule V." Have the same meaning as in Ohio R.C. [3719.01][ORC Section
-3719.01].
+"Schedule V." Have the same meaning as in Ohio R.C. [3719.01][ORC 3719.01].
 
 49. _(ww)_ "School." Any school operated by a board of education, any community
-school established under Ohio R.C. [Chapter 3314][ORC Chapter 3314], or any
+school established under Ohio R.C. [Chapter 3314][ORC 3314], or any
 nonpublic school for which the State Board of Education prescribes minimum
-standards under Ohio R.C. [3301.07][ORC Section 3301.07], whether or not any
+standards under Ohio R.C. [3301.07][ORC 3301.07], whether or not any
 instruction, extracurricular activities or training provided by the school is
 being conducted at the time a criminal offense is committed.
 
@@ -602,9 +592,9 @@ offense is committed.
 
     2. _(2)_ Any other parcel of real property that is owned or leased by a
     board of education of a school, the governing authority of a community
-    school established under Ohio R.C. [Chapter 3314][ORC Chapter 3314], or the
+    school established under Ohio R.C. [Chapter 3314][ORC 3314], or the
     governing body of a nonpublic school for which the State Board of Education
-    prescribes minimum standards under Ohio R.C. [3301.07][ORC Section 3301.07]
+    prescribes minimum standards under Ohio R.C. [3301.07][ORC 3301.07]
     and on which some of the instruction, extracurricular activities or training
     of the school is conducted, whether or not any instruction, extracurricular
     activities, or training provided by the school is being conducted on the
@@ -620,7 +610,7 @@ that indicates that it is the amount or unit by which the controlled substance
 is separately administered to or taken by an individual.
 
 54. _(bbb)_ "Wholesaler." Has the same meaning as in Ohio R.C. [3719.01][ORC
-Section 3719.01].\
+3719.01].\
 (ORC 2925.01)
 
 ## 513.02   Gift of marihuana
@@ -638,11 +628,10 @@ trafficking in marihuana is a misdemeanor of the third degree.
 driver's or commercial driver's license or permit of any person who is convicted
 of or pleads guilty to any violation of this section. However, if the offender
 pleaded guilty to or was convicted of a violation of Ohio R.C. [4511.19][ORC
-Section 4511.19] or a substantially similar municipal ordinance or the law of
+4511.19] or a substantially similar municipal ordinance or the law of
 another state or the United States arising out of the same set of circumstances
 as the violation, the court shall suspend the offender's driver's or commercial
-driver's license or permit in accordance with Ohio R.C. [2925.03(G)][ORC Section
-2925.03]. If an offender's driver's or commercial driver's license or permit is
+driver's license or permit in accordance with Ohio R.C. [2925.03(G)][ORC 2925.03]. If an offender's driver's or commercial driver's license or permit is
 suspended pursuant to this subsection, the offender, at any time after the
 expiration of two years from the day on which the offender's sentence was
 imposed, may file a motion with the sentencing court requesting termination of
@@ -683,33 +672,32 @@ or a controlled substance analog.
         purpose and not altered, forged or obtained through deception or
         commission of a theft offense. As used in subsection (b)(1)D. of this
         section, "deception" and "theft offense" have the same meanings as in
-        Ohio R.C. [2913.01][ORC Section 2913.01].
+        Ohio R.C. [2913.01][ORC 2913.01].
 
     2. _(2)_
 
         1. _(A)_ As used in subsection (b)(2) of this section:
 
             1. _(1)_ "Community addiction services provider" has the same
-            meaning as in Ohio R.C. [5119.01][ORC Section 5119.01].
+            meaning as in Ohio R.C. [5119.01][ORC 5119.01].
 
             2. _(2)_ "Community control sanction" and "drug treatment program"
-            have the same meanings as in Ohio R.C. [2929.01][ORC Section
-            2929.01].
+            have the same meanings as in Ohio R.C. [2929.01][ORC 2929.01].
 
             3. _(3)_ "Health care facility" has the same meaning as in Ohio R.C.
-            [2919.16][ORC Section 2919.16].
+            [2919.16][ORC 2919.16].
 
             4. _(4)_ "Minor drug possession offense" means a violation of this
             section that is a misdemeanor or a felony of the fifth degree.
 
             5. _(5)_ "Post-release control sanction" has the same meaning as in
-            Ohio R.C. [2967.28][ORC Section 2967.28].
+            Ohio R.C. [2967.28][ORC 2967.28].
 
             6. _(6)_ "Peace officer" has the same meaning as in Ohio R.C.
-            [2935.01][ORC Section 2935.01].
+            [2935.01][ORC 2935.01].
 
             7. _(7)_ "Public agency" has the same meaning as in Ohio R.C.
-            [2930.01][ORC Section 2930.01].
+            [2930.01][ORC 2930.01].
 
             8. _(8)_ "Qualified individual" means a person who is not on
             community control or post-release control and is a person acting in
@@ -755,8 +743,7 @@ or a controlled substance analog.
         control sanction and if the violation is a result of either of the
         following, the court shall first consider ordering the person's
         participation or continued participation in a drug treatment program or
-        mitigating the penalty specified in Ohio R.C. [2929.13][ORC Section
-        2929.13], 2929.15, or 2929.25, whichever is applicable, after which the
+        mitigating the penalty specified in Ohio R.C. [2929.13][ORC 2929.13], 2929.15, or 2929.25, whichever is applicable, after which the
         court has the discretion either to order the person's participation or
         continued participation in a drug treatment program or to impose the
         penalty with the mitigating factor specified in any of those applicable
@@ -775,7 +762,7 @@ or a controlled substance analog.
         following, the court or the parole board shall first consider ordering
         the person's participation or continued participation in a drug
         treatment program or mitigating the penalty specified in Ohio R.C.
-        [2929.141][ORC Section 2929.141] or 2967.28, whichever is applicable,
+        [2929.141][ORC 2929.141] or 2967.28, whichever is applicable,
         after which the court or the parole board has the discretion either to
         order the person's participation or continued participation in a drug
         treatment program or to impose the penalty with the mitigating factor
@@ -873,7 +860,7 @@ this section, the court that sentences an offender who is convicted of or pleads
 guilty to a violation of this section may suspend for not more than five years
 the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
-[4511.19][ORC Section 4511.19] or a substantially similar municipal ordinance or
+[4511.19][ORC 4511.19] or a substantially similar municipal ordinance or
 the law of another state or the United States arising out of the same set of
 circumstances as the violation, the court shall suspend the offender's driver's
 or commercial driver's license or permit for not more than five years.
@@ -911,7 +898,7 @@ misdemeanor of the first degree.
 violation of this section, the court may suspend for not more than five years
 the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
-[4511.19][ORC Section 4511.19] or a substantially similar municipal ordinance or
+[4511.19][ORC 4511.19] or a substantially similar municipal ordinance or
 the law of another state or the United States arising out of the same set of
 circumstances as the violation, the court shall suspend the offender's driver's
 or commercial driver's license or permit for not more than five years.\
@@ -921,7 +908,7 @@ or commercial driver's license or permit for not more than five years.\
 
 1. _(a)_ No person, who is the owner, operator or person in charge of a
 locomotive, watercraft, aircraft or other vehicle as defined in Ohio R.C.
-[4501.01(A)][ORC Section 4501.01], shall knowingly permit the vehicle to be used
+[4501.01(A)][ORC 4501.01], shall knowingly permit the vehicle to be used
 for the commission of a felony drug abuse offense.
 
 2. _(b)_ No person, who is the owner, lessee or occupant, or who has custody,
@@ -931,8 +918,8 @@ for the commission of a felony drug abuse offense by another person.
 
 3. _(c)_  Whoever violates this section is guilty of permitting drug abuse, a
 misdemeanor of the first degree. If the felony drug abuse offense in question is
-a violation of Ohio R.C. [2925.02][ORC Section 2925.02], 2925.03, 2925.04 or
-2925.041 as provided in Ohio R.C. [2925.13][ORC Section 2925.13], permitting
+a violation of Ohio R.C. [2925.02][ORC 2925.02], 2925.03, 2925.04 or
+2925.041 as provided in Ohio R.C. [2925.13][ORC 2925.13], permitting
 drug abuse is a felony and shall be prosecuted under appropriate State law.
 
 4. _(d)_ In addition to any other sanction imposed for an offense under this
@@ -940,14 +927,14 @@ section, the court that sentences a person who is convicted of or pleads guilty
 to a violation of this section may suspend for not more than five years the
 offender's driver's or commercial driver's license or permit. However, if the
 offender pleaded guilty to or was convicted of a violation of Ohio R.C.
-[4511.19][ORC Section 4511.19] or a substantially similar municipal ordinance or
+[4511.19][ORC 4511.19] or a substantially similar municipal ordinance or
 the law of another state or the United States arising out of the same set of
 circumstances as the violation, the court shall suspend the offender's driver's
 or commercial driver's license or permit for not more than five years.
 
 5. _(e)_ Any premises or real estate that is permitted to be used in violation
 of subsection (b) hereof constitutes a nuisance subject to abatement pursuant to
-Ohio R.C. [Chapter 3767][ORC Chapter 3767].\
+Ohio R.C. [Chapter 3767][ORC 3767].\
 (ORC 2925.13)
 
 ## 513.06   Illegal cultivation of marihuana
@@ -955,7 +942,7 @@ Ohio R.C. [Chapter 3767][ORC Chapter 3767].\
 1. _(a)_ No person shall knowingly cultivate marihuana.
 
 2. _(b)_ This section does not apply to any person listed in Ohio R.C.
-[2925.03][ORC Section 2925.03] (B)(1) to (3) to the extent and under the
+[2925.03][ORC 2925.03] (B)(1) to (3) to the extent and under the
 circumstances described in those divisions.
 
 3. _(c)_ Whoever commits a violation of subsection (a) hereof is guilty of
@@ -976,7 +963,7 @@ misdemeanor if the amount of marihuana involved does not exceed 200 grams.
 section, the court that sentences an offender who is convicted of or pleads
 guilty to a violation of this section may suspend the offender's driver's or
 commercial driver's license or permit in accordance with division (G) of Ohio
-R.C. [2925.03][ORC Section 2925.03]. If an offender's driver's or commercial
+R.C. [2925.03][ORC 2925.03]. If an offender's driver's or commercial
 driver's license or permit is suspended in accordance with that division, the
 offender may request termination of, and the court may terminate, the suspension
 in accordance with that division.
@@ -1004,7 +991,7 @@ prosecuted under appropriate State law.
 violation of this section, the court may suspend for not more than five years
 the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
-[4511.19][ORC Section 4511.19] or a substantially similar municipal ordinance or
+[4511.19][ORC 4511.19] or a substantially similar municipal ordinance or
 the law of another state or the United States arising out of the same set of
 circumstances as the violation, the court shall suspend the offender's driver's
 or commercial driver's license or permit for not more than five years.\
@@ -1036,7 +1023,7 @@ section, the court that sentences an offender who is convicted of or pleads
 guilty to a violation of this section may suspend for not more than five years
 the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
-[4511.19][ORC Section 4511.19] or a substantially similar municipal ordinance or
+[4511.19][ORC 4511.19] or a substantially similar municipal ordinance or
 the law of another state or the United States arising out of the same set of
 circumstances as the violation, the court shall suspend the offender's driver's
 or commercial driver's license or permit for not more than five years.\
@@ -1045,7 +1032,7 @@ or commercial driver's license or permit for not more than five years.\
 ## 513.09   Controlled substance or prescription labels
 
 1. _(a)_ As used in this section, "repackager" and "outsourcing facility" have
-the same meanings as in Ohio R.C. [4729.01][ORC Section 4729.01].
+the same meanings as in Ohio R.C. [4729.01][ORC 4729.01].
 
     Whenever a manufacturer sells a controlled substance, and whenever a
     wholesaler, repackager, or outsourcing facility sells a controlled substance
@@ -1089,7 +1076,7 @@ user who is institutionalized.
 
 4. _(d)_ A licensed health professional authorized to prescribe drugs who
 personally furnishes a controlled substance to a patient shall comply with
-division (A) of Ohio R.C. [4729.291][ORC Section 4729.291] with respect to
+division (A) of Ohio R.C. [4729.291][ORC 4729.291] with respect to
 labeling and packaging of the controlled substance.
 
 5. _(e)_ No person shall alter, deface, or remove any label affixed pursuant to
@@ -1104,7 +1091,7 @@ contain the following warning:
 
 7. _(g)_ Whoever violates this section is guilty of a misdemeanor of the first
 degree. If the offender has previously been convicted of a violation of this
-section, Ohio R.C. [3719.07][ORC Section 3719.07] or 3719.08 or a drug abuse
+section, Ohio R.C. [3719.07][ORC 3719.07] or 3719.08 or a drug abuse
 offense, such violation is a felony and shall be prosecuted under appropriate
 State law.\
 (ORC 3719.99)
@@ -1147,7 +1134,7 @@ unauthorized person.\
 
 3. _(c)_ Whoever violates this section is guilty of a misdemeanor of the third
 degree. If the offender has previously been convicted of a violation of this
-section, Ohio R.C. [3719.05][ORC Section 3719.05], 3719.06, 3719.13, 3719.172(B)
+section, Ohio R.C. [3719.05][ORC 3719.05], 3719.06, 3719.13, 3719.172(B)
 or (E), or 3719.31 or a drug abuse offense, a violation is a misdemeanor of the
 first degree.\
 (ORC 3719.99)
@@ -1155,11 +1142,11 @@ first degree.\
 ## 513.11   Harmful intoxicants; possessing nitrous oxide in motor vehicle
 
 1. _(a)_ As used in this section, "motor vehicle", "street" and "highway" have
-the same meanings as in Ohio R.C. [4511.01][ORC Section 4511.01].
+the same meanings as in Ohio R.C. [4511.01][ORC 4511.01].
 
-2. _(b)_ Unless authorized under Ohio R.C. [Chapter 3719][ORC Chapter 3719],
-[4715][ORC Chapter 4715], [4729][ORC Chapter 4729], [4731][ORC Chapter 4731],
-[4741][ORC Chapter 4741] or [4765][ORC Chapter 4765], no person shall possess an
+2. _(b)_ Unless authorized under Ohio R.C. [Chapter 3719][ORC 3719],
+[4715][ORC 4715], [4729][ORC 4729], [4731][ORC 4731],
+[4741][ORC 4741] or [4765][ORC 4765], no person shall possess an
 open cartridge of nitrous oxide in either of the following circumstances:
 
     1. _(1)_ While operating or being a passenger in or on a motor vehicle on a
@@ -1188,7 +1175,7 @@ harvesting, manufacturing, compounding, converting, producing, processing,
 preparing, testing, analyzing, packaging, repackaging, storing, containing,
 concealing, injecting, ingesting, inhaling or otherwise introducing into the
 human body, a controlled substance in violation of this chapter or Ohio R.C.
-[Chapter 2925][ORC Chapter 2925]. "Drug paraphernalia" includes, but is not
+[Chapter 2925][ORC 2925]. "Drug paraphernalia" includes, but is not
 limited to, any of the following equipment, products or materials that are used
 by the offender, intended by the offender for use or designated by the offender
 for use, in any of the following manners:
@@ -1251,7 +1238,7 @@ other relevant factors, the following:
     2. _(2)_ The proximity in time or space of the equipment, product or
     material, or of the act relating to the equipment, product or material, to a
     violation of any provision of this chapter or Ohio R.C. [Chapter 2925][ORC
-    Chapter 2925];
+    2925];
 
     3. _(3)_ The proximity of the equipment, product or material to any
     controlled substance;
@@ -1263,10 +1250,10 @@ other relevant factors, the following:
     anyone in control, of the equipment, product or material, to deliver it to
     any person whom the owner or person in control of the equipment, product or
     material knows intends to use the object to facilitate a violation of any
-    provision of this chapter or Ohio R.C. [Chapter 2925][ORC Chapter 2925]. A
+    provision of this chapter or Ohio R.C. [Chapter 2925][ORC 2925]. A
     finding that the owner, or anyone in control, of the equipment, product or
     material, is not guilty of a violation of any other provision of this
-    chapter or Ohio R.C. [Chapter 2925][ORC Chapter 2925], does not prevent a
+    chapter or Ohio R.C. [Chapter 2925][ORC 2925], does not prevent a
     finding that the equipment, product or material was intended or designed by
     the offender for use as drug paraphernalia;
 
@@ -1325,11 +1312,11 @@ other relevant factors, the following:
     injecting, ingesting, inhaling or otherwise introducing into the human body
     marihuana.
 
-5. _(e)_ Notwithstanding Ohio R.C. [Chapter 2981][ORC Chapter 2981], any drug
+5. _(e)_ Notwithstanding Ohio R.C. [Chapter 2981][ORC 2981], any drug
 paraphernalia that was used, possessed, sold or manufactured in violation of
 this section shall be seized, after a conviction for that violation shall be
 forfeited, and upon forfeiture shall be disposed of pursuant to Ohio R.C.
-[2981.12][ORC Section 2981.12].
+[2981.12][ORC 2981.12].
 
 6. _(f)_
 
@@ -1351,13 +1338,13 @@ forfeited, and upon forfeiture shall be disposed of pursuant to Ohio R.C.
 violation of this section, the court may suspend for not more than five years
 the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
-[4511.19][ORC Section 4511.19] or a substantially similar municipal ordinance or
+[4511.19][ORC 4511.19] or a substantially similar municipal ordinance or
 the law of another state or the United States arising out of the same set of
 circumstances as the violation, the court shall suspend the offender's driver's
 or commercial driver's license or permit for not more than five years. If the
 offender is a professionally licensed person, in addition to any other sanction
 imposed for a violation of this section, the court immediately shall comply with
-Ohio R.C. [2925.38][ORC Section 2925.38].\
+Ohio R.C. [2925.38][ORC 2925.38].\
 (ORC 2925.14)
 
 ### 513.121   Marihuana drug paraphernalia
@@ -1390,13 +1377,13 @@ use or possession of marihuana drug paraphernalia, a minor misdemeanor.
 violation of this section, the court may suspend for not more than five years
 the offender's driver's or commercial driver's license or permit. However, if
 the offender pleaded guilty to or was convicted of a violation of Ohio R.C.
-[4511.19][ORC Section 4511.19] or a substantially similar municipal ordinance or
+[4511.19][ORC 4511.19] or a substantially similar municipal ordinance or
 the law of another state or the United States arising out of the same set of
 circumstances as the violation, the court shall suspend the offender's driver's
 or commercial driver's license or permit for not more than five years. If the
 offender is a professionally licensed person, in addition to any other sanction
 imposed for a violation of this section, the court immediately shall comply with
-Ohio R.C. [2925.38][ORC Section 2925.38].\
+Ohio R.C. [2925.38][ORC 2925.38].\
 (ORC 2925.141)
 
 ## 513.13   Counterfeit controlled substances
@@ -1410,7 +1397,7 @@ controlled substances, a misdemeanor of the first degree.\
 3. _(c)_ The court may suspend for not more than five years the offender's
 driver's or commercial driver's license or permit. However, if the offender
 pleaded guilty to or was convicted of a violation of Ohio R.C. [4511.19][ORC
-Section 4511.19] or a substantially similar municipal ordinance or the law of
+4511.19] or a substantially similar municipal ordinance or the law of
 another state or the United States arising out of the same set of circumstances
 as the violation, the court shall suspend the offender's driver's or commercial
 driver's license or permit for not more than five years.\
@@ -1422,79 +1409,79 @@ driver's license or permit for not more than five years.\
 any misdemeanor classification.)
 
 [CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[ORC Chapter 928]:<https://codes.ohio.gov/ohio-revised-code/chapter-928>
-[ORC Chapter 2925]:<https://codes.ohio.gov/ohio-revised-code/chapter-2925>
-[ORC Chapter 2981]:<https://codes.ohio.gov/ohio-revised-code/chapter-2981>
-[ORC Chapter 3314]:<https://codes.ohio.gov/ohio-revised-code/chapter-3314>
-[ORC Chapter 3719]:<https://codes.ohio.gov/ohio-revised-code/chapter-3719>
-[ORC Chapter 3767]:<https://codes.ohio.gov/ohio-revised-code/chapter-3767>
-[ORC Chapter 4701]:<https://codes.ohio.gov/ohio-revised-code/chapter-4701>
-[ORC Chapter 4703]:<https://codes.ohio.gov/ohio-revised-code/chapter-4703>
-[ORC Chapter 4707]:<https://codes.ohio.gov/ohio-revised-code/chapter-4707>
-[ORC Chapter 4709]:<https://codes.ohio.gov/ohio-revised-code/chapter-4709>
-[ORC Chapter 4710]:<https://codes.ohio.gov/ohio-revised-code/chapter-4710>
-[ORC Chapter 4713]:<https://codes.ohio.gov/ohio-revised-code/chapter-4713>
-[ORC Chapter 4715]:<https://codes.ohio.gov/ohio-revised-code/chapter-4715>
-[ORC Chapter 4717]:<https://codes.ohio.gov/ohio-revised-code/chapter-4717>
-[ORC Chapter 4723]:<https://codes.ohio.gov/ohio-revised-code/chapter-4723>
-[ORC Chapter 4725]:<https://codes.ohio.gov/ohio-revised-code/chapter-4725>
-[ORC Chapter 4727]:<https://codes.ohio.gov/ohio-revised-code/chapter-4727>
-[ORC Chapter 4728]:<https://codes.ohio.gov/ohio-revised-code/chapter-4728>
-[ORC Chapter 4729]:<https://codes.ohio.gov/ohio-revised-code/chapter-4729>
-[ORC Chapter 4730]:<https://codes.ohio.gov/ohio-revised-code/chapter-4730>
-[ORC Chapter 4731]:<https://codes.ohio.gov/ohio-revised-code/chapter-4731>
-[ORC Chapter 4732]:<https://codes.ohio.gov/ohio-revised-code/chapter-4732>
-[ORC Chapter 4733]:<https://codes.ohio.gov/ohio-revised-code/chapter-4733>
-[ORC Chapter 4734]:<https://codes.ohio.gov/ohio-revised-code/chapter-4734>
-[ORC Chapter 4735]:<https://codes.ohio.gov/ohio-revised-code/chapter-4735>
-[ORC Chapter 4736]:<https://codes.ohio.gov/ohio-revised-code/chapter-4736>
-[ORC Chapter 4737]:<https://codes.ohio.gov/ohio-revised-code/chapter-4737>
-[ORC Chapter 4738]:<https://codes.ohio.gov/ohio-revised-code/chapter-4738>
-[ORC Chapter 4739]:<https://codes.ohio.gov/ohio-revised-code/chapter-4739>
-[ORC Chapter 4741]:<https://codes.ohio.gov/ohio-revised-code/chapter-4741>
-[ORC Chapter 4747]:<https://codes.ohio.gov/ohio-revised-code/chapter-4747>
-[ORC Chapter 4749]:<https://codes.ohio.gov/ohio-revised-code/chapter-4749>
-[ORC Chapter 4751]:<https://codes.ohio.gov/ohio-revised-code/chapter-4751>
-[ORC Chapter 4753]:<https://codes.ohio.gov/ohio-revised-code/chapter-4753>
-[ORC Chapter 4755]:<https://codes.ohio.gov/ohio-revised-code/chapter-4755>
-[ORC Chapter 4757]:<https://codes.ohio.gov/ohio-revised-code/chapter-4757>
-[ORC Chapter 4759]:<https://codes.ohio.gov/ohio-revised-code/chapter-4759>
-[ORC Chapter 4761]:<https://codes.ohio.gov/ohio-revised-code/chapter-4761>
-[ORC Chapter 4763]:<https://codes.ohio.gov/ohio-revised-code/chapter-4763>
-[ORC Chapter 4764]:<https://codes.ohio.gov/ohio-revised-code/chapter-4764>
-[ORC Chapter 4765]:<https://codes.ohio.gov/ohio-revised-code/chapter-4765>
-[ORC Section 928.03]:<https://codes.ohio.gov/ohio-revised-code/section-928.03>
-[ORC Section 2913.01]:<https://codes.ohio.gov/ohio-revised-code/section-2913.01>
-[ORC Section 2913.02]:<https://codes.ohio.gov/ohio-revised-code/section-2913.02>
-[ORC Section 2919.16]:<https://codes.ohio.gov/ohio-revised-code/section-2919.16>
-[ORC Section 2925.01]:<https://codes.ohio.gov/ohio-revised-code/section-2925.01>
-[ORC Section 2925.02]:<https://codes.ohio.gov/ohio-revised-code/section-2925.02>
-[ORC Section 2925.03]:<https://codes.ohio.gov/ohio-revised-code/section-2925.03>
-[ORC Section 2925.03]:<https://codes.ohio.gov/ohio-revised-code/section-2925.03>
-[ORC Section 2925.11]:<https://codes.ohio.gov/ohio-revised-code/section-2925.11>
-[ORC Section 2925.13]:<https://codes.ohio.gov/ohio-revised-code/section-2925.13>
-[ORC Section 2925.38]:<https://codes.ohio.gov/ohio-revised-code/section-2925.38>
-[ORC Section 2925.50]:<https://codes.ohio.gov/ohio-revised-code/section-2925.50>
-[ORC Section 2925.51]:<https://codes.ohio.gov/ohio-revised-code/section-2925.51>
-[ORC Section 2929.01]:<https://codes.ohio.gov/ohio-revised-code/section-2929.01>
-[ORC Section 2929.11]:<https://codes.ohio.gov/ohio-revised-code/section-2929.11>
-[ORC Section 2929.13]:<https://codes.ohio.gov/ohio-revised-code/section-2929.13>
-[ORC Section 2929.141]:<https://codes.ohio.gov/ohio-revised-code/section-2929.141>
-[ORC Section 2930.01]:<https://codes.ohio.gov/ohio-revised-code/section-2930.01>
-[ORC Section 2935.01]:<https://codes.ohio.gov/ohio-revised-code/section-2935.01>
-[ORC Section 2967.28]:<https://codes.ohio.gov/ohio-revised-code/section-2967.28>
-[ORC Section 2981.12]:<https://codes.ohio.gov/ohio-revised-code/section-2981.12>
-[ORC Section 3301.07]:<https://codes.ohio.gov/ohio-revised-code/section-3301.07>
-[ORC Section 3715.63]:<https://codes.ohio.gov/ohio-revised-code/section-3715.63>
-[ORC Section 3719.01]:<https://codes.ohio.gov/ohio-revised-code/section-3719.01>
-[ORC Section 3719.01]:<https://codes.ohio.gov/ohio-revised-code/section-3719.01>
-[ORC Section 3719.05]:<https://codes.ohio.gov/ohio-revised-code/section-3719.05>
-[ORC Section 3719.07]:<https://codes.ohio.gov/ohio-revised-code/section-3719.07>
-[ORC Section 3719.011]:<https://codes.ohio.gov/ohio-revised-code/section-3719.011>
-[ORC Section 3719.70]:<https://codes.ohio.gov/ohio-revised-code/section-3719.70>
-[ORC Section 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
-[ORC Section 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
-[ORC Section 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
-[ORC Section 4729.01]:<https://codes.ohio.gov/ohio-revised-code/section-4729.01>
-[ORC Section 4729.291]:<https://codes.ohio.gov/ohio-revised-code/section-4729.291>
-[ORC Section 5119.01]:<https://codes.ohio.gov/ohio-revised-code/section-5119.01>
+[ORC 928]:<https://codes.ohio.gov/ohio-revised-code/chapter-928>
+[ORC 2925]:<https://codes.ohio.gov/ohio-revised-code/chapter-2925>
+[ORC 2981]:<https://codes.ohio.gov/ohio-revised-code/chapter-2981>
+[ORC 3314]:<https://codes.ohio.gov/ohio-revised-code/chapter-3314>
+[ORC 3719]:<https://codes.ohio.gov/ohio-revised-code/chapter-3719>
+[ORC 3767]:<https://codes.ohio.gov/ohio-revised-code/chapter-3767>
+[ORC 4701]:<https://codes.ohio.gov/ohio-revised-code/chapter-4701>
+[ORC 4703]:<https://codes.ohio.gov/ohio-revised-code/chapter-4703>
+[ORC 4707]:<https://codes.ohio.gov/ohio-revised-code/chapter-4707>
+[ORC 4709]:<https://codes.ohio.gov/ohio-revised-code/chapter-4709>
+[ORC 4710]:<https://codes.ohio.gov/ohio-revised-code/chapter-4710>
+[ORC 4713]:<https://codes.ohio.gov/ohio-revised-code/chapter-4713>
+[ORC 4715]:<https://codes.ohio.gov/ohio-revised-code/chapter-4715>
+[ORC 4717]:<https://codes.ohio.gov/ohio-revised-code/chapter-4717>
+[ORC 4723]:<https://codes.ohio.gov/ohio-revised-code/chapter-4723>
+[ORC 4725]:<https://codes.ohio.gov/ohio-revised-code/chapter-4725>
+[ORC 4727]:<https://codes.ohio.gov/ohio-revised-code/chapter-4727>
+[ORC 4728]:<https://codes.ohio.gov/ohio-revised-code/chapter-4728>
+[ORC 4729]:<https://codes.ohio.gov/ohio-revised-code/chapter-4729>
+[ORC 4730]:<https://codes.ohio.gov/ohio-revised-code/chapter-4730>
+[ORC 4731]:<https://codes.ohio.gov/ohio-revised-code/chapter-4731>
+[ORC 4732]:<https://codes.ohio.gov/ohio-revised-code/chapter-4732>
+[ORC 4733]:<https://codes.ohio.gov/ohio-revised-code/chapter-4733>
+[ORC 4734]:<https://codes.ohio.gov/ohio-revised-code/chapter-4734>
+[ORC 4735]:<https://codes.ohio.gov/ohio-revised-code/chapter-4735>
+[ORC 4736]:<https://codes.ohio.gov/ohio-revised-code/chapter-4736>
+[ORC 4737]:<https://codes.ohio.gov/ohio-revised-code/chapter-4737>
+[ORC 4738]:<https://codes.ohio.gov/ohio-revised-code/chapter-4738>
+[ORC 4739]:<https://codes.ohio.gov/ohio-revised-code/chapter-4739>
+[ORC 4741]:<https://codes.ohio.gov/ohio-revised-code/chapter-4741>
+[ORC 4747]:<https://codes.ohio.gov/ohio-revised-code/chapter-4747>
+[ORC 4749]:<https://codes.ohio.gov/ohio-revised-code/chapter-4749>
+[ORC 4751]:<https://codes.ohio.gov/ohio-revised-code/chapter-4751>
+[ORC 4753]:<https://codes.ohio.gov/ohio-revised-code/chapter-4753>
+[ORC 4755]:<https://codes.ohio.gov/ohio-revised-code/chapter-4755>
+[ORC 4757]:<https://codes.ohio.gov/ohio-revised-code/chapter-4757>
+[ORC 4759]:<https://codes.ohio.gov/ohio-revised-code/chapter-4759>
+[ORC 4761]:<https://codes.ohio.gov/ohio-revised-code/chapter-4761>
+[ORC 4763]:<https://codes.ohio.gov/ohio-revised-code/chapter-4763>
+[ORC 4764]:<https://codes.ohio.gov/ohio-revised-code/chapter-4764>
+[ORC 4765]:<https://codes.ohio.gov/ohio-revised-code/chapter-4765>
+[ORC 928.03]:<https://codes.ohio.gov/ohio-revised-code/section-928.03>
+[ORC 2913.01]:<https://codes.ohio.gov/ohio-revised-code/section-2913.01>
+[ORC 2913.02]:<https://codes.ohio.gov/ohio-revised-code/section-2913.02>
+[ORC 2919.16]:<https://codes.ohio.gov/ohio-revised-code/section-2919.16>
+[ORC 2925.01]:<https://codes.ohio.gov/ohio-revised-code/section-2925.01>
+[ORC 2925.02]:<https://codes.ohio.gov/ohio-revised-code/section-2925.02>
+[ORC 2925.03]:<https://codes.ohio.gov/ohio-revised-code/section-2925.03>
+[ORC 2925.03]:<https://codes.ohio.gov/ohio-revised-code/section-2925.03>
+[ORC 2925.11]:<https://codes.ohio.gov/ohio-revised-code/section-2925.11>
+[ORC 2925.13]:<https://codes.ohio.gov/ohio-revised-code/section-2925.13>
+[ORC 2925.38]:<https://codes.ohio.gov/ohio-revised-code/section-2925.38>
+[ORC 2925.50]:<https://codes.ohio.gov/ohio-revised-code/section-2925.50>
+[ORC 2925.51]:<https://codes.ohio.gov/ohio-revised-code/section-2925.51>
+[ORC 2929.01]:<https://codes.ohio.gov/ohio-revised-code/section-2929.01>
+[ORC 2929.11]:<https://codes.ohio.gov/ohio-revised-code/section-2929.11>
+[ORC 2929.13]:<https://codes.ohio.gov/ohio-revised-code/section-2929.13>
+[ORC 2929.141]:<https://codes.ohio.gov/ohio-revised-code/section-2929.141>
+[ORC 2930.01]:<https://codes.ohio.gov/ohio-revised-code/section-2930.01>
+[ORC 2935.01]:<https://codes.ohio.gov/ohio-revised-code/section-2935.01>
+[ORC 2967.28]:<https://codes.ohio.gov/ohio-revised-code/section-2967.28>
+[ORC 2981.12]:<https://codes.ohio.gov/ohio-revised-code/section-2981.12>
+[ORC 3301.07]:<https://codes.ohio.gov/ohio-revised-code/section-3301.07>
+[ORC 3715.63]:<https://codes.ohio.gov/ohio-revised-code/section-3715.63>
+[ORC 3719.01]:<https://codes.ohio.gov/ohio-revised-code/section-3719.01>
+[ORC 3719.01]:<https://codes.ohio.gov/ohio-revised-code/section-3719.01>
+[ORC 3719.05]:<https://codes.ohio.gov/ohio-revised-code/section-3719.05>
+[ORC 3719.07]:<https://codes.ohio.gov/ohio-revised-code/section-3719.07>
+[ORC 3719.011]:<https://codes.ohio.gov/ohio-revised-code/section-3719.011>
+[ORC 3719.70]:<https://codes.ohio.gov/ohio-revised-code/section-3719.70>
+[ORC 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
+[ORC 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
+[ORC 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
+[ORC 4729.01]:<https://codes.ohio.gov/ohio-revised-code/section-4729.01>
+[ORC 4729.291]:<https://codes.ohio.gov/ohio-revised-code/section-4729.291>
+[ORC 5119.01]:<https://codes.ohio.gov/ohio-revised-code/section-5119.01>

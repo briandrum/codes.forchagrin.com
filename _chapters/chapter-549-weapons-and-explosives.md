@@ -26,7 +26,7 @@ title: "Chapter 549: Weapons and Explosives"
 ## Cross references
 
 * See sectional histories for similar State law
-* License or permit to possess dangerous ordnance - see Ohio R.C. [2923.18][ORC Section 2923.18]
+* License or permit to possess dangerous ordnance - see Ohio R.C. [2923.18][ORC 2923.18]
 * Hunting prohibited - see GEN. OFF. 505.11
 * Reporting gunshot and stab wounds - see GEN. OFF. 525.05(b)
 * Property destruction by tear gas device, etc. - see GEN. OFF. 541.04
@@ -176,49 +176,47 @@ Transportation in its regulations and includes, but is not limited to, dynamite,
 black powder, pellet powders, initiating explosives, blasting caps, electric
 blasting caps, safety fuses, fuse igniters, squibs, cordeau detonant fuses,
 instantaneous fuses, and igniter cords and igniters. "Explosive" does not
-include "fireworks", as defined in Ohio R.C. [3743.01][ORC Section 3743.01], or
+include "fireworks", as defined in Ohio R.C. [3743.01][ORC 3743.01], or
 any substance or material otherwise meeting the definition of explosive set
 forth in this section that is manufactured, sold, possessed, transported, stored
-or used in any activity described in Ohio R.C. [3743.80][ORC Section 3743.80],
+or used in any activity described in Ohio R.C. [3743.80][ORC 3743.80],
 provided the activity is conducted in accordance with all applicable laws, rules
 and regulations, including, but not limited to, the provisions of Ohio R.C.
-[3743.80][ORC Section 3743.80], and the rules of the Fire Marshal adopted
-pursuant to Ohio R.C. [3737.82][ORC Section 3737.82].
+[3743.80][ORC 3743.80], and the rules of the Fire Marshal adopted
+pursuant to Ohio R.C. [3737.82][ORC 3737.82].
 
 14. _(n)_
 
     1. _(1)_ "Concealed handgun license" or "license to carry a concealed
     handgun" means, subject to subsection (n)(2) of this section, a license or
     temporary emergency license to carry a concealed handgun issued under Ohio
-    R.C. [2923.125][ORC Section 2923.125] or 2923.1213 or a license to carry a
+    R.C. [2923.125][ORC 2923.125] or 2923.1213 or a license to carry a
     concealed handgun issued by another state with which the Attorney General
     has entered into a reciprocity agreement under Ohio R.C. [109.69][ORC
-    Section 109.69].
+    109.69].
 
     2. _(2)_ A reference in any provision of the Ohio Revised Code to a
-    concealed handgun license issued under Ohio R.C. [2923.125][ORC Section
-    2923.125] or a license to carry a concealed handgun issued under Ohio R.C.
-    [2923.125][ORC Section 2923.125] means only a license of the type that is
+    concealed handgun license issued under Ohio R.C. [2923.125][ORC 2923.125] or a license to carry a concealed handgun issued under Ohio R.C.
+    [2923.125][ORC 2923.125] means only a license of the type that is
     specified in that section. A reference in any provision of the Ohio Revised
     Code to a concealed handgun license issued under Ohio R.C. [2923.1213][ORC
-    Section 2923.1213], a licence to carry a concealed handgun issued under Ohio
-    R.C. [2923.1213][ORC Section 2923.1213], or a license to carry a concealed
+    2923.1213], a licence to carry a concealed handgun issued under Ohio
+    R.C. [2923.1213][ORC 2923.1213], or a license to carry a concealed
     handgun on a temporary emergency basis means only a license of the type that
-    is specified in Ohio R.C. [2923.1213][ORC Section 2923.1213]. A reference in
+    is specified in Ohio R.C. [2923.1213][ORC 2923.1213]. A reference in
     any provision of the Ohio Revised Code to a concealed handgun license issued
     by another state or a license to carry a concealed handgun issued by another
     state means only a license issued by another state with which the Attorney
     General has entered into a reciprocity agreement under Ohio R.C.
-    [109.69][ORC Section 109.69].
+    [109.69][ORC 109.69].
 
 15. _(o)_ "Valid concealed handgun license" or "valid license to carry a
 concealed handgun" means a concealed handgun license that is currently valid,
 that is not under a suspension under division (A)(1) of Ohio R.C. [2923.128][ORC
-Section 2923.128], under Ohio R.C. [2923.1213][ORC Section 2923.1213], or under
+2923.128], under Ohio R.C. [2923.1213][ORC 2923.1213], or under
 a suspension provision of the state other than this State in which the license
 was issued, and that has not been revoked under division (B)(1) of Ohio R.C.
-[2923.128][ORC Section 2923.128], under Ohio R.C. [2923.1213][ORC Section
-2923.1213] or under a revocation provision of the state other than this State in
+[2923.128][ORC 2923.128], under Ohio R.C. [2923.1213][ORC 2923.1213] or under a revocation provision of the state other than this State in
 which the license was issued.
 
 16. _(p)_ "Misdemeanor punishable by imprisonment for a term exceeding one year"
@@ -298,23 +296,23 @@ of the following:
         2. _(B)_ Any person who is employed in this State, who is authorized to
         carry concealed weapons or dangerous ordnance or is authorized to carry
         handguns, and who is subject to and in compliance with the requirements
-        of Ohio R.C. [109.801][ORC Section 109.801] unless the appointing
+        of Ohio R.C. [109.801][ORC 109.801] unless the appointing
         authority of the person has expressly specified that the exemption
         provided in subsection (c)(1)B. hereof does not apply to the person.
 
         3. _(C)_ A person's transportation or storage of a firearm, other than a
         firearm described in divisions (G) to (M) of Ohio R.C. [2923.11][ORC
-        Section 2923.11] in a motor vehicle for any lawful purpose if the
+        2923.11] in a motor vehicle for any lawful purpose if the
         firearm is not on the actor's person;
 
         4. _(D)_ A person's storage or possession of a firearm, other than a
         firearm described in divisions (G) to (M) of Ohio R.C. [2923.11][ORC
-        Section 2923.11] in the actor's own home for any lawful purpose.
+        2923.11] in the actor's own home for any lawful purpose.
 
     2. _(2)_ Subsection (a)(2) of this section does not apply to any person who,
     at the time of the alleged carrying or possession of a handgun, is carrying
     a valid concealed handgun license, unless the person knowingly is in a place
-    described in division (B) of Ohio R.C. [2923.126][ORC Section 2923.126].
+    described in division (B) of Ohio R.C. [2923.126][ORC 2923.126].
 
 4. _(d)_ It is an affirmative defense to a charge under subsection (a)(1) of
 this section of carrying or having control of a weapon other than a handgun and
@@ -365,7 +363,7 @@ of the charge.
     2. _(2)_ If a person being arrested for a violation of subsection (a)(2) of
     this section promptly produces a valid concealed handgun license, and if at
     the time of the violation the person was not knowingly in a place described
-    in division (B) of Ohio R.C. [2923.126][ORC Section 2923.126], the officer
+    in division (B) of Ohio R.C. [2923.126][ORC 2923.126], the officer
     shall not arrest the person for a violation of that subsection. If the
     person is not able to promptly produce any concealed handgun license and if
     the person is not in a place described in that section, the officer may
@@ -382,7 +380,7 @@ of the charge.
 
             2. _(2)_ At the time of the arrest, the offender was not knowingly
             in a place described in division (B) of Ohio R.C. [2923.126][ORC
-            Section 2923.126].
+            2923.126].
 
         2. _(B)_ The offender shall be guilty of a misdemeanor and shall be
         fined five hundred dollars ($500.00) if all of the following apply:
@@ -396,11 +394,11 @@ of the charge.
             enforcement agency that employed the arresting officer, and the
             offender waives in writing the offender's right to a speedy trial on
             the charge of the violation that is provided in Ohio R.C.
-            [2945.71][ORC Section 2945.71].
+            [2945.71][ORC 2945.71].
 
             3. _(3)_ At the time of the commission of the offense, the offender
             was not knowingly in a place described in division (B) of Ohio R.C.
-            [2923.126][ORC Section 2923.126].
+            [2923.126][ORC 2923.126].
 
         3. _(C)_ If neither subsection (f)(2)A. nor B. of this section applies,
         the offender shall be punished under subsection (f)(1) of this section.
@@ -410,24 +408,23 @@ of the charge.
     first degree, and, in addition to any other penalty or sanction imposed for
     a violation of subsection (b)(1) hereof, the offender's concealed handgun
     license shall be suspended pursuant to Ohio R.C. [2923.128(A)(2)][ORC
-    Section 2923.128]. If, at the time of the stop of the offender for a law
+    2923.128]. If, at the time of the stop of the offender for a law
     enforcement purpose that was the basis of the violation, any law enforcement
     officer involved with the stop had actual knowledge that the offender has
     been issued a concealed handgun license, carrying concealed weapons in
     violation of division (b)(1) of this section is a minor misdemeanor, and the
     offender's concealed handgun license shall not be suspended pursuant to
-    division (A)(2) of Ohio R.C. [2923.128][ORC Section 2923.128].
+    division (A)(2) of Ohio R.C. [2923.128][ORC 2923.128].
 
     4. _(4)_ Except as otherwise provided herein, carrying concealed weapons in
     violation of subsection (b)(2) or (b)(4) hereof is a misdemeanor of the
     first degree. If the offender has previously been convicted or pleaded
-    guilty to a violation of Ohio R.C. [2923.12(B)(2)][ORC Section 2923.12] or
+    guilty to a violation of Ohio R.C. [2923.12(B)(2)][ORC 2923.12] or
     (B)(4) or a substantially equivalent municipal ordinance, carrying concealed
     weapons is a felony and shall be prosecuted under appropriate state law. In
     addition to any other penalty or sanction imposed for a violation of
     subsection (b)(2) or (b)(3) hereof, the offender's concealed handgun license
-    shall be suspended pursuant to Ohio R.C. [2923.128(A)(2)][ORC Section
-    2923.128].\
+    shall be suspended pursuant to Ohio R.C. [2923.128(A)(2)][ORC 2923.128].\
     (ORC 2923.12)
 
     5. _(5)_ Carrying concealed weapons in violation of division (B)(3) of this
@@ -444,7 +441,7 @@ law from possessing the firearm, and the firearm is not contraband, the officer
 shall return the firearm to the person at the termination of the stop. If a
 court orders a law enforcement officer to return a firearm to a person pursuant
 to the requirement set forth in this subsection, division (B) of Ohio R.C.
-[2923.163][ORC Section 2923.163] applies.
+[2923.163][ORC 2923.163] applies.
 
 8. _(h)_ For purposes of this section, "deadly weapon" or "weapon" does not
 include any knife, razor, or cutting instrument if the instrument was not used
@@ -485,12 +482,11 @@ is carried in one of the following ways:
 active duty member of the armed forces of the United States and is carrying a
 valid military identification card and documentation of successful completion of
 firearms training that meets or exceeds the training requirements described in
-division (G)(1) of Ohio R.C. [2923.125][ORC Section 2923.125], who is the driver
+division (G)(1) of Ohio R.C. [2923.125][ORC 2923.125], who is the driver
 or an occupant of a motor vehicle that is stopped as a result of a traffic stop
 or a stop for another law enforcement purpose or is the driver or an occupant of
 a commercial motor vehicle that is stopped by an employee of the motor carrier
-enforcement unit for the purposes defined in Ohio R.C. [5503.34][ORC Section
-5503.34], and who is transporting or has a loaded handgun in the motor vehicle
+enforcement unit for the purposes defined in Ohio R.C. [5503.34][ORC 5503.34], and who is transporting or has a loaded handgun in the motor vehicle
 or commercial motor vehicle in any manner, shall do any of the following:
 
     1. _(1)_ Fail to promptly inform any law enforcement officer who approaches
@@ -528,7 +524,7 @@ or commercial motor vehicle in any manner, shall do any of the following:
         2. _(B)_ Any person who is employed in this State, who is authorized to
         carry or have loaded or accessible firearms in motor vehicles, and who
         is subject to and in compliance with the requirements of Ohio R.C.
-        [109.801][ORC Section 109.801], unless the appointing authority of the
+        [109.801][ORC 109.801], unless the appointing authority of the
         person has expressly specified that the exemption provided in subsection
         (c)(1)B. does not apply to the person.
 
@@ -541,27 +537,26 @@ or commercial motor vehicle in any manner, shall do any of the following:
         of the armed forces of the United States and is carrying a valid
         military identification card and documentation of successful completion
         of firearms training that meets or exceeds the training requirements
-        described in division (G)(1) of Ohio R.C. [2923.125][ORC Section
-        2923.125].
+        described in division (G)(1) of Ohio R.C. [2923.125][ORC 2923.125].
 
         2. _(B)_ The person transporting or possessing the handgun is not
         knowingly in a place described in division (B) of Ohio R.C.
-        [2923.126][ORC Section 2923.126].
+        [2923.126][ORC 2923.126].
 
     3. _(3)_ Subsection (a) of this section does not apply to a person if all of
     the following apply:
 
         1. _(A)_ The person possesses a valid all-purpose vehicle permit issued
-        under Ohio R.C. [1533.103][ORC Section 1533.103] by the Chief of the
+        under Ohio R.C. [1533.103][ORC 1533.103] by the Chief of the
         Division of Wildlife.
 
         2. _(B)_ The person is on or in an all-purpose vehicle as defined in
-        Ohio R.C. [1531.01][ORC Section 1531.01] on private or publicly owned
+        Ohio R.C. [1531.01][ORC 1531.01] on private or publicly owned
         lands or on or in a motor vehicle during the open hunting season for a
         wild quadruped or game bird.
 
         3. _(C)_ The person is on or in an all-purpose vehicle as defined in
-        Ohio R.C. [1531.01][ORC Section 1531.01] or a motor vehicle that is
+        Ohio R.C. [1531.01][ORC 1531.01] or a motor vehicle that is
         parked on a road that is owned or administered by the Division of
         Wildlife.
 
@@ -592,7 +587,7 @@ or commercial motor vehicle in any manner, shall do any of the following:
     existed prior to September 30, 2011, and if the conduct that was the basis
     of the violation no longer would be a violation of subsection (b) of this
     section on or after September 30, 2011, the person may file an application
-    under Ohio R.C. [2953.37][ORC Section 2953.37] requesting the expungement of
+    under Ohio R.C. [2953.37][ORC 2953.37] requesting the expungement of
     the record of conviction. If a person is convicted of, was convicted of,
     pleads guilty to, or has pleaded guilty to a violation of subsection (a) of
     this section as the subsection existed prior to September 30, 2011, and if
@@ -600,7 +595,7 @@ or commercial motor vehicle in any manner, shall do any of the following:
     violation of subsection (a) of this section on or after September 30, 2011,
     due to the application of subsection (b)(4) of this section as it exists on
     and after September 30, 2011, the person may file an application under Ohio
-    R.C. [2953.37][ORC Section 2953.37] requesting the expungement of the record
+    R.C. [2953.37][ORC 2953.37] requesting the expungement of the record
     of conviction.
 
 6. _(f)_ Whoever violates this section is guilty of improperly handling firearms
@@ -609,22 +604,22 @@ of the fourth degree. Except as otherwise provided in this subsection, a
 violation of subsection (b)(1) or (b)(2) of this section is a misdemeanor of the
 first degree, and, in addition to any other penalty or sanction imposed for the
 violation, the offender's concealed handgun license shall be suspended pursuant
-to Ohio R.C. [2923.128(A)(2)][ORC Section 2923.128]. If at the time of the stop
+to Ohio R.C. [2923.128(A)(2)][ORC 2923.128]. If at the time of the stop
 of the offender for a traffic stop, for another law enforcement purpose, or for
-a purpose defined in Ohio R.C. [5503.34][ORC Section 5503.34] that was the basis
+a purpose defined in Ohio R.C. [5503.34][ORC 5503.34] that was the basis
 of the violation any law enforcement officer involved with the stop or the
 employee of the motor carrier enforcement unit who made the stop had actual
 knowledge of the offender's status as a licensee, a violation of subsection
 (b)(1) or (b)(2) of this section is a minor misdemeanor, and the offender's
 concealed handgun license shall not be suspended pursuant to division (A)(2) of
-Ohio R.C. [2923.128][ORC Section 2923.128]. A violation of subsection (b)(3) or
+Ohio R.C. [2923.128][ORC 2923.128]. A violation of subsection (b)(3) or
 (4) of this section is a misdemeanor of the first degree or, if the offender
 previously has been convicted of or pleaded guilty to a violation of subsection
 (b)(3) or (4) of this section, a felony and shall be prosecuted under
 appropriate State law. In addition to any other penalty or sanction imposed for
 a misdemeanor violation of subsection (b)(3) or (4) of this section, the
 offender's concealed handgun license shall be suspended pursuant to Ohio R.C.
-[2923.128(A)(2)][ORC Section 2923.128].
+[2923.128(A)(2)][ORC 2923.128].
 
 7. _(g)_ If a law enforcement officer stops a motor vehicle for a traffic stop
 or any other purpose, if any person in the motor vehicle surrenders a firearm to
@@ -635,12 +630,12 @@ prohibited by law from possessing the firearm, and the firearm is not
 contraband, the officer shall return the firearm to the person at the
 termination of the stop. If a court orders a law enforcement officer to return a
 firearm to a person pursuant to the requirement set forth in this subsection,
-division (B) of Ohio R.C. [2923.163][ORC Section 2923.163] applies.
+division (B) of Ohio R.C. [2923.163][ORC 2923.163] applies.
 
 8. _(h)_ As used in this section:
 
     1. _(1)_ "Motor vehicle", "street" and "highway" have the same meanings as
-    in Ohio R.C. [4511.01][ORC Section 4511.01].
+    in Ohio R.C. [4511.01][ORC 4511.01].
 
     2. _(2)_
 
@@ -693,23 +688,22 @@ division (B) of Ohio R.C. [2923.163][ORC Section 2923.163] applies.
         weapon is uncapped or when the priming charge is removed from the pan.
 
     3. _(3)_ "Commercial motor vehicle" has the same meaning as in Ohio R.C.
-    [4506.25(A)][ORC Section 4506.25].
+    [4506.25(A)][ORC 4506.25].
 
     4. _(4)_ "Motor carrier enforcement unit" means the motor carrier
     enforcement unit in the Department of Public Safety, Division of State
-    Highway Patrol, that is created by Ohio R.C. [5503.34][ORC Section 5503.34].
+    Highway Patrol, that is created by Ohio R.C. [5503.34][ORC 5503.34].
 
 9. _(i)_ Subsection (h)(2) of this section does not affect the authority of a
 person who is carrying a valid concealed handgun license to have one or more
 magazines or speed loaders containing ammunition anywhere in a vehicle, without
 being transported as described in that subsection, as long as no ammunition is
 in a firearm, other than a handgun, in the vehicle other than as permitted under
-any other provision of this chapter or Ohio R.C. [Chapter 2923][ORC Chapter
-2923]. A person who is carrying a valid concealed handgun license may have one
+any other provision of this chapter or Ohio R.C. [Chapter 2923][ORC 2923]. A person who is carrying a valid concealed handgun license may have one
 or more magazines or speed loaders containing ammunition anywhere in a vehicle
 without further restriction, as long as no ammunition is in a firearm, other
 than a handgun, in the vehicle other than as permitted under any provision of
-this chapter or Ohio R.C. [Chapter 2923][ORC Chapter 2923].\
+this chapter or Ohio R.C. [Chapter 2923][ORC 2923].\
 (ORC 2923.16)
 
 ## 549.05   Failure to secure dangerous ordnance
@@ -733,7 +727,7 @@ ordnance, a misdemeanor of the second degree.\
     1. _(1)_ When transferring any dangerous ordnance to another, negligently
     fail to require the transferee to exhibit such identification, license or
     permit showing the transferee to be authorized to acquire dangerous ordnance
-    pursuant to Ohio R.C. [2923.17][ORC Section 2923.17], or negligently fail to
+    pursuant to Ohio R.C. [2923.17][ORC 2923.17], or negligently fail to
     take a complete record of the transaction and forthwith forward a copy of
     such record to the sheriff of the county or safety director or police chief
     of the municipality where the transaction takes place;
@@ -844,7 +838,7 @@ of an object indistinguishable from a firearm in a school safety zone. Except as
 otherwise provided in this subsection, illegal possession of an object
 indistinguishable from a firearm in a school safety zone is a misdemeanor of the
 first degree. If the offender previously has been convicted of a violation of
-Ohio R.C. [2923.122][ORC Section 2923.122], illegal possession of an object
+Ohio R.C. [2923.122][ORC 2923.122], illegal possession of an object
 indistinguishable from a firearm in a school safety zone is a felony and shall
 be prosecuted under appropriate State law.
 
@@ -855,17 +849,15 @@ be prosecuted under appropriate State law.
     subsection (d)(2) of this section, if the offender has not attained nineteen
     years of age, regardless of whether the offender is attending or is enrolled
     in a school operated by a board of education or for which the State Board of
-    Education prescribes minimum standards under Ohio R.C. [3301.07][ORC Section
-    3301.07], the court shall impose upon the offender a class four suspension
+    Education prescribes minimum standards under Ohio R.C. [3301.07][ORC 3301.07], the court shall impose upon the offender a class four suspension
     of the offender's probationary driver's license, restricted license,
     driver's license, commercial driver's license, temporary instruction permit,
     or probationary commercial driver's license that then is in effect from the
-    range specified in division (A)(4) of Ohio R.C. [4510.02][ORC Section
-    4510.02] and shall deny the offender the issuance of any permit or license
+    range specified in division (A)(4) of Ohio R.C. [4510.02][ORC 4510.02] and shall deny the offender the issuance of any permit or license
     of that type during the period of the suspension. If the offender is not a
     resident of this State, the court shall impose a class four suspension of
     the nonresident operating privilege of the offender from the range specified
-    in division (A)(4) of Ohio R.C. [4510.02][ORC Section 4510.02].
+    in division (A)(4) of Ohio R.C. [4510.02][ORC 4510.02].
 
     2. _(2)_ If the offender shows good cause why the court should not suspend
     one of the types of licenses, permits, or privileges specified in subsection
@@ -919,34 +911,34 @@ firearm.\
 to any misdemeanor classification.)
 
 [CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[ORC Chapter 2923]:<https://codes.ohio.gov/ohio-revised-code/chapter-2923>
-[ORC Section 109.69]:<https://codes.ohio.gov/ohio-revised-code/section-109.69>
-[ORC Section 109.801]:<https://codes.ohio.gov/ohio-revised-code/section-109.801>
-[ORC Section 1531.01]:<https://codes.ohio.gov/ohio-revised-code/section-1531.01>
-[ORC Section 1533.103]:<https://codes.ohio.gov/ohio-revised-code/section-1533.103>
-[ORC Section 2923.11]:<https://codes.ohio.gov/ohio-revised-code/section-2923.11>
-[ORC Section 2923.12]:<https://codes.ohio.gov/ohio-revised-code/section-2923.12>
-[ORC Section 2923.17]:<https://codes.ohio.gov/ohio-revised-code/section-2923.17>
-[ORC Section 2923.18]:<https://codes.ohio.gov/ohio-revised-code/section-2923.18>
-[ORC Section 2923.122]:<https://codes.ohio.gov/ohio-revised-code/section-2923.122>
-[ORC Section 2923.125]:<https://codes.ohio.gov/ohio-revised-code/section-2923.125>
-[ORC Section 2923.125]:<https://codes.ohio.gov/ohio-revised-code/section-2923.125>
-[ORC Section 2923.126]:<https://codes.ohio.gov/ohio-revised-code/section-2923.126>
-[ORC Section 2923.126]:<https://codes.ohio.gov/ohio-revised-code/section-2923.126>
-[ORC Section 2923.128]:<https://codes.ohio.gov/ohio-revised-code/section-2923.128>
-[ORC Section 2923.128]:<https://codes.ohio.gov/ohio-revised-code/section-2923.128>
-[ORC Section 2923.163]:<https://codes.ohio.gov/ohio-revised-code/section-2923.163>
-[ORC Section 2923.1213]:<https://codes.ohio.gov/ohio-revised-code/section-2923.1213>
-[ORC Section 2923.1213]:<https://codes.ohio.gov/ohio-revised-code/section-2923.1213>
-[ORC Section 2945.71]:<https://codes.ohio.gov/ohio-revised-code/section-2945.71>
-[ORC Section 2953.37]:<https://codes.ohio.gov/ohio-revised-code/section-2953.37>
-[ORC Section 3301.07]:<https://codes.ohio.gov/ohio-revised-code/section-3301.07>
-[ORC Section 3737.82]:<https://codes.ohio.gov/ohio-revised-code/section-3737.82>
-[ORC Section 3743.01]:<https://codes.ohio.gov/ohio-revised-code/section-3743.01>
-[ORC Section 3743.80]:<https://codes.ohio.gov/ohio-revised-code/section-3743.80>
-[ORC Section 4506.25]:<https://codes.ohio.gov/ohio-revised-code/section-4506.25>
-[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
-[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
-[ORC Section 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
-[ORC Section 5503.34]:<https://codes.ohio.gov/ohio-revised-code/section-5503.34>
-[ORC Section 5503.34]:<https://codes.ohio.gov/ohio-revised-code/section-5503.34>
+[ORC 2923]:<https://codes.ohio.gov/ohio-revised-code/chapter-2923>
+[ORC 109.69]:<https://codes.ohio.gov/ohio-revised-code/section-109.69>
+[ORC 109.801]:<https://codes.ohio.gov/ohio-revised-code/section-109.801>
+[ORC 1531.01]:<https://codes.ohio.gov/ohio-revised-code/section-1531.01>
+[ORC 1533.103]:<https://codes.ohio.gov/ohio-revised-code/section-1533.103>
+[ORC 2923.11]:<https://codes.ohio.gov/ohio-revised-code/section-2923.11>
+[ORC 2923.12]:<https://codes.ohio.gov/ohio-revised-code/section-2923.12>
+[ORC 2923.17]:<https://codes.ohio.gov/ohio-revised-code/section-2923.17>
+[ORC 2923.18]:<https://codes.ohio.gov/ohio-revised-code/section-2923.18>
+[ORC 2923.122]:<https://codes.ohio.gov/ohio-revised-code/section-2923.122>
+[ORC 2923.125]:<https://codes.ohio.gov/ohio-revised-code/section-2923.125>
+[ORC 2923.125]:<https://codes.ohio.gov/ohio-revised-code/section-2923.125>
+[ORC 2923.126]:<https://codes.ohio.gov/ohio-revised-code/section-2923.126>
+[ORC 2923.126]:<https://codes.ohio.gov/ohio-revised-code/section-2923.126>
+[ORC 2923.128]:<https://codes.ohio.gov/ohio-revised-code/section-2923.128>
+[ORC 2923.128]:<https://codes.ohio.gov/ohio-revised-code/section-2923.128>
+[ORC 2923.163]:<https://codes.ohio.gov/ohio-revised-code/section-2923.163>
+[ORC 2923.1213]:<https://codes.ohio.gov/ohio-revised-code/section-2923.1213>
+[ORC 2923.1213]:<https://codes.ohio.gov/ohio-revised-code/section-2923.1213>
+[ORC 2945.71]:<https://codes.ohio.gov/ohio-revised-code/section-2945.71>
+[ORC 2953.37]:<https://codes.ohio.gov/ohio-revised-code/section-2953.37>
+[ORC 3301.07]:<https://codes.ohio.gov/ohio-revised-code/section-3301.07>
+[ORC 3737.82]:<https://codes.ohio.gov/ohio-revised-code/section-3737.82>
+[ORC 3743.01]:<https://codes.ohio.gov/ohio-revised-code/section-3743.01>
+[ORC 3743.80]:<https://codes.ohio.gov/ohio-revised-code/section-3743.80>
+[ORC 4506.25]:<https://codes.ohio.gov/ohio-revised-code/section-4506.25>
+[ORC 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
+[ORC 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
+[ORC 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
+[ORC 5503.34]:<https://codes.ohio.gov/ohio-revised-code/section-5503.34>
+[ORC 5503.34]:<https://codes.ohio.gov/ohio-revised-code/section-5503.34>

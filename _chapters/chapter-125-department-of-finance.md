@@ -34,7 +34,7 @@ title: "Chapter 125: Department of Finance"
 * Director's duties - see CHTR. Art. V, Sec. 3
 * Department establishment - see CHTR. Art. VII, Sec. 1
 * State law application on financial matters - see CHTR. Art. VIII, Sec.1
-* Uniform depository act - see Ohio R.C. [Chapter 135][ORC Chapter 135]
+* Uniform depository act - see Ohio R.C. [Chapter 135][ORC 135]
 
 ## 125.01   Definitions
 
@@ -45,7 +45,7 @@ moneys coming lawfully into the possession of the Municipality's Director of
 Finance.
 
 2. _(b)_ "Eligible depository" or "eligible depositories" means any institution
-mentioned in Ohio R.C. [135.03][ORC Section 135.03], that has an office situated
+mentioned in Ohio R.C. [135.03][ORC 135.03], that has an office situated
 within Cuyahoga County, Ohio, whose accounts are insured by the Federal
 Government or agency thereof.
 
@@ -64,7 +64,7 @@ into between the Municipality and such institution in a form approved by the
 Director of Law in connection with holding collateral securities or other
 securities for the Municipality.
 
-6. _(f)_ "Uniform Depository Act" means Ohio R.C. [Chapter 135][ORC Chapter 135]
+6. _(f)_ "Uniform Depository Act" means Ohio R.C. [Chapter 135][ORC 135]
 and any amendment or supplement thereto. Wherever any provisions of the Uniform
 Depository Act are made applicable under this chapter, such provisions are
 applicable only to the extent that they are not in conflict with or inconsistent
@@ -247,7 +247,7 @@ whereupon the absolute ownership of such collateral securities shall pass to the
 purchaser. Any surplus remaining after deducting the amount due the Municipality
 and any expenses of the sale shall be paid to the depository bank. This
 provision is in addition to any rights of the Municipality to recover under Ohio
-R.C. [Chapter 135][ORC Chapter 135].\
+R.C. [Chapter 135][ORC 135].\
 (Ord. 1986-46. Passed 10-28-86.)
 
 ## 125.06   Pooled collateral security
@@ -368,7 +368,7 @@ eligible for investment:
 
     3. _(3)_ Discount notes of the Federal National Mortgage Association and
     bonds issued by the Homeowners' Loan Corporation as defined in Ohio R.C.
-    [731.56][ORC Section 731.56];
+    [731.56][ORC 731.56];
 
     4. _(4)_ Bonds and notes of the State;
 
@@ -378,7 +378,7 @@ eligible for investment:
 
     6. _(6)_ The Director of Finance or his designee may enter into a repurchase
     agreement with any designated eligible depository mentioned in Ohio R.C.
-    [135.03][ORC Section 135.03], if, and only if, under the terms of which
+    [135.03][ORC 135.03], if, and only if, under the terms of which
     agreement the Director of Finance or his designee purchases for the
     Municipality and such institution agrees unconditionally to repurchase
     within a period of thirty days securities that are direct obligations of, or
@@ -446,8 +446,8 @@ shall be retained by the Director of Finance.
 
     In lieu of such custody, the Director of Finance may deposit such
     securities, obligations or certificates of deposit with a qualified trustee
-    as set forth in Ohio R.C. [135.18(I)][ORC Section 135.18] or
-    [135.181(F)][ORC Section 135.181].
+    as set forth in Ohio R.C. [135.18(I)][ORC 135.18] or
+    [135.181(F)][ORC 135.181].
 
     Notwithstanding the two preceding paragraphs, the Director of Finance is not
     required to take custody or provide for the deposit of securities acquired
@@ -485,8 +485,8 @@ of the Municipality as required by law.
 
 13. _(m)_ In addition to investments as provided in this chapter, the Director
 of Finance may invest in bonds, notes or other obligations of the Municipality,
-including those issued pursuant to Ohio R.C. [725.01][ORC Section 725.01] to
-[725.11][ORC Section 725.11], at a price, rate, maturity or other terms as
+including those issued pursuant to Ohio R.C. [725.01][ORC 725.01] to
+[725.11][ORC 725.11], at a price, rate, maturity or other terms as
 determined by the Director of Finance.\
 (Ord. 1986-46. Passed 10-28-86.)
 
@@ -498,7 +498,7 @@ any liability for the loss of any public moneys deposited or invested pursuant
 to and in compliance with this Chapter 125, including but not limited to, losses
 occasioned by the failure of any depository.
 
-2. _(b)_ Ohio R.C. [731.55][ORC Section 731.55] shall be applicable to the
+2. _(b)_ Ohio R.C. [731.55][ORC 731.55] shall be applicable to the
 Municipality and the insurance authorized by such section may be procured by the
 Director of Finance and the costs of such insurance shall be paid by the
 Municipality.\
@@ -646,11 +646,11 @@ deposited.\
 [CFCO 125.08]:</chapters/chapter-125-department-of-finance/#12508-investments>
 [CFCO 125.10]:</chapters/chapter-125-department-of-finance/#12510-bonds>
 [CFCO 1109.08]:</chapters/chapter-1109-administration-and-enforcement/#110908-fees-and-deposits>
-[ORC Chapter 135]:<https://codes.ohio.gov/ohio-revised-code/chapter-135>
-[ORC Section 135.03]:<https://codes.ohio.gov/ohio-revised-code/section-135.03>
-[ORC Section 135.18]:<https://codes.ohio.gov/ohio-revised-code/section-135.18>
-[ORC Section 135.181]:<https://codes.ohio.gov/ohio-revised-code/section-135.181>
-[ORC Section 725.01]:<https://codes.ohio.gov/ohio-revised-code/section-725.01>
-[ORC Section 725.11]:<https://codes.ohio.gov/ohio-revised-code/section-725.11>
-[ORC Section 731.55]:<https://codes.ohio.gov/ohio-revised-code/section-731.55>
-[ORC Section 731.56]:<https://codes.ohio.gov/ohio-revised-code/section-731.56>
+[ORC 135]:<https://codes.ohio.gov/ohio-revised-code/chapter-135>
+[ORC 135.03]:<https://codes.ohio.gov/ohio-revised-code/section-135.03>
+[ORC 135.18]:<https://codes.ohio.gov/ohio-revised-code/section-135.18>
+[ORC 135.181]:<https://codes.ohio.gov/ohio-revised-code/section-135.181>
+[ORC 725.01]:<https://codes.ohio.gov/ohio-revised-code/section-725.01>
+[ORC 725.11]:<https://codes.ohio.gov/ohio-revised-code/section-725.11>
+[ORC 731.55]:<https://codes.ohio.gov/ohio-revised-code/section-731.55>
+[ORC 731.56]:<https://codes.ohio.gov/ohio-revised-code/section-731.56>

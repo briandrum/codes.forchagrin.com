@@ -172,7 +172,7 @@ section shall prohibit the owner of the solar energy system from requesting or
 obtaining a solar access easement from any person.
 
 6. _(f)_ Solar access easements shall be in compliance with Ohio R.C.
-[5301.63][ORC Section 5301.63] which sets forth the requirements for solar
+[5301.63][ORC 5301.63] which sets forth the requirements for solar
 access. In order to ensure adequate access of solar energy collection devices to
 sunlight, any person may grant a solar access easement. Such easements shall be
 in writing and subject to the same conveyance and recording requirements as
@@ -210,4 +210,4 @@ condition.\
 
 [CFCO 1105.03]:</chapters/chapter-1105-scope-and-application/#110503-objectives>
 [CFCO 1109.04]:</chapters/chapter-1109-administration-and-enforcement/#110904-application-requirements>
-[ORC Section 5301.63]:<https://codes.ohio.gov/ohio-revised-code/section-5301.63>
+[ORC 5301.63]:<https://codes.ohio.gov/ohio-revised-code/section-5301.63>

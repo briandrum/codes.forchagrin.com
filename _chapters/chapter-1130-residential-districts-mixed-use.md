@@ -126,7 +126,7 @@ maintained in accordance with the following area regulations.
 
     2. _(2)_ No lot created after the effective date of this chapter which
     violates this section shall be entitled to a variance from the requirements
-    set forth in Sections 1130.03 to 1130.05.
+    set forth in [Sections 1130.03][CFCO 1130.03] to [1130.05][CFCO 1130.05].
 
     3. _(3)_ Every lot shall have access to it that is determined to be
     sufficient to afford a reasonable means of ingress and egress for public
@@ -433,3 +433,6 @@ For regulations regarding off-street parking and loading, landscaping, lighting,
 signs and environmental performance, refer to Chapters 1141 - 1150 of the
 Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
+
+[CFCO 1130.03]:</chapters/chapter-1130-residential-districts-mixed-use/#113003-permitted-uses>
+[CFCO 1130.05]:</chapters/chapter-1130-residential-districts-mixed-use/#113005-height-regulations>

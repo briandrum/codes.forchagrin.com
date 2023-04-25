@@ -26,15 +26,15 @@ title: "Chapter 1501: Model Codes Adopted"
 
 ## Cross references
 
-* Power to regulate elevators, stairways and fire escapes - See Ohio R.C. [715.26][ORC Section 715.26]
-* Fire protection contracts - see Ohio R.C. [717.02][ORC Section 717.02]
-* Adoption of technical codes - see Ohio R.C. [731.231][ORC Section 731.231]
-* Power to regulate against fires - see Ohio R.C. [737.21][ORC Section 737.21], 737.37
-* Investigation of fires - see Ohio R.C. [737.27][ORC Section 737.27], 3737.08
-* Right to examine buildings - see Ohio R.C. [737.34][ORC Section 737.34] et seq., 3737.14
-* Petroleum liquids and gasses - see Ohio R.C. [3737.17][ORC Section 3737.17] et seq.
-* Dry cleaning and dyeing - see Ohio R.C. [Chapter 3739][ORC Chapter 3739]
-* Gasoline, oils and paints - see Ohio R.C. [Chapter 3741][ORC Chapter 3741]
+* Power to regulate elevators, stairways and fire escapes - See Ohio R.C. [715.26][ORC 715.26]
+* Fire protection contracts - see Ohio R.C. [717.02][ORC 717.02]
+* Adoption of technical codes - see Ohio R.C. [731.231][ORC 731.231]
+* Power to regulate against fires - see Ohio R.C. [737.21][ORC 737.21], 737.37
+* Investigation of fires - see Ohio R.C. [737.27][ORC 737.27], 3737.08
+* Right to examine buildings - see Ohio R.C. [737.34][ORC 737.34] et seq., 3737.14
+* Petroleum liquids and gasses - see Ohio R.C. [3737.17][ORC 3737.17] et seq.
+* Dry cleaning and dyeing - see Ohio R.C. [Chapter 3739][ORC 3739]
+* Gasoline, oils and paints - see Ohio R.C. [Chapter 3741][ORC 3741]
 * Fireworks and explosives - see GEN. OFF. Ch. 149
 * Fire limits - see BLDG. Ch. 1333
 
@@ -120,7 +120,7 @@ covers or other special fire extinguishing systems. In special hazardous
 processes or storage, appliances of more than one type or special system may be
 required.
 
-6. _(f)_ Pursuant to Ohio R.C. [737.27][ORC Section 737.27], the Chief of the
+6. _(f)_ Pursuant to Ohio R.C. [737.27][ORC 737.27], the Chief of the
 Fire Department or members of the Bureau of Fire Prevention shall investigate
 the cause of all fires, bombings, and explosions, examine witnesses, compel the
 attendance of witnesses and the production of books and papers and to do and
@@ -1387,12 +1387,12 @@ enforce this Code.\
 
 [CFCO 1501.99]:</chapters/chapter-1501-model-codes-adopted/#150199-penalty>
 [CFO 2022-19]:</ordinance-2022-19>
-[ORC Chapter 3739]:<https://codes.ohio.gov/ohio-revised-code/chapter-3739>
-[ORC Chapter 3741]:<https://codes.ohio.gov/ohio-revised-code/chapter-3741>
-[ORC Section 715.26]:<https://codes.ohio.gov/ohio-revised-code/section-715.26>
-[ORC Section 717.02]:<https://codes.ohio.gov/ohio-revised-code/section-717.02>
-[ORC Section 731.231]:<https://codes.ohio.gov/ohio-revised-code/section-731.231>
-[ORC Section 737.21]:<https://codes.ohio.gov/ohio-revised-code/section-737.21>
-[ORC Section 737.27]:<https://codes.ohio.gov/ohio-revised-code/section-737.27>
-[ORC Section 737.34]:<https://codes.ohio.gov/ohio-revised-code/section-737.34>
-[ORC Section 3737.17]:<https://codes.ohio.gov/ohio-revised-code/section-3737.17>
+[ORC 3739]:<https://codes.ohio.gov/ohio-revised-code/chapter-3739>
+[ORC 3741]:<https://codes.ohio.gov/ohio-revised-code/chapter-3741>
+[ORC 715.26]:<https://codes.ohio.gov/ohio-revised-code/section-715.26>
+[ORC 717.02]:<https://codes.ohio.gov/ohio-revised-code/section-717.02>
+[ORC 731.231]:<https://codes.ohio.gov/ohio-revised-code/section-731.231>
+[ORC 737.21]:<https://codes.ohio.gov/ohio-revised-code/section-737.21>
+[ORC 737.27]:<https://codes.ohio.gov/ohio-revised-code/section-737.27>
+[ORC 737.34]:<https://codes.ohio.gov/ohio-revised-code/section-737.34>
+[ORC 3737.17]:<https://codes.ohio.gov/ohio-revised-code/section-3737.17>

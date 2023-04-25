@@ -353,14 +353,13 @@ Zoning Appeals.
 8. _(h)_ The applicant or any interested party who appeared or was represented
 at the Council meeting(s) where the matter was heard, and was harmed by the
 action of Council may appeal Council's decision pursuant to Ohio R.C.
-[Chapter 2506][ORC Chapter 2506].\
+[Chapter 2506][ORC 2506].\
 ([Ord. 2022-10. Passed 4-11-22.][CFO 2022-10])
 
 ## 1111.11   Time period to file appeal
 
 The applicant or any such interested party who is held by action of Council may
-appeal Council's decision pursuant to Ohio R.C. [Chapter 2506][ORC Chapter
-2506]. The time period to appeal any final decision rendered by either (i) the
+appeal Council's decision pursuant to Ohio R.C. [Chapter 2506][ORC 2506]. The time period to appeal any final decision rendered by either (i) the
 Board of Zoning Appeals, in the event three (3) members of Council have not
 requested that Council review a decision of the Board of Zoning Appeals, within
 fifteen (15) days after such decision, or (ii) by the Council, in the event
@@ -375,8 +374,8 @@ e-mail address or residence or business address designated by the applicant when
 filing an application for relief from the Board of Zoning Appeals. Failure of
 the applicant to receive such notice shall not be a basis for tolling or
 extending the time period to file an appeal pursuant to Ohio R.C. [Chapter
-2506][ORC Chapter 2506].\
+2506][ORC 2506].\
 (Ord. 2021-20. Passed 5-24-21.)
 
 [CFO 2022-10]:</ordinance-2022-10>
-[ORC Chapter 2506]:<https://codes.ohio.gov/ohio-revised-code/chapter-2506>
+[ORC 2506]:<https://codes.ohio.gov/ohio-revised-code/chapter-2506>

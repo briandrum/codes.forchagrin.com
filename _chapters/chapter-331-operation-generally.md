@@ -179,7 +179,7 @@ proceeding in the same direction:
     3. _(3)_ The operator of a vehicle overtaking and passing another vehicle
     proceeding in the same direction on a divided street or highway as defined
     in [Section 331.31][CFCO 331.31], a limited access highway as defined in
-    Ohio R.C. [5511.02][ORC Section 5511.02] or a highway with four or more
+    Ohio R.C. [5511.02][ORC 5511.02] or a highway with four or more
     traffic lanes, is not required to signal audibly to the vehicle being
     overtaken and passed.
 
@@ -662,7 +662,7 @@ the left shall yield the right of way to the vehicle on the right.
 
 2. _(b)_ The right of way rule declared in subsection (a) hereof, is modified at
 through highways and otherwise as stated in this Traffic Code and Ohio R.C.
-[Chapter 4511][ORC Chapter 4511].\
+[Chapter 4511][ORC 4511].\
 (ORC 4511.41)
 
 3. _(c)_ Subject to compliance with any traffic control device, when two
@@ -806,7 +806,7 @@ coroner's vehicle from the duty to drive with due regard for the safety of all
 persons and property upon the street.
 
 3. _(c)_ This section applies to a coroner's vehicle only when the vehicle is
-operated in accordance with Ohio R.C. [4513.171][ORC Section 4513.171]. As used
+operated in accordance with Ohio R.C. [4513.171][ORC 4513.171]. As used
 in this section, "coroner's vehicle" means a vehicle used by a coroner, deputy
 coroner or coroner's investigator that is equipped with a flashing, oscillating
 or rotating red or blue light and a siren, exhaust whistle, or bell capable of
@@ -869,7 +869,7 @@ alleged violation occurred.
 4. _(d)_ As used in this section:
 
     1. _(1)_ "License plate" includes any temporary motor vehicle license
-    registration issued under Ohio R.C. [4503.182][ORC Section 4503.182] or
+    registration issued under Ohio R.C. [4503.182][ORC 4503.182] or
     similar law of another jurisdiction.
 
     2. _(2)_ "Public safety vehicle" does not include an unmarked public safety
@@ -1256,7 +1256,7 @@ resumes motion, or until signaled by the school bus driver to proceed.
     extended stop warning sign as required by subsection (b) hereof.
 
 2. _(b)_ Every school bus shall be equipped with amber and red visual signals
-meeting the requirements of Ohio R.C. [4511.771][ORC Section 4511.771], and an
+meeting the requirements of Ohio R.C. [4511.771][ORC 4511.771], and an
 automatically extended stop warning sign of a type approved by the State Board
 of Education, which shall be actuated by the driver of the bus whenever but only
 whenever the bus is stopped or stopping on the roadway for the purpose of
@@ -1295,15 +1295,14 @@ place of safety on the child or person's residence side of the road.
 6. _(f)_ As used in this section:
 
     1. _(1)_ "Head start agency" has the same meaning as in Ohio R.C.
-    [3301.32][ORC Section 3301.32].
+    [3301.32][ORC 3301.32].
 
     2. _(2)_ "School bus", as used in relation to children who attend a program
     offered by a head start agency, means a bus that is owned and operated by a
     head start agency, is equipped with an automatically extended stop warning
     sign of a type approved by the State Board of Education, is painted the
-    color and displays the markings described in Ohio R.C. [4511.77][ORC Section
-    4511.77], and is equipped with amber and red visual signals meeting the
-    requirements of Ohio R.C. [4511.771][ORC Section 4511.771], irrespective of
+    color and displays the markings described in Ohio R.C. [4511.77][ORC 4511.77], and is equipped with amber and red visual signals meeting the
+    requirements of Ohio R.C. [4511.771][ORC 4511.771], irrespective of
     whether or not the bus has fifteen or more children aboard at any time.
     "School bus" does not include a van owned and operated by a head start
     agency, irrespective of its color, lights, or markings.
@@ -1322,7 +1321,7 @@ place of safety on the child or person's residence side of the road.
     section a class seven suspension of the offender's driver's license,
     commercial driver's license, temporary instruction permit, probationary
     license, or nonresident operating privilege from the range specified in
-    division (a)(7) of Ohio R.C. [4510.02][ORC Section 4510.02]. When a license
+    division (a)(7) of Ohio R.C. [4510.02][ORC 4510.02]. When a license
     is suspended under this section, the court or mayor shall cause the offender
     to deliver the license to the court, and the court or clerk of the court
     immediately shall forward the license to the Registrar of Motor Vehicles,
@@ -1438,8 +1437,7 @@ degree.\
     4. _(4)_ Except as otherwise provided in this subsection (a)(4), whoever
     violates subsection (a) hereof is guilty of a minor misdemeanor. If the
     offender previously has been convicted of or pleaded guilty to one or more
-    violations of subsection (a) hereof or Ohio R.C. [4511.76][ORC Section
-    4511.76], 4511.761, 4511.762, 4511.764, 4511.77 or 4511.79, or a municipal
+    violations of subsection (a) hereof or Ohio R.C. [4511.76][ORC 4511.76], 4511.761, 4511.762, 4511.764, 4511.77 or 4511.79, or a municipal
     ordinance that is substantially similar to any of those sections, whoever
     violates subsection (a) hereof is guilty of a misdemeanor of the fourth
     degree.\
@@ -1651,15 +1649,15 @@ proper court to answer the charge.
     the court shall allocate the reimbursement proportionately, according to the
     cost each rescuer incurred. A financial sanction imposed under this section
     is a judgment in favor of the rescuer and, subject to a determination of
-    indigency under division (B) of Ohio R.C. [2929.28][ORC Section 2929.28], a
+    indigency under division (B) of Ohio R.C. [2929.28][ORC 2929.28], a
     rescuer may collect the financial sanction in the same manner as provided in
-    Ohio R.C. [2929.28][ORC Section 2929.28].
+    Ohio R.C. [2929.28][ORC 2929.28].
 
 4. _(d)_ As used in this section:
 
     1. _(1)_ "Emergency medical service organization", "firefighting agency" and
     "private fire company" have the same meanings as in Ohio R.C. [9.60][ORC
-    Section 9.60].
+    9.60].
 
     2. _(2)_ "Rescuer" means a state agency, political subdivision, firefighting
     service, private fire company, or emergency medical service organization.\
@@ -1675,15 +1673,15 @@ proper court to answer the charge.
 [CFCO 331.31]:</chapters/chapter-331-operation-generally/#33131-driving-upon-divided-roadways>
 [CFCO 331.211]:</chapters/chapter-331-operation-generally/#331211-report-of-vehicle-failing-to-yield-right-of-way-to-public-safety-vehicle>
 [CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[ORC Chapter 4511]:<https://codes.ohio.gov/ohio-revised-code/chapter-4511>
-[ORC Section 9.60]:<https://codes.ohio.gov/ohio-revised-code/section-9.60>
-[ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
-[ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
-[ORC Section 3301.32]:<https://codes.ohio.gov/ohio-revised-code/section-3301.32>
-[ORC Section 4503.182]:<https://codes.ohio.gov/ohio-revised-code/section-4503.182>
-[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
-[ORC Section 4511.76]:<https://codes.ohio.gov/ohio-revised-code/section-4511.76>
-[ORC Section 4511.77]:<https://codes.ohio.gov/ohio-revised-code/section-4511.77>
-[ORC Section 4511.771]:<https://codes.ohio.gov/ohio-revised-code/section-4511.771>
-[ORC Section 4513.171]:<https://codes.ohio.gov/ohio-revised-code/section-4513.171>
-[ORC Section 5511.02]:<https://codes.ohio.gov/ohio-revised-code/section-5511.02>
+[ORC 4511]:<https://codes.ohio.gov/ohio-revised-code/chapter-4511>
+[ORC 9.60]:<https://codes.ohio.gov/ohio-revised-code/section-9.60>
+[ORC 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
+[ORC 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
+[ORC 3301.32]:<https://codes.ohio.gov/ohio-revised-code/section-3301.32>
+[ORC 4503.182]:<https://codes.ohio.gov/ohio-revised-code/section-4503.182>
+[ORC 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
+[ORC 4511.76]:<https://codes.ohio.gov/ohio-revised-code/section-4511.76>
+[ORC 4511.77]:<https://codes.ohio.gov/ohio-revised-code/section-4511.77>
+[ORC 4511.771]:<https://codes.ohio.gov/ohio-revised-code/section-4511.771>
+[ORC 4513.171]:<https://codes.ohio.gov/ohio-revised-code/section-4513.171>
+[ORC 5511.02]:<https://codes.ohio.gov/ohio-revised-code/section-5511.02>

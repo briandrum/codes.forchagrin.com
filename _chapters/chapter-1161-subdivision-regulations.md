@@ -21,7 +21,7 @@ title: "Chapter 1161: Subdivision Regulations"
 
 ## Cross references
 
-* State law provisions - see Ohio R.C. [Chapter 711][ORC Chapter 711]
+* State law provisions - see Ohio R.C. [Chapter 711][ORC 711]
 * Fees and deposits - see P. & Z. 1109.08
 * Appeals - see P. & Z. Ch. 1111
 * Landscaping regulations - see P. & Z. Ch. 1142
@@ -34,7 +34,7 @@ referred to as the "Subdivision Regulations of the Municipality of Chagrin
 Falls".
 
 2. _(b)_ **Intent.** This chapter is enacted in accordance with Ohio R.C.
-[Chapter 711][ORC Chapter 711] and for the purpose and intent of the following
+[Chapter 711][ORC 711] and for the purpose and intent of the following
 objectives:
 
     1. _(1)_ Protecting the public health, safety, comfort, convenience and
@@ -163,7 +163,7 @@ another, and for a specified purpose, of any designated part of his property.
 
 18. _(18)_ "Engineer" means a person registered to practice professional
 engineering by the State Board of Registration as specified in Ohio R.C.
-[4733.14][ORC Section 4733.14].
+[4733.14][ORC 4733.14].
 
 19. _(19)_ "Final plat" means the drawing on which the applicant's plan of
 subdivision is presented to the Planning and Zoning Commission for approval.
@@ -700,11 +700,11 @@ listed in Chapter 1119 to Chapter 1139, inclusive.
 
 5. _(e)_ **Street Design.** The arrangement, character, extent, width, grade,
 construction and location of all streets shall conform to the standards and
-specifications of the Village Engineer and to Chapters 901 to 905. They shall be
-considered in their relation to existing and planned streets, so that the entire
-area can be served with a coordinated public street system. The width of the
-right of way should be provided so that all underground utilities can be located
-outside of pavement areas.
+specifications of the Village Engineer and to [Chapters 901][CFCO 901] to
+[905][CFCO 905]. They shall be considered in their relation to existing and
+planned streets, so that the entire area can be served with a coordinated public
+street system. The width of the right of way should be provided so that all
+underground utilities can be located outside of pavement areas.
 
 6. _(f)_ **Street Classification.**
 
@@ -1185,7 +1185,7 @@ the subdivider.
 
 30. _(dd)_ **Final Inspections.** Upon completion of all improvements, the
 subdivider shall request, in writing, a final inspection by the Village Engineer
-as required under Ohio R.C. [711.091][ORC Section 711.091]. Such inspection may
+as required under Ohio R.C. [711.091][ORC 711.091]. Such inspection may
 include core borings and related structural tests with respect to paving
 improvements. Such inspections shall include an internal pipe inspection of
 sanitary and storm sewers, two photography, television and hydrostatic tests,
@@ -1409,6 +1409,8 @@ Municipality, in addition to any other criminal or civil remedies available
 under law.\
 (Ord. 1988-25. Approved by voters 11-8-88.)
 
+[CFCO 901]:</chapters/chapter-901-street-openings-and-excavations>
+[CFCO 905]:</chapters/chapter-905-street-specifications>
 [CFCO 1109.08]:</chapters/chapter-1109-administration-and-enforcement/#110908-fees-and-deposits>
 [CFCO 1111.03]:</chapters/chapter-1111-appeals-and-variances/#111103-application-for-appeals-or-variances>
 [CFCO 1143.05(b)]:</chapters/chapter-1143-signs/#114305(b)>
@@ -1418,6 +1420,6 @@ under law.\
 [CFCO 1161.04(e)]:</chapters/chapter-1161-subdivision-regulations/#116104(e)>
 [CFCO 1161.04(f)]:</chapters/chapter-1161-subdivision-regulations/#116104(f)>
 [CFCO 1161.09(b)]:</chapters/chapter-1161-subdivision-regulations/#116109(b)>
-[ORC Chapter 711]:<https://codes.ohio.gov/ohio-revised-code/chapter-711>
-[ORC Section 711.091]:<https://codes.ohio.gov/ohio-revised-code/section-711.091>
-[ORC Section 4733.14]:<https://codes.ohio.gov/ohio-revised-code/section-4733.14>
+[ORC 711.091]:<https://codes.ohio.gov/ohio-revised-code/section-711.091>
+[ORC 711]:<https://codes.ohio.gov/ohio-revised-code/chapter-711>
+[ORC 4733.14]:<https://codes.ohio.gov/ohio-revised-code/section-4733.14>

@@ -21,9 +21,9 @@ title: "Chapter 711: Peddlers and Canvassers"
 
 ## Cross references
 
-* Power to inspect food products - see Ohio R.C. [715.46][ORC Section 715.46]
-* Power to regulate - see Ohio R.C. [715.61][ORC Section 715.61] et seq.
-* Charitable solicitations - see Ohio R.C. [Chapter 1716][ORC Chapter 1716]
+* Power to inspect food products - see Ohio R.C. [715.46][ORC 715.46]
+* Power to regulate - see Ohio R.C. [715.61][ORC 715.61] et seq.
+* Charitable solicitations - see Ohio R.C. [Chapter 1716][ORC 1716]
 * Littering - see GEN. OFF. 521.08
 * Trespassing- see GEN. OFF. 541.05
 
@@ -230,6 +230,6 @@ fourth degree. Each day any violation continues shall constitute a separate
 offense.\
 (Ord. 2016-03. Passed 1-25-16.)
 
-[ORC Chapter 1716]:<https://codes.ohio.gov/ohio-revised-code/chapter-1716>
-[ORC Section 715.46]:<https://codes.ohio.gov/ohio-revised-code/section-715.46>
-[ORC Section 715.61]:<https://codes.ohio.gov/ohio-revised-code/section-715.61>
+[ORC 1716]:<https://codes.ohio.gov/ohio-revised-code/chapter-1716>
+[ORC 715.46]:<https://codes.ohio.gov/ohio-revised-code/section-715.46>
+[ORC 715.61]:<https://codes.ohio.gov/ohio-revised-code/section-715.61>

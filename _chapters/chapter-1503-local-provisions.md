@@ -25,9 +25,9 @@ title: "Chapter 1503: Local Provisions"
 
 ## Cross references
 
-* Power to regulate against fires - see Ohio R.C. [737.21][ORC Section 737.21], 737.37
-* Investigation of fires - see Ohio R.C. [737.27][ORC Section 737.27], 3737.08
-* Tampering with water hydrants - see Ohio R.C. [4933.22][ORC Section 4933.22]
+* Power to regulate against fires - see Ohio R.C. [737.21][ORC 737.21], 737.37
+* Investigation of fires - see Ohio R.C. [737.27][ORC 737.27], 3737.08
+* Tampering with water hydrants - see Ohio R.C. [4933.22][ORC 4933.22]
 * Accumulations of fire hazards - see GEN. OFF. 521.13
 * Adoption of Model Codes - see FIRE PREV. Ch. 1501
 
@@ -154,12 +154,12 @@ equipment during the fueling operation.\
 ## 1503.06   Fire-damaged structures; removal or repair securing fund
 
 The Municipality hereby authorizes the procedure described in Ohio R.C.
-[3929.86(C)][ORC Section 3929.86] and (D) to be implemented whereby no insurance
+[3929.86(C)][ORC 3929.86] and (D) to be implemented whereby no insurance
 company doing business in the State shall pay a claim of a named insured for
 fire damage to a structure located within the this Municipality unless the
-applicable provisions of Ohio R.C. [3929.86][ORC Section 3929.86] are fully
+applicable provisions of Ohio R.C. [3929.86][ORC 3929.86] are fully
 complied with. The Fire Chief is hereby designated as the officer authorized to
-carry out the duties of Ohio R.C. [3929.86][ORC Section 3929.86]. The Clerk of
+carry out the duties of Ohio R.C. [3929.86][ORC 3929.86]. The Clerk of
 Council shall file a certified copy of this section with the State
 Superintendent of Insurance.\
 (Ord. 1983-52. Passed 1-9-84.)
@@ -303,8 +303,8 @@ no specific penalty is provided.)\
 [CFCO 303.08]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30308-impounding-of-vehicles-redemption>
 [CFCO 1501.99]:</chapters/chapter-1501-model-codes-adopted/#150199-penalty>
 [CFCO 1503.071]:</chapters/chapter-1503-local-provisions/#1503071-central-station-monitored-fire-alarm-system-requirement>
-[ORC Section 737.21]:<https://codes.ohio.gov/ohio-revised-code/section-737.21>
-[ORC Section 737.27]:<https://codes.ohio.gov/ohio-revised-code/section-737.27>
-[ORC Section 3929.86]:<https://codes.ohio.gov/ohio-revised-code/section-3929.86>
-[ORC Section 3929.86]:<https://codes.ohio.gov/ohio-revised-code/section-3929.86>
-[ORC Section 4933.22]:<https://codes.ohio.gov/ohio-revised-code/section-4933.22>
+[ORC 737.21]:<https://codes.ohio.gov/ohio-revised-code/section-737.21>
+[ORC 737.27]:<https://codes.ohio.gov/ohio-revised-code/section-737.27>
+[ORC 3929.86]:<https://codes.ohio.gov/ohio-revised-code/section-3929.86>
+[ORC 3929.86]:<https://codes.ohio.gov/ohio-revised-code/section-3929.86>
+[ORC 4933.22]:<https://codes.ohio.gov/ohio-revised-code/section-4933.22>

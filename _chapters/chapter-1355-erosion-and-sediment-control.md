@@ -292,7 +292,7 @@ is destroyed and that may result in, or contribute to, erosion and sediment
 pollution.
 
 51. _(yy)_ Soil & water conservation district: An entity organized under
-[Chapter 1515][ORC Chapter 1515] of the Ohio Revised Code referring to either
+[Chapter 1515][ORC 1515] of the Ohio Revised Code referring to either
 the Soil and Water Conservation District Board or its designated employee(s).
 Hereafter referred to as Cuyahoga SWCD.
 
@@ -316,7 +316,7 @@ stream, lake, reservoir, pond, marsh, wetland, or other waterway situated wholly
 or partly within the boundaries of the state, except those private waters which
 do not combine or affect a junction with surface water. Waters defined as
 sewerage systems, treatment works or disposal systems in [Section 6111.01][ORC
-Section 6111.01] of the Ohio Revised Code are not included.
+6111.01] of the Ohio Revised Code are not included.
 
 58. _(fff)_ Temporary stabilization: The establishment of temporary vegetation,
 mulching, geotextiles, sod, preservation of existing vegetation, and other
@@ -349,7 +349,7 @@ occur.
 reservoir, pond, marsh, wetland, or waterway situated wholly or partly within
 the boundaries of the state, except those private waters which do not combine or
 affect a junction with surface water. Waters defined as sewerage systems,
-treatment works or disposal systems in [Section 6111.01][ORC Section 6111.01] of
+treatment works or disposal systems in [Section 6111.01][ORC 6111.01] of
 the Ohio Revised Code are not included.
 
 64. _(lll)_ Watershed: The total drainage area contributing runoff to a single
@@ -1602,5 +1602,5 @@ regulations, or the orders of the Village of Chagrin Falls.\
 [CFCO 1355.09(g)]:</chapters/chapter-1355-erosion-and-sediment-control/#135509(g)>
 [CFCO 1355.09]:</chapters/chapter-1355-erosion-and-sediment-control/#135509-performance-standards>
 [CFCO 1355.14]:</chapters/chapter-1355-erosion-and-sediment-control/#135514-violations>
-[ORC Chapter 1515]:<https://codes.ohio.gov/ohio-revised-code/chapter-1515>
-[ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>
+[ORC 1515]:<https://codes.ohio.gov/ohio-revised-code/chapter-1515>
+[ORC 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>

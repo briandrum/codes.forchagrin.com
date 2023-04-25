@@ -22,7 +22,7 @@ title: "Chapter 1337: Moving of Buildings"
 
 ## Cross references
 
-* House movers - see Ohio R.C. [715.27][ORC Section 715.27]
+* House movers - see Ohio R.C. [715.27][ORC 715.27]
 * Obstructing streets - see TRAF. 311.01
 * Blocking off streets - see TRAF. 311.03
 * Care of streets - see GEN. OFF. 543.01
@@ -229,4 +229,4 @@ misdemeanor of the first degree. Each days' violation shall constitute a
 separate offense.\
 (Ord. 1988-26. Passed 4-11-88.)
 
-[ORC Section 715.27]:<https://codes.ohio.gov/ohio-revised-code/section-715.27>
+[ORC 715.27]:<https://codes.ohio.gov/ohio-revised-code/section-715.27>

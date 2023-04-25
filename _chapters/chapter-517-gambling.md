@@ -29,9 +29,9 @@ title: "Chapter 517: Gambling"
 
 * See sectional histories for similar State law
 * Lotteries prohibited; exception - see Ohio Const., Art. XV, Sec. 6
-* Contributing to delinquency of minors - see Ohio R.C. [2151.41][ORC Section 2151.41]
-* Search warrants - see Ohio R.C. [2933.21(E)][ORC Section 2933.21]
-* Licensing charitable bingo games - see Ohio R.C. [2915.08][ORC Section 2915.08]
+* Contributing to delinquency of minors - see Ohio R.C. [2151.41][ORC 2151.41]
+* Search warrants - see Ohio R.C. [2933.21(E)][ORC 2933.21]
+* Licensing charitable bingo games - see Ohio R.C. [2915.08][ORC 2915.08]
 
 ## 517.01   Definitions
 
@@ -44,8 +44,8 @@ event, undertaking or contingency, but does not include a bona fide business
 risk.
 
 3. _(c)_ "Scheme of chance" means a slot machine unless authorized under Ohio
-R.C. [Chapter 3772][ORC Chapter 3772], lottery unless authorized under Ohio R.C.
-[Chapter 3770][ORC Chapter 3770], numbers game, pool conducted for profit, or
+R.C. [Chapter 3772][ORC 3772], lottery unless authorized under Ohio R.C.
+[Chapter 3770][ORC 3770], numbers game, pool conducted for profit, or
 other scheme in which a participate gives a valuable consideration for a chance
 to win a prize, but does not include bingo, a skill-based amusement machine, or
 a pool not conducted for profit. "Scheme of chance" includes the use of an
@@ -64,7 +64,7 @@ following instances:
 
     3. _(3)_ More than fifty per cent of prizes at any one location are revealed
     to participants through an electronic device simulating a game of chance or
-    a "casino game" as defined in Ohio R.C. [3772.01][ORC Section 3772.01];
+    a "casino game" as defined in Ohio R.C. [3772.01][ORC 3772.01];
 
     4. _(4)_ The good or service sold by a scheme of chance operator in exchange
     for a game entry cannot be used or redeemed in the manner advertised;
@@ -116,13 +116,13 @@ but does not include bingo.
 
 7. _(g)_ "Gambling offense" means the following:
 
-    1. _(1)_ A violation of Ohio R.C. [2915.02][ORC Section 2915.02] to
-    2915.092, 2915.10 or 2915.11;
+    1. _(1)_ A violation of Ohio R.C. [2915.02][ORC 2915.02] to [2915.092][ORC
+    2915.092], [2915.10][ORC 2915.10] or [2915.11][ORC 2915.11];
 
     2. _(2)_ A violation of an existing or former municipal ordinance or law of
     this or any other state or the United States substantially equivalent to any
     section listed in subsection (g)(1) hereof or a violation of Ohio R.C.
-    [2915.06][ORC Section 2915.06] as it existed prior to July 1, 1996;
+    [2915.06][ORC 2915.06] as it existed prior to July 1, 1996;
 
     3. _(3)_ An offense under an existing or former municipal ordinance or law
     of this or any other state or the United States, of which gambling is an
@@ -146,9 +146,9 @@ means either of the following:
     To qualify as a charitable organization, an organization shall have been in
     continuous existence as such in this State for a period of two years
     immediately preceding either the making of an application for a bingo
-    license under Ohio R.C. [2915.08][ORC Section 2915.08] or the conducting of
+    license under Ohio R.C. [2915.08][ORC 2915.08] or the conducting of
     any game of chance as provided in division (D) of Ohio R.C. [2915.02][ORC
-    Section 2915.02].
+    2915.02].
 
 9. _(i)_ "Religious organization" means any church, body of communicants or
 group that is not organized or operated for profit, that gathers in common
@@ -170,7 +170,7 @@ congress or has a national dues-paying membership of at least five thousand
 persons.
 
 11. _(k)_ "Volunteer firefighter's organization" means any organization of
-volunteer firefighters, as defined in Ohio R.C. [146.01][ORC Section 146.01],
+volunteer firefighters, as defined in Ohio R.C. [146.01][ORC 146.01],
 that is organized and operated exclusively to provide financial support for a
 volunteer fire department or a volunteer fire company and that is recognized or
 ratified by a county, municipal corporation, or township.
@@ -183,11 +183,11 @@ of sodality of its members.
 
 13. _(m)_ "Volunteer rescue service organization" means any organization of
 volunteers organized to function as an emergency medical service organization as
-defined in Ohio R.C. [4765.01][ORC Section 4765.01].
+defined in Ohio R.C. [4765.01][ORC 4765.01].
 
 14. _(n)_ "Charitable bingo game" means any bingo game described in subsection
 (o)(1) or (2) of this section that is conducted by a charitable organization
-that has obtained a license pursuant to Ohio R.C. [2915.08][ORC Section 2915.08]
+that has obtained a license pursuant to Ohio R.C. [2915.08][ORC 2915.08]
 and the proceeds of which are used for a charitable purpose.
 
 15. _(o)_ "Bingo" means either of the following:
@@ -269,8 +269,9 @@ following apply:
 21. _(u)_ "Security personnel" includes any person who either is a sheriff,
 deputy sheriff, marshal, deputy marshal, township constable, or a police officer
 of a municipal corporation or has successfully completed a peace officer's
-training course pursuant to Ohio R.C. [109.71][ORC Section 109.71] to 109.79 and
-who is hired to provide security for the premises on which bingo is conducted.
+training course pursuant to Ohio R.C. [109.71][ORC 109.71] to [109.79][ORC
+109.79] and who is hired to provide security for the premises on which bingo is
+conducted.
 
 22. _(v)_ "Charitable purpose" means that the net profit of bingo, other than
 instant bingo, is used by, or is given, donated, or otherwise transferred to,
@@ -291,9 +292,9 @@ any of the following:
     chapter, or organization inures to the benefit of any private shareholder or
     individual, and further provided that the net profit is used by the post,
     chapter, or organization for the charitable purposes set forth in division
-    (B)(12) of Ohio R.C. [5739.02][ORC Section 5739.02], is used for awarding
+    (B)(12) of Ohio R.C. [5739.02][ORC 5739.02], is used for awarding
     scholarships to or for attendance at an institution mentioned in division
-    (B)(12) of Ohio R.C. [5739.02][ORC Section 5739.02], is donated to a
+    (B)(12) of Ohio R.C. [5739.02][ORC 5739.02], is donated to a
     governmental agency, or is used for nonprofit youth activities, the purchase
     of United States or Ohio flags that are donated to schools, youth groups, or
     other bona fide nonprofit organizations, promotion of patriotism, or
@@ -400,10 +401,10 @@ expended for all of the following:
     1. _(1)_ The purchase or lease of bingo supplies;
 
     2. _(2)_ The annual license fee required under Ohio R.C. [2915.08][ORC
-    Section 2915.08];
+    2915.08];
 
     3. _(3)_ Bank fees and service charges for a bingo session or game account
-    described in Ohio R.C. [2915.10][ORC Section 2915.10];
+    described in Ohio R.C. [2915.10][ORC 2915.10];
 
     4. _(4)_ Audits and accounting services;
 
@@ -429,18 +430,17 @@ expended for all of the following:
 
     13. _(13)_ Any other product or service directly related to the conduct of
     bingo that is authorized in rules adopted by the Attorney General under
-    division (B)(1) of Ohio R.C. [2915.08][ORC Section 2915.08].
+    division (B)(1) of Ohio R.C. [2915.08][ORC 2915.08].
 
-34. _(hh)_ "Person" has the same meaning as in Ohio R.C. [1.59][ORC Section
-1.59] and includes any firm or any other legal entity, however organized.
+34. _(hh)_ "Person" has the same meaning as in Ohio R.C. [1.59][ORC 1.59] and includes any firm or any other legal entity, however organized.
 
 35. _(ii)_ "Revoke" means to void permanently all rights and privileges of the
-holder of a license issued under Ohio R.C. [2915.08][ORC Section 2915.08],
+holder of a license issued under Ohio R.C. [2915.08][ORC 2915.08],
 2915.081, or 2915.082 or a charitable gaming license issued by another
 jurisdiction.
 
 36. _(jj)_ "Suspend" means to interrupt temporarily all rights and privileges of
-the holder of a license issued under Ohio R.C. [2915.08][ORC Section 2915.08],
+the holder of a license issued under Ohio R.C. [2915.08][ORC 2915.08],
 2915.081, or 2915.082 or a charitable gaming license issued by another
 jurisdiction.
 
@@ -539,7 +539,7 @@ federal income taxation under subsection 501(a) and described in subsection 501
 organization, a fraternal organization, or a sporting organization in regards to
 bingo conducted or assisted by a veteran's organization, a fraternal
 organization, or a sporting organization pursuant to Ohio R.C. [2915.13][ORC
-Section 2915.13].
+2915.13].
 
 46. _(tt)_ "Game flare" means the board or placard that accompanies each deal of
 instant bingo tickets and that has printed on or affixed to it the following
@@ -669,7 +669,7 @@ sportsmen, and that has been in continuous existence in this State for a period
 of three years.
 
 52. _(zz)_ "Community action agency" has the same meaning as in Ohio R.C.
-[122.66][ORC Section 122.66].
+[122.66][ORC 122.66].
 
 53. _(aaa)_
 
@@ -723,16 +723,16 @@ of three years.
         4. _(D)_ "Sweepstakes terminal device facility" means any location in
         this Municipality where a sweepstakes terminal device is provided to a
         sweepstakes participant, except as provided in Ohio R.C.
-        [2915.02(G)][ORC Section 2915.02].
+        [2915.02(G)][ORC 2915.02].
 
 54. _(bbb)_ "Sweepstakes" means any game, contest, advertising scheme or plan,
 or other promotion where consideration is not required for a person to enter to
 win or become eligible to receive any prize, the determination of which is based
 upon chance. "Sweepstakes" does not include bingo as authorized under this
 chapter, pari-mutuel wagering as authorized by Ohio R.C. [Chapter 3769][ORC
-Chapter 3769], lotteries conducted by the State Lottery Commission as authorized
-by Ohio R.C. [Chapter 3770][ORC Chapter 3770], and casino gaming as authorized
-by Ohio R.C. [Chapter 3772][ORC Chapter 3772].\
+3769], lotteries conducted by the State Lottery Commission as authorized
+by Ohio R.C. [Chapter 3770][ORC 3770], and casino gaming as authorized
+by Ohio R.C. [Chapter 3772][ORC 3772].\
 (ORC 2915.01)
 
 ## 517.02   Gambling
@@ -773,7 +773,7 @@ by Ohio R.C. [Chapter 3772][ORC Chapter 3772].\
     use of a sweepstakes terminal device at a sweepstakes terminal device
     facility without first obtaining a current annual "certificate of
     registration" from the Attorney General as required by division (F) of Ohio
-    R.C. [2915.02][ORC Section 2915.02].
+    R.C. [2915.02][ORC 2915.02].
 
     7. _(7)_ With purpose to violate subsection (a)(1), (2), (3), (4), (5) or
     (6) of this section, acquire, possess, control, or operate any gambling
@@ -845,11 +845,11 @@ expressly permitted by law.
             of chance.
 
     2. _(2)_ Any tag fishing tournament operated under a permit issued under
-    Ohio R.C. [1533.92][ORC Section 1533.92], as "tag fishing tournament" is
-    defined in Ohio R.C. [1531.01][ORC Section 1531.01].
+    Ohio R.C. [1533.92][ORC 1533.92], as "tag fishing tournament" is
+    defined in Ohio R.C. [1531.01][ORC 1531.01].
 
     3. _(3)_ Bingo conducted by a charitable organization that holds a license
-    issued under Ohio R.C. [2915.08][ORC Section 2915.08].
+    issued under Ohio R.C. [2915.08][ORC 2915.08].
 
 5. _(e)_ Subsection (d) hereof shall not be construed to authorize the sale,
 lease or other temporary or permanent transfer of the right to conduct games of
@@ -879,8 +879,7 @@ of a gambling offense, operating a gambling house is a felony and shall be
 prosecuted under appropriate State law.
 
 3. _(c)_ Premises used or occupied in violation of this section constitute a
-nuisance subject to abatement pursuant to Ohio R.C. [Chapter 3767][ORC Chapter
-3767].\
+nuisance subject to abatement pursuant to Ohio R.C. [Chapter 3767][ORC 3767].\
 (ORC 2915.03)
 
 ## 517.04   Public gaming
@@ -905,7 +904,7 @@ gaming is a misdemeanor of the fourth degree.
 
 5. _(e)_ Premises used or occupied in violation of subsection (b) of this
 section constitute a nuisance subject to abatement under Ohio R.C.
-[Chapter 3767][ORC Chapter 3767].\
+[Chapter 3767][ORC 3767].\
 (ORC 2915.04)
 
 ## 517.05   Cheating
@@ -927,8 +926,7 @@ any of the following:
 otherwise provided in this subsection cheating is a misdemeanor of the first
 degree. If the potential gain from the cheating is one thousand dollars ($1,000)
 or more, or if the offender previously has been convicted of any gambling
-offense or of any theft offense as defined in Ohio R.C. [2913.01][ORC Section
-2913.01], cheating is a felony and shall be prosecuted under appropriate State
+offense or of any theft offense as defined in Ohio R.C. [2913.01][ORC 2913.01], cheating is a felony and shall be prosecuted under appropriate State
 law.\
 (ORC 2915.05)
 
@@ -947,7 +945,7 @@ the following:
     listed in its license application and described in Section 517.01(v), or
     distribute all of the net profit from the proceeds of the sale of instant
     bingo as stated in its license application and in accordance with Ohio R.C.
-    [2915.101][ORC Section 2915.101].
+    [2915.101][ORC 2915.101].
 
 2. _(b)_ No charitable organization that conducts a bingo game described in
 Section 517.01(o)(1) shall fail to do any of the following:
@@ -1023,7 +1021,7 @@ Section 517.01(o)(1) shall do any of the following:
     6. _(6)_ Conduct a bingo session at any time during the eight-hour period
     between two a.m. and ten a.m., at any time during, or within ten hours of, a
     bingo game conducted for amusement only pursuant to Ohio R.C. [2915.12][ORC
-    Section 2915.12], at any premises not specified on its license, or on any
+    2915.12], at any premises not specified on its license, or on any
     day of the week or during any time period not specified on its license.
     Subsection (c)(6) of this section does not prohibit the sale of instant
     bingo tickets beginning at nine a.m. for a bingo session that begins at ten
@@ -1033,7 +1031,7 @@ Section 517.01(o)(1) shall do any of the following:
     conduct bingo sessions on a day of the week or at a time other than the day
     or time specified on its license, the charitable organization may apply in
     writing to the Attorney General for an amended license, pursuant to division
-    (F) of Ohio R.C. [2915.08][ORC Section 2915.08]. A charitable organization
+    (F) of Ohio R.C. [2915.08][ORC 2915.08]. A charitable organization
     may apply twice in each calendar year for an amended license to conduct
     bingo sessions on a day of the week or at a time other than the day or time
     specified on its license. If the amended license is granted, the
@@ -1053,8 +1051,7 @@ Section 517.01(o)(1) shall do any of the following:
     concessions, bingo supplies, or any other type of service;
 
     10. _(10)_ Purchase or lease bingo supplies from any person except a
-    distributor issued a license under Ohio R.C. [2915.081][ORC Section
-    2915.081];
+    distributor issued a license under Ohio R.C. [2915.081][ORC 2915.081];
 
     11. _(11)_
 
@@ -1091,7 +1088,7 @@ Section 517.01(o)(1) shall do any of the following:
             electronic bingo aid is used.
 
         2. _(B)_ The Attorney General may adopt rules in accordance with Ohio
-        R.C. [Chapter 119][ORC Chapter 119] that govern the use of electronic
+        R.C. [Chapter 119][ORC 119] that govern the use of electronic
         bingo aids. The rules may include a requirement that an electronic bingo
         aid be capable of being audited by the Attorney General to verify the
         number of bingo cards or sheets played during each bingo session.
@@ -1163,7 +1160,7 @@ law.\
 the following:
 
     1. _(1)_ Fail to comply with the requirements of divisions (A)(1), (2), and
-    (3) of Ohio R.C. [2915.09][ORC Section 2915.09];
+    (3) of Ohio R.C. [2915.09][ORC 2915.09];
 
     2. _(2)_ Conduct instant bingo unless either of the following applies:
 
@@ -1173,8 +1170,8 @@ the following:
         under subsection 501(a), is described in subsection 501(c)(3) of the
         Internal Revenue Code, is a charitable organization as defined in
         Section 517.01, is in good standing in the State pursuant to Ohio R.C.
-        [2915.08][ORC Section 2915.08], and is in compliance with Ohio R.C.
-        [Chapter 1716][ORC Chapter 1716];
+        [2915.08][ORC 2915.08], and is in compliance with Ohio R.C.
+        [Chapter 1716][ORC 1716];
 
         2. _(B)_ That organization is, and has received from the Internal
         Revenue Service a determination letter that is currently in effect
@@ -1186,7 +1183,7 @@ the following:
 
     3. _(3)_ Conduct instant bingo on any day, at any time, or at any premises
     not specified on the organization's license issued pursuant to Ohio R.C.
-    [2915.08][ORC Section 2915.08];
+    [2915.08][ORC 2915.08];
 
     4. _(4)_ Permit any person whom the organization knows or should have known
     has been convicted of a felony or gambling offense in any jurisdiction to be
@@ -1194,7 +1191,7 @@ the following:
 
     5. _(5)_ Purchase or lease supplies used to conduct instant bingo or punch
     board games from any person except a distributor licensed under Ohio R.C.
-    [2915.081][ORC Section 2915.081];
+    [2915.081][ORC 2915.081];
 
     6. _(6)_ Sell or provide any instant bingo ticket or card for a price
     different from the price printed on it by the manufacturer on either the
@@ -1243,8 +1240,7 @@ the following:
     premises at which it sells instant bingo tickets or cards;
 
     14. _(14)_ Possess a deal of instant bingo tickets or cards that was not
-    purchased from a distributor licensed under Ohio R.C. [2915.081][ORC Section
-    2915.081] as reflected on an invoice issued by the distributor that contains
+    purchased from a distributor licensed under Ohio R.C. [2915.081][ORC 2915.081] as reflected on an invoice issued by the distributor that contains
     all of the information required by Section 517.11(f);
 
     15. _(15)_ Fail, once it opens a deal of instant bingo tickets or cards, to
@@ -1252,13 +1248,13 @@ the following:
     cards with the top two highest tiers of prizes in that deal are sold;
 
     16. _(16)_ Possess bingo supplies that were not obtained in accordance with
-    Ohio R.C. [2915.01][ORC Section 2915.01] to 2915.13.
+    Ohio R.C. [2915.01][ORC 2915.01] to [2915.13][ORC 2915.13].
 
 2. _(b)_ A charitable organization may purchase, lease, or use instant bingo
 ticket dispensers to sell instant bingo tickets or cards.
 
 3. _(c)_ Whoever violates subsection (a) of this section or a rule adopted under
-Ohio R.C. [2915.091(C)][ORC Section 2915.091] is guilty of illegal instant bingo
+Ohio R.C. [2915.091(C)][ORC 2915.091] is guilty of illegal instant bingo
 conduct. Except as otherwise provided in this subsection, illegal instant bingo
 conduct is a misdemeanor of the first degree. If the offender previously has
 been convicted of a violation of subsection (a) of this section or of such a
@@ -1371,8 +1367,7 @@ General with all of the following information:
 
     3. _(3)_ That the charitable instant bingo organization is aware of conduct
     by the owner or lessor of a location at which instant bingo is conducted
-    that is in violation of this chapter or Ohio R.C. [Chapter 2915][ORC Chapter
-    2915].
+    that is in violation of this chapter or Ohio R.C. [Chapter 2915][ORC 2915].
 
 6. _(f)_ Subsection (c) of this section does not apply to a volunteer
 firefighter's organization that is exempt from federal income taxation under
@@ -1398,8 +1393,8 @@ than at a bingo session.
 
 3. _(c)_ No owner or lessor of a location that enters into a written contract as
 prescribed in subsection (a) of this section shall violate any provision of Ohio
-R.C. [Chapter 2915][ORC Chapter 2915], or permit, aid, or abet any other person
-in violating any provision of Ohio R.C. [Chapter 2915][ORC Chapter 2915].
+R.C. [Chapter 2915][ORC 2915], or permit, aid, or abet any other person
+in violating any provision of Ohio R.C. [Chapter 2915][ORC 2915].
 
 4. _(d)_ No owner or lessor of a location that enters into a written contract as
 prescribed in subsection (a) of this section shall violate the terms of the
@@ -1450,7 +1445,7 @@ conducted:
     the money is distributed, and if the organization uses the net profit of
     bingo, or the money or assets received from a game of chance, for any
     charitable or other purpose set forth in Section 517.01(v), Section
-    517.02(d), or Ohio R.C. [2915.101][ORC Section 2915.101], a list of each
+    517.02(d), or Ohio R.C. [2915.101][ORC 2915.101], a list of each
     purpose and an itemized list of each expenditure for each purpose;
 
     5. _(5)_ The number of persons who participate in any bingo session or game
@@ -1483,7 +1478,7 @@ checks or electronic fund transfers drawn on the bingo session or game account.
 all of its bingo supplies as of the first day of November of each year.
 
 5. _(e)_ The Attorney General may adopt rules in accordance with Ohio R.C.
-[Chapter 119][ORC Chapter 119] that establish standards of accounting, record
+[Chapter 119][ORC 119] that establish standards of accounting, record
 keeping, and reporting to ensure that gross receipts from bingo or games of
 chance are properly accounted for.
 
@@ -1575,11 +1570,11 @@ the first degree.\
 
 ## 517.13   Bingo exceptions
 
-1. _(a)_ Ohio R.C. [2915.07][ORC Section 2915.07] to 2915.11 or Section 517.06
-et seq. of this chapter do not apply to bingo games that are conducted for the
-purpose of amusement only. A bingo game is conducted for the purpose of
-amusement only if it complies with all of the requirements specified in either
-subsection (a)(1) or (2) hereof:
+1. _(a)_ Ohio R.C. [2915.07][ORC 2915.07] to [2915.11][ORC 2915.11] or [Section
+517.06][CFCO 517.06] et seq. of this chapter do not apply to bingo games that
+are conducted for the purpose of amusement only. A bingo game is conducted for
+the purpose of amusement only if it complies with all of the requirements
+specified in either subsection (a)(1) or (2) hereof:
 
     1. _(1)_
 
@@ -1604,8 +1599,9 @@ subsection (a)(1) or (2) hereof:
         hours of any of the following:
 
             1. _(1)_ A bingo session during which a charitable bingo game is
-            conducted pursuant to Ohio R.C. [2915.07][ORC Section 2915.07] to
-            2915.11 or Section 517.06 et seq. of this chapter;
+            conducted pursuant to Ohio R.C. [2915.07][ORC 2915.07] to
+            [2915.11][ORC 2915.11] or [Section 517.06][CFCO 517.06] et seq. of
+            this chapter;
 
             2. _(2)_ A scheme or game of chance or bingo described in Section
             517.01(o)(2).
@@ -1640,8 +1636,9 @@ subsection (a)(1) or (2) hereof:
         either of the following:
 
             1. _(1)_ A bingo session during which a charitable bingo game is
-            conducted pursuant to Ohio R.C. [2915.07][ORC Section 2915.07] to
-            2915.11 or Section 517.06 et seq. of this chapter;
+            conducted pursuant to Ohio R.C. [2915.07][ORC 2915.07] to
+            [2915.11][ORC 2915.11] or [Section 517.06][CFCO 517.06] et seq. of
+            this chapter;
 
             2. _(2)_ A scheme of chance or game of chance or bingo described in
             Section 517.01(o)(2).
@@ -1665,8 +1662,8 @@ General when commencing the action.\
 
 1. _(a)_ A veteran's organization, a fraternal organization, or a sporting
 organization authorized to conduct a bingo session pursuant to Ohio R.C.
-[2915.01][ORC Section 2915.01] to 2915.12 may conduct instant bingo other than
-at a bingo session if all of the following apply:
+[2915.01][ORC 2915.01] to [2915.12][ORC 2915.12] may conduct instant bingo other
+than at a bingo session if all of the following apply:
 
     1. _(1)_ The veteran's organization, fraternal organization or sporting
     organization limits the sale of instant bingo to twelve hours during any
@@ -1716,17 +1713,17 @@ good standing in this State.
     1. _(1)_ If a veteran's organization, fraternal organization or a sporting
     organization authorized to conduct instant bingo pursuant to subsection (a)
     of this section has been issued a liquor permit under Ohio R.C. [Chapter
-    4303][ORC Chapter 4303], that permit may be subject to suspension,
+    4303][ORC 4303], that permit may be subject to suspension,
     revocation, or cancellation if the veteran's organization, fraternal
     organization, or a sporting organization violates a provision of this
-    chapter or Ohio R.C. [Chapter 2915][ORC Chapter 2915].
+    chapter or Ohio R.C. [Chapter 2915][ORC 2915].
 
     2. _(2)_ No veteran's organization, fraternal organization, or a sporting
     organization that enters into a written contract pursuant to subsection (b)
     of this section shall violate any provision of this chapter or Ohio R.C.
-    [Chapter 2915][ORC Chapter 2915], or permit, aid, or abet any other person
+    [Chapter 2915][ORC 2915], or permit, aid, or abet any other person
     in violating any provision of this chapter or Ohio R.C. [Chapter 2915][ORC
-    Chapter 2915].
+    2915].
 
 4. _(d)_ A veteran's organization, fraternal organization, or a sporting
 organization shall give all required proceeds earned from the conduct of instant
@@ -1760,8 +1757,8 @@ a felony and shall be prosecuted under appropriate State law.\
     (ORC 2915.06)
 
 2. _(b)_ Any regulation of skill-based amusement machines shall be governed by
-this chapter and Ohio R.C. [Chapter 2915][ORC Chapter 2915] and not by Ohio R.C.
-[Chapter 1345][ORC Chapter 1345].\
+this chapter and Ohio R.C. [Chapter 2915][ORC 2915] and not by Ohio R.C.
+[Chapter 1345][ORC 1345].\
 (ORC 2915.061)
 
 ## 517.99   Penalty
@@ -1770,39 +1767,43 @@ this chapter and Ohio R.C. [Chapter 2915][ORC Chapter 2915] and not by Ohio R.C.
 any misdemeanor classification.)
 
 [CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[ORC Chapter 119]:<https://codes.ohio.gov/ohio-revised-code/chapter-119>
-[ORC Chapter 1345]:<https://codes.ohio.gov/ohio-revised-code/chapter-1345>
-[ORC Chapter 1716]:<https://codes.ohio.gov/ohio-revised-code/chapter-1716>
-[ORC Chapter 2915]:<https://codes.ohio.gov/ohio-revised-code/chapter-2915>
-[ORC Chapter 3767]:<https://codes.ohio.gov/ohio-revised-code/chapter-3767>
-[ORC Chapter 3769]:<https://codes.ohio.gov/ohio-revised-code/chapter-3769>
-[ORC Chapter 3770]:<https://codes.ohio.gov/ohio-revised-code/chapter-3770>
-[ORC Chapter 3772]:<https://codes.ohio.gov/ohio-revised-code/chapter-3772>
-[ORC Chapter 4303]:<https://codes.ohio.gov/ohio-revised-code/chapter-4303>
-[ORC Section 1.59]:<https://codes.ohio.gov/ohio-revised-code/section-1.59>
-[ORC Section 109.71]:<https://codes.ohio.gov/ohio-revised-code/section-109.71>
-[ORC Section 122.66]:<https://codes.ohio.gov/ohio-revised-code/section-122.66>
-[ORC Section 146.01]:<https://codes.ohio.gov/ohio-revised-code/section-146.01>
-[ORC Section 1531.01]:<https://codes.ohio.gov/ohio-revised-code/section-1531.01>
-[ORC Section 1533.92]:<https://codes.ohio.gov/ohio-revised-code/section-1533.92>
-[ORC Section 2151.41]:<https://codes.ohio.gov/ohio-revised-code/section-2151.41>
-[ORC Section 2913.01]:<https://codes.ohio.gov/ohio-revised-code/section-2913.01>
-[ORC Section 2915.01]:<https://codes.ohio.gov/ohio-revised-code/section-2915.01>
-[ORC Section 2915.02]:<https://codes.ohio.gov/ohio-revised-code/section-2915.02>
-[ORC Section 2915.02]:<https://codes.ohio.gov/ohio-revised-code/section-2915.02>
-[ORC Section 2915.06]:<https://codes.ohio.gov/ohio-revised-code/section-2915.06>
-[ORC Section 2915.07]:<https://codes.ohio.gov/ohio-revised-code/section-2915.07>
-[ORC Section 2915.08]:<https://codes.ohio.gov/ohio-revised-code/section-2915.08>
-[ORC Section 2915.08]:<https://codes.ohio.gov/ohio-revised-code/section-2915.08>
-[ORC Section 2915.09]:<https://codes.ohio.gov/ohio-revised-code/section-2915.09>
-[ORC Section 2915.10]:<https://codes.ohio.gov/ohio-revised-code/section-2915.10>
-[ORC Section 2915.12]:<https://codes.ohio.gov/ohio-revised-code/section-2915.12>
-[ORC Section 2915.13]:<https://codes.ohio.gov/ohio-revised-code/section-2915.13>
-[ORC Section 2915.081]:<https://codes.ohio.gov/ohio-revised-code/section-2915.081>
-[ORC Section 2915.091]:<https://codes.ohio.gov/ohio-revised-code/section-2915.091>
-[ORC Section 2915.101]:<https://codes.ohio.gov/ohio-revised-code/section-2915.101>
-[ORC Section 2915.101]:<https://codes.ohio.gov/ohio-revised-code/section-2915.101>
-[ORC Section 2933.21]:<https://codes.ohio.gov/ohio-revised-code/section-2933.21>
-[ORC Section 3772.01]:<https://codes.ohio.gov/ohio-revised-code/section-3772.01>
-[ORC Section 4765.01]:<https://codes.ohio.gov/ohio-revised-code/section-4765.01>
-[ORC Section 5739.02]:<https://codes.ohio.gov/ohio-revised-code/section-5739.02>
+[CFCO 517.06]:</chapters/chapter-517-gambling/#51706-methods-of-conducting-a-bingo-game-prohibitions>
+[ORC 1.59]:<https://codes.ohio.gov/ohio-revised-code/section-1.59>
+[ORC 109.71]:<https://codes.ohio.gov/ohio-revised-code/section-109.71>
+[ORC 109.79]:<https://codes.ohio.gov/ohio-revised-code/section-109.79>
+[ORC 119]:<https://codes.ohio.gov/ohio-revised-code/chapter-119>
+[ORC 122.66]:<https://codes.ohio.gov/ohio-revised-code/section-122.66>
+[ORC 146.01]:<https://codes.ohio.gov/ohio-revised-code/section-146.01>
+[ORC 1345]:<https://codes.ohio.gov/ohio-revised-code/chapter-1345>
+[ORC 1531.01]:<https://codes.ohio.gov/ohio-revised-code/section-1531.01>
+[ORC 1533.92]:<https://codes.ohio.gov/ohio-revised-code/section-1533.92>
+[ORC 1716]:<https://codes.ohio.gov/ohio-revised-code/chapter-1716>
+[ORC 2151.41]:<https://codes.ohio.gov/ohio-revised-code/section-2151.41>
+[ORC 2913.01]:<https://codes.ohio.gov/ohio-revised-code/section-2913.01>
+[ORC 2915.01]:<https://codes.ohio.gov/ohio-revised-code/section-2915.01>
+[ORC 2915.02]:<https://codes.ohio.gov/ohio-revised-code/section-2915.02>
+[ORC 2915.02]:<https://codes.ohio.gov/ohio-revised-code/section-2915.02>
+[ORC 2915.06]:<https://codes.ohio.gov/ohio-revised-code/section-2915.06>
+[ORC 2915.07]:<https://codes.ohio.gov/ohio-revised-code/section-2915.07>
+[ORC 2915.08]:<https://codes.ohio.gov/ohio-revised-code/section-2915.08>
+[ORC 2915.08]:<https://codes.ohio.gov/ohio-revised-code/section-2915.08>
+[ORC 2915.09]:<https://codes.ohio.gov/ohio-revised-code/section-2915.09>
+[ORC 2915.10]:<https://codes.ohio.gov/ohio-revised-code/section-2915.10>
+[ORC 2915.11]:<https://codes.ohio.gov/ohio-revised-code/section-2915.11>
+[ORC 2915.12]:<https://codes.ohio.gov/ohio-revised-code/section-2915.12>
+[ORC 2915.13]:<https://codes.ohio.gov/ohio-revised-code/section-2915.13>
+[ORC 2915.081]:<https://codes.ohio.gov/ohio-revised-code/section-2915.081>
+[ORC 2915.091]:<https://codes.ohio.gov/ohio-revised-code/section-2915.091>
+[ORC 2915.092]:<https://codes.ohio.gov/ohio-revised-code/section-2915.092>
+[ORC 2915.101]:<https://codes.ohio.gov/ohio-revised-code/section-2915.101>
+[ORC 2915.101]:<https://codes.ohio.gov/ohio-revised-code/section-2915.101>
+[ORC 2915]:<https://codes.ohio.gov/ohio-revised-code/chapter-2915>
+[ORC 2933.21]:<https://codes.ohio.gov/ohio-revised-code/section-2933.21>
+[ORC 3767]:<https://codes.ohio.gov/ohio-revised-code/chapter-3767>
+[ORC 3769]:<https://codes.ohio.gov/ohio-revised-code/chapter-3769>
+[ORC 3770]:<https://codes.ohio.gov/ohio-revised-code/chapter-3770>
+[ORC 3772.01]:<https://codes.ohio.gov/ohio-revised-code/section-3772.01>
+[ORC 3772]:<https://codes.ohio.gov/ohio-revised-code/chapter-3772>
+[ORC 4303]:<https://codes.ohio.gov/ohio-revised-code/chapter-4303>
+[ORC 4765.01]:<https://codes.ohio.gov/ohio-revised-code/section-4765.01>
+[ORC 5739.02]:<https://codes.ohio.gov/ohio-revised-code/section-5739.02>

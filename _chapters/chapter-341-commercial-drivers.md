@@ -18,10 +18,10 @@ title: "Chapter 341: Commercial Drivers"
 ## Cross references
 
 * See sectional histories for similar State law
-* Disqualification - see Ohio R.C. [4506.16][ORC Section 4506.16]
-* Suspension or revocation of license - see Ohio R.C. [4507.16][ORC Section 4507.16]
-* Warning devices when disabled on freeways - see Ohio R.C. [4513.28][ORC Section 4513.28]
-* Arrest notice of driver - see Ohio R.C. [5577.14][ORC Section 5577.14]
+* Disqualification - see Ohio R.C. [4506.16][ORC 4506.16]
+* Suspension or revocation of license - see Ohio R.C. [4507.16][ORC 4507.16]
+* Warning devices when disabled on freeways - see Ohio R.C. [4513.28][ORC 4513.28]
+* Arrest notice of driver - see Ohio R.C. [5577.14][ORC 5577.14]
 * Load limits - see TRAF. Ch. 339
 
 ## 341.01   Definitions
@@ -40,7 +40,7 @@ of alcohol per the following:
     3. _(3)_ One hundred milliliters of urine.
 
 2. _(b)_ "Commercial driver's license" means a license issued in accordance with
-Ohio R.C. [Chapter 4506][ORC Chapter 4506] that authorizes an individual to
+Ohio R.C. [Chapter 4506][ORC 4506] that authorizes an individual to
 drive a commercial motor vehicle.
 
 3. _(c)_ "Commercial motor vehicle" means any motor vehicle designed or used to
@@ -107,7 +107,7 @@ driver's license.
 Vehicles that authorizes an individual to drive.
 
 9. _(i)_ "Drug of abuse" means any controlled substance, dangerous drug as
-defined in Ohio R.C. [4729.01][ORC Section 4729.01] or over-the-counter
+defined in Ohio R.C. [4729.01][ORC 4729.01] or over-the-counter
 medication that, when taken in quantities exceeding the recommended dosage, can
 result in impairment of judgment or reflexes.
 
@@ -130,7 +130,7 @@ livestock and poultry production, and livestock, poultry and other animals and
 things used for breeding, feeding, or other purposes connected with the
 operation of the farm, when the truck is operated in accordance with this
 subsection and is not used in the operations of a motor carrier, as defined in
-Ohio R.C. [4923.01][ORC Section 4923.01].
+Ohio R.C. [4923.01][ORC 4923.01].
 
 13. _(m)_ "Fatality" means the death of a person as the result of a motor
 vehicle accident occurring not more than three hundred sixty-five days prior to
@@ -164,31 +164,31 @@ declaring that a driver, commercial motor vehicle or commercial motor carrier
 operation is out of service as defined in 49 C.F.R. 390.5.
 
 20. _(t)_ "Public safety vehicle" has the same meaning as in divisions (E)(1)
-and (3) of Ohio R.C. [4511.01][ORC Section 4511.01].
+and (3) of Ohio R.C. [4511.01][ORC 4511.01].
 
 21. _(u)_ "Recreational vehicle" includes every vehicle that is defined as a
-recreational vehicle in Ohio R.C. [4501.01][ORC Section 4501.01] and is used
+recreational vehicle in Ohio R.C. [4501.01][ORC 4501.01] and is used
 exclusively for purposes other than engaging in business for profit.
 
 22. _(v)_ "School bus" has the same meaning as in Ohio R.C. [4511.01][ORC
-Section 4511.01].
+4511.01].
 
 23. _(w)_ "State" means a state of the United States and includes the District
 of Columbia.
 
 24. _(x)_ "Tester" means a person or entity acting pursuant to a valid agreement
-entered into pursuant to Ohio R.C. [4506.09][ORC Section 4506.09].
+entered into pursuant to Ohio R.C. [4506.09][ORC 4506.09].
 
 25. _(y)_ "United States" means the fifty states and the District of Columbia.
 
-26. _(z)_ "Vehicle" has the same meaning as in Ohio R.C. [4511.01][ORC Section
+26. _(z)_ "Vehicle" has the same meaning as in Ohio R.C. [4511.01][ORC
 4511.01].\
 (ORC 4506.01)
 
 ## 341.02   Exemptions
 
 [Section 341.02][CFCO 341.02] has been deleted from the Codified Ordinances.
-Former Ohio R.C. [4506.02][ORC Section 4506.02] from which [Section 341.02][CFCO
+Former Ohio R.C. [4506.02][ORC 4506.02] from which [Section 341.02][CFCO
 341.02] was derived was repealed by Am. Sub. H.B. No. 68, effective June 29,
 2005. The exemptions are now contained in [Section 341.03][CFCO 341.03].
 
@@ -206,18 +206,18 @@ following shall apply:
         Vehicles, or by another jurisdiction recognized by this State;
 
         2. _(B)_ A valid examiner's commercial driving permit issued under Ohio
-        R.C. [4506.13][ORC Section 4506.13];
+        R.C. [4506.13][ORC 4506.13];
 
         3. _(C)_ A valid restricted commercial driver's license and waiver for
         farm- related service industries issued under Ohio R.C. [4506.24][ORC
-        Section 4506.24];
+        4506.24];
 
         4. _(D)_ A valid commercial driver's license temporary instruction
         permit issued by the Registrar, provided that the person is accompanied
         by an authorized state driver's license examiner or tester or a person
         who has been issued and has in the person's immediate possession a
         current, valid commercial driver's license and who meets the
-        requirements of Ohio R.C. [4506.06(B)][ORC Section 4506.06].
+        requirements of Ohio R.C. [4506.06(B)][ORC 4506.06].
 
     2. _(2)_ No person who has been a resident of this State for thirty days or
     longer shall drive a commercial motor vehicle under the authority of a
@@ -241,7 +241,7 @@ person when engaged in the operation of any of the following:
     local government and is operating the commercial motor vehicle for the
     purpose of removing snow or ice from a roadway by plowing, sanding, or
     salting, but only if either the employee who holds a commercial driver's
-    license issued under Ohio R.C. [Chapter 4506][ORC Chapter 4506] and
+    license issued under Ohio R.C. [Chapter 4506][ORC 4506] and
     ordinarily operates a commercial motor vehicle for these purposes is unable
     to operate the vehicle, or the employing eligible unit of local government
     determines that a snow or ice emergency exists that requires additional
@@ -256,8 +256,8 @@ person when engaged in the operation of any of the following:
     purposes. "Operated for nonbusiness purposes" means that the commercial
     motor vehicle is not used in commerce as "commerce" is defined in 49 C.F.R.
     383.5, as amended, and is not regulated by the Public Utilities Commission
-    pursuant to Ohio R.C. [Chapter 4905][ORC Chapter 4905], [4921][ORC Chapter
-    4921], or [4923][ORC Chapter 4923].
+    pursuant to Ohio R.C. [Chapter 4905][ORC 4905], [4921][ORC 4921], or
+    [4923][ORC 4923].
 
     8. _(8)_ A motor vehicle that is designed primarily for the transportation
     of goods and not persons, while that motor vehicle is being used for the
@@ -325,13 +325,12 @@ the following:
     substance;
 
     6. _(6)_ Drive a motor vehicle in violation of Ohio R.C. [4511.19][ORC
-    Section 4511.19] or a municipal OVI ordinance as defined in Ohio R.C.
-    [4511.181][ORC Section 4511.181];
+    4511.19] or a municipal OVI ordinance as defined in Ohio R.C.
+    [4511.181][ORC 4511.181];
 
     7. _(7)_ Use a motor vehicle in the commission of a felony;
 
-    8. _(8)_ Refuse to submit to a test under Ohio R.C. [4506.17][ORC Section
-    4506.17] or 4511.191;
+    8. _(8)_ Refuse to submit to a test under Ohio R.C. [4506.17][ORC 4506.17] or [4511.191][ORC 4511.191];
 
     9. _(9)_ Operate a commercial motor vehicle while the person's commercial
     driver's license or permit or other commercial driving privileges are
@@ -341,16 +340,16 @@ the following:
     motor vehicle, including, but not limited to, the offenses of aggravated
     vehicular homicide, vehicular homicide, and vehicular manslaughter;
 
-    11. _(11)_ Fail to stop after an accident in violation of Sections 335.12 to
-    335.14;
+    11. _(11)_ Fail to stop after an accident in violation of [Sections
+    335.12][ORC 335.12] to [335.14][ORC 335.14];
 
     12. _(12)_ Drive a commercial motor vehicle in violation of any provision of
-    Ohio R.C. [4511.61][ORC Section 4511.61] to 4511.63 or any federal or local
-    law or ordinance pertaining to railroad-highway grade crossings;
+    Ohio R.C. [4511.61][ORC 4511.61] to [4511.63][ORC 4511.63] or any federal or
+    local law or ordinance pertaining to railroad-highway grade crossings;
 
     13. _(13)_ Use a motor vehicle in the commission of a felony involving the
     manufacture, distribution, or dispensing of a controlled substance as
-    defined in Ohio R.C. [3719.01][ORC Section 3719.01] or the possession with
+    defined in Ohio R.C. [3719.01][ORC 3719.01] or the possession with
     intent to manufacture, distribute, or dispose a controlled substance.
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
@@ -412,25 +411,29 @@ commercial driver's license temporary instruction permit.
 [CFCO 341.02]:</chapters/chapter-341-commercial-drivers/#34102-exemptions>
 [CFCO 341.03]:</chapters/chapter-341-commercial-drivers/#34103-prerequisites-to-operation-of-a-commercial-motor-vehicle>
 [CFCO 341.05]:</chapters/chapter-341-commercial-drivers/#34105-criminal-offenses>
-[ORC Chapter 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506>
-[ORC Chapter 4905]:<https://codes.ohio.gov/ohio-revised-code/chapter-4905>
-[ORC Chapter 4921]:<https://codes.ohio.gov/ohio-revised-code/chapter-4921>
-[ORC Chapter 4923]:<https://codes.ohio.gov/ohio-revised-code/chapter-4923>
-[ORC Section 3719.01]:<https://codes.ohio.gov/ohio-revised-code/section-3719.01>
-[ORC Section 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
-[ORC Section 4506.02]:<https://codes.ohio.gov/ohio-revised-code/section-4506.02>
-[ORC Section 4506.06]:<https://codes.ohio.gov/ohio-revised-code/section-4506.06>
-[ORC Section 4506.09]:<https://codes.ohio.gov/ohio-revised-code/section-4506.09>
-[ORC Section 4506.13]:<https://codes.ohio.gov/ohio-revised-code/section-4506.13>
-[ORC Section 4506.16]:<https://codes.ohio.gov/ohio-revised-code/section-4506.16>
-[ORC Section 4506.17]:<https://codes.ohio.gov/ohio-revised-code/section-4506.17>
-[ORC Section 4506.24]:<https://codes.ohio.gov/ohio-revised-code/section-4506.24>
-[ORC Section 4507.16]:<https://codes.ohio.gov/ohio-revised-code/section-4507.16>
-[ORC Section 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
-[ORC Section 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
-[ORC Section 4511.61]:<https://codes.ohio.gov/ohio-revised-code/section-4511.61>
-[ORC Section 4511.181]:<https://codes.ohio.gov/ohio-revised-code/section-4511.181>
-[ORC Section 4513.28]:<https://codes.ohio.gov/ohio-revised-code/section-4513.28>
-[ORC Section 4729.01]:<https://codes.ohio.gov/ohio-revised-code/section-4729.01>
-[ORC Section 4923.01]:<https://codes.ohio.gov/ohio-revised-code/section-4923.01>
-[ORC Section 5577.14]:<https://codes.ohio.gov/ohio-revised-code/section-5577.14>
+[ORC 335.12]:<https://codes.ohio.gov/ohio-revised-code/section-335.12>
+[ORC 335.14]:<https://codes.ohio.gov/ohio-revised-code/section-335.14>
+[ORC 3719.01]:<https://codes.ohio.gov/ohio-revised-code/section-3719.01>
+[ORC 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
+[ORC 4506.02]:<https://codes.ohio.gov/ohio-revised-code/section-4506.02>
+[ORC 4506.06]:<https://codes.ohio.gov/ohio-revised-code/section-4506.06>
+[ORC 4506.09]:<https://codes.ohio.gov/ohio-revised-code/section-4506.09>
+[ORC 4506.13]:<https://codes.ohio.gov/ohio-revised-code/section-4506.13>
+[ORC 4506.16]:<https://codes.ohio.gov/ohio-revised-code/section-4506.16>
+[ORC 4506.17]:<https://codes.ohio.gov/ohio-revised-code/section-4506.17>
+[ORC 4506.24]:<https://codes.ohio.gov/ohio-revised-code/section-4506.24>
+[ORC 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506>
+[ORC 4507.16]:<https://codes.ohio.gov/ohio-revised-code/section-4507.16>
+[ORC 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
+[ORC 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
+[ORC 4511.61]:<https://codes.ohio.gov/ohio-revised-code/section-4511.61>
+[ORC 4511.63]:<https://codes.ohio.gov/ohio-revised-code/section-4511.63>
+[ORC 4511.181]:<https://codes.ohio.gov/ohio-revised-code/section-4511.181>
+[ORC 4511.191]:<https://codes.ohio.gov/ohio-revised-code/section-4511.191>
+[ORC 4513.28]:<https://codes.ohio.gov/ohio-revised-code/section-4513.28>
+[ORC 4729.01]:<https://codes.ohio.gov/ohio-revised-code/section-4729.01>
+[ORC 4905]:<https://codes.ohio.gov/ohio-revised-code/chapter-4905>
+[ORC 4921]:<https://codes.ohio.gov/ohio-revised-code/chapter-4921>
+[ORC 4923.01]:<https://codes.ohio.gov/ohio-revised-code/section-4923.01>
+[ORC 4923]:<https://codes.ohio.gov/ohio-revised-code/chapter-4923>
+[ORC 5577.14]:<https://codes.ohio.gov/ohio-revised-code/section-5577.14>

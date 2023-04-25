@@ -17,7 +17,7 @@ title: "Chapter 123: Department of Law"
 ## Cross references
 
 * Director established; duties - see CHTR. Art. VII, Sec. 1, 3
-* Legal counsel - see Ohio R.C. [733.48][ORC Section 733.48]
+* Legal counsel - see Ohio R.C. [733.48][ORC 733.48]
 
 ## 123.01   Department established
 
@@ -75,4 +75,4 @@ Mayor, Council or the Director of Law may request.\
 (Ord. 2006-23. Passed 5-22-06.)
 
 [CFC 7.3]:</articles/article-vii-administrative-officers-departments-boards-and-commissions/#section-vii-3-director-of-law>
-[ORC Section 733.48]:<https://codes.ohio.gov/ohio-revised-code/section-733.48>
+[ORC 733.48]:<https://codes.ohio.gov/ohio-revised-code/section-733.48>

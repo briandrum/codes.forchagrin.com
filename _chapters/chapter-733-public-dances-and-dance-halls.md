@@ -19,11 +19,11 @@ title: "Chapter 733: Public Dances and Dance Halls"
 
 ## Cross references
 
-* Public school entertainments and lectures excluded from municipal regulation - see Ohio R.C. [715.48][ORC Section 715.48]
-* Power to regulate public ballrooms - see Ohio R.C. [715.61][ORC Section 715.61]
-* Human endurance contests - see Ohio R.C. [3773.14][ORC Section 3773.14]
-* Giving a public dance without a permit - see Ohio R.C. [3773.19][ORC Section 3773.19]
-* Intoxicating liquor in dance hall - see Ohio R.C. [4399.14][ORC Section 4399.14]
+* Public school entertainments and lectures excluded from municipal regulation - see Ohio R.C. [715.48][ORC 715.48]
+* Power to regulate public ballrooms - see Ohio R.C. [715.61][ORC 715.61]
+* Human endurance contests - see Ohio R.C. [3773.14][ORC 3773.14]
+* Giving a public dance without a permit - see Ohio R.C. [3773.19][ORC 3773.19]
+* Intoxicating liquor in dance hall - see Ohio R.C. [4399.14][ORC 4399.14]
 
 ## 733.01   Compliance required; definitions
 
@@ -102,8 +102,8 @@ Whoever violates any of the provisions of this chapter shall be fined not more
 than five hundred dollars ($500.00) or imprisoned for not more than six months,
 or both. Each day such violation continues shall constitute a separate offense.
 
-[ORC Section 715.48]:<https://codes.ohio.gov/ohio-revised-code/section-715.48>
-[ORC Section 715.61]:<https://codes.ohio.gov/ohio-revised-code/section-715.61>
-[ORC Section 3773.14]:<https://codes.ohio.gov/ohio-revised-code/section-3773.14>
-[ORC Section 3773.19]:<https://codes.ohio.gov/ohio-revised-code/section-3773.19>
-[ORC Section 4399.14]:<https://codes.ohio.gov/ohio-revised-code/section-4399.14>
+[ORC 715.48]:<https://codes.ohio.gov/ohio-revised-code/section-715.48>
+[ORC 715.61]:<https://codes.ohio.gov/ohio-revised-code/section-715.61>
+[ORC 3773.14]:<https://codes.ohio.gov/ohio-revised-code/section-3773.14>
+[ORC 3773.19]:<https://codes.ohio.gov/ohio-revised-code/section-3773.19>
+[ORC 4399.14]:<https://codes.ohio.gov/ohio-revised-code/section-4399.14>

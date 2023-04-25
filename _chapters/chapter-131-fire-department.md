@@ -21,8 +21,8 @@ all municipal police and fire relief and pension funds as of January 1, 1967.
 
 * Department establishment - see CHTR. Art. VII, Sec. 1
 * Appointment and removal of officers - see CHTR. Art. VII, Sec. 2
-* Volunteer Firemen's Dependents Fund - see Ohio R.C. [Chapter 146][ORC Chapter 146]
-* Fire protection contracts - see Ohio R.C. [307.05][ORC Section 307.05], [505.44][ORC Section 505.44], [717.02][ORC Section 717.02]
+* Volunteer Firemen's Dependents Fund - see Ohio R.C. [Chapter 146][ORC 146]
+* Fire protection contracts - see Ohio R.C. [307.05][ORC 307.05], [505.44][ORC 505.44], [717.02][ORC 717.02]
 * Traffic direction at fires - see TRAF. 303.02
 * Following and parking near emergency or safety vehicle - see TRAF. 331.27
 * Driving over fire hose - see TRAF. 331.28
@@ -91,7 +91,7 @@ shall, if it so desires, carry such insurance against loss or damage or injury
 to persons or property as it deems advisable.\
 (Ord. 1930-142. Passed 12-8-30.)
 
-[ORC Chapter 146]:<https://codes.ohio.gov/ohio-revised-code/chapter-146>
-[ORC Section 307.05]:<https://codes.ohio.gov/ohio-revised-code/section-307.05>
-[ORC Section 505.44]:<https://codes.ohio.gov/ohio-revised-code/section-505.44>
-[ORC Section 717.02]:<https://codes.ohio.gov/ohio-revised-code/section-717.02>
+[ORC 146]:<https://codes.ohio.gov/ohio-revised-code/chapter-146>
+[ORC 307.05]:<https://codes.ohio.gov/ohio-revised-code/section-307.05>
+[ORC 505.44]:<https://codes.ohio.gov/ohio-revised-code/section-505.44>
+[ORC 717.02]:<https://codes.ohio.gov/ohio-revised-code/section-717.02>

@@ -22,7 +22,7 @@ title: "Chapter 1303: Inspections; Enforcement and Penalty"
 
 ## Cross references
 
-* Enforcement; supervision; records - see Ohio R.C. [3781.03][ORC Section 3781.03]
+* Enforcement; supervision; records - see Ohio R.C. [3781.03][ORC 3781.03]
 * Chief Administrative Officer to enforce Building Code regulations - see ADM. 133.03
 * Driving over sidewalks - see TRAF. 331.29
 * Improper drainage - see GEN. OFF. 517.04
@@ -169,4 +169,4 @@ shall constitute a separate offense.\
 (Ord. 69-771. Passed 7-l-68; Ord. 1990-79. Passed 10-8-90.)
 
 [CFCO 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
-[ORC Section 3781.03]:<https://codes.ohio.gov/ohio-revised-code/section-3781.03>
+[ORC 3781.03]:<https://codes.ohio.gov/ohio-revised-code/section-3781.03>

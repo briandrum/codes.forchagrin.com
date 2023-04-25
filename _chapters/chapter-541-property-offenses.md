@@ -25,7 +25,7 @@ title: "Chapter 541: Property Offenses"
 ## Cross references
 
 * See sectional histories for similar State law
-* Parents' liability for destructive acts of their children - see Ohio R.C. [3109.09][ORC Section 3109.09]
+* Parents' liability for destructive acts of their children - see Ohio R.C. [3109.09][ORC 3109.09]
 * Physical harm to property defined - see GEN. OFF. 501.01(d), (f)
 * Reimbursement for investigation or prosecution costs - see GEN. OFF. 501.99(a)
 * Damage to sidewalks - see GEN. OFF. 521.04
@@ -151,7 +151,7 @@ State law.\
     6. _(6)_ Without privilege to do so, and with intent to impair the
     functioning of any computer, computer system, computer network, computer
     software, or computer program, all as defined in Ohio R.C. [2909.01][ORC
-    Section 2909.01], knowingly do any of the following:
+    2909.01], knowingly do any of the following:
 
         1. _(A)_ In any manner or by any means, including, but not limited to,
         computer hacking, alter, damage, destroy, or modify a computer, computer
@@ -168,7 +168,7 @@ State law.\
 2. _(b)_ As used in this section:
 
     1. _(1)_ "Critical Infrastructure Facility". Has the same meaning as in Ohio
-    R.C. [2911.21][ORC Section 2911.21].
+    R.C. [2911.21][ORC 2911.21].
 
     2. _(2)_ "Improperly Tamper". Means to change the physical location or the
     physical condition of the property.
@@ -278,12 +278,12 @@ authorization was secured by deception.
     imposed for the violation, may impound the certificate of registration of
     that snowmobile or off-highway motorcycle or the certificate of registration
     and license plate of that all-purpose vehicle for not less than sixty days.
-    In such a case, Ohio R.C. [4519.47][ORC Section 4519.47] applies.
+    In such a case, Ohio R.C. [4519.47][ORC 4519.47] applies.
 
 5. _(e)_ As used in subsections (a) through (e) of this section:
 
     1. _(1)_ "All-Purpose Vehicle, Off-Highway Motorcycle" and "Snowmobile".
-    Have the same meanings as in Ohio R.C. [4519.01][ORC Section 4519.01].
+    Have the same meanings as in Ohio R.C. [4519.01][ORC 4519.01].
 
     2. _(2)_ "Critical Infrastructure Facility". Means:
 
@@ -351,7 +351,7 @@ authorization was secured by deception.
             including associated buildings and facilities, video service
             headends, towers, utility poles, and utility lines such as fiber
             optic lines. As used in this division, "video service network" has
-            the same meaning as in Ohio R.C. [1332.21][ORC Section 1332.21].
+            the same meaning as in Ohio R.C. [1332.21][ORC 1332.21].
 
             16. _(16)_ Any above-ground portion of an oil, gas, hazardous liquid
             or chemical pipeline, tank, or other storage facility;
@@ -376,22 +376,22 @@ authorization was secured by deception.
         4. _(D)_ An electronic asset of any of the following:
 
             1. _(1)_ An electric light company that is a public utility under
-            Ohio R.C. [4905.02][ORC Section 4905.02];
+            Ohio R.C. [4905.02][ORC 4905.02];
 
             2. _(2)_ An electric cooperative, as defined in Ohio R.C.
-            [4928.01][ORC Section 4928.01];
+            [4928.01][ORC 4928.01];
 
             3. _(3)_ A municipal electric utility, as defined in Ohio R.C.
-            [4928.01][ORC Section 4928.01];
+            [4928.01][ORC 4928.01];
 
             4. _(4)_ A natural gas company that is a public utility under Ohio
-            R.C. [4905.02][ORC Section 4905.02];
+            R.C. [4905.02][ORC 4905.02];
 
             5. _(5)_ A telephone company that is a public utility under Ohio
-            R.C. [4905.02][ORC Section 4905.02];
+            R.C. [4905.02][ORC 4905.02];
 
             6. _(6)_ A video service provider, including a cable operator, as
-            those terms are defined in Ohio R.C. [1332.21][ORC Section 1332.21].
+            those terms are defined in Ohio R.C. [1332.21][ORC 1332.21].
 
     3. _(3)_ "Electronic Asset". Includes, but is not limited to, the hardware,
     software, and data of a programmable electronic device; all communications,
@@ -403,7 +403,7 @@ authorization was secured by deception.
     separate enclosure or room, or portion thereof.
 
     5. _(5)_ "Production Operation, Well, and Well Pad". Have the same meanings
-    as in Ohio R.C. [1509.01][ORC Section 1509.01].\
+    as in Ohio R.C. [1509.01][ORC 1509.01].\
     (ORC 2911.21)
 
 ### 541.051   Aggravated trespass
@@ -425,7 +425,7 @@ misdemeanor of the first degree. Aggravated trespass in violation of subsection
 (a)(2) of this section is a felony to be prosecuted under appropriate state law.
 
 3. _(c)_ As used in this section, "Critical infrastructure facility" has the
-same meaning as in Ohio R.C. [2911.21][ORC Section 2911.21].\
+same meaning as in Ohio R.C. [2911.21][ORC 2911.21].\
 (ORC 2911.211)
 
 ## 541.06   Destruction of shrubs, trees or crops
@@ -469,7 +469,7 @@ containing American Indian human remains.\
 
 ## 541.08   Ethnic intimidation
 
-1. _(a)_ No person shall violate Ohio R.C. [2903.21][ORC Section 2903.21],
+1. _(a)_ No person shall violate Ohio R.C. [2903.21][ORC 2903.21],
 2903.22, 2909.06, 2909.07 or 2917.21(A)(3) to (5) or Sections 537.05, 537.06,
 537.10(a)(3) to (5), 541.03 or 541.04 of the General Offenses Code by reason of
 the race, color, religion or national origin of another person or group of
@@ -506,7 +506,7 @@ the third degree.\
     Chapter 301 of the Traffic Code.
 
     3. _(3)_ "Vessel" and "waters in this State" have the same meanings as in
-    Ohio R.C. [1546.01][ORC Section 1546.01].
+    Ohio R.C. [1546.01][ORC 1546.01].
 
 2. _(b)_ No person shall knowingly, and by any means, drop or throw any object
 at, onto, or in the path of any of the following:
@@ -601,14 +601,14 @@ public amusement.
 any misdemeanor classification.)
 
 [CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[ORC Section 1332.21]:<https://codes.ohio.gov/ohio-revised-code/section-1332.21>
-[ORC Section 1509.01]:<https://codes.ohio.gov/ohio-revised-code/section-1509.01>
-[ORC Section 1546.01]:<https://codes.ohio.gov/ohio-revised-code/section-1546.01>
-[ORC Section 2903.21]:<https://codes.ohio.gov/ohio-revised-code/section-2903.21>
-[ORC Section 2909.01]:<https://codes.ohio.gov/ohio-revised-code/section-2909.01>
-[ORC Section 2911.21]:<https://codes.ohio.gov/ohio-revised-code/section-2911.21>
-[ORC Section 3109.09]:<https://codes.ohio.gov/ohio-revised-code/section-3109.09>
-[ORC Section 4519.01]:<https://codes.ohio.gov/ohio-revised-code/section-4519.01>
-[ORC Section 4519.47]:<https://codes.ohio.gov/ohio-revised-code/section-4519.47>
-[ORC Section 4905.02]:<https://codes.ohio.gov/ohio-revised-code/section-4905.02>
-[ORC Section 4928.01]:<https://codes.ohio.gov/ohio-revised-code/section-4928.01>
+[ORC 1332.21]:<https://codes.ohio.gov/ohio-revised-code/section-1332.21>
+[ORC 1509.01]:<https://codes.ohio.gov/ohio-revised-code/section-1509.01>
+[ORC 1546.01]:<https://codes.ohio.gov/ohio-revised-code/section-1546.01>
+[ORC 2903.21]:<https://codes.ohio.gov/ohio-revised-code/section-2903.21>
+[ORC 2909.01]:<https://codes.ohio.gov/ohio-revised-code/section-2909.01>
+[ORC 2911.21]:<https://codes.ohio.gov/ohio-revised-code/section-2911.21>
+[ORC 3109.09]:<https://codes.ohio.gov/ohio-revised-code/section-3109.09>
+[ORC 4519.01]:<https://codes.ohio.gov/ohio-revised-code/section-4519.01>
+[ORC 4519.47]:<https://codes.ohio.gov/ohio-revised-code/section-4519.47>
+[ORC 4905.02]:<https://codes.ohio.gov/ohio-revised-code/section-4905.02>
+[ORC 4928.01]:<https://codes.ohio.gov/ohio-revised-code/section-4928.01>

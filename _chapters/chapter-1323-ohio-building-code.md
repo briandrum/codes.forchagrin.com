@@ -12,11 +12,11 @@ title: "Chapter 1323: Ohio Building Code"
 
 ## Cross references
 
-* Adoption of technical codes - see Ohio R.C. [731.231][ORC Section 731.231]
+* Adoption of technical codes - see Ohio R.C. [731.231][ORC 731.231]
 * State building regulations do not prevent municipalities from making further
-regulations - see Ohio R.C. [3781.01][ORC Section 3781.01]
+regulations - see Ohio R.C. [3781.01][ORC 3781.01]
 * State examination of public buildings as to fire safety - see Ohio R.C.
-[737.34][ORC Section 737.34]
+[737.34][ORC 737.34]
 
 ## 1323.01   Application of state standards; conflict
 
@@ -31,6 +31,6 @@ incorporated and made a part of this Building Code as if the same were written
 into such Building Code in their entirety. In case of conflict between them,
 the stricter provisions shall prevail.
 
-[ORC Section 731.231]:<https://codes.ohio.gov/ohio-revised-code/section-731.231>
-[ORC Section 737.34]:<https://codes.ohio.gov/ohio-revised-code/section-737.34>
-[ORC Section 3781.01]:<https://codes.ohio.gov/ohio-revised-code/section-3781.01>
+[ORC 731.231]:<https://codes.ohio.gov/ohio-revised-code/section-731.231>
+[ORC 737.34]:<https://codes.ohio.gov/ohio-revised-code/section-737.34>
+[ORC 3781.01]:<https://codes.ohio.gov/ohio-revised-code/section-3781.01>

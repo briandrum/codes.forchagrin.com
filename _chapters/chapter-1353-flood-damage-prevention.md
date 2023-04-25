@@ -21,10 +21,10 @@ title: "Chapter 1353: Flood Damage Prevention"
 
 ## Cross references
 
-* Reduction of assessed valuation for establishing reservoirs - see Ohio R.C. [1521.09][ORC Section 1521.09]
-* Construction permits and prohibitions for dams, dikes and levees - see Ohio R.C. [1521.06][ORC Section 1521.06]
-* Flood control bonds; public capital improvements - see Ohio Const., Art. VIII, §2(i); Ohio R.C. [129.70][ORC Section 129.70] et seq.
-* Basis of zoning districts - see Ohio R.C. [713.10][ORC Section 713.10]
+* Reduction of assessed valuation for establishing reservoirs - see Ohio R.C. [1521.09][ORC 1521.09]
+* Construction permits and prohibitions for dams, dikes and levees - see Ohio R.C. [1521.06][ORC 1521.06]
+* Flood control bonds; public capital improvements - see Ohio Const., Art. VIII, §2(i); Ohio R.C. [129.70][ORC 129.70] et seq.
+* Basis of zoning districts - see Ohio R.C. [713.10][ORC 713.10]
 
 ## 1353.01   Statutory authorization; findings of fact; purpose and objectives
 
@@ -293,7 +293,7 @@ sections, which is built on a permanent chassis and is designed for use with or
 without a permanent foundation when connected to the required utilities. The
 term "manufactured home" does not include a "recreational vehicle". For the
 purposes of these regulations, a manufactured home includes manufactured homes
-and mobile homes as defined in [Chapter 3733][ORC Chapter 3733] of the Ohio
+and mobile homes as defined in [Chapter 3733][ORC 3733] of the Ohio
 Revised Code.
 
 23. _(w)_ "Manufactured home park" means as specified in the Ohio Administrative
@@ -326,7 +326,7 @@ subsequent improvements to such structures.
 26. _(z)_ "Person" means any individual or group of individuals, corporation,
 partnership, association, or any other entity, including state and local
 governments and agencies. An agency is further defined in the Ohio Revised Code
-[Section 111.15][ORC Section 111.15] as any governmental entity of the State and
+[Section 111.15][ORC 111.15] as any governmental entity of the State and
 includes, but is not limited to, any board, department, division, commission,
 bureau, society, council, institution, state college or university, community
 college district, technical college district, or state community college.
@@ -349,7 +349,7 @@ Adjutant General's Department, or any court.
 
 28. _(bb)_ "Registered Professional Architect" means a person registered to
 engage in the practice of architecture under the provisions of [Sections
-4703.01][ORC Section 4703.01] to [4703.19][ORC Section 4703.19] of the Ohio
+4703.01][ORC 4703.01] to [4703.19][ORC 4703.19] of the Ohio
 Revised Code.
 
 29. _(cc)_ "Registered Professional Engineer" means a person registered as a
@@ -1163,11 +1163,11 @@ such other lawful action as is necessary to prevent or remedy any violation.\
 [CFCO 1353.06]:</chapters/chapter-1353-flood-damage-prevention/#135306-provisions-for-flood-hazard-reduction>
 [CFCO 1353.07(a)]:</chapters/chapter-1353-flood-damage-prevention/#135307(a)>
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
-[ORC Chapter 3733]:<https://codes.ohio.gov/ohio-revised-code/chapter-3733>
-[ORC Section 111.15]:<https://codes.ohio.gov/ohio-revised-code/section-111.15>
-[ORC Section 129.70]:<https://codes.ohio.gov/ohio-revised-code/section-129.70>
-[ORC Section 713.10]:<https://codes.ohio.gov/ohio-revised-code/section-713.10>
-[ORC Section 1521.06]:<https://codes.ohio.gov/ohio-revised-code/section-1521.06>
-[ORC Section 1521.09]:<https://codes.ohio.gov/ohio-revised-code/section-1521.09>
-[ORC Section 4703.01]:<https://codes.ohio.gov/ohio-revised-code/section-4703.01>
-[ORC Section 4703.19]:<https://codes.ohio.gov/ohio-revised-code/section-4703.19>
+[ORC 3733]:<https://codes.ohio.gov/ohio-revised-code/chapter-3733>
+[ORC 111.15]:<https://codes.ohio.gov/ohio-revised-code/section-111.15>
+[ORC 129.70]:<https://codes.ohio.gov/ohio-revised-code/section-129.70>
+[ORC 713.10]:<https://codes.ohio.gov/ohio-revised-code/section-713.10>
+[ORC 1521.06]:<https://codes.ohio.gov/ohio-revised-code/section-1521.06>
+[ORC 1521.09]:<https://codes.ohio.gov/ohio-revised-code/section-1521.09>
+[ORC 4703.01]:<https://codes.ohio.gov/ohio-revised-code/section-4703.01>
+[ORC 4703.19]:<https://codes.ohio.gov/ohio-revised-code/section-4703.19>

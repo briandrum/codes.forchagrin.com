@@ -19,7 +19,7 @@ title: "Chapter 917: Sanitary Sewer Charges"
 
 ## Cross references
 
-* Weekly deposit of sewer rentals collected - see Ohio R.C. [729.52][ORC Section 729.52]
+* Weekly deposit of sewer rentals collected - see Ohio R.C. [729.52][ORC 729.52]
 * Treatment and tests - see Streets & Public Services [911.09][CFCO 911.09]
 
 ## 917.01   Definitions
@@ -271,4 +271,4 @@ than five hundred dollars ($500.00) or imprisoned not more than six months, or
 both. Each day such violation continues shall constitute a separate offense.
 
 [CFCO 911.09]:</chapters/chapter-911-sewers-generally/#91109-treatment-tests-special-agreements>
-[ORC Section 729.52]:<https://codes.ohio.gov/ohio-revised-code/section-729.52>
+[ORC 729.52]:<https://codes.ohio.gov/ohio-revised-code/section-729.52>

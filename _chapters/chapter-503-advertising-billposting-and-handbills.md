@@ -14,7 +14,7 @@ title: "Chapter 503: Advertising, Billposting and Handbills"
 
 ## Cross references
 
-* Power to regulate - see Ohio R.C. [715.65][ORC Section 715.65]
+* Power to regulate - see Ohio R.C. [715.65][ORC 715.65]
 * Defacing or destroying notifications - see GEN. OFF. 541.04
 * Unauthorized traffic signs; advertising on traffic signs - see TRAF. 313.06
 * Driving for advertising purposes - see TRAF. 331.40
@@ -52,4 +52,4 @@ laws of the State or upon written permission of the Mayor.\
 Whoever violates any provision of this chapter is guilty of a misdemeanor of
 the first degree.
 
-[ORC Section 715.65]:<https://codes.ohio.gov/ohio-revised-code/section-715.65>
+[ORC 715.65]:<https://codes.ohio.gov/ohio-revised-code/section-715.65>

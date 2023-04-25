@@ -46,7 +46,7 @@ temporary or permanent capacity, and includes, but is not limited to,
 legislators, judges and law enforcement officers. "Public official" does not
 include an employee, officer, or governor-appointed member of the board of
 directors of the nonprofit corporation formed under Ohio R.C. [187.01][ORC
-Section 187.01].
+187.01].
 
 2. _(b)_ "Public servant" means any of the following:
 
@@ -66,7 +66,7 @@ Section 187.01].
     candidate in any primary, general or special election. "Public servant" does
     not include an employee, officer, or governor-appointed member of the board
     of directors of the nonprofit corporation formed under Ohio R.C.
-    [187.01][ORC Section 187.01].
+    [187.01][ORC 187.01].
 
 3. _(c)_ "Party official" means any person who holds an elective or appointive
 post in a political party in the United States or this State, by virtue of which
@@ -86,7 +86,7 @@ laws of the United States or alleged or found to be a delinquent child or unruly
 child in this State or another state or under the laws of the United States;
 hospitalization, institutionalization or confinement in any public or private
 facility that is ordered pursuant to or under the authority of Ohio R.C.
-[2945.37][ORC Section 2945.37], 2945.371, 2945.38, 2945.39 or 2945.40, 2945.401
+[2945.37][ORC 2945.37], 2945.371, 2945.38, 2945.39 or 2945.40, 2945.401
 or 2945.402; confinement in any vehicle for transportation to or from any
 facility of any of those natures; detention for extradition or deportation,
 except as provided in this subsection, supervision by any employee of any
@@ -97,9 +97,9 @@ Correction of a person on any type of release from a State correctional
 institution; or confinement in any vehicle, airplane, or place while being
 returned from outside of this State into this State by a private person or
 entity pursuant to a contract entered into under Ohio R.C. [311.29(E)][ORC
-Section 311.29] or Ohio R.C. [5149.03(B)][ORC Section 5149.03]. For a person
+311.29] or Ohio R.C. [5149.03(B)][ORC 5149.03]. For a person
 confined in a county jail who participates in a county jail industry program
-pursuant to Ohio R.C. [5147.30][ORC Section 5147.30], "detention" includes time
+pursuant to Ohio R.C. [5147.30][ORC 5147.30], "detention" includes time
 spent at an assigned work site and going to and from the work site.
 
 6. _(f)_ "Detention facility" means any public or private place used for the
@@ -114,10 +114,10 @@ not included in those terms before September 17, 1986.
 
 8. _(h)_ "Campaign committee," "contribution," "political action committee,"
 "legislative campaign fund," and "political party" have the same meanings as in
-Ohio R.C. [3517.01][ORC Section 3517.01].
+Ohio R.C. [3517.01][ORC 3517.01].
 
 9. _(i)_ "Provider agreement" has the same meaning as in Ohio R.C. [5164.01][ORC
-Section 5164.01].\
+5164.01].\
 (ORC 2921.01)
 
 ## 525.02   Falsification
@@ -137,8 +137,7 @@ applies:
     unemployment compensation; Ohio works first; prevention, retention and
     contingency benefits and services; disability financial assistance;
     retirement benefits or health care coverage from a state retirement system;
-    economic development assistance as defined in Ohio R.C. [9.66][ORC Section
-    9.66]; or other benefits administered by a governmental agency or paid out
+    economic development assistance as defined in Ohio R.C. [9.66][ORC 9.66]; or other benefits administered by a governmental agency or paid out
     of a public treasury.
 
     5. _(5)_ The statement is made with purpose to secure the issuance by a
@@ -175,8 +174,7 @@ applies:
     recorded with the Secretary of State, a county recorder, or the clerk of a
     court of record.
 
-    13. _(13)_ The statement is required under Ohio R.C. [5743.71][ORC Section
-    5743.71] in connection with the person's purchase of cigarettes or tobacco
+    13. _(13)_ The statement is required under Ohio R.C. [5743.71][ORC 5743.71] in connection with the person's purchase of cigarettes or tobacco
     products in a delivery sale.
 
 2. _(b)_ It is no defense to a charge under subsection (a)(6) hereof that the
@@ -216,13 +214,13 @@ or loss to person or property as a result of a violation of this section.\
     marshal, member of the organized police department of a municipal
     corporation or township constable who is employed by a political subdivision
     of this State; a member of a police force employed by a metropolitan housing
-    authority under Ohio R.C. [3735.31(D)][ORC Section 3735.31]; a member of a
+    authority under Ohio R.C. [3735.31(D)][ORC 3735.31]; a member of a
     police force employed by a regional transit authority under Ohio R.C.
-    [306.35(Y)][ORC Section 306.35], a State university law enforcement officer
-    appointed under Ohio R.C. [3345.04][ORC Section 3345.04]; a veterans' home
-    police officer appointed under Ohio R.C. [5907.02][ORC Section 5907.02]; a
+    [306.35(Y)][ORC 306.35], a State university law enforcement officer
+    appointed under Ohio R.C. [3345.04][ORC 3345.04]; a veterans' home
+    police officer appointed under Ohio R.C. [5907.02][ORC 5907.02]; a
     special police officer employed by a port authority under Ohio R.C.
-    [4582.04][ORC Section 4582.04] or 4582.28; an officer, agent, or employee of
+    [4582.04][ORC 4582.04] or 4582.28; an officer, agent, or employee of
     the State or any of its agencies, instrumentalities or political
     subdivisions, upon whom, by statute, a duty to conserve the peace or to
     enforce all or certain laws is imposed and the authority to arrest violators
@@ -241,8 +239,7 @@ or loss to person or property as a result of a violation of this section.\
     convicted of offenses under the criminal laws of the United States.
 
     4. _(4)_ "Investigator of the Bureau of Criminal Identification and
-    Investigation" has the same meaning as in Ohio R.C. [2903.11][ORC Section
-    2903.11].
+    Investigation" has the same meaning as in Ohio R.C. [2903.11][ORC 2903.11].
 
     5. _(5)_ "Impersonate" means to act the part of, assume the identity of,
     wear the uniform or any part of the uniform of or display the identification
@@ -285,8 +282,7 @@ prosecution.
 of the following apply:
 
     1. _(1)_ The pending prosecution involved is for violation of Sections
-    545.05, 545.07, 545.09 or 545.10(b)(2), or Ohio R.C. [2913.02][ORC Section
-    2913.02], 2913.11, 2913.21(B)(2) or 2913.47, of which the actor under this
+    545.05, 545.07, 545.09 or 545.10(b)(2), or Ohio R.C. [2913.02][ORC 2913.02], 2913.11, 2913.21(B)(2) or 2913.47, of which the actor under this
     section was the victim.
 
     2. _(2)_ The thing of value demanded, accepted or agreed to be accepted, in
@@ -311,7 +307,7 @@ misdemeanor of the first degree.\
     such information to law enforcement authorities.
 
     2. _(2)_ No person, knowing that a violation of division (B) of Ohio R.C.
-    [2913.04][ORC Section 2913.04] has been, or is being committed or that the
+    [2913.04][ORC 2913.04] has been, or is being committed or that the
     person has received information derived from such a violation, shall
     knowingly fail to report the violation to law enforcement authorities.
 
@@ -352,7 +348,7 @@ person's knowledge that may have a bearing on the investigation of the death.
 
         4. _(D)_ Any physical harm to persons caused by or as the result of the
         use of fireworks, novelties and trick noisemakers, and wire sparklers,
-        as each is defined by Ohio R.C. [3743.01][ORC Section 3743.01].
+        as each is defined by Ohio R.C. [3743.01][ORC 3743.01].
 
     2. _(2)_ No physician, nurse, physician assistant, or limited practitioner
     who, outside a hospital, sanitarium, or other medical facility, attends or
@@ -378,13 +374,13 @@ person's knowledge that may have a bearing on the investigation of the death.
     working days after attending or treating the victim, a written report of the
     burn injury with the office of the State Fire Marshal. The report shall
     comply with the uniform standard developed by the State Fire Marshal
-    pursuant to Ohio R.C. [3737.22(A)(15)][ORC Section 3737.22].
+    pursuant to Ohio R.C. [3737.22(A)(15)][ORC 3737.22].
 
     5. _(5)_ Anyone participating in the making of reports under subsection (e)
     of this section or anyone participating in a judicial proceeding resulting
     from the reports is immune from any civil or criminal liability that
     otherwise might be incurred or imposed as a result of such actions.
-    Notwithstanding Ohio R.C. [4731.22][ORC Section 4731.22], the
+    Notwithstanding Ohio R.C. [4731.22][ORC 4731.22], the
     physician-patient relationship or advanced practice registered nurse-patient
     relationship is not a ground for excluding evidence regarding a person's
     burn injury or the cause of the burn injury in any judicial proceeding
@@ -398,11 +394,11 @@ person's knowledge that may have a bearing on the investigation of the death.
     professional counselor, independent marriage and family therapist or
     marriage and family therapist who knows or has reasonable cause to believe
     that a patient or client has been the victim of domestic violence, as
-    defined in Ohio R.C. [3113.31][ORC Section 3113.31], shall note that
+    defined in Ohio R.C. [3113.31][ORC 3113.31], shall note that
     knowledge or belief and the basis for it in the patient's or client's
     records.
 
-    2. _(2)_ Notwithstanding Ohio R.C. [4731.22][ORC Section 4731.22], the
+    2. _(2)_ Notwithstanding Ohio R.C. [4731.22][ORC 4731.22], the
     physician-patient privilege or advanced practice registered nurse-patient
     privilege shall not be a ground for excluding any information regarding the
     report containing the knowledge or belief noted under subsection (f)(1) of
@@ -428,7 +424,7 @@ information, when any of the following applies:
     immediate family.
 
     3. _(3)_ Disclosure of the information would amount to revealing a news
-    source, privileged under Ohio R.C. [2739.04][ORC Section 2739.04] or
+    source, privileged under Ohio R.C. [2739.04][ORC 2739.04] or
     2739.12.
 
     4. _(4)_ Disclosure of the information would amount to disclosure by a
@@ -443,14 +439,14 @@ information, when any of the following applies:
     danger of drug dependence, which program is maintained or conducted by a
     hospital, clinic, person, agency, or community addiction services provider
     whose alcohol and drug addiction services are certified pursuant to Ohio
-    R.C. [5119.36][ORC Section 5119.36].
+    R.C. [5119.36][ORC 5119.36].
 
     6. _(6)_ Disclosure would amount to revealing information acquired by the
     actor in the course of the actor's duties in connection with a bona fide
     program for providing counseling services to victims of crimes that are
-    violations of Ohio R.C. [2907.02][ORC Section 2907.02] or 2907.05 or to
+    violations of Ohio R.C. [2907.02][ORC 2907.02] or 2907.05 or to
     victims of felonious sexual penetration in violation of former Ohio R.C.
-    [2907.12][ORC Section 2907.12]. As used in this subsection, "counseling
+    [2907.12][ORC 2907.12]. As used in this subsection, "counseling
     services" include services provided in an informal setting by a person who,
     by education or experience, is competent to provide those services.
 
@@ -558,10 +554,10 @@ person or child aided committed.
 4. _(d)_ As used in this section:
 
     1. _(1)_ "Adult" and "child" have the same meanings as in Ohio R.C.
-    [2151.011][ORC Section 2151.011].
+    [2151.011][ORC 2151.011].
 
     2. _(2)_ "Delinquent child" has the same meaning as in Ohio R.C.
-    [2152.02][ORC Section 2152.02].\
+    [2152.02][ORC 2152.02].\
     (ORC 2921.32)
 
 ## 525.09   Resisting arrest
@@ -657,10 +653,10 @@ degree.
 
 6. _(f)_ It is not a violation of this section for a prosecuting attorney to
 appoint assistants and employees in accordance with Ohio R.C. [309.06][ORC
-Section 309.06] and 2921.421, or for a chief legal officer of a municipal
+309.06] and 2921.421, or for a chief legal officer of a municipal
 corporation or an official designated as prosecutor in a municipal corporation
 to appoint assistants and employees in accordance with Ohio R.C. [733.621][ORC
-Section 733.621] and 2921.421.
+733.621] and 2921.421.
 
 7. _(g)_ Any public contract in which a public official, a member of the public
 official's family, or any of the public official's business associates has an
@@ -685,7 +681,7 @@ section is void and unenforceable.
         maintenance of any public property.
 
     2. _(2)_ "Chief legal officer" has the same meaning as in Ohio R.C.
-    [733.621][ORC Section 733.621].\
+    [733.621][ORC 733.621].\
     (ORC 2921.42)
 
 ## 525.11   Soliciting or receiving improper compensation
@@ -694,7 +690,7 @@ section is void and unenforceable.
 knowingly promise or give to a public servant either of the following:
 
     1. _(1)_ Any compensation, other than is allowed by Ohio R.C.
-    [102.03(G)][ORC Section 102.03], (H), and (I) or other provisions of law, to
+    [102.03(G)][ORC 102.03], (H), and (I) or other provisions of law, to
     perform the public servant's official duties, to perform any other act or
     service in the public servant's public capacity, for the general performance
     of the duties of the public servant's public office or public employment, or
@@ -782,7 +778,7 @@ act expressly forbidden by law with respect to the public servant's office.
 misdemeanor of the second degree.
 
 7. _(g)_ As used in this section, "public servant" includes an officer or
-employee of a contractor as defined in Ohio R.C. [9.08][ORC Section 9.08].
+employee of a contractor as defined in Ohio R.C. [9.08][ORC 9.08].
 
 ## 525.13   Interfering with civil rights
 
@@ -978,7 +974,7 @@ an assistance dog in either of the following circumstances:
         dog or horse that was the subject of the violation.
 
 6. _(f)_ This section does not apply to a licensed veterinarian whose conduct is
-in accordance with Ohio R.C. [Chapter 4741][ORC Chapter 4741].
+in accordance with Ohio R.C. [Chapter 4741][ORC 4741].
 
 7. _(g)_ This section only applies to an offender who knows or should know at
 the time of the violation that the police dog or horse or assistance dog that is
@@ -1005,13 +1001,13 @@ assistance dog.
         results in substantial suffering.
 
     4. _(4)_ "Assistance dog", "blind", and "mobility impaired person" have the
-    same meanings as in Ohio R.C. [955.011][ORC Section 955.011].\
+    same meanings as in Ohio R.C. [955.011][ORC 955.011].\
     (ORC 2921.321)
 
 ## 525.16   False allegation of peace officer misconduct
 
 1. _(a)_ As used in this section, "peace officer" has the same meaning as in
-Ohio R.C. [2935.01][ORC Section 2935.01].
+Ohio R.C. [2935.01][ORC 2935.01].
 
 2. _(b)_ No person shall knowingly file a complaint against a peace officer that
 alleges that the peace officer engaged in misconduct in the performance of the
@@ -1068,38 +1064,38 @@ crime that the person is suspected of committing.\
 any misdemeanor classification.)
 
 [CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[ORC Chapter 4741]:<https://codes.ohio.gov/ohio-revised-code/chapter-4741>
-[ORC Section 9.08]:<https://codes.ohio.gov/ohio-revised-code/section-9.08>
-[ORC Section 9.66]:<https://codes.ohio.gov/ohio-revised-code/section-9.66>
-[ORC Section 102.03]:<https://codes.ohio.gov/ohio-revised-code/section-102.03>
-[ORC Section 187.01]:<https://codes.ohio.gov/ohio-revised-code/section-187.01>
-[ORC Section 306.35]:<https://codes.ohio.gov/ohio-revised-code/section-306.35>
-[ORC Section 309.06]:<https://codes.ohio.gov/ohio-revised-code/section-309.06>
-[ORC Section 311.29]:<https://codes.ohio.gov/ohio-revised-code/section-311.29>
-[ORC Section 733.621]:<https://codes.ohio.gov/ohio-revised-code/section-733.621>
-[ORC Section 733.621]:<https://codes.ohio.gov/ohio-revised-code/section-733.621>
-[ORC Section 955.011]:<https://codes.ohio.gov/ohio-revised-code/section-955.011>
-[ORC Section 2151.011]:<https://codes.ohio.gov/ohio-revised-code/section-2151.011>
-[ORC Section 2152.02]:<https://codes.ohio.gov/ohio-revised-code/section-2152.02>
-[ORC Section 2739.04]:<https://codes.ohio.gov/ohio-revised-code/section-2739.04>
-[ORC Section 2903.11]:<https://codes.ohio.gov/ohio-revised-code/section-2903.11>
-[ORC Section 2907.02]:<https://codes.ohio.gov/ohio-revised-code/section-2907.02>
-[ORC Section 2907.12]:<https://codes.ohio.gov/ohio-revised-code/section-2907.12>
-[ORC Section 2913.02]:<https://codes.ohio.gov/ohio-revised-code/section-2913.02>
-[ORC Section 2913.04]:<https://codes.ohio.gov/ohio-revised-code/section-2913.04>
-[ORC Section 2935.01]:<https://codes.ohio.gov/ohio-revised-code/section-2935.01>
-[ORC Section 2945.37]:<https://codes.ohio.gov/ohio-revised-code/section-2945.37>
-[ORC Section 3113.31]:<https://codes.ohio.gov/ohio-revised-code/section-3113.31>
-[ORC Section 3345.04]:<https://codes.ohio.gov/ohio-revised-code/section-3345.04>
-[ORC Section 3517.01]:<https://codes.ohio.gov/ohio-revised-code/section-3517.01>
-[ORC Section 3735.31]:<https://codes.ohio.gov/ohio-revised-code/section-3735.31>
-[ORC Section 3737.22]:<https://codes.ohio.gov/ohio-revised-code/section-3737.22>
-[ORC Section 3743.01]:<https://codes.ohio.gov/ohio-revised-code/section-3743.01>
-[ORC Section 4582.04]:<https://codes.ohio.gov/ohio-revised-code/section-4582.04>
-[ORC Section 4731.22]:<https://codes.ohio.gov/ohio-revised-code/section-4731.22>
-[ORC Section 5119.36]:<https://codes.ohio.gov/ohio-revised-code/section-5119.36>
-[ORC Section 5147.30]:<https://codes.ohio.gov/ohio-revised-code/section-5147.30>
-[ORC Section 5149.03]:<https://codes.ohio.gov/ohio-revised-code/section-5149.03>
-[ORC Section 5164.01]:<https://codes.ohio.gov/ohio-revised-code/section-5164.01>
-[ORC Section 5743.71]:<https://codes.ohio.gov/ohio-revised-code/section-5743.71>
-[ORC Section 5907.02]:<https://codes.ohio.gov/ohio-revised-code/section-5907.02>
+[ORC 4741]:<https://codes.ohio.gov/ohio-revised-code/chapter-4741>
+[ORC 9.08]:<https://codes.ohio.gov/ohio-revised-code/section-9.08>
+[ORC 9.66]:<https://codes.ohio.gov/ohio-revised-code/section-9.66>
+[ORC 102.03]:<https://codes.ohio.gov/ohio-revised-code/section-102.03>
+[ORC 187.01]:<https://codes.ohio.gov/ohio-revised-code/section-187.01>
+[ORC 306.35]:<https://codes.ohio.gov/ohio-revised-code/section-306.35>
+[ORC 309.06]:<https://codes.ohio.gov/ohio-revised-code/section-309.06>
+[ORC 311.29]:<https://codes.ohio.gov/ohio-revised-code/section-311.29>
+[ORC 733.621]:<https://codes.ohio.gov/ohio-revised-code/section-733.621>
+[ORC 733.621]:<https://codes.ohio.gov/ohio-revised-code/section-733.621>
+[ORC 955.011]:<https://codes.ohio.gov/ohio-revised-code/section-955.011>
+[ORC 2151.011]:<https://codes.ohio.gov/ohio-revised-code/section-2151.011>
+[ORC 2152.02]:<https://codes.ohio.gov/ohio-revised-code/section-2152.02>
+[ORC 2739.04]:<https://codes.ohio.gov/ohio-revised-code/section-2739.04>
+[ORC 2903.11]:<https://codes.ohio.gov/ohio-revised-code/section-2903.11>
+[ORC 2907.02]:<https://codes.ohio.gov/ohio-revised-code/section-2907.02>
+[ORC 2907.12]:<https://codes.ohio.gov/ohio-revised-code/section-2907.12>
+[ORC 2913.02]:<https://codes.ohio.gov/ohio-revised-code/section-2913.02>
+[ORC 2913.04]:<https://codes.ohio.gov/ohio-revised-code/section-2913.04>
+[ORC 2935.01]:<https://codes.ohio.gov/ohio-revised-code/section-2935.01>
+[ORC 2945.37]:<https://codes.ohio.gov/ohio-revised-code/section-2945.37>
+[ORC 3113.31]:<https://codes.ohio.gov/ohio-revised-code/section-3113.31>
+[ORC 3345.04]:<https://codes.ohio.gov/ohio-revised-code/section-3345.04>
+[ORC 3517.01]:<https://codes.ohio.gov/ohio-revised-code/section-3517.01>
+[ORC 3735.31]:<https://codes.ohio.gov/ohio-revised-code/section-3735.31>
+[ORC 3737.22]:<https://codes.ohio.gov/ohio-revised-code/section-3737.22>
+[ORC 3743.01]:<https://codes.ohio.gov/ohio-revised-code/section-3743.01>
+[ORC 4582.04]:<https://codes.ohio.gov/ohio-revised-code/section-4582.04>
+[ORC 4731.22]:<https://codes.ohio.gov/ohio-revised-code/section-4731.22>
+[ORC 5119.36]:<https://codes.ohio.gov/ohio-revised-code/section-5119.36>
+[ORC 5147.30]:<https://codes.ohio.gov/ohio-revised-code/section-5147.30>
+[ORC 5149.03]:<https://codes.ohio.gov/ohio-revised-code/section-5149.03>
+[ORC 5164.01]:<https://codes.ohio.gov/ohio-revised-code/section-5164.01>
+[ORC 5743.71]:<https://codes.ohio.gov/ohio-revised-code/section-5743.71>
+[ORC 5907.02]:<https://codes.ohio.gov/ohio-revised-code/section-5907.02>

@@ -13,8 +13,8 @@ title: "Chapter 103: Official Standards"
 
 ## Cross references
 
-* State standard of time - see Ohio R.C. [1.04][ORC Section 1.04]
-* State legal holidays - see Ohio R.C. [1.14][ORC Section 1.14], [5.20][ORC Section 5.20] et seq.
+* State standard of time - see Ohio R.C. [1.04][ORC 1.04]
+* State legal holidays - see Ohio R.C. [1.14][ORC 1.14], [5.20][ORC 5.20] et seq.
 
 ## 103.01   Bench marks
 
@@ -56,6 +56,6 @@ forth in [Section 103.01][CFCO 103.01].\
 (Ord. 1957-420. Passed 12-28-57.)
 
 [CFCO 103.01]:</chapters/chapter-103-official-standards/#10301-bench-marks>
-[ORC Section 1.04]:<https://codes.ohio.gov/ohio-revised-code/section-1.04>
-[ORC Section 1.14]:<https://codes.ohio.gov/ohio-revised-code/section-1.14>
-[ORC Section 5.20]:<https://codes.ohio.gov/ohio-revised-code/section-5.20>
+[ORC 1.04]:<https://codes.ohio.gov/ohio-revised-code/section-1.04>
+[ORC 1.14]:<https://codes.ohio.gov/ohio-revised-code/section-1.14>
+[ORC 5.20]:<https://codes.ohio.gov/ohio-revised-code/section-5.20>

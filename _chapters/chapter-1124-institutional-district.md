@@ -178,4 +178,4 @@ signs and environmental performance, refer to Chapters 1141 - 1150 of the
 Planning and Zoning Code.\
 (Ord. 2019-39. Passed 8-13-19.)
 
-[CFCO 1150]:</chapters/chapter-1150-outdoor-lighting/>
+[CFCO 1150]:</chapters/chapter-1150-outdoor-lighting>

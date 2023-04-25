@@ -16,7 +16,7 @@ title: "Chapter 311: Street Obstructions and Special Uses"
 ## Cross references
 
 * See sectional history for similar State law
-* Power to regulate processions or assemblages - see Ohio R.C. [4511.07(C)][ORC Section 4511.07]
+* Power to regulate processions or assemblages - see Ohio R.C. [4511.07(C)][ORC 4511.07]
 * Dropping, sifting and leaking loads - see TRAF. 339.08
 
 ## 311.01   Placing injurious material or obstruction in street
@@ -162,4 +162,4 @@ offense, the offender previously has been convicted of two or more predicate
 motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 
-[ORC Section 4511.07]:<https://codes.ohio.gov/ohio-revised-code/section-4511.07>
+[ORC 4511.07]:<https://codes.ohio.gov/ohio-revised-code/section-4511.07>

@@ -23,9 +23,9 @@ title: "Chapter 313: Traffic Control Devices"
 ## Cross references
 
 * See sectional histories for similar State law
-* Designation of through streets or stop intersections - see Ohio R.C. [4511.07(F)][ORC Section 4511.07], 4511.65
-* Uniform system of traffic control devices - see Ohio R.C. [4511.09][ORC Section 4511.09], 4511.11(D)
-* Placing and maintaining local traffic control devices - see Ohio R.C. [4511.10][ORC Section 4511.10], 4511.11
+* Designation of through streets or stop intersections - see Ohio R.C. [4511.07(F)][ORC 4511.07], 4511.65
+* Uniform system of traffic control devices - see Ohio R.C. [4511.09][ORC 4511.09], 4511.11(D)
+* Placing and maintaining local traffic control devices - see Ohio R.C. [4511.10][ORC 4511.10], 4511.11
 * Traffic control devices defined - TRAF. 301.46
 
 ## 313.01   Obedience to traffic control devices
@@ -332,7 +332,7 @@ signal.
 
 8. _(h)_ **Exception.** This section does not apply at railroad grade crossings.
 Conduct of drivers of vehicles approaching railroad grade crossings shall be
-governed by Ohio R.C. [4511.61][ORC Section 4511.61] and 4511.62.\
+governed by Ohio R.C. [4511.61][ORC 4511.61] and 4511.62.\
 (ORC 4511.13)
 
 ## 313.04   Lane-use control signal indications
@@ -414,7 +414,7 @@ the third degree.\
 
 ## 313.06   Flashing traffic signals
 
-(Former Ohio R.C. [4511.15][ORC Section 4511.15] from which [Section
+(Former Ohio R.C. [4511.15][ORC 4511.15] from which [Section
 313.06][CFCO 313.06] was derived was repealed by House Bill 349, effective April
 20, 2012.)
 
@@ -432,7 +432,7 @@ erection upon private property adjacent to streets of signs giving useful
 directional information and of a type that cannot be mistaken for traffic
 control devices, or the erection upon private property of traffic control
 devices by the owner of real property in accordance with Ohio R.C.
-[4511.211][ORC Section 4511.211] and 4511.432.
+[4511.211][ORC 4511.211] and 4511.432.
 
     Every such prohibited sign, signal, marking or device is a public nuisance,
     and the Police Chief is authorized to remove it or cause it to be removed.
@@ -526,8 +526,7 @@ the third degree.
 
 1. _(a)_ As used in this section, "traffic control device" means any sign,
 traffic control signal or other device conforming to and placed or erected in
-accordance with the manual adopted under Ohio R.C. [4511.09][ORC Section
-4511.09] by authority of a public body or official having jurisdiction, for the
+accordance with the manual adopted under Ohio R.C. [4511.09][ORC 4511.09] by authority of a public body or official having jurisdiction, for the
 purpose of regulating, warning or guiding traffic, including signs denoting the
 names of streets and highways, but does not mean any pavement marking.
 
@@ -555,8 +554,8 @@ device, except when one of the following applies:
 
 3. _(c)_ This section does not preclude, and shall not be construed as
 precluding, prosecution for theft in violation of Ohio R.C. [2913.02][ORC
-Section 2913.02] or a municipal ordinance relating to theft, or for receiving
-stolen property in violation of Ohio R.C. [2913.51][ORC Section 2913.51] or a
+2913.02] or a municipal ordinance relating to theft, or for receiving
+stolen property in violation of Ohio R.C. [2913.51][ORC 2913.51] or a
 municipal ordinance relating to receiving stolen property.
 
 4. _(d)_ Whoever violates this section is guilty of a misdemeanor of the third
@@ -577,14 +576,14 @@ following persons and subsection (a)(2) of this section does not apply to any of
 the following persons when responding to an emergency call:
 
     1. _(1)_ A peace officer, as defined in Ohio R.C. [109.71(A)(11)][ORC
-    Section 109.71], [(12)][ORC Section 109.71], [(14)][ORC Section 109.71] or
-    [(19)][ORC Section 109.71];
+    109.71], [(12)][ORC 109.71], [(14)][ORC 109.71] or
+    [(19)][ORC 109.71];
 
     2. _(2)_ A State highway patrol trooper;
 
     3. _(3)_ A person while occupying a public safety vehicle as defined in Ohio
-    R.C. [4511.01(E)(1)][ORC Section 4511.01], [(3)][ORC Section 4511.01] or
-    [(4)][ORC Section 4511.01].
+    R.C. [4511.01(E)(1)][ORC 4511.01], [(3)][ORC 4511.01] or
+    [(4)][ORC 4511.01].
 
 3. _(c)_ Whoever violates subsection (a)(1) of this section is guilty of a
 misdemeanor of the fourth degree. Whoever violates subsection (a)(2) of this
@@ -598,13 +597,13 @@ signal to green out of sequence.\
 [CFCO 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
 [CFCO 313.05]:</chapters/chapter-313-traffic-control-devices/#31305-special-pedestrian-control-signals>
 [CFCO 313.06]:</chapters/chapter-313-traffic-control-devices/#31306-flashing-traffic-signals>
-[ORC Section 109.71]:<https://codes.ohio.gov/ohio-revised-code/section-109.71>
-[ORC Section 2913.02]:<https://codes.ohio.gov/ohio-revised-code/section-2913.02>
-[ORC Section 2913.51]:<https://codes.ohio.gov/ohio-revised-code/section-2913.51>
-[ORC Section 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
-[ORC Section 4511.07]:<https://codes.ohio.gov/ohio-revised-code/section-4511.07>
-[ORC Section 4511.09]:<https://codes.ohio.gov/ohio-revised-code/section-4511.09>
-[ORC Section 4511.10]:<https://codes.ohio.gov/ohio-revised-code/section-4511.10>
-[ORC Section 4511.15]:<https://codes.ohio.gov/ohio-revised-code/section-4511.15>
-[ORC Section 4511.61]:<https://codes.ohio.gov/ohio-revised-code/section-4511.61>
-[ORC Section 4511.211]:<https://codes.ohio.gov/ohio-revised-code/section-4511.211>
+[ORC 109.71]:<https://codes.ohio.gov/ohio-revised-code/section-109.71>
+[ORC 2913.02]:<https://codes.ohio.gov/ohio-revised-code/section-2913.02>
+[ORC 2913.51]:<https://codes.ohio.gov/ohio-revised-code/section-2913.51>
+[ORC 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
+[ORC 4511.07]:<https://codes.ohio.gov/ohio-revised-code/section-4511.07>
+[ORC 4511.09]:<https://codes.ohio.gov/ohio-revised-code/section-4511.09>
+[ORC 4511.10]:<https://codes.ohio.gov/ohio-revised-code/section-4511.10>
+[ORC 4511.15]:<https://codes.ohio.gov/ohio-revised-code/section-4511.15>
+[ORC 4511.61]:<https://codes.ohio.gov/ohio-revised-code/section-4511.61>
+[ORC 4511.211]:<https://codes.ohio.gov/ohio-revised-code/section-4511.211>

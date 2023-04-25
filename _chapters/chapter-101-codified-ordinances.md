@@ -21,10 +21,10 @@ title: "Chapter 101: Codified Ordinances"
 ## Cross references
 
 * See sectional histories for similar State law
-* Statute of limitations on prosecutions - see Ohio R.C. [718.06][ORC Section 718.06]; GEN. OFF. 501.06
-* Codification in book form - see Ohio R.C. [731.23][ORC Section 731.23]
-* Imprisonment until fine and costs are paid - see Ohio R.C. [1905.30][ORC Section 1905.30], [2947.14][ORC Section 2947.14]
-* Citation issuance for minor misdemeanors - see Ohio R.C. [2935.26][ORC Section 2935.26] et seq.
+* Statute of limitations on prosecutions - see Ohio R.C. [718.06][ORC 718.06]; GEN. OFF. 501.06
+* Codification in book form - see Ohio R.C. [731.23][ORC 731.23]
+* Imprisonment until fine and costs are paid - see Ohio R.C. [1905.30][ORC 1905.30], [2947.14][ORC 2947.14]
+* Citation issuance for minor misdemeanors - see Ohio R.C. [2935.26][ORC 2935.26] et seq.
 * Ordinances and resolutions - see Administrative Code [Chapter 123][CFCO 123]
 * Rules of construction for offenses and penalties - see GEN. OFF. 501.04
 
@@ -341,8 +341,8 @@ exceeding one hundred dollars ($100.00). A separate offense shall be deemed
 committed each day during or on which a violation continues or occurs.
 
 [CFCO 123]:</chapters/chapter-123-department-of-law>
-[ORC Section 718.06]:<https://codes.ohio.gov/ohio-revised-code/section-718.06>
-[ORC Section 731.23]:<https://codes.ohio.gov/ohio-revised-code/section-731.23>
-[ORC Section 1905.30]:<https://codes.ohio.gov/ohio-revised-code/section-1905.30>
-[ORC Section 2935.26]:<https://codes.ohio.gov/ohio-revised-code/section-2935.26>
-[ORC Section 2947.14]:<https://codes.ohio.gov/ohio-revised-code/section-2947.14>
+[ORC 718.06]:<https://codes.ohio.gov/ohio-revised-code/section-718.06>
+[ORC 731.23]:<https://codes.ohio.gov/ohio-revised-code/section-731.23>
+[ORC 1905.30]:<https://codes.ohio.gov/ohio-revised-code/section-1905.30>
+[ORC 2935.26]:<https://codes.ohio.gov/ohio-revised-code/section-2935.26>
+[ORC 2947.14]:<https://codes.ohio.gov/ohio-revised-code/section-2947.14>

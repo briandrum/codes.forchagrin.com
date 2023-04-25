@@ -19,11 +19,11 @@ to foster either the return of such nonproductive land to tax revenue
 generating status or the devotion thereof to public use.
 
 2. _(b)_ The Village hereby adopts and implements and agrees to abide by the
-provisions of [Chapter 5722][ORC Chapter 5722] of the Ohio Revised Code
+provisions of [Chapter 5722][ORC 5722] of the Ohio Revised Code
 governing Land Reutilization Programs.
 
 3. _(c)_ The Chief Administrative Officer or his designee shall administer the
-program in accordance with this section and [Chapter 5722][ORC Chapter 5722] of
+program in accordance with this section and [Chapter 5722][ORC 5722] of
 the Ohio Revised Code.
 
 4. _(d)_ The purchase of or sale of land within the Land Reutilization Program
@@ -31,4 +31,4 @@ shall occur only after the passage of legislation by Council authorizing such
 action.\
 (Ord. 2009-32. Passed 8-10-09.)
 
-[ORC Chapter 5722]:<https://codes.ohio.gov/ohio-revised-code/chapter-5722>
+[ORC 5722]:<https://codes.ohio.gov/ohio-revised-code/chapter-5722>

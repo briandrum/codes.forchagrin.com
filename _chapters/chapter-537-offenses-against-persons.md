@@ -67,11 +67,11 @@ any of the following ways:
         and does not apply as described in subsection (d) of this section.
 
     2. _(2)_ As the proximate result of committing a violation of any provision
-    of any section contained in [Title XLV][ORC Title 45] of the Ohio Revised
-    Code that is a minor misdemeanor or of a municipal ordinance that,
-    regardless of the penalty set by ordinance for the violation, is
-    substantially equivalent to any provision of any section contained in [Title
-    XLV][ORC Title 45] of the Ohio Revised Code that is a minor misdemeanor.
+    of any section contained in [Title XLV][ORC 45] of the Ohio Revised Code
+    that is a minor misdemeanor or of a municipal ordinance that, regardless of
+    the penalty set by ordinance for the violation, is substantially equivalent
+    to any provision of any section contained in [Title XLV][ORC 45] of the Ohio
+    Revised Code that is a minor misdemeanor.
 
 2. _(b)_
 
@@ -80,30 +80,30 @@ any of the following ways:
     vehicular homicide is a misdemeanor of the first degree. Vehicular homicide
     is a felony and shall be prosecuted under appropriate State law if, at the
     time of the offense, the offender was driving under a suspension or
-    cancellation imposed under Ohio R.C. [Chapter 4510][ORC Chapter 4510] or any
+    cancellation imposed under Ohio R.C. [Chapter 4510][ORC 4510] or any
     other provision of the Ohio Revised Code or was operating a motor vehicle or
     motorcycle, did not have a valid driver's license, commercial driver's
     license, temporary instruction permit, probationary license, or nonresident
     operating privilege, and was not eligible for renewal of the offender's
     driver's license or commercial driver's license without examination under
-    Ohio R.C. [4507.10][ORC Section 4507.10] or if the offender previously has
+    Ohio R.C. [4507.10][ORC 4507.10] or if the offender previously has
     been convicted of or pleaded guilty to a violation of this section or any
     traffic-related homicide, manslaughter or assault offense. The court shall
     impose a mandatory jail term on the offender when required by Ohio R.C.
-    [2903.06][ORC Section 2903.06] (E).
+    [2903.06][ORC 2903.06] (E).
 
     2. _(2)_ Whoever violates subsection (a)(2) of this section is guilty of
     vehicular manslaughter. Except as otherwise provided in this subsection,
     vehicular manslaughter is a misdemeanor of the second degree. Vehicular
     manslaughter is a misdemeanor of the first degree if, at the time of the
     offense, the offender was driving under a suspension or cancellation imposed
-    under Ohio R.C. [Chapter 4510][ORC Chapter 4510] or any other provision of
+    under Ohio R.C. [Chapter 4510][ORC 4510] or any other provision of
     the Ohio Revised Code or was operating a motor vehicle or motorcycle, did
     not have a valid driver's license, commercial driver's license, temporary
     instruction permit, probationary license, or nonresident operating
     privilege, and was not eligible for renewal of the offender's driver's
     license or commercial driver's license without examination under Ohio R.C.
-    [4507.10][ORC Section 4507.10] or if the offender previously has been
+    [4507.10][ORC 4507.10] or if the offender previously has been
     convicted of or pleaded guilty to a violation of this section or any
     traffic-related homicide, manslaughter, or assault offense.
 
@@ -115,24 +115,24 @@ mandatory prison term on an offender who is convicted of or pleads guilty to a
 violation of subsection (a)(1)A. hereof if either of the following applies:
 
     1. _(1)_ The offender previously has been convicted of or pleaded guilty to
-    a violation of this section or Ohio R.C. [2903.06][ORC Section 2903.06] or
+    a violation of this section or Ohio R.C. [2903.06][ORC 2903.06] or
     2903.08.
 
     2. _(2)_ At the time of the offense, the offender was driving under
-    suspension or cancellation under Ohio R.C. [Chapter 4510][ORC Chapter 4510]
+    suspension or cancellation under Ohio R.C. [Chapter 4510][ORC 4510]
     or any other provision of the Ohio Revised Code or was operating a motor
     vehicle or motorcycle, did not have a valid driver's license, commercial
     driver's license, temporary instruction permit, probationary license, or
     nonresident operating privilege, and was not eligible for renewal of the
     offender's driver's license or commercial driver's license without
-    examination under Ohio R.C. [4507.10][ORC Section 4507.10].
+    examination under Ohio R.C. [4507.10][ORC 4507.10].
 
 4. _(d)_ Subsection (a)(1)B. does not apply in a particular construction zone
-unless signs of the type described in Ohio R.C. [2903.081][ORC Section 2903.081]
+unless signs of the type described in Ohio R.C. [2903.081][ORC 2903.081]
 are erected in that construction zone in accordance with the guidelines and
 design specifications established by the Director of Transportation under Ohio
-R.C. [5501.27][ORC Section 5501.27]. The failure to erect signs of the type
-described in Ohio R.C. [2903.081][ORC Section 2903.081] in a particular
+R.C. [5501.27][ORC 5501.27]. The failure to erect signs of the type
+described in Ohio R.C. [2903.081][ORC 2903.081] in a particular
 construction zone in accordance with those guidelines and design specifications
 does not limit or affect the application of subsections (a)(1)A. or (a)(2) of
 this section in that construction zone or the prosecution of any person who
@@ -141,20 +141,20 @@ violates any of those subsections in that construction zone.
 5. _(e)_ As used in this section:
 
     1. _(1)_ "Mandatory prison term" and "mandatory jail term" have the same
-    meanings as in Ohio R.C. [2929.01][ORC Section 2929.01].
+    meanings as in Ohio R.C. [2929.01][ORC 2929.01].
 
     2. _(2)_ "Traffic-related homicide, manslaughter or assault offense" means a
-    violation of Ohio R.C. [2903.04][ORC Section 2903.04] in circumstances in
+    violation of Ohio R.C. [2903.04][ORC 2903.04] in circumstances in
     which division (D) of that section applies, a violation of Ohio R.C.
-    [2903.06][ORC Section 2903.06] or 2903.08, or a violation of Ohio R.C.
-    [2903.06][ORC Section 2903.06], 2903.07 or 2903.08 as they existed prior to
+    [2903.06][ORC 2903.06] or 2903.08, or a violation of Ohio R.C.
+    [2903.06][ORC 2903.06], 2903.07 or 2903.08 as they existed prior to
     March 23, 2000.
 
     3. _(3)_ "Construction zone" has the same meaning as in Ohio R.C.
-    [5501.27][ORC Section 5501.27].
+    [5501.27][ORC 5501.27].
 
     4. _(4)_ "Speeding offense" means a violation of Ohio R.C. [4511.21][ORC
-    Section 4511.21] or a municipal ordinance pertaining to speed.
+    4511.21] or a municipal ordinance pertaining to speed.
 
 6. _(f)_ For the purposes of this section, when a penalty or suspension is
 enhanced because of a prior or current violation of a specified law or a prior
@@ -168,9 +168,9 @@ law of another state or the United States.\
 this section also shall impose a suspension of the offender's driver's license,
 commercial driver's license, temporary instruction permit, probationary license,
 or nonresident operating privilege from the range specified in division (B) of
-Ohio R.C. [4510.02][ORC Section 4510.02] that is equivalent in length to the
-suspension required for a violation of Ohio R.C. [2903.06][ORC Section 2903.06]
-or division (A) or (B) of Ohio R.C. [4511.19][ORC Section 4511.19] under similar
+Ohio R.C. [4510.02][ORC 4510.02] that is equivalent in length to the
+suspension required for a violation of Ohio R.C. [2903.06][ORC 2903.06]
+or division (A) or (B) of Ohio R.C. [4511.19][ORC 4511.19] under similar
 circumstances.\
 (ORC 4510.07)
 
@@ -191,7 +191,7 @@ offense in the construction zone and does not apply as described in subsection
 provided in this subsection, vehicular assault is a misdemeanor of the first
 degree. Vehicular assault is a felony if, at the time of the offense, the
 offender was driving under a suspension imposed under Ohio R.C. [Chapter
-4510][ORC Chapter 4510], or any other provision of the Ohio Revised Code or if
+4510][ORC 4510], or any other provision of the Ohio Revised Code or if
 the offender previously has been convicted of or pleaded guilty to a violation
 of this section or any traffic- related homicide, manslaughter, or assault
 offense, and shall be prosecuted under appropriate state law.
@@ -200,7 +200,7 @@ offense, and shall be prosecuted under appropriate state law.
     offender a class four suspension of the offender's driver's license,
     commercial driver's license, temporary instruction permit, probationary
     license, or nonresident operating privilege from the range specified in
-    division (A)(4) of Ohio R.C. [4510.02][ORC Section 4510.02].
+    division (A)(4) of Ohio R.C. [4510.02][ORC 4510.02].
 
 3. _(c)_ The court shall impose a mandatory jail term of at least seven days on
 an offender who is convicted of or pleads guilty to a violation of this section
@@ -208,24 +208,24 @@ and may impose upon the offender a longer jail term as authorized pursuant to
 [Section 501.99][CFCO 501.99].
 
 4. _(d)_ This section does not apply in a particular construction zone unless
-signs of the type described in Ohio R.C. [2903.081][ORC Section 2903.081] are
+signs of the type described in Ohio R.C. [2903.081][ORC 2903.081] are
 erected in that construction zone in accordance with the guidelines and design
 specifications established by the Director of Transportation under Ohio R.C.
-[5501.27][ORC Section 5501.27].
+[5501.27][ORC 5501.27].
 
 5. _(e)_ As used in this section:
 
     1. _(1)_ "Mandatory jail term" has the same meaning as in Ohio R.C.
-    [2929.01][ORC Section 2929.01].
+    [2929.01][ORC 2929.01].
 
     2. _(2)_ "Traffic-related homicide, manslaughter or assault offense" has the
-    same meaning as in Ohio R.C. [2903.06][ORC Section 2903.06].
+    same meaning as in Ohio R.C. [2903.06][ORC 2903.06].
 
     3. _(3)_ "Construction zone" has the same meaning as in Ohio R.C.
-    [5501.27][ORC Section 5501.27].
+    [5501.27][ORC 5501.27].
 
     4. _(4)_ "Speeding offense" has the same meaning as in Ohio R.C.
-    [2903.06][ORC Section 2903.06].
+    [2903.06][ORC 2903.06].
 
 6. _(f)_ For the purposes of this section, when a penalty or suspension is
 enhanced because of a prior or current violation of a specified law or a prior
@@ -340,7 +340,7 @@ another's unborn.
         1. _(A)_ Except as otherwise provided in subsection (c)(8)B. of this
         section, assault committed in the specified circumstances is a
         misdemeanor of the first degree. Notwithstanding the fine specified in
-        division (A)(2)(b) of Ohio R.C. [2929.28][ORC Section 2929.28] for a
+        division (A)(2)(b) of Ohio R.C. [2929.28][ORC 2929.28] for a
         misdemeanor of the first degree, in sentencing the offender under this
         subsection and if the court decides to impose a fine, the court may
         impose upon the offender a fine of not more than five thousand dollars
@@ -361,10 +361,9 @@ another's unborn.
         section, assault committed in the specified circumstances is a
         misdemeanor of the first degree. In sentencing the offender under this
         subsection, if the court decides to impose a fine, notwithstanding the
-        fine specified in division (A)(2)(b) of Ohio R.C. [2929.28][ORC Section
-        2929.28] for a misdemeanor of the first degree, the court may impose
-        upon the offender a fine of not more than five thousand dollars
-        ($5,000).
+        fine specified in division (A)(2)(b) of Ohio R.C. [2929.28][ORC 2929.28]
+        for a misdemeanor of the first degree, the court may impose upon the
+        offender a fine of not more than five thousand dollars ($5,000).
 
         2. _(B)_ If the offender previously has been convicted of or pleaded
         guilty to one or more assault or homicide offenses committed against
@@ -373,31 +372,29 @@ another's unborn.
 
     10. _(10)_ If an offender who is convicted of or pleads guilty to assault
     when it is a misdemeanor also is convicted of or pleads guilty to a
-    specification as described in Ohio R.C. [2941.1423][ORC Section 2941.1423]
+    specification as described in Ohio R.C. [2941.1423][ORC 2941.1423]
     that was included in the indictment, count in the indictment or information
     charging the offense, the court shall sentence the offender to a mandatory
-    jail term as provided in division (G) of Ohio R.C. [2929.24][ORC Section
-    2929.24].
+    jail term as provided in division (G) of Ohio R.C. [2929.24][ORC 2929.24].
 
 4. _(d)_ As used in this section:
 
     1. _(1)_ "Peace officer" has the same meaning as in Ohio R.C. [2935.01][ORC
-    Section 2935.01].
+    2935.01].
 
     2. _(2)_ "Firefighter" has the same meaning as in Ohio R.C. [3937.41][ORC
-    Section 3937.41].
+    3937.41].
 
     3. _(3)_ "Emergency medical service" has the same meaning as in Ohio R.C.
-    [4765.01][ORC Section 4765.01].
+    [4765.01][ORC 4765.01].
 
     4. _(4)_ "Local correctional facility" means a county, multicounty,
     municipal, municipal-county or multicounty-municipal jail or workhouse. A
-    minimum security jail established under Ohio R.C. [341.23][ORC Section
-    341.23] or 753.21, or another county, multicounty, municipal,
-    municipal-county, or multicounty- municipal facility used for the custody of
-    persons arrested for any crime or delinquent act, persons charged with or
-    convicted of any crime, or persons alleged to be or adjudicated a delinquent
-    child.
+    minimum security jail established under Ohio R.C. [341.23][ORC 341.23] or
+    753.21, or another county, multicounty, municipal, municipal-county, or
+    multicounty- municipal facility used for the custody of persons arrested for
+    any crime or delinquent act, persons charged with or convicted of any crime,
+    or persons alleged to be or adjudicated a delinquent child.
 
     5. _(5)_ "Employee of a local correctional facility" means a person who is
     an employee of the political subdivision or of one or more of the affiliated
@@ -407,35 +404,34 @@ another's unborn.
     6. _(6)_ "School teacher or administrator" means either of the following:
 
         1. _(A)_ A person who is employed in the public schools of the State
-        under a contract described in Ohio R.C. [3311.77][ORC Section 3311.77]
-        or 3319.08 in a position in which the person is required to have a
-        certificate issued pursuant to Ohio R.C. [3319.22][ORC Section 3319.22]
-        to 3319.311.
+        under a contract described in Ohio R.C. [3311.77][ORC 3311.77] or
+        3319.08 in a position in which the person is required to have a
+        certificate issued pursuant to Ohio R.C. [3319.22][ORC 3319.22] to
+        [3319.311][ORC 3319.311].
 
         2. _(B)_ A person who is employed by a nonpublic school for which the
         State Board of Education prescribes minimum standards under Ohio R.C.
-        [3301.07][ORC Section 3301.07] and who is certified in accordance with
-        Ohio R.C. [3301.071][ORC Section 3301.071].
+        [3301.07][ORC 3301.07] and who is certified in accordance with
+        Ohio R.C. [3301.071][ORC 3301.071].
 
     7. _(7)_ "Community control sanction" has the same meaning as in Ohio R.C.
-    [2929.01][ORC Section 2929.01].
+    [2929.01][ORC 2929.01].
 
     8. _(8)_ "Escorted visit" means an escorted visit granted under Ohio R.C.
-    [2967.27][ORC Section 2967.27].
+    [2967.27][ORC 2967.27].
 
     9. _(9)_ "Post-release control" and "transitional control" have the same
-    meanings as in Ohio R.C. [2967.01][ORC Section 2967.01].
+    meanings as in Ohio R.C. [2967.01][ORC 2967.01].
 
     10. _(10)_ "Investigator of the Bureau of Criminal Identification and
-    Investigation" has the same meaning as in Ohio R.C. [2903.11][ORC Section
-    2903.11].
+    Investigation" has the same meaning as in Ohio R.C. [2903.11][ORC 2903.11].
 
     11. _(11)_ "Health care professional" and "health care worker" have the same
-    meanings as in Ohio R.C. [2305.234][ORC Section 2305.234].
+    meanings as in Ohio R.C. [2305.234][ORC 2305.234].
 
     12. _(12)_ "Assault or homicide offense committed against hospital
     personnel" means a violation of this section or Ohio R.C. [2903.01][ORC
-    Section 2903.01], 2903.02, 2903.03, 2903.04, 2903.041, 2903.11, 2903.12,
+    2903.01], 2903.02, 2903.03, 2903.04, 2903.041, 2903.11, 2903.12,
     2903.13 or 2903.14 committed in circumstances in which all of the following
     apply:
 
@@ -461,7 +457,7 @@ another's unborn.
 
     14. _(14)_ "Assault or homicide offense committed against justice system
     personnel" means a violation of this section or of Ohio R.C. [2903.01][ORC
-    Section 2903.01], 2903.02, 2903.03, 2903.04, 2903.041, 2903.11, 2903.12,
+    2903.01], 2903.02, 2903.03, 2903.04, 2903.041, 2903.11, 2903.12,
     2903.13 or 2903.14 committed in circumstances in which the victim of the
     offense was a judge, magistrate, prosecutor, or court official or employee
     whom the offender knew or had reasonable cause to know was a judge,
@@ -482,13 +478,13 @@ another's unborn.
     who has similar powers and functions.
 
     18. _(18)_ "Prosecutor" has the same meaning as in Ohio R.C. [2935.01][ORC
-    Section 2935.01].
+    2935.01].
 
     19. _(19)_
 
         1. _(A)_ "Hospital" means, subject to subsection (d)(19)B. of this
         section, an institution classified as a hospital under Ohio R.C.
-        [3701.01][ORC Section 3701.01] in which are provided to patients
+        [3701.01][ORC 3701.01] in which are provided to patients
         diagnostic, medical, surgical, obstetrical, psychiatric, or
         rehabilitation care or a hospital operated by a health maintenance
         organization.
@@ -496,7 +492,7 @@ another's unborn.
         2. _(B)_ "Hospital" does not include any of the following:
 
             1. _(1)_ A facility licensed under Ohio R.C. [Chapter 3721][ORC
-            Chapter 3721], a health care facility operated by the Department of
+            3721], a health care facility operated by the Department of
             Mental Health or the Department of Developmental Disabilities, a
             health maintenance organization that does not operate a hospital, or
             the office of any private, licensed health care professional,
@@ -509,12 +505,11 @@ another's unborn.
             from federal income taxation under Section 501 of the "Internal
             Revenue Code of 1986", 100 Stat. 2085, 26 U.S.C. 1, as amended, and
             providing twenty-four-hour nursing care pursuant to the exemption in
-            division (E) of Ohio R.C. [4723.32][ORC Section 4723.32] from the
-            licensing requirements of Ohio R.C. [Chapter 4723][ORC Chapter
-            4723].
+            division (E) of Ohio R.C. [4723.32][ORC 4723.32] from the
+            licensing requirements of Ohio R.C. [Chapter 4723][ORC 4723].
 
     20. _(20)_ "Health maintenance organization" has the same meaning as in Ohio
-    R.C. [3727.01][ORC Section 3727.01].\
+    R.C. [3727.01][ORC 3727.01].\
     (ORC 2903.13)
 
 ## 537.04   Negligent assault
@@ -629,7 +624,7 @@ governmental employer.\
 
         7. _(G)_ At the time of the commission of the offense, the offender was
         the subject of a protection order issued under Ohio R.C. [2903.213][ORC
-        Section 2903.213] or 2903.214, regardless of whether the person to be
+        2903.213] or 2903.214, regardless of whether the person to be
         protected under the order is the victim of the offense or another
         person.
 
@@ -662,7 +657,7 @@ governmental employer.\
     anticipated performance of official responsibilities, or duties, menacing by
     stalking is a felony and shall be prosecuted under appropriate State law.
 
-3. _(c)_ Ohio R.C. [2919.271][ORC Section 2919.271] applies in relation to a
+3. _(c)_ Ohio R.C. [2919.271][ORC 2919.271] applies in relation to a
 defendant charged with a violation of this section.
 
 4. _(d)_ As used in this section:
@@ -696,18 +691,17 @@ defendant charged with a violation of this section.
         treatment, psychological treatment, or other mental health services.
 
     3. _(3)_ "Emergency medical services person" is the singular of "emergency
-    medical services personnel" as defined in Ohio R.C. [2133.21][ORC Section
-    2133.21].
+    medical services personnel" as defined in Ohio R.C. [2133.21][ORC 2133.21].
 
     4. _(4)_ "Emergency facility person" is the singular of "emergency facility
-    personnel" as defined in Ohio R.C. [2909.04][ORC Section 2909.04].
+    personnel" as defined in Ohio R.C. [2909.04][ORC 2909.04].
 
     5. _(5)_ "Public official" has the same meaning as in Ohio R.C.
-    [2921.01][ORC Section 2921.01].
+    [2921.01][ORC 2921.01].
 
     6. _(6)_ "Computer", "computer network", "computer program", "computer
     system" and "telecommunications device" have the same meanings as in Ohio
-    R.C. [2913.01][ORC Section 2913.01].
+    R.C. [2913.01][ORC 2913.01].
 
     7. _(7)_ "Post a message" means transferring, sending, posting, publishing,
     disseminating or otherwise communicating, or attempting to transfer, send,
@@ -721,7 +715,7 @@ defendant charged with a violation of this section.
     nor the victim of the conduct.
 
     9. _(9)_ "Sexual motivation" has the same meaning as in Ohio R.C.
-    [2971.01][ORC Section 2971.01].
+    [2971.01][ORC 2971.01].
 
     10. _(10)_ "Organization" includes an entity that is a governmental
     employer.
@@ -839,8 +833,8 @@ or physically handicapped child under twenty-one years of age.
     be convicted at the same trial or proceeding of a violation of subsection
     (c) hereof and a violation of Section 333.01(a) of the Traffic Code that
     constitutes the basis of the charge of the violation of subsection (c)
-    hereof. For purposes of Ohio R.C. [4511.191][ORC Section 4511.191] to
-    4511.197 and all related provisions of law, a person arrested for a
+    hereof. For purposes of Ohio R.C. [4511.191][ORC 4511.191] to [4511.197][ORC
+    4511.197] and all related provisions of law, a person arrested for a
     violation of subsection (c) hereof shall be considered to be under arrest
     for operating a vehicle while under the influence of alcohol, a drug of
     abuse, or a combination of them or for operating a vehicle with a prohibited
@@ -851,19 +845,19 @@ or physically handicapped child under twenty-one years of age.
     2. _(2)_ As used in subsection (c) hereof:
 
         1. _(A)_ "Controlled substance" has the same meaning as in Ohio R.C.
-        [3719.01][ORC Section 3719.01].
+        [3719.01][ORC 3719.01].
 
         2. _(B)_ "Vehicle" has the same meaning as in Ohio R.C. [4511.01][ORC
-        Section 4511.01].
+        4511.01].
 
 4. _(d)_ Whoever violates this section is guilty of endangering children.
 
     1. _(1)_ Whoever violates subsection (a) or (b) hereof is guilty of a
     misdemeanor of the first degree. If the violation results in serious
     physical harm to the child involved, or if the offender previously has been
-    convicted of an offense under this section, Ohio R.C. [2919.22][ORC Section
-    2919.22] or of any offense involving neglect, abandonment, contributing to
-    the delinquency of or physical abuse of a child, endangering children is a
+    convicted of an offense under this section, Ohio R.C. [2919.22][ORC 2919.22]
+    or of any offense involving neglect, abandonment, contributing to the
+    delinquency of or physical abuse of a child, endangering children is a
     felony and shall be prosecuted under appropriate State law.
 
     2. _(2)_ Whoever violates subsection (c) hereof is guilty of a misdemeanor
@@ -872,23 +866,23 @@ or physically handicapped child under twenty-one years of age.
 
         1. _(A)_ The violation results in serious physical harm to the child
         involved or the offender previously has been convicted of an offense
-        under Ohio R.C. [2919.22][ORC Section 2919.22] or any offense involving
+        under Ohio R.C. [2919.22][ORC 2919.22] or any offense involving
         neglect, abandonment, contributing to the delinquency of, or physical
         abuse of a child.
 
         2. _(B)_ The violation results in serious physical harm to the child
         involved and the offender previously has been convicted of a violation
-        of Ohio R.C. [2919.22(C)][ORC Section 2919.22] or subsection (c) hereof,
-        Ohio R.C. [2903.06][ORC Section 2903.06], or 2903.08, Section 2903.07 as
-        it existed prior to March 23, 2000, or Ohio R.C. [2903.04][ORC Section
-        2903.04] in a case in which the offender was subject to the sanctions
-        described in division (D) of that section.
+        of Ohio R.C. [2919.22(C)][ORC 2919.22] or subsection (c) hereof, Ohio
+        R.C. [2903.06][ORC 2903.06], or [2903.08][ORC 2903.08], [Section
+        2903.07][ORC 2903.07] as it existed prior to March 23, 2000, or Ohio
+        R.C. [2903.04][ORC 2903.04] in a case in which the offender was subject
+        to the sanctions described in division (D) of that section.
 
     3. _(3)_ In addition to any term of imprisonment, fine, or other sentence,
     penalty, or sanction it imposes upon the offender pursuant to subsection
     (d)(2) hereof, or pursuant to any other provision of law, the court also may
     impose upon the offender any of the sanctions provided under Ohio R.C.
-    [2919.22(E)(5)(d)][ORC Section 2919.22].
+    [2919.22(E)(5)(d)][ORC 2919.22].
 
 5. _(e)_
 
@@ -943,7 +937,7 @@ shall knowingly restrain another of the other person's liberty.
 misdemeanor of the third degree.
 
 4. _(d)_ As used in this section, "sexual motivation" has the same meaning as in
-Ohio R.C. [2971.01][ORC Section 2971.01].\
+Ohio R.C. [2971.01][ORC 2971.01].\
 (ORC 2905.03)
 
 ## 537.09   Coercion
@@ -970,7 +964,7 @@ prosecutor or court from doing any of the following in good faith and in the
 interest of justice:
 
     1. _(1)_ Offering or agreeing to grant, or granting immunity from
-    prosecution pursuant to Ohio R.C. [2945.44][ORC Section 2945.44];
+    prosecution pursuant to Ohio R.C. [2945.44][ORC 2945.44];
 
     2. _(2)_ In return for a plea of guilty to one or more offenses charged or
     to one or more other or lesser offenses, or in return for the testimony of
@@ -1006,7 +1000,7 @@ the second degree.
     1. _(1)_ "Threat" includes a direct threat and a threat by innuendo.
 
     2. _(2)_ "Community control sanction" has the same meaning as in Ohio R.C.
-    [2929.01][ORC Section 2929.01].\
+    [2929.01][ORC 2929.01].\
     (ORC 2905.12)
 
 ## 537.10   Telecommunication harassment
@@ -1030,7 +1024,7 @@ following:
     telecommunication is made;
 
     3. _(3)_ During the telecommunication, violates Ohio R.C. [2903.21][ORC
-    Section 2903.21];
+    2903.21];
 
     4. _(4)_ Knowingly states to the recipient of the telecommunication that the
     caller intends to cause damage to or destroy public or private property, and
@@ -1193,10 +1187,10 @@ in that capacity.
     person's control.
 
     3. _(3)_ "Telecommunication" and "telecommunications device" have the same
-    meanings as in Ohio R.C. [2913.01][ORC Section 2913.01].
+    meanings as in Ohio R.C. [2913.01][ORC 2913.01].
 
     4. _(4)_ "Sexual activity" has the same meaning as in Ohio R.C.
-    [2907.01][ORC Section 2907.01].
+    [2907.01][ORC 2907.01].
 
     5. _(5)_ "Family or household member" means any of the following:
 
@@ -1229,7 +1223,7 @@ in that capacity.
     date of the alleged commission of the act in question.
 
     7. _(7)_ "Cable operator" has the same meaning as in Ohio R.C. [1332.21][ORC
-    Section 1332.21].
+    1332.21].
 
 8. _(h)_ Nothing in this section prohibits a person from making a
 telecommunication call to a debtor that is in compliance with the "Fair Debt
@@ -1264,7 +1258,7 @@ emergency service using the telephone number 9-1-1.\
 (ORC 128.01)
 
 2. _(b)_ No person shall knowingly use the telephone number of the 9-1-1 system
-established under Ohio R.C. [Chapter 128][ORC Chapter 128] to report an
+established under Ohio R.C. [Chapter 128][ORC 128] to report an
 emergency if he knows that no emergency exists.
 
 3. _(c)_ No person shall knowingly use a 9-1-1 system for a purpose other than
@@ -1273,7 +1267,7 @@ obtaining emergency service.
 4. _(d)_ No person shall disclose or use any information concerning telephone
 numbers, addresses, or names obtained from the data base that serves the public
 safety answering point of a 9-1-1 system established under Ohio R.C. [Chapter
-128][ORC Chapter 128], except for any of the following purposes or under any of
+128][ORC 128], except for any of the following purposes or under any of
 the following circumstances:
 
     1. _(1)_ For the purpose of the 9-1-1 system;
@@ -1355,8 +1349,7 @@ to the family or household member.
     if the offender previously has pleaded guilty to or been convicted of
     domestic violence, a violation of an existing or former municipal ordinance
     or law of this or any other state or the United States that is substantially
-    similar to domestic violence, a violation of Ohio R.C. [2903.14][ORC Section
-    2903.14], 2909.06, 2909.07, 2911.12, 2911.211, or 2919.22 if the victim of
+    similar to domestic violence, a violation of Ohio R.C. [2903.14][ORC 2903.14], 2909.06, 2909.07, 2911.12, 2911.211, or 2919.22 if the victim of
     the violation was a family or household member at the time of the violation,
     a violation of an existing or former municipal ordinance or law of this or
     any other state or the United States that is substantially similar to any of
@@ -1418,7 +1411,7 @@ this section or in connection with the prosecution of any charges so filed.
     (ORC 2919.25)
 
 7. _(g)_ The same relief available under the Ohio Revised Code for filing a
-complaint for violation of Ohio R.C. [2919.25][ORC Section 2919.25] shall be
+complaint for violation of Ohio R.C. [2919.25][ORC 2919.25] shall be
 available for filing a complaint for violation of this section.
 
 ## 537.15   Temporary protection order
@@ -1426,10 +1419,10 @@ available for filing a complaint for violation of this section.
 1. _(a)_ No person shall recklessly violate the terms of any of the following:
 
     1. _(1)_ A protection order issued or consent agreement approved pursuant to
-    Ohio R.C. [2919.26][ORC Section 2919.26] or 3113.31;
+    Ohio R.C. [2919.26][ORC 2919.26] or 3113.31;
 
     2. _(2)_ A protection order issued pursuant to Ohio R.C. [2151.34][ORC
-    Section 2151.34], 2903.213 or 2903.214;
+    2151.34], 2903.213 or 2903.214;
 
     3. _(3)_ A protection order issued by a court of another state.
 
@@ -1445,11 +1438,10 @@ available for filing a complaint for violation of this section.
     guilty to, or been adjudicated a delinquent child for any of the following:
 
         1. _(A)_ A violation of a protection order issued or consent agreement
-        approved pursuant to Ohio R.C. [2151.34][ORC Section 2151.34], 2903.213,
+        approved pursuant to Ohio R.C. [2151.34][ORC 2151.34], 2903.213,
         2903.214, 2919.26, or 3113.31;
 
-        2. _(B)_ Two or more violations of Ohio R.C. [2903.21][ORC Section
-        2903.21], 2903.211, 2903.22, or 2911.211 or any combination of those
+        2. _(B)_ Two or more violations of Ohio R.C. [2903.21][ORC 2903.21], 2903.211, 2903.22, or 2911.211 or any combination of those
         offenses that involved the same person who is the subject of the
         protection order or consent agreement;
 
@@ -1460,7 +1452,7 @@ available for filing a complaint for violation of this section.
     and shall be prosecuted under appropriate state law.
 
     5. _(5)_ If the protection order violated by the offender was an order
-    issued pursuant to Ohio R.C. [2151.34][ORC Section 2151.34] or 2903.214 that
+    issued pursuant to Ohio R.C. [2151.34][ORC 2151.34] or 2903.214 that
     required electronic monitoring of the offender pursuant to that section, the
     court may require in addition to any other sentence imposed upon the
     offender that the offender be electronically monitored for a period not
@@ -1471,13 +1463,12 @@ available for filing a complaint for violation of this section.
     electronic monitoring device and the cost of monitoring the electronic
     monitoring device. If the court determines that the offender is indigent and
     subject to the maximum amount allowable and the rules promulgated by the
-    Attorney General under Ohio R.C. [2903.214][ORC Section 2903.214], the costs
+    Attorney General under Ohio R.C. [2903.214][ORC 2903.214], the costs
     of the installation of the electronic monitoring device and the cost of
     monitoring the electronic monitoring device may be paid out of funds from
-    the reparations fund created pursuant to Ohio R.C. [2743.191][ORC Section
-    2743.191]. The total amount paid from the reparations fund created pursuant
-    to Ohio R.C. [2743.191][ORC Section 2743.191] for electronic monitoring
-    under this section and Ohio R.C. [2151.34][ORC Section 2151.34] and 2903.214
+    the reparations fund created pursuant to Ohio R.C. [2743.191][ORC 2743.191]. The total amount paid from the reparations fund created pursuant
+    to Ohio R.C. [2743.191][ORC 2743.191] for electronic monitoring
+    under this section and Ohio R.C. [2151.34][ORC 2151.34] and 2903.214
     shall not exceed three hundred thousand dollars per year.
 
 3. _(c)_ It is an affirmative defense to a charge under subsection (a)(3) of
@@ -1567,9 +1558,9 @@ Alternative Nicotine Products.**
 
         6. _(F)_ "Proof of age." Means a driver's license, a commercial driver's
         license, a military identification card, a passport, or an
-        identification card issued under Ohio R.C. [4507.50][ORC Section
-        4507.50] to 4507.52 that shows that a person is eighteen years of age or
-        older.
+        identification card issued under Ohio R.C. [4507.50][ORC 4507.50] to
+        [4507.52][ORC 4507.52] that shows that a person is eighteen years of age
+        or older.
 
         7. _(G)_ "Tobacco product." Means any product that is made or derived
         from tobacco or that contains any form of nicotine, if it is intended
@@ -1585,19 +1576,19 @@ Alternative Nicotine Products.**
         described in 21 U.S.C. 321 and 353(g).
 
         8. _(H)_ "Vapor product." Means a product, other than a cigarette or
-        other tobacco product as defined in Ohio R.C. [Chapter 5743][ORC Chapter
-        5743], that contains or is made or derived from nicotine and that is
-        intended and marketed for human consumption, including by smoking,
-        inhaling, snorting, or sniffing. The phrase includes any component,
-        part, or additive that is intended for use in an electronic smoking
-        device, a mechanical heating element, battery, or electronic circuit and
-        is used to deliver the product. The phrase does not include any product
-        that is a drug, device, or combination product, as those terms are
-        defined or described in 21 U.S.C. 321 and 353(g). The phrase includes
-        any product containing nicotine, regardless of concentration.
+        other tobacco product as defined in Ohio R.C. [Chapter 5743][ORC 5743],
+        that contains or is made or derived from nicotine and that is intended
+        and marketed for human consumption, including by smoking, inhaling,
+        snorting, or sniffing. The phrase includes any component, part, or
+        additive that is intended for use in an electronic smoking device, a
+        mechanical heating element, battery, or electronic circuit and is used
+        to deliver the product. The phrase does not include any product that is
+        a drug, device, or combination product, as those terms are defined or
+        described in 21 U.S.C. 321 and 353(g). The phrase includes any product
+        containing nicotine, regardless of concentration.
 
         9. _(I)_ "Vending machine." Has the same meaning as "coin machine" in
-        Ohio R.C. [2913.01][ORC Section 2913.01].
+        Ohio R.C. [2913.01][ORC 2913.01].
 
     2. _(2)_ No manufacturer, producer, distributor, wholesaler, or retailer of
     cigarettes, other tobacco products, alternative nicotine products, or papers
@@ -1735,8 +1726,8 @@ Alternative Nicotine Products.**
     otherwise distributed to a person under twenty-one years of age in violation
     of this section and that are used, possessed, purchased, or received by a
     person under twenty-one years of age in violation of Ohio R.C. [2151.87][ORC
-    Section 2151.87] are subject to seizure and forfeiture as contraband under
-    Ohio R.C. [Chapter 2981][ORC Chapter 2981].\
+    2151.87] are subject to seizure and forfeiture as contraband under
+    Ohio R.C. [Chapter 2981][ORC 2981].\
     (ORC 2927.02)
 
 2. _(b)_ **Transaction Scan.**
@@ -1752,7 +1743,7 @@ Alternative Nicotine Products.**
         employee.
 
         2. _(B)_ "Identification card." An identification card issued under Ohio
-        R.C. [4507.50][ORC Section 4507.50] to 4507.52.
+        R.C. [4507.50][ORC 4507.50] to [4507.52][ORC 4507.52].
 
         3. _(C)_ "Seller." A seller of cigarettes, other tobacco products, or
         alternative nicotine products and includes any person whose gift of or
@@ -1801,7 +1792,7 @@ Alternative Nicotine Products.**
         presenting the document.
 
     3. _(3)_ Rules adopted by the Registrar of Motor Vehicles under Ohio R.C.
-    [4301.61(C)][ORC Section 4301.61] apply to the use of transaction scan
+    [4301.61(C)][ORC 4301.61] apply to the use of transaction scan
     devices for purposes of this subsection (b) and subsection (c) of this
     section.
 
@@ -1898,10 +1889,10 @@ Alternative Nicotine Products.**
     3. _(3)_ In any criminal action in which the affirmative defense provided by
     subsection (c)(1) of this section is raised, the Registrar of Motor Vehicles
     or a Deputy Registrar who issued an identification card under Ohio R.C.
-    [4507.50][ORC Section 4507.50] to 4507.52 shall be permitted to submit
-    certified copies of the records of that issuance in lieu of the testimony of
-    the personnel of or contractors with the Bureau of Motor Vehicles in the
-    action.\
+    [4507.50][ORC 4507.50] to [4507.52][ORC 4507.52] shall be permitted to
+    submit certified copies of the records of that issuance in lieu of the
+    testimony of the personnel of or contractors with the Bureau of Motor
+    Vehicles in the action.\
     (ORC 2927.022)
 
 4. _(d)_ **Shipment of Tobacco Products.**
@@ -1911,7 +1902,7 @@ Alternative Nicotine Products.**
         1. _(A)_ "Authorized recipient of tobacco products" means a person who is:
 
             1. _(1)_ Licensed as a cigarette wholesale dealer under Ohio R.C.
-            [5743.15][ORC Section 5743.15];
+            [5743.15][ORC 5743.15];
 
             2. _(2)_ Licensed as a retail dealer as long as the person purchases
             cigarettes with the appropriate tax stamp affixed;
@@ -1929,14 +1920,14 @@ Alternative Nicotine Products.**
             subdivision of the federal government or of this state;
 
             7. _(7)_ A person having a consent for consumer shipment issued by
-            the Tax Commissioner under Ohio R.C. [5743.71][ORC Section 5743.71].
+            the Tax Commissioner under Ohio R.C. [5743.71][ORC 5743.71].
 
         2. _(B)_ "Motor carrier." Has the same meaning as in Ohio R.C.
-        [4923.01][ORC Section 4923.01].
+        [4923.01][ORC 4923.01].
 
     2. _(2)_ The purpose of this division (d) is to prevent the sale of
     cigarettes to minors and to ensure compliance with the Master Settlement
-    Agreement, as defined in Ohio R.C. [1346.01][ORC Section 1346.01].
+    Agreement, as defined in Ohio R.C. [1346.01][ORC 1346.01].
 
     3. _(3)_
 
@@ -1984,8 +1975,8 @@ Alternative Nicotine Products.**
 ## 537.17   Reserved
 
 (Editor's note: This section was formerly 537.17 Criminal Child Enticement,
-based on Ohio R.C. [2905.05][ORC Section 2905.05], Criminal Child Enticement.
-The Ohio Supreme Court held that Ohio R.C. [2905.05(A)][ORC Section 2905.05] was
+based on Ohio R.C. [2905.05][ORC 2905.05], Criminal Child Enticement.
+The Ohio Supreme Court held that Ohio R.C. [2905.05(A)][ORC 2905.05] was
 unconstitutionally overbroad in violation of the First Amendment. See State v.
 Romage, 138 Ohio St. 3d. 390 (2014).)
 
@@ -1994,10 +1985,10 @@ Romage, 138 Ohio St. 3d. 390 (2014).)
 1. _(a)_ As used in this section:
 
     1. _(1)_ "Delinquent child" has the same meaning as in Ohio R.C.
-    [2152.02][ORC Section 2152.02].
+    [2152.02][ORC 2152.02].
 
     2. _(2)_ "Unruly child" has the same meaning as in Ohio R.C. [2151.022][ORC
-    Section 2151.022].
+    2151.022].
 
 2. _(b)_ No person, including a parent, guardian or other custodian of a child,
 shall do any of the following:
@@ -2016,7 +2007,7 @@ shall do any of the following:
     has the duties under Ohio R.C. Chapters 2152 and 2950 to register, register
     a new residence address, and periodically verify a residence address and, if
     applicable, to send a notice of intent to reside, and if the child is not
-    emancipated, as defined in Ohio R.C. [2919.121][ORC Section 2919.121], fail
+    emancipated, as defined in Ohio R.C. [2919.121][ORC 2919.121], fail
     to ensure that the child complies with those duties under Ohio R.C. Chapters
     2152 and 2950.
 
@@ -2054,7 +2045,7 @@ reasonably should have known of the hazing and who did not make reasonable
 attempts to prevent it and against the school, university, college or other
 educational institution. If an administrator, employee or faculty member is
 found liable in a civil action for hazing, then notwithstanding Ohio R.C.
-[Chapter 2743][ORC Chapter 2743], the school, university, college or other
+[Chapter 2743][ORC 2743], the school, university, college or other
 educational institution that employed the administrator, employee or faculty
 member may also be held liable.
 
@@ -2078,75 +2069,76 @@ to the civil remedy provided for in subsection (d) hereof.\
 any misdemeanor classification.)
 
 [CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[ORC Chapter 128]:<https://codes.ohio.gov/ohio-revised-code/chapter-128>
-[ORC Chapter 2743]:<https://codes.ohio.gov/ohio-revised-code/chapter-2743>
-[ORC Chapter 2981]:<https://codes.ohio.gov/ohio-revised-code/chapter-2981>
-[ORC Chapter 3721]:<https://codes.ohio.gov/ohio-revised-code/chapter-3721>
-[ORC Chapter 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510>
-[ORC Chapter 4723]:<https://codes.ohio.gov/ohio-revised-code/chapter-4723>
-[ORC Chapter 5743]:<https://codes.ohio.gov/ohio-revised-code/chapter-5743>
-[ORC Section 341.23]:<https://codes.ohio.gov/ohio-revised-code/section-341.23>
-[ORC Section 1332.21]:<https://codes.ohio.gov/ohio-revised-code/section-1332.21>
-[ORC Section 1346.01]:<https://codes.ohio.gov/ohio-revised-code/section-1346.01>
-[ORC Section 2133.21]:<https://codes.ohio.gov/ohio-revised-code/section-2133.21>
-[ORC Section 2151.022]:<https://codes.ohio.gov/ohio-revised-code/section-2151.022>
-[ORC Section 2151.34]:<https://codes.ohio.gov/ohio-revised-code/section-2151.34>
-[ORC Section 2151.87]:<https://codes.ohio.gov/ohio-revised-code/section-2151.87>
-[ORC Section 2152.02]:<https://codes.ohio.gov/ohio-revised-code/section-2152.02>
-[ORC Section 2305.234]:<https://codes.ohio.gov/ohio-revised-code/section-2305.234>
-[ORC Section 2743.191]:<https://codes.ohio.gov/ohio-revised-code/section-2743.191>
-[ORC Section 2743.191]:<https://codes.ohio.gov/ohio-revised-code/section-2743.191>
-[ORC Section 2903.01]:<https://codes.ohio.gov/ohio-revised-code/section-2903.01>
-[ORC Section 2903.04]:<https://codes.ohio.gov/ohio-revised-code/section-2903.04>
-[ORC Section 2903.06]:<https://codes.ohio.gov/ohio-revised-code/section-2903.06>
-[ORC Section 2903.06]:<https://codes.ohio.gov/ohio-revised-code/section-2903.06>
-[ORC Section 2903.11]:<https://codes.ohio.gov/ohio-revised-code/section-2903.11>
-[ORC Section 2903.14]:<https://codes.ohio.gov/ohio-revised-code/section-2903.14>
-[ORC Section 2903.21]:<https://codes.ohio.gov/ohio-revised-code/section-2903.21>
-[ORC Section 2903.081]:<https://codes.ohio.gov/ohio-revised-code/section-2903.081>
-[ORC Section 2903.213]:<https://codes.ohio.gov/ohio-revised-code/section-2903.213>
-[ORC Section 2903.214]:<https://codes.ohio.gov/ohio-revised-code/section-2903.214>
-[ORC Section 2905.05]:<https://codes.ohio.gov/ohio-revised-code/section-2905.05>
-[ORC Section 2907.01]:<https://codes.ohio.gov/ohio-revised-code/section-2907.01>
-[ORC Section 2909.04]:<https://codes.ohio.gov/ohio-revised-code/section-2909.04>
-[ORC Section 2913.01]:<https://codes.ohio.gov/ohio-revised-code/section-2913.01>
-[ORC Section 2919.22]:<https://codes.ohio.gov/ohio-revised-code/section-2919.22>
-[ORC Section 2919.25]:<https://codes.ohio.gov/ohio-revised-code/section-2919.25>
-[ORC Section 2919.26]:<https://codes.ohio.gov/ohio-revised-code/section-2919.26>
-[ORC Section 2919.121]:<https://codes.ohio.gov/ohio-revised-code/section-2919.121>
-[ORC Section 2919.271]:<https://codes.ohio.gov/ohio-revised-code/section-2919.271>
-[ORC Section 2921.01]:<https://codes.ohio.gov/ohio-revised-code/section-2921.01>
-[ORC Section 2929.01]:<https://codes.ohio.gov/ohio-revised-code/section-2929.01>
-[ORC Section 2929.24]:<https://codes.ohio.gov/ohio-revised-code/section-2929.24>
-[ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
-[ORC Section 2935.01]:<https://codes.ohio.gov/ohio-revised-code/section-2935.01>
-[ORC Section 2941.1423]:<https://codes.ohio.gov/ohio-revised-code/section-2941.1423>
-[ORC Section 2945.44]:<https://codes.ohio.gov/ohio-revised-code/section-2945.44>
-[ORC Section 2967.01]:<https://codes.ohio.gov/ohio-revised-code/section-2967.01>
-[ORC Section 2967.27]:<https://codes.ohio.gov/ohio-revised-code/section-2967.27>
-[ORC Section 2971.01]:<https://codes.ohio.gov/ohio-revised-code/section-2971.01>
-[ORC Section 3301.07]:<https://codes.ohio.gov/ohio-revised-code/section-3301.07>
-[ORC Section 3301.071]:<https://codes.ohio.gov/ohio-revised-code/section-3301.071>
-[ORC Section 3311.77]:<https://codes.ohio.gov/ohio-revised-code/section-3311.77>
-[ORC Section 3319.22]:<https://codes.ohio.gov/ohio-revised-code/section-3319.22>
-[ORC Section 3701.01]:<https://codes.ohio.gov/ohio-revised-code/section-3701.01>
-[ORC Section 3719.01]:<https://codes.ohio.gov/ohio-revised-code/section-3719.01>
-[ORC Section 3727.01]:<https://codes.ohio.gov/ohio-revised-code/section-3727.01>
-[ORC Section 3937.41]:<https://codes.ohio.gov/ohio-revised-code/section-3937.41>
-[ORC Section 4301.61]:<https://codes.ohio.gov/ohio-revised-code/section-4301.61>
-[ORC Section 4507.10]:<https://codes.ohio.gov/ohio-revised-code/section-4507.10>
-[ORC Section 4507.10]:<https://codes.ohio.gov/ohio-revised-code/section-4507.10>
-[ORC Section 4507.50]:<https://codes.ohio.gov/ohio-revised-code/section-4507.50>
-[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
-[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
-[ORC Section 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
-[ORC Section 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
-[ORC Section 4511.21]:<https://codes.ohio.gov/ohio-revised-code/section-4511.21>
-[ORC Section 4511.191]:<https://codes.ohio.gov/ohio-revised-code/section-4511.191>
-[ORC Section 4723.32]:<https://codes.ohio.gov/ohio-revised-code/section-4723.32>
-[ORC Section 4765.01]:<https://codes.ohio.gov/ohio-revised-code/section-4765.01>
-[ORC Section 4923.01]:<https://codes.ohio.gov/ohio-revised-code/section-4923.01>
-[ORC Section 5501.27]:<https://codes.ohio.gov/ohio-revised-code/section-5501.27>
-[ORC Section 5743.15]:<https://codes.ohio.gov/ohio-revised-code/section-5743.15>
-[ORC Section 5743.71]:<https://codes.ohio.gov/ohio-revised-code/section-5743.71>
-[ORC Title 45]:<https://codes.ohio.gov/ohio-revised-code/title-45>
+[ORC 45]:<https://codes.ohio.gov/ohio-revised-code/title-45>
+[ORC 128]:<https://codes.ohio.gov/ohio-revised-code/chapter-128>
+[ORC 341.23]:<https://codes.ohio.gov/ohio-revised-code/section-341.23>
+[ORC 1332.21]:<https://codes.ohio.gov/ohio-revised-code/section-1332.21>
+[ORC 1346.01]:<https://codes.ohio.gov/ohio-revised-code/section-1346.01>
+[ORC 2133.21]:<https://codes.ohio.gov/ohio-revised-code/section-2133.21>
+[ORC 2151.022]:<https://codes.ohio.gov/ohio-revised-code/section-2151.022>
+[ORC 2151.34]:<https://codes.ohio.gov/ohio-revised-code/section-2151.34>
+[ORC 2151.87]:<https://codes.ohio.gov/ohio-revised-code/section-2151.87>
+[ORC 2152.02]:<https://codes.ohio.gov/ohio-revised-code/section-2152.02>
+[ORC 2305.234]:<https://codes.ohio.gov/ohio-revised-code/section-2305.234>
+[ORC 2743.191]:<https://codes.ohio.gov/ohio-revised-code/section-2743.191>
+[ORC 2743]:<https://codes.ohio.gov/ohio-revised-code/chapter-2743>
+[ORC 2903.01]:<https://codes.ohio.gov/ohio-revised-code/section-2903.01>
+[ORC 2903.04]:<https://codes.ohio.gov/ohio-revised-code/section-2903.04>
+[ORC 2903.06]:<https://codes.ohio.gov/ohio-revised-code/section-2903.06>
+[ORC 2903.07]:<https://codes.ohio.gov/ohio-revised-code/section-2903.07>
+[ORC 2903.08]:<https://codes.ohio.gov/ohio-revised-code/section-2903.08>
+[ORC 2903.11]:<https://codes.ohio.gov/ohio-revised-code/section-2903.11>
+[ORC 2903.14]:<https://codes.ohio.gov/ohio-revised-code/section-2903.14>
+[ORC 2903.21]:<https://codes.ohio.gov/ohio-revised-code/section-2903.21>
+[ORC 2903.081]:<https://codes.ohio.gov/ohio-revised-code/section-2903.081>
+[ORC 2903.213]:<https://codes.ohio.gov/ohio-revised-code/section-2903.213>
+[ORC 2903.214]:<https://codes.ohio.gov/ohio-revised-code/section-2903.214>
+[ORC 2905.05]:<https://codes.ohio.gov/ohio-revised-code/section-2905.05>
+[ORC 2907.01]:<https://codes.ohio.gov/ohio-revised-code/section-2907.01>
+[ORC 2909.04]:<https://codes.ohio.gov/ohio-revised-code/section-2909.04>
+[ORC 2913.01]:<https://codes.ohio.gov/ohio-revised-code/section-2913.01>
+[ORC 2919.22]:<https://codes.ohio.gov/ohio-revised-code/section-2919.22>
+[ORC 2919.25]:<https://codes.ohio.gov/ohio-revised-code/section-2919.25>
+[ORC 2919.26]:<https://codes.ohio.gov/ohio-revised-code/section-2919.26>
+[ORC 2919.121]:<https://codes.ohio.gov/ohio-revised-code/section-2919.121>
+[ORC 2919.271]:<https://codes.ohio.gov/ohio-revised-code/section-2919.271>
+[ORC 2921.01]:<https://codes.ohio.gov/ohio-revised-code/section-2921.01>
+[ORC 2929.01]:<https://codes.ohio.gov/ohio-revised-code/section-2929.01>
+[ORC 2929.24]:<https://codes.ohio.gov/ohio-revised-code/section-2929.24>
+[ORC 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
+[ORC 2935.01]:<https://codes.ohio.gov/ohio-revised-code/section-2935.01>
+[ORC 2941.1423]:<https://codes.ohio.gov/ohio-revised-code/section-2941.1423>
+[ORC 2945.44]:<https://codes.ohio.gov/ohio-revised-code/section-2945.44>
+[ORC 2967.01]:<https://codes.ohio.gov/ohio-revised-code/section-2967.01>
+[ORC 2967.27]:<https://codes.ohio.gov/ohio-revised-code/section-2967.27>
+[ORC 2971.01]:<https://codes.ohio.gov/ohio-revised-code/section-2971.01>
+[ORC 2981]:<https://codes.ohio.gov/ohio-revised-code/chapter-2981>
+[ORC 3301.07]:<https://codes.ohio.gov/ohio-revised-code/section-3301.07>
+[ORC 3301.071]:<https://codes.ohio.gov/ohio-revised-code/section-3301.071>
+[ORC 3311.77]:<https://codes.ohio.gov/ohio-revised-code/section-3311.77>
+[ORC 3319.22]:<https://codes.ohio.gov/ohio-revised-code/section-3319.22>
+[ORC 3319.311]:<https://codes.ohio.gov/ohio-revised-code/section-3319.311>
+[ORC 3701.01]:<https://codes.ohio.gov/ohio-revised-code/section-3701.01>
+[ORC 3719.01]:<https://codes.ohio.gov/ohio-revised-code/section-3719.01>
+[ORC 3721]:<https://codes.ohio.gov/ohio-revised-code/chapter-3721>
+[ORC 3727.01]:<https://codes.ohio.gov/ohio-revised-code/section-3727.01>
+[ORC 3937.41]:<https://codes.ohio.gov/ohio-revised-code/section-3937.41>
+[ORC 4301.61]:<https://codes.ohio.gov/ohio-revised-code/section-4301.61>
+[ORC 4507.10]:<https://codes.ohio.gov/ohio-revised-code/section-4507.10>
+[ORC 4507.50]:<https://codes.ohio.gov/ohio-revised-code/section-4507.50>
+[ORC 4507.52]:<https://codes.ohio.gov/ohio-revised-code/section-4507.52>
+[ORC 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
+[ORC 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510>
+[ORC 4511.01]:<https://codes.ohio.gov/ohio-revised-code/section-4511.01>
+[ORC 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
+[ORC 4511.21]:<https://codes.ohio.gov/ohio-revised-code/section-4511.21>
+[ORC 4511.191]:<https://codes.ohio.gov/ohio-revised-code/section-4511.191>
+[ORC 4511.197]:<https://codes.ohio.gov/ohio-revised-code/section-4511.197>
+[ORC 4723.32]:<https://codes.ohio.gov/ohio-revised-code/section-4723.32>
+[ORC 4723]:<https://codes.ohio.gov/ohio-revised-code/chapter-4723>
+[ORC 4765.01]:<https://codes.ohio.gov/ohio-revised-code/section-4765.01>
+[ORC 4923.01]:<https://codes.ohio.gov/ohio-revised-code/section-4923.01>
+[ORC 5501.27]:<https://codes.ohio.gov/ohio-revised-code/section-5501.27>
+[ORC 5743.15]:<https://codes.ohio.gov/ohio-revised-code/section-5743.15>
+[ORC 5743.71]:<https://codes.ohio.gov/ohio-revised-code/section-5743.71>
+[ORC 5743]:<https://codes.ohio.gov/ohio-revised-code/chapter-5743>

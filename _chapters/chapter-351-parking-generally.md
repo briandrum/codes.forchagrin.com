@@ -32,7 +32,7 @@ title: "Chapter 351: Parking Generally"
 ## Cross references
 
 * See sectional histories for similar State law
-* Owner nonliability, lease defense - see Ohio R.C. [4511.071][ORC Section 4511.071]
+* Owner nonliability, lease defense - see Ohio R.C. [4511.071][ORC 4511.071]
 * Police may remove ignition key from unattended vehicle - see TRAF. 303.03
 * Parking near stopped fire apparatus - see TRAF. 331.27
 * Lights on parked or stopped vehicles - see TRAF. 337.09
@@ -192,7 +192,7 @@ all publicly owned parking garages. The locations shall be designated through
 the posting of an elevated sign, whether permanently affixed or movable,
 imprinted with the international symbol of access and shall be reasonably close
 to exits, entrances, elevators and ramps. All elevated signs posted in
-accordance with this subsection and Ohio R.C. [3781.111][ORC Section 3781.111]
+accordance with this subsection and Ohio R.C. [3781.111][ORC 3781.111]
 (C) shall be mounted on a fixed or movable post, and the distance from the
 ground to the bottom edge of the sign shall measure not less than five feet. If
 a new sign or a replacement sign designating a special parking location is
@@ -239,7 +239,7 @@ to be parked in that location.
         person suffered an injury not more than seventy-two hours prior to the
         time the person was issued the ticket or citation and that, because of
         the injury, the person meets at least one of the criteria contained in
-        Ohio R.C. [4503.44(A)(1)][ORC Section 4503.44].
+        Ohio R.C. [4503.44(A)(1)][ORC 4503.44].
 
     2. _(2)_ No person shall stop, stand or park any motor vehicle in an area
     that is commonly known as an access aisle, which area is marked by diagonal
@@ -268,11 +268,11 @@ where the vehicle is parked in such a manner as to be clearly a traffic hazard.
     pulmonary or other handicapping condition.
 
     2. _(2)_ "Person with a disability that limits or impairs the ability to
-    walk" has the same meaning as in Ohio R.C. [4503.44][ORC Section 4503.44].
+    walk" has the same meaning as in Ohio R.C. [4503.44][ORC 4503.44].
 
     3. _(3)_ "Special license plates" and "removable windshield placard" mean
     any license plates or removable windshield placard or temporary removable
-    windshield placard issued under Ohio R.C. [4503.41][ORC Section 4503.41] or
+    windshield placard issued under Ohio R.C. [4503.41][ORC 4503.41] or
     4503.44, and also mean any substantially similar license plates or removable
     windshield placard or temporary removable windshield placard issued by a
     state, district, country or sovereignty.\
@@ -426,8 +426,8 @@ following:
     2. _(2)_ Park a vehicle on the property in violation of any condition or
     regulation posted by the owner.
 
-2. _(b)_ Except as provided in Ohio R.C. [4513.60][ORC Section 4513.60] to
-4513.65 and [Section 303.08][CFCO 303.08] of this Traffic Code and [Section
+2. _(b)_ Except as provided in Ohio R.C. [4513.60][ORC 4513.60] to [4513.65][ORC
+4513.65] and [Section 303.08][CFCO 303.08] of this Traffic Code and [Section
 521.11][CFCO 521.11] of the General Offenses Code, and subject to the
 requirements of this section, the owner of private property or his or her
 authorized agent may remove, or cause to be removed, any vehicle parked on the
@@ -480,8 +480,8 @@ operator immediately shall move the vehicle so that it is not parked on the
 property established as a private tow-away zone without the consent of the
 owner.
 
-5. _(e)_ Except as provided in Ohio R.C. [4513.60][ORC Section 4513.60] to
-4513.65 and [Section 303.08][CFCO 303.08] of this Traffic Code and [Section
+5. _(e)_ Except as provided in Ohio R.C. [4513.60][ORC 4513.60] to [4513.65][ORC
+4513.65] and [Section 303.08][CFCO 303.08] of this Traffic Code and [Section
 521.11][CFCO 521.11] of the General Offenses Code, no person shall remove, or
 cause to be removed, any vehicle from private property other than in accordance
 with this section.
@@ -626,9 +626,10 @@ penalty.)
 [CFCO 351.03(q)]:</chapters/chapter-351-parking-generally/#35103(q)>
 [CFCO 351.04(f)]:</chapters/chapter-351-parking-generally/#35104(f)>
 [CFCO 521.11]:</chapters/chapter-521-health-safety-and-sanitation/#52111-junk-and-junk-vehicles>
-[ORC Section 3781.111]:<https://codes.ohio.gov/ohio-revised-code/section-3781.111>
-[ORC Section 4503.41]:<https://codes.ohio.gov/ohio-revised-code/section-4503.41>
-[ORC Section 4503.44]:<https://codes.ohio.gov/ohio-revised-code/section-4503.44>
-[ORC Section 4503.44]:<https://codes.ohio.gov/ohio-revised-code/section-4503.44>
-[ORC Section 4511.071]:<https://codes.ohio.gov/ohio-revised-code/section-4511.071>
-[ORC Section 4513.60]:<https://codes.ohio.gov/ohio-revised-code/section-4513.60>
+[ORC 3781.111]:<https://codes.ohio.gov/ohio-revised-code/section-3781.111>
+[ORC 4503.41]:<https://codes.ohio.gov/ohio-revised-code/section-4503.41>
+[ORC 4503.44]:<https://codes.ohio.gov/ohio-revised-code/section-4503.44>
+[ORC 4503.44]:<https://codes.ohio.gov/ohio-revised-code/section-4503.44>
+[ORC 4511.071]:<https://codes.ohio.gov/ohio-revised-code/section-4511.071>
+[ORC 4513.60]:<https://codes.ohio.gov/ohio-revised-code/section-4513.60>
+[ORC 4513.65]:<https://codes.ohio.gov/ohio-revised-code/section-4513.65>

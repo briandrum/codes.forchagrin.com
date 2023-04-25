@@ -713,7 +713,7 @@ installing, repairing, or maintaining Facilities in the Right-of-Way.\
 
 1. _(a)_ Each Facilities Operator must procure and provide to the Village a
 bond, escrow, deposit, letter of credit, or other financial surety to ensure
-compliance with this Chapter and [Chapter 4939][ORC Chapter 4939] of the Ohio
+compliance with this Chapter and [Chapter 4939][ORC 4939] of the Ohio
 Revised Code. The financial surety must be in an amount sufficient to cover the
 cost of removal of all Facilities owned or operated by the Facilities Operator.
 
@@ -792,4 +792,4 @@ remedies that the Village may have, at law or in equity, for enforcement of this
 Chapter.\
 (Ord. 2019-10. Passed 1-14-19.)
 
-[ORC Chapter 4939]:<https://codes.ohio.gov/ohio-revised-code/chapter-4939>
+[ORC 4939]:<https://codes.ohio.gov/ohio-revised-code/chapter-4939>

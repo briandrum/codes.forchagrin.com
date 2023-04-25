@@ -226,6 +226,6 @@ Commission](/chapters/chapter-143-whitesburg-park-commission/).
 
 ## Other
 
-### Merchant Liaison
+### Merchant Association Liaison
 
 - Angie DeBernardo, Council Representative

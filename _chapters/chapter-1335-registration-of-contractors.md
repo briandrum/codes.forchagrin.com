@@ -21,7 +21,7 @@ title: "Chapter 1335: Registration of Contractors"
 
 ## Cross references
 
-* Municipal authority to regulate contractors - see Ohio R.C. [715.27][ORC Section 715.27]
+* Municipal authority to regulate contractors - see Ohio R.C. [715.27][ORC 715.27]
 * Ohio State Plumbing Code - see OAC Ch. 4101:3-1 et seq.
 * Street openings and excavations - see S.& P.S. 901.01 et seq.
 * Heating permits - see BLDG. 1307.15
@@ -62,7 +62,7 @@ general contracting, except where the work is of a minor nature and pursuant to
 the appropriate fee provided in [Section 1335.10][CFCO 1335.10], any person
 having a qualification certificate to install or perform plumbing, sewer work,
 heating or electrical equipment, which qualification certificate has been issued
-by the State pursuant to Ohio R.C. [Chapter 4740][ORC Chapter 4740] and is in
+by the State pursuant to Ohio R.C. [Chapter 4740][ORC 4740] and is in
 full force and effect, upon presentation of such certificate to the Chief
 Administrative Officer shall have issued to such person by the Chief
 Administrative Officer, upon such evidence and without examination, the
@@ -172,5 +172,5 @@ January 1 to January 1, upon payment of the further sum of sixty dollars
 [CFCO 1307.18]:</chapters/chapter-1307-building-permits/#130718-minor-building-permits>
 [CFCO 1335.04]:</chapters/chapter-1335-registration-of-contractors/#133504-registration-denial-appeal>
 [CFCO 1335.10]:</chapters/chapter-1335-registration-of-contractors/#133510-fees>
-[ORC Chapter 4740]:<https://codes.ohio.gov/ohio-revised-code/chapter-4740>
-[ORC Section 715.27]:<https://codes.ohio.gov/ohio-revised-code/section-715.27>
+[ORC 4740]:<https://codes.ohio.gov/ohio-revised-code/chapter-4740>
+[ORC 715.27]:<https://codes.ohio.gov/ohio-revised-code/section-715.27>

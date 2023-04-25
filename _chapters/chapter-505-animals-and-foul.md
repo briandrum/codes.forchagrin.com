@@ -37,8 +37,8 @@ title: "Chapter 505: Animals and Fowl"
 ## Cross references
 
 * See sectional histories for similar State law
-* Owner or keeper liable for damages - see Ohio R.C. [951.10][ORC Section 951.10]
-* Dog registration - see Ohio R.C. [955.01][ORC Section 955.01]
+* Owner or keeper liable for damages - see Ohio R.C. [951.10][ORC 951.10]
+* Dog registration - see Ohio R.C. [955.01][ORC 955.01]
 * Discharging firearms prohibited - see GEN. OFF. 549.12
 
 ## 505.01   Animals not under control
@@ -78,14 +78,13 @@ June 13, 2005.)
 
 ## 505.03   Annual registration of dogs; tags required
 
-1. _(a)_ Except for guide dogs registered under Ohio R.C. [955.011][ORC Section
-955.011] and dogs kept by an institution or organization for teaching and
-research purposes under Ohio R.C. [955.16][ORC Section 955.16], no person shall
+1. _(a)_ Except for guide dogs registered under Ohio R.C. [955.011][ORC 955.011] and dogs kept by an institution or organization for teaching and
+research purposes under Ohio R.C. [955.16][ORC 955.16], no person shall
 own, keep or harbor a dog more than three months of age without annually
 registering such dog with the County Auditor. Failure of any dog at any time to
 wear a valid registration tag shall be prima-facie evidence of lack of
 registration and subject such dog to impounding and disposition as provided by
-Ohio R.C. [955.16][ORC Section 955.16].
+Ohio R.C. [955.16][ORC 955.16].
 
 2. _(b)_ Whoever violates this section is guilty of a minor misdemeanor for a
 first offense and a misdemeanor of the fourth degree for each subsequent
@@ -135,7 +134,7 @@ the property of another; and no person shall, willfully and without the consent
 of the owner, place any poisoned food where it may be easily found and eaten by
 any of such animals, either upon his own lands or the lands of another. This
 section does not apply to trespassing animals as set forth in Ohio R.C.
-[959.04][ORC Section 959.04].\
+[959.04][ORC 959.04].\
 (ORC 959.03)
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the third
@@ -195,21 +194,21 @@ from the sale, if any, shall be paid to the former owner of the animal.\
 
     1. _(1)_ "Companion animal" means any animal that is kept inside a
     residential dwelling and any dog or cat regardless of where it is kept,
-    including a pet store as defined in Ohio R.C. [956.01][ORC Section 956.01].
+    including a pet store as defined in Ohio R.C. [956.01][ORC 956.01].
     "Companion animal" does not include livestock or any wild animal.
 
     2. _(2)_ "Cruelty", "torment" and "torture" have the same meanings as in
-    Ohio R.C. [1717.01][ORC Section 1717.01].
+    Ohio R.C. [1717.01][ORC 1717.01].
 
     3. _(3)_ "Residential dwelling" means a structure or shelter or the portion
     of a structure or shelter that is used by one or more humans for the purpose
     of a habitation.
 
     4. _(4)_ "Practice of veterinary medicine" has the same meaning as in Ohio
-    R.C. [4741.01][ORC Section 4741.01].
+    R.C. [4741.01][ORC 4741.01].
 
     5. _(5)_ "Wild animal" has the same meaning as in Ohio R.C. [1531.01][ORC
-    Section 1531.01].
+    1531.01].
 
     6. _(6)_ "Federal animal welfare act" means the "Laboratory Animal Act of
     1966", Pub. L. No. 89-544, 80 Stat. 350 (1966), 7 U.S.C.A. 2131 et seq., as
@@ -219,7 +218,7 @@ from the sale, if any, shall be paid to the former owner of the animal.\
     No. 99- 198, 99 Stat. 1354 (1985), and as it may be subsequently amended.
 
     7. _(7)_ "Dog kennel" means an animal rescue for dogs that is registered
-    under Ohio R.C. [956.06][ORC Section 956.06], a boarding kennel or a
+    under Ohio R.C. [956.06][ORC 956.06], a boarding kennel or a
     training kennel.
 
 2. _(b)_ No person shall knowingly torture, torment, needlessly mutilate or
@@ -272,7 +271,7 @@ following:
 
     2. _(2)_ The lawful practice of veterinary medicine by a person who has been
     issued a license, temporary permit, or registration certificate to do so
-    under Ohio R.C. [Chapter 4741][ORC Chapter 4741];
+    under Ohio R.C. [Chapter 4741][ORC 4741];
 
     3. _(3)_ Dogs being used or intended for use for hunting or field trial
     purposes, provided that the dogs are being treated in accordance with usual
@@ -285,7 +284,7 @@ following:
     5. _(5)_ The administering of medicine to a companion animal that was
     properly prescribed by a person who has been issued a license, temporary
     permit, or registration certificate under Ohio R.C. [Chapter 4741][ORC
-    Chapter 4741].
+    4741].
 
 6. _(f)_ Notwithstanding any section of the Ohio Revised Code that otherwise
 provides for the distribution of fine moneys, the Clerk of Court shall forward
@@ -298,7 +297,7 @@ this state that primarily was responsible for or involved in the investigation
 and prosecution of the violation. If a county humane society receives any fine
 moneys under this section, the county humane society shall use the fine moneys
 either to provide the training that is required for humane society agents under
-Ohio R.C. [1717.061][ORC Section 1717.061] or to provide additional training for
+Ohio R.C. [1717.061][ORC 1717.061] or to provide additional training for
 humane society agents.\
 (ORC 959.131)
 
@@ -320,7 +319,7 @@ humane society agents.\
 
         1. _(A)_ A court may order a person who is convicted of or pleads guilty
         to a violation of this section to forfeit to an impounding agency, as
-        defined in Ohio R.C. [959.132][ORC Section 959.132], any or all of the
+        defined in Ohio R.C. [959.132][ORC 959.132], any or all of the
         companion animals in that person's ownership or care. The court also may
         prohibit or place limitations on the person's ability to own or care for
         any companion animals for a specified or indefinite period of time.
@@ -330,7 +329,7 @@ humane society agents.\
         reasonably necessary costs incurred by the agency for the care of a
         companion animal that the agency impounded as a result of the
         investigation or prosecution of the violation, provided that the costs
-        were not otherwise paid under Ohio R.C. [959.132][ORC Section 959.132].
+        were not otherwise paid under Ohio R.C. [959.132][ORC 959.132].
 
     5. _(5)_ If a court has reason to believe that a person who is convicted of
     or pleads guilty to a violation of this section suffers from a mental or
@@ -936,18 +935,18 @@ or for violations of provisions of this chapter other than Section 505.18.\
 any misdemeanor classification.)
 
 [CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[ORC Chapter 4741]:<https://codes.ohio.gov/ohio-revised-code/chapter-4741>
-[ORC Section 951.10]:<https://codes.ohio.gov/ohio-revised-code/section-951.10>
-[ORC Section 955.01]:<https://codes.ohio.gov/ohio-revised-code/section-955.01>
-[ORC Section 955.011]:<https://codes.ohio.gov/ohio-revised-code/section-955.011>
-[ORC Section 955.16]:<https://codes.ohio.gov/ohio-revised-code/section-955.16>
-[ORC Section 955.16]:<https://codes.ohio.gov/ohio-revised-code/section-955.16>
-[ORC Section 956.01]:<https://codes.ohio.gov/ohio-revised-code/section-956.01>
-[ORC Section 956.06]:<https://codes.ohio.gov/ohio-revised-code/section-956.06>
-[ORC Section 959.04]:<https://codes.ohio.gov/ohio-revised-code/section-959.04>
-[ORC Section 959.132]:<https://codes.ohio.gov/ohio-revised-code/section-959.132>
-[ORC Section 959.132]:<https://codes.ohio.gov/ohio-revised-code/section-959.132>
-[ORC Section 1531.01]:<https://codes.ohio.gov/ohio-revised-code/section-1531.01>
-[ORC Section 1717.01]:<https://codes.ohio.gov/ohio-revised-code/section-1717.01>
-[ORC Section 1717.061]:<https://codes.ohio.gov/ohio-revised-code/section-1717.061>
-[ORC Section 4741.01]:<https://codes.ohio.gov/ohio-revised-code/section-4741.01>
+[ORC 4741]:<https://codes.ohio.gov/ohio-revised-code/chapter-4741>
+[ORC 951.10]:<https://codes.ohio.gov/ohio-revised-code/section-951.10>
+[ORC 955.01]:<https://codes.ohio.gov/ohio-revised-code/section-955.01>
+[ORC 955.011]:<https://codes.ohio.gov/ohio-revised-code/section-955.011>
+[ORC 955.16]:<https://codes.ohio.gov/ohio-revised-code/section-955.16>
+[ORC 955.16]:<https://codes.ohio.gov/ohio-revised-code/section-955.16>
+[ORC 956.01]:<https://codes.ohio.gov/ohio-revised-code/section-956.01>
+[ORC 956.06]:<https://codes.ohio.gov/ohio-revised-code/section-956.06>
+[ORC 959.04]:<https://codes.ohio.gov/ohio-revised-code/section-959.04>
+[ORC 959.132]:<https://codes.ohio.gov/ohio-revised-code/section-959.132>
+[ORC 959.132]:<https://codes.ohio.gov/ohio-revised-code/section-959.132>
+[ORC 1531.01]:<https://codes.ohio.gov/ohio-revised-code/section-1531.01>
+[ORC 1717.01]:<https://codes.ohio.gov/ohio-revised-code/section-1717.01>
+[ORC 1717.061]:<https://codes.ohio.gov/ohio-revised-code/section-1717.061>
+[ORC 4741.01]:<https://codes.ohio.gov/ohio-revised-code/section-4741.01>

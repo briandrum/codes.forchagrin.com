@@ -85,14 +85,14 @@ consistent with, the provisions and limitations of Ohio Revised Code [718][ORC
 
 1. _(A)_ Any term used in this Chapter that is not otherwise defined in this
 Chapter has the same meaning as when used in a comparable context in laws of the
-United States relating to federal income taxation or in [Title LVII][ORC Title
-57] of the Ohio R.C., unless a different meaning is clearly required. If a term
-used in this Chapter that is not otherwise defined in this Chapter is used in a
+United States relating to federal income taxation or in [Title LVII][ORC 57] of
+the Ohio R.C., unless a different meaning is clearly required. If a term used in
+this Chapter that is not otherwise defined in this Chapter is used in a
 comparable context in both the laws of the United States relating to federal
-income tax and in [Title LVII][ORC Title 57] of the Ohio R.C. and the use is not
+income tax and in [Title LVII][ORC 57] of the Ohio R.C. and the use is not
 consistent, then the use of the term in the laws of the United States relating
 to federal income tax shall control over the use of the term in [Title LVII][ORC
-Title 57] of the Ohio R.C.
+57] of the Ohio R.C.
 
 2. _(B)_ The singular shall include the plural, and the masculine shall include
 the feminine and the gender-neutral.
@@ -145,7 +145,7 @@ the feminine and the gender-neutral.
         7. _(g)_ Deduct, to the extent not otherwise deducted or excluded in
         computing federal taxable income, any income derived from a transfer
         agreement or from the enterprise transferred under that agreement under
-        [Section 4313.02][ORC Section 4313.02] of the Ohio R.C.;
+        [Section 4313.02][ORC 4313.02] of the Ohio R.C.;
 
         8. _(h)_ Deduct exempt income to the extent not otherwise deducted or
         excluded in computing adjusted federal income tax.
@@ -221,11 +221,11 @@ the feminine and the gender-neutral.
     day of March, June, September, or December.
 
     6. _(6)_ "Casino operator" and "casino facility" have the same meanings as
-    in [Section 3772.01][ORC Section 3772.01] of the Ohio R.C.
+    in [Section 3772.01][ORC 3772.01] of the Ohio R.C.
 
     7. _(7)_ "Certified mail," "express mail," "United States mail," "postal
     service," and similar terms include any delivery service authorized pursuant
-    to [Section 5703.056][ORC Section 5703.056] of the Ohio R.C.
+    to [Section 5703.056][ORC 5703.056] of the Ohio R.C.
 
     8. _(8)_ "Disregarded entity" means a single member limited liability
     company, a qualifying subchapter S subsidiary, or another entity if the
@@ -267,8 +267,8 @@ the feminine and the gender-neutral.
         derived from tax-exempt real estate, tax-exempt tangible or intangible
         property, or tax- exempt activities.
 
-        5. _(e)_ Compensation paid under [Section 3501.28][ORC Section 3501.28]
-        or [3501.36][ORC Section 3501.36] of the Ohio R.C. to a person serving
+        5. _(e)_ Compensation paid under [Section 3501.28][ORC 3501.28]
+        or [3501.36][ORC 3501.36] of the Ohio R.C. to a person serving
         as a precinct election official to the extent that such compensation
         does not exceed $1,000 for the taxable year. Such compensation in excess
         of $1,000 for the taxable year may be subject to taxation by a municipal
@@ -286,10 +286,9 @@ the feminine and the gender-neutral.
         lost salaries or wages or compensation from punitive damages.
 
         9. _(i)_ Income of a public utility when that public utility is subject
-        to the tax levied under [Section 5727.24][ORC Section 5727.24] or
-        [5727.30][ORC Section 5727.30] of the Ohio R.C. Division (C)(12)(i) of
-        this section does not apply for purposes of [Chapter 5745][ORC Chapter
-        5745] of the Ohio R.C.
+        to the tax levied under [Section 5727.24][ORC 5727.24] or [5727.30][ORC
+        5727.30] of the Ohio R.C. Division (C)(12)(i) of this section does not
+        apply for purposes of [Chapter 5745][ORC 5745] of the Ohio R.C.
 
         10. _(j)_ Gains from involuntary conversions, interest on federal
         obligations, items of income subject to a tax levied by the state and
@@ -391,7 +390,7 @@ the feminine and the gender-neutral.
         employee of the subdivision or another person performing services for
         the subdivision under a contract with the subdivision, if the property
         on which services are performed is annexed to a municipal corporation
-        pursuant to [Section 709.023][ORC Section 709.023] of the Ohio R.C. on
+        pursuant to [Section 709.023][ORC 709.023] of the Ohio R.C. on
         or after March 27, 2013, unless the person is subject to such taxation
         because of residence. If the compensation is subject to taxation because
         of residence, municipal income tax shall be payable only to the
@@ -490,7 +489,7 @@ the feminine and the gender-neutral.
     income yield, interest, capital gains, dividends, or other income arising
     from the ownership, sale, exchange, or other disposition of intangible
     property including, but not limited to, investments, deposits, money, or
-    credits as those terms are defined in [Chapter 5701][ORC Chapter 5701] of
+    credits as those terms are defined in [Chapter 5701][ORC 5701] of
     the Ohio R.C., and patents, copyrights, trademarks, tradenames, investments
     in real estate investment trusts, investments in regulated investment
     companies, and appreciation on deferred compensation. "Intangible income"
@@ -498,16 +497,16 @@ the feminine and the gender-neutral.
     winnings, gambling winnings, or other similar games of chance.
 
     18. _(18)_ "Internal Revenue Code" has the same meaning as in [Section
-    5747.01][ORC Section 5747.01] of the Ohio R.C.
+    5747.01][ORC 5747.01] of the Ohio R.C.
 
     19. _(19)_ "Limited liability company" means a limited liability company
-    formed under [Chapter 1705][ORC Chapter 1705] of the Ohio R.C. or under the
+    formed under [Chapter 1705][ORC 1705] of the Ohio R.C. or under the
     laws of another state.
 
     20. _(20)_ "Municipal corporation" includes a joint economic development
     district or joint economic development zone that levies an income tax under
-    [Section 715.691][ORC Section 715.691], [715.70][ORC Section 715.70],
-    [715.71][ORC Section 715.71], or [715.74][ORC Section 715.74] of the Ohio
+    [Section 715.691][ORC 715.691], [715.70][ORC 715.70],
+    [715.71][ORC 715.71], or [715.74][ORC 715.74] of the Ohio
     R.C.
 
     21. _(21)_
@@ -634,7 +633,7 @@ the feminine and the gender-neutral.
     25. _(25)_ "Nonresident" means an individual that is not a resident.
 
     26. _(26)_ "Ohio Business Gateway" means the online computer network system,
-    created under [Section 125.30][ORC Section 125.30] of the Ohio R.C., that
+    created under [Section 125.30][ORC 125.30] of the Ohio R.C., that
     allows persons to electronically file business reply forms with state
     agencies and includes any successor electronic filing and payment system.
 
@@ -667,7 +666,7 @@ the feminine and the gender-neutral.
 
     32. _(32)_ "Postmark date," "date of postmark," and similar terms include
     the date recorded and marked in the manner described in division (B)(3) of
-    [Section 5703.056][ORC Section 5703.056] of the Ohio R.C.
+    [Section 5703.056][ORC 5703.056] of the Ohio R.C.
 
     33. _(33)_
 
@@ -755,7 +754,7 @@ the feminine and the gender-neutral.
 
                 4. _(d)_ For any taxable year the amount has not otherwise been
                 added to wages pursuant to either division (C)(35)(b) of this
-                section or Ohio R.C. [Section 718.03][ORC Section 718.03], as
+                section or Ohio R.C. [Section 718.03][ORC 718.03], as
                 that section existed before the effective date of H.B. 5 of the
                 130th General Assembly, March 23, 2015.
 
@@ -871,7 +870,7 @@ the feminine and the gender-neutral.
                 3. _(c)_ Not later than December 31, 2004, the limited liability
                 company and its single member each made an election to be
                 treated as a separate taxpayer under division (L) of Ohio R.C.
-                [718.01][ORC Section 718.01] as that section existed on December
+                [718.01][ORC 718.01] as that section existed on December
                 31, 2004.
 
                 4. _(d)_ The limited liability company was not formed for the
@@ -892,23 +891,23 @@ the feminine and the gender-neutral.
             taxable year ending in 2003 was at least $400,000.
 
     49. _(49)_ "Taxpayers' rights and responsibilities" means the rights
-    provided to taxpayers in [Sections 124.09][ORC Section 124.09], [124.12][ORC
-    Section 124.12], [124.13][ORC Section 124.13], [124.19(B)][ORC Section
-    124.19], [124.20][ORC Section 124.20], [124.21][ORC Section 124.21], and
-    [Sections 5717.011][ORC Sections 5717.011] and [5717.03][ORC Section
-    5717.03] of the Ohio R.C., and the responsibilities of taxpayers to file,
-    report, withhold, remit, and pay municipal income tax and otherwise comply
-    with [Chapter 718][ORC Chapter 718] of the Ohio R.C. and resolutions,
-    ordinances, and rules and regulations adopted by the Municipality for the
-    imposition and administration of a municipal income tax.
+    provided to taxpayers in [Sections 124.09][ORC 124.09], [124.12][ORC
+    124.12], [124.13][ORC 124.13], [124.19(B)][ORC 124.19], [124.20][ORC
+    124.20], [124.21][ORC 124.21], and [Sections 5717.011][ORC Sections
+    5717.011] and [5717.03][ORC 5717.03] of the Ohio R.C., and the
+    responsibilities of taxpayers to file, report, withhold, remit, and pay
+    municipal income tax and otherwise comply with [Chapter 718][ORC 718] of the
+    Ohio R.C. and resolutions, ordinances, and rules and regulations adopted by
+    the Municipality for the imposition and administration of a municipal income
+    tax.
 
     50. _(50)_ "Video lottery terminal" has the same meaning as in [Section
-    3770.21][ORC Section 3770.21] of the Ohio R.C.
+    3770.21][ORC 3770.21] of the Ohio R.C.
 
     51. _(51)_ "Video lottery terminal sales agent" means a lottery sales agent
-    licensed under [Chapter 3770][ORC Chapter 3770] of the Ohio R.C. to conduct
+    licensed under [Chapter 3770][ORC 3770] of the Ohio R.C. to conduct
     video lottery terminals on behalf of the state pursuant to [Section
-    3770.21][ORC Section 3770.21] of the Ohio R.C.\
+    3770.21][ORC 3770.21] of the Ohio R.C.\
     (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.03   Imposition of tax
@@ -1060,7 +1059,7 @@ Deferred Compensation Plan.
 profession in the Municipality, unless the taxpayer is an individual who resides
 in the Municipality or the taxpayer is an electric company, combined company, or
 telephone company that is subject to and required to file reports under [Chapter
-5745][ORC Chapter 5745] of the Ohio R.C.
+5745][ORC 5745] of the Ohio R.C.
 
     1. _(1)_ Except as otherwise provided in division (F)(2) of this section,
     net profit from a business or profession conducted both within and without
@@ -1682,7 +1681,7 @@ and filed by the fiduciary of the estate or trust.
 
     3. _(3)_ If the Tax Commissioner extends for all taxpayers the date for
     filing state income tax returns under division (G) of [Section 5747.08][ORC
-    Section 5747.08] of the Ohio R.C., a taxpayer shall automatically receive an
+    5747.08] of the Ohio R.C., a taxpayer shall automatically receive an
     extension for the filing of the Municipality's income tax return. The
     extended due date of the Municipality's income tax return shall be the same
     as the extended due date of the state income tax return.
@@ -1889,10 +1888,10 @@ Consolidated Municipal income tax return.
     division (R)(1) of this section.
 
     4. _(4)_ "Incumbent local exchange carrier" has the same meaning as in
-    [Section 4927.01][ORC Section 4927.01] of the Ohio R.C.
+    [Section 4927.01][ORC 4927.01] of the Ohio R.C.
 
     5. _(5)_ "Local exchange telephone service" has the same meaning as in
-    [Section 5727.01][ORC Section 5727.01] of the Ohio R.C.
+    [Section 5727.01][ORC 5727.01] of the Ohio R.C.
 
 19. _(S)_
 
@@ -2053,7 +2052,7 @@ this Chapter.
 2. _(B)_ The Municipality shall grant a credit against its tax on income to a
 resident of the Municipality who works in a joint economic development zone
 created under Section 715.691 or a joint economic development district created
-under [Section 715.70][ORC Section 715.70], [715.71][ORC Section 715.71], or
+under [Section 715.70][ORC 715.70], [715.71][ORC 715.71], or
 [715.72][ORC 715.72] of the Ohio R.C. to the same extent that it grants a credit
 against its tax on income to its residents who are employed in another municipal
 corporation.
@@ -2511,19 +2510,19 @@ taxpayer, shall excuse the taxpayer from penalties and interest.\
     the time a document is originally sent by certified mail, or any address the
     Tax Administrator can ascertain using reasonable means such as the use of a
     change of address service offered by the postal service or an authorized
-    delivery service under [Section 5703.056][ORC Section 5703.056] of the Ohio
+    delivery service under [Section 5703.056][ORC 5703.056] of the Ohio
     R.C.
 
     2. _(2)_ "Undeliverable address" means an address to which the postal
     service or an authorized delivery service under [Section 5703.056][ORC
-    Section 5703.056] of the Ohio R.C. is not able to deliver an assessment of
+    5703.056] of the Ohio R.C. is not able to deliver an assessment of
     the Tax Administrator, except when the reason for non-delivery is because
     the addressee fails to acknowledge or accept the assessment.
 
 2. _(B)_ Subject to division (C) of this section, a copy of each assessment
 shall be served upon the person affected thereby either by personal service, by
 certified mail, or by a delivery service authorized under [Section 5703.056][ORC
-Section 5703.056] of the Ohio R.C. With the permission of the person affected by
+5703.056] of the Ohio R.C. With the permission of the person affected by
 an assessment, the Tax Administrator may deliver the assessment through
 alternative means as provided in this section, including, but not limited to,
 delivery by secure electronic mail.
@@ -2536,7 +2535,7 @@ delivery by secure electronic mail.
         address, a Tax Administrator shall utilize reasonable means to ascertain
         a new last known address, including the use of a change of address
         service offered by the postal service or an authorized delivery service
-        under [Section 5703.056][ORC Section 5703.056] of the Ohio R.C. If the
+        under [Section 5703.056][ORC 5703.056] of the Ohio R.C. If the
         Tax Administrator is unable to ascertain a new last known address, the
         assessment shall be sent by ordinary mail and considered served. If the
         ordinary mail is subsequently returned because of an undeliverable
@@ -3041,14 +3040,14 @@ after the Board of Tax Review's final hearing on the appeal, and send a copy of
 its final determination by ordinary mail to all of the parties to the appeal
 within fifteen (15) days after issuing the final determination. The taxpayer or
 the Tax Administrator may appeal the Board of Tax Review's final determination
-as provided in [Section 5717.011][ORC Section 5717.011] of the Ohio R.C.
+as provided in [Section 5717.011][ORC 5717.011] of the Ohio R.C.
 
 6. _(F)_ The Board of Tax Review created pursuant to this section shall adopt
 rules governing its procedures and shall keep a record of its transactions. Such
 records are not public records available for inspection under [Section
-149.43][ORC Section 149.43] of the Ohio R.C. Hearings requested by a taxpayer
+149.43][ORC 149.43] of the Ohio R.C. Hearings requested by a taxpayer
 before a Board of Tax Review created pursuant to this section are not meetings
-of a public body subject to [Section 121.22][ORC Section 121.22] of the Ohio
+of a public body subject to [Section 121.22][ORC 121.22] of the Ohio
 R.C.\
 (Ord. 2018-22. Passed 3-26-18.)
 
@@ -3154,19 +3153,19 @@ Administrator.\
 
 ## 124.27   Filing net profit taxes; election to be subject to provisions of chapter
 
-1. _(A)_ A taxpayer may elect to be subject to sections 124.27 to 124.41 of the
-Codified Ordinances in lieu of the provisions set forth in the remainder of this
-chapter. Notwithstanding any other provision of this chapter, upon the
-taxpayer's election, both of the following shall apply:
+1. _(A)_ A taxpayer may elect to be subject to [sections 124.27][CFCO 124.27] to
+[124.41][CFCO 124.41] of the Codified Ordinances in lieu of the provisions set
+forth in the remainder of this chapter. Notwithstanding any other provision of
+this chapter, upon the taxpayer's election, both of the following shall apply:
 
     1. _(1)_ The state Tax Commissioner shall serve as the sole administrator of
     the municipal net profit tax for which the taxpayer as defined in 124.28(C)
     of the Codified Ordinances is liable for the term of the election;
 
     2. _(2)_ The Tax Commissioner shall administer the tax pursuant to sections
-    718.80 to 718.95 of the Revised Code, sections 124.27 to 124.41 of the
-    Codified Ordinances, and any applicable provision of Chapter 5703. of the
-    Revised Code.
+    718.80 to 718.95 of the Revised Code, [sections 124.27][CFCO 124.27] to
+    [124.41][CFCO 124.41] of the Codified Ordinances, and any applicable
+    provision of Chapter 5703. of the Revised Code.
 
 2. _(B)_
 
@@ -3187,9 +3186,9 @@ taxpayer's election, both of the following shall apply:
         third month of any taxable year.
 
         3. _(c)_ Upon a timely and valid termination of the election, the
-        taxpayer is no longer subject to sections 124.27 to 124.41 of the
-        Codified Ordinances, and is instead subject to the provisions set forth
-        in the remainder of this chapter.
+        taxpayer is no longer subject to [sections 124.27][CFCO 124.27] to
+        [124.41][CFCO 124.41] of the Codified Ordinances, and is instead subject
+        to the provisions set forth in the remainder of this chapter.
 
 3. _(C)_ The Tax Commissioner shall enforce and administer sections 124.27 to
 124.41 of the Codified Ordinances. In addition to any other powers conferred
@@ -3210,21 +3209,22 @@ the Municipality Codified Ordinances.\
 
 ## 124.28   Definitions
 
-If a term used in sections 124.27 to 124.41 of the Codified Ordinances that is
-not otherwise defined in this chapter is used in a comparable context in both
-the laws of the United States relating to federal income tax and in [Title
-LVII][ORC Title 57] of the Revised Code and the use is not consistent, then the
-use of the term in the laws of the United States relating to federal income tax
-shall have control over the use of the term in [Title LVII][ORC Title 57] of the
-Revised Code, unless the term is defined in Chapter 5703. of the Revised Code,
-in which case the definition in that chapter shall control. Any reference in
-this chapter to the Internal Revenue Code includes other laws of the United
-States related to federal income taxes. If a term is defined in both this
-section and section 124.02 of the Codified Ordinances, the definition in this
-section shall control for all uses of that term in sections 124.27 to 124.41 of
-the Codified Ordinances.
+If a term used in [sections 124.27][CFCO 124.27] to [124.41][CFCO 124.41] of the
+Codified Ordinances that is not otherwise defined in this chapter is used in a
+comparable context in both the laws of the United States relating to federal
+income tax and in [Title LVII][ORC 57] of the Revised Code and the use is not
+consistent, then the use of the term in the laws of the United States relating
+to federal income tax shall have control over the use of the term in [Title
+LVII][ORC 57] of the Revised Code, unless the term is defined in Chapter 5703.
+of the Revised Code, in which case the definition in that chapter shall control.
+Any reference in this chapter to the Internal Revenue Code includes other laws
+of the United States related to federal income taxes. If a term is defined in
+both this section and section 124.02 of the Codified Ordinances, the definition
+in this section shall control for all uses of that term in [sections
+124.27][CFCO 124.27] to [124.41][CFCO 124.41] of the Codified Ordinances.
 
-As used in sections 124.27 to 124.41 of the Codified Ordinances only:
+As used in [sections 124.27][CFCO 124.27] to [124.41][CFCO 124.41] of the
+Codified Ordinances only:
 
 1. _(A)_ "Municipal taxable income" means income apportioned or sitused to the
 municipal corporation under section 124.29 of the Codified Ordinances, as
@@ -3329,22 +3329,22 @@ may include receivers, assignees, or trustees in bankruptcy when such persons
 are required to assume the role of a taxpayer.
 
 4. _(D)_ "Tax return" or "return" means the notifications and reports required
-to be filed pursuant to sections 124.27 to 124.41 of the Codified Ordinances for
-the purpose of reporting municipal income taxes, and includes declarations of
-estimated tax.
+to be filed pursuant to [sections 124.27][CFCO 124.27] to [124.41][CFCO 124.41]
+of the Codified Ordinances for the purpose of reporting municipal income taxes,
+and includes declarations of estimated tax.
 
 5. _(E)_ "Taxable year" means the calendar year or the taxpayer's fiscal year
 ending during the calendar year, or fractional part thereof, upon which the
 calculation of the taxpayer's adjusted federal taxable income is based pursuant
 to this chapter. If a taxpayer's taxable year is changed for federal income tax
-purposes, the taxable year for purposes of sections 124.27 to 124.41 of the
-Codified Ordinances is changed accordingly but may consist of an aggregation of
-more than one taxable year for federal income tax purposes. The Tax Commissioner
-may prescribe by rule an appropriate period as the taxable year for a taxpayer
-that has had a change of its taxable year for federal income tax purposes, for a
-taxpayer that has two or more short taxable years for federal income tax
-purposes as the result of a change of ownership, or for a new taxpayer that
-would otherwise have no taxable year.
+purposes, the taxable year for purposes of [sections 124.27][CFCO 124.27] to
+[124.41][CFCO 124.41] of the Codified Ordinances is changed accordingly but may
+consist of an aggregation of more than one taxable year for federal income tax
+purposes. The Tax Commissioner may prescribe by rule an appropriate period as
+the taxable year for a taxpayer that has had a change of its taxable year for
+federal income tax purposes, for a taxpayer that has two or more short taxable
+years for federal income tax purposes as the result of a change of ownership, or
+for a new taxpayer that would otherwise have no taxable year.
 
 6. _(F)_ "Assessment" means a notice of underpayment or nonpayment of a tax
 issued pursuant to section 124.37 of the Codified Ordinances.\
@@ -3517,13 +3517,14 @@ and gross receipts of such disregarded entity.\
 ## 124.30   Information provided to tax administrators; confidentiality
 
 1. _(A)_ Any information gained as a result of returns, investigations,
-hearings, or verifications required or authorized by sections 124.27 to 124.41
-of the Codified Ordinances is confidential, and no person shall disclose such
-information, except for official purposes, in accordance with a proper judicial
-order, or as provided in section 4123.271 or 5703.21 of the Revised Code. The
-Tax Commissioner may furnish the internal revenue service with copies of returns
-filed. This section does not prohibit the publication of statistics in a form
-which does not disclose information with respect to particular taxpayers.
+hearings, or verifications required or authorized by [sections 124.27][CFCO
+124.27] to [124.41][CFCO 124.41] of the Codified Ordinances is confidential, and
+no person shall disclose such information, except for official purposes, in
+accordance with a proper judicial order, or as provided in section 4123.271 or
+5703.21 of the Revised Code. The Tax Commissioner may furnish the internal
+revenue service with copies of returns filed. This section does not prohibit the
+publication of statistics in a form which does not disclose information with
+respect to particular taxpayers.
 
 2. _(B)_ In May and November of each year, the Tax Commissioner shall provide
 the Municipality Tax Administrator with the following information for every
@@ -3611,8 +3612,9 @@ Municipality Tax Administrator under section 718.83(D) of the Revised Code.
 
         1. _(a)_ The Tax Commissioner may require a taxpayer to include, with
         each annual tax return, amended return, or request for refund filed with
-        the commissioner under sections 124.27 to 124.41 of the Codified
-        Ordinances, copies of any relevant documents or other information.
+        the commissioner under [sections 124.27][CFCO 124.27] to [124.41][CFCO
+        124.41] of the Codified Ordinances, copies of any relevant documents or
+        other information.
 
         2. _(b)_ A taxpayer that files an annual tax return electronically
         through the Ohio business gateway or in another manner as prescribed by
@@ -3867,13 +3869,14 @@ one or more members of such an affiliated group.\
 ## 124.34   Failure to pay tax
 
 If a taxpayer that has made the election allowed under 124.27 of the Codified
-Ordinances fails to pay any tax as required under sections 124.27 to 124.41 of
-the Codified Ordinances, or any portion of that tax, on or before the date
-prescribed for its payment, interest shall be assessed, collected, and paid, in
-the same manner as the tax, upon such unpaid amount at the rate per annum
-prescribed by section 5703.47 of the Revised Code from the date prescribed for
-its payment until it is paid or until the date an assessment is issued under
-section 124.37 of the Codified Ordinances, whichever occurs first.\
+Ordinances fails to pay any tax as required under [sections 124.27][CFCO 124.27]
+to [124.41][CFCO 124.41] of the Codified Ordinances, or any portion of that tax,
+on or before the date prescribed for its payment, interest shall be assessed,
+collected, and paid, in the same manner as the tax, upon such unpaid amount at
+the rate per annum prescribed by section 5703.47 of the Revised Code from the
+date prescribed for its payment until it is paid or until the date an assessment
+is issued under section 124.37 of the Codified Ordinances, whichever occurs
+first.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.35   Declaration of estimated taxes
@@ -3983,9 +3986,10 @@ payable to the treasurer of state.
     payment presently due.
 
     3. _(3)_ All amounts collected under this section shall be considered as
-    taxes collected under sections 124.27 to 124.41 of the Codified Ordinances
-    and shall be credited and distributed to municipal corporations in
-    accordance with section 718.83 of the Revised Code.
+    taxes collected under [sections 124.27][CFCO 124.27] to [124.41][CFCO
+    124.41] of the Codified Ordinances and shall be credited and distributed to
+    municipal corporations in accordance with section 718.83 of the Revised
+    Code.
 
 5. _(E)_ An underpayment of any portion of a combined tax liability shall be due
 to reasonable cause and the penalty imposed by this section shall not be added
@@ -4005,9 +4009,9 @@ to the taxes for the taxable year if any of the following apply:
 
 ## 124.36   Additional penalties
 
-1. _(A)_ In addition to any other penalty imposed by sections 124.27 to 124.41
-of the Codified Ordinances or Chapter 5703. of the Revised Code, the following
-penalties shall apply:
+1. _(A)_ In addition to any other penalty imposed by [sections 124.27][CFCO
+124.27] to [124.41][CFCO 124.41] of the Codified Ordinances or Chapter 5703. of
+the Revised Code, the following penalties shall apply:
 
     1. _(1)_ If a taxpayer required to file a tax return under sections 124.27
     to 124.41 of the Codified Ordinances fails to make and file the return
@@ -4020,8 +4024,9 @@ penalties shall apply:
     fifty dollars.
 
     2. _(2)_ If a person required to file a tax return electronically under
-    sections 124.27 to 124.41 of the Codified Ordinances fails to do so, the Tax
-    Commissioner may impose a penalty not to exceed the following:
+    [sections 124.27][CFCO 124.27] to [124.41][CFCO 124.41] of the Codified
+    Ordinances fails to do so, the Tax Commissioner may impose a penalty not to
+    exceed the following:
 
         1. _(a)_ For each of the first two failures, five per cent of the amount
         required to be reported on the return;
@@ -4035,19 +4040,21 @@ penalties shall apply:
     penalty equal to fifteen per cent of the amount not timely paid.
 
     4. _(4)_ If a taxpayer files what purports to be a tax return required by
-    sections 124.27 to 124.41 of the Codified Ordinances that does not contain
-    information upon which the substantial correctness of the return may be
-    judged or contains information that on its face indicates that the return is
-    substantially incorrect, and the filing of the return in that manner is due
-    to a position that is frivolous or a desire that is apparent from the return
-    to delay or impede the administration of sections 124.27 to 124.41 of the
-    Codified Ordinances, a penalty of up to five hundred dollars may be imposed.
+    [sections 124.27][CFCO 124.27] to [124.41][CFCO 124.41] of the Codified
+    Ordinances that does not contain information upon which the substantial
+    correctness of the return may be judged or contains information that on its
+    face indicates that the return is substantially incorrect, and the filing of
+    the return in that manner is due to a position that is frivolous or a desire
+    that is apparent from the return to delay or impede the administration of
+    [sections 124.27][CFCO 124.27] to [124.41][CFCO 124.41] of the Codified
+    Ordinances, a penalty of up to five hundred dollars may be imposed.
 
     5. _(5)_ If a taxpayer makes a fraudulent attempt to evade the reporting or
     payment of the tax required to be shown on any return required under
-    sections 124.27 to 124.41 of the Codified Ordinances, a penalty may be
-    imposed not exceeding the greater of one thousand dollars or one hundred per
-    cent of the tax required to be shown on the return.
+    [sections 124.27][CFCO 124.27] to [124.41][CFCO 124.41] of the Codified
+    Ordinances, a penalty may be imposed not exceeding the greater of one
+    thousand dollars or one hundred per cent of the tax required to be shown on
+    the return.
 
     6. _(6)_ If any person makes a false or fraudulent claim for a refund under
     section 124.38 of the Codified Ordinances, a penalty may be imposed not
@@ -4069,10 +4076,11 @@ under this section may be abated by the Tax Commissioner. The Tax Commissioner
 may adopt rules governing the imposition and abatement of such penalties.
 
 4. _(D)_ All amounts collected under this section shall be considered as taxes
-collected under sections 124.27 to 124.41 of the Codified Ordinances and shall
-be credited and distributed to municipal corporations in the same proportion as
-the underlying tax liability is required to be distributed to such municipal
-corporations under section 718.83 of the Revised Code.\
+collected under [sections 124.27][CFCO 124.27] to [124.41][CFCO 124.41] of the
+Codified Ordinances and shall be credited and distributed to municipal
+corporations in the same proportion as the underlying tax liability is required
+to be distributed to such municipal corporations under section 718.83 of the
+Revised Code.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.37   Assessments against taxpayer
@@ -4093,12 +4101,12 @@ possession.
     extend the three-year time limit in section 124.38 of the Codified
     Ordinances for the same period of time. There shall be no bar or limit to an
     assessment against a taxpayer that fails to file a return subject to
-    assessment as required by sections 124.27 to 124.41 of the Codified
-    Ordinances, or that files a fraudulent return. The Tax Commissioner shall
-    give the taxpayer assessed written notice of the assessment as provided in
-    section 5703.37 of the Revised Code. With the notice, the Tax Commissioner
-    shall provide instructions on how to petition for reassessment and request a
-    hearing on the petition.
+    assessment as required by [sections 124.27][CFCO 124.27] to [124.41][CFCO
+    124.41] of the Codified Ordinances, or that files a fraudulent return. The
+    Tax Commissioner shall give the taxpayer assessed written notice of the
+    assessment as provided in section 5703.37 of the Revised Code. With the
+    notice, the Tax Commissioner shall provide instructions on how to petition
+    for reassessment and request a hearing on the petition.
 
 2. _(B)_ Unless the taxpayer assessed files with the Tax Commissioner within
 sixty (60) days after service of the notice of assessment, either personally or
@@ -4177,12 +4185,13 @@ prejudice any claim for refund upon final determination of the petition.
 ## 124.38   Refund applications
 
 1. _(A)_ An application to refund to a taxpayer the amount of taxes paid on any
-illegal, erroneous, or excessive payment of tax under sections 124.27 to 124.41
-of the Codified Ordinances, including assessments, shall be filed with the Tax
-Commissioner within three (3) years after the date of the illegal, erroneous, or
-excessive payment of the tax, or within any additional period allowed by
-division (A) of section 124.37 of the Codified Ordinances. The application shall
-be filed in the form prescribed by the Tax Commissioner.
+illegal, erroneous, or excessive payment of tax under [sections 124.27][CFCO
+124.27] to [124.41][CFCO 124.41] of the Codified Ordinances, including
+assessments, shall be filed with the Tax Commissioner within three (3) years
+after the date of the illegal, erroneous, or excessive payment of the tax, or
+within any additional period allowed by division (A) of section 124.37 of the
+Codified Ordinances. The application shall be filed in the form prescribed by
+the Tax Commissioner.
 
 2. _(B)_
 
@@ -4216,20 +4225,20 @@ until the day the refund is paid or credited.\
 1. _(A)_ If any of the facts, figures, computations, or attachments required in
 an annual return filed by a taxpayer that has made the election allowed under
 section 124.27 of the Codified Ordinances and used to determine the tax due
-under sections 124.27 to 124.41 of the Codified Ordinances must be altered as
-the result of an adjustment to the taxpayer's federal income tax return, whether
-initiated by the taxpayer or the internal revenue service, and such alteration
-affects the taxpayer's tax liability under those sections, the taxpayer shall
-file an amended return with the Tax Commissioner in such form as the Tax
-Commissioner requires. The amended return shall be filed not later than sixty
-days after the adjustment is agreed upon or finally determined for federal
-income tax purposes or after any federal income tax deficiency or refund, or the
-abatement or credit resulting therefrom, has been assessed or paid, whichever
-occurs first. If a taxpayer intends to file an amended consolidated municipal
-income tax return, or to amend its type of return from a separate return to a
-consolidated return, based on the taxpayer's consolidated federal income tax
-return, the taxpayer shall notify the Tax Commissioner before filing the amended
-return.
+under [sections 124.27][CFCO 124.27] to [124.41][CFCO 124.41] of the Codified
+Ordinances must be altered as the result of an adjustment to the taxpayer's
+federal income tax return, whether initiated by the taxpayer or the internal
+revenue service, and such alteration affects the taxpayer's tax liability under
+those sections, the taxpayer shall file an amended return with the Tax
+Commissioner in such form as the Tax Commissioner requires. The amended return
+shall be filed not later than sixty days after the adjustment is agreed upon or
+finally determined for federal income tax purposes or after any federal income
+tax deficiency or refund, or the abatement or credit resulting therefrom, has
+been assessed or paid, whichever occurs first. If a taxpayer intends to file an
+amended consolidated municipal income tax return, or to amend its type of return
+from a separate return to a consolidated return, based on the taxpayer's
+consolidated federal income tax return, the taxpayer shall notify the Tax
+Commissioner before filing the amended return.
 
 2. _(B)_ In the case of an underpayment, the amended return shall be accompanied
 by payment of any combined additional tax due together with any penalty and
@@ -4260,26 +4269,27 @@ federal income tax return.\
 
 1. _(A)_ The Tax Commissioner, or any authorized agent or employee thereof, may
 examine the books, papers, records, and federal and state income tax returns of
-any taxpayer or other person that is subject to sections 124.27 to 124.41 of the
-Codified Ordinances for the purpose of verifying the accuracy of any return made
-or, if no return was filed, to ascertain the tax due as required under those
-sections. Upon written request by the Tax Commissioner or a duly authorized
-agent or employee thereof, every taxpayer or other person subject to this
-section is required to furnish the opportunity for the Tax Commissioner,
-authorized agent, or employee to investigate and examine such books, papers,
-records, and federal and state income tax returns at a reasonable time and place
-designated in the request.
+any taxpayer or other person that is subject to [sections 124.27][CFCO 124.27]
+to [124.41][CFCO 124.41] of the Codified Ordinances for the purpose of verifying
+the accuracy of any return made or, if no return was filed, to ascertain the tax
+due as required under those sections. Upon written request by the Tax
+Commissioner or a duly authorized agent or employee thereof, every taxpayer or
+other person subject to this section is required to furnish the opportunity for
+the Tax Commissioner, authorized agent, or employee to investigate and examine
+such books, papers, records, and federal and state income tax returns at a
+reasonable time and place designated in the request.
 
 2. _(B)_ The records and other documents of any taxpayer or other person that is
-subject to sections 124.27 to 124.41 of the Codified Ordinances shall be open to
-the Tax Commissioner's inspection during business hours and shall be preserved
-for a period of six years following the end of the taxable year to which the
-records or documents relate, unless the Tax Commissioner, in writing, consents
-to their destruction within that period, or by order requires that they be kept
-longer. The Tax Commissioner may require any person, by notice served on that
-person, to keep such records as the Tax Commissioner determines necessary to
-show whether or not that person is liable, and the extent of such liability, for
-the income tax levied by a municipal corporation.
+subject to [sections 124.27][CFCO 124.27] to [124.41][CFCO 124.41] of the
+Codified Ordinances shall be open to the Tax Commissioner's inspection during
+business hours and shall be preserved for a period of six years following the
+end of the taxable year to which the records or documents relate, unless the Tax
+Commissioner, in writing, consents to their destruction within that period, or
+by order requires that they be kept longer. The Tax Commissioner may require any
+person, by notice served on that person, to keep such records as the Tax
+Commissioner determines necessary to show whether or not that person is liable,
+and the extent of such liability, for the income tax levied by a municipal
+corporation.
 
 3. _(C)_ The Tax Commissioner may examine under oath any person that the Tax
 Commissioner reasonably believes has knowledge concerning any income that was or
@@ -4370,44 +4380,46 @@ Chapter.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 [CFCO 124.03]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403-imposition-of-tax>
-[CFCO 124.05]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405-annual-return-filing>
 [CFCO 124.05(V)(3)(b)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(V)(3)(b)>
+[CFCO 124.05]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405-annual-return-filing>
+[CFCO 124.27]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12427-filing-net-profit-taxes-election-to-be-subject-to-provisions-of-chapter>
+[CFCO 124.41]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12441-reckless-violations-penalties>
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
-[ORC Chapter 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
-[ORC Chapter 1705]:<https://codes.ohio.gov/ohio-revised-code/chapter-1705>
-[ORC Chapter 3770]:<https://codes.ohio.gov/ohio-revised-code/chapter-3770>
-[ORC Chapter 5701]:<https://codes.ohio.gov/ohio-revised-code/chapter-5701>
-[ORC Chapter 5745]:<https://codes.ohio.gov/ohio-revised-code/chapter-5745>
-[ORC Section 121.22]:<https://codes.ohio.gov/ohio-revised-code/section-121.22>
-[ORC Section 124.09]:<https://codes.ohio.gov/ohio-revised-code/section-124.09>
-[ORC Section 124.12]:<https://codes.ohio.gov/ohio-revised-code/section-124.12>
-[ORC Section 124.13]:<https://codes.ohio.gov/ohio-revised-code/section-124.13>
-[ORC Section 124.19]:<https://codes.ohio.gov/ohio-revised-code/section-124.19>
-[ORC Section 124.20]:<https://codes.ohio.gov/ohio-revised-code/section-124.20>
-[ORC Section 124.21]:<https://codes.ohio.gov/ohio-revised-code/section-124.21>
-[ORC Section 125.30]:<https://codes.ohio.gov/ohio-revised-code/section-125.30>
-[ORC Section 149.43]:<https://codes.ohio.gov/ohio-revised-code/section-149.43>
-[ORC Section 709.023]:<https://codes.ohio.gov/ohio-revised-code/section-709.023>
-[ORC Section 715.70]:<https://codes.ohio.gov/ohio-revised-code/section-715.70>
-[ORC Section 715.71]:<https://codes.ohio.gov/ohio-revised-code/section-715.71>
-[ORC Section 715.72]:<https://codes.ohio.gov/ohio-revised-code/section-715.72>
-[ORC Section 715.74]:<https://codes.ohio.gov/ohio-revised-code/section-715.74>
-[ORC Section 715.691]:<https://codes.ohio.gov/ohio-revised-code/section-715.691>
+[ORC 57]:<https://codes.ohio.gov/ohio-revised-code/title-57>
+[ORC 121.22]:<https://codes.ohio.gov/ohio-revised-code/section-121.22>
+[ORC 124.09]:<https://codes.ohio.gov/ohio-revised-code/section-124.09>
+[ORC 124.12]:<https://codes.ohio.gov/ohio-revised-code/section-124.12>
+[ORC 124.13]:<https://codes.ohio.gov/ohio-revised-code/section-124.13>
+[ORC 124.19]:<https://codes.ohio.gov/ohio-revised-code/section-124.19>
+[ORC 124.20]:<https://codes.ohio.gov/ohio-revised-code/section-124.20>
+[ORC 124.21]:<https://codes.ohio.gov/ohio-revised-code/section-124.21>
+[ORC 125.30]:<https://codes.ohio.gov/ohio-revised-code/section-125.30>
+[ORC 149.43]:<https://codes.ohio.gov/ohio-revised-code/section-149.43>
+[ORC 709.023]:<https://codes.ohio.gov/ohio-revised-code/section-709.023>
+[ORC 715.70]:<https://codes.ohio.gov/ohio-revised-code/section-715.70>
+[ORC 715.71]:<https://codes.ohio.gov/ohio-revised-code/section-715.71>
+[ORC 715.72]:<https://codes.ohio.gov/ohio-revised-code/section-715.72>
+[ORC 715.74]:<https://codes.ohio.gov/ohio-revised-code/section-715.74>
+[ORC 715.691]:<https://codes.ohio.gov/ohio-revised-code/section-715.691>
+[ORC 718.01]:<https://codes.ohio.gov/ohio-revised-code/section-718.01>
+[ORC 718.03]:<https://codes.ohio.gov/ohio-revised-code/section-718.03>
+[ORC 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
 [ORC 718]:<https://codes.ohio.gov/orc/718>
-[ORC Section 718.01]:<https://codes.ohio.gov/ohio-revised-code/section-718.01>
-[ORC Section 718.03]:<https://codes.ohio.gov/ohio-revised-code/section-718.03>
-[ORC Section 3501.28]:<https://codes.ohio.gov/ohio-revised-code/section-3501.28>
-[ORC Section 3501.36]:<https://codes.ohio.gov/ohio-revised-code/section-3501.36>
-[ORC Section 3770.21]:<https://codes.ohio.gov/ohio-revised-code/section-3770.21>
-[ORC Section 3772.01]:<https://codes.ohio.gov/ohio-revised-code/section-3772.01>
-[ORC Section 4313.02]:<https://codes.ohio.gov/ohio-revised-code/section-4313.02>
-[ORC Section 4927.01]:<https://codes.ohio.gov/ohio-revised-code/section-4927.01>
-[ORC Section 5703.056]:<https://codes.ohio.gov/ohio-revised-code/section-5703.056>
-[ORC Section 5717.03]:<https://codes.ohio.gov/ohio-revised-code/section-5717.03>
-[ORC Section 5717.011]:<https://codes.ohio.gov/ohio-revised-code/section-5717.011>
-[ORC Section 5727.01]:<https://codes.ohio.gov/ohio-revised-code/section-5727.01>
-[ORC Section 5727.24]:<https://codes.ohio.gov/ohio-revised-code/section-5727.24>
-[ORC Section 5727.30]:<https://codes.ohio.gov/ohio-revised-code/section-5727.30>
-[ORC Section 5747.01]:<https://codes.ohio.gov/ohio-revised-code/section-5747.01>
-[ORC Section 5747.08]:<https://codes.ohio.gov/ohio-revised-code/section-5747.08>
-[ORC Title 57]:<https://codes.ohio.gov/ohio-revised-code/title-57>
+[ORC 1705]:<https://codes.ohio.gov/ohio-revised-code/chapter-1705>
+[ORC 3501.28]:<https://codes.ohio.gov/ohio-revised-code/section-3501.28>
+[ORC 3501.36]:<https://codes.ohio.gov/ohio-revised-code/section-3501.36>
+[ORC 3770.21]:<https://codes.ohio.gov/ohio-revised-code/section-3770.21>
+[ORC 3770]:<https://codes.ohio.gov/ohio-revised-code/chapter-3770>
+[ORC 3772.01]:<https://codes.ohio.gov/ohio-revised-code/section-3772.01>
+[ORC 4313.02]:<https://codes.ohio.gov/ohio-revised-code/section-4313.02>
+[ORC 4927.01]:<https://codes.ohio.gov/ohio-revised-code/section-4927.01>
+[ORC 5701]:<https://codes.ohio.gov/ohio-revised-code/chapter-5701>
+[ORC 5703.056]:<https://codes.ohio.gov/ohio-revised-code/section-5703.056>
+[ORC 5717.03]:<https://codes.ohio.gov/ohio-revised-code/section-5717.03>
+[ORC 5717.011]:<https://codes.ohio.gov/ohio-revised-code/section-5717.011>
+[ORC 5727.01]:<https://codes.ohio.gov/ohio-revised-code/section-5727.01>
+[ORC 5727.24]:<https://codes.ohio.gov/ohio-revised-code/section-5727.24>
+[ORC 5727.30]:<https://codes.ohio.gov/ohio-revised-code/section-5727.30>
+[ORC 5745]:<https://codes.ohio.gov/ohio-revised-code/chapter-5745>
+[ORC 5747.01]:<https://codes.ohio.gov/ohio-revised-code/section-5747.01>
+[ORC 5747.08]:<https://codes.ohio.gov/ohio-revised-code/section-5747.08>

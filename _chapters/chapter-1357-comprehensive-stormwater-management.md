@@ -318,8 +318,7 @@ volume and rate.
 reservoir, pond, marsh, wetland, or other waterway situated wholly or partly
 within the boundaries of the state, except those private waters which do not
 combine or affect a junction with surface water. Waters defined as sewerage
-systems, treatment works or disposal systems in [Section 6111.01][ORC Section
-6111.01] of the Ohio Revised Code are not included.
+systems, treatment works or disposal systems in [Section 6111.01][ORC 6111.01] of the Ohio Revised Code are not included.
 
 43. _(qq)_ Total maximum daily load: The sum of the existing and/or projected
 point source, nonpoint source, and background loads for a pollutant to a
@@ -338,7 +337,7 @@ events captured begins to occur.
 reservoir, pond, marsh, wetland, or waterway situated wholly or partly within
 the boundaries of the state, except those private waters which do not combine or
 affect a junction with surface water. Waters defined as sewerage systems,
-treatment works or disposal systems in [Section 6111.01][ORC Section 6111.01] of
+treatment works or disposal systems in [Section 6111.01][ORC 6111.01] of
 the Ohio Revised Code are not included.
 
 46. _(tt)_ Water resource crossing: Any bridge, box, arch, culvert, truss, or
@@ -1732,4 +1731,4 @@ regulations, or the orders of the Village of Chagrin Falls.\
 [CFCO 1357.09]:</chapters/chapter-1357-comprehensive-stormwater-management/#135709-performance-standards>
 [CFCO 1357.10]:</chapters/chapter-1357-comprehensive-stormwater-management/#135710-alternative-actions>
 [CFCO 1357.12]:</chapters/chapter-1357-comprehensive-stormwater-management/#135712-maintenance-and-final-inspection-approval>
-[ORC Section 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>
+[ORC 6111.01]:<https://codes.ohio.gov/ohio-revised-code/section-6111.01>

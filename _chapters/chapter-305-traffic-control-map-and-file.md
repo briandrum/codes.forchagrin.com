@@ -16,7 +16,7 @@ title: "Chapter 305: Traffic Control Map and File"
 
 ## Cross references
 
-* Authority to designate traffic control areas - see Ohio R.C. [4511.07][ORC Section 4511.07]
+* Authority to designate traffic control areas - see Ohio R.C. [4511.07][ORC 4511.07]
 
 ## 305.01   Traffic control map
 
@@ -348,4 +348,4 @@ regulation shall be punished as provided in [Section 303.99][CFCO 303.99].
 
 [CFCO 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
 [CFCO 305.01]:</chapters/chapter-305-traffic-control-map-and-file/#30501-traffic-control-map>
-[ORC Section 4511.07]:<https://codes.ohio.gov/ohio-revised-code/section-4511.07>
+[ORC 4511.07]:<https://codes.ohio.gov/ohio-revised-code/section-4511.07>

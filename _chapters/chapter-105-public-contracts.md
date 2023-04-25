@@ -14,7 +14,7 @@ title: "Chapter 105: Public Contracts"
 
 ## Cross references
 
-* Sale or lease of property - see Ohio R.C. [Chapter 721][ORC Chapter 721]
+* Sale or lease of property - see Ohio R.C. [Chapter 721][ORC 721]
 
 ## 105.01   Surplus property
 
@@ -39,8 +39,8 @@ majority vote, shall determine.\
 
     2. _(2)_ "Professional Design Services" means services within the scope of
     practice of an architect or landscape architect registered under [Chapter
-    4703][ORC Chapter 4703] of the Revised Code or a professional engineer or
-    surveyor registered under [Chapter 4733][ORC Chapter 4733] of the Revised
+    4703][ORC 4703] of the Revised Code or a professional engineer or
+    surveyor registered under [Chapter 4733][ORC 4733] of the Revised
     Code.
 
     3. _(3)_ "Public Works Contract" means any contract awarded by the Village
@@ -53,7 +53,7 @@ majority vote, shall determine.\
     reconstruction of a public improvement.
 
 2. _(b)_ The Village is hereby exempted from following the procedures set forth
-in [Sections 153.65][ORC Section 153.65] through [153.73][ORC Section 153.73] of
+in [Sections 153.65][ORC 153.65] through [153.73][ORC 153.73] of
 the Ohio Revised Code for contracting for Professional Design Services or
 Design-build Services.
 
@@ -182,7 +182,7 @@ whom the Village subsequently awards and executes a contract. Such an agreed
 extension shall not entitle the contractor to delay costs.
 
 10. _(j)_ **Withdrawal of Bids.** Bidders may withdraw bids pursuant [Section
-9.31][ORC Section 9.31] of the Ohio Revised Code; such a withdrawal shall not
+9.31][ORC 9.31] of the Ohio Revised Code; such a withdrawal shall not
 modify the Village's right to award to the next lowest and best bidder.
 
 11. _(k)_ **Bids in Excess of Estimate.** The Village may award contracts
@@ -219,9 +219,9 @@ amounts of the bonus and liquidated damages may be different.\
 (Ord. 2013-29. Passed 5-13-13.)
 
 [CFCO 105.02]:</chapters/chapter-105-public-contracts/#10502-professional-design-services-public-works>
-[ORC Chapter 721]:<https://codes.ohio.gov/ohio-revised-code/chapter-721>
-[ORC Chapter 4703]:<https://codes.ohio.gov/ohio-revised-code/chapter-4730>
-[ORC Chapter 4733]:<https://codes.ohio.gov/ohio-revised-code/chapter-4733>
-[ORC Section 9.31]:<https://codes.ohio.gov/ohio-revised-code/section-9.31>
-[ORC Section 153.65]:<https://codes.ohio.gov/ohio-revised-code/section-153.65>
-[ORC Section 153.73]:<https://codes.ohio.gov/ohio-revised-code/section-153.73>
+[ORC 721]:<https://codes.ohio.gov/ohio-revised-code/chapter-721>
+[ORC 4703]:<https://codes.ohio.gov/ohio-revised-code/chapter-4730>
+[ORC 4733]:<https://codes.ohio.gov/ohio-revised-code/chapter-4733>
+[ORC 9.31]:<https://codes.ohio.gov/ohio-revised-code/section-9.31>
+[ORC 153.65]:<https://codes.ohio.gov/ohio-revised-code/section-153.65>
+[ORC 153.73]:<https://codes.ohio.gov/ohio-revised-code/section-153.73>

@@ -18,9 +18,9 @@ title: "Chapter 951: Parks"
 
 ## Cross references
 
-* Land appropriation for parks - see Ohio R.C. [715.21][ORC Section 715.21], 719.01
-* Municipal parks - see Ohio R.C. [755.01][ORC Section 755.01] et seq.
-* Power to regulate vehicle speed in parks - see Ohio R.C. [4511.07(E)][ORC Section 4511.07]
+* Land appropriation for parks - see Ohio R.C. [715.21][ORC 715.21], 719.01
+* Municipal parks - see Ohio R.C. [755.01][ORC 755.01] et seq.
+* Power to regulate vehicle speed in parks - see Ohio R.C. [4511.07(E)][ORC 4511.07]
 * Vandalism - see GEN. OFF. 541.04
 
 ## 951.01   Prohibited hours in public property
@@ -168,13 +168,15 @@ each dispensing station.\
 
 ## 951.99   Penalty
 
-1. _(a)_ Whoever violates any provision of Sections 951.02 to 951.05, shall be
-guilty of a misdemeanor of the third degree.
+1. _(a)_ Whoever violates any provision of [Sections 951.02][CFCO 951.02] to
+[951.05][CFCO 951.05], shall be guilty of a misdemeanor of the third degree.
 
 2. _(b)_ Whoever violates any provision of Section 951.06 shall be guilty of a
 minor misdemeanor.\
 (Ord. 2006-25. Passed 5-22-06.)
 
-[ORC Section 715.21]:<https://codes.ohio.gov/ohio-revised-code/section-715.21>
-[ORC Section 755.01]:<https://codes.ohio.gov/ohio-revised-code/section-755.01>
-[ORC Section 4511.07]:<https://codes.ohio.gov/ohio-revised-code/section-4511.07>
+[ORC 715.21]:<https://codes.ohio.gov/ohio-revised-code/section-715.21>
+[ORC 755.01]:<https://codes.ohio.gov/ohio-revised-code/section-755.01>
+[ORC 4511.07]:<https://codes.ohio.gov/ohio-revised-code/section-4511.07>
+[CFCO 951.02]:</chapters/chapter-951-parks/#95102-protection-of-park-property-public-buildings-and-structures>
+[CFCO 951.05]:</chapters/chapter-951-parks/#95105-intoxicating-beverages>

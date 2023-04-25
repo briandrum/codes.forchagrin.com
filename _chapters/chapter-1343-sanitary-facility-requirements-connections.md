@@ -13,7 +13,7 @@ title: "Chapter 1343: Sanitary Facility Requirements; Connections"
 
 ## Cross references
 
-* Municipal authority to regulate toilets - see Ohio R.C. [715.40][ORC Section 715.40]
+* Municipal authority to regulate toilets - see Ohio R.C. [715.40][ORC 715.40]
 * Sanitary sewer charges - see S. & P. S. Ch. 917
 * Approval of sewer connections - see BLDG. 1307.12
 
@@ -44,4 +44,4 @@ Services Code are present.
 
 [CFCO 911.02(d)]:</chapters/chapter-911-sewers-generally/#91102(d)>
 [CFCO 1343.01]:</chapters/chapter-1343-sanitary-facility-requirements-connections/#134301-properly-connected-toilets-required>
-[ORC Section 715.40]:<https://codes.ohio.gov/ohio-revised-code/section-715.40>
+[ORC 715.40]:<https://codes.ohio.gov/ohio-revised-code/section-715.40>

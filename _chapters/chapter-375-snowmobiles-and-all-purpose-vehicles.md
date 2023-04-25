@@ -15,8 +15,8 @@ title: "Chapter 375: Snowmobiles and All Purpose Vehicles"
 ## Cross references
 
 * See sectional histories for similar State law
-* Power of trial court of record to impound registration certificate for certain violations - see Ohio R.C. [4519.47][ORC Section 4519.47]
-* Power to regulate; municipal licensing prohibited - see Ohio R.C. [4519.48][ORC Section 4519.48]
+* Power of trial court of record to impound registration certificate for certain violations - see Ohio R.C. [4519.47][ORC 4519.47]
+* Power to regulate; municipal licensing prohibited - see Ohio R.C. [4519.48][ORC 4519.48]
 * Street or highway defined - see TRAF. 301.42
 * Required usage of helmets and safety glasses - see TRAF. 373.05(f)
 
@@ -39,7 +39,7 @@ known as all-terrain vehicles, all season vehicles, mini-bikes and trail bikes,
 but excluding any self-propelled vehicle not principally used for purposes of
 personal transportation, any vehicle principally used in playing golf, any motor
 vehicle or aircraft required to be registered under Ohio R.C. [Chapter 4503][ORC
-Chapter 4503] or [Chapter 4561][ORC Chapter 4561] and any vehicle excepted from
+4503] or [Chapter 4561][ORC 4561] and any vehicle excepted from
 definition as a motor vehicle by [Section 301.20][CFCO 301.20].
 
 4. _(d)_ "Public thoroughfares" means the entire width between the boundary
@@ -86,7 +86,7 @@ any twenty-four hour or less period.\
 (Ord. 1972-860. Passed 3-21-72.)
 
 [CFCO 301.20]:</chapters/chapter-301-definitions/#30120-motor-vehicle>
-[ORC Chapter 4561]:<https://codes.ohio.gov/ohio-revised-code/chapter-4503>
-[ORC Chapter 4561]:<https://codes.ohio.gov/ohio-revised-code/chapter-4561>
-[ORC Section 4519.47]:<https://codes.ohio.gov/ohio-revised-code/section-4519.47>
-[ORC Section 4519.48]:<https://codes.ohio.gov/ohio-revised-code/section-4519.48>
+[ORC 4561]:<https://codes.ohio.gov/ohio-revised-code/chapter-4503>
+[ORC 4561]:<https://codes.ohio.gov/ohio-revised-code/chapter-4561>
+[ORC 4519.47]:<https://codes.ohio.gov/ohio-revised-code/section-4519.47>
+[ORC 4519.48]:<https://codes.ohio.gov/ohio-revised-code/section-4519.48>

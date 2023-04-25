@@ -126,8 +126,8 @@ title: "Chapter 126: Municipal Income Tax"
 ## Cross references
 
 * Limitation on rate of taxation - see CHTR. Art. VIII, §2
-* Payroll deductions - see Ohio R.C. [9.42][ORC Section 9.42]
-* Municipal income taxes - see Ohio R.C. [Chapter 718][ORC Chapter 718]
+* Payroll deductions - see Ohio R.C. [9.42][ORC 9.42]
+* Municipal income taxes - see Ohio R.C. [Chapter 718][ORC 718]
 
 ## Purpose
 
@@ -162,7 +162,7 @@ the Internal Revenue Code, but including subsequent adjustments from required
 additions and deductions. Pass-through entities must compute "adjusted federal
 taxable income" as if the pass-through entity was a "C" corporation. This
 definition does not apply to any taxpayer required to file a return under Ohio
-R.C. [5745.03][ORC Section 5745.03] or to the net profit from a sole
+R.C. [5745.03][ORC 5745.03] or to the net profit from a sole
 proprietorship. This definition is effective for tax years beginning on or after
 January 1, 2005.\
 (Ord. 2005-44. Passed 7-11-05.)
@@ -899,10 +899,10 @@ of estimated tax.\
 ### 126.1308   Extensions
 
 The Administrator may extend the time of filing any return required, of making
-any payment or performing any other act required by Sections 126.1301 to
-126.1307 for a period not to exceed six months beyond the original required
-date. See Section 126.1103 for procedure to request extension of time for filing
-returns.\
+any payment or performing any other act required by [Sections 126.1301][CFCO
+126.1301] to [126.1307][CFCO 126.1307] for a period not to exceed six months
+beyond the original required date. See [Section 126.1103][CFCO 126.1103] for
+procedure to request extension of time for filing returns.\
 (Ord. 1968-730. Passed 6-18-68; Ord. 2005-44. Passed 7-11-05.)
 
 ## Interest and penalties
@@ -998,7 +998,7 @@ six months or both, for each offense.\
 ### 126.1506   Limitation on prosecution
 
 All prosecutions under this chapter must be commenced within the time prescribed
-in Ohio R.C. [718.06][ORC Section 718.06].\
+in Ohio R.C. [718.06][ORC 718.06].\
 (Ord. 1968-730. Passed 6-18-68.)
 
 ### 126.1507   Failure to procure forms not excuse
@@ -1028,7 +1028,7 @@ determination of the federal tax liability.\
 ### 126.1702   Refunds of taxes erroneously paid
 
 Taxes erroneously paid shall not be refunded unless a claim for refund is made
-within the time prescribed in Ohio R.C. [718.06][ORC Section 718.06].\
+within the time prescribed in Ohio R.C. [718.06][ORC 718.06].\
 (Ord. 1968-730. Passed 6-18-68.)
 
 ### 126.1703   Amounts of less than one dollar
@@ -1332,7 +1332,10 @@ of this chapter as though the same were continuing.\
 [CFCO 126.0701(b)]:</chapters/chapter-126-municipal-income-tax/#1260701(b)>
 [CFCO 126.0701(c)]:</chapters/chapter-126-municipal-income-tax/#1260701(c)>
 [CFCO 126.0701]:</chapters/chapter-126-municipal-income-tax/#1260701-method-of-determination>
-[ORC Chapter 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
-[ORC Section 9.42]:<https://codes.ohio.gov/ohio-revised-code/section-9.42>
-[ORC Section 718.06]:<https://codes.ohio.gov/ohio-revised-code/section-718.06>
-[ORC Section 5745.03]:<https://codes.ohio.gov/ohio-revised-code/section-5745.03>
+[CFCO 126.1103]:</chapters/chapter-126-municipal-income-tax/#1261103-extension-of-time-for-filing-returns>
+[CFCO 126.1301]:</chapters/chapter-126-municipal-income-tax/#1261301-payment-of-tax-on-filing-of-returns>
+[CFCO 126.1307]:</chapters/chapter-126-municipal-income-tax/#1261307-annual-return>
+[ORC 9.42]:<https://codes.ohio.gov/ohio-revised-code/section-9.42>
+[ORC 718.06]:<https://codes.ohio.gov/ohio-revised-code/section-718.06>
+[ORC 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
+[ORC 5745.03]:<https://codes.ohio.gov/ohio-revised-code/section-5745.03>

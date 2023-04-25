@@ -127,7 +127,7 @@ alleged offense, except that such person shall not be considered the spouse when
 any of the following apply:
 
     1. _(1)_ When the parties have entered into a written separation agreement
-    authorized by Ohio R.C. [3103.06][ORC Section 3103.06];
+    authorized by Ohio R.C. [3103.06][ORC 3103.06];
 
     2. _(2)_ During the pendency of an action between the parties for annulment,
     divorce, dissolution of marriage or legal separation;
@@ -138,10 +138,10 @@ any of the following apply:
 13. _(m)_ "Minor" means a person under the age of eighteen years.
 
 14. _(n)_ "Mental health client or patient" has the same meaning as in Ohio R.C.
-[2305.51][ORC Section 2305.51].
+[2305.51][ORC 2305.51].
 
 15. _(o)_ "Mental health professional" has the same meaning as in Ohio R.C.
-[2305.115][ORC Section 2305.115].
+[2305.115][ORC 2305.115].
 
 16. _(p)_ "Sado-masochistic abuse" means flagellation or torture by or upon a
 person or the condition of being fettered, bound, or otherwise physically
@@ -232,8 +232,8 @@ sixteen years of age, or the offender is reckless in that regard.
 2. _(b)_ Whoever violates this section is guilty of unlawful sexual conduct with
 a minor, a misdemeanor of the first degree. If the offender is four years older
 or more than the other person, or if the offender has previously been convicted
-of or pleaded guilty to a violation of Ohio R.C. [2907.02][ORC Section 2907.02],
-2907.03 or 2907.04, or former Ohio R.C. [2907.12][ORC Section 2907.12], unlawful
+of or pleaded guilty to a violation of Ohio R.C. [2907.02][ORC 2907.02],
+2907.03 or 2907.04, or former Ohio R.C. [2907.12][ORC 2907.12], unlawful
 sexual conduct with a minor is a felony and shall be prosecuted under
 appropriate State law.\
 (ORC 2907.04)
@@ -272,23 +272,22 @@ the victim's testimony unsupported by other evidence.
 
 3. _(c)_ Whoever violates this section is guilty of sexual imposition, a
 misdemeanor of the third degree. If the offender previously has been convicted
-of or pleaded guilty to a violation of Ohio R.C. [2907.02][ORC Section 2907.02],
+of or pleaded guilty to a violation of Ohio R.C. [2907.02][ORC 2907.02],
 2907.03, 2907.04, 2907.05, 2907.06 or former Section 2907.12, or a substantially
 similar municipal ordinance, a violation of this section is a misdemeanor of the
 first degree. If the offender previously has been convicted of or pleaded guilty
-to three or more violations of Ohio R.C. [2907.02][ORC Section 2907.02],
+to three or more violations of Ohio R.C. [2907.02][ORC 2907.02],
 2907.03, 2907.04 or 2907.05, 2907.06 or former Section 2907.12 or of any
 combination of those sections, a violation of this section is a misdemeanor of
 the first degree and, notwithstanding the range of jail terms prescribed in Ohio
-R.C. [2929.24][ORC Section 2929.24], the court may impose on the offender a
+R.C. [2929.24][ORC 2929.24], the court may impose on the offender a
 definite jail term of not more than one year.\
 (ORC 2907.06)
 
 ## 533.05   Importuning
 
 (Editor's note: Former Section 533.05 has been deleted from the Codified
-Ordinances. Section 533.05 was identical to Ohio R.C. [2907.07(B)][ORC Section
-2907.07] which the Ohio Supreme Court held to be unconstitutional in State v.
+Ordinances. Section 533.05 was identical to Ohio R.C. [2907.07(B)][ORC 2907.07] which the Ohio Supreme Court held to be unconstitutional in State v.
 Thompson, 95 Ohio St. 3rd 264 (2002).)
 
 ## 533.06   Voyeurism
@@ -421,7 +420,7 @@ the spouse of the offender:
     violation of this section, the court shall issue an order at the time of
     sentencing that classifies the offender as a tier I sex
     offender/child-victim offender subject to registration under Ohio R.C.
-    [2950.04][ORC Section 2950.04], 2950.041, 2950.05 and 2950.06.\
+    [2950.04][ORC 2950.04], 2950.041, 2950.05 and 2950.06.\
     (ORC 2907.09)
 
 ## 533.08   Procuring; engagement in sexual activity for hire
@@ -466,7 +465,7 @@ under this subsection, the court shall require the offender to attend an
 education or treatment program aimed at preventing persons from inducing,
 enticing, or procuring another to engage in sexual activity for hire in exchange
 for the person giving anything of value to the other person and, notwithstanding
-the fine specified in Ohio R.C. [2929.28(A)(2)(a)][ORC Section 2929.28] for a
+the fine specified in Ohio R.C. [2929.28(A)(2)(a)][ORC 2929.28] for a
 misdemeanor of the first degree, the court may impose upon the offender a fine
 of not more than one thousand five hundred dollars ($1,500).\
 (ORC 2907.231)
@@ -535,7 +534,7 @@ in conduct in violation of subsection (a) of this section.
         definition that is open to the public.
 
     2. _(2)_ "Vehicle". Has the same meaning as in Ohio R.C. [4501.01][ORC
-    Section 4501.01].
+    4501.01].
 
 4. _(d)_
 
@@ -689,7 +688,7 @@ the following:
 harmful to juveniles, a misdemeanor of the second degree. A juvenile who
 violates subsection (b) hereof shall be adjudged an unruly child, with such
 disposition of the case as may be appropriate under Ohio R.C. [Chapter 2151][ORC
-Chapter 2151].\
+2151].\
 (ORC 2907.33)
 
 ## 533.13   Displaying matter harmful to juveniles
@@ -754,19 +753,19 @@ subsections (a) and (b) of this section.\
         amended.
 
         3. _(C)_ Internet protocol-enabled services, as defined in Ohio R.C.
-        [4927.01][ORC Section 4927.01].
+        [4927.01][ORC 4927.01].
 
     5. _(5)_ "Mobile service" and "telecommunications carrier" have the meanings
     defined in 47 U.S.C. 153, as amended.
 
     6. _(6)_ "Cable service provider" has the same meaning as in Ohio R.C.
-    [1332.01][ORC Section 1332.01].
+    [1332.01][ORC 1332.01].
 
     7. _(7)_ "Direct-to-home satellite service" has the meaning defined in 47
     U.S.C. 303, as amended.
 
     8. _(8)_ "Video service provider" has the same meaning as in Ohio R.C.
-    [1332.21][ORC Section 1332.21].
+    [1332.21][ORC 1332.21].
 
     9. _(9)_ "Sexual act" means any of the following:
 
@@ -871,7 +870,7 @@ section, the other section, or both sections.
     required by law, the court may order any person who is convicted of a
     violation of this section or who is adjudicated delinquent by reason of a
     violation of this section to criminally forfeit all of the following
-    property to the state under Ohio R.C. [Chapter 2981][ORC Chapter 2981].
+    property to the state under Ohio R.C. [Chapter 2981][ORC 2981].
 
         1. _(A)_ Any profits or proceeds and any property the person has
         acquired or maintained in violation of this section that the sentencing
@@ -886,8 +885,7 @@ section, the other section, or both sections.
         violation.
 
 7. _(g)_ A victim of a violation of this section may commence a civil cause of
-action against the offender, as described in Ohio R.C. [2307.66][ORC Section
-2307.66].\
+action against the offender, as described in Ohio R.C. [2307.66][ORC 2307.66].\
 (ORC 2917.211)
 
 ## 533.99   Penalty
@@ -896,19 +894,19 @@ action against the offender, as described in Ohio R.C. [2307.66][ORC Section
 any misdemeanor classification.)
 
 [CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[ORC Chapter 2151]:<https://codes.ohio.gov/ohio-revised-code/chapter-2151>
-[ORC Chapter 2981]:<https://codes.ohio.gov/ohio-revised-code/chapter-2981>
-[ORC Section 1332.01]:<https://codes.ohio.gov/ohio-revised-code/section-1332.01>
-[ORC Section 1332.21]:<https://codes.ohio.gov/ohio-revised-code/section-1332.21>
-[ORC Section 2305.51]:<https://codes.ohio.gov/ohio-revised-code/section-2305.51>
-[ORC Section 2305.115]:<https://codes.ohio.gov/ohio-revised-code/section-2305.115>
-[ORC Section 2307.66]:<https://codes.ohio.gov/ohio-revised-code/section-2307.66>
-[ORC Section 2907.02]:<https://codes.ohio.gov/ohio-revised-code/section-2907.02>
-[ORC Section 2907.07]:<https://codes.ohio.gov/ohio-revised-code/section-2907.07>
-[ORC Section 2907.12]:<https://codes.ohio.gov/ohio-revised-code/section-2907.12>
-[ORC Section 2929.24]:<https://codes.ohio.gov/ohio-revised-code/section-2929.24>
-[ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
-[ORC Section 2950.04]:<https://codes.ohio.gov/ohio-revised-code/section-2950.04>
-[ORC Section 3103.06]:<https://codes.ohio.gov/ohio-revised-code/section-3103.06>
-[ORC Section 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
-[ORC Section 4927.01]:<https://codes.ohio.gov/ohio-revised-code/section-4927.01>
+[ORC 2151]:<https://codes.ohio.gov/ohio-revised-code/chapter-2151>
+[ORC 2981]:<https://codes.ohio.gov/ohio-revised-code/chapter-2981>
+[ORC 1332.01]:<https://codes.ohio.gov/ohio-revised-code/section-1332.01>
+[ORC 1332.21]:<https://codes.ohio.gov/ohio-revised-code/section-1332.21>
+[ORC 2305.51]:<https://codes.ohio.gov/ohio-revised-code/section-2305.51>
+[ORC 2305.115]:<https://codes.ohio.gov/ohio-revised-code/section-2305.115>
+[ORC 2307.66]:<https://codes.ohio.gov/ohio-revised-code/section-2307.66>
+[ORC 2907.02]:<https://codes.ohio.gov/ohio-revised-code/section-2907.02>
+[ORC 2907.07]:<https://codes.ohio.gov/ohio-revised-code/section-2907.07>
+[ORC 2907.12]:<https://codes.ohio.gov/ohio-revised-code/section-2907.12>
+[ORC 2929.24]:<https://codes.ohio.gov/ohio-revised-code/section-2929.24>
+[ORC 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
+[ORC 2950.04]:<https://codes.ohio.gov/ohio-revised-code/section-2950.04>
+[ORC 3103.06]:<https://codes.ohio.gov/ohio-revised-code/section-3103.06>
+[ORC 4501.01]:<https://codes.ohio.gov/ohio-revised-code/section-4501.01>
+[ORC 4927.01]:<https://codes.ohio.gov/ohio-revised-code/section-4927.01>

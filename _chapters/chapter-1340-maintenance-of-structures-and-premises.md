@@ -37,7 +37,7 @@ title: "Chapter 1340: Maintenance of Structures and Premises"
 
 ## Cross references
 
-* Removal of unsafe structures - see Ohio R.C. [715.26][ORC Section 715.26]
+* Removal of unsafe structures - see Ohio R.C. [715.26][ORC 715.26]
 * Health, safety and sanitation - see GEN. OFF. Ch. 521
 
 ## 1340.01   Purpose and scope
@@ -748,12 +748,12 @@ section with a statement of the charges for services, the amount paid for the
 performing of labor and a proper description of the premises including all costs
 to be paid by the property owner pursuant to this chapter, including the total
 cost of all abatement activity as defined in Revised Code [Section 715.261][ORC
-Section 715.261].
+715.261].
 
 11. _(k)_ Certification to the County Fiscal Officer is for the purpose of
 making expenses and costs a lien upon the lands, to be collected as other taxes
 and returned to the Village with the General Fund, with special accounting under
-Revised Code [Section 715.261][ORC Section 715.261]. Notwithstanding the method
+Revised Code [Section 715.261][ORC 715.261]. Notwithstanding the method
 of collection set forth in this division, the Director of Law, in the Director's
 sole discretion, may take any action necessary to collect the costs of
 demolition, boarding, or other nuisance abatement from the owner or other
@@ -827,5 +827,5 @@ deemed committed each day during or on which an offense occurs or continues.\
 [CFCO 1107.06]:</chapters/chapter-1107-definitions/#110706-buildings-and-structures>
 [CFCO 1146.06]:</chapters/chapter-1146-historic-preservation-regulations/#114606-demolition-and-moving>
 [CFCO 1340.08]:</chapters/chapter-1340-maintenance-of-structures-and-premises/#134008-notice-of-violation>
-[ORC Section 715.26]:<https://codes.ohio.gov/ohio-revised-code/section-715.26>
-[ORC Section 715.261]:<https://codes.ohio.gov/ohio-revised-code/section-715.261>
+[ORC 715.26]:<https://codes.ohio.gov/ohio-revised-code/section-715.26>
+[ORC 715.261]:<https://codes.ohio.gov/ohio-revised-code/section-715.261>

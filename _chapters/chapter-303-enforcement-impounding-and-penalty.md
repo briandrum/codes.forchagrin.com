@@ -27,13 +27,13 @@ title: "Chapter 303: Enforcement, Impounding and Penalty"
 ## Cross references
 
 * See sectional histories for similar State law
-* Disposition of unclaimed vehicles - see Ohio R.C. [737.32][ORC Section 737.32], 4513.62 et seq.
-* Citations for minor misdemeanors - see Ohio R.C. [2935.26][ORC Section 2935.26] et seq.
-* Power of trial court of record to suspend or revoke license for certain violations - see Ohio R.C. [4507.16][ORC Section 4507.16], 4507.34
-* State point system suspension - see Ohio R.C. [4507.40][ORC Section 4507.40]
-* Uniform application of Ohio Traffic Law - see Ohio R.C. [4511.06][ORC Section 4511.06]
-* Marking motor vehicles used by traffic officers - see Ohio R.C. [4549.13][ORC Section 4549.13]
-* Distinctive uniform required for traffic officers - see Ohio R.C. [4549.15][ORC Section 4549.15]
+* Disposition of unclaimed vehicles - see Ohio R.C. [737.32][ORC 737.32], 4513.62 et seq.
+* Citations for minor misdemeanors - see Ohio R.C. [2935.26][ORC 2935.26] et seq.
+* Power of trial court of record to suspend or revoke license for certain violations - see Ohio R.C. [4507.16][ORC 4507.16], 4507.34
+* State point system suspension - see Ohio R.C. [4507.40][ORC 4507.40]
+* Uniform application of Ohio Traffic Law - see Ohio R.C. [4511.06][ORC 4511.06]
+* Marking motor vehicles used by traffic officers - see Ohio R.C. [4549.13][ORC 4549.13]
+* Distinctive uniform required for traffic officers - see Ohio R.C. [4549.15][ORC 4549.15]
 * Exceptions for emergency or public safety vehicles - see TRAF. 331.20, 333.06
 
 ## 303.01   Compliance with lawful order of police officer; fleeing
@@ -46,7 +46,7 @@ traffic.
 flee a police officer after receiving a visible or audible signal from a police
 officer to bring the person's motor vehicle to a stop.
 
-    (Editor's note: Refer to Ohio R.C. [2921.331][ORC Section 2921.331] for
+    (Editor's note: Refer to Ohio R.C. [2921.331][ORC 2921.331] for
     filing charges under subsection (b) hereof since the jury or judge as trier
     of fact may determine the violation to be a felony.)
 
@@ -69,16 +69,16 @@ following by proof beyond a reasonable doubt:
 4. _(d)_ In addition to any other sanction imposed for a violation of subsection
 (a) of this section or a misdemeanor violation of subsection (b) of this
 section, the court shall impose a class five suspension from the range specified
-in Ohio R.C. [4510.02(A)(5)][ORC Section 4510.02]. If the offender previously
-has been found guilty of an offense under this section, in addition to any other
-sanction imposed for the offense, the court shall impose a class one suspension
-as described in division (A)(1) of that section. The court may grant limited
+in Ohio R.C. [4510.02(A)(5)][ORC 4510.02]. If the offender previously has been
+found guilty of an offense under this section, in addition to any other sanction
+imposed for the offense, the court shall impose a class one suspension as
+described in division (A)(1) of that section. The court may grant limited
 driving privileges to the offender on a suspension imposed for a misdemeanor
-violation of this section as set forth in Ohio R.C. [4510.021.][ORC Section
-4510.021.] No judge shall suspend the first three years of suspension under a
-class two suspension of an offender's license, permit or privilege required by
-this division on any portion of the suspension under a class one suspension of
-an offender's license, permit, or privilege required by this subsection.\
+violation of this section as set forth in Ohio R.C. [4510.021.][ORC 4510.021.]
+No judge shall suspend the first three years of suspension under a class two
+suspension of an offender's license, permit or privilege required by this
+division on any portion of the suspension under a class one suspension of an
+offender's license, permit, or privilege required by this subsection.\
 (ORC 2921.331)
 
 ## 303.02   Traffic direction in emergencies; obedience to school guard
@@ -130,19 +130,19 @@ maintenance vehicle is equipped with flashing lights and such other markings as
 are required by law, and such lights are in operation when the driver and
 vehicle are so engaged, shall be exempt from criminal prosecution for violations
 of Sections 331.01 to 331.04, 331.06 to 331.08, 331.31, 333.04, 337.01 and Ohio
-R.C. [4511.66][ORC Section 4511.66] and 5577.01 to 5577.09.
+R.C. [4511.66][ORC 4511.66] and 5577.01 to 5577.09.
 
 3. _(c)_
 
     1. _(1)_ This section does not exempt a driver of as highway maintenance
     vehicle from civil liability arising from a violation of Sections 331.01 to
     331.04, 331.06 to 331.08, 331.31, 333.04, 337.01 or Ohio R.C. [4511.66][ORC
-    Section 4511.66] or 5577.01 to 5577.09.
+    4511.66] or 5577.01 to 5577.09.
 
     2. _(2)_ This section does not exempt a driver of a vehicle who is not a
     state employee and who is engaged in the transport of highway maintenance
     equipment from criminal liability for a violation of Ohio R.C. [5577.01][ORC
-    Section 5577.01] to 5577.09.
+    5577.01] to 5577.09.
 
 4. _(d)_ As used in this section, "engaged in the performance of official
 duties" includes driving a highway maintenance vehicle to and from the
@@ -152,7 +152,7 @@ maintenance vehicle, equipment, or materials to and from a work location.\
 
 ### 303.041   Emergency, public safety and coroner's vehicles exempt
 
-1. _(a)_ Ohio R.C. [4511.12][ORC Section 4511.12], 4511.13, 4511.131, 4511.132,
+1. _(a)_ Ohio R.C. [4511.12][ORC 4511.12], 4511.13, 4511.131, 4511.132,
 4511.14, 4511.202, 4511.21, 4511.211, 4511.22, 4511.23, 4511.25, 4511.26,
 4511.27, 4511.28, 4511.29, 4511.30, 4511.31, 4511.32, 4511.33, 4511.34, 4511.35,
 4511.36, 4511.37, 4511.38, 4511.39, 4511.40, 4511.41, 4511.42, 4511.43,
@@ -170,12 +170,12 @@ emergency vehicle or public safety vehicle from the duty to drive with due
 regard for the safety of all persons and property upon the highway.\
 (ORC 4511.041)
 
-2. _(b)_ Ohio R.C. [4511.25][ORC Section 4511.25], 4511.26, 4511.27, 4511.28,
+2. _(b)_ Ohio R.C. [4511.25][ORC 4511.25], 4511.26, 4511.27, 4511.28,
 4511.29, 4511.30, 4511.31, 4511.32, 4511.33, 4511.35, 4511.36, 4511.37, 4511.38
 and 4511.66, and all sections of this Traffic Code or other municipal ordinances
 that are substantially equivalent to the sections listed above, do not apply to
 a coroner, deputy coroner, or coroner's investigator operating a motor vehicle
-in accordance with Ohio R.C. [4513.171][ORC Section 4513.171]. This section
+in accordance with Ohio R.C. [4513.171][ORC 4513.171]. This section
 does not relieve a coroner, deputy coroner, or coroner's investigator operating
 a motor vehicle from the duty to drive with due regard for the safety of all
 persons and property upon the highway.\
@@ -243,7 +243,7 @@ under the following circumstances:
     interfere with street cleaning or snow removal operations.
 
     2. _(2)_ When any vehicle or "abandoned junk motor vehicle" as defined in
-    Ohio R.C. [4513.63][ORC Section 4513.63] is left on private property for
+    Ohio R.C. [4513.63][ORC 4513.63] is left on private property for
     more than forty-eight consecutive hours without the permission of the person
     having the right to the possession of the property, or on a public street or
     other property open to the public for purposes of vehicular travel or
@@ -251,7 +251,7 @@ under the following circumstances:
     forty-eight consecutive hours or longer, without notification to the Police
     Chief of the reasons for leaving such vehicle in such place. Prior to
     disposal of an "abandoned junk motor vehicle" as defined in Ohio R.C.
-    [4513.63][ORC Section 4513.63], it shall be photographed by a law
+    [4513.63][ORC 4513.63], it shall be photographed by a law
     enforcement officer.
 
     3. _(3)_ When any vehicle has been stolen or operated without the consent of
@@ -293,7 +293,7 @@ under the following circumstances:
 
 2. _(b)_ Any vehicle removed under authority of subsection (a)(2) hereof shall
 be ordered into storage and/or disposed of as provided under Ohio R.C.
-[4513.60][ORC Section 4513.60] et seq. Any other vehicle removed under authority
+[4513.60][ORC 4513.60] et seq. Any other vehicle removed under authority
 of this section shall be ordered into storage and the Municipal police shall
 forthwith notify the registered vehicle owner of the fact of such removal and
 impounding, reasons therefor and the place of storage. Any person desiring to
@@ -324,7 +324,7 @@ misdemeanor of the third degree.
 
     1. _(1)_ The Chief of Police upon complaint of any person adversely affected
     may order into storage any motor vehicle, other than an abandoned junk motor
-    vehicle as defined in Ohio R.C. [4513.63][ORC Section 4513.63], that has
+    vehicle as defined in Ohio R.C. [4513.63][ORC 4513.63], that has
     been left on private residential or private agricultural property for at
     least four hours without the permission of the person having the right to
     the possession of the property. The Chief of Police, upon complaint of a
@@ -364,7 +364,7 @@ property, the towing service shall give the owner or operator oral or written
 notification at the time of such arrival that the vehicle owner or operator may
 pay a fee of not more than one-half of the fee for the removal of the motor
 vehicle established by the Public Utilities Commission in rules adopted under
-Ohio R.C. [4921.25][ORC Section 4921.25], in order to obtain release of the
+Ohio R.C. [4921.25][ORC 4921.25], in order to obtain release of the
 motor vehicle. However, if the vehicle is within a municipal corporation and the
 municipal corporation has established a vehicle removal fee, the towing service
 shall give the owner or operator oral or written notification that the owner or
@@ -412,7 +412,7 @@ available at the time of the transaction.
 
         1. _(A)_ Payment of all applicable fees established by the Public
         Utilities Commission in rules adopted under Ohio R.C. [4921.25][ORC
-        Section 4921.25] or, if the vehicle was towed within a municipal
+        4921.25] or, if the vehicle was towed within a municipal
         corporation that has established fees for vehicle removal and storage,
         payment of all applicable fees established by the municipal corporation.
 
@@ -423,7 +423,7 @@ available at the time of the transaction.
         storage facility in possession of the vehicle shall give the owner
         written notice that if the owner disputes that the motor vehicle was
         lawfully towed, the owner may be able to file a civil action under Ohio
-        R.C. [4513.611][ORC Section 4513.611].
+        R.C. [4513.611][ORC 4513.611].
 
     2. _(2)_ Upon presentation of proof of ownership as required under
     subsection (d)(1)B. of this section, the owner of a motor vehicle that is
@@ -431,10 +431,10 @@ available at the time of the transaction.
     any personal items from the motor vehicle without retrieving the vehicle and
     without paying any fee. However, a towing service or storage facility may
     charge an after-hours retrieval fee established by the Public Utilities
-    Commission in rules adopted under Ohio R.C. [4921.25][ORC Section 4921.25]
+    Commission in rules adopted under Ohio R.C. [4921.25][ORC 4921.25]
     if the owner retrieves the personal items after hours, unless the towing
     service or storage facility fails to provide the notice required under
-    division (B)(3) of Ohio R.C. [4513.69][ORC Section 4513.69], if applicable.
+    division (B)(3) of Ohio R.C. [4513.69][ORC 4513.69], if applicable.
     The owner of a motor vehicle shall not do either of the following:
 
         1. _(A)_ Retrieve any personal item that has been determined by the
@@ -448,7 +448,7 @@ available at the time of the transaction.
 
     3. _(3)_ If a motor vehicle that is ordered into storage pursuant to
     subsection (a)(1) of this section remains unclaimed by the owner for thirty
-    days, the procedures established by Ohio R.C. [4513.61][ORC Section 4513.61]
+    days, the procedures established by Ohio R.C. [4513.61][ORC 4513.61]
     and 4513.62 apply.
 
 5. _(e)_
@@ -456,7 +456,7 @@ available at the time of the transaction.
     1. _(1)_ No person shall remove, or cause the removal of, any motor vehicle
     from any private residential or private agricultural property other than in
     accordance with subsection (a)(1) of this section or Ohio R.C. [4513.61][ORC
-    Section 4513.61] to 4513.65.
+    4513.61] to 4513.65.
 
     2. _(2)_ No towing service or storage facility shall fail to comply with the
     requirements of this section.
@@ -502,7 +502,7 @@ but may do so only if all of the following conditions are satisfied:
 
         5. _(E)_ A statement that the failure to recover a towed vehicle may
         result in the loss of title to the vehicle as provided in division (B)
-        of Ohio R.C. [4505.101][ORC Section 4505.101].
+        of Ohio R.C. [4505.101][ORC 4505.101].
 
             In order to comply with the requirements of subsection (a)(1) of
             this section, the owner of a private property may modify an existing
@@ -535,9 +535,9 @@ but may do so only if all of the following conditions are satisfied:
     vehicle owner and the operator of the vehicle are considered to have
     consented to the removal and storage of the vehicle, to the payment of the
     applicable fees established by the Public Service Commission in rules
-    adopted under Ohio R.C. [4921.25][ORC Section 4921.25], and to the right of
+    adopted under Ohio R.C. [4921.25][ORC 4921.25], and to the right of
     a towing service to obtain title to the vehicle if it remains unclaimed as
-    provided in Ohio R.C. [4505.101][ORC Section 4505.101]. The owner or
+    provided in Ohio R.C. [4505.101][ORC 4505.101]. The owner or
     lienholder of a vehicle that has been removed under this section, subject to
     subsection (c) of this section, may recover the vehicle in accordance with
     subsection (g) of this section.
@@ -560,7 +560,7 @@ towing service shall give the vehicle owner or operator oral or written
 notification at the time of such arrival that the vehicle owner or operator may
 pay a fee of not more than one-half of the fee for the removal of the vehicle
 established by the Public Service Commission in rules adopted under Ohio R.C.
-[4921.25][ORC Section 4921.25], in order to obtain release of the vehicle. That
+[4921.25][ORC 4921.25], in order to obtain release of the vehicle. That
 fee may be paid by use of a major credit card unless the towing service uses a
 mobile credit card processor and mobile service is not available at the time of
 the transaction. Upon payment of that fee, the towing service shall give the
@@ -654,19 +654,18 @@ private property or in violation of any posted parking condition or regulation.
     this section is received, as evidenced by a receipt signed by any person, or
     the towing service or storage facility has been notified that delivery was
     not possible, the towing service or storage facility, if authorized under
-    subsection (B) of Ohio R.C. [4505.101][ORC Section 4505.101], may initiate
+    subsection (B) of Ohio R.C. [4505.101][ORC 4505.101], may initiate
     the process for obtaining a certificate of title to the motor vehicle as
     provided in that section.
 
     3. _(3)_ A towing service or storage facility that does not receive a signed
     receipt of notice, or a notification that delivery was not possible, shall
     not obtain, and shall not attempt to obtain, a certificate of title to the
-    motor vehicle under division (B) of Ohio R.C. [4505.101.][ORC Section
-    4505.101.]
+    motor vehicle under division (B) of Ohio R.C. [4505.101.][ORC 4505.101.]
 
     4. _(4)_ With respect to a vehicle concerning which a towing service or
     storage facility is not eligible to obtain title under Ohio R.C.
-    [4505.101][ORC Section 4505.101], the towing service or storage facility
+    [4505.101][ORC 4505.101], the towing service or storage facility
     need only comply with the initial notice required under subsection (f)(1)A.
     of this section.
 
@@ -682,10 +681,10 @@ private property or in violation of any posted parking condition or regulation.
         2. _(B)_ Payment of the following fees:
 
             1. _(1)_ All applicable fees established by the Public Utilities
-            Commission in rules adopted under Ohio R.C. [4921.25][ORC Section
-            4921.25], except that the lienholder of a vehicle may retrieve the
-            vehicle without paying any storage fee for the period of time that
-            the vehicle was in the possession of the towing service or storage
+            Commission in rules adopted under Ohio R.C. [4921.25][ORC 4921.25],
+            except that the lienholder of a vehicle may retrieve the vehicle
+            without paying any storage fee for the period of time that the
+            vehicle was in the possession of the towing service or storage
             facility prior to the date the lienholder received the notice sent
             under subsection (f)(1)A. of this section;
 
@@ -705,7 +704,7 @@ private property or in violation of any posted parking condition or regulation.
     vehicle, the towing service or storage facility in possession of the vehicle
     shall give the owner written notice that if the owner disputes that the
     motor vehicle was lawfully towed, the owner may be able to file a civil
-    action under Ohio R.C. [4513.611][ORC Section 4513.611].
+    action under Ohio R.C. [4513.611][ORC 4513.611].
 
     4. _(4)_ Upon presentation of proof of ownership, which may be evidenced by
     a certificate of title to the vehicle, a certificate of registration for the
@@ -724,8 +723,8 @@ section, or store such a vehicle other than in accordance with this section, or
 otherwise fail to comply with any applicable requirement of this section.
 
 9. _(i)_ This section does not affect or limit the operation of Ohio R.C.
-[4513.60][ORC Section 4513.60] or Ohio R.C. [4513.61][ORC Section 4513.61] to
-4613.65 as they relate to property other than private property that is
+[4513.60][ORC 4513.60] or Ohio R.C. [4513.61][ORC 4513.61] to [4613.65][ORC
+4613.65] as they relate to property other than private property that is
 established as a private tow-away zone under subsection (a) of this section.
 
 10. _(j)_ Whoever violates subsection (h) of this section is guilty of a minor
@@ -803,7 +802,7 @@ specified, all of the following apply:
     vehicle:
 
         1. _(A)_ Using a handheld electronic wireless communications device, as
-        defined in Ohio R.C. [4511.204][ORC Section 4511.204] except when
+        defined in Ohio R.C. [4511.204][ORC 4511.204] except when
         utilizing any of the following:
 
             1. _(1)_ The device's speakerphone function;
@@ -835,7 +834,7 @@ specified, all of the following apply:
     individuals. As used in subsection (a)(3) of this section:
 
         1. _(A)_ "Utility" means an entity specified in division (A), (C), (D),
-        (E) or (G) of Ohio R.C. [4905.03][ORC Section 4905.03].
+        (E) or (G) of Ohio R.C. [4905.03][ORC 4905.03].
 
         2. _(B)_ "Utility service vehicle" means a vehicle owned or operated by
         a utility.
@@ -844,7 +843,7 @@ specified, all of the following apply:
 for an enhanced penalty for an offense committed while distracted and the
 distracting activity is a contributing factor to the commission of the
 violation, the offender is subject to the applicable penalty for the violation
-and, notwithstanding Ohio R.C. [2929.28][ORC Section 2929.28], is subject to an
+and, notwithstanding Ohio R.C. [2929.28][ORC 2929.28], is subject to an
 additional fine of not more than one hundred dollars ($100.00) as follows:
 
     1. _(1)_ Subject to Traffic Rule 13, if a law enforcement officer issues an
@@ -857,16 +856,17 @@ additional fine of not more than one hundred dollars ($100.00) as follows:
     total amount of the fine established for the violation and pays the
     additional fine of one hundred dollars ($100.00).
 
-        In lieu of payment of the additional fine of one hundred dollars ($100.00), the
-        offender instead may elect to attend a distracted driving safety course, the
-        duration and contents of which shall be established by the Ohio Director of
-        Public Safety. If the offender attends and successfully completes the course,
-        the offender shall be issued written evidence that the offender successfully
-        completed the course. The offender shall be required to pay the total amount
-        of the fine established for the violation, but shall not be required to pay the
-        additional fine of one hundred dollars ($100.00), so long as the offender
-        submits to the court both the offender's payment in full and such written
-        evidence.
+        In lieu of payment of the additional fine of one hundred dollars
+        ($100.00), the offender instead may elect to attend a distracted driving
+        safety course, the duration and contents of which shall be established
+        by the Ohio Director of Public Safety. If the offender attends and
+        successfully completes the course, the offender shall be issued written
+        evidence that the offender successfully completed the course. The
+        offender shall be required to pay the total amount of the fine
+        established for the violation, but shall not be required to pay the
+        additional fine of one hundred dollars ($100.00), so long as the
+        offender submits to the court both the offender's payment in full and
+        such written evidence.
 
     2. _(2)_ If the offender appears in person to contest the ticket, citation
     or summons in a trial and the offender pleads guilty to or is convicted of
@@ -891,29 +891,30 @@ additional fine of not more than one hundred dollars ($100.00) as follows:
 [CFCO 303.991]:</chapters/chapter-303-enforcement-impounding-and-penalty/#303991-committing-an-offense-while-distracted-penalty>
 [CFCO 331.43]:</chapters/chapter-331-operation-generally/#33143-shortcutting-evasion-of-traffic-control-signals-or-device>
 [CFCO 333.03]:</chapters/chapter-333-ovi-willful-misconduct-speed/#33303-maximum-speed-limits-assured-clear-distance-ahead>
-[ORC Section 737.32]:<https://codes.ohio.gov/ohio-revised-code/section-737.32>
-[ORC Section 2921.331]:<https://codes.ohio.gov/ohio-revised-code/section-2921.331>
-[ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
-[ORC Section 2935.26]:<https://codes.ohio.gov/ohio-revised-code/section-2935.26>
-[ORC Section 4505.101]:<https://codes.ohio.gov/ohio-revised-code/section-4505.101>
-[ORC Section 4505.101]:<https://codes.ohio.gov/ohio-revised-code/section-4505.101>
-[ORC Section 4507.16]:<https://codes.ohio.gov/ohio-revised-code/section-4507.16>
-[ORC Section 4507.40]:<https://codes.ohio.gov/ohio-revised-code/section-4507.40>
-[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
-[ORC Section 4510.021]:<https://codes.ohio.gov/ohio-revised-code/section-4510.021>
-[ORC Section 4511.06]:<https://codes.ohio.gov/ohio-revised-code/section-4511.06>
-[ORC Section 4511.12]:<https://codes.ohio.gov/ohio-revised-code/section-4511.12>
-[ORC Section 4511.25]:<https://codes.ohio.gov/ohio-revised-code/section-4511.25>
-[ORC Section 4511.66]:<https://codes.ohio.gov/ohio-revised-code/section-4511.66>
-[ORC Section 4511.204]:<https://codes.ohio.gov/ohio-revised-code/section-4511.204>
-[ORC Section 4513.60]:<https://codes.ohio.gov/ohio-revised-code/section-4513.60>
-[ORC Section 4513.61]:<https://codes.ohio.gov/ohio-revised-code/section-4513.61>
-[ORC Section 4513.63]:<https://codes.ohio.gov/ohio-revised-code/section-4513.63>
-[ORC Section 4513.69]:<https://codes.ohio.gov/ohio-revised-code/section-4513.69>
-[ORC Section 4513.171]:<https://codes.ohio.gov/ohio-revised-code/section-4513.171>
-[ORC Section 4513.611]:<https://codes.ohio.gov/ohio-revised-code/section-4513.611>
-[ORC Section 4549.13]:<https://codes.ohio.gov/ohio-revised-code/section-4549.13>
-[ORC Section 4549.15]:<https://codes.ohio.gov/ohio-revised-code/section-4549.15>
-[ORC Section 4905.03]:<https://codes.ohio.gov/ohio-revised-code/section-4905.03>
-[ORC Section 4921.25]:<https://codes.ohio.gov/ohio-revised-code/section-4921.25>
-[ORC Section 5577.01]:<https://codes.ohio.gov/ohio-revised-code/section-5577.01>
+[ORC 737.32]:<https://codes.ohio.gov/ohio-revised-code/section-737.32>
+[ORC 2921.331]:<https://codes.ohio.gov/ohio-revised-code/section-2921.331>
+[ORC 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
+[ORC 2935.26]:<https://codes.ohio.gov/ohio-revised-code/section-2935.26>
+[ORC 4505.101]:<https://codes.ohio.gov/ohio-revised-code/section-4505.101>
+[ORC 4505.101]:<https://codes.ohio.gov/ohio-revised-code/section-4505.101>
+[ORC 4507.16]:<https://codes.ohio.gov/ohio-revised-code/section-4507.16>
+[ORC 4507.40]:<https://codes.ohio.gov/ohio-revised-code/section-4507.40>
+[ORC 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
+[ORC 4510.021]:<https://codes.ohio.gov/ohio-revised-code/section-4510.021>
+[ORC 4511.06]:<https://codes.ohio.gov/ohio-revised-code/section-4511.06>
+[ORC 4511.12]:<https://codes.ohio.gov/ohio-revised-code/section-4511.12>
+[ORC 4511.25]:<https://codes.ohio.gov/ohio-revised-code/section-4511.25>
+[ORC 4511.66]:<https://codes.ohio.gov/ohio-revised-code/section-4511.66>
+[ORC 4511.204]:<https://codes.ohio.gov/ohio-revised-code/section-4511.204>
+[ORC 4513.60]:<https://codes.ohio.gov/ohio-revised-code/section-4513.60>
+[ORC 4513.61]:<https://codes.ohio.gov/ohio-revised-code/section-4513.61>
+[ORC 4513.63]:<https://codes.ohio.gov/ohio-revised-code/section-4513.63>
+[ORC 4513.69]:<https://codes.ohio.gov/ohio-revised-code/section-4513.69>
+[ORC 4513.171]:<https://codes.ohio.gov/ohio-revised-code/section-4513.171>
+[ORC 4513.611]:<https://codes.ohio.gov/ohio-revised-code/section-4513.611>
+[ORC 4549.13]:<https://codes.ohio.gov/ohio-revised-code/section-4549.13>
+[ORC 4549.15]:<https://codes.ohio.gov/ohio-revised-code/section-4549.15>
+[ORC 4613.65]:<https://codes.ohio.gov/ohio-revised-code/section-4613.65>
+[ORC 4905.03]:<https://codes.ohio.gov/ohio-revised-code/section-4905.03>
+[ORC 4921.25]:<https://codes.ohio.gov/ohio-revised-code/section-4921.25>
+[ORC 5577.01]:<https://codes.ohio.gov/ohio-revised-code/section-5577.01>

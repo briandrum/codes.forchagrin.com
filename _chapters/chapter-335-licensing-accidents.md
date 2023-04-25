@@ -35,13 +35,13 @@ title: "Chapter 335: Licensing; Accidents"
 ## Cross references
 
 * See sectional histories for similar State law
-* Deposit of driver's license as bond - see Ohio R.C. [2937.221][ORC Section 2937.221]
-* Motor vehicle licensing law - see Ohio R.C. [Chapter 4503][ORC Chapter 4503]
-* Driver's license law - see Ohio R.C. [Chapter 4507][ORC Chapter 4507]
-* Power of trial court of record to suspend or revoke license for certain violations - see Ohio R.C. [Chapter 4510][ORC Chapter 4510]
-* State point system suspension - see Ohio R.C. [4510.03.6][ORC Section 4510.03.6]
-* State accident reports - see Ohio R.C. [4509.01(J)][ORC Section 4509.01], 4509.06, 4509.74, 5502.11
-* Motorized bicycle operator's license - see Ohio R.C. [4511.521][ORC Section 4511.521]
+* Deposit of driver's license as bond - see Ohio R.C. [2937.221][ORC 2937.221]
+* Motor vehicle licensing law - see Ohio R.C. [Chapter 4503][ORC 4503]
+* Driver's license law - see Ohio R.C. [Chapter 4507][ORC 4507]
+* Power of trial court of record to suspend or revoke license for certain violations - see Ohio R.C. [Chapter 4510][ORC 4510]
+* State point system suspension - see Ohio R.C. [4510.03.6][ORC 4510.03.6]
+* State accident reports - see Ohio R.C. [4509.01(J)][ORC 4509.01], 4509.06, 4509.74, 5502.11
+* Motorized bicycle operator's license - see Ohio R.C. [4511.521][ORC 4511.521]
 * Glass removal from street after accident - see TRAF. 311.01
 
 ## 335.01   Driver's license or commercial driver's license required
@@ -49,24 +49,24 @@ title: "Chapter 335: Licensing; Accidents"
 1. _(a)_
 
     1. _(1)_ No person, except those expressly exempted under Ohio R.C.
-    [4507.03][ORC Section 4507.03], 4507.04, and 4507.05, shall operate any
+    [4507.03][ORC 4507.03], 4507.04, and 4507.05, shall operate any
     motor vehicle upon a public road or highway or any public or private
     property used by the public for purposes of vehicular travel or parking in
     this Municipality unless the person has a valid driver's license issued
-    under Ohio R.C. [Chapter 4507][ORC Chapter 4507] or a commercial driver's
-    license issued under Ohio R.C. [Chapter 4506][ORC Chapter 4506].
+    under Ohio R.C. [Chapter 4507][ORC 4507] or a commercial driver's
+    license issued under Ohio R.C. [Chapter 4506][ORC 4506].
 
     2. _(2)_ No person, except a person expressly exempted under Ohio R.C.
-    [4507.03][ORC Section 4507.03], 4507.04, and 4507.05, shall operate any
+    [4507.03][ORC 4507.03], 4507.04, and 4507.05, shall operate any
     motorcycle upon a public road or highway or any public or private property
     used by the public for purposes of vehicular travel or parking in this
     Municipality unless the person has a valid license as a motorcycle operator
     that was issued upon application by the Registrar of Motor Vehicles under
-    Ohio R.C. [Chapter 4507][ORC Chapter 4507]. The license shall be in the form
+    Ohio R.C. [Chapter 4507][ORC 4507]. The license shall be in the form
     of an endorsement, as determined by the Registrar, upon a driver's or
     commercial driver's license, if the person has a valid license to operate a
     motor vehicle or commercial motor vehicle, or in the form of a restricted
-    license as provided in Ohio R.C. [4507.14][ORC Section 4507.14], if the
+    license as provided in Ohio R.C. [4507.14][ORC 4507.14], if the
     person does not have a valid license to operate a motor vehicle or
     commercial motor vehicle.
 
@@ -94,21 +94,21 @@ motorcycle without a valid license and shall be punished as follows:
     driver's license or in the form of a restricted license, except as otherwise
     provided in this subsection, the offense is an unclassified misdemeanor.
     When the offense is an unclassified misdemeanor, the offender shall be
-    sentenced pursuant to Ohio R.C. [2929.21][ORC Section 2929.21] to 2929.28,
-    except that the offender shall not be sentenced to a jail term; the offender
-    shall not be sentenced to a community residential sanction pursuant to Ohio
-    R.C. [2929.26][ORC Section 2929.26]; notwithstanding division (A)(2)(a) of
-    Ohio R.C. [2929.28][ORC Section 2929.28], the offender may be fined up to
-    one thousand dollars ($1,000); and, notwithstanding division (A)(3) of Ohio
-    R.C. [2929.27][ORC Section 2929.27], the offender may be ordered pursuant to
+    sentenced pursuant to Ohio R.C. [2929.21][ORC 2929.21] to [2929.28][ORC
+    2929.28], except that the offender shall not be sentenced to a jail term;
+    the offender shall not be sentenced to a community residential sanction
+    pursuant to Ohio R.C. [2929.26][ORC 2929.26]; notwithstanding division
+    (A)(2)(a) of Ohio R.C. [2929.28][ORC 2929.28], the offender may be fined up
+    to one thousand dollars ($1,000); and, notwithstanding division (A)(3) of
+    Ohio R.C. [2929.27][ORC 2929.27], the offender may be ordered pursuant to
     division (C) of that section to serve a term of community service of up to
     five hundred hours. The failure of an offender to complete a term of
     community service imposed by the court may be punished as indirect criminal
-    contempt under division (A) of Ohio R.C. [2705.02][ORC Section 2705.02] that
-    may be filed in the underlying case. If the offender previously has been
-    convicted of or pleaded guilty to any violation of Ohio R.C. [4510.12][ORC
-    Section 4510.12] or a substantially equivalent municipal ordinance, the
-    offense is a misdemeanor of the first degree.
+    contempt under division (A) of Ohio R.C. [2705.02][ORC 2705.02] that may be
+    filed in the underlying case. If the offender previously has been convicted
+    of or pleaded guilty to any violation of Ohio R.C. [4510.12][ORC 4510.12] or
+    a substantially equivalent municipal ordinance, the offense is a misdemeanor
+    of the first degree.
 
     2. _(2)_ If the offender's driver's or commercial driver's license or permit
     or, in a case involving the operation of a motorcycle by the offender, the
@@ -117,23 +117,23 @@ motorcycle without a valid license and shall be punished as follows:
     the offense, except as otherwise provided in this subsection, the offense is
     a minor misdemeanor. If, within three years of the offense, the offender
     previously has been convicted of or pleaded guilty to two or more violations
-    of Ohio R.C. [4510.12][ORC Section 4510.12] or a substantially equivalent
+    of Ohio R.C. [4510.12][ORC 4510.12] or a substantially equivalent
     municipal ordinance, the offense is a misdemeanor of the first degree.
 
 4. _(d)_ The court shall not impose a license suspension for a first violation
 of this section or if more than three years have passed since the offender's
-last violation of Ohio R.C. [4510.12][ORC Section 4510.12] or a substantially
+last violation of Ohio R.C. [4510.12][ORC 4510.12] or a substantially
 equivalent municipal ordinance.
 
 5. _(e)_ If the offender is sentenced under subsection (c)(2) hereof, if within
 three years of the offense the offender previously was convicted of or pleaded
-guilty to one or more violations of Ohio R.C. [4510.12][ORC Section 4510.12] or
+guilty to one or more violations of Ohio R.C. [4510.12][ORC 4510.12] or
 a substantially equivalent municipal ordinance, and if the offender's license
 was expired for more than six months at the time of the offense, the court may
 impose a class seven suspension of the offender's driver's license, commercial
 driver's license, temporary instruction permit, probationary license, or
 nonresident operating privilege from the range specified in division (A)(7) of
-Ohio R.C. [4510.02][ORC Section 4510.02].\
+Ohio R.C. [4510.02][ORC 4510.02].\
 (ORC 4510.12)
 
 ## 335.02   Permitting operation without valid license; one license permitted
@@ -142,8 +142,8 @@ Ohio R.C. [4510.02][ORC Section 4510.02].\
 or private property used by the public for purposes of vehicular travel or
 parking knowing the operator does not have a valid driver's license issued to
 the operator by the Registrar of Motor Vehicles or a Deputy Registrar under Ohio
-R.C. [Chapter 4507][ORC Chapter 4507] or a valid commercial driver's license
-issued under Ohio R.C. [Chapter 4506][ORC Chapter 4506].
+R.C. [Chapter 4507][ORC 4507] or a valid commercial driver's license
+issued under Ohio R.C. [Chapter 4506][ORC 4506].
 
 2. _(b)_
 
@@ -170,22 +170,21 @@ issued under Ohio R.C. [Chapter 4506][ORC Chapter 4506].
     1. _(1)_ Except as otherwise provided in this subsection, whoever violates
     subsection (a) hereof is guilty of an unclassified misdemeanor. When the
     offense is an unclassified misdemeanor, the offender shall be sentenced
-    pursuant to Ohio R.C. [2929.21][ORC Section 2929.21] to 2929.28, except that
-    the offender shall not be sentenced to a jail term; the offender shall not
-    be sentenced to a community residential sanction pursuant to Ohio R.C.
-    [2929.26][ORC Section 2929.26]; notwithstanding division (A)(2)(a) of Ohio
-    R.C. [2929.28][ORC Section 2929.28], the offender may be fined up to one
-    thousand dollars ($1,000) and, notwithstanding division (A)(3) of Ohio R.C.
-    [2929.27][ORC Section 2929.27], the offender may be ordered pursuant to
-    division (C) of that section to serve a term of community service of up to
-    five hundred hours. The failure of an offender to complete a term of
-    community service imposed by the court may be punished as indirect criminal
-    contempt under division (A) of Ohio R.C. [2705.02][ORC Section 2705.02] that
-    may be filed in the underlying case. If, within three years of the offense,
-    the offender previously has been convicted of or pleaded guilty to two or
-    more violations of Ohio R.C. [4507.02][ORC Section 4507.02] or a
-    substantially equivalent municipal ordinance, the offense is a misdemeanor
-    of the first degree.
+    pursuant to Ohio R.C. [2929.21][ORC 2929.21] to [2929.28][ORC 2929.28],
+    except that the offender shall not be sentenced to a jail term; the offender
+    shall not be sentenced to a community residential sanction pursuant to Ohio
+    R.C. [2929.26][ORC 2929.26]; notwithstanding division (A)(2)(a) of Ohio R.C.
+    [2929.28][ORC 2929.28], the offender may be fined up to one thousand dollars
+    ($1,000) and, notwithstanding division (A)(3) of Ohio R.C. [2929.27][ORC
+    2929.27], the offender may be ordered pursuant to division (C) of that
+    section to serve a term of community service of up to five hundred hours.
+    The failure of an offender to complete a term of community service imposed
+    by the court may be punished as indirect criminal contempt under division
+    (A) of Ohio R.C. [2705.02][ORC 2705.02] that may be filed in the underlying
+    case. If, within three years of the offense, the offender previously has
+    been convicted of or pleaded guilty to two or more violations of Ohio R.C.
+    [4507.02][ORC 4507.02] or a substantially equivalent municipal ordinance,
+    the offense is a misdemeanor of the first degree.
 
     2. _(2)_ Whoever violates subsection (b) hereof is guilty of a misdemeanor
     of the first degree.\
@@ -210,7 +209,7 @@ vehicle in this municipality under a license or permit issued by another state.
 
     2. _(2)_ The offense established under subsection (b)(1) of this section is
     a strict liability offense and strict liability is a culpable mental state
-    for purposes of Ohio R.C. [2901.20][ORC Section 2901.20]. The designation of
+    for purposes of Ohio R.C. [2901.20][ORC 2901.20]. The designation of
     this offense as a strict liability offense shall not be construed to imply
     that any other offense, for which there is no specified degree of
     culpability, is not a strict liability offense.
@@ -224,13 +223,13 @@ person to whom any of the following applies:
 
     2. _(2)_ The person is determined by the Registrar of Motor Vehicles to be a
     resident in accordance with standards adopted by the Registrar under Ohio
-    R.C. [4507.01][ORC Section 4507.01].\
+    R.C. [4507.01][ORC 4507.01].\
     (ORC 4507.213)
 
 ## 335.03   Driving with temporary instruction permit; curfew
 
 1. _(a)_ No holder of a temporary instruction permit issued under Ohio R.C.
-[4507.05(A)][ORC Section 4507.05] shall operate a motor vehicle upon a highway
+[4507.05(A)][ORC 4507.05] shall operate a motor vehicle upon a highway
 or any public or private property used by the public for purposes of vehicular
 travel or parking in violation of the following conditions:
 
@@ -244,7 +243,7 @@ travel or parking in violation of the following conditions:
         occupies the seat beside the permit holder and does not have a
         prohibited concentration of alcohol in the whole blood, blood serum or
         plasma, breath, or urine as provided in Ohio R.C. [4511.19(A)][ORC
-        Section 4511.19];
+        4511.19];
 
         3. _(C)_ The total number of occupants of the vehicle does not exceed
         the total number of occupant restraining devices originally installed in
@@ -262,7 +261,7 @@ travel or parking in violation of the following conditions:
         least twenty-one years of age and is actually occupying a seat beside
         the driver and does not have a prohibited concentration of alcohol in
         the whole blood, blood serum or plasma, breath, or urine as provided in
-        Ohio R.C. [4511.19(A)][ORC Section 4511.19];
+        Ohio R.C. [4511.19(A)][ORC 4511.19];
 
         3. _(C)_ The total number of occupants of the vehicle does not exceed
         the total number of occupant restraining devices originally installed in
@@ -271,14 +270,12 @@ travel or parking in violation of the following conditions:
         restraining device.
 
 2. _(b)_ Except as provided in subsection (b) hereof, no holder of a temporary
-instruction permit that is issued under Ohio R.C. [4507.05(A)][ORC Section
-4507.05] and that is issued on or after July 1, 1998, and who has not attained
+instruction permit that is issued under Ohio R.C. [4507.05(A)][ORC 4507.05] and that is issued on or after July 1, 1998, and who has not attained
 the age of eighteen years, shall operate a motor vehicle upon a highway or any
 public or private property used by the public for purposes of vehicular travel
 or parking between the hours of midnight and six a.m.
 
-    The holder of a permit issued under Ohio R.C. [4507.05(A)][ORC Section
-    4507.05] on or after July 1, 1998, who has not attained the age of eighteen
+    The holder of a permit issued under Ohio R.C. [4507.05(A)][ORC 4507.05] on or after July 1, 1998, who has not attained the age of eighteen
     years, may operate a motor vehicle upon a highway or any public or private
     property used by the public for purposes of vehicular travel or parking
     between the hours of midnight and six a.m. if, at the time of such
@@ -306,7 +303,7 @@ or parking between the hours of midnight and six a.m.
             parentis of the permit holder.
 
     2. _(2)_ "Occupant restraining device" has the same meaning as in Ohio R.C.
-    [4513.263][ORC Section 4513.263].
+    [4513.263][ORC 4513.263].
 
 4. _(d)_ Whoever violates this section is guilty of a minor misdemeanor.\
 (ORC 4507.05)
@@ -456,7 +453,7 @@ prosecution of a person for such violation.
 7. _(g)_ As used in this section:
 
     1. _(1)_ "Occupant restraining device" has the same meaning as in Ohio R.C.
-    [4513.263][ORC Section 4513.263].
+    [4513.263][ORC 4513.263].
 
     2. _(2)_ "Family member" of a probationary license holder includes any of
     the following:
@@ -477,12 +474,12 @@ prosecution of a person for such violation.
         holder;
 
         7. _(G)_ An eligible adult, as defined in Ohio R.C. [4507.05][ORC
-        Section 4507.05].
+        4507.05].
 
     3. _(3)_ "Moving violation" means any violation of any statute or ordinance
     that regulates the operation of vehicles, streetcars, or trackless trolleys
     on the highways or streets. "Moving violation" does not include a violation
-    of Ohio R.C. [4513.263][ORC Section 4513.263] or a substantially equivalent
+    of Ohio R.C. [4513.263][ORC 4513.263] or a substantially equivalent
     municipal ordinance, or a violation of any statute or ordinance regulating
     pedestrians or the parking of vehicles, vehicle size or load limitations,
     vehicle fitness requirements, or vehicle registration.
@@ -528,14 +525,14 @@ following:
     driver's license or permit for a definite period of one year.
 
 4. _(d)_ The filing of a sworn complaint against a person for a violation of
-Ohio R.C. [4511.205][ORC Section 4511.205] does not preclude the filing of a
+Ohio R.C. [4511.205][ORC 4511.205] does not preclude the filing of a
 sworn complaint for a violation of a substantially equivalent municipal
 ordinance for the same conduct. However, if a person is adjudicated a delinquent
 child or a juvenile traffic offender for a violation of Ohio R.C. [4511.205][ORC
-Section 4511.205] and is also adjudicated a delinquent child or a juvenile
+4511.205] and is also adjudicated a delinquent child or a juvenile
 traffic offender for a violation of a substantially equivalent municipal
 ordinance for the same conduct, the two offenses are allied offenses of similar
-import under Ohio R.C. [2941.25][ORC Section 2941.25].
+import under Ohio R.C. [2941.25][ORC 2941.25].
 
 5. _(e)_ As used in this section, "electronic wireless communications device"
 includes any of the following:
@@ -582,8 +579,7 @@ includes any of the following:
     commercial driver's license, temporary instruction permit or commercial
     driver's license temporary instruction permit, or any renewal, reprint, or
     duplicate thereof, knowingly conceal a material fact, or present any
-    physician's statement required under Ohio R.C. [4507.08][ORC Section
-    4507.08] or 4507.081 when knowing the same to be false or fictitious.
+    physician's statement required under Ohio R.C. [4507.08][ORC 4507.08] or 4507.081 when knowing the same to be false or fictitious.
 
 2. _(b)_ Whoever violates this section is guilty of a misdemeanor of the first
 degree.\
@@ -601,20 +597,19 @@ person's control to be driven by another if any of the following apply:
     2. _(2)_ The offender knows or has reasonable cause to believe that the
     other person's driver's or commercial driver's license or permit or
     nonresident operating privileges have been suspended or canceled under Ohio
-    R.C. [Chapter 4510][ORC Chapter 4510], or any other provision of the Ohio
+    R.C. [Chapter 4510][ORC 4510], or any other provision of the Ohio
     Revised Code or this Traffic Code.
 
     3. _(3)_ The offender knows or has reasonable cause to believe that the
     other person's act of driving the motor vehicle would violate any
-    prohibition contained in Ohio R.C. [Chapter 4509][ORC Chapter 4509].
+    prohibition contained in Ohio R.C. [Chapter 4509][ORC 4509].
 
     4. _(4)_ The offender knows or has reasonable cause to believe that the
-    other person's act of driving would violate Ohio R.C. [4511.19][ORC Section
-    4511.19] or any substantially equivalent municipal ordinance.
+    other person's act of driving would violate Ohio R.C. [4511.19][ORC 4511.19] or any substantially equivalent municipal ordinance.
 
     5. _(5)_ The offender knows or has reasonable cause to believe that the
     vehicle is the subject of an immobilization waiver order issued under Ohio
-    R.C. [4503.235][ORC Section 4503.235] and the other person is prohibited
+    R.C. [4503.235][ORC 4503.235] and the other person is prohibited
     from operating the vehicle under that order.
 
 2. _(b)_ Without limiting or precluding the consideration of any other evidence
@@ -650,25 +645,25 @@ this section.
     1. _(1)_ Except as provided in subsection (c)(2) of this section, whoever
     violates subsection (a)(1), (2) or (3) of this section is guilty of an
     unclassified misdemeanor. When the offense is an unclassified misdemeanor,
-    the offender shall be sentenced pursuant to Ohio R.C. [2929.21][ORC Section
-    2929.21] to 2929.28, except that the offender shall not be sentenced to a
-    jail term; the offender shall not be sentenced to a community residential
-    sanction pursuant to Ohio R.C. [2929.26][ORC Section 2929.26];
-    notwithstanding division (A)(2)(a) of Ohio R.C. [2929.28][ORC Section
-    2929.28], the offender may be fined up to one thousand dollars ($1,000);
-    and, notwithstanding division (A)(3) of Ohio R.C. [2929.27][ORC Section
-    2929.27], the offender may be ordered pursuant to division (C) of that
-    section to serve a term of community service of up to five hundred hours.
-    The failure of an offender to complete a term of community service imposed
-    by the court may be punished as indirect criminal contempt under division
-    (A) of Ohio R.C. [2705.02][ORC Section 2705.02].
+    the offender shall be sentenced pursuant to Ohio R.C. [2929.21][ORC 2929.21]
+    to [2929.28][ORC 2929.28], except that the offender shall not be sentenced
+    to a jail term; the offender shall not be sentenced to a community
+    residential sanction pursuant to Ohio R.C. [2929.26][ORC 2929.26];
+    notwithstanding division (A)(2)(a) of Ohio R.C. [2929.28][ORC 2929.28], the
+    offender may be fined up to one thousand dollars ($1,000); and,
+    notwithstanding division (A)(3) of Ohio R.C. [2929.27][ORC 2929.27], the
+    offender may be ordered pursuant to division (C) of that section to serve a
+    term of community service of up to five hundred hours. The failure of an
+    offender to complete a term of community service imposed by the court may be
+    punished as indirect criminal contempt under division (A) of Ohio R.C.
+    [2705.02][ORC 2705.02].
 
     2. _(2)_
 
         1. _(A)_ If, within three years of a violation of subsection (a)(1), (2)
         or (3) of this section, the offender previously has pleaded guilty to or
         been convicted of two or more violations of division (A)(1), (2) or (3)
-        of Ohio R.C. [4511.203][ORC Section 4511.203] or a substantially
+        of Ohio R.C. [4511.203][ORC 4511.203] or a substantially
         equivalent municipal ordinance, the offender is guilty of a misdemeanor
         of the first degree.
 
@@ -680,7 +675,7 @@ this section.
     seven suspension of the offender's driver's license, commercial driver's
     license, temporary instruction permit, probationary license or nonresident
     operating privilege from the range specified in division (A)(7) of Ohio R.C.
-    [4510.02][ORC Section 4510.02], and, if the vehicle involved in the offense
+    [4510.02][ORC 4510.02], and, if the vehicle involved in the offense
     is registered in the name of the offender, the court may order one of the
     following:
 
@@ -688,30 +683,29 @@ this section.
         this section, the court may order, for thirty days, the immobilization
         of the vehicle involved in the offense and the impoundment of that
         vehicle's license plates. If issued, the order shall be issued and
-        enforced under Ohio R.C. [4503.233][ORC Section 4503.233].
+        enforced under Ohio R.C. [4503.233][ORC 4503.233].
 
         2. _(B)_ If the offender previously has been convicted of or pleaded
-        guilty to one violation of Ohio R.C. [4511.203][ORC Section 4511.203] or
+        guilty to one violation of Ohio R.C. [4511.203][ORC 4511.203] or
         a substantially equivalent municipal ordinance, the court may order, for
         sixty days, the immobilization of the vehicle involved in the offense
         and the impoundment of that vehicle's license plates. If issued, the
         order shall be issued and enforced under Ohio R.C. [4503.233][ORC
-        Section 4503.233].
+        4503.233].
 
         3. _(C)_ If the offender previously has been convicted of or pleaded
-        guilty to two or more violations of Ohio R.C. [4511.203][ORC Section
-        4511.203] or a substantially equivalent municipal ordinance, the court
+        guilty to two or more violations of Ohio R.C. [4511.203][ORC 4511.203] or a substantially equivalent municipal ordinance, the court
         may order the criminal forfeiture to the state of the vehicle involved
         in the offense. If issued, the order shall be issued and enforced under
-        Ohio R.C. [4503.234][ORC Section 4503.234]. If title to a motor vehicle
+        Ohio R.C. [4503.234][ORC 4503.234]. If title to a motor vehicle
         that is subject to an order for criminal forfeiture under this
         subsection is assigned or transferred and division (B)(2) or (3) of Ohio
-        R.C. [4503.234][ORC Section 4503.234] applies, in addition to or
+        R.C. [4503.234][ORC 4503.234] applies, in addition to or
         independent of any other penalty established by law, the court may fine
         the offender the value of the vehicle as determined by publications of
         the national automobile dealer's association. The proceeds from any fine
         imposed under this subsection shall be distributed in accordance with
-        division (C)(2) of Ohio R.C. [4503.234][ORC Section 4503.234].
+        division (C)(2) of Ohio R.C. [4503.234][ORC 4503.234].
 
 4. _(d)_ If a court orders the immobilization of a vehicle under subsection (c)
 of this section, the court shall not release the vehicle from the immobilization
@@ -733,7 +727,7 @@ a vehicle owned or leased by the person or to transfer the registration of the
 vehicle.
 
 6. _(f)_ This section does not apply to motor vehicle rental dealers or motor
-vehicle leasing dealers, as defined in Ohio R.C. [4549.65][ORC Section 4549.65].
+vehicle leasing dealers, as defined in Ohio R.C. [4549.65][ORC 4549.65].
 
 7. _(g)_ Evidence of a conviction of, plea of guilty to, or adjudication as a
 delinquent child for a violation of this section or a substantially similar
@@ -756,7 +750,7 @@ collision in which the licensee may be involved. When a demand is properly made
 and the operator has the operator's driver's license on or about the operator's
 person, the operator shall not refuse to display the license. A person's failure
 to furnish satisfactory evidence that the person is licensed under Ohio R.C.
-[Chapter 4507][ORC Chapter 4507] when the person does not have the person's
+[Chapter 4507][ORC 4507] when the person does not have the person's
 license on or about the person's person shall be prima- facie evidence of the
 person's not having obtained a driver's license.
 
@@ -765,22 +759,22 @@ person's not having obtained a driver's license.
     1. _(1)_ Except as provided in subsection (b)(2) hereof, whoever violates
     this section is guilty of an unclassified misdemeanor. When the offense is
     an unclassified misdemeanor, the offender shall be sentenced pursuant to
-    Ohio R.C. [2929.21][ORC Section 2929.21] to 2929.28, except that the
+    Ohio R.C. [2929.21][ORC 2929.21] to [2929.28][ORC 2929.28], except that the
     offender shall not be sentenced to a jail term; the offender shall not be
     sentenced to a community residential sanction pursuant to Ohio R.C.
-    [2929.26][ORC Section 2929.26]; notwithstanding division (A)(2)(a) of Ohio
-    R.C. [2929.28][ORC Section 2929.28], the offender may be fined up to one
-    thousand dollars ($1,000); and, notwithstanding division (A)(3) of Ohio R.C.
-    [2929.27][ORC Section 2929.27], the offender may be ordered pursuant to
-    division (C) of that section to serve a term of community service of up to
-    five hundred hours. The failure of an offender to complete a term of
-    community service imposed by the court may be punished as indirect criminal
-    contempt under division (A) of Ohio R.C. [2705.02][ORC Section 2705.02] that
-    may be filed in the underlying case.
+    [2929.26][ORC 2929.26]; notwithstanding division (A)(2)(a) of Ohio R.C.
+    [2929.28][ORC 2929.28], the offender may be fined up to one thousand dollars
+    ($1,000); and, notwithstanding division (A)(3) of Ohio R.C. [2929.27][ORC
+    2929.27], the offender may be ordered pursuant to division (C) of that
+    section to serve a term of community service of up to five hundred hours.
+    The failure of an offender to complete a term of community service imposed
+    by the court may be punished as indirect criminal contempt under division
+    (A) of Ohio R.C. [2705.02][ORC 2705.02] that may be filed in the underlying
+    case.
 
     2. _(2)_ If, within three years of the offense, the offender previously has
     been convicted of or pleaded guilty to two or more violations of Ohio R.C.
-    [4507.35][ORC Section 4507.35] or a substantially equivalent municipal
+    [4507.35][ORC 4507.35] or a substantially equivalent municipal
     ordinance, the offense is a misdemeanor of the first degree.\
     (ORC 4507.35)
 
@@ -789,7 +783,7 @@ person's not having obtained a driver's license.
 1. _(a)_ Except as provided under subsection (b) hereof and Sections 335.072 and
 335.074, no person whose driver's or commercial driver's license or permit or
 nonresident operating privilege has been suspended under any provision of the
-Ohio Revised Code, other than Ohio R.C. [Chapter 4509][ORC Chapter 4509], or
+Ohio Revised Code, other than Ohio R.C. [Chapter 4509][ORC 4509], or
 under any applicable law in any other jurisdiction in which the person's license
 or permit was issued shall operate any motor vehicle upon the public roads and
 highways or upon any public or private property used by the public for purposes
@@ -802,8 +796,8 @@ privileges.
 or private property used by the public for purposes of vehicular travel or
 parking in this Municipality in violation of any restriction of the person's
 driver's or commercial driver's license or permit imposed under division (D) of
-Ohio R.C. [4506.10][ORC Section 4506.10] or under Ohio R.C. [4507.14][ORC
-Section 4507.14].
+Ohio R.C. [4506.10][ORC 4506.10] or under Ohio R.C. [4507.14][ORC
+4507.14].
 
 3. _(c)_ Upon the request or motion of the prosecuting authority, a noncertified
 copy of the law enforcement automated data system report or a noncertified copy
@@ -824,7 +818,7 @@ this prima-facie evidence.
     class seven suspension of the offender's driver's license, commercial
     driver's license, temporary instruction permit, probationary license, or
     nonresident operating privilege from the range specified in division (A)(7)
-    of Ohio R.C. [4510.02][ORC Section 4510.02].
+    of Ohio R.C. [4510.02][ORC 4510.02].
 
     2. _(2)_
 
@@ -833,44 +827,43 @@ this prima-facie evidence.
         the offender and if the vehicle is registered in the offender's name and
         if, within three years of the offense, the offender previously has been
         convicted of or pleaded guilty to one violation of Ohio R.C.
-        [4510.11][ORC Section 4510.11] or Ohio R.C. [4510.111][ORC Section
-        4510.111] or 4510.16, or a substantially equivalent municipal ordinance,
+        [4510.11][ORC 4510.11] or Ohio R.C. [4510.111][ORC 4510.111] or 4510.16, or a substantially equivalent municipal ordinance,
         the court, in addition to or independent of any other sentence that it
         imposes upon the offender, may order the immobilization of the vehicle
         involved in the offense for thirty days and the impoundment of that
         vehicle's license plates for thirty days in accordance with Ohio R.C.
-        [4503.233][ORC Section 4503.233].
+        [4503.233][ORC 4503.233].
 
         2. _(B)_ If the vehicle is registered in the offender's name and if,
         within three years of the offense, the offender previously has been
         convicted of or pleaded guilty to two violations of Ohio R.C.
-        [4510.11][ORC Section 4510.11] or any combination of two violations of
-        Ohio R.C. [4510.11][ORC Section 4510.11] or Ohio R.C. [4510.111][ORC
-        Section 4510.111] or 4510.16, or of a substantially similar municipal
+        [4510.11][ORC 4510.11] or any combination of two violations of
+        Ohio R.C. [4510.11][ORC 4510.11] or Ohio R.C. [4510.111][ORC
+        4510.111] or 4510.16, or of a substantially similar municipal
         ordinance, the court, in addition to any other sentence that it imposes
         on the offender may order the immobilization of the vehicle involved in
         the offense for sixty days and the impoundment of that vehicle's license
         plates for sixty days in accordance with Ohio R.C. [4503.233][ORC
-        Section 4503.233].
+        4503.233].
 
         3. _(C)_ If the vehicle is registered in the offender's name and if,
         within three years of the offense, the offender previously has been
         convicted of or pleaded guilty to three or more violations of Ohio R.C.
-        [4510.11][ORC Section 4510.11], or any combination of three or more
-        violations of Ohio R.C. [4501.11][ORC Section 4501.11] or Ohio R.C.
-        [4510.111][ORC Section 4510.111] or 4510.16, or of a substantially
+        [4510.11][ORC 4510.11], or any combination of three or more
+        violations of Ohio R.C. [4501.11][ORC 4501.11] or Ohio R.C.
+        [4510.111][ORC 4510.111] or 4510.16, or of a substantially
         similar municipal ordinance, the court, in addition to any other
         sentence that it imposes on the offender may order the criminal
         forfeiture of the vehicle involved in the offense to the State.
 
 5. _(e)_ Any order for immobilization and impoundment under this section shall
-be issued and enforced under Ohio R.C. [4503.233][ORC Section 4503.233] and
+be issued and enforced under Ohio R.C. [4503.233][ORC 4503.233] and
 4507.02, as applicable. The court shall not release a vehicle from
 immobilization ordered under this section unless the court is presented with
 current proof of financial responsibility with respect to that vehicle.
 
 6. _(f)_ Any order of criminal forfeiture under this section shall be issued and
-enforced under Ohio R.C. [4503.234][ORC Section 4503.234]. Upon receipt of the
+enforced under Ohio R.C. [4503.234][ORC 4503.234]. Upon receipt of the
 copy of the order from the court, neither the Ohio Registrar of Motor Vehicles
 nor a deputy registrar shall accept any application for the registration or
 transfer of registration of any motor vehicle owned or leased by the person
@@ -882,10 +875,10 @@ then take necessary measures to permit the person to register a vehicle owned or
 leased by the person or to transfer registration of the vehicle.
 
 7. _(g)_ The offender shall provide the court with proof of financial
-responsibility as defined in Ohio R.C. [4509.01][ORC Section 4509.01]. If the
+responsibility as defined in Ohio R.C. [4509.01][ORC 4509.01]. If the
 offender fails to provide that proof of financial responsibility, then, in
 addition to any other penalties provided by law, the court may order restitution
-pursuant to Ohio R.C. [2929.28][ORC Section 2929.28] in an amount not exceeding
+pursuant to Ohio R.C. [2929.28][ORC 2929.28] in an amount not exceeding
 five thousand dollars ($5,000) for any economic loss arising from an accident or
 collision that was the direct and proximate result of the offender's operation
 of the vehicle before, during, or after committing the offense for which the
@@ -905,14 +898,13 @@ first three days of jail time imposed pursuant to this subsection.\
 
 1. _(a)_ No person whose driver's or commercial driver's license or permit or
 nonresident operating privilege has been suspended under Ohio R.C. [4511.19][ORC
-Section 4511.19], 4511.191, or 4511.196 or under Ohio R.C. [4510.07][ORC Section
-4510.07] for a conviction of a violation of a municipal OVI ordinance shall
+4511.19], 4511.191, or 4511.196 or under Ohio R.C. [4510.07][ORC 4510.07] for a conviction of a violation of a municipal OVI ordinance shall
 operate any motor vehicle upon the public roads or highways within this
 Municipality during the period of the suspension.
 
 2. _(b)_ Whoever violates this section is guilty of driving under OVI
 suspension. The court shall sentence the offender under Ohio R.C. [Chapter
-2929][ORC Chapter 2929], subject to the differences authorized or required by
+2929][ORC 2929], subject to the differences authorized or required by
 this section.
 
     1. _(1)_ Except as otherwise provided in subsection (b)(2) or (3) of this
@@ -940,7 +932,7 @@ this section.
     first degree. The court shall sentence the offender to all of the following:
 
         1. _(A)_ A mandatory jail term of ten consecutive days. Notwithstanding
-        the jail terms provided in Ohio R.C. [Chapter 2929][ORC Chapter 2929],
+        the jail terms provided in Ohio R.C. [Chapter 2929][ORC 2929],
         the court may sentence the offender to a longer jail term of not more
         than one year. The ten-day mandatory jail term shall be imposed unless,
         subject to subsection (c) of this section, the court instead imposes a
@@ -949,7 +941,7 @@ this section.
         monitoring shall not exceed one year.
 
         2. _(B)_ Notwithstanding the fines provided for in Ohio R.C. [Chapter
-        2929][ORC Chapter 2929], a fine of not less than five hundred dollars
+        2929][ORC 2929], a fine of not less than five hundred dollars
         ($500.00) and not more than two thousand five hundred dollars ($2,500).
 
         3. _(C)_ A license suspension under subsection (e) of this section.
@@ -962,13 +954,13 @@ this section.
 
         1. _(A)_ A mandatory jail term of thirty consecutive days.
         Notwithstanding the jail terms provided in Ohio R.C. [Chapter 2929][ORC
-        Chapter 2929], the court may sentence the offender to a longer jail term
+        2929], the court may sentence the offender to a longer jail term
         of not more than one year. The court shall not sentence the offender to
         a term of house arrest with electronic monitoring in lieu of the
         mandatory portion of the jail term.
 
         2. _(B)_ Notwithstanding the fines set forth in Ohio R.C. [Chapter
-        2929][ORC Chapter 2929], a fine of not less than five hundred dollars
+        2929][ORC 2929], a fine of not less than five hundred dollars
         ($500.00) and not more than two thousand five hundred dollars ($2,500).
 
         3. _(C)_ A license suspension under subsection (e) of this section.
@@ -988,39 +980,39 @@ of sentencing.
 (2) or (3) of this section shall be deposited into the county indigent drivers
 alcohol treatment fund or municipal indigent drivers alcohol treatment fund
 under the control of that court, as created by the county or municipal
-corporation pursuant to division (H) of Ohio R.C. [4511.191][ORC Section 4511.191].
+corporation pursuant to division (H) of Ohio R.C. [4511.191][ORC 4511.191].
 
 5. _(e)_ In addition to or independent of all other penalties provided by law or
 ordinance, the trial judge of any court of record or the mayor of a mayor's
 court shall impose on an offender who is convicted of or pleads guilty to a
 violation of this section a class seven suspension of the offender's driver's or
 commercial driver's license or permit or nonresident operating privilege from
-the range specified in division (A)(7) of Ohio R.C. [4510.02][ORC Section 4510.02].
+the range specified in division (A)(7) of Ohio R.C. [4510.02][ORC 4510.02].
 
-    When permitted as specified in Ohio R.C. [4510.021][ORC Section 4510.021],
+    When permitted as specified in Ohio R.C. [4510.021][ORC 4510.021],
     if the court grants limited driving privileges during a suspension imposed
     under this section, the privileges shall be granted on the additional
     condition that the offender must display restricted license plates, issued
-    under Ohio R.C. [4503.231][ORC Section 4503.231], on the vehicle driven
+    under Ohio R.C. [4503.231][ORC 4503.231], on the vehicle driven
     subject to the privileges, except as provided in division (B) of that
     section.
 
     A suspension of a commercial driver's license under this section shall be
     concurrent with any period of suspension or disqualification under Ohio R.C.
-    [3123.58][ORC Section 3123.58] or 4506.16. No person who is disqualified for
+    [3123.58][ORC 3123.58] or 4506.16. No person who is disqualified for
     life from holding a commercial driver's license under Ohio R.C.
-    [4506.16][ORC Section 4506.16] shall be issued a driver's license under Ohio
-    R.C. [Chapter 4507][ORC Chapter 4507] during the period for which the
+    [4506.16][ORC 4506.16] shall be issued a driver's license under Ohio
+    R.C. [Chapter 4507][ORC 4507] during the period for which the
     commercial driver's license was suspended under this section, and no person
     whose commercial driver's license is suspended under this section shall be
-    issued a driver's license under Ohio R.C. [Chapter 4507][ORC Chapter 4507]
+    issued a driver's license under Ohio R.C. [Chapter 4507][ORC 4507]
     during the period of the suspension.
 
 6. _(f)_ The offender shall provide the court with proof of financial
-responsibility as defined in Ohio R.C. [4509.01][ORC Section 4509.01]. If the
+responsibility as defined in Ohio R.C. [4509.01][ORC 4509.01]. If the
 offender fails to provide that proof of financial responsibility, then, in
 addition to any other penalties provided by law, the court may order restitution
-pursuant to Ohio R.C. [2929.28][ORC Section 2929.28] in an amount not exceeding
+pursuant to Ohio R.C. [2929.28][ORC 2929.28] in an amount not exceeding
 five thousand dollars ($5,000) for any economic loss arising from an accident or
 collision that was the direct and proximate result of the offender's operation
 of the vehicle before, during, or after committing the offense that is a
@@ -1032,49 +1024,46 @@ sentenced.\
 
     1. _(1)_ If a person is convicted of or pleads guilty to a violation of a
     municipal ordinance that is substantially equivalent to Ohio R.C.
-    [4510.14][ORC Section 4510.14], the court, in addition to and independent of
+    [4510.14][ORC 4510.14], the court, in addition to and independent of
     any sentence that it imposes upon the offender for the offense, if the
     vehicle the offender was operating at the time of the offense is registered
     in the offender's name, shall do whichever of the following is applicable:
 
         1. _(A)_ If, within six years of the current offense, the offender has
         not been convicted of or pleaded guilty to a violation of Ohio R.C.
-        [4510.14][ORC Section 4510.14] or former division (D)(2) of Ohio R.C.
-        [4507.02][ORC Section 4507.02], or a municipal ordinance that is
+        [4510.14][ORC 4510.14] or former division (D)(2) of Ohio R.C.
+        [4507.02][ORC 4507.02], or a municipal ordinance that is
         substantially equivalent to that section or former division, the court
         shall order the immobilization for thirty days of the vehicle involved
         in the offense and the impoundment for thirty days of the license plates
-        of that vehicle in accordance with Ohio R.C. [4503.233][ORC Section
-        4503.233].
+        of that vehicle in accordance with Ohio R.C. [4503.233][ORC 4503.233].
 
         2. _(B)_ If, within six years of the current offense, the offender has
         been convicted of or pleaded guilty to one violation of Ohio R.C.
-        [4510.14][ORC Section 4510.14] or former division (D)(2) of Ohio R.C.
-        [4507.02][ORC Section 4507.02], or a municipal ordinance that is
+        [4510.14][ORC 4510.14] or former division (D)(2) of Ohio R.C.
+        [4507.02][ORC 4507.02], or a municipal ordinance that is
         substantially equivalent to that section or former division, the court
         shall order the immobilization for sixty days of the vehicle involved in
         the offense and the impoundment for sixty days of the license plates of
-        that vehicle in accordance with Ohio R.C. [4503.233][ORC Section
-        4503.233].
+        that vehicle in accordance with Ohio R.C. [4503.233][ORC 4503.233].
 
         3. _(C)_ If, within six years of the current offense, the offender has
         been convicted of or pleaded guilty to two or more violations of Ohio
-        R.C. [4510.14][ORC Section 4510.14] or former division (D)(2) of Ohio
-        R.C. [4507.02][ORC Section 4507.02] or a municipal ordinance that is
+        R.C. [4510.14][ORC 4510.14] or former division (D)(2) of Ohio
+        R.C. [4507.02][ORC 4507.02] or a municipal ordinance that is
         substantially equivalent to that section or former division, the court
         shall order the criminal forfeiture to the State of the vehicle the
         offender was operating at the time of the offense.
 
     2. _(2)_ An order for immobilization and impoundment of a vehicle under this
     section shall be issued and enforced in accordance with Ohio R.C.
-    [4503.233][ORC Section 4503.233] and 4507.02, as applicable. The court shall
+    [4503.233][ORC 4503.233] and 4507.02, as applicable. The court shall
     not release a vehicle from immobilization ordered under this section unless
     the court is presented with current proof of financial responsibility with
     respect to that vehicle.
 
     3. _(3)_ An order for criminal forfeiture of a vehicle under this section
-    shall be issued and enforced under Ohio R.C. [4503.234][ORC Section
-    4503.234]. Upon receipt of a copy of the order from the court, neither the
+    shall be issued and enforced under Ohio R.C. [4503.234][ORC 4503.234]. Upon receipt of a copy of the order from the court, neither the
     Registrar of Motor Vehicles nor a Deputy Registrar shall accept any
     application for the registration or transfer of registration of any motor
     vehicle owned or leased by the person named in the declaration of
@@ -1089,7 +1078,7 @@ sentenced.\
 8. _(h)_ As used in this section:
 
     1. _(1)_ "Electronic monitoring" has the same meaning as in Ohio R.C.
-    [2929.01][ORC Section 2929.01].
+    [2929.01][ORC 2929.01].
 
     2. _(2)_ "Equivalent offense" means any of the following:
 
@@ -1100,8 +1089,7 @@ sentenced.\
         2. _(B)_ A violation of a former law of this State that was
         substantially equivalent to subsection (a) of this section.
 
-    3. _(3)_ "Jail" has the same meaning as in Ohio R.C. [2929.01][ORC Section
-    2929.01].
+    3. _(3)_ "Jail" has the same meaning as in Ohio R.C. [2929.01][ORC 2929.01].
 
     4. _(4)_ "Mandatory jail term" means the mandatory term in jail of three,
     ten, or thirty consecutive days that must be imposed under subsection
@@ -1121,16 +1109,16 @@ sentenced.\
 
 1. _(a)_ No person, whose driver's or commercial driver's license or temporary
 instruction permit or nonresident's operating privilege has been suspended or
-canceled pursuant to Ohio R.C. [Chapter 4509][ORC Chapter 4509], shall operate
+canceled pursuant to Ohio R.C. [Chapter 4509][ORC 4509], shall operate
 any motor vehicle within this Municipality, or knowingly permit any motor
 vehicle owned by the person to be operated by another person in the
 Municipality, during the period of the suspension or cancellation, except as
-specifically authorized by Ohio R.C. [Chapter 4509][ORC Chapter 4509]. No person
+specifically authorized by Ohio R.C. [Chapter 4509][ORC 4509]. No person
 shall operate a motor vehicle within this Municipality, or knowingly permit any
 motor vehicle owned by the person to be operated by another person in the
 Municipality, during the period in which the person is required by Ohio R.C.
-[4509.45][ORC Section 4509.45] to file and maintain proof of financial
-responsibility for a violation of Ohio R.C. [4509.101][ORC Section 4509.101],
+[4509.45][ORC 4509.45] to file and maintain proof of financial
+responsibility for a violation of Ohio R.C. [4509.101][ORC 4509.101],
 unless proof of financial responsibility is maintained with respect to that
 vehicle.
 
@@ -1138,7 +1126,7 @@ vehicle.
 or private property used by the public for purposes of vehicular travel or
 parking in this Municipality if the person's driver's or commercial driver's
 license or temporary instruction permit or nonresident operating privilege has
-been suspended pursuant to Ohio R.C. [4509.37][ORC Section 4509.37] or 4509.40
+been suspended pursuant to Ohio R.C. [4509.37][ORC 4509.37] or 4509.40
 for nonpayment of a judgment.
 
 3. _(c)_ Upon the request or motion of the prosecuting authority, a noncertified
@@ -1162,31 +1150,31 @@ and shall be punished as provided in subsection (d) hereof.
     1. _(1)_ Except as otherwise provided in subsection (d)(2) of this section,
     the offense is an unclassified misdemeanor. When the offense is an
     unclassified misdemeanor, the offender shall be sentenced pursuant to Ohio
-    R.C. [2929.21][ORC Section 2929.21] to 2929.28, except that the offender
-    shall not be sentenced to a jail term; the offender shall not be sentenced
-    to a community residential sanction pursuant to Ohio R.C. [2929.26][ORC
-    Section 2929.26]; notwithstanding division (A)(2)(a) of Ohio R.C.
-    [2929.28][ORC Section 2929.28], the offender may be fined up to one thousand
-    dollars ($1,000); and, notwithstanding division (A)(3) of Ohio R.C.
-    [2929.27][ORC Section 2929.27], the offender may be ordered pursuant to
-    division (C) of that section to serve a term of community service of up to
-    five hundred hours. The failure of an offender to complete a term of
-    community service imposed by the court may be punished as indirect criminal
-    contempt under division (A) of Ohio R.C. [2705.02][ORC Section 2705.02] that
-    may be filed in the underlying case.
+    R.C. [2929.21][ORC 2929.21] to [2929.28][ORC 2929.28], except that the
+    offender shall not be sentenced to a jail term; the offender shall not be
+    sentenced to a community residential sanction pursuant to Ohio R.C.
+    [2929.26][ORC 2929.26]; notwithstanding division (A)(2)(a) of Ohio R.C.
+    [2929.28][ORC 2929.28], the offender may be fined up to one thousand dollars
+    ($1,000); and, notwithstanding division (A)(3) of Ohio R.C. [2929.27][ORC
+    2929.27], the offender may be ordered pursuant to division (C) of that
+    section to serve a term of community service of up to five hundred hours.
+    The failure of an offender to complete a term of community service imposed
+    by the court may be punished as indirect criminal contempt under division
+    (A) of Ohio R.C. [2705.02][ORC 2705.02] that may be filed in the underlying
+    case.
 
     2. _(2)_ If, within three years of the offense, the offender previously was
     convicted of or pleaded guilty to two or more violations of Ohio R.C.
-    [4510.16][ORC Section 4510.16], or any combination of two violations of Ohio
-    R.C. [4510.16][ORC Section 4510.16] or Ohio R.C. [4510.11][ORC Section
-    4510.11] or 4510.111, or a substantially equivalent municipal ordinance, the
-    offense is a misdemeanor of the fourth degree.
+    [4510.16][ORC 4510.16], or any combination of two violations of Ohio R.C.
+    [4510.16][ORC 4510.16] or Ohio R.C. [4510.11][ORC 4510.11] or 4510.111, or a
+    substantially equivalent municipal ordinance, the offense is a misdemeanor
+    of the fourth degree.
 
     3. _(3)_ The offender shall provide the court with proof of financial
-    responsibility as defined in Ohio R.C. [4509.01][ORC Section 4509.01]. If
+    responsibility as defined in Ohio R.C. [4509.01][ORC 4509.01]. If
     the offender fails to provide that proof of financial responsibility, then
     in addition to any other penalties provided by law, the court may order
-    restitution pursuant to Ohio R.C. [2929.28][ORC Section 2929.28] in an
+    restitution pursuant to Ohio R.C. [2929.28][ORC 2929.28] in an
     amount not exceeding five thousand dollars ($5,000) for any economic loss
     arising from an accident or collision that was the direct and proximate
     result of the offender's operation of the vehicle before, during or after
@@ -1195,12 +1183,12 @@ and shall be punished as provided in subsection (d) hereof.
     (ORC 4510.16)
 
 5. _(e)_ No person who has knowingly failed to maintain proof of financial
-responsibility in accordance with Ohio R.C. [4509.101][ORC Section 4509.101]
+responsibility in accordance with Ohio R.C. [4509.101][ORC 4509.101]
 shall produce any document or present to a peace officer an electronic wireless
 communications device that is displaying any text or images with the purpose to
 mislead a peace officer upon the request of a peace officer for proof of
 financial responsibility made in accordance with Ohio R.C. [4509.101][ORC
-Section 4509.101]. Whoever violates this subsection (e) hereof is guilty of
+4509.101]. Whoever violates this subsection (e) hereof is guilty of
 falsification, a misdemeanor of the first degree.\
 (ORC 4509.102)
 
@@ -1229,22 +1217,22 @@ license and shall be punished as follows:
     1. _(1)_ Except as provided in subsection (c)(2) of this section, whoever
     violates subsection (a) hereof is guilty of an unclassified misdemeanor.
     When the offense is an unclassified misdemeanor, the offender shall be
-    sentenced pursuant to Ohio R.C. [2929.21][ORC Section 2929.21] to 2929.28,
+    sentenced pursuant to Ohio R.C. [2929.21][ORC 2929.21] to [2929.28][ORC 2929.28],
     except that the offender shall not be sentenced to a jail term; the offender
     shall not be sentenced to a community residential sanction pursuant to Ohio
-    R.C. [2929.26][ORC Section 2929.26]; notwithstanding division (A)(2)(a) of
-    Ohio R.C. [2929.28][ORC Section 2929.28], the offender may be fined up to
+    R.C. [2929.26][ORC 2929.26]; notwithstanding division (A)(2)(a) of
+    Ohio R.C. [2929.28][ORC 2929.28], the offender may be fined up to
     one thousand dollars ($1,000); and, notwithstanding division (A)(3) of Ohio
-    R.C. [2929.27][ORC Section 2929.27], the offender may be ordered pursuant to
+    R.C. [2929.27][ORC 2929.27], the offender may be ordered pursuant to
     division (C) of that section to serve a term of community service of up to
     five hundred hours. The failure of an offender to complete a term of
     community service imposed by the court may be punished as indirect criminal
-    contempt under division (A) of Ohio R.C. [2705.02][ORC Section 2705.02] that
+    contempt under division (A) of Ohio R.C. [2705.02][ORC 2705.02] that
     may be filed in the underlying case.
 
     2. _(2)_ If, within three years of a violation of subsection (a) of this
     section, the offender previously has pleaded guilty to or been convicted of
-    two or more violations of Ohio R.C. [4510.21(A)][ORC Section 4510.21] or a
+    two or more violations of Ohio R.C. [4510.21(A)][ORC 4510.21] or a
     substantially equivalent municipal ordinance, the offender is guilty of a
     misdemeanor of the first degree.
 
@@ -1252,7 +1240,7 @@ license and shall be punished as follows:
     suspension of the offender's driver's license, commercial driver's license,
     temporary instruction permit, probationary driver's license, or nonresident
     operating privilege from the range specified in division (A)(7) of Ohio R.C.
-    [4510.02][ORC Section 4510.02].\
+    [4510.02][ORC 4510.02].\
     (ORC 4510.21)
 
 ### 335.074   Driving under license forfeiture or child support suspension
@@ -1260,7 +1248,7 @@ license and shall be punished as follows:
 1. _(a)_ No person shall operate any motor vehicle upon a highway or any public
 or private property used by the public for purposes of vehicular travel or
 parking in this Municipality whose driver's or commercial driver's license has
-been suspended pursuant to Ohio R.C. [2151.354][ORC Section 2151.354], 2151.87,
+been suspended pursuant to Ohio R.C. [2151.354][ORC 2151.354], 2151.87,
 2935.27, 3123.58, 4301.99, 4510.032, 4510.22 or 4510.33.
 
 2. _(b)_ Upon the request or motion of the prosecuting authority, a noncertified
@@ -1279,35 +1267,34 @@ section.
 
     1. _(1)_ Except as otherwise provided in subsection (c)(2) of this section,
     the offense is an unclassified misdemeanor. The offender shall be sentenced
-    pursuant to Ohio R.C. [2929.21][ORC Section 2929.21] to 2929.28, except that
-    the offender shall not be sentenced to a jail term; the offender shall not
-    be sentenced to a community residential sanction pursuant to Ohio R.C.
-    [2929.26][ORC Section 2929.26]; notwithstanding division (A)(2)(a) of Ohio
-    R.C. [2929.28][ORC Section 2929.28], the offender may be fined up to one
-    thousand dollars ($1,000); and, notwithstanding division (A)(3) of Ohio R.C.
-    [2929.27][ORC Section 2929.27], the offender may be ordered pursuant to
-    division (C) of that section to serve a term of community service of up to
-    five hundred hours. The failure of an offender to complete a term of
-    community service imposed by the court may be punished as indirect criminal
-    contempt under division (A) of Ohio R.C. [2705.02][ORC Section 2705.02] that
-    may be filed in the underlying case.
+    pursuant to Ohio R.C. [2929.21][ORC 2929.21] to [2929.28][ORC 2929.28],
+    except that the offender shall not be sentenced to a jail term; the offender
+    shall not be sentenced to a community residential sanction pursuant to Ohio
+    R.C. [2929.26][ORC 2929.26]; notwithstanding division (A)(2)(a) of Ohio R.C.
+    [2929.28][ORC 2929.28], the offender may be fined up to one thousand dollars
+    ($1,000); and, notwithstanding division (A)(3) of Ohio R.C. [2929.27][ORC
+    2929.27], the offender may be ordered pursuant to division (C) of that
+    section to serve a term of community service of up to five hundred hours.
+    The failure of an offender to complete a term of community service imposed
+    by the court may be punished as indirect criminal contempt under division
+    (A) of Ohio R.C. [2705.02][ORC 2705.02] that may be filed in the underlying
+    case.
 
     2. _(2)_ If, within three years of the offense, the offender previously was
     convicted of or pleaded guilty to two or more violations of subsection (A)
-    of Ohio R.C. [4510.111][ORC Section 4510.111], or any combination of two or
-    more violations of subsection (A) of Ohio R.C. [4510.111][ORC Section
-    4510.111], or Ohio R.C. [4510.11][ORC Section 4510.11] or 4510.16, or a
-    substantially equivalent municipal ordinance, the offense is a misdemeanor
-    of the fourth degree and the offender shall provide the court with proof of
-    financial responsibility as defined in Ohio R.C. [4509.01][ORC Section
-    4509.01]. If the offender fails to provide that proof of financial
-    responsibility, then in addition to any other penalties provided by law, the
-    court may order restitution pursuant to Ohio R.C. [2929.28][ORC Section
-    2929.28] in an amount not exceeding five thousand dollars ($5,000) for any
-    economic loss arising from an accident or collision that was the direct and
-    proximate result of the offender's operation of the vehicle before, during
-    or after committing the offense for which the offender is sentenced under
-    this section.\
+    of Ohio R.C. [4510.111][ORC 4510.111], or any combination of two or more
+    violations of subsection (A) of Ohio R.C. [4510.111][ORC 4510.111], or Ohio
+    R.C. [4510.11][ORC 4510.11] or 4510.16, or a substantially equivalent
+    municipal ordinance, the offense is a misdemeanor of the fourth degree and
+    the offender shall provide the court with proof of financial responsibility
+    as defined in Ohio R.C. [4509.01][ORC 4509.01]. If the offender fails to
+    provide that proof of financial responsibility, then in addition to any
+    other penalties provided by law, the court may order restitution pursuant to
+    Ohio R.C. [2929.28][ORC 2929.28] in an amount not exceeding five thousand
+    dollars ($5,000) for any economic loss arising from an accident or collision
+    that was the direct and proximate result of the offender's operation of the
+    vehicle before, during or after committing the offense for which the
+    offender is sentenced under this section.\
     (ORC 4510.111)
 
 ## 335.08   Operation or sale without certificate of title
@@ -1316,7 +1303,7 @@ section.
 
     1. _(1)_ Operate in this Municipality a motor vehicle for which a
     certificate of title is required without having that certificate in
-    accordance with Ohio R.C. [Chapter 4505][ORC Chapter 4505] or, if a physical
+    accordance with Ohio R.C. [Chapter 4505][ORC 4505] or, if a physical
     certificate of title has not been issued for a motor vehicle, operate the
     motor vehicle in this Municipality knowing that the ownership information
     relating to the vehicle has not been entered into the automated title
@@ -1326,30 +1313,29 @@ section.
     of a dealer, a motor vehicle without having obtained a manufacturer's or
     importer's certificate, a certificate of title, or an assignment of a
     certificate of title for it as provided in Ohio R.C. [Chapter 4505][ORC
-    Chapter 4505];
+    4505];
 
     3. _(3)_ Fail to surrender any certificate of title or any certificate of
     registration or license plates upon cancellation of the same by the
     Registrar of Motor Vehicles and notice of the cancellation as prescribed in
-    Ohio R.C. [Chapter 4505][ORC Chapter 4505];
+    Ohio R.C. [Chapter 4505][ORC 4505];
 
     4. _(4)_ Fail to surrender the certificate of title to a clerk of a court of
-    common pleas as provided in Ohio R.C. [Chapter 4505][ORC Chapter 4505] in
+    common pleas as provided in Ohio R.C. [Chapter 4505][ORC 4505] in
     case of the destruction or dismantling or change of a motor vehicle in such
     respect that it is not the motor vehicle described in the certificate of
     title;
 
     5. _(5)_ Violate any rules adopted pursuant to Ohio R.C. [Chapter 4505][ORC
-    Chapter 4505];
+    4505];
 
     6. _(6)_ Except as otherwise provided in Ohio R.C. [Chapter 4505][ORC
-    Chapter 4505] and [Chapter 4517][ORC Chapter 4517], sell at wholesale a
+    4505] and [Chapter 4517][ORC 4517], sell at wholesale a
     motor vehicle the ownership of which is not evidenced by an Ohio certificate
     of title, or the current certificate of title issued for the motor vehicle,
     or the manufacturer's certificate of origin, and all title assignments that
     evidence the seller's ownership of the motor vehicle, and an odometer
-    disclosure statement that complies with Ohio R.C. [4505.06][ORC Section
-    4505.06] and subchapter IV of the "Motor Vehicle Information and Cost
+    disclosure statement that complies with Ohio R.C. [4505.06][ORC 4505.06] and subchapter IV of the "Motor Vehicle Information and Cost
     Savings Act", 86 Stat. 961 (1972), 15 U.S.C. 1981;
 
     7. _(7)_ Operate in this Municipality a motor vehicle knowing that the
@@ -1373,7 +1359,7 @@ dollars ($200.00) or imprisoned not more than ninety days, or both.\
     plate that displays the distinctive number and registration mark assigned to
     the motor vehicle by the Ohio Director of Public Safety, including any
     county identification sticker and any validation sticker when required by
-    and issued under Ohio R.C. [4503.19][ORC Section 4503.19] and 4503.191.
+    and issued under Ohio R.C. [4503.19][ORC 4503.19] and 4503.191.
     However a commercial tractor shall display the license plate on the front of
     the commercial tractor.
 
@@ -1382,7 +1368,7 @@ dollars ($200.00) or imprisoned not more than ninety days, or both.\
 
     3. _(3)_ No person to whom a temporary motor vehicle license registration
     has been issued for the use of a motor vehicle under Ohio R.C.
-    [4503.182][ORC Section 4503.182], and no operator of that motor vehicle,
+    [4503.182][ORC 4503.182], and no operator of that motor vehicle,
     shall fail to display the temporary motor vehicle license registration in
     plain view from the rear of the vehicle either in the rear window or on an
     external rear surface of the motor vehicle.
@@ -1397,7 +1383,7 @@ dollars ($200.00) or imprisoned not more than ninety days, or both.\
     minor misdemeanor.
 
     2. _(2)_ The offenses established under subsection (a) of this section are
-    strict liability offenses and Ohio R.C. [2901.20][ORC Section 2901.20] does
+    strict liability offenses and Ohio R.C. [2901.20][ORC 2901.20] does
     not apply. The designation of these offenses as strict liability offenses
     shall not be construed to imply that any other offense, for which there is
     no specified degree of culpability, is not a strict liability offense.\
@@ -1407,8 +1393,7 @@ dollars ($200.00) or imprisoned not more than ninety days, or both.\
 
 1. _(a)_ No person shall operate or cause to be operated upon a public road or
 highway a motor vehicle of a manufacturer or dealer unless the vehicle carries
-and displays a placard, except as provided in Ohio R.C. [4503.21][ORC Section
-4503.21], issued by the Director of Public Safety that displays the registration
+and displays a placard, except as provided in Ohio R.C. [4503.21][ORC 4503.21], issued by the Director of Public Safety that displays the registration
 number of its manufacturer or dealer.
 
 2. _(b)_ Whoever violates subsection (a) of this section is guilty of illegal
@@ -1420,7 +1405,7 @@ operation of a manufacturer's or dealer's motor vehicle, a minor misdemeanor.\
 1. _(a)_ No person who is the owner of a motor vehicle which is parked or
 operated upon the public streets or highways shall fail to annually file the
 application for registration or to pay the tax therefor, as required by Ohio
-R.C. [Chapter 4503][ORC Chapter 4503].\
+R.C. [Chapter 4503][ORC 4503].\
 (ORC 4503.11)
 
 2. _(b)_ No person shall operate, drive or park upon the public streets or
@@ -1514,7 +1499,7 @@ Municipality under a license issued by another state.
 
     2. _(2)_ The offense established under subsection (b)(1) of this section is
     a strict liability offense and strict liability is a culpable mental state
-    for purposes of Ohio R.C. [2901.20][ORC Section 2901.20]. The designation of
+    for purposes of Ohio R.C. [2901.20][ORC 2901.20]. The designation of
     this offense as a strict liability offense shall not be construed to imply
     that any other offense, for which there is no specified degree of
     culpability, is not a strict liability offense.
@@ -1528,7 +1513,7 @@ person to whom any of the following applies:
 
     2. _(2)_ The person is determined by the Registrar of Motor Vehicles to be a
     resident in accordance with standards adopted by the Registrar under Ohio
-    R.C. [4507.01][ORC Section 4507.01].\
+    R.C. [4507.01][ORC 4507.01].\
     (ORC 4503.111)
 
 ## 335.12   Stopping after accident upon streets; collision with unattended vehicle
@@ -1588,14 +1573,14 @@ person to whom any of the following applies:
     the offender's driver's license, commercial driver's license, temporary
     instruction permit, probationary license, or nonresident operating privilege
     from the range specified in division (A)(5) of Ohio R.C. [4510.02][ORC
-    Section 4510.02]. No judge shall suspend the first six months of suspension
+    4510.02]. No judge shall suspend the first six months of suspension
     of an offender's license, permit, or privilege required by this subsection.
 
         The offender shall provide the court with proof of financial
-        responsibility as defined in Ohio R.C. [4509.01][ORC Section 4509.01].
+        responsibility as defined in Ohio R.C. [4509.01][ORC 4509.01].
         If the offender fails to provide that proof of financial responsibility,
         then, in addition to any other penalties provided by law, the court may
-        order restitution pursuant to Ohio R.C. [2929.18][ORC Section 2929.18]
+        order restitution pursuant to Ohio R.C. [2929.18][ORC 2929.18]
         or 2929.28 in an amount not exceeding five thousand dollars ($5,000) for
         any economic loss arising from an accident or collision that was the
         direct and proximate result of the offender's operation of the motor
@@ -1649,14 +1634,14 @@ person to whom any of the following applies:
     the offender's driver's license, commercial driver's license, temporary
     instruction permit, probationary license, or nonresident operating privilege
     from the range specified in division (A)(5) of Ohio R.C. [4510.02][ORC
-    Section 4510.02]. No judge shall suspend the first six months of suspension
+    4510.02]. No judge shall suspend the first six months of suspension
     of an offender's license, permit, or privilege required by this subsection.
 
         The offender shall provide the court with proof of financial
-        responsibility as defined in Ohio R.C. [4509.01][ORC Section 4509.01].
+        responsibility as defined in Ohio R.C. [4509.01][ORC 4509.01].
         If the offender fails to provide that proof of financial responsibility,
         then, in addition to any other penalties provided by law, the court may
-        order restitution pursuant to Ohio R.C. [2929.18][ORC Section 2929.18]
+        order restitution pursuant to Ohio R.C. [2929.18][ORC 2929.18]
         or 2929.28 in an amount not exceeding five thousand dollars ($5,000) for
         any economic loss arising from an accident or collision that was the
         direct and proximate result of the offender's operation of the motor
@@ -1688,10 +1673,10 @@ stop after an accident involving the property of others, a misdemeanor of the
 first degree.
 
     The offender shall provide the court with proof of financial responsibility
-    as defined in Ohio R.C. [4509.01][ORC Section 4509.01]. If the offender
+    as defined in Ohio R.C. [4509.01][ORC 4509.01]. If the offender
     fails to provide that proof of financial responsibility, then, in addition
     to any other penalties provided by law, the court may order restitution
-    pursuant to Ohio R.C. [2929.28][ORC Section 2929.28] in an amount not
+    pursuant to Ohio R.C. [2929.28][ORC 2929.28] in an amount not
     exceeding five thousand dollars ($5,000) for any economic loss arising from
     an accident or collision that was the direct and proximate result of the
     offender's operation of the motor vehicle before, during or after committing
@@ -1700,72 +1685,62 @@ first degree.
 
 [CFCO 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
 [CFCO 333.01(a)]:</chapters/chapter-333-ovi-willful-misconduct-speed/#33301(a)(1)>
-[ORC Chapter 2929]:<https://codes.ohio.gov/ohio-revised-code/chapter-2929>
-[ORC Chapter 4503]:<https://codes.ohio.gov/ohio-revised-code/chapter-4503>
-[ORC Chapter 4505]:<https://codes.ohio.gov/ohio-revised-code/chapter-4505>
-[ORC Chapter 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506>
-[ORC Chapter 4507]:<https://codes.ohio.gov/ohio-revised-code/chapter-4507>
-[ORC Chapter 4509]:<https://codes.ohio.gov/ohio-revised-code/chapter-4509>
-[ORC Chapter 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510>
-[ORC Chapter 4517]:<https://codes.ohio.gov/ohio-revised-code/chapter-4517>
-[ORC Section 2151.354]:<https://codes.ohio.gov/ohio-revised-code/section-2151.354>
-[ORC Section 2705.02]:<https://codes.ohio.gov/ohio-revised-code/section-2705.02>
-[ORC Section 2705.02]:<https://codes.ohio.gov/ohio-revised-code/section-2705.02>
-[ORC Section 2901.20]:<https://codes.ohio.gov/ohio-revised-code/section-2901.20>
-[ORC Section 2901.20]:<https://codes.ohio.gov/ohio-revised-code/section-2901.20>
-[ORC Section 2929.01]:<https://codes.ohio.gov/ohio-revised-code/section-2929.01>
-[ORC Section 2929.18]:<https://codes.ohio.gov/ohio-revised-code/section-2929.18>
-[ORC Section 2929.21]:<https://codes.ohio.gov/ohio-revised-code/section-2929.21>
-[ORC Section 2929.26]:<https://codes.ohio.gov/ohio-revised-code/section-2929.26>
-[ORC Section 2929.27]:<https://codes.ohio.gov/ohio-revised-code/section-2929.27>
-[ORC Section 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
-[ORC Section 2937.221]:<https://codes.ohio.gov/ohio-revised-code/section-2937.221>
-[ORC Section 2941.25]:<https://codes.ohio.gov/ohio-revised-code/section-2941.25>
-[ORC Section 3123.58]:<https://codes.ohio.gov/ohio-revised-code/section-3123.58>
-[ORC Section 4501.11]:<https://codes.ohio.gov/ohio-revised-code/section-4501.11>
-[ORC Section 4503.19]:<https://codes.ohio.gov/ohio-revised-code/section-4503.19>
-[ORC Section 4503.21]:<https://codes.ohio.gov/ohio-revised-code/section-4503.21>
-[ORC Section 4503.182]:<https://codes.ohio.gov/ohio-revised-code/section-4503.182>
-[ORC Section 4503.231]:<https://codes.ohio.gov/ohio-revised-code/section-4503.231>
-[ORC Section 4503.233]:<https://codes.ohio.gov/ohio-revised-code/section-4503.233>
-[ORC Section 4503.233]:<https://codes.ohio.gov/ohio-revised-code/section-4503.233>
-[ORC Section 4503.234]:<https://codes.ohio.gov/ohio-revised-code/section-4503.234>
-[ORC Section 4503.234]:<https://codes.ohio.gov/ohio-revised-code/section-4503.234>
-[ORC Section 4503.235]:<https://codes.ohio.gov/ohio-revised-code/section-4503.235>
-[ORC Section 4505.06]:<https://codes.ohio.gov/ohio-revised-code/section-4505.06>
-[ORC Section 4506.10]:<https://codes.ohio.gov/ohio-revised-code/section-4506.10>
-[ORC Section 4506.16]:<https://codes.ohio.gov/ohio-revised-code/section-4506.16>
-[ORC Section 4507.01]:<https://codes.ohio.gov/ohio-revised-code/section-4507.01>
-[ORC Section 4507.02]:<https://codes.ohio.gov/ohio-revised-code/section-4507.02>
-[ORC Section 4507.03]:<https://codes.ohio.gov/ohio-revised-code/section-4507.03>
-[ORC Section 4507.05]:<https://codes.ohio.gov/ohio-revised-code/section-4507.05>
-[ORC Section 4507.05]:<https://codes.ohio.gov/ohio-revised-code/section-4507.05>
-[ORC Section 4507.08]:<https://codes.ohio.gov/ohio-revised-code/section-4507.08>
-[ORC Section 4507.14]:<https://codes.ohio.gov/ohio-revised-code/section-4507.14>
-[ORC Section 4507.14]:<https://codes.ohio.gov/ohio-revised-code/section-4507.14>
-[ORC Section 4507.35]:<https://codes.ohio.gov/ohio-revised-code/section-4507.35>
-[ORC Section 4509.01]:<https://codes.ohio.gov/ohio-revised-code/section-4509.01>
-[ORC Section 4509.01]:<https://codes.ohio.gov/ohio-revised-code/section-4509.01>
-[ORC Section 4509.37]:<https://codes.ohio.gov/ohio-revised-code/section-4509.37>
-[ORC Section 4509.45]:<https://codes.ohio.gov/ohio-revised-code/section-4509.45>
-[ORC Section 4509.101]:<https://codes.ohio.gov/ohio-revised-code/section-4509.101>
-[ORC Section 4509.101]:<https://codes.ohio.gov/ohio-revised-code/section-4509.101>
-[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
-[ORC Section 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
-[ORC Section 4510.03.6]:<https://codes.ohio.gov/ohio-revised-code/section-4510.03.6>
-[ORC Section 4510.07]:<https://codes.ohio.gov/ohio-revised-code/section-4510.07>
-[ORC Section 4510.11]:<https://codes.ohio.gov/ohio-revised-code/section-4510.11>
-[ORC Section 4510.12]:<https://codes.ohio.gov/ohio-revised-code/section-4510.12>
-[ORC Section 4510.14]:<https://codes.ohio.gov/ohio-revised-code/section-4510.14>
-[ORC Section 4510.16]:<https://codes.ohio.gov/ohio-revised-code/section-4510.16>
-[ORC Section 4510.021]:<https://codes.ohio.gov/ohio-revised-code/section-4510.021>
-[ORC Section 4510.21]:<https://codes.ohio.gov/ohio-revised-code/section-4510.21>
-[ORC Section 4510.111]:<https://codes.ohio.gov/ohio-revised-code/section-4510.111>
-[ORC Section 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
-[ORC Section 4511.191]:<https://codes.ohio.gov/ohio-revised-code/section-4511.191>
-[ORC Section 4511.203]:<https://codes.ohio.gov/ohio-revised-code/section-4511.203>
-[ORC Section 4511.205]:<https://codes.ohio.gov/ohio-revised-code/section-4511.205>
-[ORC Section 4511.521]:<https://codes.ohio.gov/ohio-revised-code/section-4511.521>
-[ORC Section 4513.263]:<https://codes.ohio.gov/ohio-revised-code/section-4513.263>
-[ORC Section 4513.263]:<https://codes.ohio.gov/ohio-revised-code/section-4513.263>
-[ORC Section 4549.65]:<https://codes.ohio.gov/ohio-revised-code/section-4549.65>
+[ORC 2151.354]:<https://codes.ohio.gov/ohio-revised-code/section-2151.354>
+[ORC 2705.02]:<https://codes.ohio.gov/ohio-revised-code/section-2705.02>
+[ORC 2901.20]:<https://codes.ohio.gov/ohio-revised-code/section-2901.20>
+[ORC 2929.01]:<https://codes.ohio.gov/ohio-revised-code/section-2929.01>
+[ORC 2929.18]:<https://codes.ohio.gov/ohio-revised-code/section-2929.18>
+[ORC 2929.21]:<https://codes.ohio.gov/ohio-revised-code/section-2929.21>
+[ORC 2929.26]:<https://codes.ohio.gov/ohio-revised-code/section-2929.26>
+[ORC 2929.27]:<https://codes.ohio.gov/ohio-revised-code/section-2929.27>
+[ORC 2929.28]:<https://codes.ohio.gov/ohio-revised-code/section-2929.28>
+[ORC 2929]:<https://codes.ohio.gov/ohio-revised-code/chapter-2929>
+[ORC 2937.221]:<https://codes.ohio.gov/ohio-revised-code/section-2937.221>
+[ORC 2941.25]:<https://codes.ohio.gov/ohio-revised-code/section-2941.25>
+[ORC 3123.58]:<https://codes.ohio.gov/ohio-revised-code/section-3123.58>
+[ORC 4501.11]:<https://codes.ohio.gov/ohio-revised-code/section-4501.11>
+[ORC 4503.19]:<https://codes.ohio.gov/ohio-revised-code/section-4503.19>
+[ORC 4503.21]:<https://codes.ohio.gov/ohio-revised-code/section-4503.21>
+[ORC 4503.182]:<https://codes.ohio.gov/ohio-revised-code/section-4503.182>
+[ORC 4503.231]:<https://codes.ohio.gov/ohio-revised-code/section-4503.231>
+[ORC 4503.233]:<https://codes.ohio.gov/ohio-revised-code/section-4503.233>
+[ORC 4503.234]:<https://codes.ohio.gov/ohio-revised-code/section-4503.234>
+[ORC 4503.235]:<https://codes.ohio.gov/ohio-revised-code/section-4503.235>
+[ORC 4503]:<https://codes.ohio.gov/ohio-revised-code/chapter-4503>
+[ORC 4505.06]:<https://codes.ohio.gov/ohio-revised-code/section-4505.06>
+[ORC 4505]:<https://codes.ohio.gov/ohio-revised-code/chapter-4505>
+[ORC 4506.10]:<https://codes.ohio.gov/ohio-revised-code/section-4506.10>
+[ORC 4506.16]:<https://codes.ohio.gov/ohio-revised-code/section-4506.16>
+[ORC 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506>
+[ORC 4507.01]:<https://codes.ohio.gov/ohio-revised-code/section-4507.01>
+[ORC 4507.02]:<https://codes.ohio.gov/ohio-revised-code/section-4507.02>
+[ORC 4507.03]:<https://codes.ohio.gov/ohio-revised-code/section-4507.03>
+[ORC 4507.05]:<https://codes.ohio.gov/ohio-revised-code/section-4507.05>
+[ORC 4507.08]:<https://codes.ohio.gov/ohio-revised-code/section-4507.08>
+[ORC 4507.14]:<https://codes.ohio.gov/ohio-revised-code/section-4507.14>
+[ORC 4507.35]:<https://codes.ohio.gov/ohio-revised-code/section-4507.35>
+[ORC 4507]:<https://codes.ohio.gov/ohio-revised-code/chapter-4507>
+[ORC 4509.01]:<https://codes.ohio.gov/ohio-revised-code/section-4509.01>
+[ORC 4509.37]:<https://codes.ohio.gov/ohio-revised-code/section-4509.37>
+[ORC 4509.45]:<https://codes.ohio.gov/ohio-revised-code/section-4509.45>
+[ORC 4509.101]:<https://codes.ohio.gov/ohio-revised-code/section-4509.101>
+[ORC 4509]:<https://codes.ohio.gov/ohio-revised-code/chapter-4509>
+[ORC 4510.02]:<https://codes.ohio.gov/ohio-revised-code/section-4510.02>
+[ORC 4510.03.6]:<https://codes.ohio.gov/ohio-revised-code/section-4510.03.6>
+[ORC 4510.07]:<https://codes.ohio.gov/ohio-revised-code/section-4510.07>
+[ORC 4510.11]:<https://codes.ohio.gov/ohio-revised-code/section-4510.11>
+[ORC 4510.12]:<https://codes.ohio.gov/ohio-revised-code/section-4510.12>
+[ORC 4510.14]:<https://codes.ohio.gov/ohio-revised-code/section-4510.14>
+[ORC 4510.16]:<https://codes.ohio.gov/ohio-revised-code/section-4510.16>
+[ORC 4510.021]:<https://codes.ohio.gov/ohio-revised-code/section-4510.021>
+[ORC 4510.21]:<https://codes.ohio.gov/ohio-revised-code/section-4510.21>
+[ORC 4510.111]:<https://codes.ohio.gov/ohio-revised-code/section-4510.111>
+[ORC 4510]:<https://codes.ohio.gov/ohio-revised-code/chapter-4510>
+[ORC 4511.19]:<https://codes.ohio.gov/ohio-revised-code/section-4511.19>
+[ORC 4511.191]:<https://codes.ohio.gov/ohio-revised-code/section-4511.191>
+[ORC 4511.203]:<https://codes.ohio.gov/ohio-revised-code/section-4511.203>
+[ORC 4511.205]:<https://codes.ohio.gov/ohio-revised-code/section-4511.205>
+[ORC 4511.521]:<https://codes.ohio.gov/ohio-revised-code/section-4511.521>
+[ORC 4513.263]:<https://codes.ohio.gov/ohio-revised-code/section-4513.263>
+[ORC 4517]:<https://codes.ohio.gov/ohio-revised-code/chapter-4517>
+[ORC 4549.65]:<https://codes.ohio.gov/ohio-revised-code/section-4549.65>

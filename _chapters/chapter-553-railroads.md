@@ -17,8 +17,8 @@ title: "Chapter 553: Railroads"
 ## Cross references
 
 * See sectional histories for similar State law
-* Lighting railroads - see Ohio R.C. [723.33][ORC Section 723.33] et seq.
-* Power to regulate train speed - see Ohio R.C. [723.48][ORC Section 723.48]
+* Lighting railroads - see Ohio R.C. [723.33][ORC 723.33] et seq.
+* Power to regulate train speed - see Ohio R.C. [723.48][ORC 723.48]
 * Vehicular homicide - see GEN. OFF. 537.02
 * Criminal mischief - see GEN. OFF. 541.04
 
@@ -54,7 +54,7 @@ title: "Chapter 553: Railroads"
 
     5. _(5)_ Upon the filing of an affidavit or complaint for violation of this
     subsection (a)(1) hereof, summons shall be issued to the railroad company
-    pursuant to Ohio R.C. [2935.10(B)][ORC Section 2935.10], which summons shall
+    pursuant to Ohio R.C. [2935.10(B)][ORC 2935.10], which summons shall
     be served on the regular ticket or freight agent of the company in the
     county where the offense occurred.\
     (ORC 5589.21)
@@ -76,7 +76,7 @@ requires them to abandon the locomotive.
 
 2. _(b)_ Upon the filing of an affidavit or complaint for violation of this
 section, summons shall be issued to the railroad company pursuant to Ohio R.C.
-[2935.10(B)][ORC Section 2935.10], which summons shall be served on the regular
+[2935.10(B)][ORC 2935.10], which summons shall be served on the regular
 ticket or freight agent of the company in the county where the offense
 occurred.\
 (ORC 5589.211)
@@ -113,6 +113,6 @@ whoever violates this section is guilty of a misdemeanor of the third degree.\
 any misdemeanor classification.)
 
 [CFCO 501.99]:</chapters/chapter-501-general-provisions-and-penalty/#50199-penalties-for-misdemeanors>
-[ORC Section 723.33]:<https://codes.ohio.gov/ohio-revised-code/section-723.33>
-[ORC Section 723.48]:<https://codes.ohio.gov/ohio-revised-code/section-723.48>
-[ORC Section 2935.10]:<https://codes.ohio.gov/ohio-revised-code/section-2935.10>
+[ORC 723.33]:<https://codes.ohio.gov/ohio-revised-code/section-723.33>
+[ORC 723.48]:<https://codes.ohio.gov/ohio-revised-code/section-723.48>
+[ORC 2935.10]:<https://codes.ohio.gov/ohio-revised-code/section-2935.10>

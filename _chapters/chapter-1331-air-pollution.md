@@ -20,7 +20,7 @@ title: "Chapter 1331: Air Pollution"
 
 ## Cross references
 
-* Power to prevent dense smoke - see Ohio R.C. [715.44][ORC Section 715.44]
+* Power to prevent dense smoke - see Ohio R.C. [715.44][ORC 715.44]
 * Noxious or offensive odors - see GEN. OFF. 521.09
 
 ## 1331.01   Scope; compliance required
@@ -239,4 +239,4 @@ no specific penalty is provided.)
 
 [CFCO 1303.99]:</chapters/chapter-1303-inspections-enforcement-and-penalty/#130399-general-code-penalty>
 [CFCO 1331.05]:</chapters/chapter-1331-air-pollution/#133105-stack-and-vent-emissions>
-[ORC Section 715.44]:<https://codes.ohio.gov/ohio-revised-code/section-715.44>
+[ORC 715.44]:<https://codes.ohio.gov/ohio-revised-code/section-715.44>

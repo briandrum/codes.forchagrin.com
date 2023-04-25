@@ -25,13 +25,13 @@ title: "Chapter 911: Sewers Generally"
 
 ## Cross references
 
-* Power to regulate water closets and privies - see Ohio R.C. [715.40][ORC Section 715.40]
-* Power to construct sewerage system - see Ohio R.C. [715.40][ORC Section 715.40], 717.01
-* Compulsory sewer connections - see Ohio R.C. [729.06][ORC Section 729.06]; BLDG. 1343.02
-* Management and control of sewerage system - see Ohio R.C. [729.50][ORC Section 729.50]
-* Regulations to control house sewers and connections - see Ohio R.C. [729.51][ORC Section 729.51]
-* Untreated sewage - see Ohio R.C. [3701.59][ORC Section 3701.59]
-* Interference with sewage flow - see Ohio R.C. [4933.24][ORC Section 4933.24]
+* Power to regulate water closets and privies - see Ohio R.C. [715.40][ORC 715.40]
+* Power to construct sewerage system - see Ohio R.C. [715.40][ORC 715.40], 717.01
+* Compulsory sewer connections - see Ohio R.C. [729.06][ORC 729.06]; BLDG. 1343.02
+* Management and control of sewerage system - see Ohio R.C. [729.50][ORC 729.50]
+* Regulations to control house sewers and connections - see Ohio R.C. [729.51][ORC 729.51]
+* Untreated sewage - see Ohio R.C. [3701.59][ORC 3701.59]
+* Interference with sewage flow - see Ohio R.C. [4933.24][ORC 4933.24]
 * Properly connected toilets required - see BLDG. 1343.01
 
 ## 911.01   Definitions
@@ -415,12 +415,12 @@ whether a grab sample or samples should be taken. Normally, but not always, BOD
 and suspended solids analyses are obtained from twenty-four hour composites of
 all outfalls whereas pH is determined from periodic grab samples.
 
-4. _(d)_ **Special Agreements.** No statement contained in Sections 911.04 to
-911.08 and this section shall be construed as preventing any special agreement
-or arrangement between the Municipality and any industrial concern whereby an
-industrial waste of unusual strength or character may be accepted by the
-Municipality for treatment, subject to payment therefor by the industrial
-concern.\
+4. _(d)_ **Special Agreements.** No statement contained in [Sections
+911.04][CFCO 911.04] to [911.08][CFCO 911.08] and this section shall be
+construed as preventing any special agreement or arrangement between the
+Municipality and any industrial concern whereby an industrial waste of unusual
+strength or character may be accepted by the Municipality for treatment, subject
+to payment therefor by the industrial concern.\
 (Ord. 1968-738. Passed 9-17-68.)
 
 ## 911.10   Protection from damage
@@ -499,9 +499,11 @@ liable to the Municipality for any expense, loss or damage occasioned the
 Municipality by reason of such violation.\
 (Ord. 1968-738. Passed 9-17-68.)
 
-[ORC Section 715.40]:<https://codes.ohio.gov/ohio-revised-code/section-715.40>
-[ORC Section 729.06]:<https://codes.ohio.gov/ohio-revised-code/section-729.06>
-[ORC Section 729.50]:<https://codes.ohio.gov/ohio-revised-code/section-729.50>
-[ORC Section 729.51]:<https://codes.ohio.gov/ohio-revised-code/section-729.51>
-[ORC Section 3701.59]:<https://codes.ohio.gov/ohio-revised-code/section-3701.59>
-[ORC Section 4933.24]:<https://codes.ohio.gov/ohio-revised-code/section-4933.24>
+[CFCO 911.04]:</chapters/chapter-911-sewers-generally/#91104-storm-sewer-waste-prohibited-in-sanitary-sewer>
+[CFCO 911.08]:</chapters/chapter-911-sewers-generally/#91108-interceptors>
+[ORC 715.40]:<https://codes.ohio.gov/ohio-revised-code/section-715.40>
+[ORC 729.06]:<https://codes.ohio.gov/ohio-revised-code/section-729.06>
+[ORC 729.50]:<https://codes.ohio.gov/ohio-revised-code/section-729.50>
+[ORC 729.51]:<https://codes.ohio.gov/ohio-revised-code/section-729.51>
+[ORC 3701.59]:<https://codes.ohio.gov/ohio-revised-code/section-3701.59>
+[ORC 4933.24]:<https://codes.ohio.gov/ohio-revised-code/section-4933.24>
