@@ -21,8 +21,8 @@ requires the deliberation of the entire Council.
 - Andrew Rockey
 - Angie DeBernardo
 - Brian Drum
-- Erinn Grube
 - Don Gutierrez
+- Erinn Grube
 - Mike Corkran
 - Nancy Rogoff
 
@@ -47,8 +47,8 @@ requires the deliberation of the entire Council.
 ### Safety Committee
 
 - Brian Drum, Chair
-- Erinn Grube
 - Don Gutierrez
+- Erinn Grube
 
 ### Streets & Sidewalks Committee
 
