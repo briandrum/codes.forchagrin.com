@@ -22,15 +22,15 @@ requires the deliberation of the entire Council.
 - Angie DeBernardo
 - Brian Drum
 - Erinn Grube
+- Don Gutierrez
 - Mike Corkran
 - Nancy Rogoff
-- [Vacancy]
 
 ### Administration & Compensation Committee
 
+- Don Gutierrez, Chair
 - Erinn Grube
 - Mike Corkran
-- [Vacancy]
 
 ### Facilities & Services Committee
 
@@ -48,13 +48,13 @@ requires the deliberation of the entire Council.
 
 - Brian Drum, Chair
 - Erinn Grube
-- [Vacancy]
+- Don Gutierrez
 
 ### Streets & Sidewalks Committee
 
 - Erin Grubbe, Chair
+- Don Gutierrez
 - Nancy Rogoff
-- [Vacancy]
 
 ### Utilities Committee
 
