@@ -100,7 +100,7 @@ such animal.\
 
 2. _(b)_ Whoever violates subsection (a) hereof is guilty of a misdemeanor of
 the second degree on a first offense and a misdemeanor of the first degree on
-each subsequent offense.
+each subsequent offense.\
 (ORC 959.99 (E)(3))
 
 ## 505.05   Killing or injuring animals; tormenting of police dogs

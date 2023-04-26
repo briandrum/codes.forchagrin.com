@@ -982,7 +982,7 @@ motor vehicle or traffic offense, whoever violates this section is guilty of a
 misdemeanor of the fourth degree. If, within one year of the offense, the
 offender previously has been convicted of two or more predicate motor vehicle or
 traffic offenses, whoever violates this section is guilty of a misdemeanor of
-the third degree.
+the third degree.\
 (ORC 4511.70(A),(B),(D))
 
 ## 331.26   Driving upon street posted as closed for repair

@@ -404,7 +404,7 @@ of this chapter and including:
         income from such royalty interest shall be subject to tax.
 
     2. _(2)_ **Employer's income.** The employer's income derived from finance
-    and carrying charges associated with his customers' accounts receivable.
+    and carrying charges associated with his customers' accounts receivable.\
     (Ord. 1986-33. Passed 7-14-86; Ord. 2005-44. Passed 7-11-05. )
 
 7. _(g)_ **Occasional Entrant Rule.**

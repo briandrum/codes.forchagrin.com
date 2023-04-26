@@ -1129,7 +1129,8 @@ letters of map revisions require submission of the Overview and Concurrence form
 LOMR requests. According to CFR Title 44, Chapter 1, section 65.4, applications
 including the submission of new technical data should come from the CEO of the
 community. Otherwise, the application may be submitted by the property owner
-with the required signatures of the requester, community official, and engineer.
+with the required signatures of the requester, community official, and
+engineer.\
 (Ord. 2005-22. Passed 4-11-05.)
 
 ## 1353.99   Violations and penalties
