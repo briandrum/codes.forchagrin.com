@@ -123,7 +123,7 @@ No person owning property upon which a hedge or other growth, by reason of its
 height, constitutes a hazard to pedestrian and vehicular traffic upon a road or
 highway which such property abuts, shall fail, upon notice being given, to trim
 such hedge or other growth to a height of not more than three feet from the
-ground to a distance back from such road or highway of fifty feet.
+ground to a distance back from such road or highway of fifty feet.\
 (Ord 1982-36. Passed 1-24-83.)
 
 ## 544.08   Certain trees prohibited
@@ -313,8 +313,8 @@ private property.
     The Commission shall survey and appraise the condition of all of the trees
     located on public property in the Village and shall, at least once each
     year, report to Council its recommendations for the protection, care,
-    preservation, planting and replanting of such trees. (Ord. 2011-71. Passed
-    11-14-11; Ord. 2017-13. Passed 3-13-17.)
+    preservation, planting and replanting of such trees.\
+    (Ord. 2011-71. Passed 11-14-11; Ord. 2017-13. Passed 3-13-17.)
 
 ## 544.99   Penalty
 

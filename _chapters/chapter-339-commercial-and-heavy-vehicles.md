@@ -93,7 +93,7 @@ roadway or road structure.
 4. _(d)_ Every such permit shall be carried in the vehicle or combination of
 vehicles to which it refers and shall be open to inspection by any police
 officer or authorized agent of any authority granting such permit, and no person
-shall violate any of the terms or conditions of such permit.
+shall violate any of the terms or conditions of such permit.\
 (ORC 4513.33, 4513.34; Ord. 1957-420. Passed 12-28-57.)
 
 ## 339.03   Maximum width, height and length
