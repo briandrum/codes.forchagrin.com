@@ -41,7 +41,7 @@
   outline-color: var(--yellow4);
   outline-offset: 0;
   outline-style: solid;
-  outline-width: 0.5rem;
+  outline-width: var(--Markdown-target-outlineWidth);
 }
 
 @keyframes target-fade {

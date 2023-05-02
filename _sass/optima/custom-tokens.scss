@@ -58,6 +58,9 @@
   --Markdown-table-th-fontWeight: 500;
   --Markdown-table-th-lineHeight: calc(24 / 18);
 
+  --Markdown-target-outlineWidth: 0.5rem;
+  --Markdown-target-scrollMarginTop: calc(var(--Header-height) + var(--Markdown-target-outlineWidth));
+
   /* Page */
   --Page-fontFamily: var(--font-sans);
 
