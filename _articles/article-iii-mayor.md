@@ -7,7 +7,7 @@ title: "Article III: Mayor"
 
 ## Sections
 
-* [Section II-1: Powers](#section-iii-1-term)
+* [Section III-1: Term](#section-iii-1-term)
 * [Section III-2: Qualifications](#section-iii-2-qualifications)
 * [Section III-3: Removal](#section-iii-3-removal)
 * [Section III-4: Absence and vacancy](#section-iii-4-absence-and-vacancy)
