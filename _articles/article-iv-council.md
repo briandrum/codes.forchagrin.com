@@ -132,11 +132,11 @@ of a tax other than a resolution providing for an election on the question of
 issuing bonds or levying a tax, or for the purchase, lease, sale or transfer of
 property shall be passed unless it has been read in full or by caption on three
 (3) different days unless the requirement for such reading be dispensed with by
-the affirmative vote of two-thirds (2/3rds) of the Council members and in the
-case of an ordinance being considered for certification to the Board of
-Elections to place an initiative on the ballot regarding any amendment to the
-Planning and Zoning Code and/or Zoning Map of the Municipality shall, without
-exception, be read by title at three (3) consecutive meetings of Council;
+the affirmative vote of two-thirds (⅔rds) of the Council members and in the case
+of an ordinance being considered for certification to the Board of Elections to
+place an initiative on the ballot regarding any amendment to the Planning and
+Zoning Code and/or Zoning Map of the Municipality shall, without exception, be
+read by title at three (3) consecutive meetings of Council;
 
 5. _(e)_ The procedure for making public improvements and levying assessments,
 including the procedure for combining two (2) or more public improvements, and
