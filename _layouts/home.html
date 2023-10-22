@@ -40,7 +40,7 @@ layout: default
     <article>
       <h4>
         <a href="{{ post.url | relative_url }}">
-          Ordinance {{ post.ordinance_no | escape }}: An Ordinance {{ post.title | escape }}
+          Ordinance {{ post.ordinance_no | escape }}: {{ post.title | escape }}
         </a>
       </h4>
       <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">

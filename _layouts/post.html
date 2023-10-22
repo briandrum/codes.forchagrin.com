@@ -5,8 +5,8 @@ layout: default
 <article class="Markdown h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header>
-    <h2>Ordinance {{ page.ordinance_no | escape }}</h2> 
-    <h1 class="p-name" itemprop="name headline">An Ordinance {{ page.title | escape }}</h1>
+    <h2>Ordinance {{ page.ordinance_no | escape }}</h2>
+    <h1 class="p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p>
       {%- assign date_format = site.optima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
