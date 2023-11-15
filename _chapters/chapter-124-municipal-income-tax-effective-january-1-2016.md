@@ -315,8 +315,8 @@ the feminine and the gender-neutral.
 
         14. _(n)_ Intentionally left blank.
 
-        15. _(o)_ All of the income of individuals under eighteen (18) years of
-        age.
+        15. _(o)_ For tax years 2024 and after, the income of individuals under eighteen (18) years of age.\
+        (Ord. 2023-72. Passed 11-13-23.)
 
         16. _(p)_
 
@@ -1062,11 +1062,8 @@ in the Municipality or the taxpayer is an electric company, combined company, or
 telephone company that is subject to and required to file reports under [Chapter
 5745][ORC Chapter 5745] of the Ohio R.C.
 
-    1. _(1)_ Except as otherwise provided in division (F)(2) of this section,
-    net profit from a business or profession conducted both within and without
-    the boundaries of the Municipality shall be considered as having a taxable
-    situs in the Municipality for purposes of municipal income taxation in the
-    same proportion as the average ratio of the following:
+    1. _(1)_ Except as otherwise provided in divisions [(F)(2)][CFCO 124.03(F)(2)] and [(G)][CFCO 124.03(G)] of this section, net profit from a business or profession conducted both within and without the boundaries of the Municipality shall be considered as having a taxable situs in the Municipality for purposes of municipal income taxation in the same proportion as the average ratio of the following:\
+    (Ord. 2023-72. Passed 11-13-23.)
 
         1. _(a)_ The average original cost of the real property and tangible
         personal property owned or used by the taxpayer in the business or
@@ -1163,9 +1160,8 @@ telephone company that is subject to and required to file reports under [Chapter
         establishing, by a preponderance of the evidence, that the Tax
         Administrator's determination was unreasonable.
 
-    4. _(4)_ For the purposes of division (F)(1)(c) of this section, receipts
-    from sales and rentals made and services performed shall be sitused to a
-    municipal corporation as follows:
+    4. _(4)_ For the purposes of [division (F)(1)(c)][CFCO 124.03(F)(1)(c)] of this section, and except as provided in [division (G)][CFCO 124.03(G)] of this section, receipts from sales and rentals made and services performed shall be sitused to a municipal corporation as follows:\
+    (Ord. 2023-72. Passed 11-13-23.)
 
         1. _(a)_ Gross receipts from the sale of tangible personal property
         shall be sitused to the municipal corporation only if regardless of
@@ -1232,6 +1228,55 @@ telephone company that is subject to and required to file reports under [Chapter
 
     9. _(9)_ Intentionally left blank.\
     (Ord. 2018-22. Passed 3-26-18.)
+
+7. _(G)_
+
+    1. _(1)_ As used in this division:
+
+        1. _(a)_ “Qualifying remote employee or owner” means an individual who is an employee of a taxpayer or who is a partner or member holding an ownership interest in a taxpayer that is treated as a partnership for federal income tax purposes, provided that the individual meets both of the following criteria:
+
+            1. _(i)_ The taxpayer has assigned the individual to a qualifying reporting location.
+
+            2. _(ii)_ The individual is permitted or required to perform services for the taxpayer at a qualifying remote work location.
+
+        2. _(b)_ “Qualifying remote work location” means a permanent or temporary location at which an employee or owner chooses or is required to perform services for the taxpayer, other than a reporting location of the taxpayer or any other location owned or controlled by a customer or client of the taxpayer. “Qualifying remote work location” may include the residence of an employee or owner and may be located outside of a municipal corporation that imposes an income tax in accordance with this Chapter. An employee or owner may have more than one qualifying remote work location during a taxable year.
+
+        3. _(c)_ “Reporting Location” means either of the following:
+
+            1. _(i)_ A permanent or temporary place of doing business, such as an office, warehouse, storefront, construction site, or similar location, that is owned or controlled directly or indirectly by the taxpayer;
+
+            2. _(ii)_ Any location in this state owned or controlled by a customer or client of the taxpayer, provided that the taxpayer is required to withhold taxes under [Section 124.04][CFCO 124.04] of this Chapter, on qualifying wages paid to an employee for the performance of personal services at that location.
+
+        4. _(d)_ “Qualifying reporting location” means one of the following:
+
+            1. _(i)_ The reporting location in this state at which an employee or owner performs services for the taxpayer on a regular or periodic basis during the taxable year;
+
+            2. _(ii)_ If no reporting location exists in this state for an employee or owner under [division (G)(1)(d)(i)][CFCO 124.03(G)(1)(d)(i)] of this section, the reporting location in this state at which the employee’s or owner’s supervisor regularly or periodically reports during the taxable year;
+
+            3. _(iii)_ If no reporting location exists in this state for an employee or owner under [division (G)(1)(d)(i)][CFCO 124.03(G)(1)(d)(i)] or [(ii)][CFCO 124.03(G)(1)(d)(ii)] of this section, the location that the taxpayer otherwise assigns as the employee’s or owner’s qualifying reporting location, provided the assignment is made in good faith and is recorded and maintained in the taxpayer’s business records. A taxpayer may change the qualifying reporting location designated for an employee or owner under this division at any time.
+
+    2. _(2)_ For tax years ending on or after December 31, 2023, a taxpayer may elect to apply the provisions of this division to the apportionment of its net profit from a business or profession. For taxpayers that make this election, the provisions of [division (F)][CFCO 124.03(F)] of this section apply to such apportionment except as otherwise provided in this division.
+
+        A taxpayer shall make the election allowed under this division in writing on or with the taxpayer’s net profit return or, if applicable, a timely filed amended net profit return or a timely filed appeal of an assessment. The election applies to the taxable year for which that return or appeal is filed and for all subsequent taxable years, until the taxpayer revokes the election.
+
+        The taxpayer shall make the initial election with the tax administrator of each municipal corporation with which, after applying the apportionment provisions authorized in this division, the taxpayer is required to file a net profit tax return for that taxable year. A taxpayer shall not be required to notify the tax administrator of a municipal corporation in which a qualifying remote employee’s or owner’s qualifying remote work location is located, unless the taxpayer is otherwise required to file a net profit return with that municipal corporation due to business operations that are unrelated to the employee’s or owner’s activity at the qualifying remote work location.
+
+        After the taxpayer makes the initial election, the election applies to every municipal corporation in which the taxpayer conducts business. The taxpayer shall not be required to file a net profit return with a municipal corporation solely because a qualifying remote employee’s or owner’s qualifying remote work location is located in such municipal corporation.
+
+        Nothing in this division prohibits a taxpayer from making a new election under this division after properly revoking a prior election.
+
+    3. _(3)_ For the purpose of calculating the ratios described in [division (F)(1)][CFCO 124.03(F)(1)] of this section, all of the following apply to a taxpayer that has made the election described in [division (G)(2)][CFCO 124.03(G)(2)]:
+
+        1. _(a)_ For the purpose of [division (F)(1)(a)][CFCO 124.03(F)(1)(a)] of this section, the average original cost of any tangible personal property used by a qualifying remote employee or owner at that individual’s qualifying remote work location shall be sitused to that individual’s qualifying reporting location.
+
+        2. _(b)_ For the purpose of [division (F)(1)(b)][CFCO 124.03(F)(1)(b)] of this section, any wages, salaries, and other compensation paid during the taxable period to a qualifying remote employee or owner for services performed at that individual’s qualifying remote work location shall be sitused to that individual’s qualifying reporting location.
+
+        3. _(c)_ For the purpose of [division (F)(1)(c)][CFCO 124.03(F)(1)(c)] of this section, and notwithstanding [division (F)(4)][CFCO 124.03(F)(4)] of this section, any gross receipts of the business or profession from services performed during the taxable period by a qualifying remote employee or owner for services performed at that individual’s qualifying remote work location shall be sitused to that individual’s qualifying reporting location.
+
+    4. _(4)_ Nothing in this division prevents a taxpayer from requesting, or a tax administrator from requiring, that the taxpayer use, with respect to all or a portion of the income of the taxpayer, an alternative apportionment method as described in [division (F)(2)][CFCO 124.03(F)(2)] of this section. However, a tax administrator shall not require an alternative apportionment method in such a manner that it would require a taxpayer to file a net profit return with a municipal corporation solely because a qualifying remote employee’s or owner’s qualifying remote work location is located in that municipal corporation.
+
+    5. _(5)_ Except as otherwise provided in this division, nothing in this division is intended to affect the withholding of taxes on qualifying wages pursuant to [Section 124.04][CFCO 124.04] of this Chapter.\
+    (Ord. 2023-72. Passed 11-13-23.)
 
 ## 124.04   Collection at source
 
@@ -1555,9 +1600,9 @@ the benefit of, the employee.
 ## 124.05   Annual return; filing
 
 1. _(A)_ An annual Municipal income tax return shall be completed and filed by
-every individual taxpayer eighteen (18) years of age or older and any taxpayer
-that is not an individual for each taxable year for which the taxpayer is
-subject to the tax, whether or not a tax is due thereon.
+every taxpayer for each taxable year for which the taxpayer is subject to the
+tax, whether or not a tax is due thereon.\
+(Ord. 2023-72. Passed 11-13-23.)
 
     1. _(1)_ The Tax Administrator may accept on behalf of all nonresident
     individual taxpayers a return filed by an employer, agent of an employer, or
@@ -1657,8 +1702,13 @@ and filed by the fiduciary of the estate or trust.
         month following the end of the taxpayer's taxable year. The taxpayer
         shall complete and file the return or notice on forms prescribed by the
         Tax Administrator or on generic forms, together with remittance made
-        payable to the Municipality. No remittance is required if the net
-        amount due is ten dollars ($10.00) or less.
+        payable to the Municipality. For tax years ending on or after January 1,
+        2023, the extended due date of the Municipal income tax return for a
+        taxpayer that is not an individual shall be the fifteenth (15th) day of
+        the eleventh (11th) month after the last day of the taxable year to
+        which the return relates. No remittance is required if the net amount
+        due is ten dollars ($10.00) or less.\
+        (Ord. 2023-72. Passed 11-13-23.)
 
     2. _(2)_ Any taxpayer that has duly requested an automatic six-month
     extension for filing the taxpayer's federal income tax return shall
@@ -1693,7 +1743,29 @@ and filed by the fiduciary of the estate or trust.
     provided in this division, including taxpayers not otherwise required to
     file annual returns.
 
-    5. _(5)_ To the extent that any provision in this division (G) of this
+    5. _(5)_ If a taxpayer receives an extension for the filing of a municipal
+    income tax return under [division (G)(2)][CFCO 124.05(G)(2)], [(3)][CFCO
+    124.05(G)(3)], or [(4)][CFCO 124.05(G)(4)] of this section, the tax
+    administrator shall not make any inquiry or send any notice to the taxpayer
+    with regard to the return on or before the date the taxpayer files the
+    return or on or before the extended due date to file the return, whichever
+    occurs first.
+
+        If a tax administrator violates [division (G)(5)][CFCO 124.05(G)(5)] of
+        this section, the municipal corporation shall reimburse the taxpayer for
+        any reasonable costs incurred to respond to such inquiry or notice, up
+        to $150.
+
+        [Division (G)(5)][CFCO 124.05(G)(5)] of this section does not apply to
+        an extension received under [division (G)(2)][CFCO 124.05(G)(2)] of this
+        section if the tax administrator has actual knowledge that the taxpayer
+        failed to file for a federal extension as required to receive the
+        extension under [division (G)(2)][CFCO 124.05(G)(2)] of this section or
+        failed to file for an extension under [division (G)(2)(b)][CFCO
+        124.05(G)(2)(b)] of this section.\
+        (Ord. 2023-72. Passed 11-13-23.)
+
+    6. _(6)_ To the extent that any provision in this division (G) of this
     section conflicts with any provision in divisions (N), (O), (P), or (Q) of
     this section, the provisions in divisions (N), (O), (P), or (Q) prevail.
 
@@ -2766,6 +2838,22 @@ penalties and interest shall apply:
     the liability shown thereon. The penalty shall not exceed $150 for each
     failure.
 
+        1. _(a)_ For tax years ending on or before December 31, 2022, with
+        respect to returns other than estimated income tax returns, the
+        Municipality may impose a penalty of $25 for each failure to timely file
+        each return, regardless of the liability shown thereon for each month,
+        or any fraction thereof, during which the return remains unfiled
+        regardless of the liability shown thereon.
+
+        2. _(b)_ For tax years ending on or after January 1, 2023, with respect
+        to returns other than estimated income tax returns, the Municipality may
+        impose a penalty not exceeding $25 for each failure to timely file each
+        return, regardless of the liability shown thereon, except that the
+        Municipality shall abate or refund the penalty assessed on a taxpayer’s
+        first failure to timely file a return after the taxpayer files that
+        return.\
+        (Ord. 2023-72. Passed 11-13-23.)
+
 4. _(D)_ Nothing in this section requires the Municipality to refund or credit
 any penalty, amount of interest, charges, or additional fees that the
 Municipality has properly imposed or collected before January 1, 2016.
@@ -3041,15 +3129,14 @@ after the Board of Tax Review's final hearing on the appeal, and send a copy of
 its final determination by ordinary mail to all of the parties to the appeal
 within fifteen (15) days after issuing the final determination. The taxpayer or
 the Tax Administrator may appeal the Board of Tax Review's final determination
-as provided in [Section 5717.011][ORC Section 5717.011] of the Ohio R.C.
+as provided in [Section 5717.011][ORC Section 5717.011] of the ORC.
 
 6. _(F)_ The Board of Tax Review created pursuant to this section shall adopt
 rules governing its procedures and shall keep a record of its transactions. Such
 records are not public records available for inspection under [Section
-149.43][ORC Section 149.43] of the Ohio R.C. Hearings requested by a taxpayer
-before a Board of Tax Review created pursuant to this section are not meetings
-of a public body subject to [Section 121.22][ORC Section 121.22] of the Ohio
-R.C.\
+149.43][ORC Section 149.43] of the ORC. Hearings requested by a taxpayer before
+a Board of Tax Review created pursuant to this section are not meetings of a
+public body subject to [Section 121.22][ORC Section 121.22] of the ORC.\
 (Ord. 2018-22. Passed 3-26-18.)
 
 ## 124.22   Authority to create rules and regulations
@@ -3106,7 +3193,7 @@ shall be subject to Section 124.99 of this Chapter:
 
     4. _(4)_ Fails to comply with the provisions of this section or any order or
     subpoena of the Tax Administrator.\
-    (Ord. 2018-22. Passed 3-26-18.)
+    (Ord. 2018-22. Passed 3-26-18; Ord. 2022-51. Passed 9-12-22.)
 
 ## 124.24   Savings clause
 
@@ -4369,9 +4456,18 @@ shall be subject to the penalties provided for in Section 124.99 (A) of this
 Chapter.\
 (Ord. 2018-22. Passed 3-26-18.)
 
+[CFCO 124.03(F)(1)(c)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403(F)(1)(c)>
+[CFCO 124.03(F)(2)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403(F)(2)>
+[CFCO 124.03(G)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403(G)>
 [CFCO 124.03]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12403-imposition-of-tax>
-[CFCO 124.05]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405-annual-return-filing>
+[CFCO 124.04]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12404-collection-at-source>
+[CFCO 124.05(G)(2)(b)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(G)(2)(b)>
+[CFCO 124.05(G)(2)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(G)(2)>
+[CFCO 124.05(G)(3)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(G)(3)>
+[CFCO 124.05(G)(4)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(G)(4)>
+[CFCO 124.05(G)(5)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(G)(5)>
 [CFCO 124.05(V)(3)(b)]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405(V)(3)(b)>
+[CFCO 124.05]:</chapters/chapter-124-municipal-income-tax-effective-january-1-2016/#12405-annual-return-filing>
 [OC 18.3]:<https://codes.ohio.gov/ohio-constitution/section-18.3>
 [ORC Chapter 718]:<https://codes.ohio.gov/ohio-revised-code/chapter-718>
 [ORC Chapter 1705]:<https://codes.ohio.gov/ohio-revised-code/chapter-1705>
