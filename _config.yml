@@ -21,6 +21,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: false
