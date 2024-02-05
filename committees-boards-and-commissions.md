@@ -18,49 +18,47 @@ The Committee of the Whole is a committee meeting of the entire council.
 Meetings are called on an as-needed basis when an issue is before Council that
 requires the deliberation of the entire Council.
 
-- Andrew Rockey
-- Angie DeBernardo
-- Brian Drum
-- Don Gutierrez
-- Erinn Grube
-- Mike Corkran
-- Nancy Rogoff
+ Name            | Role                  | Term
+-----------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Angie DeBernardo | President             | <small>Elected to council for a four-year term ending Dec 31, 2027<br>Elected council president for a one-year term ending Dec 31, 2024</small>
+Nancy Rogoff     | President pro tempore | <small>Elected to council for a two-year term ending Dec 31, 2025<br>Elected council president pro tempore for a one-year term ending Dec 31, 2024</small>
+Andrew Rockey    | Member                | <small>Elected to council for a two-year term ending Dec 31, 2025</small>
+Brian Drum       | Member                | <small>Elected to council for a four-year term ending Dec 31, 2027</small>
+Don Gutierrez    | Member                | <small>Elected to council for a two-year term ending Dec 31, 2025</small>
+Erinn Grube      | Member                | <small>Elected to council for a four-year term ending Dec 31, 2027</small>
+Mike Corkran     | Member                | <small>Elected to council for a two-year term ending Dec 31, 2025</small>
 
-### Administration & Compensation Committee
+### Administration & Finance Committee
 
-- Don Gutierrez, Chair
-- Erinn Grube
-- Mike Corkran
+ Name         | Role   | Term
+--------------|--------|-------------------------------------------------------------------------------------
+Don Gutierrez | Chair  | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Erinn Grube   | Member | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Mike Corkran  | Member | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
 
 ### Facilities & Services Committee
 
-- Andrew Rockey, Chair
-- Angie DeBernardo
-- Brian Drum
+ Name            | Role   | Term
+-----------------|--------|-------------------------------------------------------------------------------------
+Erinn Grube      | Chair  | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Angie DeBernardo | Member | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Brian Drum       | Member | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
 
-### Finance Committee
+### Infrastructure & Utilities Committee
 
-- Nancy Rogoff, Chair
-- Angie DeBernardo
-- Mike Corkran
+ Name         | Role   | Term
+--------------|--------|-------------------------------------------------------------------------------------
+Mike Corkran  | Chair  | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Andrew Rockey | Member | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Don Gutierrez | Member | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
 
 ### Safety Committee
 
-- Brian Drum, Chair
-- Don Gutierrez
-- Erinn Grube
-
-### Streets & Sidewalks Committee
-
-- Erin Grubbe, Chair
-- Don Gutierrez
-- Nancy Rogoff
-
-### Utilities Committee
-
-- Mike Corkran, Chair
-- Andrew Rockey
-- Brian Drum
+ Name            | Role   | Term
+-----------------|--------|-------------------------------------------------------------------------------------
+Brian Drum       | Chair  | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Angie DeBernardo | Member | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Nancy Rogoff     | Member | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
 
 ## Boards
 
@@ -72,32 +70,38 @@ architecture and zoning.
 Established in [Part One, Title Five, Chapter 137: Architectural Board of
 Review][1].
 
-- Steven King, Chair (2023 mayoral appointment)
-- Philip Koepf, Voting Member
-- Wendy Naylor, Voting Member
-- George Clemens, Architect Advisor (2023 mayoral appointment)
-- William Childs, Architect Advisor
-- Janna Lutz, Alternate
-- Member, Alternate <!-- - Joan Andersen, Alternate -->
-- Chuck Fazio, Alternate (2023 mayoral appointment)
+ Name          | Role              | Term
+---------------|-------------------|---------------------------------------------------------------------------
+Steven King    | Chair             | <small>Appointed by mayor to a three-year term ending Dec 31, 2025</small>
+Philip Koepf   | Voting Member     | <small>Appointed by mayor to a three-year term ending Dec 31, 2026</small>
+Wendy Naylor   | Voting Member     | <small>Appointed by mayor to a three-year term ending Dec 31, 2024</small>
+George Clemens | Architect Advisor | <small>Appointed by mayor to a three-year term ending Dec 31, 2025</small>
+William Childs | Architect Advisor | <small>Appointed by mayor to a three-year term ending Dec 31, 2026</small>
+Chuck Fazio    | Alternate         | <small>Appointed by mayor to a three-year term ending Dec 31, 2025</small>
+Janna Lutz     | Alternate         | <small>Appointed by mayor to a three-year term ending Dec 31, 2024</small>
+?              | Alternate         | <small>?</small>
 
 ### Board of Zoning Appeals (BZA)
 
 Established in [Part One, Title Five, Chapter 136: Board of Zoning Appeals][2].
 
-- Wade Fricke, Chair
-- Andrew Rockey, Council Representative
-- Elizabeth Hijar
-- Jim Holdren
-- Rachel Freshman-Johnson
-- Dori Loomis, Alternate (2023 mayoral appointment)
-- Member, Alternate
-- Member, Alternate
+ Name                   | Role                   | Term
+------------------------|------------------------|-------------------------------------------------------------------------------------
+Wade Fricke             | Chair                  | <small>Appointed by mayor to a four-year term ending Dec 31, 2027</small>
+Andrew Rockey           | Council Representative | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Elizabeth Hijar         | Member                 | <small>?</small>
+Jim Holdren             | Member                 | <small>?</small>
+Rachel Freshman-Johnson | Member                 | <small>?</small>
+Dori Loomis             | Alternate              | <small>Appointed by mayor to a four-year term ending Dec 31, 2026</small>
+?                       | Alternate              | <small>?</small>
+?                       | Alternate              | <small>?</small>
 
 ### Volunteer Firefighters’ Dependents Board
 
-- Member, Chair
-- Nancy Rogoff
+ Name        | Role   | Term
+-------------|--------|-------------------------------------------------------------------------------------
+Erinn Grube  | Member | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Nancy Rogoff | Member | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
 
 ## Commissions
 
@@ -109,116 +113,130 @@ liaison.
 Established in [Part One, Title Five, Chapter 145: Chagrin Falls Arts
 Commission][3].
 
-- Pam Spremulli, Chair
-- Angie DeBernardo, Council Representative
-- Greggory Hill
-- Mary Ann Quinn Ponce
+ Name                | Role                   | Term
+---------------------|------------------------|-------------------------------------------------------------------------------------
+Pam Spremulli        | Chair                  | <small>Appointed by mayor to a three-year term ending Dec 31, 2026</small>
+Don Gutierrez        | Council Representative | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Greggory Hill        | Member                 | <small>?</small>
+Mary Ann Quinn Ponce | Member                 | <small>?</small>
 
 ### Charter Review Commission
 
 Established in [Charter of the Village of Chagrin Falls, Article XI, Section
 XI-2: Charter review][4].
 
-- John Mitchell, Chair
-- Anne Griffiths
-- Emily Honsa Hicks
-- Justin Herdman
-- Kathryn Gaydos
+ Name             | Role   | Term
+------------------|--------|-----------------
+John Mitchell     | Chair  | <small>?</small>
+Anne Griffiths    | Member | <small>?</small>
+Emily Honsa Hicks | Member | <small>?</small>
+Justin Herdman    | Member | <small>?</small>
+Kathryn Gaydos    | Member | <small>?</small>
 
 ### Cemetery Commission
 
 Established in [Part One, Title Five, Chapter 142: Cemetery Commission][5].
 
-- Larry Trace, Chair
-- Erinn Grube, Council Representative
-- Moira Carr
-- Susan Harris White (2023 mayoral appointment)
+ Name              | Role                   | Term
+-------------------|------------------------|-------------------------------------------------------------------------------------
+Larry Trace        | Chair                  | <small>Appointed by mayor to a three-year term ending Dec 31, 2026</small>
+Angela DeBernardo  | Council Representative | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Moira Carr         | Member                 | <small>Appointed by mayor to a three-year term ending Dec 31, 2024</small>
+Susan Harris White | Member                 | <small>Appointed by mayor to a three-year term ending Dec 31, 2025</small>
 
 ### Economic Development Commission
 
-- Member, Chair
-- Member
-- Member
+ Name | Role | Term
+------|------|-----
+?     | ?    | ?
 
 ### Grove Hill Park Commission
 
 Established in the [donation agreement with Western Reserve Land
 Conservancy][6].
 
-- Nancy Rogoff, Council Representative
-- George Warnock, WRLC
-- Megan Quinn, WRLC
-- Chantel Michalek
+ Name            | Role                   | Term
+-----------------|------------------------|----------------------------------
+Nancy Rogoff     | Council Representative | <small>Appointed by mayor</small>
+George Warnock   | Member                 | <small>Appointed by WRLC</small>
+Megan Quinn      | Member                 | <small>Appointed by WRLC</small>
+Chantel Michalek | Member                 | <small>Appointed by mayor</small>
 
 ### Parking Commission
 
 Established in [Part One, Title Five, Chapter 141: Parking Commission][7].
 
-- Member, Chair
-- Mike Corkran, Council Representative
-- Susan Harris White
-- Member
+ Name              | Role                   | Term
+-------------------|------------------------|-----------------
+?                  | Chair                  | <small>?</small>
+?                  | Council Representative | <small>?</small>
+Susan Harris White | Member                 | <small>?</small>
+?                  | Member                 | <small>?</small>
 
 ### Parks Commission
 
 Established in [Part One, Title Five, Chapter 140: Parks Commission][8].
 
-- Anne Wombwell deConingh, Chair
-- Brian Drum, Council Representative
-- Greta Insolia
-- Jeff Opperman
-- Tod White (2023 mayoral appointment)
+ Name                   | Role                   | Term
+------------------------|------------------------|-------------------------------------------------------------------------------------
+Anne Wombwell deConingh | Chair                  | <small>?</small>
+Brian Drum              | Council Representative | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Greta Insolia           | Member                 | <small>Appointed by mayor to a three-year term ending Dec 31, 2026</small>
+Jeff Opperman           | Member                 | <small>?</small>
+Tod White               | Member                 | <small>Appointed by mayor to a three-year term ending Dec 31, 2025</small>
 
 ### Planning & Zoning Commission
 
 Established in [Charter of the Village of Chagrin Falls, Article VII, Section
 VII-4: Planning & Zoning Commission][9].
 
-- Patti Baker, Chair
-- Nancy Rogoff, Council Representative
-- Rodger Cahn
-- Matt Hicks
-- Wendy Davis (2023 mayoral appointment)
+ Name        | Role                   | Term
+-------------|------------------------|-------------------------------------------------------------------------------------
+Patti Baker  | Chair                  | <small>Appointed by mayor to a four-year term ending Dec 31, 2027</small>
+Nancy Rogoff | Council Representative | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Rodger Cahn  | Member                 | <small>?</small>
+Matt Hicks   | Member                 | <small>?</small>
+Wendy Davis  | Member                 | <small>Appointed by mayor to a four-year term ending Dec 31, 2026</small>
 
 ### Records Retention Commission
 
-- William Tomko, Mayor
-- Dale Markowitz, Law Director
-- Angela Gergye, Director of Finance
-- Laura Gorretta
+ Name          | Role                | Term
+---------------|---------------------|-----------------
+William Tomko  | Mayor               | <small>?</small>
+Dale Markowitz | Law Director        | <small>?</small>
+Angela Gergye  | Director of Finance | <small>?</small>
+Laura Gorretta | Member              | <small>?</small>
 
 ### Shade Tree Commission
 
 Established in [Part Five, Chapter 544, Section 14: Establishment and powers of
 Shade Tree Commission][10].
 
-- Terry Rounds, Chair
-- Andrew Rockey, Council Representative
-- Ben Himes
-- Edward Wells
-- Gary Nelson (2023 mayoral appointment)
-- Michael McGuire
-- Robert Weitzel (2023 mayoral appointment)
-- Stuart Lipp
+ Name           | Role                   | Term
+----------------|------------------------|-------------------------------------------------------------------------------------
+Terry Rounds    | Chair                  | <small>?</small>
+Andrew Rockey   | Council Representative | <small>Appointed by council president to a one-year term ending Dec 31, 2024</small>
+Ben Himes       | Member                 | <small>?</small>
+Edward Wells    | Member                 | <small>?</small>
+Gary Nelson     | Member                 | <small>Appointed by mayor to a three-year term ending Dec 31, 2025</small>
+Michael McGuire | Member                 | <small>?</small>
+Robert Weitzel  | Member                 | <small>Appointed by mayor to a three-year term ending Dec 31, 2025</small>
+Stuart Lipp     | Member                 | <small>Appointed by mayor to a three-year term ending Dec 31, 2026</small>
 
 ### Whitesburg Park Commission
 
 Established in [Part One, Title Five, Chapter 143: Whitesburg Park
 Commission][11].
 
-- Member, Chair
-- Member, Council Representative
-- Member
-- Member
-- Member
-- Member
-- Member
-
-## Other
-
-### Merchant Liaison
-
-- Angie DeBernardo, Council Representative
+ Name | Role                   | Term
+------|------------------------|-----------------
+?     | Chair                  | <small>?</small>
+?     | Council Representative | <small>?</small>
+?     | Member                 | <small>?</small>
+?     | Member                 | <small>?</small>
+?     | Member                 | <small>?</small>
+?     | Member                 | <small>?</small>
+?     | Member                 | <small>?</small>
 
 [1]:</chapters/chapter-137-architectural-board-of-review/>
 [2]:</chapters/chapter-136-board-of-zoning-appeals/>
