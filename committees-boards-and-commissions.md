@@ -9,14 +9,11 @@ title: "Committees, Boards, and Commissions"
 
 ## Committees
 
-Committees are made up of three council members and all meet on an as-needed
-basis, often in the hour or so before council meetings start.
+Committees are made up of three council members and all meet on an as-needed basis, often in the hour or so before council meetings start.
 
 ### Committee of the Whole
 
-The Committee of the Whole is a committee meeting of the entire council.
-Meetings are called on an as-needed basis when an issue is before Council that
-requires the deliberation of the entire Council.
+The Committee of the Whole is a committee meeting of the entire council. Meetings are called on an as-needed basis when an issue is before Council that requires the deliberation of the entire Council.
 
  Name            | Role                  | Term
 -----------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -62,13 +59,11 @@ Nancy Rogoff     | Member | <small>Appointed by council president to a one-year 
 
 ## Boards
 
-These groups act on behalf of the Village to make decisions regarding
-architecture and zoning.
+These groups act on behalf of the Village to make decisions regarding architecture and zoning.
 
 ### Architectural Board of Review (ABR)
 
-Established in [Part One, Title Five, Chapter 137: Architectural Board of
-Review][1].
+Established in [Part One, Title Five, Chapter 137: Architectural Board of Review][1].
 
  Name          | Role              | Term
 ---------------|-------------------|---------------------------------------------------------------------------
@@ -105,13 +100,11 @@ Nancy Rogoff | Member | <small>Appointed by council president to a one-year term
 
 ## Commissions
 
-These are groups made up primarily of residents with one member of council as a
-liaison.
+These are groups made up primarily of residents with one member of council as a liaison.
 
 ### Arts Commission
 
-Established in [Part One, Title Five, Chapter 145: Chagrin Falls Arts
-Commission][3].
+Established in [Part One, Title Five, Chapter 145: Chagrin Falls Arts Commission][3].
 
  Name                | Role                   | Term
 ---------------------|------------------------|-------------------------------------------------------------------------------------
@@ -122,8 +115,7 @@ Mary Ann Quinn Ponce | Member                 | <small>?</small>
 
 ### Charter Review Commission
 
-Established in [Charter of the Village of Chagrin Falls, Article XI, Section
-XI-2: Charter review][4].
+Established in [Charter of the Village of Chagrin Falls, Article XI, Section XI-2: Charter review][4].
 
  Name             | Role   | Term
 ------------------|--------|-----------------
@@ -152,8 +144,7 @@ Susan Harris White | Member                 | <small>Appointed by mayor to a thr
 
 ### Grove Hill Park Commission
 
-Established in the [donation agreement with Western Reserve Land
-Conservancy][6].
+Established in the [donation agreement with Western Reserve Land Conservancy][6].
 
  Name            | Role                   | Term
 -----------------|------------------------|----------------------------------
@@ -187,8 +178,7 @@ Tod White               | Member                 | <small>Appointed by mayor to 
 
 ### Planning & Zoning Commission
 
-Established in [Charter of the Village of Chagrin Falls, Article VII, Section
-VII-4: Planning & Zoning Commission][9].
+Established in [Charter of the Village of Chagrin Falls, Article VII, Section VII-4: Planning & Zoning Commission][9].
 
  Name        | Role                   | Term
 -------------|------------------------|-------------------------------------------------------------------------------------
@@ -209,8 +199,7 @@ Laura Gorretta | Member              | <small>?</small>
 
 ### Shade Tree Commission
 
-Established in [Part Five, Chapter 544, Section 14: Establishment and powers of
-Shade Tree Commission][10].
+Established in [Part Five, Chapter 544, Section 14: Establishment and powers of Shade Tree Commission][10].
 
  Name           | Role                   | Term
 ----------------|------------------------|-------------------------------------------------------------------------------------
@@ -225,8 +214,7 @@ Stuart Lipp     | Member                 | <small>Appointed by mayor to a three-
 
 ### Whitesburg Park Commission
 
-Established in [Part One, Title Five, Chapter 143: Whitesburg Park
-Commission][11].
+Established in [Part One, Title Five, Chapter 143: Whitesburg Park Commission][11].
 
  Name | Role                   | Term
 ------|------------------------|-----------------
