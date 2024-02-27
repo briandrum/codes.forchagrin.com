@@ -22,7 +22,7 @@ title: "Chapter 351: Parking Generally"
 * [351.12   Prohibition against parking on streets or highways](#35112-prohibition-against-parking-on-streets-or-highways)
 * [351.13   Blockading or obstructing street](#35113-blockading-or-obstructing-street)
 * [351.14   Night parking generally](#35114-night-parking-generally)
-* [351.141   Parking prohibitions on private property; private tow-awayzones](#351141-parking-prohibitions-on-private-property-private-tow-awayzones)
+* [351.141   Parking prohibitions on private property; private tow-away zones](#351141-parking-prohibitions-on-private-property-private-tow-away-zones)
 * [351.15   Night parking of commercial vehicles in residential districts](#35115-night-parking-of-commercial-vehicles-in-residential-districts)
 * [351.16   Parking transport trucks](#35116-parking-transport-trucks)
 * [351.17   Waiver](#35117-waiver)
