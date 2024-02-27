@@ -433,28 +433,22 @@ requirements of this section, the owner of private property or his or her
 authorized agent may remove, or cause to be removed, any vehicle parked on the
 property in violation of a posted parking prohibition condition or regulation.
 
-3. _(c)_ The owner of private property may create a private tow-away zone only
-if all of the following conditions are satisfied:
+3. _(c)_ The owner of private property may create a private tow-away zone only if all of the following conditions are satisfied:
 
-    1. _(1)_ The owner posts on his or her property a sign that is at least
-    eighteen inches by twenty-four inches in size, that is visible from all
-    entrances to the property, and that contains at least all of the following
-    information:
+    1. _(1)_ The owner posts on his or her property a sign that is at least eighteen inches by twenty-four inches in size, that is visible from all entrances to the property, and that includes all of the following information:
 
-        1. _(A)_ A notice that the property is a private tow-away zone and that
-        vehicles not authorized to park on the property will be towed away;
+        1. _(A)_ A statement that the property is a tow-away zone;
 
-        2. _(B)_ The telephone number of the person from whom a towed away
-        vehicle can be recovered and the address of the place to which the
-        vehicle will be taken and from which it may be recovered; and
-        (Ord. 1998-54. Passed 7-13-98.)
+        2. _(B)_ A description of persons authorized to park on the property. If the property is a residential property, the owner of the private property may include on the sign a statement that only tenants and guests may park in the private tow-away zone, subject to the terms of the property owner. If the property is a commercial property, the owner of the private property may include in the sign a statement that only customers may park in the private tow-away zone. In all cases, if it is not apparent which persons may park in the private tow-away zone, the owner of the private property shall include in the sign the address of the property owner of the private tow-away zone is located or the name of the business that is located on the property designated as a private tow-away zone;
 
-        3. _(C)_ A statement that the vehicle may be recovered at any time
-        during the day or night upon the submission of proof of ownership and
-        the payment of a towing charge in an amount not to exceed ninety dollars
-        ($90.00) and a storage charge in an amount not to exceed twenty dollars
-        ($20.00) per twenty-four hour period.\
-        (Ord. 2016-27. Passed 6-13-16.)
+        3. _(C)_ If the private tow-away zone is not enforceable at all times, the times during which the parking restrictions are enforced;
+
+        4. _(D)_ The telephone number and address of the place from which a towed vehicle may be recovered at any time during the day and night; and
+
+        5. _(E)_ A statement that the failure to recover a towed vehicle may result in the loss of title to the vehicle as provided in the Ohio Revised Code;
+
+        6. _(F)_ Any charge for towing and any storage fees shall conform to the maximum charges permitted by the Public Utilities Commission pursuant to rules adopted under Section 4921.25 of the Ohio Revised Code.
+        ([Ord. 2024-09. Passed 2-26-24.][CFO 2024-09])
 
     2. _(2)_ The place to which the towed vehicle is taken and from which it may
     be recovered is conveniently located, is well lighted, and is on or within a
@@ -626,6 +620,7 @@ penalty.)
 [CFCO 351.03(q)]:</chapters/chapter-351-parking-generally/#35103(q)>
 [CFCO 351.04(f)]:</chapters/chapter-351-parking-generally/#35104(f)>
 [CFCO 521.11]:</chapters/chapter-521-health-safety-and-sanitation/#52111-junk-and-junk-vehicles>
+[CFO 2024-09]:</ordinance-2024-09/>
 [ORC Section 3781.111]:<https://codes.ohio.gov/ohio-revised-code/section-3781.111>
 [ORC Section 4503.41]:<https://codes.ohio.gov/ohio-revised-code/section-4503.41>
 [ORC Section 4503.44]:<https://codes.ohio.gov/ohio-revised-code/section-4503.44>
