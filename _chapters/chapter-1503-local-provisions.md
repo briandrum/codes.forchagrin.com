@@ -232,9 +232,8 @@ shall be deemed to be a separate offense.\
     2. _(2)_ "Commercial building" means any structure other than a one-, two-,
     or three-family dwelling that is issued a certificate of occupancy.
 
-2. _(b)_ **Central Station Monitored Fire Alarm System Requirement/Application
-for a Building Permit.** The owner of any commercial building that applies for a
-building permit shall install and maintain a central station fire alarm system.
+2. _(b)_ **Central Station Monitored Fire Alarm System Requirement/Application for a Building Permit.** The owner of any commercial building or their representative, including a tenant, who is required to apply for a building permit shall install and maintain a central station fire alarm system.\
+([Ord. 2024-08][CFO 2024-08]. Passed 3-11-24.)
 
 3. _(c)_ **Central Station Monitored Fire Alarm System Requirement/New
 Construction.** The owner of any commercial building that is constructed on or
@@ -303,8 +302,10 @@ no specific penalty is provided.)\
 [CFCO 303.08]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30308-impounding-of-vehicles-redemption>
 [CFCO 1501.99]:</chapters/chapter-1501-model-codes-adopted/#150199-penalty>
 [CFCO 1503.071]:</chapters/chapter-1503-local-provisions/#1503071-central-station-monitored-fire-alarm-system-requirement>
+[CFO 2024-08]:</ordinance-2024-08>
 [ORC Section 737.21]:<https://codes.ohio.gov/ohio-revised-code/section-737.21>
 [ORC Section 737.27]:<https://codes.ohio.gov/ohio-revised-code/section-737.27>
 [ORC Section 3929.86]:<https://codes.ohio.gov/ohio-revised-code/section-3929.86>
 [ORC Section 3929.86]:<https://codes.ohio.gov/ohio-revised-code/section-3929.86>
 [ORC Section 4933.22]:<https://codes.ohio.gov/ohio-revised-code/section-4933.22>
+
