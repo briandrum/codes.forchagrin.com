@@ -70,71 +70,23 @@ The legislative powers of the Municipality, except as otherwise provided by this
 
 6. _(f)_ The advertising and awarding of contracts;
 
-7. _(g)_ Such other general regulations as the Council may deem necessary
-including, but not limited to adopting one or more ordinances to provide that
-all meetings of Council and its committees, and any board, commission and other
-administrative body of the Village shall be open to the public which may be by
-live attendance, and/or by means of teleconference, videoconference, or any
-other similar electronic technology, unless a private executive session is
-called pursuant to the Ohio Revised Code or to meet with the Director of Law or
-any Assistant Director of Law.
+7. _(g)_ Such other general regulations as the Council may deem necessary including, but not limited to adopting one or more ordinances to provide that all meetings of Council and its committees, and any board, commission and other administrative body of the Village shall be open to the public which may be by live attendance, and/or by means of teleconference, videoconference, or any other similar electronic technology, unless a private executive session is called pursuant to the Ohio Revised Code or to meet with the Director of Law or any Assistant Director of Law.
 
-8. _(h)_ The affirmative vote of at least five (5) members of Council shall be
-required, whenever Council determines that the predetermined purpose, by
-existing Ordinance, to which portions of income tax revenues are to be
-allocated, must be reallocated for any one (1) budget year appropriation, due to
-exigent circumstances existing at the time such reallocation action is taken.\
+8. _(h)_ The affirmative vote of at least five (5) members of Council shall be required, whenever Council determines that the predetermined purpose, by existing Ordinance, to which portions of income tax revenues are to be allocated, must be reallocated for any one (1) budget year appropriation, due to exigent circumstances existing at the time such reallocation action is taken.\
 (Amended 11-8-16; 11-2-21)
+
+9. _(i)_ The estimated or known amount of any expenditure or any proposed project, purchase, lease or provision of services when public bidding shall be required, intending to supersede any conflicting state statutory provision setting the threshold amount.\
+(Amended 3-19-24)
 
 ## Section IV-8A: Administrative authority
 
-In addition to the legislative power granted herein, Council shall have the
-power to hear appeals and to grant exceptions to and variances in the
-application of resolutions, ordinances, regulations, measures and orders of
-administrative officials or agencies governing zoning in the Municipality in
-such manner as it shall establish by ordinance, provided that no appeal shall be
-heard, or exception or variance granted by Council until the Board of Zoning
-Appeals shall have acted upon such request for an exception or variance and upon
-taking such action, the Board of Zoning Appeals' secretary shall immediately
-notify in writing, the Clerk of Council of such action and within fifteen (15)
-days after receipt of said written notification by the Clerk, any three (3) or
-more Members of Council, may, in writing, request that the Clerk of Council set
-a public hearing to review the decision of the Board of Zoning Appeals, in which
-case the Council shall receive testimony, and consider the evidence presented to
-Council, and the decision of Council shall be final in regard to the exception
-or variance request to the Planning and Zoning Code, and a majority of Council
-shall be required to either approve or deny such requested exception or
-variance. Notice of the hearing by Council shall be given as provided in the
-Planning and Zoning Code. If three (3) or more Members of Council fail to
-request a hearing within fifteen (15) days after notification of the decision of
-the Board of Zoning Appeals is received by the Clerk of Council, the decision of
-the Board of Zoning Appeals shall be final.\
+In addition to the legislative power granted herein, Council shall have the power to hear appeals and to grant exceptions to and variances in the application of resolutions, ordinances, regulations, measures and orders of administrative officials or agencies governing zoning in the Municipality in such manner as it shall establish by ordinance, provided that no appeal shall be heard, or exception or variance granted by Council until the Board of Zoning Appeals shall have acted upon such request for an exception or variance and upon taking such action, the Board of Zoning Appeals' secretary shall immediately notify in writing, the Clerk of Council of such action and within fifteen (15) days after receipt of said written notification by the Clerk, any three (3) or more Members of Council, may, in writing, request that the Clerk of Council set a public hearing to review the decision of the Board of Zoning Appeals, in which case the Council shall receive testimony, and consider the evidence presented to Council, and the decision of Council shall be final in regard to the exception or variance request to the Planning and Zoning Code, and a majority of Council shall be required to either approve or deny such requested exception or variance. Notice of the hearing by Council shall be given as provided in the Planning and Zoning Code. If three (3) or more Members of Council fail to request a hearing within fifteen (15) days after notification of the decision of the Board of Zoning Appeals is received by the Clerk of Council, the decision of the Board of Zoning Appeals shall be final.\
 (Amended 11-8-16)
 
 ## Section IV-9: Effective date of ordinances and resolutions
 
-Each ordinance or resolution providing for (a) the appropriation of money, (b)
-an annual tax levy, (c) improvements petitioned for by the owners of a majority
-of the foot frontage of the property benefited and to be specially assessed
-therefor and (d) any emergency ordinance or resolution necessary for the
-immediate preservation of the public peace, health or safety, shall take effect,
-unless a later time be specified therein, upon its signature by the Mayor, or
-upon the expiration of the time within which it may be disapproved by the Mayor,
-or upon its passage after disapproval by the Mayor, as the case may be. All
-other ordinances and resolutions shall take effect and be operative in the
-manner provided by the general laws of the State of Ohio. Each emergency measure
-shall contain a statement of the necessity for such emergency action and shall
-require the affirmative vote of two-thirds of the members of the Council for its
-enactment. No ordinance or resolution (a) relating to any changes in the
-boundaries or the zoning ordinance of the Municipality, (b) providing for the
-surrender or joint exercise of any of its powers, (c) granting any franchise, or
-(d) contracting for the supply to the Municipality or its inhabitants of the
-product or service of any utility, whether Municipally owned or not, shall be
-enacted as an emergency measure.
+Each ordinance or resolution providing for (a) the appropriation of money, (b) an annual tax levy, (c) improvements petitioned for by the owners of a majority of the foot frontage of the property benefited and to be specially assessed therefor and (d) any emergency ordinance or resolution necessary for the immediate preservation of the public peace, health or safety, shall take effect, unless a later time be specified therein, upon its signature by the Mayor, or upon the expiration of the time within which it may be disapproved by the Mayor, or upon its passage after disapproval by the Mayor, as the case may be. All other ordinances and resolutions shall take effect and be operative in the manner provided by the general laws of the State of Ohio. Each emergency measure shall contain a statement of the necessity for such emergency action and shall require the affirmative vote of two-thirds of the members of the Council for its enactment. No ordinance or resolution (a) relating to any changes in the boundaries or the zoning ordinance of the Municipality, (b) providing for the surrender or joint exercise of any of its powers, (c) granting any franchise, or (d) contracting for the supply to the Municipality or its inhabitants of the product or service of any utility, whether Municipally owned or not, shall be enacted as an emergency measure.
 
 ## Section IV-10: Employees of council
 
-Council may employ such employees as it may deem necessary for the proper
-discharge of its legislative duties. Any person employed by the Council shall
-serve at the pleasure of the Council and shall not be subject to civil service
-regulations.
+Council may employ such employees as it may deem necessary for the proper discharge of its legislative duties. Any person employed by the Council shall serve at the pleasure of the Council and shall not be subject to civil service regulations.
