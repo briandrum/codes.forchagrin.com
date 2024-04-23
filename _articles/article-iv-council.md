@@ -21,127 +21,52 @@ title: "Article IV: Council"
 
 ## Section IV-1: Number and term
 
-Council shall consist of seven (7) Council members elected at large for terms of
-four (4) years, except as herein provided, commencing on the first day of
-January next following their elections and to serve until their successors are
-chosen and qualified. At the general election in calendar year 2023, three (3)
-members of Council shall be elected to a term of four (4) years and four (4)
-members of Council shall be elected to a term of two (2) years. Thereafter, all
-Council terms shall be for a period of four (4) years, with four (4) members of
-Council being first elected in calendar year 2025 to four (4) year terms.\
+Council shall consist of seven (7) Council members elected at large for terms of four (4) years, except as herein provided, commencing on the first day of January next following their elections and to serve until their successors are chosen and qualified. At the general election in calendar year 2023, three (3) members of Council shall be elected to a term of four (4) years and four (4) members of Council shall be elected to a term of two (2) years. Thereafter, all Council terms shall be for a period of four (4) years, with four (4) members of Council being first elected in calendar year 2025 to four (4) year terms.\
 (Amended 11-3-81; 11-8-11; 11-2-21)
 
 ## Section IV-2: Qualifications
 
-Each member of Council shall have been a resident and qualified elector of the
-Municipality for at least two continuous years prior to his election and shall
-continue to be a resident of the Municipality throughout his term of office. A
-member of Council shall not hold any other public office, or hold employment
-with said Municipality, except as otherwise provided in this Charter or by
-ordinance enacted thereunder, and that of notary public or membership in the
-State Militia or reserve corps of the United States.
+Each member of Council shall have been a resident and qualified elector of the Municipality for at least two continuous years prior to his election and shall continue to be a resident of the Municipality throughout his term of office. A member of Council shall not hold any other public office, or hold employment with said Municipality, except as otherwise provided in this Charter or by ordinance enacted thereunder, and that of notary public or membership in the State Militia or reserve corps of the United States.
 
-Any member of Council who shall cease to possess, or who violates any of the
-qualifications herein enumerated may be removed from office, but failure to
-maintain said qualifications shall not render void or ineffective any action of
-Council in which such member has participated.\
+Any member of Council who shall cease to possess, or who violates any of the qualifications herein enumerated may be removed from office, but failure to maintain said qualifications shall not render void or ineffective any action of Council in which such member has participated.\
 (Amended 11-2-76)
 
 ## Section IV-3: Organization
 
-On the second day of January each year (or if such date be a Saturday or Sunday,
-then the following Monday), the Council shall meet in the Council Chamber for
-the purpose of organization. The Council shall adopt its own rules, regulations
-and/or by-laws except as otherwise provided in this Charter.\
+On the second day of January each year (or if such date be a Saturday or Sunday, then the following Monday), the Council shall meet in the Council Chamber for the purpose of organization. The Council shall adopt its own rules, regulations and/or by-laws except as otherwise provided in this Charter.\
 (Amended 11-3-81)
 
 ## Section IV-4: President of council and president pro tem
 
-The Council shall at the time of its organization choose one of its members as
-President of Council and another as President pro tom, who shall preside at
-meetings of Council in the absence of the President of Council. The President of
-Council shall have all the powers, duties, functions, obligations and rights of
-any other member of Council, including the right to vote; shall preside at all
-meetings of Council; and shall appoint the various committees of Council,
-co-ordinating the work of the various committees appointed by the Council
-President.
+The Council shall at the time of its organization choose one of its members as President of Council and another as President pro tom, who shall preside at meetings of Council in the absence of the President of Council. The President of Council shall have all the powers, duties, functions, obligations and rights of any other member of Council, including the right to vote; shall preside at all meetings of Council; and shall appoint the various committees of Council, co-ordinating the work of the various committees appointed by the Council President.
 
 ## Section IV-5: Removal
 
-The Council shall be the judge of the election and qualifications of its own
-members. It may remove any member for gross misconduct, or malfeasance in or
-disqualification for office, or for the conviction while in office of a crime
-involving moral turpitude, or if adjudicated legally incompetent, or for a
-violation of the oath of office, or persistent failure to abide by the rules of
-the Council; provided, however, that such removal shall not take place without
-the affirmative vote of three-fourths of the remaining members of Council nor
-until the accused member shall have been notified in writing of the charge at
-least ten days in advance of a public hearing upon such charge, and the
-Councilperson or the Councilperson's counsel has been given an opportunity to be
-heard, present evidence, or examine any witness appearing in support of the
-charge. The accused member shall not vote on the question of removal.
+The Council shall be the judge of the election and qualifications of its own members. It may remove any member for gross misconduct, or malfeasance in or disqualification for office, or for the conviction while in office of a crime involving moral turpitude, or if adjudicated legally incompetent, or for a violation of the oath of office, or persistent failure to abide by the rules of the Council; provided, however, that such removal shall not take place without the affirmative vote of three-fourths of the remaining members of Council nor until the accused member shall have been notified in writing of the charge at least ten days in advance of a public hearing upon such charge, and the Councilperson or the Councilperson's counsel has been given an opportunity to be heard, present evidence, or examine any witness appearing in support of the charge. The accused member shall not vote on the question of removal.
 
 ## Section IV-6: Vacancies
 
-Any vacancy in the Council or an office thereof shall be filled by a majority
-vote of the remaining members of Council for the unexpired term. If the vacancy
-is not filled within thirty days after it shall have occurred, the Mayor shall
-fill it by appointment.
+Any vacancy in the Council or an office thereof shall be filled by a majority vote of the remaining members of Council for the unexpired term. If the vacancy is not filled within thirty days after it shall have occurred, the Mayor shall fill it by appointment.
 
 ## Section IV-7: Council meetings
 
-Council shall hold at least one (1) regular meeting in each calendar month. A
-majority of the Council members shall constitute a quorum for the transaction of
-business at any meeting of Council, but a lesser number may adjourn the meeting
-from time to time. At any meeting at which a quorum is present, any ordinance or
-resolution may be passed or adopted, or any other action may be taken, by the
-affirmative vote of four (4) Council members unless a larger number be required
-by the provisions of this Charter. The Clerk of Council shall keep a record of
-its proceedings in a journal in which the yea or nay vote of each Council member
-voting on every ordinance or resolution or the reconsideration of legislation
-vetoed by the Mayor, and the action of Council on other measures shall be
-recorded. All meetings of Council called for the purpose of transacting public
-business, where a majority of the Council members elected are present, shall be
-open to the public, which may be by live attendance or, when permitted by law,
-by means of teleconference, video conference, or any other similar electronic
-technology, unless a private executive session is called pursuant to the Ohio
-Revised Code, or a private executive session is held with the Director of Law or
-an Assistant Director of Law.\
+Council shall hold at least one (1) regular meeting in each calendar month. A majority of the Council members shall constitute a quorum for the transaction of business at any meeting of Council, but a lesser number may adjourn the meeting from time to time. At any meeting at which a quorum is present, any ordinance or resolution may be passed or adopted, or any other action may be taken, by the affirmative vote of four (4) Council members unless a larger number be required by the provisions of this Charter. The Clerk of Council shall keep a record of its proceedings in a journal in which the yea or nay vote of each Council member voting on every ordinance or resolution or the reconsideration of legislation vetoed by the Mayor, and the action of Council on other measures shall be recorded. All meetings of Council called for the purpose of transacting public business, where a majority of the Council members elected are present, shall be open to the public, which may be by live attendance or, when permitted by law, by means of teleconference, video conference, or any other similar electronic technology, unless a private executive session is called pursuant to the Ohio Revised Code, or a private executive session is held with the Director of Law or an Assistant Director of Law.\
 (Amended 11-8-88; 11-2-21)
 
 ## Section IV-8: Power and duties
 
-The legislative powers of the Municipality, except as otherwise provided by this
-Charter and by the Constitution of the State of Ohio, shall be vested in the
-Council. The Council shall by ordinance make provision for:
+The legislative powers of the Municipality, except as otherwise provided by this Charter and by the Constitution of the State of Ohio, shall be vested in the Council. The Council shall by ordinance make provision for:
 
 1. _(a)_ The time and place of regular meetings of the Council;
 
 2. _(b)_ The method of calling special meetings of the Council;
 
-3. _(c)_ The method of giving public notice of the enactment of its ordinances
-and resolutions and of any other of its acts or proceedings which it deems
-proper to publish.
+3. _(c)_ The method of giving public notice of the enactment of its ordinances and resolutions and of any other of its acts or proceedings which it deems proper to publish. All ordinances and resolutions, unless otherwise directed by Council, shall be posted for not less than fifteen (15) days on the Village website and proof of the publication and posting shall be made by the operator of the Village website and shall be filed with the Clerk of Council. Unless otherwise determined by Council, the operator of the official public notice website shall be the Clerk of Council.\
+(Amended 3-19-24)
 
-4. _(d)_ The form and method or enactment of its ordinances and resolutions,
-provided that no ordinance or resolution shall contain more than one (1) subject
-which shall be clearly expressed in its title, and provided further that no
-ordinance or resolution of a general or permanent nature or granting a
-franchise, creating a right, involving the expenditure of money or the levying
-of a tax other than a resolution providing for an election on the question of
-issuing bonds or levying a tax, or for the purchase, lease, sale or transfer of
-property shall be passed unless it has been read in full or by caption on three
-(3) different days unless the requirement for such reading be dispensed with by
-the affirmative vote of two-thirds (⅔rds) of the Council members and in the case
-of an ordinance being considered for certification to the Board of Elections to
-place an initiative on the ballot regarding any amendment to the Planning and
-Zoning Code and/or Zoning Map of the Municipality shall, without exception, be
-read by title at three (3) consecutive meetings of Council;
+4. _(d)_ The form and method or enactment of its ordinances and resolutions, provided that no ordinance or resolution shall contain more than one (1) subject which shall be clearly expressed in its title, and provided further that no ordinance or resolution of a general or permanent nature or granting a franchise, creating a right, involving the expenditure of money or the levying of a tax other than a resolution providing for an election on the question of issuing bonds or levying a tax, or for the purchase, lease, sale or transfer of property shall be passed unless it has been read in full or by caption on three (3) different days unless the requirement for such reading be dispensed with by the affirmative vote of two-thirds (⅔rds) of the Council members and in the case of an ordinance being considered for certification to the Board of Elections to place an initiative on the ballot regarding any amendment to the Planning and Zoning Code and/or Zoning Map of the Municipality shall, without exception, be read by title at three (3) consecutive meetings of Council;
 
-5. _(e)_ The procedure for making public improvements and levying assessments,
-including the procedure for combining two (2) or more public improvements, and
-the levying of assessments therefore, in one (1) proceeding if Council finds
-that it will be economical and practical to undertake such improvements jointly;
+5. _(e)_ The procedure for making public improvements and levying assessments, including the procedure for combining two (2) or more public improvements, and the levying of assessments therefore, in one (1) proceeding if Council finds that it will be economical and practical to undertake such improvements jointly;
 
 6. _(f)_ The advertising and awarding of contracts;
 
