@@ -448,7 +448,7 @@ property in violation of a posted parking prohibition condition or regulation.
         5. _(E)_ A statement that the failure to recover a towed vehicle may result in the loss of title to the vehicle as provided in the Ohio Revised Code;
 
         6. _(F)_ Any charge for towing and any storage fees shall conform to the maximum charges permitted by the Public Utilities Commission pursuant to rules adopted under Section 4921.25 of the Ohio Revised Code.
-        ([Ord. 2024-09. Passed 2-26-24.][CFO 2024-09])
+        ([Ord. 2024-09][CFO 2024-09]. Passed 2-26-24.)
 
     2. _(2)_ The place to which the towed vehicle is taken and from which it may
     be recovered is conveniently located, is well lighted, and is on or within a

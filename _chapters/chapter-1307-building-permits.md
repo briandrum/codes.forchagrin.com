@@ -72,7 +72,7 @@ ordinance and standards, on such approval with such conditions that the
 Approving Authority believes are necessary to impose in order that the public
 health, safety, convenience, comfort and general welfare of the resident and the
 Village may be safeguarded and substantial justice done.\
-([Ord. 2022-19. Passed 6-13-22.][CFO 2022-19])
+([Ord. 2022-19][CFO 2022-19]. Passed 6-13-22.)
 
 ## 1307.02   Issuance of permit; certification of compliance with zoning code
 
