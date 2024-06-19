@@ -21,7 +21,7 @@ title: "Chapter 537: Offenses Against Persons"
 * [537.09   Coercion](#53709-coercion)
 * [537.10   Telecommunication harassment](#53710-telecommunication-harassment)
 * [537.11   Threatening or harassing telephone calls](#53711-threatening-or-harassing-telephone-calls)
-* [537.12   Misuse of 9-1-1system](#53712-misuse-of-9-1-1system)
+* [537.12   Misuse of 9-1-1 system](#53712-misuse-of-9-1-1-system)
 * [537.13   Adulterating of or furnishing adulterated food or confection](#53713-adulterating-of-or-furnishing-adulterated-food-or-confection)
 * [537.14   Domestic violence](#53714-domestic-violence)
 * [537.15   Temporary protection order](#53715-temporary-protection-order)
