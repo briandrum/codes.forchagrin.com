@@ -1,33 +1,10 @@
 ---
-layout: post
-title: "An Ordinance of the Village of Chagrin Falls to Establish Regulations for Short-Term Rentals in the Village of Chagrin Falls"
-ordinance_no: "2024-38"
+layout: chapter
+part_no: 13
+title_no: 5
+chapter_no: 1361
+title: "Chapter 1361: Short-Term Rental Regulations"
 ---
-
-- Introduced by: Mayor
-- [1st Reading (06/10/2024)][CFO 2024-38]
-- [2nd Reading (07/08/2024)][CFO 2024-38-2]
-- [3rd Reading (07/22/2024)][CFO 2024-38-3]
-- **4th Reading (08/12/2024)** ([alternate version with Hosting Platform Requirements][CFO 2024-38-4a])
-- Passed (08/12/2024)
-
-_Whereas,_ the Planning and Zoning Commission, at their May 20, 2024 meeting recommended to Council to regulate short-term rental of dwellings within the Village of Chagrin Falls and to add new [Chapter 1361][CFCO 1361] of the Codified Ordinances; and
-
-_Whereas,_ Council desires to enact new [Chapter 1361][CFCO 1361] to be added to the Codified Ordinances to regulate, at present, short-term rentals, as more fully set forth in Exhibit "A" attached hereto and made a part hereof.
-
-**_Now Therefore, Be It Ordained by the Council of the Village of Chagrin Falls, Cuyahoga County, State of Ohio:_**
-
-**Section 1.** That [Chapter 1361][CFCO 1361], attached hereto as Exhibit "A", regulating short-term rentals of dwellings within the Village of Chagrin Falls, is hereby adopted and the Codified Ordinances shall be amended to add new [Chapter 1361][CFCO 1361].
-
-**Section 2.** The Ordinances of the Village, to the extent inconsistent with the newly enacted provisions herein regarding [Chapter 1361][CFCO 1361], attached here to as Exhibit "A", are hereby repealed, except to the extent that such Code Sections are the subject of an enforcement action they shall be considered effective for the purposes of enforcement for any violations that occur prior to repeal.
-
-**Section 3.** That actions of this Council concerning and relating to the passage of this legislation were adopted in lawful meetings of this Council and that all deliberations of this Council and of any of its committees that resulted in such formal action were in compliance with all legal requirements, including [Chapter 114][CFCO 114] of the Codified Ordinances of the Village of Chagrin Falls.
-
-**Section 4.** That in accordance with [Section 113.01][CFCO 113.01] of the Codified Ordinances of the Village of Chagrin Falls, public notice of this Ordinance shall be given by posting a copy thereof for not less than fifteen (15) days on the Village website.
-
-## Exhibit "A"
-
-# Chapter 1361: Short-Term Rental Regulations
 
 ## Sections
 
@@ -61,7 +38,8 @@ As used in this Chapter:
 
 8. _(h)_ "Certificate of Rental Registration" means the certificate provided by the Village upon submission of a completed registration application form and the required fee.
 
-9. _(i)_ "Dwelling" means any building or structure which is occupied or intended for occupancy in whole or in part as a home, residence, or sleeping place for one or more persons.
+9. _(i)_ "Dwelling" means any building or structure which is occupied or intended for occupancy in whole or in part as a home, residence, or sleeping place for one or more persons.\
+([Ord. 2024-38][CFO 2024-38-4]. Passed 8-12-24.)
 
 ## 1361.02   Registration Required
 
@@ -89,11 +67,13 @@ As used in this Chapter:
 
 7. _(g)_ Any change in ownership of the dwelling shall void the short-term rental registration and shall require submission and approval of a new short-term rental registration application.
 
-8. _(h)_ The current short-term rental registration form must be prominently posted inside the dwelling and on any hosting platform(s) or in any other advertisement regarding the dwelling. The registration form shall be removed upon expiration.
+8. _(h)_ The current short-term rental registration form must be prominently posted inside the dwelling and on any hosting platform(s) or in any other advertisement regarding the dwelling. The registration form shall be removed upon expiration.\
+([Ord. 2024-38][CFO 2024-38-4]. Passed 8-12-24.)
 
 ## 1361.03   Local Agent In-Charge
 
-1. _(a)_ Each short-term rental dwelling shall have a local agent in-charge assigned and the information provided to the Chief Administrative Officer and conspicuously posted within the dwelling. (i) The short-term rental Owner shall provide written notice which must be conspicuously displayed within the dwelling of: the contact information, including the telephone number, and email address of the local agent in-charge with responsibility to resolve any complaints, regarding the condition, operation and maintenance of the dwelling; (ii) police, fire, and emergency management services phone numbers serving the dwelling; and (iii) the trash and recycling collection days for the dwelling and any applicable ordinances, rules and regulations pertaining to leaving or storing trash on the exterior of the dwelling. In the event the Chief Administrative Officer is unable to contact any Owner, any notice to be provided to the Owner may be sent to the tax mailing address noted in the County Fiscal Officer's records for such dwelling.
+1. _(a)_ Each short-term rental dwelling shall have a local agent in-charge assigned and the information provided to the Chief Administrative Officer and conspicuously posted within the dwelling. (i) The short-term rental Owner shall provide written notice which must be conspicuously displayed within the dwelling of: the contact information, including the telephone number, and email address of the local agent in-charge with responsibility to resolve any complaints, regarding the condition, operation and maintenance of the dwelling; (ii) police, fire, and emergency management services phone numbers serving the dwelling; and (iii) the trash and recycling collection days for the dwelling and any applicable ordinances, rules and regulations pertaining to leaving or storing trash on the exterior of the dwelling. In the event the Chief Administrative Officer is unable to contact any Owner, any notice to be provided to the Owner may be sent to the tax mailing address noted in the County Fiscal Officer's records for such dwelling.\
+([Ord. 2024-38][CFO 2024-38-4]. Passed 8-12-24.)
 
 ## 1361.04   Safety Requirements
 
@@ -103,7 +83,8 @@ As used in this Chapter:
 
 3. _(c)_ A fire extinguisher, located within the dwelling shall be provided and maintained.
 
-4. _(d)_ Before any Certificate of Rental Registration is issued or renewed the Fire Chief, Fire Marshall, or their designee shall inspect the dwelling to verify that all safety requirements set forth in this Section are properly installed, properly maintained and operating in good condition and to verify compliance with this Chapter. The Fire Chief, Fire Marshall or their designee shall record their inspection and provide a copy to the Chief Administrative Officer prior to issuance of a Certificate of Rental Registration. The Fire Department Chief, Fire Marshall or their designee shall record and investigate any report of an alleged violation of this Chapter which is submitted to them in writing and signed by the complainant. If the Chief Administrative Officer finds that any provision(s) in this Chapter are being violated, he shall notify in writing the person responsible and/or the local agent in-charge, indicating the nature of the violation and actions necessary to correct it. Notice may be served on the Owner, permanent occupant, or local agent in-charge personally, or by certified mail and regular mail to the dwelling, or if deemed more likely to be received, at the tax mailing address for the dwelling listed in the records of the County Fiscal Officer. The Chief Administrative Officer shall offer the cessation, removal or other correction of any violation determined by the Fire Department or the Chief Administrative Officer to be continuing.
+4. _(d)_ Before any Certificate of Rental Registration is issued or renewed the Fire Chief, Fire Marshall, or their designee shall inspect the dwelling to verify that all safety requirements set forth in this Section are properly installed, properly maintained and operating in good condition and to verify compliance with this Chapter. The Fire Chief, Fire Marshall or their designee shall record their inspection and provide a copy to the Chief Administrative Officer prior to issuance of a Certificate of Rental Registration. The Fire Department Chief, Fire Marshall or their designee shall record and investigate any report of an alleged violation of this Chapter which is submitted to them in writing and signed by the complainant. If the Chief Administrative Officer finds that any provision(s) in this Chapter are being violated, he shall notify in writing the person responsible and/or the local agent in-charge, indicating the nature of the violation and actions necessary to correct it. Notice may be served on the Owner, permanent occupant, or local agent in-charge personally, or by certified mail and regular mail to the dwelling, or if deemed more likely to be received, at the tax mailing address for the dwelling listed in the records of the County Fiscal Officer. The Chief Administrative Officer shall offer the cessation, removal or other correction of any violation determined by the Fire Department or the Chief Administrative Officer to be continuing.\
+([Ord. 2024-38][CFO 2024-38-4]. Passed 8-12-24.)
 
 ## 1361.05   Revocation of Registration
 
@@ -117,32 +98,32 @@ As used in this Chapter:
 
     3. _(3)_ Upon the third violation, the Certificate of Rental Registration shall be revoked and the short-term rental Owner prohibited from re-applying for a new permit for the dwelling a period of five (5) years from the date of termination.
 
+    ([Ord. 2024-38][CFO 2024-38-4]. Passed 8-12-24.)
+
 ## 1361.06   Appeal of Denial or Revocation of Registration
 
 1. _(a)_ In the event a registration has been revoked, the party affected shall have the right to appeal to the Board of Zoning Appeals from such revocation within ten (10) business days after receiving notice of the revocation.
 
-2. _(b)_ The notice of appeal shall be filed with the Chief Administrative Officer on a form provided by the Chief Administrative Officer. The burden of proof of such appeal shall be upon the appellant to show that the revocation or suspension was arbitrary or unreasonable.
+2. _(b)_ The notice of appeal shall be filed with the Chief Administrative Officer on a form provided by the Chief Administrative Officer. The burden of proof of such appeal shall be upon the appellant to show that the revocation or suspension was arbitrary or unreasonable.\
+([Ord. 2024-38][CFO 2024-38-4]. Passed 8-12-24.)
 
 ## 1361.07   Transfer of Short-Term Rental Registration Prohibited
 
 1. _(a)_ No Certificate of Rental Registration required by this Chapter shall be transferable to another short-term rental operation or short-term rental Owner.
 
-2. _(b)_ No Certificate of Rental Registration under this Chapter shall be transferable to another individual, corporation, firm, partnership, limited liability company, association, organization, or other group or entity acting as a unit.
+2. _(b)_ No Certificate of Rental Registration under this Chapter shall be transferable to another individual, corporation, firm, partnership, limited liability company, association, organization, or other group or entity acting as a unit.\
+([Ord. 2024-38][CFO 2024-38-4]. Passed 8-12-24.)
 
 ## 1361.08   Severability
 
-1. _(a)_ In the event any section or provision in this Chapter shall be declared by a court of competent jurisdiction to be invalid or unconstitutional, such decision shall not affect the validity of this Chapter as a whole or any part thereof other than the part so declared to be invalid or unconstitutional.
+1. _(a)_ In the event any section or provision in this Chapter shall be declared by a court of competent jurisdiction to be invalid or unconstitutional, such decision shall not affect the validity of this Chapter as a whole or any part thereof other than the part so declared to be invalid or unconstitutional.\
+([Ord. 2024-38][CFO 2024-38-4]. Passed 8-12-24.)
 
 ## 1361.99   Penalty
 
 1. _(a)_ The Owner or permanent occupant who is responsible for the short-term rental operation or any person who fails to comply with an order made by the Chief Administrative Officer or his designee enforcing this Chapter is guilty of a misdemeanor of the third degree.
 
-2. _(b)_ Each day that such violation is committed or continues shall constitute a separate offense, commencing one day after the Chief Administrative Officer or his designee's order is served on the Owner, permanent occupant or local agent in- charge as the case may be.
+2. _(b)_ Each day that such violation is committed or continues shall constitute a separate offense, commencing one day after the Chief Administrative Officer or his designee's order is served on the Owner, permanent occupant or local agent in- charge as the case may be.\
+([Ord. 2024-38][CFO 2024-38-4]. Passed 8-12-24.)
 
-[CFCO 113.01]:</chapters/chapter-113-ordinances-and-resolutions/#11301-publication-and-posting>
-[CFCO 114]:</chapters/chapter-114-open-meetings>
-[CFCO 1361]:</chapters/chapter-1361-short-term-rental-regulations>
-[CFO 2024-38]:</ordinance-2024-38/>
-[CFO 2024-38-2]:</ordinance-2024-38-2/>
-[CFO 2024-38-3]:</ordinance-2024-38-3/>
-[CFO 2024-38-4a]:</ordinance-2024-38-4a/>
+[CFO 2024-38-4]:</ordinance-2024-38-4/>
