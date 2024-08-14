@@ -33,7 +33,7 @@ to contact the Director of Finance for copies of relevant legislation.)
 * [149.20   Employee contributions to OPERS AND OP&F](#14920-employee-contributions-to-opers-and-op&f)
 * [149.21   PFDPF pickup](#14921-pfdpf-pickup) (Repealed)
 * [149.22   Pre-employment physical](#14922-pre-employment-physical)
-* [149.23   Payment of part-time police officers at construction projects; regulation of part- time employment of police officers](#14923-payment-of-part-time-police-officers-at-construction-projects-regulation-of-part-time-employment-of-police-officers)
+* [149.23   Payment of part-time police officers at construction projects; regulation of part-time employment of police officers](#14923-payment-of-part-time-police-officers-at-construction-projects-regulation-of-part-time-employment-of-police-officers)
 * [149.24   Purchase of grave sites](#14924-purchase-of-grave-sites)
 * [149.25   Prohibited political activity](#14925-prohibited-political-activity)
 * [149.26   Deferred compensation plans](#14926-deferred-compensation-plans)
@@ -76,44 +76,35 @@ accordance with this section.\
 
 ## 149.02   Clothing allowance for police and fire employees
 
-1. _(a)_ Every regular members of the Police Department and every part-time
-member of the Police Department who works on a regularly scheduled basis shall
-wear such uniforms or clothing as directed and approved by the Chief of
-Police.\
-(Ord. 2013-13. Passed 4-8-13.)
+1. _(a)_ Every regular member of the Police Department and every part-time member of the Police Department who works on a regularly scheduled basis shall wear such uniforms or clothing as directed and approved by the Chief of Police.\
+([Ord. 2024-43][CFO 2024-43]. Passed 8-12-24.)
 
-2. _(b)_ Police and Fire Department maintenance and clothing allowances shall,
-beginning January 1, 2020, be as follows:
+2. _(b)_ The Fire Chief and Fire Prevention Officer shall be issued an initial uniform upon hire and shall then receive a clothing and uniform maintenance allowance each calendar year thereafter.\
+([Ord. 2024-43][CFO 2024-43]. Passed 8-12-24.)
 
-    | Position                                                                                                                                                                                                                                                                                                 |    Maintenance Allowance Per Year | Clothing Allowance Per Calendar Year |
-    |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------:|-------------------------------------:|
-    | Full time police member employed with the Village for more than 1 year                                                                                                                                                                                                                                   |                           $100.00 |                              $600.00 |
-    | New police hires (during first year of service)                                                                                                                                                                                                                                                          | Pursuant to subsection (e) below. |    Pursuant to subsection (e) below. |
-    | Part time police members (working at least 24 hours per week regularly)                                                                                                                                                                                                                                  |                           $100.00 |                              $600.00 |
-    | Part time police members (working less than 24 hours per week regularly after having served a minimum of 144 hours in the preceding 12 months, or if they have been working less than a year, at least a minimum of 12 hours per month for each month in which they have been employed less than a year) |                            $40.00 |                              $260.00 |
-    | Part time police clerk                                                                                                                                                                                                                                                                                   |                            $40.00 |                              $150.00 |
-    | Full time police clerk                                                                                                                                                                                                                                                                                   |                            $70.00 |                              $380.00 |
-    | Fire Chief                                                                                                                                                                                                                                                                                               |                           $100.00 |                              $150.00 |
+3. _(c)_ Police and Fire Department maintenance and clothing allowances shall, beginning January 1, 2024, be as follows:
 
-    (Ord. 2019-67. Passed 11-25-19.)
+    | Position                                                                                                                                                                                                                                                                                                        |    Maintenance Allowance Per Year | Clothing Allowance Per Calendar Year |
+    |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------:|-------------------------------------:|
+    | **Full time police member**<br>Employed with the Village for more than 1 year                                                                                                                                                                                                                                   |                           $100.00 |                            $1,200.00 |
+    | **New police hires**<br>(during first year of service)                                                                                                                                                                                                                                                          | Pursuant to subsection (e) below. |    Pursuant to subsection (e) below. |
+    | **Part time police members**<br>(working at least 24 hours per week regularly)                                                                                                                                                                                                                                  |                           $100.00 |                              $800.00 |
+    | **Part time police members**<br>(working less than 24 hours per week regularly after having served a minimum of 144 hours in the preceding 12 months, or if they have been working less than a year, at least a minimum of 12 hours per month for each month in which they have been employed less than a year) |                            $40.00 |                              $500.00 |
+    | **Part time Police Clerk**                                                                                                                                                                                                                                                                                      |                            $40.00 |                              $300.00 |
+    | **Full time Police Clerk/Administrative Assistant**                                                                                                                                                                                                                                                             |                            $70.00 |                              $600.00 |
+    | **Fire Chief**                                                                                                                                                                                                                                                                                                  |                           $100.00 |                              $800.00 |
+    | **Fire Prevention Officer**                                                                                                                                                                                                                                                                                     |                           $100.00 |                            $1,200.00 |
 
-3. _(c)_ New hirees who separate from the service of the Police Department for
-any reason, except termination, within their first year, shall reimburse the
-Village for the cost of the initial uniform furnished to them.
+    ([Ord. 2024-43][CFO 2024-43]. Passed 8-12-24.)
 
-4. _(d)_ Fire Prevention Officer shall be issued an initial uniform not to
-exceed the cost of one hundred seventy-five dollars ($175.00). Each Fire
-Prevention Officer shall then receive a uniform maintenance allowance of six
-hundred dollars ($600.00) each calendar year thereafter.
+4. _(d)_ New hires who separate from the service of the Police Department for any reason, except termination, within their first year, shall reimburse the Village for the cost of the initial uniform furnished to them.\
+([Ord. 2024-43][CFO 2024-43]. Passed 8-12-24.)
 
-5. _(e)_ A list of uniform apparel and other gear required for one police
-officer shall be approved by the Mayor and kept in the office of the Police
-Department. The Village shall issue an initial uniform, complete with all of the
-apparel and other gear required and included on the list approved by the Mayor,
-to each new police hire.
+5. _(e)_ A list of uniform apparel and other gear required for one police officer shall be approved by the Mayor and kept in the office of the Police Department. The Village shall issue an initial uniform, complete with all of the apparel and other gear required and included on the list approved by the Mayor, to each new police hire.\
+([Ord. 2024-43][CFO 2024-43]. Passed 8-12-24.)
 
 6. _(f)_ An employee shall receive only one maintenance allowance per year.\
-(Ord. 2013-13. Passed 4-8-13.)
+([Ord. 2024-43][CFO 2024-43]. Passed 8-12-24.)
 
 ## 149.03   Police overtime and call-in pay
 
@@ -151,7 +142,7 @@ service.\
 
 ## 149.05   Police professional liability insurance
 
-In addition to the compensation hereinbefore provided for regular and part- time
+In addition to the compensation hereinbefore provided for regular and part-time
 members of the Police Department, additional compensation shall be provided by
 the purchase by the Village of a police professional liability insurance policy
 in amounts of not less than one hundred thousand dollars/three hundred thousand
@@ -626,6 +617,7 @@ of each plan is maintained on file by the Finance Director.\
 
 [CFCO 149.06]:</chapters/chapter-149-employment-provisions/#14906-overtime>
 [CFCO 149.21]:</chapters/chapter-149-employment-provisions/#14921-pfdpf-pickup>
+[CFO 2024-43]:</ordinance-2024-43/>
 [ORC Chapter 145]:<https://codes.ohio.gov/ohio-revised-code/chapter-145>
 [ORC Chapter 4117]:<https://codes.ohio.gov/ohio-revised-code/chapter-4117>
 [ORC Chapter 4123]:<https://codes.ohio.gov/ohio-revised-code/chapter-4123>
