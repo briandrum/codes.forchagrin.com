@@ -10,7 +10,7 @@ title: "Chapter 113: Ordinances and Resolutions"
 
 * [113.01   Publication and posting](#11301-publication-and-posting)
 
-## Cross references
+## Cross References
 
 * Mayor may introduce legislation - see CHTR. Art. III, Sec. 5(b)
 * Mayor's power to sign or veto - see CHTR. Art. III, Sec. 5(c)
@@ -21,19 +21,11 @@ title: "Chapter 113: Ordinances and Resolutions"
 * Adoption of technical codes - see Ohio R.C. [731.231][ORC Section 731.231]
 * Adoption of Codified Ordinances - see ADM. 101.02
 
-## 113.01   Publication and posting
+## 113.01   Publication and Posting
 
-Public notice of ordinances and resolutions shall be given by publishing the
-ordinance or resolution number, the title thereof and the date of passage or
-adoption, except that in lieu thereof any ordinance or resolution may be
-published in full or posted when so provided for therein. Publication of an
-ordinance or resolution, whether by number, title and date of passage or in
-full, shall be made once a week for two consecutive weeks on the same day of
-each week in a newspaper of general circulation in the Municipality, to be
-designated in the ordinance or resolution. In the case of posting, a copy of the
-ordinance or resolution shall be posted for not less than fifteen days in the
-Municipal Building.\
-(Ord. 1963-562. Passed 2-25-63.)
+Public notice of ordinances and resolutions shall be given by posting the ordinance or resolution, in its entirety, on the Village website for not less than fifteen (15) days and that the proof of the posting and publication shall be made by the operator of the Village website and shall be filed with the Clerk of Council. Unless otherwise determined by Council, the operator of the official public website shall be the Clerk of Council.\
+([Ord. 2024-27][CFO 2024-27]. Passed 5-13-24.)
 
 [ORC Section 731.23]:<https://codes.ohio.gov/ohio-revised-code/section-731.23>
 [ORC Section 731.231]:<https://codes.ohio.gov/ohio-revised-code/section-731.231>
+[CFO 2024-27]:</ordinance-2024-27>
