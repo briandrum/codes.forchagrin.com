@@ -70,8 +70,8 @@ Established in [Part One, Title Five, Chapter 137: Architectural Board of Review
 Steven King       | Chair             | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
 Wendy Hoge Naylor | Secretary         | <small>Appointed by Mayor to a three-year term ending Dec 31, 2024</small>
 Philip Koepf      | Member            | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
-TBD               | Member            | <small>Appointed by Council to a three-year term ending Dec 31, 2025</small>
-TBD               | Member            | <small>Appointed by Council to a three-year term ending Dec 31, 2026</small>
+Mike Corkran      | Member            | <small>Appointed by Council to a two-year term ending Dec 31, 2025</small>
+Erik Kaminski     | Member            | <small>Appointed by Council to a three-year term ending Dec 31, 2026</small>
 George Clemens    | Architect Advisor | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
 William Childs    | Architect Advisor | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
 Chuck Fazio       | Alternate         | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
