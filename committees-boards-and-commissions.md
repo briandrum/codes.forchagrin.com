@@ -132,10 +132,10 @@ Established in [Part One, Title Five, Chapter 142: Cemetery Commission][5].
 
  Name              | Role                   | Term
 -------------------|------------------------|-------------------------------------------------------------------------------------
-Larry Trace        | Chair                  | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
+Susan Harris White | Chair                  | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
 Angela DeBernardo  | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2024</small>
+Ben Brigeman       | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
 Moira Carr         | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2024</small>
-Susan Harris White | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
 
 ### Economic Development Commission
 
