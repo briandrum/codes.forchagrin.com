@@ -26,7 +26,7 @@ title: "Chapter 337: Safety and Equipment"
 * [337.16   Number of lights; limitations on flashing, oscillating or rotating lights](#33716-number-of-lights-limitations-on-flashing-oscillating-or-rotating-lights)
 * [337.17   Focus and aim of headlights](#33717-focus-and-aim-of-headlights)
 * [337.18   Motor vehicle and motorcycle brakes](#33718-motor-vehicle-and-motorcycle-brakes)
-* [337.19   Horn, siren and theft alarmsignal](#33719-horn-siren-and-theft-alarmsignal)
+* [337.19   Horn, siren and theft alarm signal](#33719-horn-siren-and-theft-alarm-signal)
 * [337.20   Muffler; muffler cutout; excessive smoke, gas or noise](#33720-muffler-muffler-cutout-excessive-smoke-gas-or-noise)
 * [337.21   Rear-view mirror; clear view to front, both sides and rear](#33721-rear-view-mirror-clear-view-to-front-both-sides-and-rear)
 * [337.22   Windshield and windshield wiper; sign or poster thereon](#33722-windshield-and-windshield-wiper-sign-or-poster-thereon)

@@ -273,7 +273,7 @@ directed by Ohio R.C. [737.161][ORC Section 737.161].\
 (Ord. 2015-21. Passed 7-27-15.)
 
 [CFCO 129.04]:</chapters/chapter-129-police-department/#12904-application-examination-and-evaluation-of-candidates>
-[CFCO 129.10]:<>
+<!--[CFCO 129.10]:<>-->
 [CFCO 149.23]:</chapters/chapter-149-employment-provisions/#14923-payment-of-part-time-police-officers-at-construction-projects-regulation-of-part-time-employment-of-police-officers>
 [ORC Section 109.51]:<https://codes.ohio.gov/ohio-revised-code/section-109.51>
 [ORC Section 505.441]:<https://codes.ohio.gov/ohio-revised-code/section-505.441>
