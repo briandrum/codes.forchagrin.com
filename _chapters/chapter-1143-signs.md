@@ -600,7 +600,7 @@ they are being substituted.\
 (Ord. 2019-39. Passed 8-13-19.)
 
 [CFCO 1143.09]:</chapters/chapter-1143-signs/#114309-temporary-signs>
-[CFCO 1309.12]:</chapter-1309-fees-for-permits-and-inspections/#130912-sign-fees>
+[CFCO 1309.12]:</chapters/chapter-1309-fees-for-permits-and-inspections/#130912-sign-fees>
 [CFCO 1143.06(a)]:</chapters/chapter-1143-signs/#114306(a)>
 [CFCO 1143.06(c)(2)]:</chapters/chapter-1143-signs/#114306(c)(2)>
 [CFCO 1143.06(d)]:</chapters/chapter-1143-signs/#114306(d)>

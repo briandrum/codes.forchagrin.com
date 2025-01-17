@@ -53,7 +53,7 @@ the Municipality:
 
 The aforesaid districts are designated by symbols and the locations and
 boundaries of such districts are established on the Map entitled "Zoning Map of
-the Municipality of Chagrin Falls, or the Village of Chagrin Falls Zoning Map ",
+the Municipality of Chagrin Falls, or the Village of Chagrin Falls Zoning Map",
 or similar title and referred to in the Planning and Zoning Code as the Map or
 Zoning Map. The notations, schedules and other information shown thereon and all
 amendments thereto are hereby made a part of this Planning and Zoning Code. The
