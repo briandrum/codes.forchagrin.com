@@ -15,7 +15,7 @@ title: "Chapter 1355: Erosion and Sediment Control"
 * [1355.05   Development of stormwater pollution prevention plans](#135505-development-of-stormwater-pollution-prevention-plans)
 * [1355.06   Application procedures](#135506-application-procedures)
 * [1355.07   Compliance with State and federal regulations](#135507-compliance-with-state-and-federal-regulations)
-* [1355.08   SWP3](#135508-swp3)
+* [1355.08   Stormwater Pollution Prevention Plan (SWP3)](#135508-swp3)
 * [1355.09   Performance standards](#135509-performance-standards)
 * [1355.10   Abbreviated SWP3](#135510-abbreviated-swp3)
 * [1355.11   Fees](#135511-fees)
@@ -63,8 +63,9 @@ compliance with, the Ohio Agricultural Sediment Pollution Abatement Rules.\
 For purpose of this regulation, the following terms shall have the meaning
 herein indicated:
 
-1. _(a)_ ABBREVIATED (ABBREVIATED SWP3): The written document that sets forth
-the plans and to be used to meet the requirements of this regulation.
+1. _(a)_ Abbreviated (Abbreviated <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr>): The written document that sets forth the plans and to be
+used to meet the requirements of this regulation.
 
 2. _(b)_ Acre: A measurement of area equaling 43,560 square feet.
 
@@ -191,10 +192,12 @@ either of the following two criteria:
     and specifications; or
 
     2. _(b)_ The party has day-to-day operational control of those activities at
-    a project which are necessary to ensure compliance with A (SWP3) for the
-    site or other permit conditions (e.g. they are authorized to direct workers
-    at a site to carry out activities required by the SWP3 or comply with other
-    permit conditions.
+    a project which are necessary to ensure compliance with a <abbr
+    title="Stormwater Pollution Prevention Plan">SWP3</abbr> for the site or
+    other permit conditions (e.g. they are authorized to direct workers at a
+    site to carry out activities required by the <abbr title="Stormwater
+    Pollution Prevention Plan">SWP3</abbr> or comply with other permit
+    conditions.
 
 29. _(cc)_ Owner or operator: The owner or operator of any "facility or
 activity" subject to regulation under the NPDES program.
@@ -302,8 +305,9 @@ those forces.
 
 53. _(aaa)_ Steep slopes: Slopes that are 12 percent or greater in grade.
 
-54. _(bbb)_ (SWP3): The written document that sets forth the plans and to be
-used to meet the requirements of this regulation.
+54. _(bbb)_ Stormwater Pollution Prevention Plan (SWP3): The written document
+that sets forth the plans and to be used to meet the requirements of this
+regulation.
 
 55. _(ccc)_ Stormwater: Stormwater runoff, snow melt and surface runoff and
 drainage.
@@ -395,14 +399,16 @@ resulting therefrom.\
 
 ## 1355.05   Development of stormwater pollution prevention plans
 
-1. _(a)_ This regulation requires that a (SWP3) be developed and implemented for
-all commercial and industrial site development and all development projects
-disturbing one (1) acre or, or less than one (1) acre if part of a larger common
-plan of development or sale disturbing one (1) or more acres of total land. The
-Village Engineer has the discretion to require a SWP3 for projects on sites of
-any size.
+1. _(a)_ This regulation requires that a <abbr title="Stormwater Pollution
+Prevention Plan">SWP3</abbr> be developed and implemented for all commercial and
+industrial site development and all development projects disturbing one (1) acre
+or, or less than one (1) acre if part of a larger common plan of development or
+sale disturbing one (1) or more acres of total land. The Village Engineer has
+the discretion to require a <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> for projects on sites of any size.
 
-2. _(b)_ An Abbreviated SWP3 shall be submitted in the following cases:
+2. _(b)_ An Abbreviated <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> shall be submitted in the following cases:
 
     1. _(1)_ New single-family residential construction. If such activities
     disturb one (1) acre or more, or are part of a larger common plan of
@@ -412,8 +418,9 @@ any size.
     2. _(2)_ Additions or accessory buildings for single-family residential
     construction. If such activities disturb one (1) acre or more, or are part
     of a larger common plan of development or sale disturbing one (1) acre or
-    more, a full SWP3 and compliance with the Ohio EPA Construction Site General
-    Permit are required.
+    more, a full <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>
+    and compliance with the Ohio EPA Construction Site General Permit are
+    required.
 
     3. _(3)_ All non-residential construction on parcels of less than one (1)
     acre.
@@ -421,20 +428,24 @@ any size.
     4. _(4)_ General clearing activities not related to construction. If such
     activities disturb one (1) acre or more, or are part of a larger common plan
     of development or sale disturbing one (1) acre or more, compliance with the
-    Ohio EPA Construction Site General Permit and a full SWP3 are required.
+    Ohio EPA Construction Site General Permit and a full <abbr title="Stormwater
+    Pollution Prevention Plan">SWP3</abbr> are required.
 
 3. _(c)_ Activities disturbing 1/10 (one tenth) or less of an acre are not
-required to submit a SWP3 or an Abbreviated SWP3, unless required by the Village
-of Chagrin Falls Engineer. These activities must comply with all other
-provisions of this regulation.\
+required to submit a <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> or an Abbreviated <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr>, unless required by the Village of Chagrin Falls Engineer.
+These activities must comply with all other provisions of this regulation.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.06   Application procedures
 
-1. _(a)_ Soil Disturbing Activities Submitting a (SWP3): The applicant shall
-submit two (2) sets of the SWP3 and the applicable fees to the Village of
-Chagrin Falls and two (2) sets of the SWP3 and the applicable fees to the
-Cuyahoga SWCD as follows:
+1. _(a)_ Soil Disturbing Activities Submitting a <abbr title="Stormwater
+Pollution Prevention Plan">SWP3</abbr>: The applicant shall submit two (2) sets
+of the <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> and the
+applicable fees to the Village of Chagrin Falls and two (2) sets of the <abbr
+title="Stormwater Pollution Prevention Plan">SWP3</abbr> and the applicable fees
+to the Cuyahoga SWCD as follows:
 
     1. _(1)_ For subdivisions: After the approval of the preliminary plans and
     with submittal of the improvement plans.
@@ -445,10 +456,13 @@ Cuyahoga SWCD as follows:
     3. _(3)_ For general clearing projects: Prior to issuance of a zoning permit
     by the Zoning Inspector.
 
-2. _(b)_ Soil Disturbing Activities Submitting an Abbreviated (SWP3): The
-applicant shall submit two (2) sets of the Abbreviated SWP3 and the applicable
-fees to the Village of Chagrin Falls and two (2) sets of the Abbreviated SWP3
-and the applicable fees to the Cuyahoga SWCD as follows:
+2. _(b)_ Soil Disturbing Activities Submitting an Abbreviated <abbr
+title="Stormwater Pollution Prevention Plan">SWP3</abbr>: The applicant shall
+submit two (2) sets of the Abbreviated <abbr title="Stormwater Pollution
+Prevention Plan">SWP3</abbr> and the applicable fees to the Village of Chagrin
+Falls and two (2) sets of the Abbreviated <abbr title="Stormwater Pollution
+Prevention Plan">SWP3</abbr> and the applicable fees to the Cuyahoga SWCD as
+follows:
 
     1. _(1)_ For single-family home construction: Before issuance of a zoning
     permit by the Zoning Inspector.
@@ -467,12 +481,14 @@ deficiencies shall receive a narrative report stating specific problems and the
 procedures for filing a revised plan.
 
 4. _(d)_ Soil disturbing activities shall not begin and zoning permits shall not
-be issued without an approved SWP3 or Abbreviated SWP3 and installation of
-erosion and sediment controls.
+be issued without an approved <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> or Abbreviated <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> and installation of erosion and sediment controls.
 
-5. _(e)_ SWP3 for individual sublots in a subdivision will not be approved
-unless the larger common plan of development or sale containing the sublot is in
-compliance with this regulation.
+5. _(e)_ <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> for
+individual sublots in a subdivision will not be approved unless the larger
+common plan of development or sale containing the sublot is in compliance with
+this regulation.
 
 6. _(f)_ The developer, engineer and contractor, and other principal parties,
 shall meet with the Village Engineer for a Pre-Construction Meeting no less than
@@ -494,7 +510,9 @@ from the Ohio EPA, the US Army Corps of Engineers, and other federal, state,
 and/or county agencies. If requirements vary, the most restrictive requirement
 shall prevail. These permits may include, but are not limited to, those listed
 below. All submittals required to show proof of compliance with these state and
-federal regulations shall be submitted with SWP3s or Abbreviated SWP3s.
+federal regulations shall be submitted with <abbr title="Stormwater Pollution
+Prevention Plan">SWP3</abbr>s or Abbreviated <abbr title="Stormwater Pollution
+Prevention Plan">SWP3</abbr>s.
 
 1. _(a)_ Ohio EPA NPDES Permits authorizing stormwater discharges associated
 with construction activity or the most current version thereof: Proof of
@@ -542,41 +560,45 @@ approval letter from the ODNR Division of Water, or a letter from the site owner
 certifying and explaining why the Ohio Dam Safety Law is not applicable.\
 (Ord. 2016-80. Passed 12-12-16.)
 
-## 1355.08   SWP3
+## 1355.08   <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>
 
 1. _(a)_ In order to control sediment pollution of water resources, the
-applicant shall submit a SWP3 in accordance with the requirements of this
-regulation.
+applicant shall submit a <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> in accordance with the requirements of this regulation.
 
 2. _(b)_ Best Management Practices (BMPs) and Stormwater Control Measures (SCMs)
 adequate to prevent pollution of public waters by soil sediment from accelerated
 storm water runoff from development areas.
 
-3. _(c)_ The SWP3 shall be certified by a professional engineer, a registered
-surveyor, certified professional erosion and sediment control specialist, or a
-registered landscape architect.
+3. _(c)_ The <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>
+shall be certified by a professional engineer, a registered surveyor, certified
+professional erosion and sediment control specialist, or a registered landscape
+architect.
 
-4. _(d)_ The SWP3 shall be amended whenever there is a change in design,
-construction, operation or maintenance, which has a significant effect on the
-potential for the discharge of pollutants to surface waters of the state or if
-the SWP3 proves to be ineffective in achieving the general objectives of
-controlling pollutants in stormwater discharges associated with construction
-activity.
+4. _(d)_ The <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>
+shall be amended whenever there is a change in design, construction, operation
+or maintenance, which has a significant effect on the potential for the
+discharge of pollutants to surface waters of the state or if the SWP3 proves to
+be ineffective in achieving the general objectives of controlling pollutants in
+stormwater discharges associated with construction activity.
 
-5. _(e)_ The SWP3 shall incorporate measures as recommended by the most current
-online edition of Rainwater and Land Development as published by the Ohio
-Environmental Protection Agency and shall include the following information:
+5. _(e)_ The <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>
+shall incorporate measures as recommended by the most current online edition of
+Rainwater and Land Development as published by the Ohio Environmental Protection
+Agency and shall include the following information:
 
     1. _(1)_ A cover page or title identifying the name and location of the
     site, the name and contact information of all construction site operators,
     the name and contact information for the person responsible for authorizing
-    and amending the SWP3, preparation date, and the estimated start and
-    completion dates for construction.
+    and amending the <abbr title="Stormwater Pollution Prevention
+    Plan">SWP3</abbr>, preparation date, and the estimated start and completion
+    dates for construction.
 
     2. _(2)_ A copy of the permit requirements (attaching a copy of the current
     Ohio EPA NPDES Construction General Permit is acceptable).
 
-    3. _(3)_ Site description:  The SWP3 shall provide:
+    3. _(3)_ Site description:  The <abbr title="Stormwater Pollution Prevention
+    Plan">SWP3</abbr> shall provide:
 
         1. _(A)_ A description of the nature and type of the construction
         activity (e.g. residential, shopping mall, highway, etc.).
@@ -621,8 +643,9 @@ Environmental Protection Agency and shall include the following information:
         10. _(J)_ For subdivided developments a detail drawing of a typical
         individual lot showing standard individual lot erosion and sediment
         control. This does not remove the responsibility to designate specific
-        erosion and sediment control in the SWP3 for areas such as steep slopes,
-        stream banks, drainage ways, and riparian zones.
+        erosion and sediment control in the <abbr title="Stormwater Pollution
+        Prevention Plan">SWP3</abbr> for areas such as steep slopes, stream
+        banks, drainage ways, and riparian zones.
 
         11. _(K)_ Location and description of any stormwater discharges
         associated with dedicated asphalt and dedicated concrete plants
@@ -630,8 +653,8 @@ Environmental Protection Agency and shall include the following information:
         pollutants in these stormwater discharges.
 
         12. _(L)_ A log documenting grading and stabilization activities as well
-        as amendments to the SWP3, which occur after construction activities
-        commence.
+        as amendments to the <abbr title="Stormwater Pollution Prevention
+        Plan">SWP3</abbr>, which occur after construction activities commence.
 
         13. _(M)_ Each temporary and permanent stormwater practice shall be
         designated with an individual identification number.
@@ -759,13 +782,14 @@ Environmental Protection Agency and shall include the following information:
             stream crossings.
 
     4. _(4)_ A soils engineering report. The Village Engineer may require the
-    SWP3 to include a Soils Engineering Report based upon his/her determination
-    that the conditions of the soils are unknown or unclear to the extent that
-    additional information is required to protect against erosion or other
-    hazards. This report shall be based on adequate and necessary test borings,
-    and shall contain all the information listed below. Recommendations included
-    in the report and approved by the Village Engineer shall be incorporated in
-    the grading plans and/or other specifications for site development.
+    <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> to include a
+    Soils Engineering Report based upon his/her determination that the
+    conditions of the soils are unknown or unclear to the extent that additional
+    information is required to protect against erosion or other hazards. This
+    report shall be based on adequate and necessary test borings, and shall
+    contain all the information listed below. Recommendations included in the
+    report and approved by the Village Engineer shall be incorporated in the
+    grading plans and/or other specifications for site development.
 
         1. _(A)_ Data regarding the nature, distribution, strength, and
         erodibility of existing soils.
@@ -787,69 +811,76 @@ Environmental Protection Agency and shall include the following information:
 
 ## 1355.09   Performance standards
 
-The SWP3 must contain a description of the controls appropriate for each
-construction operation and the applicant must implement such controls. The SWP3
-must clearly describe for each major construction activity the appropriate
-control measures; the general sequence during the construction process under
-which the measures will be implemented; and the contractor responsible for
-implementation (e.g., contractor A will clear land and install perimeter
-controls and contractor B will maintain perimeter controls until final
-stabilization).
+The <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> must contain
+a description of the controls appropriate for each construction operation and
+the applicant must implement such controls. The SWP3 must clearly describe for
+each major construction activity the appropriate control measures; the general
+sequence during the construction process under which the measures will be
+implemented; and the contractor responsible for implementation (e.g., contractor
+A will clear land and install perimeter controls and contractor B will maintain
+perimeter controls until final stabilization).
 
-The approved SWP3, and the sediment and erosion controls, and non-sediment
-pollution controls contained therein, shall be implemented upon the commencement
-of construction. Perimeter controls must be installed two working days prior to
-commencement of construction. The approved plan must be implemented until the
-site reaches final stabilization. All properties adjacent to the site of
-soil-disturbing activity shall be protected from soil erosion and sediment
-run-off and damage, including, but not limited to, private properties, natural
-and artificial waterways, wetlands, storm sewers and public lands.
+The approved <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>, and
+the sediment and erosion controls, and non-sediment pollution controls contained
+therein, shall be implemented upon the commencement of construction. Perimeter
+controls must be installed two working days prior to commencement of
+construction. The approved plan must be implemented until the site reaches final
+stabilization. All properties adjacent to the site of soil-disturbing activity
+shall be protected from soil erosion and sediment run-off and damage, including,
+but not limited to, private properties, natural and artificial waterways,
+wetlands, storm sewers and public lands.
 
 It is the owner's responsibility to maintain current records of contractor (s)
-responsible for implementation the SWP3 and providing that information to the
-Village Engineer. The SWP3 shall identify all subcontractors engaged in
-activities that could impact stormwater runoff. The SWP3 shall contain
+responsible for implementation the <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> and providing that information to the Village Engineer. The
+<abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> shall identify
+all subcontractors engaged in activities that could impact stormwater runoff.
+The <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> shall contain
 signatures from all of the identified subcontractors indicating that they have
 been informed and understand their roles and responsibilities in complying with
-the SWP3. The applicant shall review the SWP3 with the primary contractor prior
-to commencement of construction activities and keep a SWP3 training log to
-demonstrate that this review had occurred.
+the <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>. The
+applicant shall review the <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> with the primary contractor prior to commencement of
+construction activities and keep a <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> training log to demonstrate that this review had occurred.
 
 Erosion and sediment controls shall be designed, installed and maintained
 effectively to minimize the discharge of pollutants during the course of earth
 disturbing activities. The controls shall include the following minimum
 components:
 
-1. _(a)_ **Non-structural Preservation Measures:** The SWP3 must make use of
-measures that preserve the existing natural condition to the maximum extent
-practicable. Such may include preserving riparian areas, preserving existing
-vegetation and vegetative buffer strips, phasing of construction operations in
-order to minimize the amount of disturbed land at any one time, minimizing
-disturbance of steep slopes, designation of tree preservation areas or other
-protective clearing or grubbing . Soil compaction shall be minimized and, unless
-infeasible, topsoil shall be preserved. Provide and maintain a 50-foot buffer of
-undisturbed natural vegetation around surface waters of the state, or riparian
-or wetland setbacks, if applicable, whichever is greater, unless maintaining
-this buffer is infeasible, e.g. stream crossings for roads or utilities, or for
-channel and floodplain rehabilitation and restoration. Direct stormwater to
-vegetated areas to increase sediment removal and maximize stormwater
-infiltration. [Communities with riparian and/or wetland setbacks include the
-following language: If the riparian setback is greater than 50 feet, no
-disturbance of natural vegetation shall occur within the riparian or wetland
-setback unless a variance of the riparian or wetland setback regulation has been
-granted.]
+1. _(a)_ **Non-structural Preservation Measures:** The <abbr title="Stormwater
+Pollution Prevention Plan">SWP3</abbr> must make use of measures that preserve
+the existing natural condition to the maximum extent practicable. Such may
+include preserving riparian areas, preserving existing vegetation and vegetative
+buffer strips, phasing of construction operations in order to minimize the
+amount of disturbed land at any one time, minimizing disturbance of steep
+slopes, designation of tree preservation areas or other protective clearing or
+grubbing . Soil compaction shall be minimized and, unless infeasible, topsoil
+shall be preserved. Provide and maintain a 50-foot buffer of undisturbed natural
+vegetation around surface waters of the state, or riparian or wetland setbacks,
+if applicable, whichever is greater, unless maintaining this buffer is
+infeasible, e.g. stream crossings for roads or utilities, or for channel and
+floodplain rehabilitation and restoration. Direct stormwater to vegetated areas
+to increase sediment removal and maximize stormwater infiltration. [Communities
+with riparian and/or wetland setbacks include the following language: If the
+riparian setback is greater than 50 feet, no disturbance of natural vegetation
+shall occur within the riparian or wetland setback unless a variance of the
+riparian or wetland setback regulation has been granted.]
 
-2. _(b)_ **Erosion Control:** The SWP3 must make use of erosion controls that
-are capable of providing cover over disturbed soils. The amount of soil exposed
-during construction activity shall be minimized. A description of control
-designed to restabilize disturbed areas after grading or construction shall be
-included in the SWP3. The SWP3 must provide specifications for stabilization of
-all disturbed areas of the site and provide guidance as to which method of
-stabilization will be employed for any time of the year. Such may include:
-temporary seeding, permanent seeding, mulching, matting, sod stabilization,
-vegetative buffer strips, phasing of construction operations, the use of
-construction entrances, and the use of alternative ground cover. Erosion control
-must meet the following requirements:
+2. _(b)_ **Erosion Control:** The <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> must make use of erosion controls that are capable of
+providing cover over disturbed soils. The amount of soil exposed during
+construction activity shall be minimized. A description of control designed to
+restabilize disturbed areas after grading or construction shall be included in
+the <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>. The <abbr
+title="Stormwater Pollution Prevention Plan">SWP3</abbr> must provide
+specifications for stabilization of all disturbed areas of the site and provide
+guidance as to which method of stabilization will be employed for any time of
+the year. Such may include: temporary seeding, permanent seeding, mulching,
+matting, sod stabilization, vegetative buffer strips, phasing of construction
+operations, the use of construction entrances, and the use of alternative ground
+cover. Erosion control must meet the following requirements:
 
     1. _(1)_ **Stabilization.** Disturbed areas must be stabilized as specified
     in Tables 1 and 2 below.
@@ -883,31 +914,33 @@ must meet the following requirements:
     Technical Guide available at
     [www.nrcs.usda.gov/technical/efotg/](https://www.nrcs.usda.gov/technical/efotg/).
 
-3. _(c)_ **Runoff Control.** The SWP3 shall incorporate measures that control the
-volume and velocity of stormwater runoff within the site to prevent erosion.
-Peak flow rates and total stormwater volume shall be controlled to minimize
-erosion and outlets, downstream channel and streambank erosion. Such may include
-rock check dams, pipe slope drains, diversions to direct flow away from exposed
-soils and protective grading. These shall divert runoff away from disturbed
-areas and steep slopes where practicable. Velocity dissipation devices shall be
-placed at discharge locations and along the length of any outfall channel to
-provide non-erosive flow velocity from the structure to a water course so that
-the natural physical and biological characteristics and functions are maintained
-and protected.
+3. _(c)_ **Runoff Control.** The <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> shall incorporate measures that control the volume and
+velocity of stormwater runoff within the site to prevent erosion. Peak flow
+rates and total stormwater volume shall be controlled to minimize erosion and
+outlets, downstream channel and streambank erosion. Such may include rock check
+dams, pipe slope drains, diversions to direct flow away from exposed soils and
+protective grading. These shall divert runoff away from disturbed areas and
+steep slopes where practicable. Velocity dissipation devices shall be placed at
+discharge locations and along the length of any outfall channel to provide
+non-erosive flow velocity from the structure to a water course so that the
+natural physical and biological characteristics and functions are maintained and
+protected.
 
-4. _(d)_ **Sediment Control Practices.** The SWP3 shall include a description of,
-and detailed drawings for, all structural practices that shall store runoff,
-allowing sediments to settle and/or divert flows away from exposed soils or
-otherwise limit runoff from exposed areas to minimize sediment discharges from
-the site. Structural practices shall be used to control erosion and trap
-sediment from a site remaining disturbed for more than fourteen (14) days. Such
-practices may include, among others: sediment settling ponds, silt fences, storm
-drain inlet protection, and earth diversion dikes or channels which direct
-runoff to a sediment settling pond. The design, installation and maintenance of
-erosion and sediment controls shall address factors such as the amount,
-frequency, intensity and duration of precipitation, the nature of resulting
-stormwater runoff, and soil characteristics, including the range of soil
-particle sizes expected to be present on the site.
+4. _(d)_ **Sediment Control Practices.** The <abbr title="Stormwater Pollution
+Prevention Plan">SWP3</abbr> shall include a description of, and detailed
+drawings for, all structural practices that shall store runoff, allowing
+sediments to settle and/or divert flows away from exposed soils or otherwise
+limit runoff from exposed areas to minimize sediment discharges from the site.
+Structural practices shall be used to control erosion and trap sediment from a
+site remaining disturbed for more than fourteen (14) days. Such practices may
+include, among others: sediment settling ponds, silt fences, storm drain inlet
+protection, and earth diversion dikes or channels which direct runoff to a
+sediment settling pond. The design, installation and maintenance of erosion and
+sediment controls shall address factors such as the amount, frequency, intensity
+and duration of precipitation, the nature of resulting stormwater runoff, and
+soil characteristics, including the range of soil particle sizes expected to be
+present on the site.
 
 5. _(e)_ All sediment control must be capable of ponding runoff in order to be
 considered functional. Earth diversion dikes or channels alone are not
@@ -1086,12 +1119,14 @@ Sediment control must meet the following requirements:
     shall avoid water resources. A 50 foot undisturbed natural buffer shall be
     provided around surface waters of the state unless infeasible. If it is
     infeasible to provide and maintain an undisturbed 50-foot natural buffer,
-    the SWP3 shall comply with the stabilization requirements in [Section
-    1355.09(b)(1)][CFCO 1355.09(b)(1)] for areas within 50 feet of a surface
-    water or riparian or wetland setbacks if applicable, whichever is greater;
-    and minimize soil compaction and, unless infeasible, preserve topsoil. If
-    the applicant is permitted to disturb areas within 50 feet of a water
-    resource, the following conditions shall be addressed in the SWP3:
+    the <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> shall
+    comply with the stabilization requirements in [Section 1355.09(b)(1)][CFCO
+    1355.09(b)(1)] for areas within 50 feet of a surface water or riparian or
+    wetland setbacks if applicable, whichever is greater; and minimize soil
+    compaction and, unless infeasible, preserve topsoil. If the applicant is
+    permitted to disturb areas within 50 feet of a water resource, the following
+    conditions shall be addressed in the <abbr title="Stormwater Pollution
+    Prevention Plan">SWP3</abbr>:
 
         1. _(A)_ All BMPs and stream crossings shall be designed as specified in
         the most recent edition of Rainwater and Land Development.
@@ -1200,23 +1235,25 @@ Sediment control must meet the following requirements:
             other such methods to prevent storm water from coming into contact
             with contaminated materials.
 
-                The SWP3 must include methods to minimize the exposure of
-                building materials, building products, construction wastes,
+                The <abbr title="Stormwater Pollution Prevention
+                Plan">SWP3</abbr> must include methods to minimize the exposure
+                of building materials, building products, construction wastes,
                 trash, landscape materials, fertilizers, pesticides, herbicides,
                 detergents, and sanitary waste to precipitation, stormwater
-                runoff, and snow melt. The SWP3 shall include measures to
-                prevent and respond to chemical spills and leaks. Applicants may
-                also reference the existence of other plans (i.e., Spill
-                Prevention Control and Countermeasure (SPCC) plans, spill
-                control programs, Safety Response Plans, etc.) provided that
-                such plan addresses this requirement and a copy of such plan is
-                maintained on site.
+                runoff, and snow melt. The <abbr title="Stormwater Pollution
+                Prevention Plan">SWP3</abbr> shall include measures to prevent
+                and respond to chemical spills and leaks. Applicants may also
+                reference the existence of other plans (i.e., Spill Prevention
+                Control and Countermeasure (SPCC) plans, spill control programs,
+                Safety Response Plans, etc.) provided that such plan addresses
+                this requirement and a copy of such plan is maintained on site.
 
-6. _(f)_ **Compliance with Other Requirements.** The SWP3 shall be consistent
-with applicable State and/or local waste disposal, sanitary sewer, or septic
-system regulations, including provisions prohibiting waste disposal by open
-burning, and shall provide for the proper disposal of contaminated soils located
-within the development area.
+6. _(f)_ **Compliance with Other Requirements.** The <abbr title="Stormwater
+Pollution Prevention Plan">SWP3</abbr> shall be consistent with applicable State
+and/or local waste disposal, sanitary sewer, or septic system regulations,
+including provisions prohibiting waste disposal by open burning, and shall
+provide for the proper disposal of contaminated soils located within the
+development area.
 
 7. _(g)_ **Trench and Ground Water Control.** There shall be no sediment-laden
 or turbid discharges to water resources or wetlands resulting from dewatering
@@ -1248,7 +1285,8 @@ following conditions are met:
     stabilization is achieved.
 
     3. _(C)_ The beginning date and ending dates of the waiver period are
-    documented in the SWP3.
+    documented in the <abbr title="Stormwater Pollution Prevention
+    Plan">SWP3</abbr>.
 
         For sites where final sediment controls will not be completed by October 1,
         a Pre-Winter Stabilization Meeting may be required at the discretion of the
@@ -1259,23 +1297,25 @@ following conditions are met:
 
         The applicant shall assign qualified inspection personnel to conduct
         these inspections to ensure that the controls are functional and to
-        evaluate whether the SWP3 is adequate, or whether additional control
-        measures are required. Qualified inspection personnel are individuals
-        with knowledge and experience in the installation and maintenance of
-        sediment and erosion controls. Certified inspection reports shall be
-        submitted to the Village Engineer within seven (7) working days from the
-        inspection and retained at the development site. These inspections shall
-        meet the following requirements:
+        evaluate whether the <abbr title="Stormwater Pollution Prevention
+        Plan">SWP3</abbr> is adequate, or whether additional control measures
+        are required. Qualified inspection personnel are individuals with
+        knowledge and experience in the installation and maintenance of sediment
+        and erosion controls. Certified inspection reports shall be submitted to
+        the Village Engineer within seven (7) working days from the inspection
+        and retained at the development site. These inspections shall meet the
+        following requirements:
 
     1. _(1)_ Disturbed areas and areas used for storage of materials that are
     exposed to precipitation shall be inspected for evidence of or the potential
     for, pollutants entering the drainage system.
 
-    2. _(2)_ Erosion and sediment control measures identified in the SWP3 shall
-    be observed to ensure that they are operating correctly. The applicant shall
-    utilize an inspection form provided by the Village of Chagrin Falls or an
-    alternate form acceptable to the Village of Chagrin Falls Engineer. The
-    inspection form shall include:
+    2. _(2)_ Erosion and sediment control measures identified in the <abbr
+    title="Stormwater Pollution Prevention Plan">SWP3</abbr> shall be observed
+    to ensure that they are operating correctly. The applicant shall utilize an
+    inspection form provided by the Village of Chagrin Falls or an alternate
+    form acceptable to the Village of Chagrin Falls Engineer. The inspection
+    form shall include:
 
         1. _(A)_ The inspection date.
 
@@ -1303,7 +1343,8 @@ following conditions are met:
             time of inspection.
 
         6. _(F)_ Corrective action required including any necessary changes to
-        the SWP3 and implementation dates.
+        the <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> and
+        implementation dates.
 
     3. _(3)_ Discharge locations shall be inspected to determine whether erosion
     and sediment control measures are effective in preventing significant
@@ -1315,18 +1356,21 @@ following conditions are met:
     5. _(5)_ The applicant shall maintain for three (3) years following final
     stabilization the results of these inspections, the names and qualifications
     of personnel making the inspections, the dates of inspections, major
-    observations relating to the implementation of the SWP3, a certification as
-    to whether the facility is in compliance with the SWP3, and information on
-    any incidents of non-compliance determined by these inspections.
+    observations relating to the implementation of the <abbr title="Stormwater
+    Pollution Prevention Plan">SWP3</abbr>, a certification as to whether the
+    facility is in compliance with the <abbr title="Stormwater Pollution
+    Prevention Plan">SWP3</abbr>, and information on any incidents of
+    non-compliance determined by these inspections.
 
-9. _(i)_ **Maintenance.** The SWP3 shall be designed to minimize maintenance
-requirements. All BMPs shall be maintained and repaired as needed to ensure
-continued performance of their intended function until final stabilization. All
-sediment control must be maintained in a functional condition until all up slope
-areas they control reach final stabilization. The applicant shall provide a
-description of maintenance procedures needed to ensure the continued performance
-of control and shall ensure a responsible party and adequate funding to conduct
-this maintenance, all as determined by the Village of Chagrin Falls Engineer.
+9. _(i)_ **Maintenance.** The <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> shall be designed to minimize maintenance requirements. All
+BMPs shall be maintained and repaired as needed to ensure continued performance
+of their intended function until final stabilization. All sediment control must
+be maintained in a functional condition until all up slope areas they control
+reach final stabilization. The applicant shall provide a description of
+maintenance procedures needed to ensure the continued performance of control and
+shall ensure a responsible party and adequate funding to conduct this
+maintenance, all as determined by the Village of Chagrin Falls Engineer.
 
     When inspections reveal the need for repair, replacement, or installation of
     erosion and sediment control BMPs, the following procedures shall be
@@ -1340,37 +1384,44 @@ this maintenance, all as determined by the Village of Chagrin Falls Engineer.
 
     2. _(2)_ When BMPs fail to provide their intended function. If an internal
     inspection reveals that a BMP fails to perform its intended function as
-    detailed in the SWP3 and that another, more appropriate is required, the
-    SWP3 must be amended and the new BMP must be installed within ten (10) days
-    of notice from the Village Engineer.
+    detailed in the <abbr title="Stormwater Pollution Prevention
+    Plan">SWP3</abbr> and that another, more appropriate is required, the <abbr
+    title="Stormwater Pollution Prevention Plan">SWP3</abbr> must be amended and
+    the new BMP must be installed within ten (10) days of notice from the
+    Village Engineer.
 
-    3. _(3)_ When BMPs depicted on the SWP3 are not installed. If an internal
-    inspection reveals that a BMP has not been implemented in accordance with
-    the schedule, the must be implemented within ten (10) days from the date of
-    the inspection. If the internal inspection reveals that the planned is not
+    3. _(3)_ When BMPs depicted on the <abbr title="Stormwater Pollution
+    Prevention Plan">SWP3</abbr> are not installed. If an internal inspection
+    reveals that a BMP has not been implemented in accordance with the schedule,
+    the must be implemented within ten (10) days from the date of the
+    inspection. If the internal inspection reveals that the planned is not
     needed, the record must contain a statement of explanation as to why the is
     not needed.
 
 10. _(j)_ **Final Stablization.** Final stabilization shall be determined by the
 Village of Chagrin Falls Engineer. Once a definable area has achieved final
-stabilization, the applicant may note this on the SWP3 and no further inspection
-requirement applies to that portion of the site. Final stabilization also
-requires the installation of permanent (post-construction) stormwater control
-measures (SCMs).\
+stabilization, the applicant may note this on the <abbr title="Stormwater
+Pollution Prevention Plan">SWP3</abbr> and no further inspection requirement
+applies to that portion of the site. Final stabilization also requires the
+installation of permanent (post-construction) stormwater control measures
+(SCMs).\
 (Ord. 2016-80. Passed 12-12-16.)
 
-## 1355.10   Abbreviated SWP3
+## 1355.10   Abbreviated <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>
 
 1. _(a)_ In order to control sediment pollution of water resources, the
-applicant shall submit an Abbreviated SWP3 in accordance with the requirements
-of this regulation.
+applicant shall submit an Abbreviated <abbr title="Stormwater Pollution
+Prevention Plan">SWP3</abbr> in accordance with the requirements of this
+regulation.
 
-2. _(b)_ The Abbreviated SWP3 shall be certified by a professional engineer, a
-registered surveyor, certified professional erosion and sediment control
-specialist, or a registered landscape architect.
+2. _(b)_ The Abbreviated <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> shall be certified by a professional engineer, a registered
+surveyor, certified professional erosion and sediment control specialist, or a
+registered landscape architect.
 
-3. _(c)_ The Abbreviated SWP3 shall include a minimum of the following BMPs.
-Village of Chagrin Falls may require other BMPs as site conditions warrant.
+3. _(c)_ The Abbreviated <abbr title="Stormwater Pollution Prevention
+Plan">SWP3</abbr> shall include a minimum of the following BMPs. Village of
+Chagrin Falls may require other BMPs as site conditions warrant.
 
     1. _(1)_ **Construction Entrances:** Construction entrances shall be built
     and shall serve as the only permitted points of ingress and egress to the
@@ -1434,12 +1485,14 @@ Village of Chagrin Falls may require other BMPs as site conditions warrant.
         2. _(B)_ When BMPs fail to provide their intended function. If the
         internal inspection reveals that a BMP fails to perform its intended
         function and that another, more appropriate is required, the Abbreviated
-        SWP3 must be amended and the new must be installed within ten (10) days
-        of the inspection.
+        <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> must be
+        amended and the new must be installed within ten (10) days of the
+        inspection.
 
-        3. _(C)_ When BMPs depicted on the Abbreviated SWP3 are not installed.
-        If the internal inspection reveals that a BMP has not been implemented
-        in accordance with the schedule, the must be implemented within ten (10)
+        3. _(C)_ When BMPs depicted on the Abbreviated <abbr title="Stormwater
+        Pollution Prevention Plan">SWP3</abbr> are not installed. If the
+        internal inspection reveals that a BMP has not been implemented in
+        accordance with the schedule, the must be implemented within ten (10)
         days from the date of the inspection. If the inspection reveals that the
         planned control practice is not needed, the record must contain a
         statement of explanation as to why the control practice is not needed.
@@ -1450,32 +1503,37 @@ Village of Chagrin Falls may require other BMPs as site conditions warrant.
 
 ## 1355.11   Fees
 
-The SWP3 and Abbreviated SWP3 review, filing, and inspection fee is part of a
-complete submittal and is required to be submitted to the Village of Chagrin
-Falls and the Cuyahoga SWCD before the review process begins. Please consult
-with the Village Engineer for current fee schedule.\
+The <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> and
+Abbreviated <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>
+review, filing, and inspection fee is part of a complete submittal and is
+required to be submitted to the Village of Chagrin Falls and the Cuyahoga SWCD
+before the review process begins. Please consult with the Village Engineer for
+current fee schedule.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.12   Bond
 
-1. _(a)_ If a SWP3 or SWP3 is required by this regulation, soil disturbing
-activities shall not be permitted until a cash bond has been deposited with the
-Village of Chagrin Falls Finance Department. The amount shall be One Thousand
-Five Hundred Dollars ($1,500.00) minimum for the first acre, or less, and an
-additional One Thousand Five Hundred Dollars ($1,500.00) paid for each
-subsequent acre or fraction thereof. The bond will be used for the Village of
-Chagrin Falls to perform the obligations otherwise to be performed by the owner
-of the development area as stated in this regulation and to allow all work to be
-performed as needed in the event that the applicant fails to comply with the
-provisions of this regulation. The cash bond shall be returned, less Village of
-Chagrin Falls administrative fees as detailed in Chapter 1355 of the Village of
-Chagrin Falls Codified Ordinances, after all work required by this regulation
-has been completed and final stabilization has been reached, all as determined
-by the Village Engineer.
+1. _(a)_ If a <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> or
+Abbreviated <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> is
+required by this regulation, soil disturbing activities shall not be permitted
+until a cash bond has been deposited with the Village of Chagrin Falls Finance
+Department. The amount shall be One Thousand Five Hundred Dollars ($1,500.00)
+minimum for the first acre, or less, and an additional One Thousand Five Hundred
+Dollars ($1,500.00) paid for each subsequent acre or fraction thereof. The bond
+will be used for the Village of Chagrin Falls to perform the obligations
+otherwise to be performed by the owner of the development area as stated in this
+regulation and to allow all work to be performed as needed in the event that the
+applicant fails to comply with the provisions of this regulation. The cash bond
+shall be returned, less Village of Chagrin Falls administrative fees as detailed
+in Chapter 1355 of the Village of Chagrin Falls Codified Ordinances, after all
+work required by this regulation has been completed and final stabilization has
+been reached, all as determined by the Village Engineer.
 
-2. _(b)_ No project subject to this regulation shall commence without a SWP3 or
-Abbreviated SWP3, if a SWP3 is not required, approved by the Village of Chagrin
-Falls Engineer.\
+2. _(b)_ No project subject to this regulation shall commence without a <abbr
+title="Stormwater Pollution Prevention Plan">SWP3</abbr> or Abbreviated <abbr
+title="Stormwater Pollution Prevention Plan">SWP3</abbr>, if a <abbr
+title="Stormwater Pollution Prevention Plan">SWP3</abbr> is not required,
+approved by the Village of Chagrin Falls Engineer.\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.13   Enforcement
@@ -1488,39 +1546,46 @@ necessary for sediment and erosion control, earth movement, clearing, or cut and
 fill activity.
 
 2. _(b)_ All development areas may be subject to external inspections by Village
-Engineer and/or the Cuyahoga SWCD to ensure compliance with the approved SWP3 or
-Abbreviated SWP3.
+Engineer and/or the Cuyahoga SWCD to ensure compliance with the approved <abbr
+title="Stormwater Pollution Prevention Plan">SWP3</abbr> or Abbreviated <abbr
+title="Stormwater Pollution Prevention Plan">SWP3</abbr>.
 
 3. _(c)_ After each external inspection, the Village Engineer and/or the
 Cuyahoga SWCD shall prepare and distribute a status report to the applicant.
 
 4. _(d)_ If an external inspection determines that operations are being
-conducted in violation of the approved SWP3 or Abbreviated SWP3 the Village
-Engineer and/or the Cuyahoga SWCD may take action as detailed in [Section
-1355.14][CFCO 1355.14] of this regulation.
+conducted in violation of the approved <abbr title="Stormwater Pollution
+Prevention Plan">SWP3</abbr> or Abbreviated <abbr title="Stormwater Pollution
+Prevention Plan">SWP3</abbr> the Village Engineer and/or the Cuyahoga SWCD may
+take action as detailed in [Section 1355.14][CFCO 1355.14] of this regulation.
 
 5. _(e)_ Failure to maintain and repair erosion and sediment controls per the
-approved SWP3 or swp3 plan may result in the following escalation:
+approved <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> or
+Abbreviated <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> plan
+may result in the following escalation:
 
     1. _(1)_ **First Violation:** The Village Engineer will issue a Notice of
     Deficiency to the owner or operator. All controls are to be repaired or
-    maintained per the SWP3 plan within three (3) days of the notification. If
+    maintained per the <abbr title="Stormwater Pollution Prevention
+    Plan">SWP3</abbr> plan within three (3) days of the notification. If
     controls have not been corrected after this time, the Village Engineer may
     issue a Stop Work Order for all activities until corrections have been made.
 
     2. _(2)_ **Second Violation:** The Village Engineer may issue a formal
     Notice of Violation which includes a $250 administrative fee against the
-    SWP3 Bond or site plan deposit. All controls are to be repaired or
-    maintained per the approved SWP3 plan within three (3) days of the Notice of
-    Violation. If controls have not been corrected after this time, the Village
-    Engineer may issue a Stop Work Order for all activities until corrections
-    have been made.
+    <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> Bond or site
+    plan deposit. All controls are to be repaired or maintained per the approved
+    <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr> plan within
+    three (3) days of the Notice of Violation. If controls have not been
+    corrected after this time, the Village Engineer may issue a Stop Work Order
+    for all activities until corrections have been made.
 
     3. _(3)_ **Third and subsequent violations:** The Village Engineer may issue
     a Stop Work Order for all construction activities and charge a $250
-    administrative fee against the SWP3 bond or site plan deposit. The Stop Work
-    Order will be lifted once all controls are in compliance with the approved
-    SWP3 plan.
+    administrative fee against the <abbr title="Stormwater Pollution Prevention
+    Plan">SWP3</abbr> bond or site plan deposit. The Stop Work Order will be
+    lifted once all controls are in compliance with the approved <abbr
+    title="Stormwater Pollution Prevention Plan">SWP3</abbr> plan.
 
 6. _(f)_ The Village Engineer shall have the authority to make immediate on-
 site adjustments to the ESC Plan in order to achieve compliance with these
@@ -1543,7 +1608,8 @@ Protection Agency when a violation on a development project covered by a Section
 10. _(j)_ The Village of Chagrin Falls shall not issue building permits for
 projects regulated under the Building Code, Part Thirteen of the Codified
 Ordinances or the Planning and Zoning Code, Part Eleven, that have not received
-approval for an SWP3 for said project(s).\
+approval for a <abbr title="Stormwater Pollution Prevention Plan">SWP3</abbr>
+for said project(s).\
 (Ord. 2016-80. Passed 12-12-16.)
 
 ## 1355.14   Violations
