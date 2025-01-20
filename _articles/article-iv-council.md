@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 4
+article_no_roman: "IV"
 title: "Article IV: Council"
 ---
 

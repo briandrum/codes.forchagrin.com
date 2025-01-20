@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 2
+article_no_roman: "II"
 title: "Article II: Powers of the Municipality"
 ---
 

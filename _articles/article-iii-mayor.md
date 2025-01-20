@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 3
+article_no_roman: "III"
 title: "Article III: Mayor"
 ---
 

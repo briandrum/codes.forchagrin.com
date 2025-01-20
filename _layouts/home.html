@@ -15,9 +15,10 @@ layout: default
   </section>
 
   {% for part in parts %}
+  {% assign part_title = part.title | split: ": " %}
   <section>
     <h2>Part {{ part.part_no_word }}</h2>
-    <h1><a href="{{ part.url }}">{{ part.title }}</a></h1>
+    <h1><a href="{{ part.url }}">{{ part_title[1] | smartify }}</a></h1>
   </section>
   {% endfor %}
 </div>
@@ -40,7 +41,7 @@ layout: default
     <article>
       <h4>
         <a href="{{ post.url | relative_url }}">
-          Ordinance {{ post.ordinance_no | escape }}: {{ post.title | escape }}
+          Ordinance {{ post.ordinance_no | smartify }}: {{ post.title | smartify }}
         </a>
       </h4>
       <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">

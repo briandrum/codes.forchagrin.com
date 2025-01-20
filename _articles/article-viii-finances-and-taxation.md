@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 8
+article_no_roman: "VIII"
 title: "Article VIII: Finances and Taxation"
 ---
 

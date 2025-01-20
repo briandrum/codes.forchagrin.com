@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 12
+article_no_roman: "XII"
 title: "Article XII: General Provisions"
 ---
 

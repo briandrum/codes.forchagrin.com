@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="Markdown Article">
+
+  {% assign title = page.title | split: ": " %}
+
+  {% if page.article_no_roman =="" %}
+    <h1>{{ title[0] | smartify }}</h1>
+  {% else %}
+    <header>
+      <h2>Article {{ page.article_no_roman | smartify }}</h2>
+      <h1>{{ title[1] | smartify }}</h1>
+    </header>
+  {% endif %}
+
+  <div>
+    {{ content }}
+  </div>
+
+</article>

@@ -4,8 +4,11 @@ layout: default
 
 <article class="Markdown Chapter">
 
+  {% assign title = page.title | split: ": " %}
+
   <header>
-    <h1>{{ page.title | escape }}</h1>
+    <h2>Chapter {{ page.chapter_no | smartify }}</h2>
+    <h1>{{ title[1] | smartify }}</h1>
   </header>
 
   <div>

@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 9
+article_no_roman: "IX"
 title: "Article IX: Nominations and Elections"
 ---
 

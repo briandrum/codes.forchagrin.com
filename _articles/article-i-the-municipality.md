@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 1
+article_no_roman: "I"
 title: "Article I: The Municipality"
 ---
 
