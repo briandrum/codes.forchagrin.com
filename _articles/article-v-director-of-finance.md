@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 5
+article_no_roman: "V"
 title: "Article V: Director of Finance"
 ---
 

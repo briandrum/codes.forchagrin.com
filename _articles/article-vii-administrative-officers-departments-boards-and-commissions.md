@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 7
+article_no_roman: "VII"
 title: "Article VII: Administrative Officers, Departments, Boards and Commissions"
 ---
 

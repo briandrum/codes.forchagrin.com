@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 10
+article_no_roman: "X"
 title: "Article X: Initiative, Referendum and Recall"
 ---
 

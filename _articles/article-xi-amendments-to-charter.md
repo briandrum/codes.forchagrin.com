@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 11
+article_no_roman: "XI"
 title: "Article XI: Amendments to Charter"
 ---
 

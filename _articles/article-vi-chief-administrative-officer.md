@@ -1,7 +1,8 @@
 ---
-layout: chapter
+layout: article
 part_no: 0
 article_no: 6
+article_no_roman: "VI"
 title: "Article VI: Chief Administrative Officer"
 ---
 
