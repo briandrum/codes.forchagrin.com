@@ -72,6 +72,7 @@ optima:
   # order as they should show up.
   #
   header_pages:
+    - committees-boards-and-commissions.md
     - posts.md
     - search.md
 
