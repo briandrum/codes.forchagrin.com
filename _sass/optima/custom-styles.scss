@@ -1,3 +1,30 @@
+.Header-name {
+  position: relative;
+  font-family: "Libre Baskerville", serif;
+
+}
+
+.Header-name::after,
+.Header-name::before {
+  color: var(--red9);
+  font-family: "Caveat", sans-serif;
+  position: absolute;
+}
+
+.Header-name::after {
+  content: "unofficial";
+  left: 2em;
+  top: -0.2em;
+  transform: rotate(-7deg);
+}
+
+.Header-name::before {
+  content: "v";
+  left: 2.9em;
+  top: 0.4em;
+  transform: rotate(-21deg);
+}
+
 .Markdown.h-entry em {
   font-style: normal;
   text-transform: uppercase;

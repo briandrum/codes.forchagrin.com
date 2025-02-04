@@ -4,14 +4,14 @@
 #                                                                              #
 ################################################################################
 
-title: The Codified Ordinances of Chagrin Falls, Ohio
+title: The Codified Ordinances of Chagrin Falls Ohio
 author:
   name: Brian Drum
   email: codes@forchagrin.com
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  An Unofficial Repository of The Codified Ordinances of Chagrin Falls, Ohio.
+  An Unofficial Repository of The Codified Ordinances of Chagrin Falls Ohio.
 
 # Build settings
 
@@ -115,5 +115,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/og-image.png
-
+      image: /assets/images/og-image.webp
