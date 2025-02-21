@@ -211,8 +211,8 @@ The following costs will be charged by the Cemetery. The Owner is responsible fo
 
 3. _(c)_ **Grave Marker Foundation Fees.** All monuments shall have a concrete foundation built by the cemetery sexton, pursuant to municipal specifications.
 
-    |        |         |
-    |--------|---------|
+    |       |         |
+    |-------|---------|
     | 2′×12″ | $325.00 |
     | 3′×12″ | $375.00 |
     | 4′×12″ | $425.00 |
