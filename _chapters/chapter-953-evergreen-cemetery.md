@@ -213,14 +213,14 @@ The following costs will be charged by the Cemetery. The Owner is responsible fo
 
     |       |         |
     |-------|---------|
-    | 2′×12″ | $325.00 |
-    | 3′×12″ | $375.00 |
-    | 4′×12″ | $425.00 |
-    | 5′×12″ | $500.00 |
-    | 6′×12″ | $550.00 |
+    | 2′×12″ | $350.00 |
+    | 3′×12″ | $400.00 |
+    | 4′×12″ | $450.00 |
+    | 5′×12″ | $525.00 |
+    | 6′×12″ | $575.00 |
 
     No charge for 2′×12″ foundation for approved Veterans Administration marker. All grave markers must be approved by the Sexton before installation in the Cemetery.\
-    ([Ord. 2024-04][CFO 2024-04]. Passed 1-22-24.)
+    ([Ord. 2025-13][CFO 2025-13]. Passed 2-24-25.)
 
 ## 953.08   Indigent Burial Policy
 
@@ -262,3 +262,4 @@ Whoever violates the provisions of this Chapter shall be guilty of a first degre
 [ORC Section 3705.24]:<https://codes.ohio.gov/ohio-revised-code/section-3705.24>
 [ORC Section 5113.15]:<https://codes.ohio.gov/ohio-revised-code/section-5113.15>
 [CFO 2024-04]:</ordinance-2024-04/>
+[CFO 2025-13]:</ordinance-2025-13/>
