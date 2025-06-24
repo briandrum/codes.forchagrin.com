@@ -90,7 +90,7 @@ Elizabeth Hijar         | Member                 | <small>Appointed by Mayor to 
 Jim Holdren             | Member                 | <small>Appointed by Mayor to a four-year term ending Dec 31, 2028</small>
 Dori Loomis             | Alternate              | <small>Appointed by Mayor to a four-year term ending Dec 31, 2026</small>
 
-### Volunteer Firefighters’ Dependents Board
+### Volunteer Firefighters' Dependents Board
 
  Name        | Role   | Term
 -------------|--------|-------------------------------------------------------------------------------------
