@@ -637,10 +637,7 @@ who withdraws blood if the person engaged in willful or wanton misconduct.
                 results of the assessment to the court, including all treatment
                 recommendations and clinical diagnoses related to alcohol use.
 
-            3. _(3)_ In all cases, notwithstanding the fines set forth in
-            Section 303.99, a fine of not less than five hundred twenty-five
-            dollars ($525.00) and not more than one thousand six hundred
-            twenty-five dollars ($1,625).
+            3. _(3)_ In all cases, notwithstanding the fines set forth in [Section 303.99][CFCO 303.99], a fine of not less than five hundred twenty-five dollars ($525.00) and not more than one thousand six hundred twenty-five dollars ($1,625).
 
             4. _(4)_ In all cases, a suspension of the offender's driver's
             license, commercial driver's license, temporary instruction permit,
@@ -664,38 +661,11 @@ who withdraws blood if the person engaged in willful or wanton misconduct.
         misdemeanor. The court shall sentence the offender to all of the
         following:
 
-            1. _(1)_ If the sentence is being imposed for a violation of
-            subsection (a)(1)A., B., C., D., E., or J. of this section, a
-            mandatory jail term of thirty consecutive days. The court shall
-            impose the thirty-day mandatory jail term under this subsection
-            unless, subject to subsection (h)(3) of this section, it instead
-            imposes a sentence under that subsection consisting of both a jail
-            term and a term of house arrest with electronic monitoring, with
-            continuous alcohol monitoring, or with both electronic monitoring
-            and continuous alcohol monitoring. The court may impose a jail term
-            in addition to the thirty-day mandatory jail term. Notwithstanding
-            the jail terms set forth in Section 303.99, the additional jail term
-            shall not exceed one year, and the cumulative jail term imposed for
-            the offense shall not exceed one year.
+            1. _(1)_ If the sentence is being imposed for a violation of subsection (a)(1)A., B., C., D., E., or J. of this section, a mandatory jail term of thirty consecutive days. The court shall impose the thirty-day mandatory jail term under this subsection unless, subject to subsection (h)(3) of this section, it instead imposes a sentence under that subsection consisting of both a jail term and a term of house arrest with electronic monitoring, with continuous alcohol monitoring, or with both electronic monitoring and continuous alcohol monitoring. The court may impose a jail term in addition to the thirty-day mandatory jail term. Notwithstanding the jail terms set forth in [Section 303.99][CFCO 303.99], the additional jail term shall not exceed one year, and the cumulative jail term imposed for the offense shall not exceed one year.
 
-            2. _(2)_ If the sentence is being imposed for a violation of
-            subsection (a)(1)F., G., H. or I. or (a)(2) of this section, a
-            mandatory jail term of sixty consecutive days. The court shall
-            impose the sixty-day mandatory jail term under this subsection
-            unless, subject to subsection (h)(3) of this section, it instead
-            imposes a sentence under that subsection consisting of both a jail
-            term and a term of electronically monitored house arrest with
-            continuous alcohol monitoring, or with both electronic monitoring
-            and continuous alcohol monitoring. The court may impose a jail term
-            in addition to the sixty-day mandatory jail term. Notwithstanding
-            the terms of imprisonment set forth in Section 303.99, the
-            additional jail term shall not exceed one year, and the cumulative
-            jail term imposed for the offense shall not exceed one year.
+            2. _(2)_ If the sentence is being imposed for a violation of subsection (a)(1)F., G., H. or I. or (a)(2) of this section, a mandatory jail term of sixty consecutive days. The court shall impose the sixty-day mandatory jail term under this subsection unless, subject to subsection (h)(3) of this section, it instead imposes a sentence under that subsection consisting of both a jail term and a term of electronically monitored house arrest with continuous alcohol monitoring, or with both electronic monitoring and continuous alcohol monitoring. The court may impose a jail term in addition to the sixty-day mandatory jail term. Notwithstanding the terms of imprisonment set forth in [Section 303.99][CDCO 303.99], the additional jail term shall not exceed one year, and the cumulative jail term imposed for the offense shall not exceed one year.
 
-            3. _(3)_ In all cases, notwithstanding the fines set forth in
-            Section 303.99, a fine of not less than eight hundred fifty dollars
-            ($850.00) and not more than two thousand seven hundred fifty dollars
-            ($2,750).
+            3. _(3)_ In all cases, notwithstanding the fines set forth in [Section 303.99][CFCO 303.99], a fine of not less than eight hundred fifty dollars ($850.00) and not more than two thousand seven hundred fifty dollars ($2,750).
 
             4. _(4)_ In all cases, a suspension of the offender's driver's
             license, commercial driver's license, temporary instruction permit,
@@ -1443,10 +1413,7 @@ this section.
     predicate motor vehicle or traffic offenses, whoever violates this section
     is guilty of a misdemeanor of the third degree.
 
-    2. _(2)_ Notwithstanding Section 303.99(b), upon a finding that a person
-    operated a motor vehicle in violation of subsection (c) of this section, the
-    court, in addition to all other penalties provided by law, shall impose a
-    fine of two times the usual amount imposed for the violation.
+    2. _(2)_ Notwithstanding [Section 303.99(b)][CFCO 303.99(b)], upon a finding that a person operated a motor vehicle in violation of subsection (c) of this section, the court, in addition to all other penalties provided by law, shall impose a fine of two times the usual amount imposed for the violation.
 
     3. _(3)_ If the offender commits the offense while distracted and the
     distracting activity is a contributing factor to the commission of the
@@ -1627,6 +1594,8 @@ section shall not apply when:
     of their work.\
     (Ord. 2015-03. Passed 3-9-15.)
 
+[CFCO 303.99(b)]:<https://codes.forchagrin.com/chapters/chapter-303-enforcement-impounding-and-penalty/#30399(b)>
+[CFCO 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
 [ORC Chapter 2929]:<https://codes.ohio.gov/ohio-revised-code/chapter-2929>
 [ORC Chapter 5119]:<https://codes.ohio.gov/ohio-revised-code/chapter-5119>
 [ORC Section 1547.11]:<https://codes.ohio.gov/ohio-revised-code/section-1547.11>
