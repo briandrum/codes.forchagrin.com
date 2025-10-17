@@ -515,10 +515,9 @@ the third degree.
 
 ## 373.99   Penalty
 
-In addition to the penalty provided in Section 303.99, whoever violates any
-provision of this chapter may be punished by having his bicycle impounded for a
-period not exceeding thirty days.
+In addition to the penalty provided in [Section 303.99][CFCO 303.99], whoever violates any provision of this chapter may be punished by having his bicycle impounded for a period not exceeding thirty days.
 
+[CFCO 303.99]:</chapters/chapter-303-enforcement-impounding-and-penalty/#30399-general-code-penalty>
 [ORC Chapter 4506]:<https://codes.ohio.gov/ohio-revised-code/chapter-4506>
 [ORC Chapter 4507]:<https://codes.ohio.gov/ohio-revised-code/chapter-4507>
 [ORC Section 2901.20]:<https://codes.ohio.gov/ohio-revised-code/section-2901.20>
