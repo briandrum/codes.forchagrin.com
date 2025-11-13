@@ -15,15 +15,15 @@ Committees are made up of three Council members and all meet on an as-needed bas
 
 The Committee of the Whole is a committee meeting of the entire Council. Meetings are called on an as-needed basis when an issue is before Council that requires the deliberation of the entire Council.
 
- Name            | Role                  | Term
------------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------
-Angie DeBernardo | President             | <small>Elected to Council for a four-year term ending Dec 31, 2027<br>Elected Council president for a one-year term ending Dec 31, 2025</small>
-Nancy Rogoff     | President pro tempore | <small>Elected to Council for a two-year term ending Dec 31, 2025<br>Elected Council president pro tempore for a one-year term ending Dec 31, 2025</small>
-Andrew Rockey    | Member                | <small>Elected to Council for a two-year term ending Dec 31, 2025</small>
-Brian Drum       | Member                | <small>Elected to Council for a four-year term ending Dec 31, 2027</small>
-Don Gutierrez    | Member                | <small>Elected to Council for a two-year term ending Dec 31, 2025</small>
-Erinn Grube      | Member                | <small>Elected to Council for a four-year term ending Dec 31, 2027</small>
-Mike Corkran     | Member                | <small>Elected to Council for a two-year term ending Dec 31, 2025</small>
+ Name             | Role                  | Term
+------------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------
+Angie DeBernardo  | President             | <small>Elected to Council for a four-year term ending Dec 31, 2027<br>Elected Council president for a one-year term ending Dec 31, 2025</small>
+Nancy Rogoff      | President pro tempore | <small>Elected to Council for a four-year term ending Dec 31, 2029<br>Elected Council president pro tempore for a one-year term ending Dec 31, 2025</small>
+Andrew Rockey     | Member                | <small>Elected to Council for a four-year term ending Dec 31, 2029</small>
+Anthony Fossaceca | Member                | <small>Elected to Council for a four-year term ending Dec 31, 2029</small>
+Brian Drum        | Member                | <small>Elected to Council for a four-year term ending Dec 31, 2027</small>
+Erinn Grube       | Member                | <small>Elected to Council for a four-year term ending Dec 31, 2027</small>
+Pam Spremulli     | Member                | <small>Elected to Council for a four-year term ending Dec 31, 2029</small>
 
 ### Administration & Finance Committee
 
@@ -70,8 +70,7 @@ Established in [Part One, Title Five, Chapter 137: Architectural Board of Review
 Steven King       | Chair             | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
 Wendy Hoge Naylor | Secretary         | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
 Erik Kaminski     | Member            | <small>Appointed by Council to a three-year term ending Dec 31, 2026</small>
-Mike Corkran      | Member            | <small>Appointed by Council to a two-year term ending Dec 31, 2025</small>
-                  | Member            | <small>Appointed by Mayor to remainder of term ending Dec 31, 2026</small>
+Mike Corkran      | Member            | <small>Appointed by Mayor to remainder of term ending Dec 31, 2026</small>
 George Clemens    | Architect Advisor | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
 Philip Koepf      | Architect Advisor | <small>Appointed by Mayor to remainder of term ending Dec 31, 2026</small>
 Chuck Fazio       | Alternate         | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
