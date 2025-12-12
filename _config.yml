@@ -92,7 +92,9 @@ optima:
 
   # Plausible analytics: https://plausible.io/
   #
-  plausible_analytics: codes.forchagrin.com
+  plausible_analytics:
+    enabled: true
+    src: "plausible.io/js/pa-azPYMhQr_tuKhoyBXdNQf.js"
 
 ################################################################################
 #                                                                              #
