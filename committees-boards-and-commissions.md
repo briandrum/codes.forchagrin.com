@@ -17,8 +17,8 @@ The Committee of the Whole is a committee meeting of the entire Council. Meeting
 
  Name             | Role                  | Term
 ------------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------
-Angie DeBernardo  | President             | <small>Elected to Council for a four-year term ending Dec 31, 2027<br>Elected Council president for a one-year term ending Dec 31, 2025</small>
-Nancy Rogoff      | President pro tempore | <small>Elected to Council for a four-year term ending Dec 31, 2029<br>Elected Council president pro tempore for a one-year term ending Dec 31, 2025</small>
+Angie DeBernardo  | President             | <small>Elected to Council for a four-year term ending Dec 31, 2027<br>Elected Council president for a one-year term ending Dec 31, 2026</small>
+Nancy Rogoff      | President pro tempore | <small>Elected to Council for a four-year term ending Dec 31, 2029<br>Elected Council president pro tempore for a one-year term ending Dec 31, 2026</small>
 Andrew Rockey     | Member                | <small>Elected to Council for a four-year term ending Dec 31, 2029</small>
 Anthony Fossaceca | Member                | <small>Elected to Council for a four-year term ending Dec 31, 2029</small>
 Brian Drum        | Member                | <small>Elected to Council for a four-year term ending Dec 31, 2027</small>
@@ -27,35 +27,35 @@ Pam Spremulli     | Member                | <small>Elected to Council for a four
 
 ### Administration & Finance Committee
 
+ Name             | Role   | Term
+------------------|--------|-------------------------------------------------------------------------------------
+Anthony Fossaceca | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Erinn Grube       | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Nancy Rogoff      | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+
+### Communication & Community Engagement Committee
+
+ Name             | Role   | Term
+------------------|--------|-------------------------------------------------------------------------------------
+Angie DeBernardo  | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Anthony Fossaceca | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Pam Spremulli     | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+
+### Infrastructure & Operations Committee
+
  Name         | Role   | Term
 --------------|--------|-------------------------------------------------------------------------------------
-Don Gutierrez | Chair  | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-Erinn Grube   | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-Mike Corkran  | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-
-### Facilities & Services Committee
-
- Name            | Role   | Term
------------------|--------|-------------------------------------------------------------------------------------
-Erinn Grube      | Chair  | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-Angie DeBernardo | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-Brian Drum       | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-
-### Infrastructure & Utilities Committee
-
- Name         | Role   | Term
---------------|--------|-------------------------------------------------------------------------------------
-Mike Corkran  | Chair  | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-Don Gutierrez | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-Nancy Rogoff  | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
+Andrew Rockey | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Brian Drum    | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Erinn Grube   | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 
 ### Safety Committee
 
  Name            | Role   | Term
 -----------------|--------|-------------------------------------------------------------------------------------
-Brian Drum       | Chair  | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-Andrew Rockey    | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-Angie DeBernardo | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
+Angie DeBernardo | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Brian Drum       | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Pam Spremulli    | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 
 ## Boards
 
@@ -84,7 +84,7 @@ Established in [Part One, Title Five, Chapter 136: Board of Zoning Appeals][2].
 ------------------------|------------------------|-------------------------------------------------------------------------------------
 Wade Fricke             | Chair                  | <small>Appointed by Mayor to a four-year term ending Dec 31, 2027</small>
 Rachel Freshman-Johnson | Secretary              | <small>Appointed by Mayor to a four-year term ending Dec 31, 2028</small>
-Andrew Rockey           | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
+Andrew Rockey           | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Elizabeth Hijar         | Member                 | <small>Appointed by Mayor to a four-year term ending Dec 31, 2028</small>
 Jim Holdren             | Member                 | <small>Appointed by Mayor to a four-year term ending Dec 31, 2028</small>
 Dori Loomis             | Alternate              | <small>Appointed by Mayor to a four-year term ending Dec 31, 2026</small>
@@ -93,8 +93,8 @@ Dori Loomis             | Alternate              | <small>Appointed by Mayor to 
 
  Name        | Role   | Term
 -------------|--------|-------------------------------------------------------------------------------------
-Erinn Grube  | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
-Nancy Rogoff | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
+Erinn Grube  | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Nancy Rogoff | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 
 ## Commissions
 
@@ -106,10 +106,10 @@ Established in [Part One, Title Five, Chapter 145: Chagrin Falls Arts Commission
 
  Name                | Role                   | Term
 ---------------------|------------------------|-------------------------------------------------------------------------------------
-Pam Spremulli        | Chair                  | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
-Don Gutierrez        | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
+Pam Spremulli        | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Greggory Hill        | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
 Mary Ann Quinn Ponce | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
+?                    | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
 
 ### Charter Review Commission
 
@@ -131,8 +131,8 @@ Established in [Part One, Title Five, Chapter 142: Cemetery Commission][5].
 
  Name              | Role                   | Term
 -------------------|------------------------|-------------------------------------------------------------------------------------
-Susan Harris White | Chair                  | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
-Angela DeBernardo  | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
+Susan Harris White | Chair                  | <small>Appointed by Mayor to a three-year term ending Dec 31, 2028</small>
+Angela DeBernardo  | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Ben Brigeman       | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
 Moira Carr         | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
 
@@ -169,9 +169,9 @@ Established in [Part One, Title Five, Chapter 140: Parks Commission][8].
 ------------------------|------------------------|-------------------------------------------------------------------------------------
 Anne Wombwell deConingh | Chair                  | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
 Greta Weber             | Secretary              | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
-Brian Drum              | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
+Nancy Rogoff            | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Rick Bauman             | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
-Tod White               | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
+Tod White               | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2028</small>
 
 ### Planning & Zoning Commission
 
@@ -180,7 +180,7 @@ Established in [Charter of the Village of Chagrin Falls, Article VII, Section VI
  Name        | Role                   | Term
 -------------|------------------------|-------------------------------------------------------------------------------------
 Patti Baker  | Chair                  | <small>Appointed by Mayor to a four-year term ending Dec 31, 2027</small>
-Nancy Rogoff | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
+Nancy Rogoff | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Rodger Cahn  | Member                 | <small>Appointed by Mayor to a four-year term ending Dec 31, 2025</small>
 Matt Hicks   | Member                 | <small>Appointed by Mayor to a four-year term ending Dec 31, 2027</small>
 Wendy Davis  | Member                 | <small>Appointed by Mayor to a four-year term ending Dec 31, 2026</small>
@@ -203,8 +203,8 @@ Established in [Part Five, Chapter 544, Section 14: Establishment and powers of 
  Name           | Role                   | Term
 ----------------|------------------------|-------------------------------------------------------------------------------------
 Terry Rounds    | Chair                  | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
-Robert Weitzel  | Secretary              | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
-Nancy Rogoff    | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2025</small>
+Robert Weitzel  | Secretary              | <small>Appointed by Mayor to a three-year term ending Dec 31, 2028</small>
+Brian Drum      | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Ben Himes       | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
 Edward Wells    | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
 Gary Nelson     | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
