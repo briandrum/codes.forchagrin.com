@@ -27,6 +27,8 @@ Pam Spremulli     | Member                | <small>Elected to Council for a four
 
 ### Administration & Finance Committee
 
+The Administration & Finance Committee shall oversee the administrative, personnel, and financial operations of the Village. It is responsible for reviewing the annual operating and capital budgets, financial reports, and audits, as well as recommending fiscal policies and fee schedules. The committee shall also review matters related to Village personnel, procurement, intergovernmental agreements, and internal administrative systems to ensure efficient, transparent, and accountable governance.
+
  Name             | Role   | Term
 ------------------|--------|-------------------------------------------------------------------------------------
 Anthony Fossaceca | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
@@ -34,6 +36,8 @@ Erinn Grube       | Member | <small>Appointed by Council president to a one-year
 Nancy Rogoff      | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 
 ### Communication & Community Engagement Committee
+
+The Communications & Community Engagement Committee shall study the Village's efforts to communicate effectively with residents, businesses, and partner organizations. The committee shall propose methods to ensure that Village communications are accurate, timely, accessible, and reflective of community values. Its responsibilities include reviewing and recommending policies for public information, creating digital and print communications when appropriate, pursuing resident opinions for strategic planning, and hosting community outreach events. The committee shall foster public participation in local government, and support coordination with community groups and businesses.
 
  Name             | Role   | Term
 ------------------|--------|-------------------------------------------------------------------------------------
@@ -43,6 +47,8 @@ Pam Spremulli     | Member | <small>Appointed by Council president to a one-year
 
 ### Infrastructure & Operations Committee
 
+The Infrastructure & Operations Committee shall oversee the planning, development, maintenance, and improvement of the Village's physical assets and public works. Its jurisdiction includes streets, bridges, sidewalks, sewers, stormwater systems, utilities coordination, and Village-owned facilities. The committee shall review and recommend capital improvement projects, evaluate infrastructure needs, and ensure that projects are consistent with the Village's long-range planning, environmental sustainability goals, and fiscal priorities.
+
  Name         | Role   | Term
 --------------|--------|-------------------------------------------------------------------------------------
 Andrew Rockey | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
@@ -50,6 +56,8 @@ Brian Drum    | Member | <small>Appointed by Council president to a one-year ter
 Erinn Grube   | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 
 ### Safety Committee
+
+The Safety Committee shall oversee matters related to the protection of public health, safety, and welfare. Its responsibilities include policy review and recommendations for the Police, Fire, and Emergency Medical Services, as well as coordination on emergency preparedness and public event safety. The committee may review and propose measures concerning traffic and pedestrian safety, building and fire codes, and the use of safety-related technologies and communications systems.
 
  Name            | Role   | Term
 -----------------|--------|-------------------------------------------------------------------------------------
@@ -67,13 +75,14 @@ Established in [Part One, Title Five, Chapter 137: Architectural Board of Review
 
  Name             | Role              | Term
 ------------------|-------------------|---------------------------------------------------------------------------
-Steven King       | Chair             | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
+Steven King       | Chair             | <small>Appointed by Mayor to a three-year term ending Dec 31, 2028</small>
 Wendy Hoge Naylor | Secretary         | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
 Erik Kaminski     | Member            | <small>Appointed by Council to a three-year term ending Dec 31, 2026</small>
-Mike Corkran      | Member            | <small>Appointed by Mayor to remainder of term ending Dec 31, 2026</small>
-George Clemens    | Architect Advisor | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
-Philip Koepf      | Architect Advisor | <small>Appointed by Mayor to remainder of term ending Dec 31, 2026</small>
-Chuck Fazio       | Alternate         | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
+?                 | Member            | <small>Appointed by Council to a two-year term ending Dec 31, 2028</small>
+Philip Koepf      | Member            | <small>Appointed by Mayor to remainder of term ending Dec 31, 2026</small>
+George Clemens    | Architect Advisor | <small>Appointed by Mayor to a three-year term ending Dec 31, 2028</small>
+?                 | Architect Advisor | <small>Appointed by Mayor to remainder of term ending Dec 31, 2026</small>
+Chuck Fazio       | Alternate         | <small>Appointed by Mayor to a three-year term ending Dec 31, 2028</small>
 Janna Lutz        | Alternate         | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
 
 ### Board of Zoning Appeals (BZA)
@@ -181,7 +190,7 @@ Established in [Charter of the Village of Chagrin Falls, Article VII, Section VI
 -------------|------------------------|-------------------------------------------------------------------------------------
 Patti Baker  | Chair                  | <small>Appointed by Mayor to a four-year term ending Dec 31, 2027</small>
 Nancy Rogoff | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
-Rodger Cahn  | Member                 | <small>Appointed by Mayor to a four-year term ending Dec 31, 2025</small>
+Rodger Cahn  | Member                 | <small>Appointed by Mayor to a four-year term ending Dec 31, 2029</small>
 Matt Hicks   | Member                 | <small>Appointed by Mayor to a four-year term ending Dec 31, 2027</small>
 Wendy Davis  | Member                 | <small>Appointed by Mayor to a four-year term ending Dec 31, 2026</small>
 
@@ -207,7 +216,6 @@ Robert Weitzel  | Secretary              | <small>Appointed by Mayor to a three-
 Brian Drum      | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Ben Himes       | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
 Edward Wells    | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
-Gary Nelson     | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
 Michael McGuire | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
 Stuart Lipp     | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
 
