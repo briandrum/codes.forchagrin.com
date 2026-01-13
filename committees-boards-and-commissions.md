@@ -78,7 +78,7 @@ Established in [Part One, Title Five, Chapter 137: Architectural Board of Review
 Steven King       | Chair             | <small>Appointed by Mayor to a three-year term ending Dec 31, 2028</small>
 Wendy Hoge Naylor | Secretary         | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
 Erik Kaminski     | Member            | <small>Appointed by Council to a three-year term ending Dec 31, 2026</small>
-?                 | Member            | <small>Appointed by Council to a two-year term ending Dec 31, 2028</small>
+Mike Corkran      | Member            | <small>Appointed by Council to a two-year term ending Dec 31, 2028</small>
 Philip Koepf      | Member            | <small>Appointed by Mayor to remainder of term ending Dec 31, 2026</small>
 George Clemens    | Architect Advisor | <small>Appointed by Mayor to a three-year term ending Dec 31, 2028</small>
 ?                 | Architect Advisor | <small>Appointed by Mayor to remainder of term ending Dec 31, 2026</small>
@@ -118,7 +118,7 @@ Established in [Part One, Title Five, Chapter 145: Chagrin Falls Arts Commission
 Pam Spremulli        | Council Representative | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Greggory Hill        | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
 Mary Ann Quinn Ponce | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2027</small>
-?                    | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2026</small>
+Virginia Gonzales    | Member                 | <small>Appointed by Mayor to a three-year term ending Dec 31, 2028</small>
 
 ### Charter Review Commission
 
