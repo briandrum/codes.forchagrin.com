@@ -32,7 +32,7 @@ The Administration & Finance Committee shall oversee the administrative, personn
  Name             | Role   | Term
 ------------------|--------|-------------------------------------------------------------------------------------
 Anthony Fossaceca | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
-Erinn Grube       | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Erinn Grube       | Chair  | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Nancy Rogoff      | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 
 ### Communication & Community Engagement Committee
@@ -41,7 +41,7 @@ The Communications & Community Engagement Committee shall study the Village's ef
 
  Name             | Role   | Term
 ------------------|--------|-------------------------------------------------------------------------------------
-Angie DeBernardo  | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Angie DeBernardo  | Chair  | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Anthony Fossaceca | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Pam Spremulli     | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 
@@ -51,7 +51,7 @@ The Infrastructure & Operations Committee shall oversee the planning, developmen
 
  Name         | Role   | Term
 --------------|--------|-------------------------------------------------------------------------------------
-Andrew Rockey | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Andrew Rockey | Chair  | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Brian Drum    | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Erinn Grube   | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 
@@ -62,7 +62,7 @@ The Safety Committee shall oversee matters related to the protection of public h
  Name            | Role   | Term
 -----------------|--------|-------------------------------------------------------------------------------------
 Angie DeBernardo | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
-Brian Drum       | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
+Brian Drum       | Chair  | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 Pam Spremulli    | Member | <small>Appointed by Council president to a one-year term ending Dec 31, 2026</small>
 
 ## Boards
