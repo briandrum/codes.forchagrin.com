@@ -165,9 +165,9 @@ Municipality. A hillside protection permit shall be issued in phases as
 determined by the Administrator and the Municipal Engineer before the next phase
 permit will be issued.
 
-    Refer to [Section 1152.06][CFCO 1152.06] for additional information on
-    administration and enforcement.\
-    (Ord. 2019-39. Passed 8-13-19.)
+Refer to [Section 1152.06][CFCO 1152.06] for additional information on
+administration and enforcement.\
+(Ord. 2019-39. Passed 8-13-19.)
 
 ## 1152.04   Required hillside control measures, standards and plans
 
@@ -175,7 +175,7 @@ The owner/developer shall comply with the following provisions:
 
 1. _(a)_ **Pre-Construction Record.** A photographic record shall be filed with
 the Administrator prior to any building, grading or clearing activity on the
-parcel to be developed. This record shall completely depict the pre- development
+parcel to be developed. This record shall completely depict the pre-development
 condition of the parcel in sufficient detail to enable the Administrator to
 evaluate compliance with these regulations during and following completion of
 construction activities under these regulations. The Administrator shall have

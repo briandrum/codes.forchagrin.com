@@ -1,32 +1,10 @@
 ---
-layout: post
-title: "An Ordinance of the Village of Chagrin Falls to Establish Regulations for Special Events in the Village of Chagrin Falls"
-ordinance_no: "2026-50"
+layout: chapter
+part_no: 9
+title_no: 7
+chapter_no: 952
+title: "Chapter 952: Special Events"
 ---
-
-- Introduced by: Grube
-- [1st Reading (07/27/2026)][CFO 2026-50]
-- **2nd Reading: (08/10/2026)**
-- [3rd Reading: (08/24/2026)][CFO 2026-50-3]
-- Passed (08/24/2026)
-
-_Whereas,_ it is the desire of the Council of the Village of Chagrin Falls add new Chapter 952 of the Village of Chagrin Falls Ordinances to establish regulations for Special Events within the Village of Chagrin Falls, as more fully set forth in Exhibit "A" attached hereto and made a part hereof.
-
-**_Now Therefore, Be It Ordained by the Council of the Village of Chagrin Falls, Cuyahoga County, State of Ohio:_**
-
-**Section 1.** That Chapter 952, attached hereto as Exhibit "A", regulating Special Events, as defined in new Chapter 952, is hereby adopted and the Codified Ordinances of the Village shall be amended to add new Chapter 952.
-
-**Section 2.** The Codified Ordinances of the Village, to the extent inconsistent with the newly enacted provision herein regarding Chapter 952, attached hereto as Exhibit "A", are hereby repealed, except to the extent that if such code sections are the subject of an enforcement action they shall be considered effective for the purposes of an enforcement for any violations that occurred prior to repeal.
-
-**Section 3.** That actions of this Council concerning and relating to the passage of this legislation were adopted in lawful meetings of this Council and that all deliberations of this Council and of any of its committees that resulted in such formal action were in compliance with all legal requirements, including [Chapter 114][CFCO 114] of the Codified Ordinances of the Village of Chagrin Falls.
-
-**Section 4.** That in accordance with [Section 113.01][CFCO 113.01] of the Codified Ordinances of the Village of Chagrin Falls, public notice of this Ordinance shall be given by posting a copy thereof for not less than fifteen (15) days on the Village website.
-
-**Section 5.** That this Ordinance shall take effect and be in force after November 1, 2026.
-
-## Exhibit "A"
-
-# Chapter 952: Special Events
 
 ## Sections
 
@@ -87,7 +65,7 @@ The purpose of this chapter is to establish regulations governing Special Events
 
     1. _(1)_ Application fee: Non-refundable $50.00 application fee
 
-    2. _(2)_ Proof of Insurance (see 952.05)
+    2. _(2)_ Proof of Insurance (see Section 952.05)
 
     3. _(3)_ Application Form, completed with the following information:
 
@@ -95,11 +73,11 @@ The purpose of this chapter is to establish regulations governing Special Events
 
         2. _(ii)_ Event Overview: Event name, description, facilities requested, event dates, event hours, set up/tear down, estimated attendance;
 
-        3. _(iii)_ Designated On-Site Representative (see 952.06);
+        3. _(iii)_ Designated On-Site Representative (see Section 952.06);
 
-        4. _(iv)_ Detailed Event Logistics (see 952.07); and
+        4. _(iv)_ Detailed Event Logistics (see Section 952.07); and
 
-        5. _(v)_ Criteria for Triggering MOU and Council Track (see 952.08).
+        5. _(v)_ Criteria for Triggering MOU and Council Track (see Section 952.08).
 
 ## 952.05   Proof of Insurance
 
@@ -263,7 +241,7 @@ All Special Events shall comply with the following standards and any deviation f
 
     4. _(4)_ **Trees and Vegetation:** Nothing may be attached or affixed to Village trees and/or vegetation. Trees or vegetation may not be trimmed or cut to accommodate Special Event features.
 
-    5. _(5)_ No materials shall be affixed to any light pole, bench, playground, fence or other Village property without prior authorization from the CAO or Village Council.
+    5. _(5)_ **No Affixed Materials:** No materials shall be affixed to any light pole, bench, playground, fence or other Village property without prior authorization from the CAO or Village Council.
 
     6. _(6)_ **Vehicles:** Vehicles shall not be driven or parked on grass or walking paths without approval from the CAO or their designee.
 
@@ -283,10 +261,7 @@ All Special Events shall comply with the following standards and any deviation f
 
 ## 952.16   Enforcement
 
-In addition to the Village's remedies at law, including but not limited to civil injunctive relief to stop a violation in progress, or from pursuing a separate civil action to recover costs, damages, or to enforce the terms of an MOU, upon any violation of this Chapter, the Village Council may cancel such Special Event and/or prohibit any applications for a Special Event permit submitted by the same applicant or on behalf of the same organization deemed in violation.
+In addition to the Village's remedies at law, including but not limited to civil injunctive relief to stop a violation in progress, or from pursuing a separate civil action to recover costs, damages, or to enforce the terms of an MOU, upon any violation of this Chapter, the Village Council may cancel such Special Event and/or prohibit any applications for a Special Event permit submitted by the same applicant or on behalf of the same organization deemed in violation.\
+([Ord. 2026-50][CFO 2026-08-24-3]. Passed 8-24-26.)
 
-[CFO 2026-50]:</ordinance-2026-50/>
-[CFO 2026-50-3]:</ordinance-2026-50-3/>
-[CFCO 114]:</chapters/chapter-114-open-meetings>
-[CFCO 113.01]:</chapters/chapter-113-ordinances-and-resolutions/#11301-publication-and-posting>
-[CFCO 951.01]:</chapters/chapter-951-parks/#95101-prohibited-hours-in-public-property>
+[CFO 2026-08-24-3]:</ordinance-2026-50-3/>
