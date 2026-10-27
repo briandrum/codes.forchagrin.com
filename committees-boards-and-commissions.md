@@ -126,13 +126,13 @@ Established in [Charter of the Village of Chagrin Falls, Article XI, Section XI-
 
 This commission convenes every five years and the next review will occur in 2026.
 
- Name             | Role          | Term
-------------------|---------------|---------------------------------------------------------------------------
-John Mitchell     | Chair         | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
-Anne Griffiths    | Member        | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
-Emily Honsa Hicks | Member        | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
-Justin Herdman    | Member        | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
-Kathryn Gaydos    | Member        | <small>Appointed by Mayor to a three-year term ending Dec 31, 2025</small>
+ Name | Role          | Term
+------|---------------|-------------------------------------------------------------------------
+      | Member        | <small>Appointed by Mayor to a one-year term ending Dec 31, 2026</small>
+      | Member        | <small>Appointed by Mayor to a one-year term ending Dec 31, 2026</small>
+      | Member        | <small>Appointed by Mayor to a one-year term ending Dec 31, 2026</small>
+      | Member        | <small>Appointed by Mayor to a one-year term ending Dec 31, 2026</small>
+      | Member        | <small>Appointed by Mayor to a one-year term ending Dec 31, 2026</small>
 
 ### Cemetery Commission
 
