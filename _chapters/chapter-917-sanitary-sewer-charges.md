@@ -61,7 +61,7 @@ For the purpose of establishing rates to be charged for the service of the munic
     |                   01/01/29 | $12.39/100 cf - $74.34 |
 
     After the year 2029, the rates established for 2029 shall remain in effect until modified by Council.\
-    ([Ord. 2025-25][CFO 2025-25]. Passed 6-23-25.)
+    ([Ord. 2026-05][CFO 2026-05]. Passed 2-9-26.)
 
 2. _(b)_ Premises located outside the corporate limits of the Municipality which are served by the system shall be charged at the rate contained in the chart below, per hundred cubic feet of water, which shall be levied against such lot, parcel of land or premises, building or connection for the use of the water service of the Municipality, or a minimum sewer charge of six (6) times the rate per hundred cubic feet of water, whichever is greater.
 
@@ -69,12 +69,13 @@ For the purpose of establishing rates to be charged for the service of the munic
     |---------------------------:|-----------------------:|
     |                   07/01/25 | $12.74/100 cf - $76.43 |
     |                   01/01/26 | $13.38/100 cf - $80.25 |
+    |                   02/10/26 | $13.38/100 cf - $80.28 |
     |                   01/01/27 | $14.05/100 cf - $84.30 |
     |                   01/01/28 | $14.75/100 cf - $88.50 |
-    |                   01/01/29 | $15.49/100 cf - $92.93 |
+    |                   01/01/29 | $15.49/100 cf - $92.94 |
 
     After the year 2029, the rates established for 2029 shall remain in effect until modified by Council.\
-    ([Ord. 2025-25][CFO 2025-25]. Passed 6-23-25.)
+    ([Ord. 2026-05][CFO 2026-05]. Passed 2-9-26.)
 
 3. _(c)_ Any sewage bill unpaid after January 30, April 30, July 30 or October 30 of any year shall incur a penalty of ten percent (10%) of the total unpaid balance due.\
 (Ord. 1985-7. Passed 2-11-85.)
@@ -107,18 +108,19 @@ For the purpose of establishing rates to be charged for the service of the munic
     The charges for other buildings and structures shall be based on the <abbr title="Residential Single-Family Unit">RSFU</abbr> equivalent of these buildings and structures determined from the sewerage flows as presented in the Ohio Environmental Protection Agency Sewerage Flow Guide, revised from time to time, and using 400 gallons per day (one <abbr title="Residential Single-Family Unit">RSFU</abbr>) as a base. The amount of the charge shall be determined by applying the <abbr title="Residential Single-Family Unit">RSFU</abbr> equivalent figure to the above fee schedule.\
     (Ord. 2018-80. Passed 12-11-18.)
 
-8. _(h)_ In the event any premises are located outside the corporate limits of the Municipality and are served by the system but are unmetered for any reason whatsoever, such land or premises shall be charged an additional twenty-five percent (25%) of the rates set forth in subsection (a) at a rate equal to the amount stated in the chart below, which shall be charged and billed quarterly to each such lot, parcel of land or premises.
+8. _(h)_ In the event any premises are located outside the corporate limits of the Municipality and are served by the system but are unmetered for any reason whatsoever, such land or premises shall be charged an additional twenty-five percent (25%) of the rates set forth in subsection (a) at a rate equal to the amount stated in the chart below, which shall be charged and billed quarterly to each such lot, parcel of land or premises. This charge is based on a 3200 cubic feet of consumption.
 
     | Effective Rate Change Date | Flat Rate |
     |---------------------------:|----------:|
     |                   07/01/25 |   $407.60 |
     |                   01/01/26 |   $428.00 |
+    |                   02/10/26 |   $428.16 |
     |                   01/01/27 |   $449.60 |
     |                   01/01/28 |   $472.00 |
-    |                   01/01/29 |   $495.60 |
+    |                   01/01/29 |   $495.68 |
 
     After the year 2029, the rates established for 2029 shall remain in effect until modified by Council.\
-    ([Ord. 2025-25][CFO 2025-25]. Passed 6-23-25.)
+    ([Ord. 2026-05][CFO 2026-05]. Passed 2-9-26.)
 
 9. _(i)_ In addition to any existing connection or tap charge paid pursuant to subsection (g) hereof or any other provision of law, before any connections are made to the Village waste water treatment facilities from outside the Municipality, except for those properties situated on Falls River Road as set forth in Ordinance No. 1971- 819, adopted February 21, 1971, an impact fee of sixteen thousand dollars ($16,000) per residential unit shall be paid to the Village.\
 (Ord. 2018-80. Passed 12-11-18.)
@@ -154,5 +156,5 @@ Whoever violates any of the provisions of this chapter shall be fined not more t
 [CFCO 917.01(d)]:</chapters/chapter-917-sanitary-sewer-charges/#91701(d)>
 [CFCO 917.04]:</chapters/chapter-917-sanitary-sewer-charges/#91704-sanitary-sewer-charges-and-connection-fees>
 [CFO 2025-24]:</ordinance-2025-24/>
-[CFO 2025-25]:</ordinance-2025-25/>
+[CFO 2026-05]:</ordinance-2026-05-2/>
 [ORC Section 729.52]:<https://codes.ohio.gov/ohio-revised-code/section-729.52>
