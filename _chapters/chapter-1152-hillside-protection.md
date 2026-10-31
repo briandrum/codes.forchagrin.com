@@ -23,409 +23,158 @@ title: "Chapter 1152: Hillside Protection"
 
 ## 1152.01   Intent
 
-Whereas the hillside areas of the Municipality differ from the Municipality's
-flatlands, hillsides necessitate different provisions for their development and
-their protection. The Hillside Protection Regulations are established to
-achieve, among others, the following objectives:
+Whereas the Hillside Areas of the Municipality differ from the Municipality's flatlands, hillsides necessitate different provisions for their development and their protection. The Hillside Protection Regulations are established to achieve, among others, the following objectives:
 
-1. _(a)_ To permit development on hillside areas while conserving and promoting
-the public health, safety, convenience and general welfare by minimizing
-disruption to slope stability, water run-off and soil erosion problems incurred
-in adjustment of the topography to meet development needs;
+1. _(a)_ To permit development on Hillside Areas while conserving and promoting the public health, safety, convenience and general welfare by minimizing disruption to slope stability, water Run-off and soil Erosion problems incurred in adjustment of the topography to meet development needs;
 
-2. _(b)_ To use generally accepted design, landscape architecture, architecture,
-civil engineering, and geotechnical engineering to preserve, enhance and promote
-the existing and future safety of hillside areas;
+2. _(b)_ To use generally accepted design, landscape architecture, architecture, civil engineering, and geotechnical engineering to preserve, enhance and promote the existing and future safety of Hillside Areas;
 
-3. _(c)_ To preserve and enhance the natural beauty of the landscape by
-encouraging the maximum retention of natural topographic features such as
-natural drainage swales, streams, slope ridge lines, rock outcroppings, vistas
-from and of the hillsides, trees and other natural plant formations and to
-retain the sense of identity and image that the hillside areas now impart to the
-Municipality;
+3. _(c)_ To preserve and enhance the natural beauty of the landscape by encouraging the maximum retention of natural topographic features such as natural drainage swales, streams, slope ridge lines, rock outcroppings, vistas from and of the hillsides, trees and other natural (native) plant formations and to retain the sense of identity and image that the Hillside Areas now impart to the Municipality;
 
-4. _(d)_ To maximize the natural environmental value of hillside areas as well
-as their scenic beauty and to protect public and private property owners from
-the potential damage to human life and safety and property damage that could be
-caused by increased hillside instability;
+4. _(d)_ To maximize the natural environmental value of Hillside Areas as well as their scenic beauty and to protect public and private property owners from the potential damage to human life and safety and property damage that could be caused by increased hillside instability;
 
-5. _(e)_ To assure access to properties that have hillside areas by emergency,
-police and fire vehicles and personnel to protect persons and property; and,
+5. _(e)_ To assure access to properties that have Hillside Areas by emergency, police and fire vehicles and personnel to protect persons and property; and,
 
-6. _(f)_ To preserve and protect the unique scenic resources and scenic river
-habitats in the Municipality.\
-(Ord. 2019-39. Passed 8-13-19.)
+6. _(f)_ To preserve and protect the unique scenic resources and scenic river habitats in the Municipality.
+
+In furtherance of these objectives, this Chapter establishes objective, measurable criteria that trigger geotechnical investigation and slope stability evaluation and sets minimum engineering and testing standards consistent with generally accepted geotechnical practice.
 
 ## 1152.02   Definitions
 
-1. _(a)_ "Average percent slope."
+1. _(a)_ "Clearing" means the removal, destruction, cutting, grubbing, mowing of natural vegetation, or the removal of trees, shrubs, groundcover, roots, stumps, or other vegetative material from one or more parcels, whether by mechanical, chemical, or manual means. Clearing includes the removal of vegetation undertaken to prepare land for development, Grading, Excavation, Fill placement, utility installation, access improvements, or to otherwise alter the Original Ground Surface. Routine landscaping maintenance associated with an existing lawful use, including mowing, pruning, trimming, removal of dead, damaged, diseased or hazardous vegetation, and replacement planting, shall not constitute Clearing unless expressly provided elsewhere in this Chapter.
 
-    Average percent slope $$S$$ is computed by the formula:
+2. _(b)_ "Cut" means a portion of land surface or areas from which the earth has been removed or will be removed by Excavation; the depth below the existing Original Ground Surface.
 
-    $$S = {0.00229 \times I \times L \over A}$$
+3. _(c)_ "Disturbance" means any Clearing, Grading, Excavating, Filling, or other alteration of land surface where natural or man-made cover is destroyed in a manner that exposes the underlying soils, including but not limited to tree and vegetative cover removal.
 
-    where:
+4. _(d)_ "Earth Moving" means any excavating, Cutting or Filling, or any stockpiling thereof.
 
-    * $$S$$ = Average percent slope
-    * $$I$$ = Contour interval, in feet*
-    * $$L$$ = Summation of length of contours, in feet
-    * $$A$$ = Area in acres of parcel being considered
+5. _(e)_ "Erosion" means the general process whereby soils are detached and moved by the flow of surface or subsurface water, wind, ice and gravity.
 
-    \* Calculations of average percent slope should be based upon accurate
-    topographic surveys using a contour interval no greater than ten feet and a
-    horizontal map scale of 1″: 200′ or larger. The area of the zoning lot shall
-    be used in this calculation.
+6. _(f)_ "Excavating" or "Excavation" means removing of soil, trees, vegetative cover, or other materials by any means whatsoever from water or land on or beneath the surface thereof or beneath the land surface, whether exposed or submerged.
 
-1. _(a)_ "Cut" means a portion of land surface or areas from which the earth has
-been removed or will be removed by excavation; the depth below the original
-ground surface or excavating surface.
+7. _(g)_ "Fill" means depositing of soil, rock or other materials by other than natural means.
 
-2. _(b)_ "Earth moving" means any excavating, cutting or filling, or any
-stockpiling thereof.
+8. _(h)_ "Finished Grade" means the final Grade or elevation of the ground surface after Grading is completed.
 
-3. _(c)_ "Erosion" means the general process whereby soils are detached and
-moved by the flow of surface or subsurface water, wind, ice and gravity.
+9. _(i)_ "Geotechnical Engineer" means a Registered Professional Engineer in the State of Ohio with training in geotechnical engineering and experience in slope stability analysis and stabilization methods.
 
-4. _(d)_ "Excavating" means removing of soil or other materials by any means
-whatsoever from water or land on or beneath the surface thereof or beneath the
-land surface, whether exposed or submerged.
+10. _(j)_ "Grading" means any Excavating, Cutting or Filling, stockpiling of land or earth or combination thereof, including the conditions resulting from any of the above.
 
-5. _(e)_ "Fill" means depositing of soil, rock or other materials by other than
-natural means.
+11. _(k)_ "Hillside Area" includes land in all zoning districts in the Municipality with Slopes of fifteen percent (15%) or greater that have a vertical height of ten (10) feet or more.
 
-6. _(f)_ "Finished grade" means the final grade or elevation of the ground
-surface after grading is completed.
+12. _(l)_ "Hillside Influence Zone" includes each Slope within a Hillside Area and the contiguous lateral extension of the height of the Slope at the Toe and the Crest, in each direction for a distance equal to one (1) times the height of the Slope.
 
-7. _(g)_ "Geotechnical Engineer" means a Registered Professional Engineer in the
-State of Ohio with training in geotechnical engineering and experience in slope
-stability analysis and stabilization methods.
+13. _(m)_
 
-8. _(h)_ "Grade" means the degree of rise or descent of a sloping surface.
+    1. _(1)_ "Crest" means the uppermost edge of a hillside where the ground surface transitions from the hillside to a flatter area.
 
-9. _(i)_ "Grading" means any excavating, cutting or filling, stockpiling of land
-or earth or combination thereof, including the conditions resulting from any of
-the above.
+    2. _(2)_ "Toe" means the lowermost edge of a hillside where the ground surface transitions from the hillside to a flatter area.
 
-10. _(j)_ "Hillside area" includes land in all zoning districts in the
-Municipality with an average percent slope of twelve percent (12%) or greater
-and any area contiguous to such a slope within a distance of one times the
-height of the slope.
+    3. _(3)_ "Height of Slope" means the vertical difference in elevation between the Toe and the Crest, measured along the line of steepest descent (or as otherwise demonstrated by site-specific topography).
 
-11. _(k)_ "Hillside control measures" means all of the planning work and control
-that is required and specified by this chapter.
+    4. _(4)_ "Factor of Safety (FoS)" means the ratio of resisting forces to driving forces acting along a potential failure surface. FoS = 1.0 represents limiting equilibrium (unity) between resisting and driving forces.
 
-12. _(l)_ "Impervious surface" means roads, buildings and structures as defined
-in [Section 1107.05][CFCO 1107.05] of the Planning and Zoning Code, tennis
-courts, roofs, driveways, sidewalks, pools, patios, pool decks, decks, parking
-lots and other similar surfaces.
+14. _(n)_ "Comprehensive Geotechnical Investigation (CGI)" means a site-specific subsurface exploration, laboratory testing, groundwater evaluation, and slope stability analysis prepared and sealed by a Geotechnical Engineer consistent with this Chapter.
 
-13. _(m)_ "Natural ground surface" means the ground surface in its original
-state before any grading, excavation or filling.
+15. _(o)_ "Impervious Surface" means roads, buildings and structures as defined in [Section 1107.05][CFCO 1107.05] of the Planning and Zoning Code, tennis courts, roofs, driveways, sidewalks, pools, patios, pool decks, decks, parking lots and other similar surfaces.
 
-14. _(n)_ "Natural vegetation" means plant materials which are indigenous to the
-area and exist on a site prior to any construction or earth moving activity.
+16. _(p)_ "Original Ground Surface" means the ground surface in its original state before any Grading, Excavation or Filling.
 
-15. _(o)_ "Owner/developer/builder" means an individual, firm, association,
-syndicate, limited liability company, limited liability partnership, partnership
-or corporation having sufficient proprietary interest to seek development of
-land.
+17. _(q)_ "Owner/Developer" means an individual, firm, association, syndicate, limited liability company, limited liability partnership, partnership or corporation having sufficient proprietary interest to seek development of land.
 
-16. _(p)_ "Run-off" means the part of precipitation which flows over land
-without filtering into the soil.
+18. _(r)_ "Run-off" means the part of precipitation which flows over land without filtering into the soil.
 
-17. _(q)_ "Undisturbed" means that portion of the parcel to be developed which
-will not be regraded, have any vegetation removed from or have any impervious
-surface constructed on or over as specified in this chapter.\
-(Ord. 2019-39. Passed 8-13-19.)
+19. _(s)_ "Slope" means the degree of rise or descent of a sloping surface.
 
 ## 1152.03   Procedures
 
-Upon the filing of a request for approval of a building permit, grade plan
-approval or subdivision, the Administrator shall use the following procedures to
-determine whether the proposed action is governed by provisions of this chapter
-and whether a hillside protection permit is required for a parcel or part of a
-parcel.
+Upon the filing of a request for approval of a building permit, grade plan approval or subdivision, the Administrator shall determine whether a Hillside Protection Permit is required by applying the objective criteria in this Chapter based on the presence of a "Hillside Area", as defined in [Section 1152.02(k)][CFCO 1152.02(k)] and as shown on the Hillside Area Map attached hereto and made a part hereof as Exhibit "A", to the location of proposed development within the Hillside Influence Zone. The Administrator shall refer to the Hillside Area Map to determine whether a Hillside Area exists at the proposed development, which shall be presumed accurate and the applicant shall have the burden to prove by clear and convincing evidence that the lot(s) upon which a building permit is requested do not have the presence of a Hillside Area as defined in [Section 1152.02(k)][CFCO 1152.02(k)] of this Planning and Zoning Code.
 
-1. _(a)_ The average percent slope shall be calculated, and this information
-shall be supplied by the applicant at the time of filing of the application with
-the Municipality.
+1. _(a)_ In order to obtain a building permit, and when required, a Hillside Protection Permit, the applicant shall submit a topographic survey and slope analysis sufficient to identify all areas of fifteen percent (15%) or greater Slope and to document the height of each such Slope (Toe-to-Crest), including delineation of the Hillside Influence Zone as encompassing each such steep Slope itself and the lateral areas extending horizontally outward from both the Toe and the Crest, in each direction for a distance equal to one (1) times the Height of the Slope. The slope analysis shall be based on contour mapping with an interval no greater than two (2) feet.
 
-2. _(b)_ The application shall be reviewed by the Municipal Engineer who shall
-then notify the Administrator if a hillside protection permit is required.
+2. _(b)_ A Hillside Protection Permit shall be required when any portion of the proposed work area, Grading limits, or proposed improvements are located within a Hillside Influence Zone. The Administrator's determination regarding whether a Hillside Protection Permit is required shall initially be made by reference to the Hillside Area Map attached hereto as Exhibit "A" and based on the submitted slope analysis utilizing the definitions in [Section 1152.02][CFCO 1152.02] of this Planning and Zoning Code, the application of which shall not be discretionary.
 
-3. _(c)_ If a hillside protection permit is required, the owner/developer shall
-be required to include hillside control measures with grading, hydrological and
-landscaping plans as specified in [Section 1152.04][CFCO 1152.04].These plans
-shall be submitted to the Municipal Engineer for approval.
+3. _(c)_ When a Hillside Protection Permit is required, the Owner/Developer shall submit the plans and reports specified in [Section 1152.04][CFCO 1152.04], including a CGI, Grading plan, hydrological control plan, monitoring plan, and landscape plan, as applicable.
 
-4. _(d)_ If it is determined by the Administrator that the action is governed by
-these provisions, then a hillside protection permit shall be required before a
-building permit or subdivision permit is issued to the owner or developer by the
-Municipality. A hillside protection permit shall be issued in phases as
-determined by the Administrator and the Municipal Engineer before the next phase
-permit will be issued.
+4. _(d)_ No building, demolition, Grading, or subdivision permit shall be issued for work governed by this Chapter until a Hillside Protection Permit is issued and the Owner/Developer shall not cause any Disturbance until a Hillside Protection Permit is issued. The Hillside Protection Permit may be issued in phases tied to the approved erosion and sediment controls, Earth Moving stages, and stabilization measures identified in [Section 1152.04][CFCO 1152.04], with phased inspections under [Section 1152.06][CFCO 1152.06].
 
-Refer to [Section 1152.06][CFCO 1152.06] for additional information on
-administration and enforcement.\
-(Ord. 2019-39. Passed 8-13-19.)
+## 1152.04   Required Hillside Control Measures, Standards and Plans
 
-## 1152.04   Required hillside control measures, standards and plans
+The Owner/Developer shall comply with the following provisions. Where a requirement applies only when specified conditions are present, such conditions are stated objectively within the subsection.
 
-The owner/developer shall comply with the following provisions:
+1. _(a)_ **Pre-Construction Record.** A photographic record shall be filed with the Administrator prior to any building, Grading, Clearing, or Earth Moving activity on the parcel(s) to be developed. The record shall depict pre-development conditions in sufficient detail to evaluate compliance during and following completion of construction.
 
-1. _(a)_ **Pre-Construction Record.** A photographic record shall be filed with
-the Administrator prior to any building, grading or clearing activity on the
-parcel to be developed. This record shall completely depict the pre-development
-condition of the parcel in sufficient detail to enable the Administrator to
-evaluate compliance with these regulations during and following completion of
-construction activities under these regulations. The Administrator shall have
-the authority to request additional photographs of pre-development conditions of
-the parcel being developed to satisfy the intent of this section when in his
-opinion such additional records are required.
+2. _(b)_ **Comprehensive Geotechnical Investigation (CGI) Required.** A CGI prepared and sealed by a Geotechnical Engineer shall be submitted with each application for a Hillside Protection Permit for work located within a Hillside Influence Zone. The CGI requirement is mandatory and shall not be waived.
 
-2. _(b)_ **Geotechnical Report.** When deemed necessary by the Municipal
-Engineer, a geotechnical report by a qualified geotechnical engineer that
-addresses all factors pertinent to site stability, both present and future, will
-be required by the Municipal, and shall include the following:
+3. _(c)_ **CGI – Minimum Subsurface Exploration Depth and Extent.** Subsurface exploration shall include soil borings (and, where appropriate, test pits) located to characterize the hillside, the Toe and Crest areas, and the proposed improvement areas. Borings shall extend to a depth sufficient to (1) penetrate all potentially unstable strata; and (2) extend at least five (5) feet below the deepest potential failure surface evaluated for the governing design condition. In no case shall borings be less than the greater of (i) the height of the Slope plus five (5) feet, or (ii) twenty (20) feet below existing grade, unless competent bedrock is encountered and documented.
 
-    1. _(1)_ **Present stability evaluation.** An evaluation of the present
-    stability of the site, based on field exploration that may include test
-    borings and lab testing and stability analysis.
+4. _(d)_ **CGI – Sampling and Laboratory Testing.** The CGI shall include representative disturbed sampling and undisturbed sampling where needed to determine shear strength. Laboratory testing shall, at a minimum, include grain size distribution; Atterberg Limits (Liquid Limit, Plastic Limit, Plasticity Index); natural moisture content; unit weight (moist and saturated where applicable); and shear strength parameters sufficient to support stability analyses.
 
-    2. _(2)_ **Future stability evaluation.** An evaluation of the effect of the
-    planned construction on stability based on the findings under paragraph
-    (c)(1) hereof.
+5. _(e)_ **CGI – Groundwater and Seepage.** The CGI shall document groundwater conditions, including groundwater encountered during drilling, evidence of perched water or seepage, and an evaluation of seasonal/high groundwater where relevant to stability. Where groundwater affects stability, the stability analyses shall account for long-term groundwater levels and seepage forces.
 
-    3. _(3)_ **Recommended strategies.** Detailed strategies to ensure that
-    existing or potential instabilities will be mitigated.
+6. _(f)_ **CGI – Slope Stability Analysis and Factors of Safety.** The CGI shall include slope stability analyses using generally accepted limit-equilibrium or numerical methods. Analyses shall evaluate at least: existing conditions; proposed (post-development) conditions; and temporary construction conditions where applicable. Minimum Factors of Safety (FoS) shall be as follows: (1) Temporary/construction condition: FoS ≥ 1.4; (2) Permanent/long-term condition: FoS ≥ 1.5; (3) Critical Slopes or where failure could impact occupied structures, public streets, or utilities: FoS between 1.7 and 2.0, as appropriate to the consequence of failure and site variability. FoS = 1.0 represents limiting equilibrium (unity) between resisting and driving forces; FoS values in the ranges specified herein are consistent with very low probabilities of failure, commonly cited on the order of approximately 1:10,000 or less for permanent conditions when supported by appropriate investigation and design.
 
-    4. _(4)_ **Instrumentation.**  Instrumentation shall be required where, in
-    the opinion of the Municipal Engineer, there is evidence of slope movement.
-    Such evidence may include damage to contiguous structures, head scarps, toe
-    bulges, open fissures, misalignment of fence lines, vertical drops or any
-    other evidence that suggest past or active slope failure.
+7. _(g)_ **CGI – Recommendations and Mitigation Measures.** The CGI shall provide specific, constructible recommendations to mitigate existing or potential instability, including Grading limits, wall/foundation recommendations, drainage and seepage control measures, and construction sequencing. Where stabilization measures are required, the plans submitted under subsections (h) through (m) shall incorporate those measures.
 
-    5. _(5)_ **Minimum Requirements.**  The Municipal Engineer shall have the
-    authority to set minimum standards for the Geotechnical Report based on
-    current engineering standards and site conditions.
+8. _(h)_ **Instrumentation and Monitoring – Objective Triggers and Monitoring Plan.** Instrumentation and monitoring (e.g., inclinometers, piezometers, survey points) shall be required when any of the following are present: (1) documented prior landslide or slope failure on or adjacent to the site; (2) visible head scarps, toe bulges, open fissures, or distress indicative of movement; or (3) proposed Cuts/Fills or drainage changes within the Hillside Influence Zone that materially increase driving forces or pore pressures as demonstrated by the CGI. A monitoring plan shall be required with each application for a Hillside Protection Permit. The monitoring plan shall define trigger levels, reporting frequency, and response actions.
 
-3. _(c)_ **Grading Plans.** A grading plan shall be required for each lot in
-conformance with [Section 1307.19][CFCO 1307.19] of the Building Code and in
-addition shall show the natural topography of the total parcel to be developed
-and any steep slopes on contiguous properties that, in the opinion of the
-Municipal Engineer, may be affected by the development, the location and size of
-all structures, the finished grade of all improvement locations and the
-dimensions, elevations and contours of any proposed earth moving and shall be
-submitted with each application for a hillside protection permit and shall show
-the following. No building or demolition permits may be issued and no
-construction activity initiated until a grading plan permit is issued:
+9. _(i)_ **Grading Plans.** A Grading plan shall be required for each application for a Hillside Protection Permit, in conformance with [Section 1307.19][CFCO 1307.19] of the Building Code and shall also show: the existing topography of the total parcel; the location and extent of all Hillside Influence Zones; the limits of Disturbance; the location and size of all structures; Finished grades; and the dimensions, elevations, and contours of all proposed Excavation, Cut, Fill, or retaining structures. No building or demolition permits may be issued and no construction activity initiated until a Grading plan permit is issued.
 
-    1. _(1)_ **A detailed topographic map.** A contour map with two-foot
-    intervals or suitable cross sections or profiles of areas where streets,
-    driveways, buildings, utilities or grading construction is proposed shall be
-    required.
+10. _(j)_ **Earth Moving Controls.** The following minimum standards shall apply: (1) Minimum alterations. Earth Moving shall be limited to the minimum required for building foundations, driveways, drainage control structures and immediate yard areas. (2) Erosion control. All Earth Moving shall employ best management practices to minimize airborne or waterborne transportation of soil. (3) Compaction. All fill shall be placed and compacted in accordance with the CGI recommendations and generally accepted engineering standards, with testing and certification as specified in the CGI. (4) Prompt completion. All Earth Moving shall be accomplished in the shortest practical period of time. (5) Cut and Fill geometry. Cut and Fill Slopes shall be designed and constructed to meet the stability requirements of subsection (f) and shall not exceed three horizontal to one vertical (3H:1V) unless a CGI demonstrates stability at steeper slopes and provides specific stabilization measures.
 
-    2. _(2)_ **Road profiles.** Profiles and cross sections of all significant
-    changes in the cross slopes; the cross section to show proposed and natural
-    grade at the centerline of the road, the right-of-way line and the proposed
-    building setback lines shall be required.
+11. _(k)_ **Hydrological Controls.** (1) Natural channels. Natural drainage ways shall be preserved to the maximum extent possible. (2) Controlled Run-off. Run-off from concentrated Impervious Surfaces shall be collected and transported in a pipe or other approved manner to an available storm sewer system, or if unavailable, to the bottom of a ravine in a safe, adequate and nonerosive manner. (3) Interceptor drains/ditches. Where indicated by the CGI to reduce infiltration, seepage, or pore pressure, interceptor drains or ditches shall be established above Hillside Areas and conveyed by pipe or other approved manner to an appropriate discharge point. (4) Discharge stabilization. Drainage and culvert discharge points shall be stabilized for a distance sufficient to prevent Erosion and dissipate energy. (5) Early completion. The overall drainage system shall be completed and made operational at the earliest possible time during construction. (6) Adjacent property impacts. Natural or usual flow of surface or subsurface water shall not be altered or obstructed in a manner that adversely affects other property.
 
-    3. _(3)_ **Special terrain notes.** Notes and details of existing terrain
-    shall be shown over the required topographic information.
+12. _(l)_ **Hydrological Control Plan.** A hydrological control plan prepared by a registered professional civil engineer or landscape architect shall be submitted with each application for a Hillside Protection Permit. The plan shall include: (1) drainage basin flow directions; (2) all natural drainage channels within fifty (50) feet of the perimeter of the site; (3) other drainage ways that may affect or be affected; (4) notations of seepage/spring flow areas; and (5) the location and details of surface and subsurface drainage devices and protective measures.
 
-    4. _(4)_ **Material disposal.** A description shall be included of methods
-    to be employed in disposing of soil and other material removed, including
-    the location of the disposal site.
+13. _(m)_ **Vegetation, Revegetation, and Landscape Plan.** (1) Shortest duration. Soil exposure shall be kept to as short a duration of time as practical. (2) Temporary measures. Temporary vegetation, mulch, mats, or other acceptable cover shall be used as needed to protect exposed areas during development. (3) Revegetation. A mix of plantings, preferably native with adequate deep root systems, shall be used to stabilize disturbed Hillside Areas. (4) Landscape plan. A landscape plan prepared or approved in writing by a registered landscape architect shall be submitted and shall include an inventory of existing vegetation, areas to be removed, proposed revegetation, and written stabilization methods. Unless otherwise provided in this [Chapter 1152][CFCO 1152], the timeline for Disturbance and restoration shall conform to the requirements set forth in Codified Ordinance [Section 1355.09][CFCO 1355.09] or [1355.10][CFCO 1355.10] when a SWP3 or abbreviated SWP3 plan would be applicable.
 
-    5. _(5)_ **Timetable.** A schedule shall be included showing when each stage
-    of the project will be completed, including the estimated starting and
-    completion dates.
+14. _(n)_ **Driveways.** The maximum Slope on driveways shall not exceed ten percent (10%). In the event of any conflict between this Subsection and [Chapter 903][CFCO 903] of the Codified Ordinances of the Municipality, this Subsection shall control.
 
-4. _(d)_ **Earth Moving Controls.** The following minimum standards shall apply
-to earth moving:
+15. _(o)_ **Limits of Disturbance.** Whenever a Hillside Area contains slopes of at least fifteen percent (15%) up to twenty-four and ninety-nine hundredths' percent (24.99%), the maximum Disturbance allowed within a Hillside Influence Zone shall not exceed sixty percent (60%). Whenever a Hillside Area contains slopes of twenty-five percent (25%) up to thirty-nine and ninety-nine hundredths' percent (39.99%), the maximum Disturbance of the Hillside Influence Zone shall not exceed forty percent (40%). Whenever a Hillside Area contains slopes of forty percent (40%) or greater on any lot, any buildings, utilities, drainage, access ways and stabilization work shall only be permitted when the Administrator determines that the CGI confirms that such Disturbance and installation of improvements will be safe, the Disturbance and installation of improvement will be the minimum necessary and will Disturb no more than twenty percent (20%) of the Hillside Influence Zone.
 
-    1. _(1)_ **Minimum alterations.** Earth moving shall be limited to the
-    minimum required for building foundations, driveways, drainage control
-    structures and immediate yard areas.
+16. _(p)_ **Excluded Activities.** This Chapter shall not be interpreted to prohibit normal landscape maintenance or routine arboreal activities, small-scale planting of ornamental flowers or shrubs, or removal of diseased, dead, or damaged trees, provided that such activities are performed to conform with the vegetation and Erosion control standards herein and do not include Earth Moving within a Hillside Area beyond minor handwork.
 
-    2. _(2)_ **Erosion control.** All earth moving shall create the lowest
-    possible potential for airborne or waterborne transportation of soil.
+## 1152.05   Hold Harmless Provisions
 
-    3. _(3)_ **Compaction.**  All fill shall be stabilized in conformance with
-    generally accepted engineering standards, including a compacted density in
-    conformance with the approved Geotechnical Report.
+The following hold harmless provisions pertain to any construction or any Earth Moving activities permitted by the administration of this chapter:
 
-    4. _(4)_ **Prompt completion.** All earth moving shall be accomplished in
-    the shortest practical period of time. In no event shall the existing
-    natural vegetation be destroyed, removed or disturbed more than fifteen days
-    prior to the initiation of construction.
+1. _(a)_ **Limited Obligation.** Compliance with the procedures of this chapter and the issuance of any related permits shall not be construed to impose any legal obligation upon the Municipality or its elected or appointed officials.
 
-    5. _(5)_ **Cut and fill.** Cut and fill slopes shall be no steeper than two
-    horizontal to one vertical; fill slopes shall not be located on natural
-    slopes steeper than 2:1; or where fill slope toes out within twelve feet
-    horizontal of the top of an existing or planned cut slope.
+2. _(b)_ **Civil Claims.** Compliance with the procedures of this chapter and the issuance of related permits shall not relieve the property owner from civil liability claims by other property owners.
 
-5. _(e)_ **Hydrological Controls.** The following standards shall apply to
-hydrological controls:
+3. _(c)_ **Endorsement.** Compliance with the procedures of this chapter and the issuance of related permits do not imply approval of the need for or the benefit or efficacy of the proposed construction; nor does it constitute any assertion that the proposed construction will not result in damage to the property in question or to adjoining property.
 
-    1. _(1)_ **Natural channels.** Natural drainage ways shall be preserved to
-    the maximum extent possible.
+## 1152.06   Administration and Enforcement
 
-    2. _(2)_ **Controlled run-off.** Run-off from concentrated impervious
-    surfaces shall be collected and transported in a pipe or other approved
-    manner to a Municipal storm sewer system if available, or if unavailable, to
-    the bottom of a ravine in a safe, adequate and nonerosive manner. Where
-    required by the Municipal Engineer, storm water retention facilities shall
-    be installed.
+1. _(a)_ **Administration and Enforcement.** As prescribed in [Chapter 1109][CFCO 1109] of the Planning and Zoning Code.
 
-    3. _(3)_ **Interceptor ditches.** Where required, interceptor ditches shall
-    be established above steep slopes in such a way as not to saturate or erode
-    soil, and the intercepted water shall be conveyed in a pipe or other
-    approved manner to a Municipal storm sewer system or to the bottom of a
-    ravine or steep slope.
+2. _(b)_ **Additional Site Inspections.** Additional site inspections shall be scheduled by the Administrator or Engineer during and upon completion of each phase of the hillside development. Construction activity shall be halted if it is found upon inspection that a situation exists or could result which endangers the health, safety or welfare of adjacent property owners.
 
-    4. _(4)_ **Discharge point stabilization.** Natural drainage ways shall be
-    established by means consistent with sound professional engineering
-    practice, below drainage and culvert discharge points for a distance
-    sufficient to convey the discharge without channel erosion and in such
-    manner as to dissipate the energy of the discharge.
+3. _(c)_ **Appeals.** As prescribed in [Chapter 1111][CFCO 1111] of the Planning and Zoning Code.
 
-    5. _(5)_ **Early completion.** The overall drainage system shall be
-    completed and made operational at the earliest possible time during
-    construction.
+4. _(d)_ **Severability.** If for any reason, any clause, sentence, paragraph, section or other part of these Hillside Protection Regulations should be decided by a court of competent jurisdiction to be invalid, such judgment shall not affect the validity of these Hillside Protection Regulations as a whole, or any part thereof, other than the part so held to be invalid.
 
-    6. _(6)_ **Impact on adjacent property.** Natural or usual flow of surface
-    or subsurface water shall not be altered or obstructed in any way by grade
-    changes that may adversely affect the property of another by either
-    contributing to pooling or collection of waters, or to the concentration or
-    intensification of surface water discharge. However, construction which
-    might otherwise be prohibited hereinabove may be allowed if such waters are
-    safely and adequately drained in a nonerosive manner by a pipe or other
-    approved manner to a storm sewer or to a channel at the bottom of a ravine
-    or steep slope.
+5. _(e)_ **Relation To Other Laws.** The provisions of these Regulations shall supplement any and all laws of the State, ordinances of the Municipality or any and all rules and regulations promulgated by authority of such law or ordinance relating to the purpose and scope of these Regulations. Whenever the requirements of any other lawfully adopted law, ordinance, regulation, resolution or rule, conflict with or similarly regulate the same subject matter as the Hillside Protection Regulations, the more restrictive or that imposing the higher standards shall govern.
 
-6. _(f)_ **Hydrological Control Plan.** A hydrological control plan, prepared by
-a registered professional civil engineer or landscape architect, shall be
-submitted with each application for a hillside protection permit. This plan
-shall include the following:
+6. _(f)_ Nothing contained in this Chapter is intended to waive or conflict with the requirements of the Ohio Building Code. Where applicable, any geotechnical investigation shall comply with Ohio Building Code [Chapter 1803][OBC 1803] in addition to the requirements set forth in this [Chapter 1152][CFCO 1152].\
+([Ord. 2026-54][CFO 2026-54-3]. Passed 9-28-26.)
 
-    1. _(1)_ **Hydrologic inventory.** A reasonably detailed description of:
+## Exhibit "A"
 
-        1. _(A)_ The direction of flow within the local drainage basin;
-
-        2. _(B)_ All natural drainage channels directed toward and away from the
-        site within fifty feet of the perimeter of the site;
-
-        3. _(C)_ Other natural drainage ways which may affect or be affected by
-        the proposal; and
-
-        4. _(D)_ Any future realignment of the natural ravine channel.
-
-    2. _(2)_ **Special notations.** Special notations shall be included
-    highlighting details of the terrain, existing natural surface drainage and
-    areas subject to seepage or spring flow.
-
-    3. _(3)_ **Proposed facilities.** The location of all surface and subsurface
-    drainage devices and protective measures to be installed as part of the
-    proposed development, together with a statement concerning any active
-    erosion occurring at the outlet of existing or proposed systems.
-
-7. _(g)_ **Vegetation and Revegetation.** The following standards shall apply to
-vegetation and revegetation of Hillside Areas:
-
-    1. _(1)_ **Shortest duration.** Soil exposure shall be kept to as short a
-    duration of time as practical.
-
-    2. _(2)_ **Temporary measures.** When required by the Municipal Engineer,
-    temporary vegetation, mulch or other acceptable cover shall be used to
-    protect areas exposed during development and to prevent airborne or
-    waterborne transportation of soil.
-
-    3. _(3)_ **Revegetation.**  A mix of plantings (preferably native with
-    adequate deep root systems) shall be used to landscape steep slope areas
-    disturbed by earth moving and construction.
-
-8. _(h)_ **Landscape Plan.**  A landscape plan, prepared or approved in writing
-by a professional registered landscape architect trained and experienced in both
-the characteristics of plant material and proper procedures for installation,
-shall be submitted with each application for a hillside protection permit. This
-plan shall include the following:
-
-    1. _(1)_ **Existing inventory.** A site plan inventory describing the
-    existing vegetation cover of the property and showing those areas where the
-    vegetation will be removed as part of the proposed development.
-
-    2. _(2)_ **Revegetation.** A site plan describing proposed revegetation of
-    disturbed areas and specifying the materials to be used.
-
-    3. _(3)_ **Written description.** A detailed description of any slope
-    stabilization and revegetation methods, together with the rationale for
-    selecting the plant materials and planting techniques to be used.
-
-9. _(i)_ **Driveways.**  The maximum grade on driveways shall not exceed ten
-percent (10%). Each drive shall provide sufficient space and distance so that
-any vehicle entering or leaving the premises shall be traveling in a forward
-motion.
-
-10. _(j)_ **Excluded Activities.**  This chapter shall not be interpreted to
-prohibit normal landscape maintenance or routine arboreal activities or to
-prohibit small scale planting of ornamental flowers or shrubs, or the removal of
-diseased, dead or damaged trees. However, such activities shall be carried out
-to conformance with the standards of vegetation or revegetation of this
-chapter.\
-(Ord. 2019-39. Passed 8-13-19.)
-
-## 1152.05   Hold harmless provisions
-
-The following hold harmless provisions pertain to any construction or any earth
-moving activities permitted by the administration of this chapter:
-
-1. _(a)_ **Limited Obligation.** Compliance with the procedures of this chapter
-and the issuance of any related permits shall not be construed to impose any
-legal obligation upon the Municipality or its elected or appointed officials.
-
-2. _(b)_ **Civil Claims.** Compliance with the procedures of this chapter and
-the issuance of related permits shall not relieve the property owner from civil
-liability claims by other property owners.
-
-3. _(c)_ **Endorsement.** Compliance with the procedures of this chapter and the
-issuance of related permits do not imply approval of, the need for or the
-benefit or efficacy of the proposed construction; nor does it constitute any
-assertion that the proposed construction will not result in damage to the
-property in question or to adjoining property.\
-(Ord. 2019-39. Passed 8-13-19.)
-
-## 1152.06   Administration and enforcement
-
-1. _(a)_ **Administration and Enforcement.** As prescribed in Chapter 1109 of
-the Planning and Zoning Code.
-
-2. _(b)_ **Additional Site Inspections.** Additional site inspections shall be
-scheduled by the Administrator or Engineer during and upon completion of each
-phase of the hillside development. Construction activity shall be halted if it
-is found upon inspection that a situation exists or could result which endangers
-the health, safety or welfare of adjacent property owners.
-
-3. _(c)_ **Appeals.**  As prescribed in Chapter 1111 of the Planning and Zoning
-Code.
-
-4. _(d)_ **Severability.** If for any reason, any change, sentence paragraph,
-section or other part of these Hillside Protection Regulations should be decided
-by a court of competent jurisdiction to be invalid, such judgment shall not
-affect the validity of these Hillside Protection Regulations as a whole, or any
-part thereof, other than the part so held to be invalid.
-
-5. _(e)_ **Relation To Other Laws.**  The provision of these Regulations shall
-supplement any and all laws of the State, ordinances of the Municipality or any
-and all rules and regulations promulgated by authority of such law or ordinance
-relating to the purpose and scope of these Regulations. Whenever the
-requirements of any other lawfully adopted law, ordinance, regulation,
-resolution or rule, conflict with or similarly regulate the same subject matter
-as the Hillside Protection Regulations, the more restrictive or that imposing
-the higher standards shall govern.\
-(Ord. 2019-39. Passed 8-13-19.)
+![Steep Slopes](/assets/images/1152-exhibit-a.jpg)
 
 [CFCO 1107.05]:</chapters/chapter-1107-definitions/#110705-bank-credit-union-savings-association>
+[CFCO 1109]:</chapters/chapter-1109-administration-and-enforcement/>
+[CFCO 1111]:</chapters/chapter-1111-appeals-and-variances/>
+[CFCO 1152.02(k)]:</chapters/chapter-1152-hillside-protection/#115202(k)>
+[CFCO 1152.02]:</chapters/chapter-1152-hillside-protection/#115202-definitions>
 [CFCO 1152.04]:</chapters/chapter-1152-hillside-protection/#115204-required-hillside-control-measures-standards-and-plans>
 [CFCO 1152.06]:</chapters/chapter-1152-hillside-protection/#115206-administration-and-enforcement>
+[CFCO 1152]:</chapters/chapter-1152-hillside-protection/>
 [CFCO 1307.19]:</chapters/chapter-1307-building-permits/#130719-preliminary-plot-plan-required>
+[CFCO 1355.09]:</chapters/chapter-1355-erosion-and-sediment-control/#135509-performance-standards>
+[CFCO 1355.10]:</chapters/chapter-1355-erosion-and-sediment-control/#135510-abbreviated-swp3>
+[CFCO 903]:</chapters/chapter-903-sidewalk-and-driveway-apron-construction-and-repair/>
+[CFO 2026-54-3]:</ordinance-2026-54-3/>
+[OBC 1803]:<https://codes.iccsafe.org/content/OHBC2024P1/chapter-18-soils-and-foundations#OHBC2024P1_Ch18_Sec1803>
