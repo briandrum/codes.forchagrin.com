@@ -80,7 +80,7 @@ The Architectural Board of Review may not act without a quorum present. A quorum
 
     1. _(1)_ Specify how, architecturally, the proposed design compares, relates or fits with the adjacent, contiguous and neighboring properties.
 
-    2. _(2)_ Specify how the proposed design compares, relates or fits with the Village of Chagrin Falls Design Guidelines in terms of (i) architectural style, (ii) massing, (iii) proportion, (iv) setback, (v) distance, (vi) orientation, (vii) height, (viii) exteriors, (ix) roof elements, (x) windows and doors, and (xi) porches and entry features.
+    2. _(2)_ Specify how the proposed design compares, relates or fits with the [Village of Chagrin Falls Design Guidelines][] in terms of (i) architectural style, (ii) massing, (iii) proportion, (iv) setback, (v) distance, (vi) orientation, (vii) height, (viii) exteriors, (ix) roof elements, (x) windows and doors, and (xi) porches and entry features.
 
 4. _(d)_ Any application form utilized by the Chief Administrative Office of the Village for applications to the Architectural Board of Review shall have an attachment in an appropriate form determined by the Chief Administrative Officer, incorporating the criteria set forth in Codified Ordinance [Section 137.08(c)][CFCO 137.08(c)].\
 (Ord. 2016-70. Passed 11-14-16.)
@@ -88,3 +88,4 @@ The Architectural Board of Review may not act without a quorum present. A quorum
 [CFC 7.9]:</articles/article-vii-administrative-officers-departments-boards-and-commissions/#section-vii-9-architectural-board-of-review>
 [CFCO 137.08(c)]:</chapters/chapter-137-architectural-board-of-review/#13708(c)>
 [CFO 2024-32-6]:</ordinance-2024-32-6/>
+[Village of Chagrin Falls Design Guidelines]:<https://archive.org/details/village-of-chagrin-falls-design-guidelines>
